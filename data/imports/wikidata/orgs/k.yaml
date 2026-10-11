@@ -1,0 +1,761 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: k-wah-international
+    type: org
+    name: K. Wah International
+    names:
+      zh: 嘉華國際集團
+      en: K. Wah International
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Hong Kong–based property developer
+    ids:
+      wikidata: Q4041960
+    links:
+      - https://en.wikipedia.org/wiki/K._Wah_International
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4041960
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kahle-austin-foundation
+    type: org
+    name: Kahle/Austin Foundation
+    names:
+      en: Kahle/Austin Foundation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: non-profit organization
+    ids:
+      wikidata: Q123411759
+    links:
+      - https://en.wikipedia.org/wiki/Kahle-Austin_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q123411759
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kansas-house-of-representatives
+    type: org
+    name: Kansas House of Representatives
+    names:
+      zh: 堪萨斯州众议院
+      en: Kansas House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the legislature of the U.S. state of Kansas
+    ids:
+      wikidata: Q1525545
+    links:
+      - https://en.wikipedia.org/wiki/Kansas_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1525545
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kansas-senate
+    type: org
+    name: Kansas Senate
+    names:
+      zh: 堪萨斯州参议院
+      en: Kansas Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the Kansas Legislature
+    ids:
+      wikidata: Q1525955
+    links:
+      - https://en.wikipedia.org/wiki/Kansas_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1525955
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kansas-state-university
+    type: org
+    name: Kansas State University
+    names:
+      zh: 堪萨斯州立大学
+      en: Kansas State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public university in the state of Kansas
+    ids:
+      wikidata: Q31249
+    links:
+      - https://en.wikipedia.org/wiki/Kansas_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q31249
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kate-spade-new-york
+    type: org
+    name: Kate Spade New York
+    names:
+      zh: 凱特絲蓓紐約
+      en: Kate Spade New York
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美国时尚公司
+    ids:
+      wikidata: Q6375797
+    links:
+      - https://en.wikipedia.org/wiki/Kate_Spade_New_York
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6375797
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kean-university
+    type: org
+    name: Kean University
+    names:
+      zh: 肯恩大學
+      en: Kean University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: public university in New Jersey, United States
+    ids:
+      wikidata: Q6382148
+    links:
+      - https://en.wikipedia.org/wiki/Kean_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6382148
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kellogg-school-of-management
+    type: org
+    name: Kellogg School of Management
+    names:
+      zh: 凯洛格管理学院
+      en: Kellogg School of Management
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: business school of Northwestern University
+    ids:
+      wikidata: Q1142073
+    links:
+      - https://en.wikipedia.org/wiki/Kellogg_School_of_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1142073
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kent-state-university
+    type: org
+    name: Kent State University
+    names:
+      zh: 肯特州立大学
+      en: Kent State University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国俄亥俄州大学
+    ids:
+      wikidata: Q1473615
+    links:
+      - https://en.wikipedia.org/wiki/Kent_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1473615
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kentucky-house-of-representatives
+    type: org
+    name: Kentucky House of Representatives
+    names:
+      zh: 肯塔基州众议院
+      en: Kentucky House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the Kentucky General Assembly
+    ids:
+      wikidata: Q1494716
+    links:
+      - https://en.wikipedia.org/wiki/Kentucky_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494716
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kentucky-office-of-the-attorney-general
+    type: org
+    name: Kentucky Office of the Attorney General
+    names:
+      en: Kentucky Office of the Attorney General
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q133810296
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q133810296
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kentucky-senate
+    type: org
+    name: Kentucky Senate
+    names:
+      zh: 肯塔基州参议院
+      en: Kentucky Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the Kentucky General Assembly
+    ids:
+      wikidata: Q1494879
+    links:
+      - https://en.wikipedia.org/wiki/Kentucky_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494879
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kenyon-college
+    type: org
+    name: Kenyon College
+    names:
+      zh: 凯尼恩学院
+      en: Kenyon College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美國俄亥俄州甘比爾的私立文理學院
+    ids:
+      wikidata: Q1797768
+    links:
+      - https://en.wikipedia.org/wiki/Kenyon_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1797768
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kettering-university
+    type: org
+    name: Kettering University
+    names:
+      zh: 凯特凌大学
+      en: Kettering University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university in Flint, Michigan
+    ids:
+      wikidata: Q6395480
+    links:
+      - https://en.wikipedia.org/wiki/Kettering_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6395480
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: khosla-ventures
+    type: org
+    name: Khosla Ventures
+    names:
+      zh: 科斯拉风险投资公司
+      en: Khosla Ventures
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American venture capital firm
+    ids:
+      wikidata: Q6402513
+    links:
+      - https://en.wikipedia.org/wiki/Khosla_Ventures
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6402513
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kimpton-tideline-ocean-resort-and-spa
+    type: org
+    name: Kimpton Tideline Ocean Resort & Spa
+    names:
+      en: Kimpton Tideline Ocean Resort & Spa
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: luxury hotel in Palm Beach, Florida
+    ids:
+      wikidata: Q7090741
+    links:
+      - https://en.wikipedia.org/wiki/Tideline_Ocean_Resort_%26_Spa
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7090741
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kinder-morgan
+    type: org
+    name: Kinder Morgan
+    names:
+      zh: 美国金德摩根公司
+      en: Kinder Morgan
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: company
+    ids:
+      wikidata: Q931032
+    links:
+      - https://en.wikipedia.org/wiki/Kinder_Morgan
+    sources:
+      - url: https://www.wikidata.org/wiki/Q931032
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: king-s-college
+    type: org
+    name: King's College
+    names:
+      zh: 剑桥大学国王学院
+      en: King's College
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 3
+    summary: 1441年创建的一所学校
+    ids:
+      wikidata: Q924289
+    links:
+      - https://en.wikipedia.org/wiki/King's_College%2C_Cambridge
+    sources:
+      - url: https://www.wikidata.org/wiki/Q924289
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: king-s-college-london
+    type: org
+    name: King's College London
+    names:
+      zh: 伦敦国王学院
+      en: King's College London
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 2
+    summary: 英国大学
+    ids:
+      wikidata: Q245247
+    links:
+      - https://en.wikipedia.org/wiki/King's_College_London
+    sources:
+      - url: https://www.wikidata.org/wiki/Q245247
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kingdom-5kr
+    type: org
+    name: Kingdom 5KR
+    names:
+      en: Kingdom 5KR
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: motor yacht built by Benetti
+    ids:
+      wikidata: Q286493
+    links:
+      - https://en.wikipedia.org/wiki/Kingdom_5KR
+    sources:
+      - url: https://www.wikidata.org/wiki/Q286493
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kingston-technology
+    type: org
+    name: Kingston Technology
+    names:
+      zh: 金士頓科技
+      en: Kingston Technology
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國科技公司
+    ids:
+      wikidata: Q683771
+    links:
+      - https://en.wikipedia.org/wiki/Kingston_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q683771
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kirkland-and-ellis
+    type: org
+    name: Kirkland & Ellis
+    names:
+      zh: 凯易律师事务所
+      en: Kirkland & Ellis
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: law firm in the United States, based in Chicago, Illinois
+    ids:
+      wikidata: Q1743511
+    links:
+      - https://en.wikipedia.org/wiki/Kirkland_%26_Ellis
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1743511
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kirkus-reviews
+    type: org
+    name: Kirkus Reviews
+    names:
+      zh: 科克斯书评
+      en: Kirkus Reviews
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: American book review magazine
+    ids:
+      wikidata: Q3197403
+    links:
+      - https://en.wikipedia.org/wiki/Kirkus_Reviews
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3197403
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kissinger-associates
+    type: org
+    name: Kissinger Associates
+    names:
+      en: Kissinger Associates
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: consulting firm
+    ids:
+      wikidata: Q3197516
+    links:
+      - https://en.wikipedia.org/wiki/Kissinger_Associates
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3197516
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: knight-commission-on-the-information-needs-of-communities-in-a-democracy
+    type: org
+    name: Knight Commission on the Information Needs of Communities in a Democracy
+    names:
+      en: Knight Commission on the Information Needs of Communities in a Democracy
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: commission report
+    ids:
+      wikidata: Q6422216
+    links:
+      - https://en.wikipedia.org/wiki/Knight_Commission_on_the_Information_Needs_of_Communities_in_a_Democracy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6422216
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: knight-foundation
+    type: org
+    name: Knight Foundation
+    names:
+      en: Knight Foundation
+    orgType: foundation
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American nonprofit organization established by Phil and Penny Knight
+    ids:
+      wikidata: Q141192656
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q141192656
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: knowledge-standards-foundation
+    type: org
+    name: Knowledge Standards Foundation
+    names:
+      en: Knowledge Standards Foundation
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: US foundation writing technical standards for encyclopedia articles
+    ids:
+      wikidata: Q107363790
+    links:
+      - https://en.wikipedia.org/wiki/Knowledge_Standards_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q107363790
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: koch-inc
+    type: org
+    name: Koch, Inc.
+    names:
+      zh: 科氏工業集團
+      en: Koch, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 企业
+    ids:
+      wikidata: Q1496384
+    links:
+      - https://en.wikipedia.org/wiki/Koch%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1496384
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: koha-ld
+    type: org
+    name: KOHA-LD
+    names:
+      en: KOHA-LD
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Telemundo affiliate in Omaha, Nebraska
+    ids:
+      wikidata: Q16998626
+    links:
+      - https://en.wikipedia.org/wiki/KOHA-LD
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16998626
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kohlberg-kravis-roberts
+    type: org
+    name: Kohlberg Kravis Roberts
+    names:
+      zh: 科尔伯格－克拉维斯－罗伯茨
+      en: Kohlberg Kravis Roberts
+    orgType: company
+    country:
+      - US
+      - GB
+    sectors:
+      - business
+    tier: 3
+    summary: 私募股權基金經理
+    ids:
+      wikidata: Q1570773
+    links:
+      - https://en.wikipedia.org/wiki/KKR_%26_Co.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1570773
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kolour
+    type: org
+    name: 千色汇
+    names:
+      zh: 千色汇
+      en: KOLOUR
+    orgType: company
+    country:
+      - HK
+    sectors:
+      - business
+    tier: 4
+    summary: 香港地產公司
+    ids:
+      wikidata: Q1604969
+    links:
+      - https://en.wikipedia.org/wiki/Henderson_Land_Development
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1604969
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: koru
+    type: org
+    name: Koru
+    names:
+      en: Koru
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: luxury sailing yacht built in 2023
+    ids:
+      wikidata: Q106981919
+    links:
+      - https://en.wikipedia.org/wiki/Koru_(yacht)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106981919
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kroenke-sports-and-entertainment
+    type: org
+    name: Kroenke Sports & Entertainment
+    names:
+      zh: 克倫克體育與娛樂公司
+      en: Kroenke Sports & Entertainment
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: an American sports and entertainment holding company based in Denver, Colorado
+    ids:
+      wikidata: Q29438842
+    links:
+      - https://en.wikipedia.org/wiki/Kroenke_Sports_%26_Entertainment
+    sources:
+      - url: https://www.wikidata.org/wiki/Q29438842
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kroger
+    type: org
+    name: Kroger
+    names:
+      zh: 克羅格
+      en: Kroger
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American multinational retailing company
+    ids:
+      wikidata: Q153417
+    links:
+      - https://en.wikipedia.org/wiki/Kroger
+    sources:
+      - url: https://www.wikidata.org/wiki/Q153417
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kuang-chi
+    type: org
+    name: 深圳光启集团
+    names:
+      zh: 深圳光启集团
+      en: Kuang-Chi (China)
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国公司
+    ids:
+      wikidata: Q30274170
+    links:
+      - https://en.wikipedia.org/wiki/Kuang-Chi
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30274170
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kurzweil-educational-systems
+    type: org
+    name: Kurzweil Educational Systems
+    names:
+      en: Kurzweil Educational Systems
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: company
+    ids:
+      wikidata: Q12403228
+    links:
+      - https://en.wikipedia.org/wiki/Kurzweil_Educational_Systems
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12403228
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kurzweil-music-systems
+    type: org
+    name: Kurzweil Music Systems
+    names:
+      zh: 庫茲維爾音樂系統
+      en: Kurzweil Music Systems
+    orgType: company
+    country:
+      - KR
+    sectors:
+      - business
+    tier: 4
+    summary: company that produces electronic musical instruments
+    ids:
+      wikidata: Q495548
+    links:
+      - https://en.wikipedia.org/wiki/Kurzweil_Music_Systems
+    sources:
+      - url: https://www.wikidata.org/wiki/Q495548
+        publisher: Wikidata
+        accessed: 2026-10-11

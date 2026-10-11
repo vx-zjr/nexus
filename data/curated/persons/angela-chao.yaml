@@ -1,0 +1,19 @@
+id: angela-chao
+type: person
+name: Angela Chao
+names:
+  en: Angela Chao
+  zh: 赵安吉
+gender: F
+born: '1973'
+died: '2024-02-10'
+country:
+- US
+sectors:
+- business
+tier: 4
+summary: 赵小兰之妹，福茂集团董事长兼 CEO；2024-02 意外身亡。
+sources:
+- url: https://en.wikipedia.org/wiki/Angela_Chao
+  publisher: Wikipedia
+updated: '2026-10-11'

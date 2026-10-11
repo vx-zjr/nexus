@@ -1,0 +1,58 @@
+id: family-chao-mcconnell
+kind: family
+name: 赵锡成家族与麦康奈尔
+country:
+- US
+- CN
+head: james-s-c-chao
+summary: 美国政坛与中国国企/官方的典型“桥梁”家族：赵锡成—江泽民校友关系；福茂集团的中国造船与融资；赵小兰两度入阁；女婿麦康奈尔为参院共和党领袖。
+core:
+- james-s-c-chao
+- elaine-chao
+- angela-chao
+- mitch-mcconnell
+outer:
+- foremost-group
+- jiang-zemin
+sources:
+- url: https://www.allsides.com/news/2019-06-03-0700/politics-chao-family-deep-ties-worlds-2-largest-economies
+  title: For the Chao Family, Deep Ties to the World's 2 Largest Economies (NYT, 2019-06-02)
+  publisher: The New York Times（AllSides 摘要）
+  date: '2019-06-02'
+- url: https://amp.cnn.com/cnn/2019/06/03/politics/elaine-chao-china
+  title: Elaine Chao family ties to China (NYT investigation recap)
+  publisher: CNN
+  date: '2019-06-03'
+relations:
+- - james-s-c-chao
+  - parent
+  - elaine-chao
+  - 长女
+- - james-s-c-chao
+  - parent
+  - angela-chao
+  - 女
+- - elaine-chao
+  - sibling
+  - angela-chao
+  - 妹
+- from: mitch-mcconnell
+  to: elaine-chao
+  type: spouse
+  since: '1993'
+- - james-s-c-chao
+  - founder
+  - foremost-group
+- - angela-chao
+  - position
+  - foremost-group
+  - 董事长兼 CEO
+- from: james-s-c-chao
+  to: jiang-zemin
+  type: classmate
+  label: 上海求学时期校友（交通大学）
+  confidence: reported
+tags:
+- family
+- cross-border
+updated: '2026-10-11'

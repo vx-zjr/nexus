@@ -1,0 +1,2007 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: xavier-becerra
+    type: person
+    name: Xavier Becerra
+    names:
+      zh: 哈維·貝西拉
+      en: Xavier Becerra
+    gender: M
+    born: 1958-01-26
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: American attorney and politician (born 1958)
+    ids:
+      wikidata: Q1855840
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%93%88%E7%B6%AD%E7%88%BE%C2%B7%E8%B2%9D%E5%A1%9E%E6%8B%89
+      - https://en.wikipedia.org/wiki/Xavier_Becerra
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 31
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1855840
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國衛生與公共服務部長
+        org: united-states-department-of-health-and-human-services
+        from: 2021-03-19
+        to: 2025-01-20
+      - title: 加利福尼亞州司法部長
+        from: 2017-01-24
+        to: 2021-03-18
+      - title: 美國眾議院民主黨黨團主席
+        from: 2013-01-03
+        to: 2017-01-03
+      - title: 美國眾議院民主黨黨團副主席
+        from: 2009-01-03
+        to: 2013-01-03
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: "1990"
+        to: "1992"
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2017-01-24
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: deputy attorney general
+        from: "1987"
+        to: "1990"
+  - id: xi-heping
+    type: person
+    name: Xi Heping
+    names:
+      zh: 习和平
+      en: Xi Heping
+    gender: F
+    born: "1938"
+    died: "1968"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: 習仲勳長女，文革中不堪批鬥而自盡
+    ids:
+      wikidata: Q104837711
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104837711
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xi-jinping
+    type: person
+    name: 习近平
+    names:
+      zh: 习近平
+      en: Xi Jinping
+    gender: M
+    born: 1953-06-15
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 1
+    summary: 中国共产党中央委员会总书记（2012年至今）
+    ids:
+      wikidata: Q15031
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%A0%E8%BF%91%E5%B9%B3
+      - https://en.wikipedia.org/wiki/Xi_Jinping
+    tags:
+      - cn-leaders
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 190
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 副市长
+      - title: 中華人民共和國主席
+        from: 2013-03-14
+      - title: 中国共产党中央委员会总书记
+        org: ccp
+        from: 2012-11-15
+      - title: 中华人民共和国副主席
+        from: 2008-03-15
+        to: 2013-03-14
+      - title: 中共中央党校校长
+        org: central-party-school
+        from: 2007-12-22
+        to: 2013-01-15
+      - title: 中国共产党浙江省委员会书记
+        org: zhejiang-provincial-committee-of-the-chinese-communist-party
+        from: 2002-11-01
+        to: 2007-03-01
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 福建省省长
+        org: fujian-provincial-people-s-government
+        from: 1999-08-01
+        to: 2002-10-01
+      - title: 中国共产党中央书记处第一书记
+        from: 2007-10-22
+        to: 2012-11-15
+      - title: 中国共产党上海市委员会书记
+        org: shanghai-municipal-committee-of-the-chinese-communist-party
+        from: 2007-03-01
+        to: 2007-10-01
+      - title: 中国共产党中央政治局委员
+        from: 2007-10-22
+      - title: 中国共产党中央军事委员会主席
+        org: central-military-commission-of-the-chinese-communist-party
+        from: 2012-11-15
+      - title: 中华人民共和国中央军事委员会主席
+        org: central-military-commission-of-people-s-republic-of-china
+        from: 2013-03-14
+      - title: Party Secretary of Shanghai
+        from: 2007-03-24
+        to: 2007-10-27
+      - title: Party Secretary of Zhejiang
+        from: 2002-12-24
+        to: 2007-03-25
+      - title: 中国共产党中央政治局常务委员会委员
+        org: ccp-politburo-standing-committee
+        from: 2007-10-22
+  - id: xi-mingze
+    type: person
+    name: 习明泽
+    names:
+      zh: 习明泽
+      en: Xi Mingze
+    gender: F
+    born: 1992-06-25
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 4
+    summary: 中共中央總書記習近平與歌唱家彭麗媛之獨生女
+    ids:
+      wikidata: Q8044049
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%A0%E6%98%8E%E6%B3%BD
+      - https://en.wikipedia.org/wiki/Xi_Mingze
+    tags:
+      - relative
+    attrs:
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8044049
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xi-qiaoqiao
+    type: person
+    name: 齐桥桥
+    names:
+      zh: 齐桥桥
+      en: Qi Qiaoqiao
+    gender: F
+    born: 1949-03-01
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 5
+    summary: 習仲勳之女
+    ids:
+      wikidata: Q1441290
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BD%90%E6%A1%A5%E6%A1%A5
+      - https://en.wikipedia.org/wiki/Qi_Qiaoqiao
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1441290
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xi-yuanping
+    type: person
+    name: 习远平
+    names:
+      zh: 习远平
+      en: Xi Yuanping
+    gender: M
+    born: 1956-11-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: 国际节能环保协会会长，习近平之弟，习仲勋次子
+    ids:
+      wikidata: Q4119708
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%BF%92%E9%81%A0%E5%B9%B3
+      - https://en.wikipedia.org/wiki/Xi_Yuanping
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4119708
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xi-zhengning
+    type: person
+    name: 习正宁
+    names:
+      zh: 习正宁
+      en: Xi Zhengning
+    gender: M
+    born: "1941"
+    died: 1998-11-27
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: 中国政治人物
+    ids:
+      wikidata: Q48880970
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%BF%92%E6%AD%A3%E5%AF%A7
+      - https://en.wikipedia.org/wiki/Xi_Zhengning
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48880970
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xi-zhongxun
+    type: person
+    name: 习仲勋
+    names:
+      zh: 习仲勋
+      en: Xi Zhongxun
+    gender: M
+    born: 1913-10-15
+    died: 2002-05-24
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中國共產黨和中華人民共和國元老之一
+    ids:
+      wikidata: Q301282
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%A0%E4%BB%B2%E5%8B%8B
+      - https://en.wikipedia.org/wiki/Xi_Zhongxun
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 32
+    sources:
+      - url: https://www.wikidata.org/wiki/Q301282
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国人民代表大会常务委员会副委员长
+        org: npc-standing-committee
+        from: "1980"
+        to: "1993"
+      - title: 中国共产党广东省委员会书记
+        org: guangdong-provincial-committee-of-the-chinese-communist-party
+        from: "1978"
+        to: "1980"
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中华人民共和国国务院副总理
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: "1988"
+        to: "1993"
+      - title: 中华人民共和国国务院秘书长
+        org: general-office-of-the-state-council
+        from: "1954"
+        to: "1965"
+      - title: 中国共产党中央委员会宣传部部长
+        org: ccp-publicity-department
+  - id: xi-zongde
+    type: person
+    name: Xi Zongde
+    names:
+      zh: 习宗德
+      en: Xi Zongde
+    gender: M
+    born: "1885"
+    died: "1928"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: 习近平之祖父
+    ids:
+      wikidata: Q30611043
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%A0%E5%AE%97%E5%BE%B7
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30611043
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xia-baolong
+    type: person
+    name: 夏宝龙
+    names:
+      zh: 夏宝龙
+      en: Xia Baolong
+    gender: M
+    born: 1952-12-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共中央港澳工作办公室主任
+    ids:
+      wikidata: Q2516786
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A4%8F%E5%AE%9D%E9%BE%99
+      - https://en.wikipedia.org/wiki/Xia_Baolong
+    tags:
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2516786
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党浙江省委员会书记
+        org: zhejiang-provincial-committee-of-the-chinese-communist-party
+        from: 2012-12-01
+        to: 2017-04-01
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: xia-jiantong
+    type: person
+    name: 夏建统
+    names:
+      zh: 夏建统
+      en: Xia Jiantong
+    gender: M
+    born: 1976-10-26
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国商人
+    netWorth:
+      usd: 1000000000
+    ids:
+      wikidata: Q24248302
+    links:
+      - https://en.wikipedia.org/wiki/Tony_Xia
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24248302
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: 2016-06-01
+        to: 2018-07-01
+  - id: xia-linmao
+    type: person
+    name: 夏林茂
+    names:
+      zh: 夏林茂
+      en: Xia Linmao
+    gender: M
+    born: 1970-05-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共北京市委常委、常务副市长
+    ids:
+      wikidata: Q47546115
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A4%8F%E6%9E%97%E8%8C%82
+      - https://en.wikipedia.org/wiki/Xia_Linmao
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47546115
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xiao-chuan
+    type: person
+    name: Xiao Chuan
+    names:
+      zh: 肖川
+      en: Xiao Chuan
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q116226217
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%82%96%E5%B7%9D
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116226217
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xiao-gang
+    type: person
+    name: 肖钢
+    names:
+      zh: 肖钢
+      en: Xiao Gang
+    gender: M
+    born: 1958-08-01
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+      - finance
+    tier: 4
+    summary: Chinese banker
+    ids:
+      wikidata: Q3271452
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%82%96%E9%92%A2
+      - https://en.wikipedia.org/wiki/Xiao_Gang
+    tags:
+      - cn-business
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3271452
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: xiao-huaishu
+    type: person
+    name: 萧怀枢
+    names:
+      zh: 萧怀枢
+      en: Xiao Huaishu
+    gender: M
+    born: "1941"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8317107
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%90%A7%E6%80%80%E6%9E%A2
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317107
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: xiao-jialing
+    type: person
+    name: Xiao Jialing
+    names:
+      zh: 肖佳灵
+      en: Xiao Jialing
+    gender: F
+    born: "1966"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q48918883
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%82%96%E4%BD%B3%E7%81%B5
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48918883
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xiao-jie
+    type: person
+    name: 肖捷
+    names:
+      zh: 肖捷
+      en: Xiao Jie
+    gender: M
+    born: 1957-06-13
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 全国人大常委会副委员长，原国务委员、国务院秘书长、财政部部长
+    ids:
+      wikidata: Q999251
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%82%96%E6%8D%B7
+      - https://en.wikipedia.org/wiki/Xiao_Jie
+    tags:
+      - cn-leaders
+      - cn-ministers
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q999251
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 国务委员
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 2018-03-19
+        to: 2023-03-11
+      - title: 全国人民代表大会常务委员会副委员长
+        org: npc-standing-committee
+        from: 2023-03-01
+      - title: 中华人民共和国国务院秘书长
+        org: general-office-of-the-state-council
+        from: 2018-03-19
+        to: 2023-03-12
+      - title: 中华人民共和国财政部部长
+        org: ministry-of-finance-of-the-people-s-republic-of-china
+        from: 2016-11-07
+        to: 2018-03-19
+  - id: xiao-pei
+    type: person
+    name: 肖培
+    names:
+      zh: 肖培
+      en: Xiao Pei
+    gender: M
+    born: "1961"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 第十四届全国政协社会和法制委员会副主任
+    ids:
+      wikidata: Q28410250
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%82%96%E5%9F%B9
+      - https://en.wikipedia.org/wiki/Xiao_Pei
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28410250
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xiao-yang
+    type: person
+    name: 肖扬
+    names:
+      zh: 肖扬
+      en: Xiao Yang
+    gender: M
+    born: 1938-08-01
+    died: 2019-04-19
+    country:
+      - CN
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: 中国最高法院院长 (1938-2019)
+    ids:
+      wikidata: Q519871
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%82%96%E6%89%AC
+      - https://en.wikipedia.org/wiki/Xiao_Yang_(judge)
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q519871
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国最高人民法院院长
+        org: supreme-people-s-court-of-the-people-s-republic-of-china
+        from: "1998"
+        to: "2008"
+      - title: 中华人民共和国司法部部长
+        org: ministry-of-justice-of-the-people-s-republic-of-china
+        from: "1993"
+        to: "1998"
+  - id: xiao-zhentang
+    type: person
+    name: 萧贞堂
+    names:
+      zh: 萧贞堂
+    gender: M
+    born: "1938"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8317112
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%90%A7%E8%B4%9E%E5%A0%82
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317112
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xie-chuntao
+    type: person
+    name: 谢春涛
+    names:
+      zh: 谢春涛
+      en: Xie Chuntao
+    gender: M
+    born: "1963"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共中央党校分管日常工作的副校长
+    ids:
+      wikidata: Q47688230
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B0%A2%E6%98%A5%E6%B6%9B
+      - https://en.wikipedia.org/wiki/Xie_Chuntao
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47688230
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xie-fuzhan
+    type: person
+    name: 谢伏瞻
+    names:
+      zh: 谢伏瞻
+      en: Xie Fuzhan
+    gender: M
+    born: 1954-08-09
+    country:
+      - CN
+    sectors:
+      - politics
+      - academia
+    tier: 3
+    summary: 中国经济学家、政治人物
+    ids:
+      wikidata: Q2598185
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B0%A2%E4%BC%8F%E7%9E%BB
+      - https://en.wikipedia.org/wiki/Xie_Fuzhan
+    tags:
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2598185
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中国共产党河南省委员会书记
+        org: henan-provincial-committee-of-the-chinese-communist-party
+        from: 2016-03-26
+        to: 2018-03-21
+      - title: 河南省省长
+        org: people-s-government-of-henan-province
+        from: 2013-04-02
+        to: 2016-04-05
+      - title: 中国社会科学院院长
+        org: chinese-academy-of-social-sciences
+        from: 2018-03-20
+        to: 2022-05-01
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+  - id: xin-changxing
+    type: person
+    name: 信长星
+    names:
+      zh: 信长星
+      en: Xin Changxing
+    gender: M
+    born: "1963"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共江苏省委书记、江苏省人大常委会主任
+    ids:
+      wikidata: Q16077986
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BF%A1%E9%95%BF%E6%98%9F
+      - https://en.wikipedia.org/wiki/Xin_Changxing
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16077986
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xing-shanping
+    type: person
+    name: 邢善萍
+    names:
+      zh: 邢善萍
+      en: Xing Shanping
+    gender: F
+    born: 1968-04-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共陕西省委副书记
+    ids:
+      wikidata: Q47670452
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%82%A2%E5%96%84%E8%90%8D
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47670452
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: xing-shucheng
+    type: person
+    name: 邢书成
+    names:
+      zh: 邢书成
+    gender: M
+    born: 1952-12-01
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8315101
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%82%A2%E4%B9%A6%E6%88%90
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315101
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: xiong-ziren
+    type: person
+    name: 熊自仁
+    names:
+      zh: 熊自仁
+    gender: M
+    born: "1943"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8316787
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%86%8A%E8%87%AA%E4%BB%81
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316787
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: xu-anxiang
+    type: person
+    name: 徐安祥
+    names:
+      zh: 徐安祥
+      en: Xu Anxiang
+    gender: M
+    born: "1956"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中国人民解放军空军原副司令员
+    ids:
+      wikidata: Q21066866
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E5%AE%89%E7%A5%A5
+      - https://en.wikipedia.org/wiki/Xu_Anxiang
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21066866
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xu-caihou
+    type: person
+    name: 徐才厚
+    names:
+      zh: 徐才厚
+      en: Xu Caihou
+    gender: M
+    born: 1943-06-01
+    died: 2015-03-15
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 原中国人民解放军上将
+    ids:
+      wikidata: Q1335434
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E6%89%8D%E5%8E%9A
+      - https://en.wikipedia.org/wiki/Xu_Caihou
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1335434
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党中央政治局委员
+        from: 2007-10-22
+        to: 2012-11-15
+      - title: 中国人民解放军总政治部主任
+        org: people-s-liberation-army-general-political-department
+        from: 2002-11-01
+        to: 2004-09-01
+      - title: 中国共产党中央军事委员会副主席
+        org: ccp-cmc
+        from: 2004-09-01
+        to: 2012-11-01
+      - title: 中华人民共和国中央军事委员会副主席
+        from: 2005-03-01
+        to: 2013-03-01
+      - title: 中国共产党中央书记处书记
+        org: ccp-secretariat
+        from: 2002-11-01
+        to: 2007-10-01
+  - id: xu-chengdong
+    type: person
+    name: 徐承栋
+    names:
+      zh: 徐承栋
+    gender: M
+    born: "1942"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8319893
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E6%89%BF%E6%A0%8B
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319893
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xu-chengyun
+    type: person
+    name: 徐承云
+    names:
+      zh: 徐承云
+    gender: M
+    born: "1945"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8315954
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E6%89%BF%E4%BA%91_(1945%E5%B9%B4)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315954
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: xu-deqing
+    type: person
+    name: 徐德清
+    names:
+      zh: 徐德清
+      en: Xu Deqing
+    gender: M
+    born: "1963"
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 3
+    summary: 中国人民解放军中部战区政治委员，陆军上将
+    ids:
+      wikidata: Q48904990
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E5%BE%B7%E6%B8%85
+      - https://en.wikipedia.org/wiki/Xu_Deqing
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48904990
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xu-dexue
+    type: person
+    name: 徐德学
+    names:
+      zh: 徐德学
+      en: Xu Dexue
+    gender: M
+    born: "1949"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: 中国人民解放军中将
+    ids:
+      wikidata: Q8315930
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E5%BE%B7%E5%AD%A6
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315930
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: xu-genchu
+    type: person
+    name: 徐根初
+    names:
+      zh: 徐根初
+      en: Xu Genchu
+    gender: M
+    born: "1943"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: 中国人民解放军中将
+    ids:
+      wikidata: Q8315983
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E6%A0%B9%E5%88%9D
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315983
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: xu-hongmeng
+    type: person
+    name: 徐洪猛
+    names:
+      zh: 徐洪猛
+      en: Xu Hongmeng
+    gender: M
+    born: "1951"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese vice-admiral (born 1951)
+    ids:
+      wikidata: Q8319162
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E6%B4%AA%E7%8C%9B
+      - https://en.wikipedia.org/wiki/Xu_Hongmeng
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319162
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: PLA commander
+        from: 2006-08-01
+        to: 2009-12-01
+      - title: PLA deputy commander
+        from: 2009-12-01
+        to: 2014-12-01
+      - title: PLA deputy commander
+        from: 2006-08-01
+  - id: xu-jiankang
+    type: person
+    name: 许健康
+    names:
+      zh: 许健康
+      en: Xu Jiankang
+    gender: M
+    born: "1952"
+    country:
+      - CN
+      - MO
+    sectors:
+      - business
+    tier: 4
+    summary: Chinese entrepreneur
+    netWorth:
+      usd: 1000000000
+    ids:
+      wikidata: Q16907073
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%AE%B8%E5%81%A5%E5%BA%B7
+      - https://en.wikipedia.org/wiki/Xu_Jiankang
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16907073
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: xu-jianzhong
+    type: person
+    name: 徐建中
+    names:
+      zh: 徐建中
+      en: Xu Jianzhong
+    gender: M
+    born: "1948"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中国人民解放军中将
+    ids:
+      wikidata: Q8333390
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E5%BB%BA%E4%B8%AD
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8333390
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xu-jiayin
+    type: person
+    name: 许家印
+    names:
+      zh: 许家印
+      en: Hui Ka Yan
+    gender: M
+    born: 1958-10-09
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 2
+    summary: 中国企业家
+    netWorth:
+      usd: 36200000000
+    ids:
+      wikidata: Q1454895
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%AE%B8%E5%AE%B6%E5%8D%B0
+      - https://en.wikipedia.org/wiki/Hui_Ka_Yan
+    tags:
+      - cn-business
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1454895
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: xu-kunlin
+    type: person
+    name: 许昆林
+    names:
+      zh: 许昆林
+      en: Xu Kunlin
+    gender: M
+    born: "1965"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共辽宁省委书记、辽宁省人大常委会主任
+    ids:
+      wikidata: Q30950392
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%AE%B8%E6%98%86%E6%9E%97
+      - https://en.wikipedia.org/wiki/Xu_Kunlin
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30950392
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xu-lili
+    type: person
+    name: 徐莉莉
+    names:
+      zh: 徐莉莉
+      en: Xu Lili
+    gender: F
+    born: 1952-04-01
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Vice-admiral of the Chinese navy
+    ids:
+      wikidata: Q8248927
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E8%8E%89%E8%8E%89
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8248927
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 基隆市議員
+        from: 2014-12-25
+  - id: xu-lin
+    type: person
+    name: 徐麟
+    names:
+      zh: 徐麟
+      en: Xu Lin
+    gender: M
+    born: 1963-06-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共贵州省委书记、贵州省人大常委会主任
+    ids:
+      wikidata: Q22100001
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E9%BA%9F_(1963%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Xu_Lin_(politician%2C_born_1963)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22100001
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xu-liuping
+    type: person
+    name: 徐留平
+    names:
+      zh: 徐留平
+      en: Xu Liuping
+    gender: M
+    born: 1964-10-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - business
+    tier: 3
+    summary: 中华全国总工会原党组书记、副主席、书记处第一书记
+    ids:
+      wikidata: Q51106050
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E7%95%99%E5%B9%B3
+      - https://en.wikipedia.org/wiki/Xu_Liuping
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q51106050
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: xu-ming
+    type: person
+    name: 徐明 (企业家)
+    names:
+      zh: 徐明 (企业家)
+      en: Xu Ming
+    gender: M
+    born: 1971-04-01
+    died: 2015-12-04
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 实德集团原总经理
+    ids:
+      wikidata: Q11070690
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E6%98%8E_(1971%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Xu_Ming
+    tags:
+      - cn-business
+      - party:China Zhi Gong Party
+    attrs:
+      party: China Zhi Gong Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11070690
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xu-qiliang
+    type: person
+    name: 许其亮
+    names:
+      zh: 许其亮
+      en: Xu Qiliang
+    gender: M
+    born: 1950-03-29
+    died: 2025-06-02
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 2
+    summary: 中国人民解放军空军上将
+    ids:
+      wikidata: Q276049
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%AE%B8%E5%85%B6%E4%BA%AE
+      - https://en.wikipedia.org/wiki/Xu_Qiliang
+    tags:
+      - cn-leaders
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q276049
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党中央政治局委员
+        from: 2012-11-04
+        to: 2022-10-23
+      - title: 中国共产党中央军事委员会副主席
+        org: ccp-cmc
+        from: 2012-11-15
+        to: 2013-03-16
+      - title: 中华人民共和国中央军事委员会副主席
+        from: 2013-03-16
+        to: 2023-03-11
+      - title: PLA commander
+        from: "2007"
+        to: "2012"
+  - id: xu-qiling
+    type: person
+    name: 徐起零
+    names:
+      zh: 徐起零
+      en: Xu Qiling
+    gender: M
+    born: "1962"
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 3
+    summary: 中央军委联合参谋部副参谋长（正战区级），陆军上将
+    ids:
+      wikidata: Q28418289
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E8%B5%B7%E9%9B%B6
+      - https://en.wikipedia.org/wiki/Xu_Qiling
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28418289
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: xu-qin
+    type: person
+    name: 许勤
+    names:
+      zh: 许勤
+      en: Xu Qin
+    gender: M
+    born: 1961-10-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共黑龙江省委书记、省人大常委会主任
+    ids:
+      wikidata: Q8462580
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%AE%B8%E5%8B%A4_(1961%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Xu_Qin
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8462580
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 河北省省长
+        org: people-s-government-of-hebei-province
+        from: 2017-04-07
+        to: 2021-10-21
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: xu-rongmao
+    type: person
+    name: 许荣茂
+    names:
+      zh: 许荣茂
+      en: Xu Rongmao
+    gender: M
+    born: 1950-07-01
+    country:
+      - CN
+      - AU
+    sectors:
+      - business
+    tier: 3
+    summary: Chinese businessman
+    ids:
+      wikidata: Q3373665
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%A8%B1%E6%A6%AE%E8%8C%82
+      - https://en.wikipedia.org/wiki/Xu_Rongmao
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3373665
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: xu-xiangqian
+    type: person
+    name: 徐向前
+    names:
+      zh: 徐向前
+      en: Xu Xiangqian
+    gender: M
+    born: 1901-11-08
+    died: 1990-09-21
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 4
+    summary: 中华人民共和国元帅
+    ids:
+      wikidata: Q702194
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E5%90%91%E5%89%8D
+      - https://en.wikipedia.org/wiki/Xu_Xiangqian
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q702194
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国国防部部长
+        org: ministry-of-national-defense-of-the-people-s-republic-of-china
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: xu-xiaoyan
+    type: person
+    name: 徐小岩
+    names:
+      zh: 徐小岩
+      en: Xu Xiaoyan
+    gender: M
+    born: "1947"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: 中国人民解放军将领
+    ids:
+      wikidata: Q8315116
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E5%B0%8F%E5%B2%A9
+      - https://en.wikipedia.org/wiki/Xu_Xiaoyan_(general)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315116
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: xu-xisheng
+    type: person
+    name: 徐西盛
+    names:
+      zh: 徐西盛
+      en: Xu Xisheng
+    gender: M
+    born: "1964"
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 3
+    summary: 中国人民解放军火箭军政治委员
+    ids:
+      wikidata: Q56025481
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E8%A5%BF%E7%9B%9B
+      - https://en.wikipedia.org/wiki/Xu_Xisheng
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56025481
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: xu-xueqiang
+    type: person
+    name: 许学强
+    names:
+      zh: 许学强
+      en: Xu Xueqiang
+    gender: M
+    born: 1962-11-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 3
+    summary: 中国人民解放军军事人物
+    ids:
+      wikidata: Q65062337
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%AE%B8%E5%AD%A6%E5%BC%BA_(%E7%A9%BA%E5%86%9B)
+      - https://en.wikipedia.org/wiki/Xu_Xueqiang
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65062337
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xu-yaoyuan
+    type: person
+    name: 许耀元
+    names:
+      zh: 许耀元
+      en: Xu Yaoyuan
+    gender: M
+    born: 1952-12-01
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 2
+    summary: Chinese politician
+    ids:
+      wikidata: Q8294019
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%AE%B8%E8%80%80%E5%85%83
+      - https://en.wikipedia.org/wiki/Xu_Yaoyuan
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8294019
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xu-yitian
+    type: person
+    name: 徐一天
+    names:
+      zh: 徐一天
+      en: Xu Yitian
+    gender: M
+    born: "1947"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8292297
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E4%B8%80%E5%A4%A9
+      - https://en.wikipedia.org/wiki/Xu_Yitian
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292297
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: xu-yong
+    type: person
+    name: 许勇
+    names:
+      zh: 许勇
+      en: Xu Yong
+    gender: M
+    born: "1959"
+    died: 2024-09-13
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: lieutenant general
+    ids:
+      wikidata: Q15925368
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%AE%B8%E5%8B%87
+      - https://en.wikipedia.org/wiki/Xu_Yong_(general)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15925368
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: xu-yongqing
+    type: person
+    name: 徐永清
+    names:
+      zh: 徐永清
+      en: Xu Yongqing
+    gender: M
+    born: "1938"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 2
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8299597
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E6%B0%B8%E6%B8%85
+      - https://en.wikipedia.org/wiki/Xu_Yongqing
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8299597
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xu-zhenzhong
+    type: person
+    name: 徐振忠
+    names:
+      zh: 徐振忠
+    gender: M
+    born: "1936"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8319149
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E6%8C%AF%E5%BF%A0
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319149
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: xu-zhigong
+    type: person
+    name: 许志功
+    names:
+      zh: 许志功
+    gender: M
+    born: "1945"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8291753
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%AE%B8%E5%BF%97%E5%8A%9F
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8291753
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: xu-zhongbo
+    type: person
+    name: 徐忠波
+    names:
+      zh: 徐忠波
+      en: Xu Zhongbo
+    gender: M
+    born: "1960"
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 3
+    summary: 中国人民解放军火箭军原政治委员
+    ids:
+      wikidata: Q108395947
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E5%BF%A0%E6%B3%A2
+      - https://en.wikipedia.org/wiki/Xu_Zhongbo
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q108395947
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xu-ziqiang
+    type: person
+    name: 徐自强
+    names:
+      zh: 徐自强
+    gender: M
+    born: "1938"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8291507
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E8%87%AA%E5%BC%BA_(%E4%B8%AD%E5%B0%86)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8291507
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee

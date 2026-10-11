@@ -1,0 +1,54 @@
+# 第二十届政治局：机构班子档案（institution）。成员职务见各人物文件。
+id: cn-politburo-20
+kind: institution
+name: 中共第二十届中央政治局
+names:
+  en: 20th Politburo of the CCP
+country: CN
+head: xi-jinping
+core:
+- xi-jinping
+- li-qiang
+- zhao-leji
+- wang-huning
+- cai-qi
+- ding-xuexiang
+- li-xi
+- ma-xingrui
+- wang-yi
+- yin-li
+- shi-taifeng
+- liu-guozhong
+- li-ganjie
+- li-shulei
+- li-hongzhong
+- he-weidong
+- he-lifeng
+- zhang-youxia
+- zhang-guoqing
+- chen-wenqing
+- chen-jining
+- chen-miner
+- yuan-jiajun
+- huang-kunming
+outer:
+- zhang-shengmin
+- liu-zhenli
+- miao-hua
+- li-shangfu
+summary: |-
+  2022-10 产生，原 24 人（常委 7 人）。截至 2026-10 已有 3 人落马（何卫东、马兴瑞、张又侠），现为 21 人。
+  二十届五中全会定于 2026-10-26 至 29 召开，外界关注是否增补政治局委员（传胡春华、张升民等）。外圈为第二十届中央军委中非政治局委员的成员。
+tags:
+- institution
+- cn-top
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.internazionale.it/ultime-notizie-reuters/2026/09/21/china-s-xi-chairs-politburo-central-committee-plenum-set-for-october-26-29
+  title: China's Xi chairs Politburo; Central Committee plenum set for October 26-29
+  publisher: Reuters
+  date: '2026-09-21'
+updated: '2026-10-11'

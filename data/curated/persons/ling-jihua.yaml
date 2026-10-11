@@ -1,0 +1,28 @@
+id: ling-jihua
+type: person
+name: 令计划
+names:
+  zh: 令计划
+  en: Ling Jihua
+gender: M
+born: 1956-10
+country:
+- CN
+sectors:
+- politics
+tier: 2
+status: detained
+summary: 前中办主任（2007–2012），胡锦涛“大管家”。2012-03 其子令谷驾法拉利车祸身亡，事件被掩盖后令计划失势；2016-07 被判无期徒刑。
+positions:
+- title: 中共中央办公厅主任
+  org: ccp-general-office
+  from: 2007-09
+  to: 2012-09
+- title: 中央统战部部长
+  org: ccp-united-front-work-department
+  from: 2012-09
+  to: 2014-12
+sources:
+- url: https://en.wikipedia.org/wiki/Ling_Jihua
+  publisher: Wikipedia
+updated: '2026-10-11'

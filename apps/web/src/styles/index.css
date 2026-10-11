@@ -1,0 +1,224 @@
+@import "tailwindcss";
+
+/* ===== NEXUS 主题：致敬 ctOS 的冷色终端风格 ===== */
+@theme {
+  --color-bg: #07090c;
+  --color-panel: #0c1016;
+  --color-panel-2: #111720;
+  --color-line: #1d2733;
+  --color-line-2: #2a3846;
+  --color-ink: #e6f1ff;
+  --color-ink-2: #9fb3c8;
+  --color-ink-3: #5c6b7a;
+  --color-cyan: #00e5ff;
+  --color-cyan-dim: #0a6f7d;
+  --color-amber: #ffb000;
+  --color-red: #ff3b4e;
+  --color-green: #39ff9f;
+  --color-cn: #ff4d5e;
+  --color-us: #3b9cff;
+  --font-mono: "JetBrains Mono", "Share Tech Mono", "SFMono-Regular", Menlo, Consolas, "Noto Sans Mono CJK SC", monospace;
+  --font-sans: "Inter", "Noto Sans SC", "Noto Sans CJK SC", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-size: 13px;
+  -webkit-font-smoothing: antialiased;
+  overflow: hidden;
+}
+
+::selection {
+  background: rgba(0, 229, 255, 0.35);
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-line-2) transparent;
+}
+
+@layer components {
+/* 背景网格 + 扫描线 */
+.grid-bg {
+  background-color: var(--color-bg);
+  background-image:
+    linear-gradient(rgba(0, 229, 255, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 229, 255, 0.035) 1px, transparent 1px),
+    radial-gradient(ellipse at 50% 40%, rgba(0, 229, 255, 0.06), transparent 65%);
+  background-size: 40px 40px, 40px 40px, 100% 100%;
+}
+
+.scanlines::after {
+  content: "";
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(to bottom, rgba(255, 255, 255, 0.018) 0 1px, transparent 1px 3px);
+  mix-blend-mode: overlay;
+}
+
+/* 面板：带四角括号 */
+.panel {
+  position: relative;
+  background: linear-gradient(180deg, rgba(17, 23, 32, 0.92), rgba(10, 14, 19, 0.92));
+  border: 1px solid var(--color-line);
+  backdrop-filter: blur(6px);
+}
+.brackets::before,
+.brackets::after {
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border-color: var(--color-cyan);
+  pointer-events: none;
+}
+.brackets::before {
+  top: -1px;
+  left: -1px;
+  border-top: 2px solid;
+  border-left: 2px solid;
+}
+.brackets::after {
+  bottom: -1px;
+  right: -1px;
+  border-bottom: 2px solid;
+  border-right: 2px solid;
+}
+
+.hud-title {
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--color-ink-3);
+}
+
+.mono {
+  font-family: var(--font-mono);
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 1px 6px;
+  border: 1px solid var(--color-line-2);
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  line-height: 16px;
+  color: var(--color-ink-2);
+  white-space: nowrap;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  border: 1px solid var(--color-line-2);
+  background: rgba(0, 229, 255, 0.03);
+  color: var(--color-ink-2);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: all 0.12s;
+}
+.btn:hover {
+  border-color: var(--color-cyan);
+  color: var(--color-cyan);
+  background: rgba(0, 229, 255, 0.08);
+}
+.btn.active {
+  border-color: var(--color-cyan);
+  color: #001014;
+  background: var(--color-cyan);
+}
+.btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.input {
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid var(--color-line-2);
+  color: var(--color-ink);
+  padding: 5px 9px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  outline: none;
+}
+.input:focus {
+  border-color: var(--color-cyan);
+  box-shadow: 0 0 0 1px rgba(0, 229, 255, 0.25), 0 0 18px rgba(0, 229, 255, 0.12);
+}
+
+.link {
+  color: var(--color-cyan);
+  cursor: pointer;
+}
+.link:hover {
+  text-decoration: underline;
+}
+
+.glow {
+  text-shadow: 0 0 12px rgba(0, 229, 255, 0.55);
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+.caret::after {
+  content: "▌";
+  margin-left: 2px;
+  color: var(--color-cyan);
+  animation: blink 1s steps(1) infinite;
+}
+
+@keyframes sweep {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(100%);
+  }
+}
+.loading-bar {
+  position: relative;
+  overflow: hidden;
+  height: 2px;
+  background: var(--color-line);
+}
+.loading-bar::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, transparent, var(--color-cyan), transparent);
+  animation: sweep 1.1s linear infinite;
+}
+
+}
+
+input[type="range"] {
+  accent-color: var(--color-cyan);
+}
+input[type="checkbox"] {
+  accent-color: var(--color-cyan);
+}

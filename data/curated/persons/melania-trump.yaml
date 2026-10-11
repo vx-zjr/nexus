@@ -1,0 +1,19 @@
+id: melania-trump
+type: person
+name: Melania Trump
+names:
+  en: Melania Trump
+  zh: 梅拉尼娅·特朗普
+gender: F
+born: '1970-04-26'
+country:
+- US
+sectors:
+- politics
+- business
+tier: 2
+summary: 美国第一夫人（2017–2021；2025–），2005 年与特朗普结婚。2025 年推出 $MELANIA 迷因币，并与亚马逊签订约 4000 万美元的纪录片协议。
+sources:
+- url: https://en.wikipedia.org/wiki/Melania_Trump
+  publisher: Wikipedia
+updated: '2026-10-11'

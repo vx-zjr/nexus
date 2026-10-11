@@ -1,0 +1,28 @@
+id: james-s-c-chao
+type: person
+name: James S. C. Chao
+names:
+  en: James S. C. Chao
+  zh: 赵锡成
+gender: M
+born: '1927-12-29'
+country:
+- US
+- TW
+- CN
+sectors:
+- business
+tier: 3
+summary: 福茂集团创始人。1940 年代在上海就读航海专业，与江泽民曾为校友/同学（纽时 2019）；与中国国企及官方关系深厚。
+sources:
+- url: https://en.wikipedia.org/wiki/James_S._C._Chao
+  publisher: Wikipedia
+- url: https://www.allsides.com/news/2019-06-03-0700/politics-chao-family-deep-ties-worlds-2-largest-economies
+  title: For the Chao Family, Deep Ties to the World's 2 Largest Economies (NYT, 2019-06-02)
+  publisher: The New York Times（AllSides 摘要）
+  date: '2019-06-02'
+- url: https://amp.cnn.com/cnn/2019/06/03/politics/elaine-chao-china
+  title: Elaine Chao family ties to China (NYT investigation recap)
+  publisher: CNN
+  date: '2019-06-03'
+updated: '2026-10-11'

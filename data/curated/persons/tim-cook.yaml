@@ -1,0 +1,18 @@
+id: tim-cook
+type: person
+name: Tim Cook
+names:
+  en: Tim Cook
+  zh: 蒂姆·库克
+gender: M
+born: '1960-11-01'
+country:
+- US
+sectors:
+- tech
+tier: 1
+summary: 苹果 CEO，频繁访华，维系苹果在华供应链与市场。
+sources:
+- url: https://en.wikipedia.org/wiki/Tim_Cook
+  publisher: Wikipedia
+updated: '2026-10-11'

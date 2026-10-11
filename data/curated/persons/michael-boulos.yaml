@@ -1,0 +1,19 @@
+id: michael-boulos
+type: person
+name: Michael Boulos
+names:
+  en: Michael Boulos
+  zh: 迈克尔·布洛斯
+gender: M
+born: '1997'
+country:
+- US
+- LB
+sectors:
+- business
+tier: 5
+summary: Tiffany Trump 之夫，黎巴嫩裔尼日利亚商业家族（SCOA Nigeria）继承人，其父为 Massad Boulos。
+sources:
+- url: https://en.wikipedia.org/wiki/Tiffany_Trump
+  publisher: Wikipedia
+updated: '2026-10-11'

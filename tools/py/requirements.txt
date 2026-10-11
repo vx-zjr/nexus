@@ -1,0 +1,3 @@
+nomenklatura==4.17.1
+followthemoney==4.11.0
+rigour==2.5.0

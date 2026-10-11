@@ -1,0 +1,26 @@
+id: xie-feng
+type: person
+name: 谢锋
+names:
+  zh: 谢锋
+  en: Xie Feng
+gender: M
+born: '1964'
+country:
+- CN
+sectors:
+- diplomacy
+tier: 3
+summary: 中国驻美国大使（2023-05 起）。前外交部副部长、驻港特派员。
+positions:
+- title: 中国驻美国大使
+  from: 2023-05
+  current: true
+sources:
+- url: https://us.china-embassy.gov.cn/eng/dshd/202606/t20260623_11950162.htm
+  title: Ambassador Xie Feng attended USCBC Gala 2026（提及 2026 年 5 月习特北京会晤）
+  publisher: 中国驻美国大使馆
+  date: '2026-06-23'
+- url: https://en.wikipedia.org/wiki/Xie_Feng_(diplomat)
+  publisher: Wikipedia
+updated: '2026-10-11'

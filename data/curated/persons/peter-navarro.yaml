@@ -1,0 +1,22 @@
+id: peter-navarro
+type: person
+name: Peter Navarro
+names:
+  en: Peter Navarro
+  zh: 彼得·纳瓦罗
+gender: M
+born: '1949-07-15'
+country:
+- US
+sectors:
+- politics
+tier: 2
+summary: 特朗普贸易顾问（两届政府），对华贸易战主要推手之一；2021-01 被中方制裁。
+sources:
+- url: https://en.wikipedia.org/wiki/Peter_Navarro
+  publisher: Wikipedia
+- url: https://www.aljazeera.com/news/2021/1/20/china-sanctions-pompeo-trump-officials
+  title: China sanctions Pompeo, other Trump administration officials
+  publisher: Al Jazeera
+  date: '2021-01-20'
+updated: '2026-10-11'

@@ -1,0 +1,20 @@
+id: jeff-bezos
+type: person
+name: Jeff Bezos
+names:
+  en: Jeff Bezos
+  zh: 杰夫·贝索斯
+gender: M
+born: '1964-01-12'
+country:
+- US
+sectors:
+- tech
+- business
+- media
+tier: 1
+summary: 亚马逊创始人、蓝色起源创始人、《华盛顿邮报》所有者。2025-06 与 Lauren Sánchez 在威尼斯结婚。
+sources:
+- url: https://en.wikipedia.org/wiki/Jeff_Bezos
+  publisher: Wikipedia
+updated: '2026-10-11'

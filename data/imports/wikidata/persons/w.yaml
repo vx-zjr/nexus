@@ -1,0 +1,7316 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: wade-christensen
+    type: person
+    name: Wade Christensen
+    names:
+      en: Wade Christensen
+    gender: M
+    country: []
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q125877804
+    links:
+      - https://en.wikipedia.org/wiki/Wade_Christensen
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q125877804
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: First Lady or Gentleman of Oklahoma
+        from: 2011-01-10
+        to: 2019-01-14
+  - id: walter-a-haas
+    type: person
+    name: Walter A. Haas
+    names:
+      en: Walter A. Haas
+    gender: M
+    born: 1889-05-11
+    died: 1979-12-07
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American businessman (1889–1979)
+    ids:
+      wikidata: Q7964125
+    links:
+      - https://en.wikipedia.org/wiki/Walter_A._Haas
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7964125
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: walter-block
+    type: person
+    name: Walter Block
+    names:
+      zh: 瓦特·布拉克
+      en: Walter Block
+    gender: M
+    born: 1941-08-21
+    country:
+      - US
+    sectors:
+      - business
+      - academia
+    tier: 4
+    summary: 奧地利學派經濟學家和無政府資本家
+    ids:
+      wikidata: Q27718
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%93%A6%E7%89%B9%C2%B7%E5%B8%83%E6%8B%89%E5%85%8B
+      - https://en.wikipedia.org/wiki/Walter_Block
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 29
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27718
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: walter-cunningham
+    type: person
+    name: Walter Cunningham
+    names:
+      zh: 瓦尔特·康尼翰
+      en: Walter Cunningham
+    gender: M
+    born: 1932-03-16
+    died: 2023-01-03
+    country:
+      - US
+    sectors:
+      - business
+      - academia
+      - military
+    tier: 4
+    summary: 美国宇航员（1932－2023）
+    ids:
+      wikidata: Q372215
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%93%A6%E5%B0%94%E7%89%B9%C2%B7%E5%BA%B7%E5%B0%BC%E7%BF%B0
+      - https://en.wikipedia.org/wiki/Walter_Cunningham
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 38
+    sources:
+      - url: https://www.wikidata.org/wiki/Q372215
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: walter-scott-jr
+    type: person
+    name: Walter Scott Jr.
+    names:
+      en: Walter Scott Jr.
+    gender: M
+    born: 1931-05-21
+    died: 2021-09-25
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American businessman (1931–2021)
+    ids:
+      wikidata: Q7966092
+    links:
+      - https://en.wikipedia.org/wiki/Walter_Scott_Jr.
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7966092
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 理事会成员
+        org: board-of-directors
+        from: "1988"
+        to: 2021-09-25
+  - id: wan-boao
+    type: person
+    name: 万伯翱
+    names:
+      zh: 万伯翱
+      en: Wan Boao
+    gender: M
+    born: "1943"
+    country:
+      - CN
+    sectors:
+      - culture
+    tier: 5
+    summary: Chinese writer
+    ids:
+      wikidata: Q47666381
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B8%87%E4%BC%AF%E7%BF%B1
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47666381
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wan-exiang
+    type: person
+    name: 万鄂湘
+    names:
+      zh: 万鄂湘
+      en: Wan Exiang
+    gender: M
+    born: "1956"
+    country:
+      - CN
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: 第十二、十三届全国人大常委会副委员长，民革第十二、十三届中央主席
+    ids:
+      wikidata: Q7966995
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B8%87%E9%84%82%E6%B9%98
+      - https://en.wikipedia.org/wiki/Wan_Exiang
+    tags:
+      - cn-leaders
+      - party:Revolutionary Committee of the Chinese Kuomintang
+    attrs:
+      party: Revolutionary Committee of the Chinese Kuomintang
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7966995
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国人民代表大会常务委员会副委员长
+        org: npc-standing-committee
+        from: 2013-03-14
+        to: 2023-03-10
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+  - id: wan-gang
+    type: person
+    name: 万钢
+    names:
+      zh: 万钢
+      en: Wan Gang
+    gender: M
+    born: 1952-08-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - tech
+    tier: 2
+    summary: 中国科技部部长
+    ids:
+      wikidata: Q95023
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B8%87%E9%92%A2
+      - https://en.wikipedia.org/wiki/Wan_Gang
+    tags:
+      - cn-leaders
+      - party:China Zhi Gong Party
+    attrs:
+      party: China Zhi Gong Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q95023
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国人民政治协商会议全国委员会副主席
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+        from: 2008-03-13
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+      - title: 中华人民共和国科学技术部部长
+        org: ministry-of-science-and-technology-of-the-people-s-republic-of-china
+  - id: wan-jifei
+    type: person
+    name: 万季飞
+    names:
+      zh: 万季飞
+      en: Wan Jifei
+    gender: M
+    born: "1948"
+    country:
+      - CN
+    sectors:
+      - politics
+      - academia
+    tier: 5
+    summary: 万里之子，中国政治人物
+    ids:
+      wikidata: Q7929495
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B8%87%E5%AD%A3%E9%A3%9E
+      - https://en.wikipedia.org/wiki/Wan_Jifei
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7929495
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+  - id: wan-li
+    type: person
+    name: 万里
+    names:
+      zh: 万里
+      en: Wan Li
+    gender: M
+    born: 1916-12-01
+    died: 2015-07-15
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 1
+    summary: 前全国人民代表大会常务委员会委员长
+    ids:
+      wikidata: Q983676
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B8%87%E9%87%8C
+      - https://en.wikipedia.org/wiki/Wan_Li
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q983676
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国国务院副总理
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: "1980"
+        to: "1988"
+      - title: 全国人民代表大会常务委员会委员长
+        org: npc-standing-committee
+        from: 1988-04-27
+        to: 1993-03-27
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wan-lijun
+    type: person
+    name: 万立骏
+    names:
+      zh: 万立骏
+      en: Wan Lijun
+    gender: M
+    born: 1957-07-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国科学院院士、物理化学家
+    ids:
+      wikidata: Q8292740
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B8%87%E7%AB%8B%E9%AA%8F
+      - https://en.wikipedia.org/wiki/Wan_Lijun
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292740
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wan-long
+    type: person
+    name: 万隆
+    names:
+      zh: 万隆
+      en: Wan Long
+    gender: M
+    born: "1940"
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: Chinese businessman
+    netWorth:
+      usd: 1000000000
+    ids:
+      wikidata: Q21040296
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B8%87%E9%9A%86_(%E4%BC%81%E4%B8%9A%E5%AE%B6)
+      - https://en.wikipedia.org/wiki/Wan_Long_(businessman)
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21040296
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-bing-1938
+    type: person
+    name: Wang Bing
+    names:
+      zh: 王兵
+      en: Wang Bing
+    gender: M
+    born: 1938-09-11
+    died: 2014-01-27
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: 王震之子
+    ids:
+      wikidata: Q16334029
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%85%B5_(1938%E5%B9%B4)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16334029
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-bingnan
+    type: person
+    name: 王炳南
+    names:
+      zh: 王炳南
+      en: Wang Bingnan
+    gender: M
+    born: "1908"
+    died: 1988-12-22
+    country:
+      - CN
+    sectors:
+      - politics
+      - diplomacy
+    tier: 5
+    summary: 外交官
+    ids:
+      wikidata: Q8289499
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%82%B3%E5%8D%97_(1908%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wang_Bingnan
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8289499
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-chaoqun
+    type: person
+    name: 汪超群
+    names:
+      zh: 汪超群
+      en: Wang Chaoqun
+    gender: M
+    born: "1942"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8320252
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B1%AA%E8%B6%85%E7%BE%A4
+      - https://en.wikipedia.org/wiki/Wang_Chaoqun
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8320252
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+        from: "2008"
+  - id: wang-chen
+    type: person
+    name: 王晨
+    names:
+      zh: 王晨
+      en: Wang Chen
+    gender: M
+    born: 1950-12-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - media
+    tier: 2
+    summary: 中国延安精神研究会会长
+    ids:
+      wikidata: Q3427716
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%99%A8_(%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)
+      - https://en.wikipedia.org/wiki/Wang_Chen_(politician)
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3427716
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国人民代表大会常务委员会副委员长
+        org: npc-standing-committee
+        from: 2013-03-14
+        to: 2023-03-10
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中国共产党中央政治局委员
+        from: 2017-10-25
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: wang-cheng
+    type: person
+    name: 王成
+    names:
+      zh: 王成
+      en: Wang Cheng
+    gender: M
+    born: 1969-06-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共浙江省委副书记、宁波市委书记
+    ids:
+      wikidata: Q48936512
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%88%90_(1969%E5%B9%B4)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48936512
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-chuanfu
+    type: person
+    name: 王传福
+    names:
+      zh: 王传福
+      en: Wang Chuanfu
+    gender: M
+    born: 1966-04-08
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中國企業家
+    ids:
+      wikidata: Q716030
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%82%B3%E7%A6%8F
+      - https://en.wikipedia.org/wiki/Wang_Chuanfu
+    tags:
+      - cn-business
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q716030
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-chunning
+    type: person
+    name: 王春宁
+    names:
+      zh: 王春宁
+      en: Wang Chunning
+    gender: M
+    born: 1963-03-01
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 2
+    summary: 中国人民武装警察部队第九任司令员
+    ids:
+      wikidata: Q104382536
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%98%A5%E5%AE%81
+      - https://en.wikipedia.org/wiki/Wang_Chunning
+    tags:
+      - cn-military
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104382536
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-dengping
+    type: person
+    name: 王登平
+    names:
+      zh: 王登平
+      en: Wang Dengping
+    gender: M
+    born: "1952"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: military personnel
+    ids:
+      wikidata: Q8331787
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%99%BB%E5%B9%B3_(%E4%B8%AD%E5%B0%87)
+      - https://en.wikipedia.org/wiki/Wang_Dengping
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8331787
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-dongfeng
+    type: person
+    name: 王东峰
+    names:
+      zh: 王东峰
+      en: Wang Dongfeng
+    gender: M
+    born: 1958-02-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 全国政协副主席、秘书长
+    ids:
+      wikidata: Q15936001
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%B8%9C%E5%B3%B0
+      - https://en.wikipedia.org/wiki/Wang_Dongfeng
+    tags:
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15936001
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国人民政治协商会议全国委员会副主席
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+      - title: 天津市市长
+        org: people-s-government-of-tianjin-municipality
+        from: 2016-09-14
+        to: 2017-10-28
+      - title: 中国共产党河北省委员会书记
+        org: hebei-provincial-committee-of-the-chinese-communist-party
+        from: 2017-10-28
+        to: 2022-04-22
+  - id: wang-dongming
+    type: person
+    name: 王东明 (1956年)
+    names:
+      zh: 王东明 (1956年)
+      en: Wang Dongming
+    gender: M
+    born: 1956-07-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - business
+    tier: 2
+    summary: 第十四届全国人大常委会副委员长、中华全国总工会主席
+    ids:
+      wikidata: Q2681946
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%B8%9C%E6%98%8E
+      - https://en.wikipedia.org/wiki/Wang_Dongming
+    tags:
+      - cn-leaders
+      - cn-provincial
+      - wpcat:中国共产党第二十届中央委员会委员
+      - cn-business
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2681946
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国人民代表大会常务委员会副委员长
+        org: npc-standing-committee
+        from: 2018-03-01
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 中国共产党四川省委员会书记
+        org: sichuan-provincial-committee-of-the-chinese-communist-party
+        from: 2012-11-21
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+  - id: wang-fang
+    type: person
+    name: 王芳
+    names:
+      zh: 王芳
+      en: Wang Fang
+    gender: M
+    born: 1920-09-30
+    died: 2009-11-04
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中国政治人物 (1920—2009)
+    ids:
+      wikidata: Q3376697
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8A%B3_(1920%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wang_Fang_(politician)
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3376697
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国公安部部长
+        org: ministry-of-public-security
+        from: "1987"
+        to: "1990"
+      - title: 中国共产党浙江省委员会书记
+        org: zhejiang-provincial-committee-of-the-chinese-communist-party
+        from: 1983-03-01
+        to: 1987-03-01
+  - id: wang-fengying
+    type: person
+    name: 王凤英
+    names:
+      zh: 王凤英
+      en: Wang Fengying
+    gender: F
+    born: 1970-10-01
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国企业家
+    ids:
+      wikidata: Q42565009
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%87%A4%E8%8B%B1
+      - https://en.wikipedia.org/wiki/Wang_Fengying
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q42565009
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-gang
+    type: person
+    name: 王刚
+    names:
+      zh: 王刚
+      en: Wang Gang
+    gender: M
+    born: 1942-10-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中国政治人物
+    ids:
+      wikidata: Q708761
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%88%9A_(%E4%B8%AD%E5%9B%BD%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD)
+      - https://en.wikipedia.org/wiki/Wang_Gang_(politician)
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q708761
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党中央政治局委员
+        from: 2007-10-22
+        to: 2012-11-15
+  - id: wang-guanghua
+    type: person
+    name: 王广华
+    names:
+      zh: 王广华
+      en: Wang Guanghua
+    gender: M
+    born: "1963"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国自然资源系统政治人物
+    ids:
+      wikidata: Q28414360
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B9%BF%E5%8D%8E
+      - https://en.wikipedia.org/wiki/Wang_Guanghua
+    tags:
+      - cn-ministers
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28414360
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国自然资源部部长
+        org: ministry-of-natural-resources-of-the-people-s-republic-of-china
+        from: 2022-06-24
+        to: 2024-12-25
+  - id: wang-guosheng
+    type: person
+    name: 王國生
+    names:
+      zh: 王國生
+      en: Wang Guosheng
+    gender: M
+    born: 1956-05-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共河南省委书记
+    ids:
+      wikidata: Q2548218
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%9B%BD%E7%94%9F_(1956%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wang_Guosheng_(politician)
+    tags:
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2548218
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党青海省委员会书记
+        org: qinghai-provincial-committee-of-the-chinese-communist-party
+        from: 2016-06-29
+  - id: wang-hai
+    type: person
+    name: 王海
+    names:
+      zh: 王海
+      en: Wang Hai
+    gender: M
+    born: "1961"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中华人民共和国解放军海军中将
+    ids:
+      wikidata: Q23003276
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%B5%B7_(%E6%B5%B7%E5%86%9B)
+      - https://en.wikipedia.org/wiki/Wang_Hai_(admiral)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23003276
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-haijiang
+    type: person
+    name: 汪海江
+    names:
+      zh: 汪海江
+      en: Wang Haijiang
+    gender: M
+    born: "1963"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国人民解放军西部战区司令员，陆军上将
+    ids:
+      wikidata: Q78148379
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B1%AA%E6%B5%B7%E6%B1%9F
+      - https://en.wikipedia.org/wiki/Wang_Haijiang
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q78148379
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-hanbin
+    type: person
+    name: 王汉斌
+    names:
+      zh: 王汉斌
+      en: Wang Hanbin
+    gender: M
+    born: "1925"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q8338717
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%B1%89%E6%96%8C_(%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)
+      - https://en.wikipedia.org/wiki/Wang_Hanbin
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8338717
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-hao
+    type: person
+    name: 王浩
+    names:
+      zh: 王浩
+      en: Wang Hao
+    gender: M
+    born: 1963-10-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共浙江省委书记、浙江省人大常委会主任
+    ids:
+      wikidata: Q47674397
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%B5%A9_(1963%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wang_Hao_(politician%2C_born_1963)
+    tags:
+      - cn-provincial
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47674397
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党浙江省委员会书记
+        org: zhejiang-provincial-committee-of-the-chinese-communist-party
+        from: 2024-10-01
+  - id: wang-hongguang
+    type: person
+    name: 王洪光
+    names:
+      zh: 王洪光
+      en: Wang Hongguang
+    gender: M
+    born: 1949-08-01
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: 中国将领
+    ids:
+      wikidata: Q8315058
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%B4%AA%E5%85%89
+      - https://en.wikipedia.org/wiki/Wang_Hongguang
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315058
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-hongzhang
+    type: person
+    name: 王洪章
+    names:
+      zh: 王洪章
+      en: Wang Hongzhang
+    gender: M
+    born: 1954-07-01
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+      - academia
+    tier: 4
+    summary: 银行家
+    ids:
+      wikidata: Q1526821
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%B4%AA%E7%AB%A0_(%E9%93%B6%E8%A1%8C%E5%AE%B6)
+      - https://en.wikipedia.org/wiki/Wang_Hongzhang
+    tags:
+      - cn-business
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1526821
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-houbin
+    type: person
+    name: 王厚斌
+    names:
+      zh: 王厚斌
+      en: Wang Houbin
+    gender: M
+    born: "1961"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 2
+    summary: 中国人民解放军火箭军原司令员
+    ids:
+      wikidata: Q78435207
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8E%9A%E6%96%8C
+      - https://en.wikipedia.org/wiki/Wang_Houbin
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q78435207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-huning
+    type: person
+    name: 王沪宁
+    names:
+      zh: 王沪宁
+      en: Wang Huning
+    gender: M
+    born: 1955-10-06
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 1
+    summary: 中国共产党中央政治局常委、中央全面深化改革办公室主任
+    ids:
+      wikidata: Q64543
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%B2%AA%E5%AE%81
+      - https://en.wikipedia.org/wiki/Wang_Huning
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 32
+    sources:
+      - url: https://www.wikidata.org/wiki/Q64543
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国人民政治协商会议全国委员会主席
+        org: chinese-people-s-political-consultative-conference
+        from: 2023-03-10
+      - title: 中国共产党中央书记处第一书记
+        from: 2017-10-25
+        to: 2022-10-23
+      - title: 中国共产党中央政治局委员
+        from: 2012-11-15
+      - title: 正教授
+      - title: 中央精神文明建设指导委员会主任
+        org: central-guidance-commission-on-building-spiritual-civilization
+        from: 2017-11-01
+      - title: 中国共产党中央委员会政策研究室主任
+        from: 2002-10-01
+        to: 2020-10-01
+      - title: 中国共产党中央政治局常务委员会委员
+        org: ccp-politburo-standing-committee
+        from: 2017-10-25
+  - id: wang-jian
+    type: person
+    name: 王健
+    names:
+      zh: 王健
+      en: Wang Jian
+    gender: M
+    born: 1954-06-01
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中国人民解放军中将
+    ids:
+      wikidata: Q8292756
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%81%A5_(1954%E5%B9%B4)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292756
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-jian-1961
+    type: person
+    name: 王健
+    names:
+      zh: 王健
+      en: Wang Jian
+    gender: M
+    born: 1961-12-15
+    died: 2018-07-03
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 企业家（1961—2018）
+    ids:
+      wikidata: Q55377479
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%81%A5_(1961%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wang_Jian_(businessman)
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55377479
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+  - id: wang-jian-1965
+    type: person
+    name: 王健
+    names:
+      zh: 王健
+      en: Wang Jian
+    gender: M
+    born: 1965-09-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 辽宁省政协党组副书记、副主席
+    ids:
+      wikidata: Q104723107
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%81%A5_(1965%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wang_Jian_(politician%2C_born_1965)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104723107
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-jianlin
+    type: person
+    name: 王健林
+    names:
+      zh: 王健林
+      en: Wang Jianlin
+    gender: M
+    born: 1954-10-24
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+    tier: 2
+    summary: 中国商人
+    netWorth:
+      usd: 35700000000
+    ids:
+      wikidata: Q2105413
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%81%A5%E6%9E%97
+      - https://en.wikipedia.org/wiki/Wang_Jianlin
+    tags:
+      - cn-business
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2105413
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+  - id: wang-jianmin
+    type: person
+    name: 王建民 (中将)
+    names:
+      zh: 王建民 (中将)
+      en: Wang Jianmin
+    gender: M
+    born: 1951-11-02
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese lieutenant general
+    ids:
+      wikidata: Q8316853
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%BB%BA%E6%B0%91_(%E4%B8%AD%E5%B0%86)
+      - https://en.wikipedia.org/wiki/Wang_Jianmin_(lieutenant_general)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316853
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-jianping
+    type: person
+    name: 王建平
+    names:
+      zh: 王建平
+      en: Wang Jianping
+    gender: M
+    born: 1953-07-27
+    died: 2017-04-23
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 2
+    summary: former general of the People's Liberation Army (1953-2017)
+    ids:
+      wikidata: Q8292112
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%BB%BA%E5%B9%B3
+      - https://en.wikipedia.org/wiki/Wang_Jianping
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292112
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-jianqing
+    type: person
+    name: 王健青
+    names:
+      zh: 王健青
+      en: Wang Jianqing
+    gender: M
+    born: "1911"
+    died: 1991-09-06
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 5
+    summary: 中国将领
+    ids:
+      wikidata: Q8327416
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%81%A5%E9%9D%92
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8327416
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-jianwei
+    type: person
+    name: 王建伟
+    names:
+      zh: 王建伟
+      en: Wang Jianwei
+    gender: M
+    born: "1954"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8316848
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%BB%BA%E4%BC%9F_(1954%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wang_Jianwei_(general)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316848
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-jiaocheng
+    type: person
+    name: 王教成
+    names:
+      zh: 王教成
+      en: Wang Jiaocheng
+    gender: M
+    born: 1952-12-01
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: military personnel
+    ids:
+      wikidata: Q8294002
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%95%99%E6%88%90
+      - https://en.wikipedia.org/wiki/Wang_Jiaocheng
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8294002
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-jiarui
+    type: person
+    name: 王家瑞
+    names:
+      zh: 王家瑞
+      en: Wang Jiarui
+    gender: M
+    born: 1949-09-09
+    country:
+      - CN
+    sectors:
+      - politics
+      - diplomacy
+    tier: 2
+    summary: 中国政治人物
+    ids:
+      wikidata: Q711599
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%AE%B6%E7%91%9E
+      - https://en.wikipedia.org/wiki/Wang_Jiarui
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q711599
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国人民政治协商会议全国委员会副主席
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+        from: 2013-03-11
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: mayor of Qingdao
+        from: 1998-02-01
+        to: 2000-10-01
+  - id: wang-jiayi
+    type: person
+    name: 王嘉毅
+    names:
+      zh: 王嘉毅
+      en: Wang Jiayi
+    gender: M
+    born: 1965-12-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国教育部副部长、总督学
+    ids:
+      wikidata: Q47670486
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%98%89%E6%AF%85
+      - https://en.wikipedia.org/wiki/Wang_Jiayi
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47670486
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-jilian
+    type: person
+    name: 王吉连
+    names:
+      zh: 王吉连
+    gender: M
+    born: "1941"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中国人民解放军中将
+    ids:
+      wikidata: Q8320296
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%90%89%E8%BF%9E
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8320296
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-jing-1972
+    type: person
+    name: 王靖
+    names:
+      zh: 王靖
+      en: Wang Jing
+    gender: M
+    born: "1972"
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 实业家
+    ids:
+      wikidata: Q19602484
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E9%9D%96_(%E5%AE%9E%E4%B8%9A%E5%AE%B6)
+      - https://en.wikipedia.org/wiki/Wang_Jing_(businessman)
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19602484
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-jinxiang
+    type: person
+    name: 王金相
+    names:
+      zh: 王金相
+    gender: M
+    born: "1947"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8320325
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E9%87%91%E7%9B%B8
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8320325
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-jitang
+    type: person
+    name: 王继堂
+    names:
+      zh: 王继堂
+    gender: M
+    born: "1946"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8316948
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%BB%A7%E5%A0%82
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316948
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-jiurong
+    type: person
+    name: 王久荣
+    names:
+      zh: 王久荣
+    gender: M
+    born: 1951-09-01
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8315012
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%B9%85%E8%8D%A3
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315012
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-jun
+    type: person
+    name: 王军
+    names:
+      zh: 王军
+      en: Wang Jun
+    gender: M
+    born: 1941-04-11
+    died: 2019-06-10
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 王震之子，中国企业家
+    ids:
+      wikidata: Q7967499
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%86%9B_(1941%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wang_Jun_(businessman)
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7967499
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-junzheng
+    type: person
+    name: 王君正
+    names:
+      zh: 王君正
+      en: Wang Junzheng
+    gender: M
+    born: "1963"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q15939698
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%90%9B%E6%AD%A3_(%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)
+      - https://en.wikipedia.org/wiki/Wang_Junzheng
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15939698
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-kai
+    type: person
+    name: 王凯
+    names:
+      zh: 王凯
+      en: Wang Kai
+    gender: M
+    born: 1962-07-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q28414954
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%87%AF_(1962%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wang_Kai_(politician)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28414954
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-kai-1963
+    type: person
+    name: 王凯
+    names:
+      zh: 王凯
+      en: Wang Kai
+    gender: M
+    born: 1963-04-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 3
+    summary: 中国人民解放军中将
+    ids:
+      wikidata: Q30943906
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%87%AF_(1963%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wang_Kai_(born_1963)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30943906
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-kangping
+    type: person
+    name: Wang Kangping
+    names:
+      zh: 王抗平
+      en: Wang Kangping
+    gender: M
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国人民解放军军事人物
+    ids:
+      wikidata: Q114802794
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%8A%97%E5%B9%B3
+      - https://en.wikipedia.org/wiki/Wang_Kangping
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q114802794
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-lequan
+    type: person
+    name: 王乐泉
+    names:
+      zh: 王乐泉
+      en: Wang Lequan
+    gender: M
+    born: 1944-12-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中共新疆维吾尔自治区党委原书记，第十六、十七届中央政治局委员
+    ids:
+      wikidata: Q715990
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%B9%90%E6%B3%89
+      - https://en.wikipedia.org/wiki/Wang_Lequan
+    tags:
+      - cn-leaders
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q715990
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党中央政治局委员
+        from: 2002-11-15
+        to: 2012-11-15
+      - title: 中共新疆维吾尔自治区委书记
+        org: xinjiang-uygur-autonomous-regional-committee-of-the-chinese-communist-party
+        from: "1994"
+        to: "2010"
+  - id: wang-liangwang
+    type: person
+    name: 王良旺
+    names:
+      zh: 王良旺
+    gender: M
+    born: "1940"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8320311
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%89%AF%E6%97%BA
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8320311
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-lixia
+    type: person
+    name: 王莉霞
+    names:
+      zh: 王莉霞
+      en: Wang Lixia
+    gender: F
+    born: 1964-06-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 内蒙古自治区政府原主席
+    ids:
+      wikidata: Q16904080
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8E%89%E9%9C%9E
+      - https://en.wikipedia.org/wiki/Wang_Lixia
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16904080
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: wang-liyan
+    type: person
+    name: 王立岩
+    names:
+      zh: 王立岩
+      en: Wang Liyan
+    gender: M
+    born: "1962"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国人民解放军中将
+    ids:
+      wikidata: Q111693020
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%AB%8B%E5%B2%A9
+      - https://en.wikipedia.org/wiki/Wang_Liyan
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111693020
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-menghui
+    type: person
+    name: 王蒙徽
+    names:
+      zh: 王蒙徽
+      en: Wang Menghui
+    gender: M
+    born: 1960-01-29
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q9066716
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%92%99%E5%BE%BD
+      - https://en.wikipedia.org/wiki/Wang_Menghui
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9066716
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中华人民共和国住房和城乡建设部部长
+        org: ministry-of-housing-and-urban-rural-development-of-the-people-s-republic-of-chin
+        from: 2017-06-27
+        to: 2022-06-25
+  - id: wang-ning-1955
+    type: person
+    name: 王宁
+    names:
+      zh: 王宁
+      en: Wang Ning
+    gender: M
+    born: 1955-08-01
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 2
+    summary: 中国人民武装警察部队原司令员，武警上将
+    ids:
+      wikidata: Q8292764
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%AE%81_(%E6%AD%A6%E8%AD%A6%E4%B8%8A%E5%B0%86)
+      - https://en.wikipedia.org/wiki/Wang_Ning_(general)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292764
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-ning-1961
+    type: person
+    name: 王宁
+    names:
+      zh: 王宁
+      en: Wang Ning
+    gender: M
+    born: 1961-04-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共云南省委书记、云南省人大常委会主任
+    ids:
+      wikidata: Q24833108
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%AE%81_(1961%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wang_Ning_(politician%2C_born_1961)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24833108
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 福建省省长
+        org: fujian-provincial-people-s-government
+        from: 2020-07-02
+        to: 2021-10-19
+  - id: wang-peng
+    type: person
+    name: 王鹏
+    names:
+      zh: 王鹏
+      en: Wang Peng
+    gender: M
+    born: 1964-02-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国人民解放军中将
+    ids:
+      wikidata: Q111693021
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E9%B9%8F_(1964%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wang_Peng_(lieutenant_general)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111693021
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-qian
+    type: person
+    name: 王謙 (深澤)
+    names:
+      zh: 王謙 (深澤)
+    gender: M
+    born: "1946"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8316952
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%AC%99_(1946%E5%B9%B4)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316952
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-qiang
+    type: person
+    name: 王强
+    names:
+      zh: 王强
+      en: Wang Qiang
+    gender: M
+    born: "1963"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国人民解放军中部战区原政治委员，空军上将
+    ids:
+      wikidata: Q85882550
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%BC%BA_(%E7%A9%BA%E5%86%9B)
+      - https://en.wikipedia.org/wiki/Wang_Qiang_(general)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q85882550
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-qingxian
+    type: person
+    name: 王清宪
+    names:
+      zh: 王清宪
+      en: Wang Qingxian
+    gender: M
+    born: "1963"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q9315455
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%B8%85%E5%AE%AA
+      - https://en.wikipedia.org/wiki/Wang_Qingxian
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9315455
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-qinmin
+    type: person
+    name: 王钦敏
+    names:
+      zh: 王钦敏
+      en: Wang Qinmin
+    gender: M
+    born: "1948"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: Chinese politician
+    ids:
+      wikidata: Q9066983
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E9%92%A6%E6%95%8F
+      - https://en.wikipedia.org/wiki/Wang_Qinmin
+    tags:
+      - cn-leaders
+      - party:China Zhi Gong Party
+    attrs:
+      party: China Zhi Gong Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9066983
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国人民政治协商会议全国委员会副主席
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+        from: 2013-03-11
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+  - id: wang-qishan
+    type: person
+    name: 王岐山
+    names:
+      zh: 王岐山
+      en: Wang Qishan
+    gender: M
+    born: 1948-07-19
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 1
+    summary: 中华人民共和国原副主席，中央纪委原书记，国务院原副总理
+    ids:
+      wikidata: Q18113
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B2%90%E5%B1%B1
+      - https://en.wikipedia.org/wiki/Wang_Qishan
+    tags:
+      - cn-leaders
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 35
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18113
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国副主席
+        from: 2018-03-17
+        to: 2023-03-10
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中华人民共和国国务院副总理
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 2008-03-17
+        to: 2013-03-16
+      - title: 北京市市長
+        org: people-s-government-of-beijing-municipality
+        from: 2003-04-20
+        to: 2007-11-30
+      - title: 中国共产党中央纪律检查委员会书记
+        org: ccp-ccdi
+        from: 2012-11-15
+        to: 2017-10-25
+      - title: 中国共产党中央政治局委员
+        from: 2007-10-22
+        to: 2017-10-25
+      - title: 中国共产党中央政治局常务委员会委员
+        org: ccp-politburo-standing-committee
+        from: 2012-11-15
+        to: 2017-10-25
+      - title: 中国共产党海南省委员会书记
+        org: hainan-provincial-committee-of-the-chinese-communist-party
+        from: "2003"
+        to: 2003-04-01
+  - id: wang-renhua
+    type: person
+    name: 王仁华
+    names:
+      zh: 王仁华
+      en: Wang Renhua
+    gender: M
+    born: "1962"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中央军委政法委原书记
+    ids:
+      wikidata: Q85353312
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%BB%81%E5%8D%8E
+      - https://en.wikipedia.org/wiki/Wang_Renhua
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q85353312
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-renzhi
+    type: person
+    name: 王忍之
+    names:
+      zh: 王忍之
+      en: Wang Renzhi
+    gender: M
+    born: 1933-09-01
+    died: 2025-02-04
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 原中共中央宣传部部长
+    ids:
+      wikidata: Q8290817
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%BF%8D%E4%B9%8B
+      - https://en.wikipedia.org/wiki/Wang_Renzhi
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8290817
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党中央委员会宣传部部长
+        org: ccp-publicity-department
+        from: 1987-02-01
+        to: 1992-12-01
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+        from: 1998-03-01
+        to: 2008-03-01
+      - title: 中国共产党中央委员会委员
+        from: 1985-09-01
+        to: 1987-10-01
+  - id: wang-sentai
+    type: person
+    name: 王森泰
+    names:
+      zh: 王森泰
+      en: Wang Sentai
+    gender: M
+    born: "1951"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8314993
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%A3%AE%E6%B3%B0
+      - https://en.wikipedia.org/wiki/Wang_Sentai
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8314993
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-shengjun
+    type: person
+    name: 王胜俊
+    names:
+      zh: 王胜俊
+      en: Wang Shengjun
+    gender: M
+    born: 1946-10-15
+    country:
+      - CN
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: 中国政治人物
+    ids:
+      wikidata: Q708748
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%83%9C%E4%BF%8A
+      - https://en.wikipedia.org/wiki/Wang_Shengjun
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q708748
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国最高人民法院院长
+        org: supreme-people-s-court-of-the-people-s-republic-of-china
+        from: "2008"
+        to: "2013"
+      - title: 全国人民代表大会常务委员会副委员长
+        org: npc-standing-committee
+        from: 2013-03-14
+        to: 2018-03-17
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-shouwen
+    type: person
+    name: 王受文
+    names:
+      zh: 王受文
+      en: Wang Shouwen
+    gender: M
+    born: 1966-03-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 全国工商联党组成员、专职副主席（正部长级）
+    ids:
+      wikidata: Q97176735
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8F%97%E6%96%87
+      - https://en.wikipedia.org/wiki/Wang_Shouwen
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97176735
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-shouye
+    type: person
+    name: 王守业 (军人)
+    names:
+      zh: 王守业 (军人)
+      en: Wang Shouye
+    gender: M
+    born: "1943"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8318842
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%AE%88%E4%B8%9A_(%E5%86%9B%E4%BA%BA)
+      - https://en.wikipedia.org/wiki/Wang_Shouye
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8318842
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-shuhua
+    type: person
+    name: 王淑华
+    names:
+      zh: 王淑华
+      en: Wang Shuhua
+    gender: F
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    summary: 周永康之妻
+    ids:
+      wikidata: Q16603522
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%B7%91%E5%8D%8E
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16603522
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-sicong
+    type: person
+    name: 王思聪
+    names:
+      zh: 王思聪
+      en: Wang Sicong
+    gender: M
+    born: 1988-01-03
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中國商人
+    ids:
+      wikidata: Q18110121
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%80%9D%E8%81%AA
+      - https://en.wikipedia.org/wiki/Wang_Sicong
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18110121
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-tailan
+    type: person
+    name: 王太岚
+    names:
+      zh: 王太岚
+    gender: M
+    born: "1939"
+    died: 2026-01-25
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8291548
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%A4%AA%E5%B2%9A
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8291548
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-tianpu
+    type: person
+    name: 王天普
+    names:
+      zh: 王天普
+      en: Wang Tianpu
+    gender: M
+    born: 1962-09-01
+    country:
+      - CN
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: Chinese chemist
+    ids:
+      wikidata: Q1108605
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%A4%A9%E6%99%AE
+      - https://en.wikipedia.org/wiki/Wang_Tianpu
+    tags:
+      - cn-business
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1108605
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-tingkai
+    type: person
+    name: 王庭凱
+    names:
+      zh: 王庭凱
+      en: Wang Tingkai
+    gender: M
+    born: "1967"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共天津市委常委、市纪委书记、市监委主任
+    ids:
+      wikidata: Q104723132
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%BA%AD%E5%87%B1
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104723132
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-tongye
+    type: person
+    name: 王统业
+    names:
+      zh: 王统业
+    gender: M
+    born: "1936"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8316945
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%BB%9F%E4%B8%9A
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316945
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-tongzhuo
+    type: person
+    name: 王同琢
+    names:
+      zh: 王同琢
+    gender: M
+    born: "1944"
+    died: 2023-11-12
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8316835
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%90%8C%E7%90%A2
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316835
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-wei
+    type: person
+    name: 王伟
+    names:
+      zh: 王伟
+      en: Wang Wei
+    gender: M
+    born: "1949"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中将
+    ids:
+      wikidata: Q8319574
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%BC%9F_(1949%E5%B9%B4)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319574
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+  - id: wang-wei-1970
+    type: person
+    name: 王卫
+    names:
+      zh: 王卫
+      en: Wang Wei
+    gender: M
+    born: 1970-01-10
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 2
+    summary: 中国企业家
+    netWorth:
+      usd: 44100000000
+    ids:
+      wikidata: Q19662125
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8D%AB_(%E9%A1%BA%E4%B8%B0)
+      - https://en.wikipedia.org/wiki/Wang_Wei_(SF_Express)
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19662125
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-weizhong
+    type: person
+    name: 王伟中
+    names:
+      zh: 王伟中
+      en: Wang Weizhong
+    gender: M
+    born: 1962-03-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国政治人物
+    ids:
+      wikidata: Q16924567
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%BC%9F%E4%B8%AD
+      - https://en.wikipedia.org/wiki/Wang_Weizhong
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16924567
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 广东省人民政府省长
+        org: people-s-government-of-guangdong-province
+        from: 2021-12-27
+        to: 2025-09-30
+  - id: wang-wenquan
+    type: person
+    name: 王文全
+    names:
+      zh: 王文全
+      en: Wang Wenquan
+    gender: M
+    born: 1962-12-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 3
+    summary: 中国人民解放军南部战区政治委员，陆军上将
+    ids:
+      wikidata: Q97349145
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%96%87%E5%85%A8
+      - https://en.wikipedia.org/wiki/Wang_Wenquan
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97349145
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-wenrong
+    type: person
+    name: 王文荣
+    names:
+      zh: 王文荣
+    gender: M
+    born: "1943"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8316864
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%96%87%E8%8D%A3
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316864
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-wentao
+    type: person
+    name: 王文涛
+    names:
+      zh: 王文涛
+      en: Wang Wentao
+    gender: M
+    born: 1964-05-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国商务部部长
+    ids:
+      wikidata: Q8292723
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%96%87%E6%B6%9B
+      - https://en.wikipedia.org/wiki/Wang_Wentao
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292723
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国商务部部长
+        org: ministry-of-commerce-of-the-people-s-republic-of-china
+        from: 2020-12-26
+  - id: wang-wenyin
+    type: person
+    name: 王文银
+    names:
+      zh: 王文银
+      en: Wang Wenyin
+    gender: M
+    born: "1968"
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: Chinese businessman
+    netWorth:
+      usd: 11000000000
+    ids:
+      wikidata: Q24833921
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%96%87%E9%93%B6
+      - https://en.wikipedia.org/wiki/Wang_Wenyin
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24833921
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: wang-xi
+    type: person
+    name: 王曦
+    names:
+      zh: 王曦
+      en: Wang Xi
+    gender: M
+    born: "1966"
+    country:
+      - CN
+    sectors:
+      - politics
+      - academia
+    tier: 3
+    summary: 材料科学家
+    ids:
+      wikidata: Q9315029
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%9B%A6_(%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6%E5%AE%B6)
+      - https://en.wikipedia.org/wiki/Wang_Xi_(politician)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9315029
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-xiangfu
+    type: person
+    name: 王祥富
+    names:
+      zh: 王祥富
+    gender: M
+    born: 1951-04-01
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8319587
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%A5%A5%E5%AF%8C
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319587
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-xiangxi
+    type: person
+    name: 王祥喜
+    names:
+      zh: 王祥喜
+      en: Wang Xiangxi
+    gender: M
+    born: 1962-08-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q16906160
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%A5%A5%E5%96%9C
+      - https://en.wikipedia.org/wiki/Wang_Xiangxi
+    tags:
+      - cn-ministers
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16906160
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中华人民共和国应急管理部部长
+        org: ministry-of-emergency-management-of-the-people-s-republic-of-china
+        from: 2022-07-29
+  - id: wang-xiaohong
+    type: person
+    name: 王小洪
+    names:
+      zh: 王小洪
+      en: Wang Xiaohong
+    gender: M
+    born: 1957-07-11
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中共二十届中央书记处书记，国务委员、国务院党组成员，公安部部长、党委书记，中共中央政法委副书记
+    ids:
+      wikidata: Q18109475
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E6%B4%AA
+      - https://en.wikipedia.org/wiki/Wang_Xiaohong
+    tags:
+      - cn-leaders
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18109475
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 国务委员
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 2023-03-12
+      - title: 中华人民共和国公安部部长
+        org: ministry-of-public-security
+        from: 2022-06-24
+      - title: 中国共产党中央书记处书记
+        org: ccp-secretariat
+  - id: wang-xiaohui
+    type: person
+    name: 王晓晖
+    names:
+      zh: 王晓晖
+      en: Wang Xiaohui
+    gender: M
+    born: 1962-08-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共四川省委书记、四川省人大常委会主任
+    ids:
+      wikidata: Q16906065
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%99%93%E6%99%96
+      - https://en.wikipedia.org/wiki/Wang_Xiaohui
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16906065
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-xiaojun
+    type: person
+    name: 王晓军
+    names:
+      zh: 王晓军
+      en: Wang Xiaojun
+    gender: M
+    born: 1952-09-01
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese army general
+    ids:
+      wikidata: Q8315039
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%99%93%E5%86%9B
+      - https://en.wikipedia.org/wiki/Wang_Xiaojun
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315039
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-xiaolong
+    type: person
+    name: 王晓龙 (中将)
+    names:
+      zh: 王晓龙 (中将)
+    gender: M
+    born: "1952"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8316873
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%99%93%E9%BE%99_(%E4%B8%AD%E5%B0%86)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316873
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-xiaoping
+    type: person
+    name: 王晓萍
+    names:
+      zh: 王晓萍
+      en: Wang Xiaoping
+    gender: F
+    born: 1964-03-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国人力资源和社会保障部部长
+    ids:
+      wikidata: Q22099641
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%99%93%E8%90%8D_(1964%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wang_Xiaoping
+    tags:
+      - cn-ministers
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22099641
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国人力资源和社会保障部部长
+        org: ministry-of-human-resources-and-social-security-of-the-people-s-republic-of-chin
+        from: 2022-12-30
+  - id: wang-xiaoyun
+    type: person
+    name: 王晓云
+    names:
+      zh: 王晓云
+    gender: F
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: Chinese politician
+    ids:
+      wikidata: Q104723154
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%99%93%E4%BA%91
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104723154
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-xing
+    type: person
+    name: 王兴
+    names:
+      zh: 王兴
+      en: Wang Xing
+    gender: M
+    born: 1979-02-18
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国商人
+    ids:
+      wikidata: Q18235069
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%85%B4_(%E7%BE%8E%E5%9B%A2)
+      - https://en.wikipedia.org/wiki/Wang_Xing
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18235069
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-xingxing
+    type: person
+    name: 王兴兴
+    names:
+      zh: 王兴兴
+      en: Wang Xingxing
+    gender: M
+    born: 1990-03-01
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中國企業家
+    ids:
+      wikidata: Q132794691
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%85%B4%E5%85%B4
+      - https://en.wikipedia.org/wiki/Wang_Xingxing
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q132794691
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-xinwei
+    type: person
+    name: 王新伟
+    names:
+      zh: 王新伟
+      en: Wang Xinwei
+    gender: M
+    born: "1967"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共辽宁省委副书记、辽宁省人民政府省长
+    ids:
+      wikidata: Q22099152
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%96%B0%E4%BC%9F
+      - https://en.wikipedia.org/wiki/Wang_Xinwei
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22099152
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 沈阳市市长
+        from: 2021-01-22
+        to: 2021-10-31
+  - id: wang-xisha
+    type: person
+    name: 汪溪沙
+    names:
+      zh: 汪溪沙
+      en: Wang Xisha
+    gender: F
+    born: 1982-10-11
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    summary: daughter of Wang Yang
+    ids:
+      wikidata: Q55715807
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B1%AA%E6%BA%AA%E6%B2%99
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55715807
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-xiubin
+    type: person
+    name: 王秀斌
+    names:
+      zh: 王秀斌
+      en: Wang Xiubin
+    gender: M
+    born: 1964-03-01
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 2
+    summary: 中国人民解放军人物
+    ids:
+      wikidata: Q47670137
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%A7%80%E6%96%8C
+      - https://en.wikipedia.org/wiki/Wang_Xiubin
+    tags:
+      - cn-military
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47670137
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-xudong
+    type: person
+    name: 王旭东
+    names:
+      zh: 王旭东
+      en: Wang Xudong
+    gender: M
+    born: "1967"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 文化和旅游部党组成员、故宫博物院院长（副部长级）
+    ids:
+      wikidata: Q63035008
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%97%AD%E4%B8%9C_(1967%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wang_Xudong_(curator)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q63035008
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 博物館館長
+        org: museum
+  - id: wang-yang
+    type: person
+    name: 汪洋
+    names:
+      zh: 汪洋
+      en: Wang Yang
+    gender: M
+    born: 1955-03-12
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 1
+    summary: 2018年至2023年全国政协主席
+    ids:
+      wikidata: Q734914
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B1%AA%E6%B4%8B_(1955%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wang_Yang_(politician)
+    tags:
+      - cn-leaders
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q734914
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党广东省委员会书记
+        org: guangdong-provincial-committee-of-the-chinese-communist-party
+        from: "2007"
+        to: "2012"
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中华人民共和国国务院副总理
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 2013-03-16
+        to: 2018-03-19
+      - title: 中国共产党中央政治局委员
+        from: 2007-10-22
+      - title: 中国共产党中央政治局常务委员会委员
+        org: ccp-politburo-standing-committee
+        from: 2017-10-25
+        to: 2022-10-23
+  - id: wang-yeping
+    type: person
+    name: 王冶坪
+    names:
+      zh: 王冶坪
+      en: Wang Yeping
+    gender: F
+    born: 1928-02-12
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 4
+    summary: 前中共中央总书记江泽民的妻子
+    ids:
+      wikidata: Q717483
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%86%B6%E5%9D%AA
+      - https://en.wikipedia.org/wiki/Wang_Yeping
+    tags:
+      - relative
+    attrs:
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q717483
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国主席夫人
+        from: 1993-03-27
+        to: 2003-03-15
+      - title: 中华人民共和国第一夫人
+        from: 1989-11-09
+        to: 2002-11-15
+  - id: wang-yi
+    type: person
+    name: 王毅
+    names:
+      zh: 王毅
+      en: Wang Yi
+    gender: M
+    born: 1953-10-19
+    country:
+      - CN
+    sectors:
+      - politics
+      - diplomacy
+    tier: 2
+    summary: 中共中央政治局委员、中央外事工作委员会办公室主任、中华人民共和国外交部部长
+    ids:
+      wikidata: Q701801
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%AF%85
+      - https://en.wikipedia.org/wiki/Wang_Yi
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 52
+    sources:
+      - url: https://www.wikidata.org/wiki/Q701801
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 国务委员
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 2018-03-19
+        to: 2023-03-12
+      - title: 中华人民共和国外交部部长
+        org: prc-mfa
+        from: 2023-07-25
+      - title: 中华人民共和国外交部部长
+        org: prc-mfa
+        from: 2013-03-16
+        to: 2022-12-30
+      - title: 中共中央台湾工作办公室主任
+        org: taiwan-affairs-office
+        from: 2008-06-01
+        to: 2013-03-16
+      - title: 中国共产党中央政治局委员
+        from: "2022"
+      - title: 中华人民共和国外交部副部长
+        from: 2001-02-17
+        to: 2004-07-03
+      - title: 中华人民共和国外交部副部长
+        from: 2007-08-09
+        to: 2008-06-02
+      - title: 中国驻日本大使
+        from: 2004-09-26
+        to: 2007-09-24
+      - title: 中华人民共和国外交部亚洲司司长
+        from: "1995"
+        to: "1998"
+  - id: wang-yiquan
+    type: person
+    name: 王义全
+    names:
+      zh: 王义全
+      en: Wang Yiquan
+    gender: M
+    born: 1911-06-15
+    died: 2013-05-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q20063834
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%B9%89%E5%85%A8
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20063834
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-yong
+    type: person
+    name: 王勇
+    names:
+      zh: 王勇
+      en: Wang Yong
+    gender: M
+    born: 1955-12-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 全国政协副主席
+    ids:
+      wikidata: Q2548285
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8B%87_(1955%E5%B9%B412%E6%9C%88)
+      - https://en.wikipedia.org/wiki/Wang_Yong_(politician%2C_born_1955)
+    tags:
+      - cn-leaders
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2548285
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 国务委员
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 2013-03-01
+        to: 2023-03-11
+      - title: 中国人民政治协商会议全国委员会副主席
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+      - title: 国务院国有资产监督管理委员会主任
+        org: state-owned-assets-supervision-and-administration-commission-of-the-state-counci
+        to: 2013-03-01
+  - id: wang-yongguo
+    type: person
+    name: 王永国
+    names:
+      zh: 王永国
+      en: Wang Yongguo
+    gender: M
+    born: "1938"
+    died: 2026-05-07
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8319288
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%B0%B8%E5%9B%BD
+      - https://en.wikipedia.org/wiki/Wang_Yongguo
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319288
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-yonghong
+    type: person
+    name: 王永红
+    names:
+      zh: 王永红
+      en: Wang Yonghong
+    gender: M
+    born: 1969-06-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国国务院副秘书长、国家机关事务管理局局长
+    ids:
+      wikidata: Q48936797
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%B0%B8%E7%BA%A2_(1969%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wang_Yonghong
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48936797
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 国家机关事务管理局局长
+        from: 2022-06-24
+      - title: 中华人民共和国国务院副秘书长
+        from: 2023-07-04
+  - id: wang-yongming
+    type: person
+    name: 王永明
+    names:
+      zh: 王永明
+      en: Wang Yongming
+    gender: M
+    born: "1930"
+    died: "1994"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: Chinese politician
+    ids:
+      wikidata: Q8316879
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%B0%B8%E6%98%8E_(%E4%B8%AD%E5%B0%86)
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316879
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-yongsheng
+    type: person
+    name: 王永生
+    names:
+      zh: 王永生
+    gender: M
+    born: "1952"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中国人民解放军中将
+    ids:
+      wikidata: Q8316883
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%B0%B8%E7%94%9F_(1952%E5%B9%B4)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316883
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-yubo
+    type: person
+    name: 王予波
+    names:
+      zh: 王予波
+      en: Wang Yubo
+    gender: M
+    born: "1963"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共云南省委副书记、云南省人民政府省长
+    ids:
+      wikidata: Q16905809
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%BA%88%E6%B3%A2
+      - https://en.wikipedia.org/wiki/Wang_Yubo
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16905809
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-yucheng
+    type: person
+    name: 王玉成
+    names:
+      zh: 王玉成
+    gender: M
+    born: "1942"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8319295
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%8E%89%E6%88%90_(%E6%B5%B7%E5%86%9B%E4%B8%AD%E5%B0%86)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319295
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-yufa
+    type: person
+    name: 王玉发
+    names:
+      zh: 王玉发
+      en: Wang Yufa
+    gender: M
+    born: 1948-08-01
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese lieutenant general
+    ids:
+      wikidata: Q8332492
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%8E%89%E5%8F%91
+      - https://en.wikipedia.org/wiki/Wang_Yufa
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8332492
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-yupu
+    type: person
+    name: 王玉普
+    names:
+      zh: 王玉普
+      en: Wang Yupu
+    gender: M
+    born: 1956-10-06
+    died: 2020-12-08
+    country:
+      - CN
+    sectors:
+      - politics
+      - business
+    tier: 3
+    summary: Chinese businessman (1956-2020)
+    ids:
+      wikidata: Q8292093
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%8E%89%E6%99%AE
+      - https://en.wikipedia.org/wiki/Wang_Yupu
+    tags:
+      - cn-ministers
+      - cn-business
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292093
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中华人民共和国应急管理部部长
+        org: ministry-of-emergency-management-of-the-people-s-republic-of-china
+        from: 2018-03-19
+        to: 2020-12-08
+  - id: wang-zengbo
+    type: person
+    name: 王增钵
+    names:
+      zh: 王增钵
+    gender: M
+    born: "1950"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8316842
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%A2%9E%E9%92%B5
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316842
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-zhaoguo
+    type: person
+    name: 王兆国
+    names:
+      zh: 王兆国
+      en: Wang Zhaoguo
+    gender: M
+    born: 1941-07-14
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q711168
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%85%86%E5%9B%BD
+      - https://en.wikipedia.org/wiki/Wang_Zhaoguo
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q711168
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国人民政治协商会议全国委员会副主席
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+        from: 1993-03-27
+        to: 2003-03-05
+      - title: 全国人民代表大会常务委员会副委员长
+        org: npc-standing-committee
+        from: 2003-03-15
+        to: 2013-03-05
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 福建省省长
+        org: fujian-provincial-people-s-government
+        from: "1987"
+        to: "1990"
+      - title: 福建省省长
+        org: fujian-provincial-people-s-government
+      - title: 中共中央台湾工作办公室主任
+        org: taiwan-affairs-office
+        to: 1996-12-09
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国人民代表大会常务委员会委员
+        org: npc-standing-committee
+      - title: 中国共产党中央政治局委员
+        from: 2002-11-15
+        to: 2012-11-15
+      - title: 中国共产党中央委员会统一战线工作部部长
+        org: ccp-united-front-work-department
+        from: 1992-12-01
+        to: 2002-12-01
+  - id: wang-zhaohai
+    type: person
+    name: 王兆海
+    names:
+      zh: 王兆海
+      en: Wang Zhaohai
+    gender: M
+    born: "1950"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8319284
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%85%86%E6%B5%B7
+      - https://en.wikipedia.org/wiki/Wang_Zhaohai
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319284
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-zhen
+    type: person
+    name: 王震
+    names:
+      zh: 王震
+      en: Wang Zhen
+    gender: M
+    born: 1908-04-11
+    died: 1993-03-12
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 3
+    summary: 中國軍事將領、政治人物
+    ids:
+      wikidata: Q513976
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E9%9C%87
+      - https://en.wikipedia.org/wiki/Wang_Zhen_(general)
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q513976
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国副主席
+        from: 1988-03-15
+        to: 1993-03-12
+      - title: 中共新疆维吾尔自治区委书记
+        org: xinjiang-uygur-autonomous-regional-committee-of-the-chinese-communist-party
+        from: "1949"
+        to: "1952"
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-zhengpu
+    type: person
+    name: 王正谱
+    names:
+      zh: 王正谱
+      en: Wang Zhengpu
+    gender: M
+    born: "1963"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共河北省委副书记、河北省人民政府省长
+    ids:
+      wikidata: Q9315238
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%AD%A3%E8%B0%B1
+      - https://en.wikipedia.org/wiki/Wang_Zhengpu
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9315238
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 河北省省长
+        org: people-s-government-of-hebei-province
+        from: 2021-10-21
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-zhengwei
+    type: person
+    name: 王正伟
+    names:
+      zh: 王正伟
+      en: Wang Zhengwei
+    gender: M
+    born: 1957-06-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中華人民共和國政治人物
+    ids:
+      wikidata: Q3369495
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%AD%A3%E4%BC%9F
+      - https://en.wikipedia.org/wiki/Wang_Zhengwei
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3369495
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国人民政治协商会议全国委员会副主席
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+        from: 2013-03-11
+        to: 2023-03-10
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: wang-zhicheng
+    type: person
+    name: 王志成
+    names:
+      zh: 王志成
+    gender: M
+    born: "1937"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8316862
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%BF%97%E6%88%90
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316862
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wang-zhijun
+    type: person
+    name: 王志军
+    names:
+      zh: 王志军
+      en: Wang Zhijun
+    gender: M
+    born: 1965-09-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国国务院副秘书长（分管国务院办公厅日常工作，正部长级）
+    ids:
+      wikidata: Q104723140
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%BF%97%E5%86%9B
+      - https://en.wikipedia.org/wiki/Wang_Zhijun
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104723140
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国国务院副秘书长
+        from: 2023-07-04
+  - id: wang-zhimin
+    type: person
+    name: 王治民
+    names:
+      zh: 王治民
+    gender: M
+    born: "1953"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8316885
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%B2%BB%E6%B0%91
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316885
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-zhongcai
+    type: person
+    name: 王仲才
+    names:
+      zh: 王仲才
+      en: Wang Zhongcai
+    gender: M
+    born: "1963"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: commander of the ETCN
+    ids:
+      wikidata: Q47688508
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%BB%B2%E6%89%8D
+      - https://en.wikipedia.org/wiki/Wang_Zhongcai
+    tags:
+      - cn-military
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47688508
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-zhongjun
+    type: person
+    name: 王中军
+    names:
+      zh: 王中军
+      en: Wang Zhongjun
+    gender: M
+    born: 1960-11-30
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: Chinese film producer and businessman
+    ids:
+      wikidata: Q9058393
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%B8%AD%E5%86%9B
+      - https://en.wikipedia.org/wiki/Wang_Zhongjun
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9058393
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wang-zhonglin
+    type: person
+    name: 王忠林
+    names:
+      zh: 王忠林
+      en: Wang Zhonglin
+    gender: M
+    born: 1962-08-13
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 第二十届中央委员 中共湖北省委副书记 省人民政府省长
+    ids:
+      wikidata: Q28417164
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%BF%A0%E6%9E%97_(1962%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wang_Zhonglin_(politician)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28417164
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 湖北省人民政府省长
+        org: people-s-government-of-hubei-province
+        from: 2021-05-07
+        to: 2025-01-02
+  - id: wang-zhongyu
+    type: person
+    name: 王忠禹
+    names:
+      zh: 王忠禹
+      en: Wang Zhongyu
+    gender: M
+    born: 1933-02-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - tech
+    tier: 2
+    summary: 原中华人民共和国国务委员兼国务院秘书长
+    ids:
+      wikidata: Q9065426
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%BF%A0%E7%A6%B9
+      - https://en.wikipedia.org/wiki/Wang_Zhongyu_(politician%2C_born_1933)
+    tags:
+      - cn-leaders
+      - cn-ministers
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9065426
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国国务院秘书长
+        org: general-office-of-the-state-council
+        from: 1998-03-01
+        to: 2003-03-01
+      - title: 中国人民政治协商会议全国委员会副主席
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+        from: 2003-03-01
+        to: 2008-03-01
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 吉林省人民政府省长
+        org: people-s-government-of-jilin-province
+        from: "1989"
+        to: "1992"
+  - id: warren-buffett
+    type: person
+    name: Warren Buffett
+    names:
+      zh: 沃伦·巴菲特
+      en: Warren Buffett
+    gender: M
+    born: 1930-08-30
+    country:
+      - US
+    sectors:
+      - business
+      - academia
+      - finance
+    tier: 1
+    summary: 美國商業巨頭，投資者和慈善家
+    netWorth:
+      usd: 117200000000
+    ids:
+      wikidata: Q47213
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B2%83%E4%BC%A6%C2%B7%E5%B7%B4%E8%8F%B2%E7%89%B9
+      - https://en.wikipedia.org/wiki/Warren_Buffett
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 140
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47213
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席执行官
+        from: "1970"
+        to: "2026"
+  - id: warren-christopher
+    type: person
+    name: Warren Christopher
+    names:
+      zh: 沃伦·克里斯托弗
+      en: Warren Christopher
+    gender: M
+    born: 1925-10-17
+    died: 2011-03-18
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - judiciary
+    tier: 2
+    summary: 美国律师和外交官
+    ids:
+      wikidata: Q294358
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B2%83%E4%BC%A6%C2%B7%E5%85%8B%E9%87%8C%E6%96%AF%E6%89%98%E5%BC%97
+      - https://en.wikipedia.org/wiki/Warren_Christopher
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 47
+    sources:
+      - url: https://www.wikidata.org/wiki/Q294358
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国国务卿
+        org: united-states-department-of-state
+        from: 1980-04-28
+        to: 1980-05-02
+      - title: 美国国务卿
+        org: united-states-department-of-state
+        from: 1980-05-04
+        to: 1980-05-08
+      - title: 美国国务卿
+        org: united-states-department-of-state
+        from: 1993-01-20
+        to: 1997-01-17
+      - title: 美國副司法部長
+        from: 1967-03-10
+        to: 1969-01-20
+      - title: 美国副国务卿
+        from: 1977-02-26
+        to: 1981-01-20
+  - id: warren-davidson
+    type: person
+    name: Warren Davidson
+    names:
+      zh: 沃倫·大衛森
+      en: Warren Davidson
+    gender: M
+    born: 1970-03-01
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: U.S. Representative from Ohio
+    ids:
+      wikidata: Q24458117
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B2%83%E5%80%AB%C2%B7%E5%A4%A7%E8%A1%9B%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Warren_Davidson
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24458117
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2016-06-07
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: warren-stephens
+    type: person
+    name: Warren Stephens
+    names:
+      en: Warren Stephens
+    gender: M
+    born: 1957-02-18
+    country:
+      - US
+    sectors:
+      - business
+      - diplomacy
+    tier: 4
+    summary: American chief executive and diplomat (born 1957)
+    netWorth:
+      usd: 2600000000
+    ids:
+      wikidata: Q7970502
+    links:
+      - https://en.wikipedia.org/wiki/Warren_Stephens
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7970502
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國駐英大使
+        org: embassy-of-the-united-states-london
+        from: 2025-04-30
+  - id: wayne-chatfield-taylor
+    type: person
+    name: Wayne Chatfield-Taylor
+    names:
+      en: Wayne Chatfield-Taylor
+    gender: M
+    born: 1893-12-19
+    died: 1967-11-22
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 5
+    summary: American economist (1893–1967)
+    ids:
+      wikidata: Q7976088
+    links:
+      - https://en.wikipedia.org/wiki/Wayne_Chatfield-Taylor
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7976088
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: webster-b-todd
+    type: person
+    name: Webster B. Todd
+    names:
+      en: Webster B. Todd
+    gender: M
+    born: 1899-08-27
+    died: 1989-02-08
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: Republican party leader in New Jersey
+    ids:
+      wikidata: Q7978888
+    links:
+      - https://en.wikipedia.org/wiki/Webster_B._Todd
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7978888
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wei-fenghe
+    type: person
+    name: 魏凤和
+    names:
+      zh: 魏凤和
+      en: Wei Fenghe
+    gender: M
+    born: 1954-02-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 2
+    summary: 中国人民解放军火箭军原上将，中华人民共和国原国务委员、国防部原部长
+    ids:
+      wikidata: Q7929529
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AD%8F%E5%87%A4%E5%92%8C
+      - https://en.wikipedia.org/wiki/Wei_Fenghe
+    tags:
+      - cn-leaders
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7929529
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 国务委员
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 2018-03-19
+        to: 2023-03-11
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+        to: 2024-06-27
+      - title: 中华人民共和国国防部部长
+        org: ministry-of-national-defense-of-the-people-s-republic-of-china
+        from: 2018-03-19
+        to: 2023-03-12
+  - id: wei-gang
+    type: person
+    name: 魏钢
+    names:
+      zh: 魏钢
+      en: Wei Gang
+    gender: M
+    born: "1960"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: military personnel in the Navy of the PLA
+    ids:
+      wikidata: Q24834036
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AD%8F%E9%92%A2_(%E6%B5%B7%E5%86%9B%E4%B8%AD%E5%B0%86)
+      - https://en.wikipedia.org/wiki/Wei_Gang_(PLA_Navy)
+    tags:
+      - cn-military
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24834036
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wei-jianxing
+    type: person
+    name: 尉健行
+    names:
+      zh: 尉健行
+      en: Wei Jianxing
+    gender: M
+    born: 1931-01-02
+    died: 2015-08-07
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 1
+    summary: 前中国共产党中央政治局常委和中纪委书记 (1931-2015)
+    ids:
+      wikidata: Q1133559
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%89%E5%81%A5%E8%A1%8C
+      - https://en.wikipedia.org/wiki/Wei_Jianxing
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1133559
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党北京市委员会书记
+        org: beijing-municipal-committee-of-the-chinese-communist-party
+        from: "1995"
+        to: "1997"
+      - title: 中国共产党中央政治局常务委员会委员
+        org: ccp-politburo-standing-committee
+        from: 1997-09-19
+        to: 2002-11-15
+  - id: wei-liang
+    type: person
+    name: 魏亮
+    names:
+      zh: 魏亮
+      en: Wei Liang
+    gender: M
+    born: 1953-02-01
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8293985
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AD%8F%E4%BA%AE
+      - https://en.wikipedia.org/wiki/Wei_Liang
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8293985
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wei-tao
+    type: person
+    name: 韦韬
+    names:
+      zh: 韦韬
+      en: Wei Tao
+    gender: M
+    born: 1970-04-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共广西壮族自治区党委副书记、广西壮族自治区人民政府主席
+    ids:
+      wikidata: Q97301116
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9F%A6%E9%9F%AC
+      - https://en.wikipedia.org/wiki/Wei_Tao
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97301116
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 广西壮族自治区主席
+  - id: wei-wenhua
+    type: person
+    name: 魏文华
+    names:
+      zh: 魏文华
+      en: Wei Wenhua
+    gender: M
+    born: 1967-01-03
+    died: 2008-01-07
+    country:
+      - CN
+    sectors:
+      - business
+      - media
+    tier: 4
+    summary: 中國商人
+    ids:
+      wikidata: Q542997
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AD%8F%E6%96%87%E5%8D%8E%E4%BA%8B%E4%BB%B6
+      - https://en.wikipedia.org/wiki/Wei_Wenhua
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q542997
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wei-wenhui
+    type: person
+    name: Wei Wenhui
+    names:
+      zh: 魏文徽
+      en: Wei Wenhui
+    gender: M
+    born: "1966"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国人民解放军南部战区副司令员，海军中将
+    ids:
+      wikidata: Q116226214
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AD%8F%E6%96%87%E5%BE%BD
+      - https://en.wikipedia.org/wiki/Wei_Wenhui
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116226214
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wen-gang
+    type: person
+    name: 温刚
+    names:
+      zh: 温刚
+      en: Wen Gang
+    gender: M
+    born: 1966-08-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - academia
+      - business
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q113613754
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B8%A9%E5%88%9A
+      - https://en.wikipedia.org/wiki/Wen_Gang
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q113613754
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wen-guangchun
+    type: person
+    name: 温光春
+    names:
+      zh: 温光春
+    gender: M
+    born: "1941"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8316757
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B8%A9%E5%85%89%E6%98%A5
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316757
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wen-guoqing
+    type: person
+    name: 文国庆
+    names:
+      zh: 文国庆
+      en: Wen Guoqing
+    gender: M
+    born: "1935"
+    died: 2020-08-13
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese army vice-admiral
+    ids:
+      wikidata: Q8319167
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%96%87%E5%9B%BD%E5%BA%86
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319167
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wen-jiabao
+    type: person
+    name: 温家宝
+    names:
+      zh: 温家宝
+      en: Wen Jiabao
+    gender: M
+    born: 1942-09-15
+    country:
+      - CN
+    sectors:
+      - politics
+      - tech
+      - academia
+    tier: 1
+    summary: 中共第十六届、十七届中央政治局常委，国务院原总理、原党组书记
+    ids:
+      wikidata: Q16628
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B8%A9%E5%AE%B6%E5%AE%9D
+      - https://en.wikipedia.org/wiki/Wen_Jiabao
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 86
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16628
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国国务院总理
+        org: state-council-prc
+        from: 2003-03-16
+        to: 2013-03-15
+      - title: 中华人民共和国国务院副总理
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 1998-03-18
+        to: 2003-03-16
+      - title: 中国共产党中央委员会办公厅主任
+        org: ccp-general-office
+        from: 1986-04-01
+        to: 1993-03-01
+      - title: 中国共产党中央政治局委员
+        from: 1997-09-19
+        to: 2012-11-15
+      - title: 中国共产党中央政治局常务委员会委员
+        org: ccp-politburo-standing-committee
+        from: 2002-11-15
+        to: 2012-11-15
+  - id: wen-ruchun
+    type: person
+    name: Wen Ruchun
+    names:
+      zh: 温如春
+      en: Wen Ruchun
+    gender: F
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: 温家宝之女
+    ids:
+      wikidata: Q15914799
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B8%A9%E5%A6%82%E6%98%A5
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15914799
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wen-xisen
+    type: person
+    name: 温熙森
+    names:
+      zh: 温熙森
+      en: Wen Xisen
+    gender: M
+    born: "1945"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese solider and university president
+    ids:
+      wikidata: Q8291742
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B8%A9%E7%86%99%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Wen_Xisen
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8291742
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: wen-yunsong-1953
+    type: person
+    name: 温云松
+    names:
+      zh: 温云松
+      en: Wen Yunsong
+    gender: M
+    born: "1953"
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 5
+    summary: 中國企業家、溫家寶之子
+    ids:
+      wikidata: Q3380941
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B8%A9%E4%BA%91%E6%9D%BE
+      - https://en.wikipedia.org/wiki/Wen_Yunsong
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3380941
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wendi-deng
+    type: person
+    name: 邓文迪
+    names:
+      zh: 邓文迪
+      en: Wendi Murdoch
+    gender: F
+    born: 1968-12-05
+    country:
+      - US
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: Chinese-American businesswoman (1968-)
+    ids:
+      wikidata: Q2213516
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%82%93%E6%96%87%E8%BF%AA
+      - https://en.wikipedia.org/wiki/Wendi_Deng_Murdoch
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2213516
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wendy-schmidt
+    type: person
+    name: Wendy Schmidt
+    names:
+      zh: 溫蒂·史密特
+      en: Wendy Schmidt
+    gender: F
+    born: 1955-07-26
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: philanthropist
+    ids:
+      wikidata: Q16186882
+    links:
+      - https://en.wikipedia.org/wiki/Wendy_Schmidt
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16186882
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 会长
+        org: organization
+  - id: wes-moore
+    type: person
+    name: Wes Moore
+    names:
+      zh: 韋斯·摩爾
+      en: Wes Moore
+    gender: M
+    born: 1978-10-15
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - media
+    tier: 3
+    summary: 美国政治人物
+    ids:
+      wikidata: Q7983732
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9F%8B%E6%96%AF%C2%B7%E6%91%A9%E7%88%BE
+      - https://en.wikipedia.org/wiki/Wes_Moore
+    tags:
+      - us-governors
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 23
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7983732
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席执行官
+        from: "2017"
+        to: "2021"
+      - title: 馬里蘭州州長
+        org: state-of-maryland
+        from: 2023-01-18
+  - id: wesley-bell
+    type: person
+    name: Wesley Bell
+    names:
+      en: Wesley Bell
+    gender: M
+    born: 1974-11-05
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American attorney and politician (born 1974)
+    ids:
+      wikidata: Q23806350
+    links:
+      - https://en.wikipedia.org/wiki/Wesley_Bell
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23806350
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: wesley-britt
+    type: person
+    name: Wesley Britt
+    names:
+      en: Wesley Britt
+    gender: M
+    born: 1981-11-21
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: player of American football
+    ids:
+      wikidata: Q7983854
+    links:
+      - https://en.wikipedia.org/wiki/Wesley_Britt
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7983854
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wesley-hunt
+    type: person
+    name: Wesley Hunt
+    names:
+      zh: 韦斯利·亨特
+      en: Wesley Hunt
+    gender: M
+    born: 1981-11-13
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+    tier: 4
+    summary: American politician (born 1981)
+    ids:
+      wikidata: Q110434665
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9F%A6%E6%96%AF%E5%88%A9%C2%B7%E4%BA%A8%E7%89%B9
+      - https://en.wikipedia.org/wiki/Wesley_Hunt
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110434665
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: whitney-ann-kroenke
+    type: person
+    name: Whitney Ann Kroenke
+    names:
+      zh: 惠特尼·克伦克·伯迪特
+      en: Whitney Ann Kroenke
+    gender: F
+    born: 1977-09-29
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American heiress
+    ids:
+      wikidata: Q16731064
+    links:
+      - https://en.wikipedia.org/wiki/Whitney_Ann_Kroenke
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16731064
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: whitney-wolfe-herd
+    type: person
+    name: Whitney Wolfe Herd
+    names:
+      zh: 惠特尼·沃爾夫·赫德
+      en: Whitney Wolfe Herd
+    gender: F
+    born: 1989-07-01
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American businesswoman
+    ids:
+      wikidata: Q19967707
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%83%A0%E7%89%B9%E5%B0%BC%C2%B7%E6%B2%83%E7%88%BE%E5%A4%AB%C2%B7%E8%B5%AB%E5%BE%B7
+      - https://en.wikipedia.org/wiki/Whitney_Wolfe_Herd
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19967707
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wilbur-l-ross-jr
+    type: person
+    name: Wilbur L. Ross Jr.
+    names:
+      zh: 威尔伯·罗斯
+      en: Wilbur L. Ross Jr.
+    gender: M
+    born: 1937-11-28
+    country:
+      - US
+    sectors:
+      - politics
+      - finance
+    tier: 2
+    summary: United States 39th Secretary of Commerce
+    netWorth:
+      usd: 2900000000
+    ids:
+      wikidata: Q8000233
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A8%81%E5%B0%94%E4%BC%AF%C2%B7%E7%BD%97%E6%96%AF
+      - https://en.wikipedia.org/wiki/Wilbur_Ross
+    tags:
+      - us-executive
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 31
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8000233
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國商務部長
+        org: united-states-department-of-commerce
+        from: 2017-02-28
+        to: 2021-01-20
+  - id: william-barr
+    type: person
+    name: William Barr
+    names:
+      zh: 威廉·巴尔
+      en: William Barr
+    gender: M
+    born: 1950-05-23
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: 美國律師和政府官員
+    ids:
+      wikidata: Q723917
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E5%B7%B4%E5%B0%94
+      - https://en.wikipedia.org/wiki/William_Barr
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 35
+    sources:
+      - url: https://www.wikidata.org/wiki/Q723917
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國副司法部長
+        from: 1990-05-26
+        to: 1991-11-26
+      - title: 美國司法部長
+        org: us-doj
+        from: 1991-11-26
+        to: 1993-01-20
+      - title: 美國司法部長
+        org: us-doj
+        from: 1991-08-16
+        to: 1991-11-26
+      - title: 美國司法部長
+        org: us-doj
+        from: 2019-02-14
+        to: 2020-12-23
+      - title: 司法部长
+        org: justice-ministry
+  - id: william-benjamin-rehnquist
+    type: person
+    name: William Benjamin Rehnquist
+    names:
+      en: William Benjamin Rehnquist
+    gender: M
+    born: "1894"
+    died: "1973"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: 1894 - 1973
+    ids:
+      wikidata: Q98646635
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q98646635
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: william-blaney-richardson
+    type: person
+    name: William Blaney Richardson
+    names:
+      en: William Blaney Richardson
+    gender: M
+    born: 1891-05-25
+    died: 1972-07-27
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: 25 May 1891 Chinandega, Nicaragua - 27 Jul 1972 Colonia del Valle, México
+    ids:
+      wikidata: Q96209989
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96209989
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: william-bundy
+    type: person
+    name: William Bundy
+    names:
+      zh: 彭岱
+      en: William Bundy
+    gender: M
+    born: 1917-09-24
+    died: 2000-10-06
+    country:
+      - US
+    sectors:
+      - judiciary
+      - academia
+      - media
+    tier: 5
+    summary: American Presidential advisor (1917–2000)
+    ids:
+      wikidata: Q8006135
+    links:
+      - https://en.wikipedia.org/wiki/William_Bundy
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8006135
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國東亞及太平洋事務助理國務卿
+        org: bureau-of-east-asian-and-pacific-affairs
+        from: 1964-03-16
+        to: 1969-05-04
+  - id: william-cohen
+    type: person
+    name: William Cohen
+    names:
+      zh: 威廉·科漢
+      en: William Cohen
+    gender: M
+    born: 1940-08-28
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - judiciary
+    tier: 2
+    summary: American politician (born 1940)
+    ids:
+      wikidata: Q710721
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E7%A7%91%E6%BC%A2
+      - https://en.wikipedia.org/wiki/William_Cohen
+    tags:
+      - us-executive
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 32
+    sources:
+      - url: https://www.wikidata.org/wiki/Q710721
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 市长
+        from: "1971"
+        to: "1972"
+      - title: 美国国防部长
+        org: united-states-department-of-defense
+        from: 1997-01-24
+        to: 2001-01-20
+      - title: 美國參議員
+        org: us-senate
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1985-01-03
+        to: 1987-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1979-01-03
+        to: 1981-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1993-01-03
+        to: 1995-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1981-01-03
+        to: 1983-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1995-01-03
+        to: 1997-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1983-01-03
+        to: 1985-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 成员
+        org: membership-organization
+        from: "1969"
+        to: "1972"
+      - title: 成员
+        org: membership-organization
+        from: "1970"
+        to: "1971"
+      - title: 美国众议员
+        org: us-house
+        from: 1977-01-03
+        to: 1979-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1975-01-03
+        to: 1977-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1973-01-03
+        to: 1975-01-03
+  - id: william-cook
+    type: person
+    name: William Cook
+    names:
+      en: William Cook
+    gender: M
+    born: 1931-01-27
+    died: 2011-04-15
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American entrepreneur
+    ids:
+      wikidata: Q8007078
+    links:
+      - https://en.wikipedia.org/wiki/William_Cook_(entrepreneur)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8007078
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: william-d-payne
+    type: person
+    name: William D. Payne
+    names:
+      en: William D. Payne
+    gender: M
+    born: 1932-07-08
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q8007507
+    links:
+      - https://en.wikipedia.org/wiki/William_D._Payne
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8007507
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 新澤西州眾議員
+        org: new-jersey-general-assembly
+  - id: william-e-conway-jr
+    type: person
+    name: William E. Conway, Jr.
+    names:
+      en: William E. Conway, Jr.
+    gender: M
+    born: 1949-08-27
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 4
+    summary: 美國商人
+    netWorth:
+      usd: 4600000000
+    ids:
+      wikidata: Q8008212
+    links:
+      - https://en.wikipedia.org/wiki/William_E._Conway_Jr.
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8008212
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: william-fung
+    type: person
+    name: 馮國綸
+    names:
+      zh: 馮國綸
+      en: William Fung
+    gender: M
+    born: 1949-02-21
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: Hong Kong businessman
+    ids:
+      wikidata: Q8009484
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%A6%AE%E5%9C%8B%E7%B6%B8
+      - https://en.wikipedia.org/wiki/William_Fung
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8009484
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 太平紳士
+  - id: william-h-t-bush
+    type: person
+    name: William H. T. Bush
+    names:
+      zh: 威廉·H·T·布什
+      en: William H. T. Bush
+    gender: M
+    born: "1938"
+    died: 2018-02-27
+    country:
+      - US
+    sectors:
+      - finance
+    tier: 5
+    summary: American banker (1938–2018)
+    ids:
+      wikidata: Q8010613
+    links:
+      - https://en.wikipedia.org/wiki/William_H._T._Bush
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8010613
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: william-henry-bloomberg
+    type: person
+    name: William Henry Bloomberg
+    names:
+      en: William Henry Bloomberg
+    gender: M
+    born: 1906-01-19
+    died: 1963-04-28
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q22339200
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22339200
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: william-henry-danforth
+    type: person
+    name: William Henry Danforth
+    names:
+      en: William Henry Danforth
+    gender: M
+    born: 1926-04-10
+    died: 2020-09-16
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 5
+    summary: American academic administrator (1926–2020)
+    ids:
+      wikidata: Q1643693
+    links:
+      - https://en.wikipedia.org/wiki/William_Henry_Danforth
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1643693
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: william-herbert-hunt
+    type: person
+    name: William Herbert Hunt
+    names:
+      en: William Herbert Hunt
+    gender: M
+    born: 1929-03-06
+    died: 2024-04-09
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American heir (1929–2024)
+    netWorth:
+      usd: 2
+    ids:
+      wikidata: Q8012250
+    links:
+      - https://en.wikipedia.org/wiki/William_Herbert_Hunt
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8012250
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: william-j-burns
+    type: person
+    name: William J. Burns
+    names:
+      zh: 威廉·約瑟夫·伯恩斯
+      en: William J. Burns
+    gender: M
+    born: 1956-04-04
+    country:
+      - US
+    sectors:
+      - politics
+      - diplomacy
+    tier: 2
+    summary: 美国政治人物
+    ids:
+      wikidata: Q1276563
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E7%B4%84%E7%91%9F%E5%A4%AB%C2%B7%E4%BC%AF%E6%81%A9%E6%96%AF
+      - https://en.wikipedia.org/wiki/William_J._Burns_(diplomat)
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 35
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1276563
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国国务卿
+        org: united-states-department-of-state
+        from: 2009-01-20
+        to: 2009-01-21
+      - title: 中央情報局局長
+        org: central-intelligence-agency
+        from: 2021-03-19
+        to: 2025-01-20
+      - title: 美国副国务卿
+        from: 2011-07-28
+        to: 2014-11-03
+      - title: 美國駐俄羅斯大使
+        org: embassy-of-the-united-states-moscow
+        from: 2005-11-08
+        to: 2008-05-13
+      - title: 近東事務助理國務卿
+        from: 2001-06-04
+        to: 2005-03-02
+      - title: 美國駐約旦大使
+        org: embassy-of-the-united-states-amman
+        from: 1998-08-09
+        to: 2001-06-04
+      - title: 美國政治事務國務次卿
+        from: 2008-05-13
+        to: 2011-07-28
+  - id: william-j-hochul-jr
+    type: person
+    name: William J. Hochul, Jr.
+    names:
+      en: William J. Hochul, Jr.
+    gender: M
+    born: 1959-04-01
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American attorney and First Gentleman of New York
+    ids:
+      wikidata: Q8013245
+    links:
+      - https://en.wikipedia.org/wiki/William_J._Hochul_Jr.
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8013245
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 第二夫人
+        from: "2015"
+        to: 2021-08-23
+      - title: 紐約西區聯邦檢察官
+        from: 2010-03-15
+        to: 2016-10-29
+      - title: First Spouse of New York
+        from: 2021-08-24
+  - id: william-jefferson-blythe-jr
+    type: person
+    name: William Jefferson Blythe Jr.
+    names:
+      en: William Jefferson Blythe Jr.
+    gender: M
+    born: 1918-02-27
+    died: 1947-05-17
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: birth father of 42nd U.S. President Bill Clinton (1918–1946)
+    ids:
+      wikidata: Q4112404
+    links:
+      - https://en.wikipedia.org/wiki/William_Jefferson_Blythe_Jr.
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4112404
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: william-k-reilly
+    type: person
+    name: William K. Reilly
+    names:
+      en: William K. Reilly
+    gender: M
+    born: 1940-01-26
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American government official
+    ids:
+      wikidata: Q1644666
+    links:
+      - https://en.wikipedia.org/wiki/William_K._Reilly
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1644666
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 國家環境保護局局長
+        org: united-states-environmental-protection-agency
+        from: 1989-02-06
+        to: 1993-01-20
+  - id: william-l-ball
+    type: person
+    name: William L. Ball
+    names:
+      zh: 威廉·L·鮑爾
+      en: William L. Ball
+    gender: M
+    born: 1948-06-10
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+    tier: 2
+    summary: American government official
+    ids:
+      wikidata: Q1363233
+    links:
+      - https://en.wikipedia.org/wiki/William_L._Ball
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1363233
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国海军部长
+        org: united-states-department-of-the-navy
+        from: 1988-03-28
+        to: 1989-05-15
+      - title: 美国海军部长
+        org: united-states-department-of-the-navy
+  - id: william-li
+    type: person
+    name: 李斌
+    names:
+      zh: 李斌
+      en: William Li
+    gender: M
+    born: 1974-08-09
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 企业家、蔚来汽车CEO
+    ids:
+      wikidata: Q61726993
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%96%8C_(1974%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/William_Li
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q61726993
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: william-lowell-putnam
+    type: person
+    name: William Lowell Putnam
+    names:
+      en: William Lowell Putnam
+    gender: M
+    born: 1861-11-22
+    died: 1923-06-01
+    country:
+      - US
+    sectors:
+      - judiciary
+      - finance
+    tier: 5
+    summary: American lawyer and banker (1861-1923)
+    ids:
+      wikidata: Q8014734
+    links:
+      - https://en.wikipedia.org/wiki/William_Lowell_Putnam
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8014734
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: william-m-daley
+    type: person
+    name: William M. Daley
+    names:
+      zh: 威廉·M·戴利
+      en: William M. Daley
+    gender: M
+    born: 1948-08-09
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+      - finance
+    tier: 2
+    summary: American lawyer and former banker
+    ids:
+      wikidata: Q1370400
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7M%C2%B7%E6%88%B4%E5%88%A9
+      - https://en.wikipedia.org/wiki/William_M._Daley
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1370400
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 白宮幕僚長
+        org: executive-office-of-the-president-of-the-united-states
+        from: 2011-01-13
+        to: 2012-01-27
+      - title: 美國商務部長
+        org: united-states-department-of-commerce
+        from: 1997-01-30
+        to: 2000-07-19
+  - id: william-newsom
+    type: person
+    name: William Newsom
+    names:
+      en: William Newsom
+    gender: M
+    born: 1934-02-15
+    died: 2018-12-12
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American judge, father of Gavin Newsom
+    ids:
+      wikidata: Q8016104
+    links:
+      - https://en.wikipedia.org/wiki/William_Newsom
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8016104
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: william-p-lauder
+    type: person
+    name: William P. Lauder
+    names:
+      en: William P. Lauder
+    gender: M
+    born: 1960-04-11
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman
+    ids:
+      wikidata: Q8016478
+    links:
+      - https://en.wikipedia.org/wiki/William_P._Lauder
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8016478
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: william-perry
+    type: person
+    name: William Perry
+    names:
+      zh: 威廉·佩瑞
+      en: William Perry
+    gender: M
+    born: 1927-10-11
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+      - business
+    tier: 2
+    summary: American mathematician and businessman, former Secretary of Defense
+    ids:
+      wikidata: Q539791
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E4%BD%A9%E9%87%8C
+      - https://en.wikipedia.org/wiki/William_J._Perry
+    tags:
+      - us-executive
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 33
+    sources:
+      - url: https://www.wikidata.org/wiki/Q539791
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国国防部长
+        org: united-states-department-of-defense
+        from: 1994-02-03
+        to: 1997-01-23
+      - title: 美国国防部副部长
+        org: united-states-department-of-defense
+        from: 1993-01-21
+        to: 1994-02-03
+  - id: william-r-frist
+    type: person
+    name: William R. Frist
+    names:
+      en: William R. Frist
+    gender: M
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: American businessperson, board member, a principal of Frist Capital LLC
+    ids:
+      wikidata: Q20740866
+    links:
+      - https://en.wikipedia.org/wiki/William_R._Frist
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20740866
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: william-rehnquist
+    type: person
+    name: William Rehnquist
+    names:
+      zh: 威廉·伦奎斯特
+      en: William Rehnquist
+    gender: M
+    born: 1924-10-01
+    died: 2005-09-03
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 1
+    summary: 美国首席大法官
+    ids:
+      wikidata: Q311562
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E4%BC%A6%E5%A5%8E%E6%96%AF%E7%89%B9
+      - https://en.wikipedia.org/wiki/William_Rehnquist
+    tags:
+      - us-judiciary
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 38
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311562
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國最高法院大法官
+        org: us-supreme-court
+        from: 1972-01-07
+        to: 1986-09-26
+      - title: 美國首席大法官
+        org: us-supreme-court
+        from: 1986-09-26
+        to: 2005-09-03
+  - id: william-s-sessions
+    type: person
+    name: William S. Sessions
+    names:
+      zh: 威廉·史提爾·塞遜斯
+      en: William S. Sessions
+    gender: M
+    born: 1930-05-27
+    died: 2020-06-12
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 4
+    summary: American judge (1930–2020)
+    ids:
+      wikidata: Q464299
+    links:
+      - https://en.wikipedia.org/wiki/William_S._Sessions
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q464299
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 聯邦調查局長
+        org: federal-bureau-of-investigation
+        from: 1987-11-02
+        to: 1993-07-19
+  - id: william-timmons
+    type: person
+    name: William Timmons
+    names:
+      zh: 威廉·蒂蒙斯
+      en: William Timmons
+    gender: M
+    born: 1984-04-30
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: U.S. Representative from South Carolina
+    ids:
+      wikidata: Q28837296
+    links:
+      - https://en.wikipedia.org/wiki/William_Timmons
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28837296
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 南卡羅來納州參議員
+        org: south-carolina-senate
+        from: 2016-11-14
+        to: 2018-11-09
+  - id: william-verity
+    type: person
+    name: William Verity
+    names:
+      zh: 威廉·維爾第
+      en: William Verity
+    gender: M
+    born: 1917-01-26
+    died: 2007-01-03
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 2
+    summary: American businessman (1917-2007)
+    ids:
+      wikidata: Q1385887
+    links:
+      - https://en.wikipedia.org/wiki/William_Verity_Jr.
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1385887
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國商務部長
+        org: united-states-department-of-commerce
+        from: 1987-10-19
+        to: 1989-01-30
+  - id: william-w-knight
+    type: person
+    name: William W. Knight
+    names:
+      en: William W. Knight
+    gender: M
+    born: 1909-02-08
+    died: 1981-02-19
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 5
+    summary: American lawyer and politician (1909-1981)
+    ids:
+      wikidata: Q8019802
+    links:
+      - https://en.wikipedia.org/wiki/William_W._Knight_(publisher)
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8019802
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 俄勒岡州眾議員
+        org: oregon-house-of-representatives
+  - id: willie-brown-jr
+    type: person
+    name: Willie Brown Jr.
+    names:
+      zh: 威利·布朗
+      en: Willie Brown Jr.
+    gender: M
+    born: 1934-03-20
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 4
+    summary: 41st Mayor of San Francisco
+    ids:
+      wikidata: Q5365075
+    links:
+      - https://en.wikipedia.org/wiki/Willie_Brown_(politician)
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5365075
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 旧金山市长
+        org: city-and-county-of-san-francisco
+        from: 1996-01-08
+        to: 2004-01-08
+      - title: 加利福尼亞州眾議院議長
+        org: california-state-assembly
+        from: 1980-12-02
+        to: 1995-06-05
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: 1965-01-04
+        to: 1995-12-14
+  - id: willow-bay
+    type: person
+    name: Willow Bay
+    names:
+      zh: 威罗·贝伊
+      en: Willow Bay
+    gender: F
+    born: 1963-12-28
+    country:
+      - US
+    sectors:
+      - media
+    tier: 5
+    summary: American television journalist, editor, author, and former model
+    ids:
+      wikidata: Q8022266
+    links:
+      - https://en.wikipedia.org/wiki/Willow_Bay
+    tags:
+      - relative
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8022266
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: winnie-johnson-marquart
+    type: person
+    name: Winnie Johnson-Marquart
+    names:
+      en: Winnie Johnson-Marquart
+    gender: F
+    born: 1959-04-01
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American philanthropist (1959-)
+    ids:
+      wikidata: Q8025656
+    links:
+      - https://en.wikipedia.org/wiki/Winnie_Johnson-Marquart
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8025656
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wong-ker-lee
+    type: person
+    name: 黃克立
+    names:
+      zh: 黃克立
+      en: Wong Ker-lee
+    gender: M
+    born: 1910-08-15
+    died: 2004-05-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: 香港商人
+    ids:
+      wikidata: Q11176019
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%83%E5%85%8B%E7%AB%8B
+      - https://en.wikipedia.org/wiki/Wong_Ker-lee
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11176019
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+  - id: woo-kwong-ching-peter
+    type: person
+    name: 吴光正
+    names:
+      zh: 吴光正
+      en: Woo Kwong Ching Peter
+    gender: M
+    born: 1946-09-05
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+    tier: 3
+    summary: Hong Kong politician and businessman; Former chairman; Founding patron, Wheelock; Project WeCan
+    netWorth:
+      usd: 10800000000
+    ids:
+      wikidata: Q7177779
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B3%E5%85%89%E6%AD%A3
+      - https://en.wikipedia.org/wiki/Peter_Woo
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7177779
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+  - id: woody-johnson
+    type: person
+    name: Woody Johnson
+    names:
+      zh: 伍迪·约翰逊
+      en: Woody Johnson
+    gender: M
+    born: 1947-04-12
+    country:
+      - US
+    sectors:
+      - business
+      - diplomacy
+    tier: 4
+    summary: American businessman, ambassador
+    netWorth:
+      usd: 3800000000
+    ids:
+      wikidata: Q3569866
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%BE%85%E6%8B%94%C2%B7%E6%B4%BB%C2%B7%E8%8E%8A%E8%87%A3%E5%9B%9B%E4%B8%96
+      - https://en.wikipedia.org/wiki/Woody_Johnson
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3569866
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國駐英大使
+        org: embassy-of-the-united-states-london
+        from: 2017-11-08
+        to: 2021-01-20
+  - id: wu-bangguo
+    type: person
+    name: 吴邦国
+    names:
+      zh: 吴邦国
+      en: Wu Bangguo
+    gender: M
+    born: 1941-07-22
+    died: 2024-10-08
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 1
+    summary: 前全国人民代表大会常务委员会委员长
+    ids:
+      wikidata: Q360563
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E9%82%A6%E5%9B%BD
+      - https://en.wikipedia.org/wiki/Wu_Bangguo
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 29
+    sources:
+      - url: https://www.wikidata.org/wiki/Q360563
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国人民代表大会常务委员会委员长
+        org: npc-standing-committee
+        from: 2003-03-15
+        to: 2013-03-14
+      - title: 中华人民共和国国务院副总理
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 1995-03-18
+        to: 2003-03-16
+      - title: 中国共产党上海市委员会书记
+        org: shanghai-municipal-committee-of-the-chinese-communist-party
+        from: 1991-04-13
+        to: 1994-09-28
+      - title: 中国共产党中央政治局常务委员会委员
+        org: ccp-politburo-standing-committee
+        from: 2002-11-15
+        to: 2012-11-15
+  - id: wu-chung
+    type: person
+    name: Wu Chung
+    names:
+      zh: 胡忠
+      en: Wu Chung
+    gender: M
+    born: "1902"
+    died: 1991-07-30
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: 香港商人
+    ids:
+      wikidata: Q7212734
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E5%BF%A0_(1902%E5%B9%B4)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7212734
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wu-guangyu
+    type: person
+    name: 吴光宇
+    names:
+      zh: 吴光宇
+      en: Wu Guangyu
+    gender: M
+    born: "1940"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中国人民解放军将领
+    ids:
+      wikidata: Q8291347
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E5%85%89%E5%AE%87_(%E5%86%9B%E4%BA%BA)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8291347
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wu-guanzheng
+    type: person
+    name: 吴官正
+    names:
+      zh: 吴官正
+      en: Wu Guanzheng
+    gender: M
+    born: 1938-10-18
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 1
+    summary: 中国共产党中央纪律检查委员会原书记，曾任江西省长/省委书记、山东省委书记
+    ids:
+      wikidata: Q709473
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E5%AE%98%E6%AD%A3
+      - https://en.wikipedia.org/wiki/Wu_Guanzheng
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q709473
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 市长
+      - title: 中国共产党中央纪律检查委员会书记
+        org: ccp-ccdi
+        from: 2002-11-01
+        to: 2007-11-01
+      - title: 中国共产党中央政治局常务委员会委员
+        org: ccp-politburo-standing-committee
+        from: 2002-11-15
+        to: 2007-10-22
+  - id: wu-guohua
+    type: person
+    name: 吴国华
+    names:
+      zh: 吴国华
+      en: Wu Guohua
+    gender: M
+    born: 1957-02-01
+    died: 2023-07-04
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中国人民解放军中将
+    ids:
+      wikidata: Q8315078
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E5%9B%BD%E5%8D%8E_(%E8%A7%A3%E6%94%BE%E5%86%9B)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315078
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wu-hansheng
+    type: person
+    name: 吴汉圣
+    names:
+      zh: 吴汉圣
+      en: Wu Hansheng
+    gender: M
+    born: "1963"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共中央社会工作部部长
+    ids:
+      wikidata: Q24834278
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E6%B1%89%E5%9C%A3
+      - https://en.wikipedia.org/wiki/Wu_Hansheng
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24834278
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党中央委员会社会工作部部长
+        from: 2023-07-01
+  - id: wu-hao
+    type: person
+    name: 吴浩
+    names:
+      zh: 吴浩
+      en: Wu Hao
+    gender: M
+    born: 1972-02-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共中央组织部副部长
+    ids:
+      wikidata: Q97348115
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E6%B5%A9_(1972%E5%B9%B4)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97348115
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wu-huayang
+    type: person
+    name: 邬华扬
+    names:
+      zh: 邬华扬
+    gender: M
+    born: "1946"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8318833
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%82%AC%E5%8D%8E%E6%89%AC
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8318833
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wu-junbao
+    type: person
+    name: 吴俊宝
+    names:
+      zh: 吴俊宝
+      en: Wu Junbao
+    gender: M
+    born: "1965"
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 3
+    summary: 中国人民解放军中将
+    ids:
+      wikidata: Q111693033
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BF%8A%E5%AE%9D
+      - https://en.wikipedia.org/wiki/Wu_Junbao
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111693033
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wu-kongming
+    type: person
+    name: 吴孔明
+    names:
+      zh: 吴孔明
+      en: Wu Kongming
+    gender: M
+    born: 1964-07-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 植物保护学家
+    ids:
+      wikidata: Q21040282
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E5%AD%94%E6%98%8E
+      - https://en.wikipedia.org/wiki/Wu_Kongming
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21040282
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wu-qiang
+    type: person
+    name: 吴强
+    names:
+      zh: 吴强
+      en: Wu Qiang
+    gender: M
+    born: 1966-08-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 贵州省人大常委会党组副书记、副主任
+    ids:
+      wikidata: Q97487183
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E5%BC%BA_(1966%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wu_Qiang_(officeholder)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97487183
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wu-qing
+    type: person
+    name: 吴清
+    names:
+      zh: 吴清
+      en: Wu Qing
+    gender: M
+    born: 1965-04-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国证券监督管理委员会主席
+    ids:
+      wikidata: Q97349623
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E6%B8%85
+      - https://en.wikipedia.org/wiki/Wu_Qing_(politician%2C_born_1965)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97349623
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wu-runzhong
+    type: person
+    name: 吴润忠
+    names:
+      zh: 吴润忠
+    gender: M
+    born: "1937"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8315577
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E6%B6%A6%E5%BF%A0
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315577
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wu-shenghua
+    type: person
+    name: 吴胜华
+    names:
+      zh: 吴胜华
+      en: Wu Shenghua
+    gender: M
+    born: 1966-10-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国政治人物
+    ids:
+      wikidata: Q97348950
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E8%83%9C%E5%8D%8E
+      - https://en.wikipedia.org/wiki/Wu_Shenghua
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97348950
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wu-shengli
+    type: person
+    name: 吴胜利
+    names:
+      zh: 吴胜利
+      en: Wu Shengli
+    gender: M
+    born: 1945-08-01
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 2
+    summary: 中国海军将领
+    ids:
+      wikidata: Q717014
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E8%83%9C%E5%88%A9
+      - https://en.wikipedia.org/wiki/Wu_Shengli
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q717014
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wu-shuangzhan
+    type: person
+    name: 吴双战
+    names:
+      zh: 吴双战
+      en: Wu Shuangzhan
+    gender: M
+    born: 1945-02-01
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 2
+    summary: 中国人民武装警察部队第六任司令员
+    ids:
+      wikidata: Q7928525
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E5%8F%8C%E6%88%98
+      - https://en.wikipedia.org/wiki/Wu_Shuangzhan
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7928525
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国人民代表大会常务委员会委员
+        org: npc-standing-committee
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wu-xian
+    type: person
+    name: 吴宪
+    names:
+      zh: 吴宪
+      en: Wu Xian
+    gender: M
+    born: 1915-06-01
+    died: "2001"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: 中国政治人物
+    ids:
+      wikidata: Q21040355
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E5%AE%AA_(%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21040355
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wu-xiaojun
+    type: person
+    name: 吴晓军
+    names:
+      zh: 吴晓军
+      en: Wu Xiaojun
+    gender: M
+    born: "1966"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共甘肃省委书记、省人大常委会主任
+    ids:
+      wikidata: Q97192288
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E6%99%93%E5%86%9B
+      - https://en.wikipedia.org/wiki/Wu_Xiaojun
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97192288
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wu-yajun
+    type: person
+    name: 吴亚军
+    names:
+      zh: 吴亚军
+      en: Wu Yajun
+    gender: F
+    born: 1964-02-01
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+    tier: 3
+    summary: Chinese entrepreneur, businesswoman (CEO & chair of Longfor Properties), billionaire
+    netWorth:
+      usd: 9400000000
+    ids:
+      wikidata: Q2594678
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BA%9A%E5%86%9B
+      - https://en.wikipedia.org/wiki/Wu_Yajun
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2594678
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: wu-yanan
+    type: person
+    name: Wu Yanan
+    names:
+      zh: 吴亚男
+      en: Wu Yanan
+    gender: M
+    born: "1962"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国人民解放军南部战区司令员，陆军上将
+    ids:
+      wikidata: Q97345647
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BA%9A%E7%94%B7_(%E9%99%86%E5%86%9B)
+      - https://en.wikipedia.org/wiki/Wu_Yanan_(general)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97345647
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wu-yi
+    type: person
+    name: 吴仪
+    names:
+      zh: 吴仪
+      en: Wu Yi
+    gender: F
+    born: 1938-11-17
+    country:
+      - CN
+    sectors:
+      - politics
+      - tech
+    tier: 2
+    summary: 前中华人民共和国副总理
+    ids:
+      wikidata: Q50952
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%AA
+      - https://en.wikipedia.org/wiki/Wu_Yi_(politician)
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 36
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50952
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国卫生部
+        from: "2003"
+        to: "2005"
+      - title: 中华人民共和国国务院副总理
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 2003-03-15
+        to: 2008-03-17
+      - title: 中国共产党中央政治局委员
+        from: 2002-11-15
+        to: 2007-10-22
+  - id: wu-ying
+    type: person
+    name: 吴英
+    names:
+      zh: 吴英
+      en: Wu Ying
+    gender: F
+    born: 1981-05-20
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: former 6th richest woman in China, sentenced to death for financial fraud
+    ids:
+      wikidata: Q716825
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B3%E8%8B%B1_(1981%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Wu_Ying
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q716825
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wu-ying-sheung-gordon
+    type: person
+    name: 胡应湘
+    names:
+      zh: 胡应湘
+      en: Wu Ying Sheung Gordon
+    gender: M
+    born: 1935-12-03
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: 香港商人
+    ids:
+      wikidata: Q3110942
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E6%87%89%E6%B9%98
+      - https://en.wikipedia.org/wiki/Gordon_Wu
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3110942
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: wu-yingjie
+    type: person
+    name: 吴英杰
+    names:
+      zh: 吴英杰
+      en: Wu Yingjie
+    gender: M
+    born: 1956-12-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国西藏自治区政治人物
+    ids:
+      wikidata: Q26711519
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E8%8B%B1%E6%9D%B0
+      - https://en.wikipedia.org/wiki/Wu_Yingjie
+    tags:
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q26711519
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中国共产党西藏自治区委员会书记
+        org: tibet-autonomous-regional-committee-of-the-chinese-communist-party
+        from: 2016-08-28
+        to: 2021-10-18
+  - id: wu-yuqian
+    type: person
+    name: 吴玉谦
+    names:
+      zh: 吴玉谦
+    gender: M
+    born: "1943"
+    died: 2016-03-20
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8291489
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E7%8E%89%E8%B0%A6
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8291489
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: wu-zhaohui
+    type: person
+    name: 吴朝晖
+    names:
+      zh: 吴朝晖
+      en: Wu Zhaohui
+    gender: M
+    born: 1966-12-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - tech
+      - academia
+    tier: 3
+    summary: 中国科学院党组副书记、副院长（正部长级），中国科学院院士、计算机科学家
+    ids:
+      wikidata: Q19849356
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E6%9C%9D%E6%99%96
+      - https://en.wikipedia.org/wiki/Wu_Zhaohui
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19849356
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wu-zhenglong
+    type: person
+    name: 吴政隆
+    names:
+      zh: 吴政隆
+      en: Wu Zhenglong
+    gender: M
+    born: 1964-11-06
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 第二十届中共中央委员，中华人民共和国国务委员，国务院党组成员、秘书长、机关党组书记
+    ids:
+      wikidata: Q10919528
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E6%94%BF%E9%9A%86
+      - https://en.wikipedia.org/wiki/Wu_Zhenglong
+    tags:
+      - cn-leaders
+      - cn-ministers
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10919528
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 国务委员
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 2023-03-12
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中华人民共和国国务院秘书长
+        org: general-office-of-the-state-council
+        from: 2023-03-12
+  - id: wu-zhongxing
+    type: person
+    name: 吴忠性
+    names:
+      zh: 吴忠性
+      en: Wu Zhongxing
+    gender: M
+    born: 1912-03-26
+    died: 1999-06-01
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    summary: 中国测绘学家
+    ids:
+      wikidata: Q109178175
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B3%E5%BF%A0%E6%80%A7
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q109178175
+        publisher: Wikidata
+        accessed: 2026-10-11

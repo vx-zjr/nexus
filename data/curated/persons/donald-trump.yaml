@@ -1,0 +1,36 @@
+id: donald-trump
+type: person
+name: Donald Trump
+names:
+  en: Donald Trump
+  zh: 唐纳德·特朗普
+gender: M
+born: '1946-06-14'
+country:
+- US
+sectors:
+- politics
+- business
+tier: 1
+status: active
+summary: 第 45、47 任美国总统（2017–2021；2025–）。地产商、媒体人出身；Trump Organization、Trump Media（DJT）与加密货币公司 World Liberty Financial 的控制家族核心。
+positions:
+- title: 美国总统（第 47 任）
+  org: us-white-house
+  from: '2025-01-20'
+  current: true
+- title: 美国总统（第 45 任）
+  org: us-white-house
+  from: '2017-01-20'
+  to: '2021-01-20'
+- title: Trump Organization 董事长
+  from: '1971'
+  to: '2017'
+tags:
+- potus
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

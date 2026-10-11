@@ -1,0 +1,19 @@
+id: ling-gu
+type: person
+name: 令谷
+names:
+  zh: 令谷
+  en: Ling Gu
+gender: M
+born: '1989'
+died: '2012-03-18'
+country:
+- CN
+sectors:
+- family
+tier: 5
+summary: 令计划之子，2012-03-18 在北京驾驶法拉利车祸身亡。
+sources:
+- url: https://en.wikipedia.org/wiki/Ling_Jihua
+  publisher: Wikipedia
+updated: '2026-10-11'

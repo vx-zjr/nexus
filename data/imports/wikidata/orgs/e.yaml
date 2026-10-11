@@ -1,0 +1,1571 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: east-asia-record-production-co-ltd
+    type: org
+    name: 東亞唱片製作有限公司
+    names:
+      zh: 東亞唱片製作有限公司
+      en: East Asia Record Production Co., Ltd.
+    orgType: other
+    country:
+      - HK
+    sectors:
+      - other
+    tier: 4
+    summary: Hong Kong record company; subsidiary of Paciwood Music & Entertainment Ltd.
+    ids:
+      wikidata: Q97462031
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97462031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: east-carolina-university
+    type: org
+    name: East Carolina University
+    names:
+      zh: 東卡羅來納大學
+      en: East Carolina University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public research university in Greenville, North Carolina, United States
+    ids:
+      wikidata: Q1277776
+    links:
+      - https://en.wikipedia.org/wiki/East_Carolina_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1277776
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: east-china-normal-university
+    type: org
+    name: 华东师范大学
+    names:
+      zh: 华东师范大学
+      en: East China Normal University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 中國上海的綜合性大學
+    ids:
+      wikidata: Q2034790
+    links:
+      - https://en.wikipedia.org/wiki/East_China_Normal_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2034790
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: east-lansing-high-school
+    type: org
+    name: East Lansing High School
+    names:
+      en: East Lansing High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 在美國密歇根州的建築物
+    ids:
+      wikidata: Q5328806
+    links:
+      - https://en.wikipedia.org/wiki/East_Lansing_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5328806
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: east-resources
+    type: org
+    name: East Resources
+    names:
+      zh: 東方資源
+      en: East Resources
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: oil and gas exploration and production company
+    ids:
+      wikidata: Q5329238
+    links:
+      - https://en.wikipedia.org/wiki/East_Resources
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5329238
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: eastern-virginia-medical-school
+    type: org
+    name: Eastern Virginia Medical School
+    names:
+      zh: 東弗吉尼亞醫學院
+      en: Eastern Virginia Medical School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public medical school in Norfolk, Virginia, United States
+    ids:
+      wikidata: Q5330559
+    links:
+      - https://en.wikipedia.org/wiki/Eastern_Virginia_Medical_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5330559
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ebay
+    type: org
+    name: eBay
+    names:
+      en: eBay
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美国公司
+    ids:
+      wikidata: Q58024
+    links:
+      - https://en.wikipedia.org/wiki/EBay
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58024
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: echostar
+    type: org
+    name: EchoStar
+    names:
+      zh: 回聲星通訊公司
+      en: EchoStar
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: global satellite services provider
+    ids:
+      wikidata: Q1280748
+    links:
+      - https://en.wikipedia.org/wiki/EchoStar
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1280748
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: eclipse-aviation
+    type: org
+    name: Eclipse Aviation
+    names:
+      zh: 日蚀飛機公司
+      en: Eclipse Aviation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 1998-2009 aircraft manufacturer in the United States
+    ids:
+      wikidata: Q289410
+    links:
+      - https://en.wikipedia.org/wiki/Eclipse_Aviation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q289410
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: economic-policy-institute
+    type: org
+    name: Economic Policy Institute
+    names:
+      zh: 經濟政策研究所
+      en: Economic Policy Institute
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: non-profit American public policy think tank
+    ids:
+      wikidata: Q1282092
+    links:
+      - https://en.wikipedia.org/wiki/Economic_Policy_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1282092
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ed-w-clark-high-school
+    type: org
+    name: Ed W. Clark High School
+    names:
+      en: Ed W. Clark High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Las Vegas, Nevada
+    ids:
+      wikidata: Q5335529
+    links:
+      - https://en.wikipedia.org/wiki/Ed_W._Clark_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5335529
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: editthisnft
+    type: org
+    name: EditThisNFT
+    names:
+      en: EditThisNFT
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: Jimmy Wales NFT
+    ids:
+      wikidata: Q110093283
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110093283
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: educational-administrative-structure
+    type: org
+    name: educational administrative structure
+    names:
+      en: educational administrative structure
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: hierarchical structure for oversight of education
+    ids:
+      wikidata: Q118853522
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q118853522
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: edutopia
+    type: org
+    name: Edutopia
+    names:
+      en: Edutopia
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: American online magazine (2002-)
+    ids:
+      wikidata: Q5341347
+    links:
+      - https://en.wikipedia.org/wiki/Edutopia.org
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5341347
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: edutopia-2
+    type: org
+    name: Edutopia
+    names:
+      en: Edutopia
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: American print magazine (2004-2010)
+    ids:
+      wikidata: Q131934390
+    links:
+      - https://en.wikipedia.org/wiki/Edutopia_(magazine)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q131934390
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: el-con-mall
+    type: org
+    name: El Con Mall
+    names:
+      en: El Con Mall
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: an open-air shopping mall
+    ids:
+      wikidata: Q5351050
+    links:
+      - https://en.wikipedia.org/wiki/El_Con_Center
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5351050
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: eldridge
+    type: org
+    name: Eldridge
+    names:
+      zh: 埃尔德里奇产业公司
+      en: Eldridge
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American holding company
+    ids:
+      wikidata: Q29097721
+    links:
+      - https://en.wikipedia.org/wiki/Eldridge_Industries
+    sources:
+      - url: https://www.wikidata.org/wiki/Q29097721
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: eldridge-2
+    type: org
+    name: Eldridge
+    names:
+      en: Eldridge
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Asset manager and insurance holding company
+    ids:
+      wikidata: Q135012408
+    links:
+      - https://en.wikipedia.org/wiki/Eldridge_(company)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q135012408
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: electronic-arts
+    type: org
+    name: Electronic Arts
+    names:
+      zh: 艺电
+      en: Electronic Arts
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國電子遊戲和電腦遊戲開發商
+    ids:
+      wikidata: Q173941
+    links:
+      - https://en.wikipedia.org/wiki/Electronic_Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q173941
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: electronic-theatre-controls
+    type: org
+    name: Electronic Theatre Controls
+    names:
+      en: Electronic Theatre Controls
+    orgType: company
+    country:
+      - US
+      - GB
+    sectors:
+      - business
+    tier: 4
+    summary: manufacturer of controls for theatrical lighting systems
+    ids:
+      wikidata: Q1326112
+    links:
+      - https://en.wikipedia.org/wiki/Electronic_Theatre_Controls
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1326112
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elliott-international
+    type: org
+    name: Elliott International
+    names:
+      en: Elliott International
+    orgType: company
+    country:
+      - KY
+    sectors:
+      - business
+    tier: 4
+    summary: holding company
+    ids:
+      wikidata: Q65185499
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65185499
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elliott-management
+    type: org
+    name: Elliott Investment Management
+    names:
+      zh: 埃利奥特管理公司
+      en: Elliott Investment Management
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American hedge fund
+    ids:
+      wikidata: Q5365696
+    links:
+      - https://en.wikipedia.org/wiki/Elliott_Investment_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5365696
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ellison-medical-foundation
+    type: org
+    name: Ellison Medical Foundation
+    names:
+      en: Ellison Medical Foundation
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: organization
+    ids:
+      wikidata: Q5366056
+    links:
+      - https://en.wikipedia.org/wiki/Ellison_Medical_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5366056
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elon-musk-s-tesla-roadster
+    type: org
+    name: Elon Musk's Tesla Roadster
+    names:
+      zh: 伊隆·马斯克的特斯拉Roadster
+      en: Elon Musk's Tesla Roadster
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 獵鷹重型運載火箭的實驗載荷
+    ids:
+      wikidata: Q46845259
+    links:
+      - https://en.wikipedia.org/wiki/Elon_Musk's_Tesla_Roadster
+    sources:
+      - url: https://www.wikidata.org/wiki/Q46845259
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy
+    type: org
+    name: embassy
+    names:
+      zh: 大使馆
+      en: embassy
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 代表母國在駐在國設置的高級常駐外交使團機構
+    ids:
+      wikidata: Q3917681
+    links:
+      - https://en.wikipedia.org/wiki/Embassy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3917681
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy-of-the-people-s-republic-of-china-washington-d-c
+    type: org
+    name: Embassy of the People's Republic of China, Washington, D.C.
+    names:
+      zh: 中国驻美国大使馆
+      en: Embassy of the People's Republic of China, Washington, D.C.
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 外交機構
+    ids:
+      wikidata: Q5369818
+    links:
+      - https://en.wikipedia.org/wiki/Embassy_of_China%2C_Washington%2C_D.C.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5369818
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy-of-the-united-states-amman
+    type: org
+    name: Embassy of the United States, Amman
+    names:
+      en: Embassy of the United States, Amman
+    orgType: other
+    country:
+      - JO
+    sectors:
+      - other
+    tier: 4
+    summary: diplomatic mission
+    ids:
+      wikidata: Q20415937
+    links:
+      - https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Amman
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20415937
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy-of-the-united-states-athens
+    type: org
+    name: Embassy of the United States, Athens
+    names:
+      zh: 美国驻希腊大使馆
+      en: Embassy of the United States, Athens
+    orgType: other
+    country:
+      - GR
+    sectors:
+      - other
+    tier: 4
+    summary: diplomatic mission of the United States in Greece
+    ids:
+      wikidata: Q5369951
+    links:
+      - https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Athens
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5369951
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy-of-the-united-states-beijing
+    type: org
+    name: 美国驻华大使馆
+    names:
+      zh: 美国驻华大使馆
+      en: Embassy of the United States, Beijing
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 外交机构
+    ids:
+      wikidata: Q12057126
+    links:
+      - https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Beijing
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12057126
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy-of-the-united-states-berlin
+    type: org
+    name: Embassy of the United States, Berlin
+    names:
+      zh: 美國駐德國大使館
+      en: Embassy of the United States, Berlin
+    orgType: other
+    country:
+      - DE
+    sectors:
+      - other
+    tier: 4
+    summary: embassy
+    ids:
+      wikidata: Q875787
+    links:
+      - https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Berlin
+    sources:
+      - url: https://www.wikidata.org/wiki/Q875787
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy-of-the-united-states-in-manila
+    type: org
+    name: Embassy of the United States in Manila
+    names:
+      zh: 美国驻菲律宾大使馆
+      en: Embassy of the United States in Manila
+    orgType: other
+    country:
+      - PH
+    sectors:
+      - other
+    tier: 4
+    summary: diplomatic mission of the United States in the Philippines
+    ids:
+      wikidata: Q5369961
+    links:
+      - https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Manila
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5369961
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy-of-the-united-states-jerusalem
+    type: org
+    name: Embassy of the United States, Jerusalem
+    names:
+      zh: 美國駐以色列大使館
+      en: Embassy of the United States, Jerusalem
+    orgType: other
+    country:
+      - IL
+    sectors:
+      - other
+    tier: 4
+    summary: diplomatic mission of the United States in Israel
+    ids:
+      wikidata: Q53492009
+    links:
+      - https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Jerusalem
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53492009
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy-of-the-united-states-kabul
+    type: org
+    name: Embassy of the United States, Kabul
+    names:
+      zh: 美国驻阿富汗大使馆
+      en: Embassy of the United States, Kabul
+    orgType: other
+    country:
+      - AF
+    sectors:
+      - other
+    tier: 4
+    summary: embassy
+    ids:
+      wikidata: Q894835
+    links:
+      - https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Kabul
+    sources:
+      - url: https://www.wikidata.org/wiki/Q894835
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy-of-the-united-states-london
+    type: org
+    name: Embassy of the United States, London
+    names:
+      zh: 美國駐英國大使館
+      en: Embassy of the United States, London
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 4
+    summary: 机构
+    ids:
+      wikidata: Q5369960
+    links:
+      - https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_London
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5369960
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy-of-the-united-states-mexico-city
+    type: org
+    name: Embassy of the United States, Mexico City
+    names:
+      zh: 美國駐墨西哥大使館
+      en: Embassy of the United States, Mexico City
+    orgType: other
+    country:
+      - MX
+    sectors:
+      - other
+    tier: 4
+    summary: U.S. diplomatic mission in Mexico City, Mexico
+    ids:
+      wikidata: Q21010281
+    links:
+      - https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Mexico_City
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21010281
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy-of-the-united-states-monrovia
+    type: org
+    name: Embassy of the United States, Monrovia
+    names:
+      zh: 美国驻利比里亚大使馆
+      en: Embassy of the United States, Monrovia
+    orgType: other
+    country:
+      - LR
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q105611422
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105611422
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy-of-the-united-states-moscow
+    type: org
+    name: Embassy of the United States, Moscow
+    names:
+      zh: 美国驻俄罗斯大使馆
+      en: Embassy of the United States, Moscow
+    orgType: other
+    country:
+      - RU
+    sectors:
+      - other
+    tier: 4
+    summary: embassy and diplomatic mission of the United States of America in the Russian Federation
+    ids:
+      wikidata: Q722374
+    links:
+      - https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Moscow
+    sources:
+      - url: https://www.wikidata.org/wiki/Q722374
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy-of-the-united-states-new-delhi
+    type: org
+    name: Embassy of the United States, New Delhi
+    names:
+      zh: 美國駐印度大使館
+      en: Embassy of the United States, New Delhi
+    orgType: other
+    country:
+      - IN
+    sectors:
+      - other
+    tier: 4
+    summary: diplomatic mission of the United States to India
+    ids:
+      wikidata: Q24947370
+    links:
+      - https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_New_Delhi
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24947370
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy-of-the-united-states-oslo
+    type: org
+    name: Embassy of the United States, Oslo
+    names:
+      zh: 美國駐挪威大使館
+      en: Embassy of the United States, Oslo
+    orgType: other
+    country:
+      - NO
+    sectors:
+      - other
+    tier: 4
+    summary: diplomatic representation in Norway
+    ids:
+      wikidata: Q5369962
+    links:
+      - https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Oslo
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5369962
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy-of-the-united-states-riyadh
+    type: org
+    name: Embassy of the United States, Riyadh
+    names:
+      zh: 美國駐沙烏地阿拉伯大使館
+      en: Embassy of the United States, Riyadh
+    orgType: other
+    country:
+      - SA
+    sectors:
+      - other
+    tier: 4
+    summary: diplomatic mission
+    ids:
+      wikidata: Q68170139
+    links:
+      - https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Riyadh
+    sources:
+      - url: https://www.wikidata.org/wiki/Q68170139
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy-of-the-united-states-to-the-holy-see
+    type: org
+    name: Embassy of the United States to the Holy See
+    names:
+      zh: 美国驻圣座大使馆
+      en: Embassy of the United States to the Holy See
+    orgType: other
+    country:
+      - IT
+    sectors:
+      - other
+    tier: 4
+    summary: historic site in Rome, Italy
+    ids:
+      wikidata: Q5369978
+    links:
+      - https://en.wikipedia.org/wiki/Embassy_of_the_United_States_to_the_Holy_See
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5369978
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy-of-the-united-states-tokyo
+    type: org
+    name: Embassy of the United States, Tokyo
+    names:
+      zh: 美國駐日大使館
+      en: Embassy of the United States, Tokyo
+    orgType: other
+    country:
+      - JP
+    sectors:
+      - other
+    tier: 4
+    summary: 美國在日本東京都設置的外交代表機構
+    ids:
+      wikidata: Q2331721
+    links:
+      - https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Tokyo
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2331721
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embassy-of-the-united-states-vienna
+    type: org
+    name: Embassy of the United States, Vienna
+    names:
+      zh: 美国驻奥地利大使馆
+      en: Embassy of the United States, Vienna
+    orgType: other
+    country:
+      - AT
+    sectors:
+      - other
+    tier: 4
+    summary: main United States diplomatic mission to Austria
+    ids:
+      wikidata: Q875343
+    links:
+      - https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Vienna
+    sources:
+      - url: https://www.wikidata.org/wiki/Q875343
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: embry-riddle-aeronautical-university
+    type: org
+    name: Embry–Riddle Aeronautical University
+    names:
+      zh: 安柏瑞德航空大學
+      en: Embry–Riddle Aeronautical University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美國私立航天航太科技大學體系
+    ids:
+      wikidata: Q3052113
+    links:
+      - https://en.wikipedia.org/wiki/Embry%E2%80%93Riddle_Aeronautical_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3052113
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: emerson-collective
+    type: org
+    name: Emerson Collective
+    names:
+      zh: 愛默生集團
+      en: Emerson Collective
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: social change organization
+    ids:
+      wikidata: Q39086631
+    links:
+      - https://en.wikipedia.org/wiki/Emerson_Collective
+    sources:
+      - url: https://www.wikidata.org/wiki/Q39086631
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: emgrand
+    type: org
+    name: Emgrand
+    names:
+      zh: 帝豪
+      en: Emgrand
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: 汽车品牌
+    ids:
+      wikidata: Q1335661
+    links:
+      - https://en.wikipedia.org/wiki/Emgrand
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1335661
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: emory-university
+    type: org
+    name: Emory University
+    names:
+      zh: 艾默理大学
+      en: Emory University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美國喬治亞州亞特蘭大私立大學
+    ids:
+      wikidata: Q621043
+    links:
+      - https://en.wikipedia.org/wiki/Emory_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q621043
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: emperor-entertainment-group
+    type: org
+    name: Emperor Entertainment Group
+    names:
+      zh: 英皇娱乐
+      en: Emperor Entertainment Group
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: 彩娱乐官网（03456.vip）彩娱乐邀请码88881，彩娱乐，彩娱乐彩票平台，彩娱乐
+    ids:
+      wikidata: Q834469
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q834469
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: emperor-group
+    type: org
+    name: Emperor Group
+    names:
+      zh: 英皇集团
+      en: Emperor Group
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Hong Kong conglomerate
+    ids:
+      wikidata: Q4038028
+    links:
+      - https://en.wikipedia.org/wiki/Emperor_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4038028
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: employment
+    type: org
+    name: employment
+    names:
+      zh: 雇佣
+      en: employment
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 两方的关系
+    ids:
+      wikidata: Q656365
+    links:
+      - https://en.wikipedia.org/wiki/Employment
+    sources:
+      - url: https://www.wikidata.org/wiki/Q656365
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: energy-transfer
+    type: org
+    name: Energy Transfer
+    names:
+      en: Energy Transfer
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American energy pipeline company
+    ids:
+      wikidata: Q5377000
+    links:
+      - https://en.wikipedia.org/wiki/Energy_Transfer
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5377000
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: english-wikipedia-arbitration-committee
+    type: org
+    name: English Wikipedia Arbitration Committee
+    names:
+      zh: 仲裁委员会
+      en: English Wikipedia Arbitration Committee
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: panel of English Wikipedia editors with the power to implement binding dispute resolution
+    ids:
+      wikidata: Q624011
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q624011
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: enterprise
+    type: org
+    name: enterprise
+    names:
+      zh: 工商企业
+      en: enterprise
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 生產商品或服務的組織單位，其在決策中具有一定程度的自主權，特別是對其現有資源的分配
+    ids:
+      wikidata: Q6881511
+    links:
+      - https://en.wikipedia.org/wiki/Business_enterprise
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6881511
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: enterprise-holdings
+    type: org
+    name: Enterprise Holdings
+    names:
+      zh: 企业租车
+      en: Enterprise Holdings
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: holding company of several car rental businesses
+    ids:
+      wikidata: Q834054
+    links:
+      - https://en.wikipedia.org/wiki/Enterprise_Holdings
+    sources:
+      - url: https://www.wikidata.org/wiki/Q834054
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: enterprise-products
+    type: org
+    name: Enterprise Products
+    names:
+      en: Enterprise Products
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American fuel company
+    ids:
+      wikidata: Q5380346
+    links:
+      - https://en.wikipedia.org/wiki/Enterprise_Products
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5380346
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: eos
+    type: org
+    name: Eos
+    names:
+      en: Eos
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: three-masted Bermuda rigged schooner
+    ids:
+      wikidata: Q120656
+    links:
+      - https://en.wikipedia.org/wiki/Eos_(yacht)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q120656
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: epic
+    type: org
+    name: Epic
+    names:
+      en: Epic
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: a privately held healthcare software company
+    ids:
+      wikidata: Q5382468
+    links:
+      - https://en.wikipedia.org/wiki/Epic_Systems
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5382468
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: epic-games
+    type: org
+    name: Epic Games
+    names:
+      en: Epic Games
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國電子遊戲和軟件開發者
+    ids:
+      wikidata: Q739711
+    links:
+      - https://en.wikipedia.org/wiki/Epic_Games
+    sources:
+      - url: https://www.wikidata.org/wiki/Q739711
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: equal-employment-opportunity-commission
+    type: org
+    name: Equal Employment Opportunity Commission
+    names:
+      zh: 公平就业机会委员会
+      en: Equal Employment Opportunity Commission
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American government agency
+    ids:
+      wikidata: Q3673184
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Equal_Employment_Opportunity_Commission
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3673184
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: esperanto-centro-ora-ponto
+    type: org
+    name: Esperanto-Centro Ora Ponto
+    names:
+      en: Esperanto-Centro Ora Ponto
+    orgType: ngo
+    country: []
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q61082691
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q61082691
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: esri
+    type: org
+    name: Esri
+    names:
+      zh: 美国环境系统研究所公司
+      en: Esri
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 地理空間軟體與SaaS公司
+    ids:
+      wikidata: Q1045778
+    links:
+      - https://en.wikipedia.org/wiki/Esri
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1045778
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: essential-products
+    type: org
+    name: Essential Products
+    names:
+      zh: Essential Phone
+      en: Essential Products
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American technology company
+    ids:
+      wikidata: Q30093000
+    links:
+      - https://en.wikipedia.org/wiki/Essential_Products
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30093000
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ethical-culture-fieldston-school
+    type: org
+    name: Ethical Culture Fieldston School
+    names:
+      zh: 倫理文化菲爾斯頓學校
+      en: Ethical Culture Fieldston School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: New York City Private Independent School
+    ids:
+      wikidata: Q5403378
+    links:
+      - https://en.wikipedia.org/wiki/Ethical_Culture_Fieldston_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5403378
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: european-parliament
+    type: org
+    name: European Parliament
+    names:
+      zh: 欧洲议会
+      en: European Parliament
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 歐洲聯盟的下議院
+    ids:
+      wikidata: Q8889
+    links:
+      - https://en.wikipedia.org/wiki/European_Parliament
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8889
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: european-super-league
+    type: org
+    name: European Super League
+    names:
+      zh: 欧洲超级联赛
+      en: European Super League
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: proposed annual football club competition
+    ids:
+      wikidata: Q106548888
+    links:
+      - https://en.wikipedia.org/wiki/European_Super_League
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106548888
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: eurovegas
+    type: org
+    name: Eurovegas
+    names:
+      en: Eurovegas
+    orgType: company
+    country:
+      - ES
+    sectors:
+      - business
+    tier: 4
+    summary: cancelled entertainment complex in Spain
+    ids:
+      wikidata: Q5852152
+    links:
+      - https://en.wikipedia.org/wiki/Eurovegas
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5852152
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: evergrande
+    type: org
+    name: 恒大集团
+    names:
+      zh: 恒大集团
+      en: Evergrande Group
+    orgType: company
+    country:
+      - CN
+      - KY
+    sectors:
+      - business
+    tier: 3
+    summary: 中国地产公司
+    ids:
+      wikidata: Q5417145
+    links:
+      - https://en.wikipedia.org/wiki/Evergrande_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5417145
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: evergrande-2
+    type: org
+    name: Evergrande (marque)
+    names:
+      zh: 恒大新能源汽車
+      en: Evergrande (marque)
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Chinese automobile manufacturer
+    ids:
+      wikidata: Q105968992
+    links:
+      - https://en.wikipedia.org/wiki/Evergrande_New_Energy_Auto
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105968992
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: excelsior-college
+    type: org
+    name: Excelsior College
+    names:
+      zh: 伊克塞希爾大學
+      en: Excelsior College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private online university in the United States
+    ids:
+      wikidata: Q4572396
+    links:
+      - https://en.wikipedia.org/wiki/Excelsior_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4572396
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: executive-board
+    type: org
+    name: executive board
+    names:
+      en: executive board
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: executive board of a corporation (public limited company)
+    ids:
+      wikidata: Q897395
+    links:
+      - https://en.wikipedia.org/wiki/Vorstand
+    sources:
+      - url: https://www.wikidata.org/wiki/Q897395
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: executive-branch
+    type: org
+    name: executive branch
+    names:
+      zh: 行政机构
+      en: executive branch
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 對國家或地方自治體日常管理有全權和責任的政府部門
+    ids:
+      wikidata: Q35798
+    links:
+      - https://en.wikipedia.org/wiki/Executive_(government)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q35798
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: executive-office-of-the-president-of-the-united-states
+    type: org
+    name: Executive Office of the President of the United States
+    names:
+      zh: 美国总统行政办公室
+      en: Executive Office of the President of the United States
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 總統辦事機關
+    ids:
+      wikidata: Q1355327
+    links:
+      - https://en.wikipedia.org/wiki/Executive_Office_of_the_President_of_the_United_States
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1355327
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: exelon
+    type: org
+    name: Exelon
+    names:
+      zh: 爱克斯龙电力
+      en: Exelon
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: energy company headquartered in Chicago
+    ids:
+      wikidata: Q1383669
+    links:
+      - https://en.wikipedia.org/wiki/Exelon
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1383669
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: expedia-group
+    type: org
+    name: Expedia Group
+    names:
+      zh: Expedia公司
+      en: Expedia Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American-based parent company to several global online travel brands
+    ids:
+      wikidata: Q8085893
+    links:
+      - https://en.wikipedia.org/wiki/Expedia_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8085893
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: extreme-championship-wrestling
+    type: org
+    name: Extreme Championship Wrestling
+    names:
+      zh: 极限冠军摔角
+      en: Extreme Championship Wrestling
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: defunct American professional wrestling promotion
+    ids:
+      wikidata: Q73002
+    links:
+      - https://en.wikipedia.org/wiki/Extreme_Championship_Wrestling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q73002
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: exxonmobil
+    type: org
+    name: ExxonMobil
+    names:
+      zh: 埃克森美孚
+      en: ExxonMobil
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: American multinational oil and gas corporation
+    ids:
+      wikidata: Q156238
+    links:
+      - https://en.wikipedia.org/wiki/ExxonMobil
+    sources:
+      - url: https://www.wikidata.org/wiki/Q156238
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ezra-stiles-college
+    type: org
+    name: Ezra Stiles College
+    names:
+      zh: 以斯拉·斯泰尔斯学院
+      en: Ezra Stiles College
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: residential college at Yale University
+    ids:
+      wikidata: Q5423410
+    links:
+      - https://en.wikipedia.org/wiki/Ezra_Stiles_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5423410
+        publisher: Wikidata
+        accessed: 2026-10-11

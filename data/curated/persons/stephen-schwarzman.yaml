@@ -1,0 +1,18 @@
+id: stephen-schwarzman
+type: person
+name: Stephen A. Schwarzman
+names:
+  en: Stephen A. Schwarzman
+  zh: 苏世民
+gender: M
+born: '1947-02-14'
+country:
+- US
+sectors:
+- finance
+tier: 2
+summary: 黑石集团联合创始人、董事长兼 CEO。2013 年捐资在清华大学设立苏世民书院；特朗普第一任期“战略与政策论坛”主席，长期充当中美高层沟通渠道。
+sources:
+- url: https://en.wikipedia.org/wiki/Stephen_A._Schwarzman
+  publisher: Wikipedia
+updated: '2026-10-11'

@@ -1,0 +1,38 @@
+id: chen-wenqing
+type: person
+name: 陈文清
+names:
+  zh: 陈文清
+  en: Chen Wenqing
+gender: M
+born: 1960-01
+country:
+- CN
+sectors:
+- politics
+- security
+tier: 2
+status: active
+summary: 中央政法委书记（2022–）。前国家安全部部长（2016–2022），首位进入政治局的国安部长。
+positions:
+- title: 中央政法委书记
+  org: ccp-central-political-legal-commission
+  from: 2022-10
+  current: true
+- title: 政治局委员
+  org: ccp-politburo
+  from: 2022-10
+  current: true
+- title: 国家安全部部长
+  org: state-council-prc
+  from: 2016-11
+  to: 2022-10
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+updated: '2026-10-11'

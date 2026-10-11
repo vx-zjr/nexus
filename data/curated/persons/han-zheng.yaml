@@ -1,0 +1,22 @@
+id: han-zheng
+type: person
+name: 韩正
+names:
+  zh: 韩正
+  en: Han Zheng
+gender: M
+born: 1954-04
+country:
+- CN
+sectors:
+- politics
+tier: 2
+summary: 国家副主席（2023–），前政治局常委、第一副总理；长期在上海任职（市长、市委书记），被视为“上海帮”出身但受习近平信任。
+positions:
+- title: 国家副主席
+  from: 2023-03
+  current: true
+sources:
+- url: https://en.wikipedia.org/wiki/Han_Zheng
+  publisher: Wikipedia
+updated: '2026-10-11'

@@ -1,0 +1,110 @@
+id: us-megadonors-2024
+kind: network
+name: 美国 2024 大选超级金主
+names:
+  en: 2024 US megadonors
+country: US
+summary: OpenSecrets 统计的 2024 选举周期前十大个人金主：马斯克（2.91 亿+）、Timothy Mellon（近 2 亿）、Miriam Adelson（1.48 亿）、Uihlein 夫妇（1.43 亿）、Ken Griffin（1.08 亿）、Yass 夫妇（1.01 亿）、Paul Singer（6680 万）——均支持共和党；民主党方最大为 Bloomberg（6400 万）、Moskovitz（5100 万）。
+core:
+- elon-musk
+- timothy-mellon
+- miriam-adelson
+- richard-uihlein
+- ken-griffin
+- jeff-yass
+- paul-singer
+- michael-bloomberg
+- dustin-moskovitz
+outer:
+- donald-trump
+- maga-inc
+- america-pac
+- club-for-growth
+- susquehanna
+- bytedance
+- tiktok-usds
+sources:
+- url: https://www.allsides.com/blog/elon-musk-tops-list-2024-political-donors-five-others-gave-more-100-million
+  title: Elon Musk tops list of 2024 political donors; five others gave more than $100 million (OpenSecrets data)
+  publisher: AllSides / OpenSecrets
+- url: https://www.axios.com/2024/10/16/trump-harris-megadonors-2024
+  title: Meet the billionaires funneling millions into the 2024 race
+  publisher: Axios
+  date: '2024-10-16'
+confidence: confirmed
+relations:
+- from: timothy-mellon
+  to: maga-inc
+  type: donor
+  label: 2024 周期，约 1.5 亿美元级
+  confidence: reported
+- from: jeff-yass
+  to: club-for-growth
+  type: donor
+  label: 2024 周期主要捐款对象
+- - jeff-yass
+  - founder
+  - susquehanna
+- from: susquehanna
+  to: bytedance
+  type: investor
+  label: 约 15%（2012 年起）
+  sources:
+  - &id001
+    url: https://fortune.com/2024/12/09/trump-jeff-yass-tiktok-avoid-ban
+    title: Trump, Jeff Yass and TikTok
+    publisher: Fortune
+    date: '2024-12-09'
+  - &id002
+    url: https://www.inquirer.com/politics/pennsylvania/tiktok-ban-jeff-yass-congress-house-20240313.html
+    title: TikTok ban, Jeff Yass and Congress
+    publisher: The Philadelphia Inquirer
+    date: '2024-03-13'
+- from: jeff-yass
+  to: bytedance
+  type: owner
+  label: 个人约 7%（媒体估算）
+  confidence: reported
+  sources:
+  - *id001
+- from: jeff-yass
+  to: donald-trump
+  type: associate
+  label: 2024-03-01 海湖庄园会面，数日后特朗普转向反对 TikTok 禁令
+  confidence: reported
+  sources:
+  - *id001
+  - *id002
+- - ken-griffin
+  - founder
+  - citadel
+- - paul-singer
+  - founder
+  - elliott-management
+- - michael-bloomberg
+  - founder
+  - bloomberg-lp
+- from: michael-bloomberg
+  to: democratic-party
+  type: donor
+  label: 2024 周期约 6400 万美元
+- from: dustin-moskovitz
+  to: democratic-party
+  type: donor
+  label: 2024 周期约 5100 万美元
+- from: richard-uihlein
+  to: republican-party
+  type: donor
+  label: 2024 周期约 1.43 亿美元（夫妇）
+- from: ken-griffin
+  to: republican-party
+  type: donor
+  label: 2024 周期约 1.08 亿美元
+- from: paul-singer
+  to: republican-party
+  type: donor
+  label: 2024 周期约 6680 万美元
+tags:
+- network
+- money
+updated: '2026-10-11'

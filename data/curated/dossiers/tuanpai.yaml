@@ -1,0 +1,44 @@
+id: tuanpai
+kind: faction
+name: 团派（共青团系）
+names:
+  en: Tuanpai (Youth League faction)
+country: CN
+head: hu-jintao
+summary: 以共青团中央历任书记为骨干、胡锦涛为核心的派系：李克强、汪洋、胡春华、令计划、李源潮、周强等。习近平时代团派被系统性边缘化（2022 年二十大胡春华落选政治局、李克强 2023 年去世）。派系归属为分析性判断。
+core:
+- hu-jintao
+- li-keqiang
+- wang-yang
+- hu-chunhua
+- ling-jihua
+outer:
+- wen-jiabao
+sources:
+- url: https://en.wikipedia.org/wiki/Tuanpai
+  publisher: Wikipedia
+confidence: reported
+relations:
+- - hu-jintao
+  - patron
+  - li-keqiang
+  - 团中央
+- - hu-jintao
+  - patron
+  - hu-chunhua
+  - 西藏、团中央
+- - hu-jintao
+  - patron
+  - wang-yang
+- - hu-jintao
+  - patron
+  - ling-jihua
+  - 团中央 → 中办
+- - li-keqiang
+  - rival
+  - xi-jinping
+  - 2007 年接班竞争（据报道）
+  - alleged
+tags:
+- faction
+updated: '2026-10-11'

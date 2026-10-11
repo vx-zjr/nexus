@@ -1,0 +1,21 @@
+id: chen-quanguo
+type: person
+name: 陈全国
+names:
+  zh: 陈全国
+  en: Chen Quanguo
+gender: M
+born: 1955-11
+country:
+- CN
+sectors:
+- politics
+- security
+tier: 3
+summary: 前政治局委员、新疆党委书记（2016–2021）、西藏党委书记（2011–2016），新疆大规模拘押政策的主导者。2020-07 被美国依《全球马格尼茨基法》制裁。
+ids:
+  wikidata: Q551462
+sources:
+- url: https://en.wikipedia.org/wiki/Chen_Quanguo
+  publisher: Wikipedia
+updated: '2026-10-11'

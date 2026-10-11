@@ -1,0 +1,21 @@
+id: zhang-yannan
+type: person
+name: 张燕南
+names:
+  zh: 张燕南
+  en: Zhang Yannan
+gender: F
+born: '1979'
+country:
+- CN
+sectors:
+- business
+- family
+tier: 4
+summary: 齐桥桥与邓家贵之女。彭博 2012 调查称其名下持有香港多处房产及企业股权。
+sources:
+- url: https://www.bloomberg.com/news/2012-06-29/xi-jinping-millionaire-relations-reveal-fortunes-of-elite.html
+  title: Xi Jinping Millionaire Relations Reveal Fortunes of Elite
+  publisher: Bloomberg
+  date: '2012-06-29'
+updated: '2026-10-11'

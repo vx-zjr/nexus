@@ -1,0 +1,7429 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: b-j-penn
+    type: person
+    name: B. J. Penn
+    names:
+      zh: 巴迪·J·潘
+      en: B. J. Penn
+    gender: M
+    born: 1938-04-02
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American government official
+    ids:
+      wikidata: Q4834044
+    links:
+      - https://en.wikipedia.org/wiki/B._J._Penn_(United_States_Navy)
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4834044
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国海军部长
+        org: office-of-the-secretary-of-the-navy
+        from: 2009-03-13
+        to: 2009-05-19
+      - title: 美国海军部长
+        org: united-states-department-of-the-navy
+  - id: b-wayne-hughes
+    type: person
+    name: B. Wayne Hughes
+    names:
+      en: B. Wayne Hughes
+    gender: M
+    born: 1933-09-28
+    died: 2021-08-18
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: 美國商人
+    ids:
+      wikidata: Q4834257
+    links:
+      - https://en.wikipedia.org/wiki/B._Wayne_Hughes
+    tags:
+      - relative
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4834257
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: b-wayne-hughes-jr
+    type: person
+    name: B. Wayne Hughes, Jr.
+    names:
+      en: B. Wayne Hughes, Jr.
+    gender: M
+    born: "1959"
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: American heir, billionaire
+    ids:
+      wikidata: Q26251140
+    links:
+      - https://en.wikipedia.org/wiki/B._Wayne_Hughes_Jr.
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q26251140
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bagatur
+    type: person
+    name: 巴特尔
+    names:
+      zh: 巴特尔
+      en: Bagatur
+    gender: M
+    born: 1955-02-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 十四届全国政协副主席
+    ids:
+      wikidata: Q2213172
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B7%B4%E7%89%B9%E5%B0%94_(1955%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Bagatur
+    tags:
+      - cn-ministers
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2213172
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国人民政治协商会议全国委员会副主席
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 中华人民共和国国家民族事务委员会主任
+        org: national-ethnic-affairs-commission
+        from: 2016-04-28
+        to: 2020-12-14
+  - id: baiju-bhatt
+    type: person
+    name: Baiju Bhatt
+    names:
+      zh: 拜居·巴哈特
+      en: Baiju Bhatt
+    gender: M
+    born: "1985"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American entrepreneur co-founder and co-CEO of Robinhood, a US-based financial services company
+    netWorth:
+      usd: 6000000000
+    ids:
+      wikidata: Q55760424
+    links:
+      - https://en.wikipedia.org/wiki/Baiju_Bhatt
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55760424
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bao-gang
+    type: person
+    name: 包钢
+    names:
+      zh: 包钢
+      en: Bao Gang
+    gender: M
+    born: 1969-05-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共内蒙古自治区党委副书记、内蒙古自治区人民政府主席
+    ids:
+      wikidata: Q97195030
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8C%85%E9%92%A2_(%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)
+      - https://en.wikipedia.org/wiki/Bao_Gang
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97195030
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: barack-obama
+    type: person
+    name: Barack Obama
+    names:
+      zh: 贝拉克·奥巴马
+      en: Barack Obama
+    gender: M
+    born: 1961-08-04
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 1
+    summary: 美国政治人物
+    ids:
+      wikidata: Q76
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%8B%89%E5%85%8B%C2%B7%E5%A5%A7%E5%B7%B4%E9%A6%AC
+      - https://en.wikipedia.org/wiki/Barack_Obama
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 340
+    sources:
+      - url: https://www.wikidata.org/wiki/Q76
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國總統
+        org: united-states-armed-forces
+        from: 2009-01-20
+        to: 2017-01-20
+      - title: 候任美國總統
+        from: 2008-11-04
+        to: 2009-01-20
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2008-11-16
+      - title: 美國參議員
+        org: us-senate
+        from: 2005-01-03
+        to: 2007-01-03
+      - title: 伊利諾州參議員
+        org: illinois-senate
+        from: 1997-01-08
+        to: 2004-11-04
+  - id: barack-obama-sr
+    type: person
+    name: Barack Obama Sr.
+    names:
+      zh: 老贝拉克·奥巴马
+      en: Barack Obama Sr.
+    gender: M
+    born: 1934-06-18
+    died: 1982-11-24
+    country:
+      - KE
+    sectors:
+      - academia
+    tier: 3
+    summary: economist and father of Barack Obama Jr. (1934–1982)
+    ids:
+      wikidata: Q649593
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%80%81%E5%B7%B4%E6%8B%89%E5%85%8B%C2%B7%E5%A5%A7%E5%B7%B4%E9%A6%AC
+      - https://en.wikipedia.org/wiki/Barack_Obama_Sr.
+    tags:
+      - relative
+    attrs:
+      sitelinks: 31
+    sources:
+      - url: https://www.wikidata.org/wiki/Q649593
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: barbara-barrett
+    type: person
+    name: Barbara Barrett
+    names:
+      zh: 芭芭拉·巴雷特
+      en: Barbara Barrett
+    gender: F
+    born: 1950-12-26
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+      - diplomacy
+    tier: 2
+    summary: American businesswoman and diplomat (born 1950)
+    ids:
+      wikidata: Q3500791
+    links:
+      - https://en.wikipedia.org/wiki/Barbara_Barrett
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3500791
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國空軍部長
+        org: united-states-department-of-the-air-force
+        from: 2019-10-18
+        to: 2021-01-20
+      - title: 理事
+        org: board-of-directors
+        from: 2013-01-10
+        to: 2026-09-17
+  - id: barbara-bush
+    type: person
+    name: Barbara Bush
+    names:
+      zh: 芭芭拉·布什
+      en: Barbara Bush
+    gender: F
+    born: 1925-06-08
+    died: 2018-04-17
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 前美國第一夫人
+    ids:
+      wikidata: Q190628
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%8A%AD%E8%8A%AD%E6%8B%89%C2%B7%E5%B8%83%E4%BB%80
+      - https://en.wikipedia.org/wiki/Barbara_Bush
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 79
+    sources:
+      - url: https://www.wikidata.org/wiki/Q190628
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國副總統配偶
+        from: 1981-01-20
+        to: 1989-01-20
+      - title: 美國第一夫人
+        org: first-family-of-the-united-states
+        from: 1989-01-20
+        to: 1993-01-20
+  - id: barbara-bush-1981
+    type: person
+    name: Barbara Bush
+    names:
+      zh: 芭芭拉·皮尔斯·布什
+      en: Barbara Bush
+    gender: F
+    born: 1981-11-25
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American health care activist; daughter of George W. Bush (born 1981)
+    ids:
+      wikidata: Q153730
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%8A%AD%E8%8A%AD%E6%8B%89%C2%B7%E5%B8%83%E4%BB%80_(1981%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Barbara_Bush_(born_1981)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q153730
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: barbara-cox-anthony
+    type: person
+    name: Barbara Cox Anthony
+    names:
+      en: Barbara Cox Anthony
+    gender: F
+    born: 1922-12-08
+    died: 2007-05-28
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Businesswoman (1922-2007)
+    netWorth:
+      usd: 12000000000
+    ids:
+      wikidata: Q468350
+    links:
+      - https://en.wikipedia.org/wiki/Barbara_Cox_Anthony
+    tags:
+      - relative
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q468350
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: barbara-fried
+    type: person
+    name: Barbara Fried
+    names:
+      zh: 芭芭拉·弗里德
+      en: Barbara Fried
+    gender: F
+    born: "1951"
+    country:
+      - US
+    sectors:
+      - judiciary
+      - academia
+    tier: 5
+    summary: American lawyer and academic, mother of Sam Bankman-Fried
+    ids:
+      wikidata: Q29930881
+    links:
+      - https://en.wikipedia.org/wiki/Barbara_Fried
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q29930881
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: barbara-lee
+    type: person
+    name: Barbara Lee
+    names:
+      zh: 芭芭拉·李
+      en: Barbara Lee
+    gender: F
+    born: 1946-07-16
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1946)
+    ids:
+      wikidata: Q289317
+    links:
+      - https://en.wikipedia.org/wiki/Barbara_Lee
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 29
+    sources:
+      - url: https://www.wikidata.org/wiki/Q289317
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国国会职员
+        from: "1975"
+        to: "1987"
+      - title: 奧克蘭市長 (加利福尼亞州)
+        org: city-of-oakland
+        from: 2025-05-20
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1998-04-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: Chair of the Congressional Black Caucus
+        org: congressional-black-caucus
+        from: "2009"
+        to: "2011"
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: 1990-12-03
+        to: 1992-11-30
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: 1992-12-07
+        to: 1996-11-30
+      - title: 加利福尼亞州參議員
+        org: california-state-senate
+        from: 1996-12-01
+        to: 1998-04-01
+  - id: barbara-rae-venter
+    type: person
+    name: Barbara Rae-Venter
+    names:
+      zh: 芭芭拉·蕾-凡特
+      en: Barbara Rae-Venter
+    gender: F
+    born: 1948-07-17
+    country:
+      - US
+      - NZ
+    sectors:
+      - academia
+    tier: 5
+    summary: genetic researcher and patent attorney
+    ids:
+      wikidata: Q59926878
+    links:
+      - https://en.wikipedia.org/wiki/Barbara_Rae-Venter
+    tags:
+      - relative
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q59926878
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: barbara-raskin
+    type: person
+    name: Barbara Raskin
+    names:
+      en: Barbara Raskin
+    gender: F
+    born: 1935-08-25
+    died: 1999-07-23
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 5
+    summary: 美國作家
+    ids:
+      wikidata: Q112422235
+    links:
+      - https://en.wikipedia.org/wiki/Barbara_Raskin
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q112422235
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: barbara-richardson
+    type: person
+    name: Barbara Richardson
+    names:
+      zh: 芭芭拉·理查森
+      en: Barbara Richardson
+    gender: F
+    born: 1949-03-25
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: First Lady of New Mexico
+    ids:
+      wikidata: Q4859248
+    links:
+      - https://en.wikipedia.org/wiki/Barbara_Richardson
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4859248
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: barbara-simons
+    type: person
+    name: Barbara Simons
+    names:
+      zh: 芭芭拉·西蒙斯
+      en: Barbara Simons
+    gender: F
+    born: 1941-01-26
+    country:
+      - US
+    sectors:
+      - tech
+    tier: 5
+    summary: American computer scientist
+    ids:
+      wikidata: Q14250
+    links:
+      - https://en.wikipedia.org/wiki/Barbara_Simons
+    tags:
+      - relative
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14250
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 会长
+        org: organization
+  - id: barbara-sykes
+    type: person
+    name: Barbara Sykes
+    names:
+      en: Barbara Sykes
+    gender: F
+    born: "1951"
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q4859350
+    links:
+      - https://en.wikipedia.org/wiki/Barbara_Sykes_(politician)
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4859350
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 俄亥俄州眾議員
+        org: ohio-house-of-representatives
+  - id: barron-trump
+    type: person
+    name: Barron Trump
+    names:
+      zh: 巴伦·特朗普
+      en: Barron Trump
+    gender: M
+    born: 2006-03-20
+    country:
+      - US
+      - SI
+    sectors:
+      - family
+    tier: 3
+    summary: 唐纳德·特朗普三子
+    ids:
+      wikidata: Q23000814
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%80%AB%C2%B7%E7%89%B9%E6%9C%97%E6%99%AE
+      - https://en.wikipedia.org/wiki/Barron_Trump
+    tags:
+      - relative
+    attrs:
+      sitelinks: 33
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23000814
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: barry-diller
+    type: person
+    name: Barry Diller
+    names:
+      zh: 巴里·查爾斯·迪勒
+      en: Barry Diller
+    gender: M
+    born: 1942-02-02
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 5500000000
+    ids:
+      wikidata: Q587455
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%87%8C%C2%B7%E8%BF%AA%E5%8B%92
+      - https://en.wikipedia.org/wiki/Barry_Diller
+    tags:
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q587455
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: barry-loudermilk
+    type: person
+    name: Barry Loudermilk
+    names:
+      zh: 巴瑞·勞德米爾克
+      en: Barry Loudermilk
+    gender: M
+    born: 1963-12-22
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q16731643
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B7%B4%E7%91%9E%C2%B7%E5%8B%9E%E5%BE%B7%E7%B1%B3%E7%88%BE%E5%85%8B
+      - https://en.wikipedia.org/wiki/Barry_Loudermilk
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16731643
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: "2001"
+        to: "2004"
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 喬治亞州眾議員
+        org: georgia-house-of-representatives
+        from: "2005"
+        to: "2010"
+      - title: 喬治亞州參議員
+        org: georgia-state-senate
+        from: "2011"
+        to: "2013"
+  - id: barry-moore
+    type: person
+    name: Barry Moore
+    names:
+      zh: 巴里·穆尼
+      en: Barry Moore
+    gender: M
+    born: 1966-09-26
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1966)
+    ids:
+      wikidata: Q63198048
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%87%8C%C2%B7%E7%A9%86%E5%B0%94_(%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)
+      - https://en.wikipedia.org/wiki/Barry_Moore_(American_politician)
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q63198048
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 亚拉巴马州众议员
+        org: alabama-house-of-representatives
+        from: 2010-11-03
+        to: 2018-11-07
+  - id: bassma-al-jandaly
+    type: person
+    name: Bassma Al Jandaly
+    names:
+      en: Bassma Al Jandaly
+    gender: F
+    born: 1977-08-30
+    country: []
+    sectors:
+      - media
+    tier: 5
+    summary: russian-Syrian journalist covering the UAE
+    ids:
+      wikidata: Q97355518
+    links:
+      - https://en.wikipedia.org/wiki/Bassma_Al_Jandaly
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97355518
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bay-buchanan
+    type: person
+    name: Bay Buchanan
+    names:
+      zh: 安吉拉·玛丽·布坎南
+      en: Bay Buchanan
+    gender: F
+    born: 1948-12-23
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: Treasurer of the US
+    ids:
+      wikidata: Q4873944
+    links:
+      - https://en.wikipedia.org/wiki/Bay_Buchanan
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4873944
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國司庫
+        org: united-states-department-of-the-treasury
+        from: 1981-03-20
+        to: 1983-07-05
+  - id: bayanqolu
+    type: person
+    name: 巴音朝鲁
+    names:
+      zh: 巴音朝鲁
+      en: Bayanqolu
+    gender: M
+    born: 1955-10-05
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 第十四届全国人大民族委员会主任委员
+    ids:
+      wikidata: Q4456697
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%9F%B3%E6%9C%9D%E9%B2%81
+      - https://en.wikipedia.org/wiki/Bayanqolu
+    tags:
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4456697
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中国共产党吉林省委员会书记
+        org: jilin-provincial-committee-of-the-chinese-communist-party
+        from: 2014-08-31
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+      - title: 吉林省人民政府省长
+        org: people-s-government-of-jilin-province
+        from: "2012"
+        to: "2014"
+  - id: beau-biden
+    type: person
+    name: Beau Biden
+    names:
+      zh: 博·拜登
+      en: Beau Biden
+    gender: M
+    born: 1969-02-03
+    died: 2015-05-30
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 3
+    summary: 美国第46任总统乔·拜登长子
+    ids:
+      wikidata: Q813332
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8D%9A%C2%B7%E6%8B%9C%E7%99%BB
+      - https://en.wikipedia.org/wiki/Beau_Biden
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 39
+    sources:
+      - url: https://www.wikidata.org/wiki/Q813332
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 德拉瓦州總檢察長
+        from: 2007-01-02
+        to: 2015-01-06
+  - id: becca-balint
+    type: person
+    name: Becca Balint
+    names:
+      zh: 贝卡·巴林特
+      en: Becca Balint
+    gender: F
+    born: 1968-05-04
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1968)
+    ids:
+      wikidata: Q28137193
+    links:
+      - https://en.wikipedia.org/wiki/Becca_Balint
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28137193
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 佛蒙特州参议院临时议长
+        from: 2021-01-06
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: member of the State Senate of Vermont
+        org: vermont-senate
+        from: 2015-01-07
+        to: 2023-01-03
+  - id: ben-bernanke
+    type: person
+    name: Ben Bernanke
+    names:
+      zh: 本·伯南克
+      en: Ben Bernanke
+    gender: M
+    born: 1953-12-13
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+      - finance
+    tier: 2
+    summary: 美国犹太裔经济学家
+    ids:
+      wikidata: Q201795
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9C%AC%C2%B7%E4%BC%AF%E5%8D%97%E5%85%8B
+      - https://en.wikipedia.org/wiki/Ben_Bernanke
+    tags:
+      - us-executive
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 75
+    sources:
+      - url: https://www.wikidata.org/wiki/Q201795
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美联储主席
+        org: federal-reserve
+        from: 2006-02-01
+        to: 2014-02-03
+      - title: Chair of the Council of Economic Advisers
+        org: council-of-economic-advisers
+        from: 2005-06-21
+        to: 2006-01-31
+  - id: ben-cardin
+    type: person
+    name: Ben Cardin
+    names:
+      zh: 班·卡定
+      en: Ben Cardin
+    gender: M
+    born: 1943-10-05
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: American lawyer and former politician (born 1943)
+    ids:
+      wikidata: Q723295
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8F%AD%C2%B7%E5%8D%A1%E5%AE%9A
+      - https://en.wikipedia.org/wiki/Ben_Cardin
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 32
+    sources:
+      - url: https://www.wikidata.org/wiki/Q723295
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2011-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 馬里蘭州眾議院議長
+        from: 1979-01-06
+        to: 1987-01-03
+      - title: 馬里蘭州眾議員
+        org: maryland-house-of-delegates
+        from: 1967-01-06
+        to: 1987-01-03
+  - id: ben-carson
+    type: person
+    name: Ben Carson
+    names:
+      zh: 本杰明-卡森
+      en: Ben Carson
+    gender: M
+    born: 1951-09-18
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - academia
+    tier: 2
+    summary: 美国政治人物
+    ids:
+      wikidata: Q816459
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9C%AC%C2%B7%E5%8D%A1%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Ben_Carson
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 48
+    sources:
+      - url: https://www.wikidata.org/wiki/Q816459
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国住房和城市发展部部长
+        org: united-states-department-of-housing-and-urban-development
+        from: 2017-03-02
+        to: 2021-01-20
+  - id: ben-chestnut
+    type: person
+    name: Ben Chestnut
+    names:
+      en: Ben Chestnut
+    gender: M
+    born: 1974-06-01
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 5300000000
+    ids:
+      wikidata: Q16256347
+    links:
+      - https://en.wikipedia.org/wiki/Ben_Chestnut
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16256347
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席执行官
+        from: "2001"
+  - id: ben-cline
+    type: person
+    name: Ben Cline
+    names:
+      zh: 本·克莱因
+      en: Ben Cline
+    gender: M
+    born: 1972-02-29
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 美国政治人物、律师
+    ids:
+      wikidata: Q4885439
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9C%AC%C2%B7%E5%85%8B%E8%90%8A%E6%81%A9
+      - https://en.wikipedia.org/wiki/Ben_Cline
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4885439
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 維吉尼亞州眾議員
+        org: virginia-house-of-delegates
+        from: 2002-11-26
+        to: 2018-12-18
+  - id: ben-lujan
+    type: person
+    name: Ben Luján
+    names:
+      zh: 本·卢扬
+      en: Ben Luján
+    gender: M
+    born: 1935-07-12
+    died: 2012-12-18
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q4886084
+    links:
+      - https://en.wikipedia.org/wiki/Ben_Luj%C3%A1n
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4886084
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: Member of the New Mexico House of Representatives
+        org: new-mexico-house-of-representatives
+        from: "1975"
+        to: "2012"
+  - id: ben-quayle
+    type: person
+    name: Ben Quayle
+    names:
+      en: Ben Quayle
+    gender: M
+    born: 1976-11-03
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+      - business
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q816587
+    links:
+      - https://en.wikipedia.org/wiki/Ben_Quayle
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q816587
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+  - id: ben-ray-lujan
+    type: person
+    name: Ben Ray Luján
+    names:
+      zh: 本·雷·盧揚
+      en: Ben Ray Luján
+    gender: M
+    born: 1972-06-07
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: U.S. Senator from New Mexico
+    ids:
+      wikidata: Q324256
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9C%AC%C2%B7%E9%9B%B7%C2%B7%E5%8D%A2%E6%B1%89
+      - https://en.wikipedia.org/wiki/Ben_Ray_Luj%C3%A1n
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q324256
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 怀俄明州司库
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+  - id: ben-sasse
+    type: person
+    name: Ben Sasse
+    names:
+      zh: 本·薩斯
+      en: Ben Sasse
+    gender: M
+    born: 1972-02-22
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+    tier: 3
+    summary: American politician and college president (born 1972)
+    ids:
+      wikidata: Q16192221
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9C%AC%C2%B7%E8%96%A9%E6%96%AF
+      - https://en.wikipedia.org/wiki/Ben_Sasse
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 33
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16192221
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 校監
+      - title: 參謀長
+        org: military-staff
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 助手
+      - title: assistant secretary
+  - id: benjamin-black
+    type: person
+    name: Benjamin Black
+    names:
+      en: Benjamin Black
+    gender: M
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman
+    ids:
+      wikidata: Q135246262
+    links:
+      - https://en.wikipedia.org/wiki/Benjamin_Black_(investor)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q135246262
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: benjamin-emanuel
+    type: person
+    name: Benjamin Emanuel
+    names:
+      en: Benjamin Emanuel
+    gender: M
+    born: 1927-03-02
+    died: 2019-10-03
+    country:
+      - IL
+    sectors:
+      - family
+    tier: 5
+    summary: 1927 - 2 Oct 2019
+    ids:
+      wikidata: Q123054777
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q123054777
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: benjamin-swartz
+    type: person
+    name: Benjamin Swartz
+    names:
+      en: Benjamin Swartz
+    gender: M
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: American software engineer and activist
+    ids:
+      wikidata: Q130226784
+    links:
+      - https://en.wikipedia.org/wiki/BenSw
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q130226784
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bennie-thompson
+    type: person
+    name: Bennie Thompson
+    names:
+      zh: 本尼·湯普森
+      en: Bennie Thompson
+    gender: M
+    born: 1948-01-28
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1948)
+    ids:
+      wikidata: Q817877
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9C%AC%E5%B0%BC%C2%B7%E6%B9%AF%E6%99%AE%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Bennie_Thompson
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 23
+    sources:
+      - url: https://www.wikidata.org/wiki/Q817877
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 市长
+        from: "1973"
+        to: "1979"
+      - title: 成员
+        org: membership-organization
+        from: "1969"
+        to: "1973"
+      - title: 成员
+        org: membership-organization
+        from: "1980"
+        to: "1993"
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-04-13
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+  - id: bernadette-meehan
+    type: person
+    name: Bernadette Meehan
+    names:
+      zh: 贝尔纳黛特·米汉
+      en: Bernadette Meehan
+    gender: F
+    born: 1975-08-03
+    country:
+      - US
+    sectors:
+      - business
+      - diplomacy
+    tier: 4
+    summary: Wikimedia CEO and American diplomat (born 1975)
+    ids:
+      wikidata: Q19564219
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B4%9D%E5%B0%94%E7%BA%B3%E9%BB%9B%E7%89%B9%C2%B7%E7%B1%B3%E6%B1%89
+      - https://en.wikipedia.org/wiki/Bernadette_Meehan
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 34
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19564219
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国驻智利大使
+        from: "2022"
+        to: "2025"
+      - title: Chief Executive Officer of the Wikimedia Foundation
+        org: wikimedia-foundation
+        from: 2026-01-20
+  - id: bernard-levin
+    type: person
+    name: Bernard Levin
+    names:
+      zh: 伯纳德·列文
+      en: Bernard Levin
+    gender: M
+    born: 1928-08-19
+    died: 2004-08-07
+    country:
+      - GB
+    sectors:
+      - media
+    tier: 5
+    summary: British journalist, writer and broadcaster (1928–2004)
+    ids:
+      wikidata: Q835175
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%BA%B3%E5%BE%B7%C2%B7%E5%88%97%E6%96%87
+      - https://en.wikipedia.org/wiki/Bernard_Levin
+    tags:
+      - relative
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q835175
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bernard-lewinsky
+    type: person
+    name: Bernard Lewinsky
+    names:
+      zh: 伯纳德·莱温斯基
+      en: Bernard Lewinsky
+    gender: M
+    born: 1943-01-10
+    country:
+      - US
+      - SV
+    sectors:
+      - family
+    tier: 5
+    summary: American physician
+    ids:
+      wikidata: Q4893369
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%BA%B3%E5%BE%B7%C2%B7%E8%8E%B1%E6%B8%A9%E6%96%AF%E5%9F%BA
+      - https://en.wikipedia.org/wiki/Bernard_Lewinsky
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4893369
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bernard-madoff
+    type: person
+    name: Bernard Madoff
+    names:
+      zh: 伯納·馬多夫
+      en: Bernard Madoff
+    gender: M
+    born: 1938-04-29
+    died: 2021-04-14
+    country:
+      - US
+    sectors:
+      - business
+      - academia
+      - finance
+    tier: 4
+    summary: American fraudster and financier (1938–2021)
+    ids:
+      wikidata: Q14043
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%B4%8D%C2%B7%E9%A6%AC%E5%A4%9A%E5%A4%AB
+      - https://en.wikipedia.org/wiki/Bernie_Madoff
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 57
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14043
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bernard-weinraub
+    type: person
+    name: Bernard Weinraub
+    names:
+      zh: 伯纳德·温劳布
+      en: Bernard Weinraub
+    gender: M
+    born: "1939"
+    country:
+      - US
+    sectors:
+      - media
+    tier: 5
+    summary: American journalist, playwright
+    ids:
+      wikidata: Q18737259
+    links:
+      - https://en.wikipedia.org/wiki/Bernard_Weinraub
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18737259
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bernice-layne-brown
+    type: person
+    name: Bernice Layne Brown
+    names:
+      zh: 伯妮斯·莱恩·布朗
+      en: Bernice Layne Brown
+    gender: F
+    born: 1908-11-19
+    died: 2002-05-09
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: First Lady of California (1908-2002)
+    ids:
+      wikidata: Q4894292
+    links:
+      - https://en.wikipedia.org/wiki/Bernice_Layne_Brown
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4894292
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 加州第一夫人或合伙人
+        org: first-family-of-california
+        from: 1959-01-05
+        to: 1967-01-02
+  - id: bernie-moreno-mejia
+    type: person
+    name: Bernie Moreno-Mejía
+    names:
+      zh: 伯尼·莫雷诺
+      en: Bernie Moreno-Mejía
+    gender: M
+    born: 1967-02-14
+    country:
+      - US
+      - CO
+    sectors:
+      - politics
+      - business
+    tier: 3
+    summary: American politician and businessman (born 1967)
+    ids:
+      wikidata: Q124858476
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BC%AF%E5%B0%BC%C2%B7%E8%8E%AB%E9%9B%B7%E8%AF%BA
+      - https://en.wikipedia.org/wiki/Bernie_Moreno
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124858476
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-03
+  - id: bernie-sanders
+    type: person
+    name: Bernie Sanders
+    names:
+      zh: 伯尼·桑德斯
+      en: Bernie Sanders
+    gender: M
+    born: 1941-09-08
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 美國政治人物
+    ids:
+      wikidata: Q359442
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BC%AF%E5%B0%BC%C2%B7%E6%A1%91%E5%BE%B7%E6%96%AF
+      - https://en.wikipedia.org/wiki/Bernie_Sanders
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 140
+    sources:
+      - url: https://www.wikidata.org/wiki/Q359442
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2011-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: Mayor of Burlington, Vermont
+        from: 1981-04-06
+        to: 1989-04-04
+  - id: beryl-wayne-sprinkel
+    type: person
+    name: Beryl Wayne Sprinkel
+    names:
+      en: Beryl Wayne Sprinkel
+    gender: M
+    born: 1923-11-20
+    died: 2009-08-22
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+      - finance
+    tier: 2
+    summary: American banker (1923–2009)
+    ids:
+      wikidata: Q829289
+    links:
+      - https://en.wikipedia.org/wiki/Beryl_Sprinkel
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q829289
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: Chair of the Council of Economic Advisers
+        org: council-of-economic-advisers
+        from: 1985-04-18
+        to: 1989-01-20
+  - id: beth-kobliner
+    type: person
+    name: Beth Kobliner
+    names:
+      zh: Beth Kobliner
+      en: Beth Kobliner
+    gender: F
+    born: 1965-01-18
+    country:
+      - US
+    sectors:
+      - media
+    tier: 5
+    summary: American financial author journalist, & commentator
+    ids:
+      wikidata: Q4897560
+    links:
+      - https://en.wikipedia.org/wiki/Beth_Kobliner
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4897560
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beth-van-duyne
+    type: person
+    name: Beth Van Duyne
+    names:
+      zh: 贝思·凡·杜伊恩
+      en: Beth Van Duyne
+    gender: F
+    born: 1970-11-16
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q66309702
+    links:
+      - https://en.wikipedia.org/wiki/Beth_Van_Duyne
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q66309702
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: Mayor of Irving, Texas
+        from: "2011"
+        to: 2017-05-01
+  - id: bethany-hall-long
+    type: person
+    name: Bethany Hall-Long
+    names:
+      zh: 贝萨妮·霍尔-朗
+      en: Bethany Hall-Long
+    gender: F
+    born: 1963-11-12
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 前任德拉瓦州州長
+    ids:
+      wikidata: Q16105100
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B4%9D%E8%90%A8%E5%A6%AE%C2%B7%E9%9C%8D%E5%B0%94-%E6%9C%97
+      - https://en.wikipedia.org/wiki/Bethany_Hall-Long
+    tags:
+      - us-governors
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16105100
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 特拉華州副州長
+        from: 2017-01-17
+        to: 2025-01-07
+      - title: 德拉瓦州州長
+        org: state-of-delaware
+        from: 2025-01-07
+        to: 2025-01-21
+      - title: member of the Delaware State Senate
+        org: delaware-state-senate
+        from: 2009-01-13
+        to: 2017-01-17
+      - title: member of the Delaware House of Representatives
+        from: 2003-01-14
+        to: 2009-01-13
+  - id: betsy-devos
+    type: person
+    name: Betsy DeVos
+    names:
+      zh: 贝齐·德沃斯
+      en: Betsy DeVos
+    gender: F
+    born: 1958-01-08
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 2
+    summary: 前任美國教育部長
+    ids:
+      wikidata: Q4898286
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B4%9D%E9%BD%90%C2%B7%E5%BE%B7%E6%B2%83%E6%96%AF
+      - https://en.wikipedia.org/wiki/Betsy_DeVos
+    tags:
+      - us-executive
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 38
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4898286
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國教育部長
+        org: united-states-department-of-education
+        from: 2017-02-07
+        to: 2021-01-08
+  - id: betsy-mccaughey
+    type: person
+    name: Betsy McCaughey
+    names:
+      zh: 貝特西·麥考伊
+      en: Betsy McCaughey
+    gender: F
+    born: 1948-10-20
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: American Health care policy commentator
+    ids:
+      wikidata: Q4898310
+    links:
+      - https://en.wikipedia.org/wiki/Betsy_McCaughey
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4898310
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 紐約州副州長
+        org: new-york-state-senate
+        from: "1995"
+        to: 1998-12-31
+  - id: betty-i-moore
+    type: person
+    name: Betty I. Moore
+    names:
+      en: Betty I. Moore
+    gender: F
+    born: 1928-01-09
+    died: 2023-12-12
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: health care professional and philanthropist
+    ids:
+      wikidata: Q96645181
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96645181
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: betty-mccollum
+    type: person
+    name: Betty McCollum
+    names:
+      zh: 貝蒂·麥考倫
+      en: Betty McCollum
+    gender: F
+    born: 1954-07-12
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q434893
+    links:
+      - https://en.wikipedia.org/wiki/Betty_McCollum
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q434893
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 明尼蘇達州眾議員
+        org: minnesota-house-of-representatives
+        from: "1992"
+        to: "2001"
+  - id: betty-price
+    type: person
+    name: Betty Price
+    names:
+      en: Betty Price
+    gender: F
+    born: 1952-08-15
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: American politician and physician
+    ids:
+      wikidata: Q28382598
+    links:
+      - https://en.wikipedia.org/wiki/Betty_Price_(politician)
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28382598
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 喬治亞州眾議員
+        org: georgia-house-of-representatives
+  - id: betty-tung
+    type: person
+    name: 董赵洪娉
+    names:
+      zh: 董赵洪娉
+      en: Betty Tung
+    gender: F
+    born: 1936-05-06
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: 董建华之妻
+    ids:
+      wikidata: Q4120751
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%91%A3%E8%B6%99%E6%B4%AA%E5%A8%89
+      - https://en.wikipedia.org/wiki/Betty_Tung
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4120751
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 太平紳士
+  - id: beverly-adams
+    type: person
+    name: Beverly Adams
+    names:
+      en: Beverly Adams
+    gender: F
+    born: 1945-11-07
+    country:
+      - CA
+      - US
+    sectors:
+      - culture
+    tier: 4
+    summary: actress, author
+    ids:
+      wikidata: Q4899465
+    links:
+      - https://en.wikipedia.org/wiki/Beverly_Adams
+    tags:
+      - relative
+    attrs:
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4899465
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beverly-vance
+    type: person
+    name: Beverly Vance
+    names:
+      en: Beverly Vance
+    gender: F
+    born: 1961-01-20
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: mother of U.S. vice president JD Vance (born 1961)
+    ids:
+      wikidata: Q140278137
+    links:
+      - https://en.wikipedia.org/wiki/Beverly_Vance
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q140278137
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bi-huiyi
+    type: person
+    name: 毕惠义
+    names:
+      zh: 毕惠义
+    gender: M
+    born: "1941"
+    died: 2026-03-10
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8333456
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%95%E6%83%A0%E4%B9%89
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8333456
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bill-ackman
+    type: person
+    name: Bill Ackman
+    names:
+      zh: 艾克曼
+      en: Bill Ackman
+    gender: M
+    born: 1966-05-11
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 3
+    summary: American billionaire hedge fund manager (born 1966)
+    netWorth:
+      usd: 9100000000
+    ids:
+      wikidata: Q1586871
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E5%B0%94%C2%B7%E9%98%BF%E5%85%8B%E6%9B%BC
+      - https://en.wikipedia.org/wiki/Bill_Ackman
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1586871
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bill-anders
+    type: person
+    name: Bill Anders
+    names:
+      zh: 威廉·安德斯
+      en: Bill Anders
+    gender: M
+    born: 1933-10-17
+    died: 2024-06-07
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+      - diplomacy
+    tier: 4
+    summary: 美國太空人
+    ids:
+      wikidata: Q19242
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E5%AE%89%E5%BE%B7%E6%96%AF
+      - https://en.wikipedia.org/wiki/William_Anders
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 55
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19242
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国驻挪威大使
+        org: embassy-of-the-united-states-oslo
+        from: 1976-05-11
+        to: 1977-06-18
+  - id: bill-browder
+    type: person
+    name: Bill Browder
+    names:
+      zh: 比尔·布劳德
+      en: Bill Browder
+    gender: M
+    born: 1964-04-23
+    country:
+      - US
+      - GB
+    sectors:
+      - business
+      - politics
+      - academia
+    tier: 4
+    summary: American-born British businessman and political activist (born 1964)
+    ids:
+      wikidata: Q377538
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E5%B0%94%C2%B7%E5%B8%83%E5%8A%B3%E5%BE%B7
+      - https://en.wikipedia.org/wiki/Bill_Browder
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q377538
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bill-cassidy
+    type: person
+    name: Bill Cassidy
+    names:
+      zh: 比爾·卡西迪
+      en: Bill Cassidy
+    gender: M
+    born: 1957-09-28
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+    tier: 3
+    summary: 研究者
+    ids:
+      wikidata: Q861999
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E7%88%BE%C2%B7%E5%8D%A1%E8%A5%BF%E8%BF%AA
+      - https://en.wikipedia.org/wiki/Bill_Cassidy
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 32
+    sources:
+      - url: https://www.wikidata.org/wiki/Q861999
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: member of the State Senate of Louisiana
+        org: louisiana-state-senate
+        from: "2006"
+        to: "2008"
+  - id: bill-clinton
+    type: person
+    name: Bill Clinton
+    names:
+      zh: 比尔·克林顿
+      en: Bill Clinton
+    gender: M
+    born: 1946-08-19
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - judiciary
+    tier: 1
+    summary: 美国政治人物
+    ids:
+      wikidata: Q1124
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E5%B0%94%C2%B7%E5%85%8B%E6%9E%97%E9%A1%BF
+      - https://en.wikipedia.org/wiki/Bill_Clinton
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 223
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1124
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國總統
+        org: united-states-armed-forces
+        from: 1993-01-20
+        to: 2001-01-20
+      - title: 会长
+        org: organization
+      - title: 候任美國總統
+        from: 1992-11-03
+        to: 1993-01-20
+      - title: 阿肯色州州長
+        from: 1983-01-11
+        to: 1992-12-12
+      - title: 阿肯色州州長
+        from: 1979-01-09
+        to: 1981-01-19
+      - title: 阿肯色州司法部长
+        org: executive-branch
+        from: 1977-01-03
+        to: 1979-01-09
+  - id: bill-foster
+    type: person
+    name: Bill Foster
+    names:
+      zh: 比爾·福斯特
+      en: Bill Foster
+    gender: M
+    born: 1955-10-07
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: politician, physicist
+    ids:
+      wikidata: Q2903389
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E7%88%BE%C2%B7%E7%A6%8F%E6%96%AF%E7%89%B9
+      - https://en.wikipedia.org/wiki/Bill_Foster_(politician)
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2903389
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 理事
+        org: board-of-directors
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2008-03-08
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+  - id: bill-frist
+    type: person
+    name: Bill Frist
+    names:
+      zh: 比尔·弗里斯特
+      en: Bill Frist
+    gender: M
+    born: 1952-02-22
+    country:
+      - US
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: American physician, businessman, and politician
+    ids:
+      wikidata: Q31112
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E7%88%BE%C2%B7%E5%BC%97%E9%87%8C%E6%96%AF%E7%89%B9
+      - https://en.wikipedia.org/wiki/Bill_Frist
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 29
+    sources:
+      - url: https://www.wikidata.org/wiki/Q31112
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2005-01-03
+        to: 2007-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2003-01-03
+        to: 2005-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1995-01-03
+        to: 1997-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1997-01-03
+        to: 1999-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1999-01-03
+        to: 2001-01-03
+  - id: bill-gates
+    type: person
+    name: Bill Gates
+    names:
+      zh: 比尔·盖茨
+      en: Bill Gates
+    gender: M
+    born: 1955-10-28
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+      - finance
+    tier: 2
+    summary: 美國企業家
+    netWorth:
+      usd: 96500000000
+    ids:
+      wikidata: Q5284
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E5%B0%94%C2%B7%E7%9B%96%E8%8C%A8
+      - https://en.wikipedia.org/wiki/Bill_Gates
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 243
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5284
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席执行官
+        from: 1975-04-01
+        to: "2000"
+  - id: bill-gates-sr
+    type: person
+    name: Bill Gates Sr.
+    names:
+      zh: 威廉·盖茨
+      en: Bill Gates Sr.
+    gender: M
+    born: 1925-11-30
+    died: 2020-09-14
+    country:
+      - US
+    sectors:
+      - judiciary
+      - business
+    tier: 4
+    summary: American attorney and philanthropist (1925–2020)
+    ids:
+      wikidata: Q684014
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%80%81%E5%A8%81%E5%BB%89%C2%B7H%C2%B7%E7%9B%96%E8%8C%A8
+      - https://en.wikipedia.org/wiki/Bill_Gates_Sr.
+    tags:
+      - relative
+    attrs:
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q684014
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bill-hagerty
+    type: person
+    name: Bill Hagerty
+    names:
+      zh: 威廉·弗朗西斯·哈格提四世
+      en: Bill Hagerty
+    gender: M
+    born: 1959-08-14
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+      - diplomacy
+    tier: 3
+    summary: 政治家
+    ids:
+      wikidata: Q27734214
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E5%B0%94%C2%B7%E5%93%88%E6%A0%BC%E8%92%82
+      - https://en.wikipedia.org/wiki/Bill_Hagerty
+    tags:
+      - us-congress
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27734214
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國駐日大使
+        org: embassy-of-the-united-states-tokyo
+  - id: bill-haslam
+    type: person
+    name: Bill Haslam
+    names:
+      zh: 比尔·哈斯拉姆
+      en: Bill Haslam
+    gender: M
+    born: 1958-08-23
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 3
+    summary: 49th Governor of Tennessee
+    netWorth:
+      usd: 5700000000
+    ids:
+      wikidata: Q862186
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E5%B0%94%C2%B7%E5%93%88%E6%96%AF%E6%8B%89%E5%A7%86
+      - https://en.wikipedia.org/wiki/Bill_Haslam
+    tags:
+      - us-governors
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q862186
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 田納西州州長
+        org: tennessee-state-government
+        from: 2011-01-15
+        to: 2019-01-19
+      - title: Mayor of Knoxville, Tennessee
+        from: 2003-12-20
+        to: 2011-01-10
+  - id: bill-huizenga
+    type: person
+    name: Bill Huizenga
+    names:
+      zh: 比爾·休伊曾加
+      en: Bill Huizenga
+    gender: M
+    born: 1969-01-31
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q862199
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E7%88%BE%C2%B7%E4%BC%91%E4%BC%8A%E6%9B%BE%E5%8A%A0
+      - https://en.wikipedia.org/wiki/Bill_Huizenga
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q862199
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 密歇根州眾議員
+        org: michigan-house-of-representatives
+        from: "2003"
+        to: "2008"
+  - id: bill-johnson
+    type: person
+    name: Bill Johnson
+    names:
+      zh: 比爾·約翰遜
+      en: Bill Johnson
+    gender: M
+    born: 1954-11-10
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+      - business
+    tier: 4
+    summary: American politician and academic administrator (born 1954)
+    ids:
+      wikidata: Q862215
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E7%88%BE%C2%B7%E7%B4%84%E7%BF%B0%E9%81%9C_(%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)
+      - https://en.wikipedia.org/wiki/Bill_Johnson_(university_president)
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q862215
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2024-01-21
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+  - id: bill-joy
+    type: person
+    name: Bill Joy
+    names:
+      zh: 比尔·乔伊
+      en: Bill Joy
+    gender: M
+    born: 1954-11-08
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: 美國計算機科學家
+    ids:
+      wikidata: Q335047
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E5%B0%94%C2%B7%E4%B9%94%E4%BC%8A
+      - https://en.wikipedia.org/wiki/Bill_Joy
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 34
+    sources:
+      - url: https://www.wikidata.org/wiki/Q335047
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bill-keating
+    type: person
+    name: Bill Keating
+    names:
+      zh: 比爾·基亭
+      en: Bill Keating
+    gender: M
+    born: 1952-09-06
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American politician (born 1952)
+    ids:
+      wikidata: Q775412
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E7%88%BE%C2%B7%E5%9F%BA%E4%BA%AD
+      - https://en.wikipedia.org/wiki/Bill_Keating
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q775412
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 區域檢察長
+        from: "1998"
+        to: "2010"
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 麻薩諸塞州參議員
+        org: massachusetts-senate
+      - title: 麻薩諸塞州參議員
+        org: massachusetts-senate
+        from: "1985"
+        to: "1998"
+      - title: 麻薩諸塞州眾議員
+        org: massachusetts-house-of-representatives
+      - title: 麻薩諸塞州眾議員
+        org: massachusetts-house-of-representatives
+        from: "1977"
+        to: "1984"
+  - id: bill-koch
+    type: person
+    name: Bill Koch
+    names:
+      zh: 威廉·英格拉哈姆·科赫
+      en: Bill Koch
+    gender: M
+    born: 1940-05-03
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American businessman and sailor
+    ids:
+      wikidata: Q4909771
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E8%8B%B1%E6%A0%BC%E6%8B%89%E5%93%88%E5%A7%86%C2%B7%E7%A7%91%E8%B5%AB
+      - https://en.wikipedia.org/wiki/Bill_Koch_(businessman)
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4909771
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bill-laurie
+    type: person
+    name: Bill Laurie
+    names:
+      en: Bill Laurie
+    gender: M
+    born: 1952-07-01
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American businessman, basketball player and coach
+    ids:
+      wikidata: Q19863948
+    links:
+      - https://en.wikipedia.org/wiki/Bill_Laurie
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19863948
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bill-lee
+    type: person
+    name: Bill Lee
+    names:
+      zh: 威廉·李
+      en: Bill Lee
+    gender: M
+    born: 1959-10-09
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 3
+    summary: 第50任田纳西州州长
+    ids:
+      wikidata: Q58321685
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E7%88%BE%C2%B7%E6%9D%8E
+      - https://en.wikipedia.org/wiki/Bill_Lee_(Tennessee_politician)
+    tags:
+      - us-governors
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58321685
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 田納西州州長
+        org: tennessee-state-government
+        from: 2019-01-19
+  - id: bill-nelson
+    type: person
+    name: Bill Nelson
+    names:
+      zh: 比爾·納爾遜
+      en: Bill Nelson
+    gender: M
+    born: 1942-09-29
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: 美国政治人物和宇航员
+    ids:
+      wikidata: Q358437
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E7%88%BE%C2%B7%E7%B4%8D%E7%88%BE%E9%81%9C
+      - https://en.wikipedia.org/wiki/Bill_Nelson
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 43
+    sources:
+      - url: https://www.wikidata.org/wiki/Q358437
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國國家航空暨太空總署署長及副署長列表
+        org: national-aeronautics-and-space-administration
+        from: 2021-05-03
+      - title: 立法主管
+        from: "1971"
+      - title: 美國參議員
+        org: us-senate
+        from: 2005-01-03
+        to: 2007-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2003-01-03
+        to: 2005-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2011-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1981-01-03
+        to: 1983-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1985-01-03
+        to: 1987-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1979-01-03
+        to: 1981-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1983-01-03
+        to: 1985-01-03
+      - title: 佛羅里達州財政部長/保險業監理專員/消防司令
+        from: 1995-01-03
+        to: 2001-01-03
+      - title: 佛羅里達州眾議員
+        org: florida-house-of-representatives
+        from: "1972"
+        to: "1978"
+  - id: bill-pascrell
+    type: person
+    name: Bill Pascrell
+    names:
+      zh: 比尔·帕斯克雷尔
+      en: Bill Pascrell
+    gender: M
+    born: 1937-01-25
+    died: 2024-08-21
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (1937–2024)
+    ids:
+      wikidata: Q529090
+    links:
+      - https://en.wikipedia.org/wiki/Bill_Pascrell
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q529090
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 会长
+        org: organization
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2024-08-21
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: Mayor of Paterson, New Jersey
+        from: "1990"
+        to: "1996"
+      - title: 新澤西州眾議員
+        org: new-jersey-general-assembly
+        from: "1988"
+        to: "1996"
+  - id: bill-posey
+    type: person
+    name: Bill Posey
+    names:
+      zh: 比爾·波西
+      en: Bill Posey
+    gender: M
+    born: 1947-12-18
+    died: 2026-05-09
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: U.S. Representative from Florida
+    ids:
+      wikidata: Q862373
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E7%88%BE%C2%B7%E6%B3%A2%E8%A5%BF
+      - https://en.wikipedia.org/wiki/Bill_Posey
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q862373
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 地方議會議員
+        org: city-council
+        from: "1976"
+        to: "1986"
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 佛羅里達州眾議員
+        org: florida-house-of-representatives
+        from: "1992"
+        to: "2000"
+      - title: 佛羅里達州參議員
+        org: florida-senate
+        from: "2000"
+        to: "2008"
+  - id: bill-richardson
+    type: person
+    name: Bill Richardson
+    names:
+      zh: 比尔·理查森
+      en: Bill Richardson
+    gender: M
+    born: 1947-11-15
+    died: 2023-09-01
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - diplomacy
+    tier: 2
+    summary: American politician (1947–2023)
+    ids:
+      wikidata: Q311782
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E5%B0%94%C2%B7%E7%90%86%E6%9F%A5%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Bill_Richardson
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 35
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311782
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国常驻联合国代表列表
+        org: united-states-mission-to-the-united-nations
+        from: 1997-02-18
+        to: 1998-08-18
+      - title: 美國能源部長
+        org: united-states-department-of-energy
+        from: 1998-08-18
+        to: 2001-01-20
+      - title: 新墨西哥州州長
+        org: state-of-new-mexico
+        from: "2003"
+        to: "2011"
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1985-01-03
+        to: 1987-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1983-01-03
+        to: 1985-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1997-02-13
+      - title: 美国众议员
+        org: us-house
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1987-01-03
+        to: 1989-01-03
+  - id: billy-bush
+    type: person
+    name: Billy Bush
+    names:
+      zh: 比利·布什
+      en: Billy Bush
+    gender: M
+    born: 1971-10-13
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: American radio and television host (born 1971)
+    ids:
+      wikidata: Q863042
+    links:
+      - https://en.wikipedia.org/wiki/Billy_Bush
+    tags:
+      - relative
+    attrs:
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q863042
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: billy-garland
+    type: person
+    name: Billy Garland
+    names:
+      en: Billy Garland
+    gender: M
+    born: "1942"
+    died: "1998"
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: American activist (1942-1999)
+    ids:
+      wikidata: Q8248007
+    links: []
+    tags:
+      - relative
+      - party:Black Panther Party
+    attrs:
+      party: Black Panther Party
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8248007
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: billy-long
+    type: person
+    name: Billy Long
+    names:
+      zh: 比利·朗
+      en: Billy Long
+    gender: M
+    born: 1955-08-11
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: U.S. Representative from Missouri
+    ids:
+      wikidata: Q863171
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E5%88%A9%C2%B7%E6%9C%97
+      - https://en.wikipedia.org/wiki/Billy_Long
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q863171
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+  - id: bitten-eriksen
+    type: person
+    name: Bitten Eriksen
+    names:
+      en: Bitten Eriksen
+    gender: F
+    born: 1900-01-13
+    died: 1996-01-14
+    country:
+      - NO
+    sectors:
+      - family
+    tier: 5
+    summary: Norwegian designer
+    ids:
+      wikidata: Q15675309
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15675309
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: biz-stone
+    type: person
+    name: Biz Stone
+    names:
+      zh: 比兹·斯通
+      en: Biz Stone
+    gender: M
+    born: 1974-03-10
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: American blogger; co-founder of Twitter
+    ids:
+      wikidata: Q879247
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AF%94%E5%85%B9%C2%B7%E6%96%AF%E9%80%9A
+      - https://en.wikipedia.org/wiki/Biz_Stone
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 31
+    sources:
+      - url: https://www.wikidata.org/wiki/Q879247
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 天使投资者
+      - title: 创立者
+  - id: blaine-luetkemeyer
+    type: person
+    name: Blaine Luetkemeyer
+    names:
+      zh: 布萊因·盧克邁爾
+      en: Blaine Luetkemeyer
+    gender: M
+    born: 1952-05-07
+    country:
+      - US
+    sectors:
+      - politics
+      - finance
+      - business
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q522181
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E8%90%8A%E5%9B%A0%C2%B7%E7%9B%A7%E5%85%8B%E9%82%81%E7%88%BE
+      - https://en.wikipedia.org/wiki/Blaine_Luetkemeyer
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q522181
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主管
+        from: "2006"
+        to: "2008"
+      - title: 成员
+        org: membership-organization
+        from: "1978"
+        to: "1987"
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: member of the Missouri House of Representatives
+        org: missouri-house-of-representatives
+        from: "1999"
+        to: "2005"
+  - id: blair-parry-okeden
+    type: person
+    name: Blair Parry-Okeden
+    names:
+      en: Blair Parry-Okeden
+    gender: F
+    born: "1950"
+    country:
+      - US
+    sectors:
+      - business
+      - culture
+    tier: 3
+    summary: American-Australian heiress (Cox Enterprises), billionaire, philanthropist
+    netWorth:
+      usd: 9500000000
+    ids:
+      wikidata: Q19520070
+    links:
+      - https://en.wikipedia.org/wiki/Blair_Parry-Okeden
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19520070
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: blake-moore
+    type: person
+    name: Blake Moore
+    names:
+      zh: 布雷克·摩爾
+      en: Blake Moore
+    gender: M
+    born: 1980-06-22
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q101196971
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E9%9B%B7%E5%85%8B%C2%B7%E6%91%A9%E7%88%BE
+      - https://en.wikipedia.org/wiki/Blake_Moore
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q101196971
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: bo-guagua
+    type: person
+    name: 薄瓜瓜
+    names:
+      zh: 薄瓜瓜
+      en: Bo Guagua
+    gender: M
+    born: 1987-12-17
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    summary: 薄熙来之子
+    ids:
+      wikidata: Q4931095
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%96%84%E7%93%9C%E7%93%9C
+      - https://en.wikipedia.org/wiki/Bo_Guagua
+    tags:
+      - relative
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4931095
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bo-wangzhi
+    type: person
+    name: Li Wangzhi
+    names:
+      zh: 李望知
+      en: Li Wangzhi
+    gender: M
+    born: "1977"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: Chinese lawyer (born 1977)
+    ids:
+      wikidata: Q117455388
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%9C%9B%E7%9F%A5
+      - https://en.wikipedia.org/wiki/Li_Wangzhi
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q117455388
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bo-xiaoying
+    type: person
+    name: 薄小莹
+    names:
+      zh: 薄小莹
+      en: Bo Xiaoying
+    gender: F
+    born: "1950"
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q47546269
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%96%84%E5%B0%8F%E8%8E%B9
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47546269
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bo-xilai
+    type: person
+    name: 薄熙来
+    names:
+      zh: 薄熙来
+      en: Bo Xilai
+    gender: M
+    born: 1949-07-03
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中国政治人物
+    ids:
+      wikidata: Q21822
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%96%84%E7%86%99%E6%9D%A5
+      - https://en.wikipedia.org/wiki/Bo_Xilai
+    tags:
+      - cn-leaders
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 40
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21822
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+        from: 1993-03-01
+        to: 2012-10-26
+      - title: 中国共产党重庆市委员会书记
+        org: chongqing-municipal-committee-of-the-chinese-communist-party
+        from: "2007"
+        to: "2012"
+      - title: 辽宁省省长
+        org: people-s-government-of-liaoning-province
+        from: "2001"
+        to: 2004-02-01
+      - title: 中华人民共和国商务部部长
+        org: ministry-of-commerce-of-the-people-s-republic-of-china
+        from: "2004"
+        to: "2007"
+      - title: 中国共产党中央政治局委员
+        from: 2007-10-22
+        to: 2012-04-10
+  - id: bo-xiying-1937
+    type: person
+    name: 薄祁生
+    names:
+      zh: 薄祁生
+      en: Bo Xiying
+    gender: F
+    born: 1937-10-12
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q127427748
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%96%84%E7%86%99%E8%8E%B9
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q127427748
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bo-xiyong
+    type: person
+    name: 薄熙永
+    names:
+      zh: 薄熙永
+      en: Bo Xiyong
+    gender: M
+    born: "1947"
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 5
+    summary: 薄一波之子
+    ids:
+      wikidata: Q8925023
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%96%84%E7%86%99%E6%B0%B8
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8925023
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bo-yibo
+    type: person
+    name: 薄一波
+    names:
+      zh: 薄一波
+      en: Bo Yibo
+    gender: M
+    born: 1908-02-06
+    died: 2007-01-15
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 4
+    summary: 中国政治人物
+    ids:
+      wikidata: Q553682
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%96%84%E4%B8%80%E6%B3%A2
+      - https://en.wikipedia.org/wiki/Bo_Yibo
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q553682
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国国务院副总理
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 1956-11-16
+        to: 1975-01-17
+  - id: bob-casey
+    type: person
+    name: Bob Casey
+    names:
+      zh: 小鮑伯·凱西
+      en: Bob Casey
+    gender: M
+    born: 1960-04-13
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: American lawyer and politician (born 1960)
+    ids:
+      wikidata: Q887841
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AE%91%E4%BC%AF%C2%B7%E5%87%B1%E8%A5%BF
+      - https://en.wikipedia.org/wiki/Bob_Casey_Jr.
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 29
+    sources:
+      - url: https://www.wikidata.org/wiki/Q887841
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2011-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 賓夕法尼亞州審計長
+        from: 1997-01-21
+        to: 2005-01-18
+      - title: 賓夕法尼亞州司庫
+        from: 2005-01-18
+        to: 2007-01-03
+  - id: bob-corker
+    type: person
+    name: Bob Corker
+    names:
+      zh: 鮑伯·寇爾克
+      en: Bob Corker
+    gender: M
+    born: 1952-08-24
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 3
+    summary: 美国政治人物
+    ids:
+      wikidata: Q331719
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AE%91%E4%BC%AF%C2%B7%E5%AF%87%E7%88%BE%E5%85%8B
+      - https://en.wikipedia.org/wiki/Bob_Corker
+    tags:
+      - us-congress
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q331719
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 專員
+        org: commission
+        from: "1995"
+        to: "1996"
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2011-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: Mayor of Chattanooga
+        from: 2001-04-16
+        to: 2005-04-18
+  - id: bob-dole
+    type: person
+    name: Bob Dole
+    names:
+      zh: 鲍勃·多尔
+      en: Bob Dole
+    gender: M
+    born: 1923-07-22
+    died: 2021-12-05
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 3
+    summary: 美国政治人物
+    ids:
+      wikidata: Q319079
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%B2%8D%E5%8B%83%C2%B7%E5%A4%9A%E5%B0%94
+      - https://en.wikipedia.org/wiki/Bob_Dole
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 60
+    sources:
+      - url: https://www.wikidata.org/wiki/Q319079
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 1973-01-03
+        to: 1975-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1985-01-03
+        to: 1987-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1971-01-03
+        to: 1973-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1995-01-03
+        to: 1996-06-11
+      - title: 美國參議員
+        org: us-senate
+        from: 1977-01-03
+        to: 1979-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1983-01-03
+        to: 1985-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1993-01-03
+        to: 1995-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1981-01-03
+        to: 1983-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1975-01-03
+        to: 1977-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1969-01-03
+        to: 1971-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1979-01-03
+        to: 1981-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1965-01-03
+        to: 1967-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1967-01-03
+        to: 1969-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1961-01-03
+        to: 1963-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1963-01-03
+        to: 1965-01-03
+      - title: 堪薩斯州眾議員
+        org: kansas-house-of-representatives
+        from: "1951"
+        to: "1953"
+      - title: 縣法官
+        from: "1953"
+        to: "1961"
+  - id: bob-ferguson
+    type: person
+    name: Bob Ferguson
+    names:
+      zh: 包柏·佛格森
+      en: Bob Ferguson
+    gender: M
+    born: 1965-02-23
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: 美國政治人物
+    ids:
+      wikidata: Q4932411
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%B2%8D%E5%8B%83%C2%B7%E5%BC%97%E6%A0%BC%E6%A3%AE_(%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)
+      - https://en.wikipedia.org/wiki/Bob_Ferguson_(politician)
+    tags:
+      - us-governors
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4932411
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 華盛頓州檢察總長
+        from: 2013-01-16
+        to: 2025-01-15
+      - title: 华盛顿州州长
+        org: state-of-washington
+        from: 2025-01-15
+  - id: bob-gibbs
+    type: person
+    name: Bob Gibbs
+    names:
+      zh: 鮑勃·吉布斯
+      en: Bob Gibbs
+    gender: M
+    born: 1954-06-14
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: American politician (born 1954)
+    ids:
+      wikidata: Q887945
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AE%91%E5%8B%83%C2%B7%E5%90%89%E5%B8%83%E6%96%AF
+      - https://en.wikipedia.org/wiki/Bob_Gibbs
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q887945
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 俄亥俄州眾議員
+        org: ohio-house-of-representatives
+        from: "2003"
+        to: "2009"
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 俄亥俄州參議員
+        org: ohio-senate
+        from: "2009"
+        to: "2010"
+  - id: bob-good
+    type: person
+    name: Bob Good
+    names:
+      zh: 鮑勃·古德
+      en: Bob Good
+    gender: M
+    born: 1965-09-11
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: American politician (born 1965)
+    ids:
+      wikidata: Q103850475
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%B2%8D%E5%8B%83%C2%B7%E5%8F%A4%E5%BE%B7
+      - https://en.wikipedia.org/wiki/Bob_Good
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q103850475
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+  - id: bob-iger
+    type: person
+    name: Bob Iger
+    names:
+      zh: 羅伯特·艾格
+      en: Bob Iger
+    gender: M
+    born: 1951-02-10
+    country:
+      - US
+    sectors:
+      - business
+      - media
+    tier: 4
+    summary: 美国商人
+    ids:
+      wikidata: Q532423
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%B2%8D%E5%8B%83%C2%B7%E8%89%BE%E6%A0%BC
+      - https://en.wikipedia.org/wiki/Bob_Iger
+    tags:
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 39
+    sources:
+      - url: https://www.wikidata.org/wiki/Q532423
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 总统
+        org: state
+        from: "1989"
+        to: "1992"
+      - title: 主席
+        org: non-governmental-organization
+        from: "2012"
+        to: "2021"
+      - title: 首席执行官
+        from: 2022-11-20
+        to: 2026-03-17
+      - title: 首席执行官
+        from: 2005-10-01
+        to: 2020-02-25
+      - title: 首席运营官
+        from: "2000"
+        to: "2005"
+  - id: bob-latta
+    type: person
+    name: Bob Latta
+    names:
+      zh: 鮑勃·拉塔
+      en: Bob Latta
+    gender: M
+    born: 1956-04-18
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q888061
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AE%91%E5%8B%83%C2%B7%E6%8B%89%E5%A1%94
+      - https://en.wikipedia.org/wiki/Bob_Latta
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q888061
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 俄亥俄州眾議員
+        org: ohio-house-of-representatives
+        from: "2001"
+        to: "2007"
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-12-11
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 俄亥俄州參議員
+        org: ohio-senate
+        from: "1997"
+        to: "2000"
+      - title: Wood County Commissioner
+        from: "1991"
+        to: "1996"
+  - id: bob-lazar
+    type: person
+    name: Bob Lazar
+    names:
+      zh: 包伯·拉札
+      en: Bob Lazar
+    gender: M
+    born: 1959-01-26
+    country:
+      - US
+    sectors:
+      - business
+      - culture
+    tier: 4
+    summary: 不明飞行物阴谋论者
+    ids:
+      wikidata: Q720671
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8C%85%E4%BC%AF%C2%B7%E6%8B%89%E6%9C%AD
+      - https://en.wikipedia.org/wiki/Bob_Lazar
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 28
+    sources:
+      - url: https://www.wikidata.org/wiki/Q720671
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bob-menendez
+    type: person
+    name: Bob Menendez
+    names:
+      zh: 羅伯特·曼南德茲
+      en: Bob Menendez
+    gender: M
+    born: "1954"
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: 來自新澤西的美國參議員
+    ids:
+      wikidata: Q888132
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%B2%8D%E5%8B%83%C2%B7%E6%A2%85%E5%AB%A9%E5%BE%B7%E6%96%AF
+      - https://en.wikipedia.org/wiki/Bob_Menendez
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 38
+    sources:
+      - url: https://www.wikidata.org/wiki/Q888132
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 財務總監
+        from: "1978"
+        to: "1982"
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2011-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2006-01-17
+        to: 2007-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+        to: 2024-08-20
+      - title: 美國眾議院民主黨黨團主席
+        from: 2003-01-03
+        to: 2006-01-16
+      - title: 美國眾議院民主黨黨團副主席
+        from: 1999-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-03
+        to: 2006-01-16
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 新泽西州尤宁城市长
+        from: 1986-05-20
+        to: 1992-11-15
+      - title: 参议员
+        org: senate
+      - title: 新澤西州眾議員
+        org: new-jersey-general-assembly
+        from: 1988-01-12
+        to: 1991-03-04
+      - title: 新澤西州參議員
+        org: new-jersey-senate
+        from: 1991-03-04
+        to: 1993-01-03
+      - title: member of a board of education
+        org: board-of-education
+        from: "1974"
+        to: "1978"
+  - id: bob-onder
+    type: person
+    name: Bob Onder
+    names:
+      en: Bob Onder
+    gender: M
+    born: 1962-01-06
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician and physician (born 1962)
+    ids:
+      wikidata: Q27064117
+    links:
+      - https://en.wikipedia.org/wiki/Bob_Onder
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27064117
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: member of the Missouri House of Representatives
+        org: missouri-house-of-representatives
+        from: "2007"
+        to: "2009"
+      - title: 密蘇里州參議員
+        org: missouri-senate
+        from: 2015-01-07
+        to: 2023-01-04
+  - id: bob-parsons
+    type: person
+    name: Bob Parsons
+    names:
+      zh: 鲍勃·帕森斯
+      en: Bob Parsons
+    gender: M
+    born: 1950-11-27
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American entrepreneur
+    netWorth:
+      usd: 4100000000
+    ids:
+      wikidata: Q4933600
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AE%91%E4%BC%AF%C2%B7%E5%B8%95%E6%A3%AE%E6%96%AF
+      - https://en.wikipedia.org/wiki/Bob_Parsons
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4933600
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bob-perciasepe
+    type: person
+    name: Bob Perciasepe
+    names:
+      zh: 鲍勃·佩尔恰塞佩
+      en: Bob Perciasepe
+    gender: M
+    born: 1951-02-19
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: 美國政治人物
+    ids:
+      wikidata: Q4933628
+    links:
+      - https://en.wikipedia.org/wiki/Bob_Perciasepe
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4933628
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 國家環境保護局局長
+        org: united-states-environmental-protection-agency
+        from: 2013-02-15
+        to: 2013-07-18
+      - title: Maryland Secretary of Environment
+        org: maryland-department-of-the-environment
+        from: "1990"
+        to: "1993"
+  - id: bobby-murphy
+    type: person
+    name: Bobby Murphy
+    names:
+      zh: 鲍比·墨菲
+      en: Bobby Murphy
+    gender: M
+    born: 1988-07-19
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國商人
+    netWorth:
+      usd: 80000000000
+    ids:
+      wikidata: Q19663471
+    links:
+      - https://en.wikipedia.org/wiki/Bobby_Murphy
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19663471
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bobby-rush
+    type: person
+    name: Bobby Rush
+    names:
+      zh: 鲍比·拉什
+      en: Bobby Rush
+    gender: M
+    born: 1946-11-23
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q888599
+    links:
+      - https://en.wikipedia.org/wiki/Bobby_Rush
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q888599
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: "1990"
+      - title: 參議 (英國)
+        from: "1983"
+        to: "1993"
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+  - id: bobby-scott
+    type: person
+    name: Bobby Scott
+    names:
+      zh: 鲍比·斯科特
+      en: Bobby Scott
+    gender: M
+    born: 1947-04-30
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: U.S. Representative from Virginia
+    ids:
+      wikidata: Q888668
+    links:
+      - https://en.wikipedia.org/wiki/Bobby_Scott_(politician)
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q888668
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 弗吉尼亚州参议员
+        org: senate-of-virginia
+        from: "1983"
+        to: "1993"
+      - title: 維吉尼亞州聯邦眾議員
+      - title: 維吉尼亞州眾議員
+        org: virginia-house-of-delegates
+        from: "1978"
+        to: "1983"
+  - id: bom-kim
+    type: person
+    name: Bom Kim
+    names:
+      zh: 博姆·苏克·基姆
+      en: Bom Kim
+    gender: M
+    born: 1978-10-07
+    country:
+      - US
+      - KR
+    sectors:
+      - business
+    tier: 4
+    summary: South Korean businessman
+    netWorth:
+      usd: 4900000000
+    ids:
+      wikidata: Q63117886
+    links:
+      - https://en.wikipedia.org/wiki/Bom_Kim
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q63117886
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bonnie-lowenthal
+    type: person
+    name: Bonnie Lowenthal
+    names:
+      en: Bonnie Lowenthal
+    gender: F
+    born: 1940-02-19
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q4942388
+    links:
+      - https://en.wikipedia.org/wiki/Bonnie_Lowenthal
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4942388
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+  - id: bonnie-watson-coleman
+    type: person
+    name: Bonnie Watson Coleman
+    names:
+      zh: 伯尼·华生·科尔曼
+      en: Bonnie Watson Coleman
+    gender: F
+    born: 1945-02-06
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician
+    ids:
+      wikidata: Q4942457
+    links:
+      - https://en.wikipedia.org/wiki/Bonnie_Watson_Coleman
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4942457
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 民主党
+        from: "2002"
+        to: "2006"
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 新澤西州眾議員
+        org: new-jersey-general-assembly
+        from: "1998"
+        to: "2014"
+  - id: bourke-b-hickenlooper
+    type: person
+    name: Bourke B. Hickenlooper
+    names:
+      zh: 伯克·B·希肯罗波
+      en: Bourke B. Hickenlooper
+    gender: M
+    born: 1896-07-21
+    died: 1971-09-04
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 4
+    summary: American politician (1896-1971)
+    ids:
+      wikidata: Q886018
+    links:
+      - https://en.wikipedia.org/wiki/Bourke_B._Hickenlooper
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q886018
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 艾奧瓦州副州長
+        from: 1939-01-12
+        to: 1943-01-14
+      - title: 美國參議員
+        org: us-senate
+        from: 1957-01-03
+        to: 1959-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1967-01-03
+        to: 1969-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1945-01-03
+        to: 1947-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1953-01-03
+        to: 1955-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1955-01-03
+        to: 1957-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1959-01-03
+        to: 1961-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1963-01-03
+        to: 1965-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1947-01-03
+        to: 1949-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1965-01-03
+        to: 1967-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1951-01-03
+        to: 1953-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1961-01-03
+        to: 1963-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1949-01-03
+        to: 1951-01-03
+      - title: 艾奧瓦州眾議員
+        org: iowa-house-of-representatives
+        from: "1934"
+        to: "1937"
+      - title: 艾奥瓦州州长
+        org: state-of-iowa
+        from: 1943-01-14
+        to: 1945-01-11
+  - id: brad-finstad
+    type: person
+    name: Brad Finstad
+    names:
+      zh: 布拉德·芬斯塔德
+      en: Brad Finstad
+    gender: M
+    born: 1976-05-30
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q111159803
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E6%8B%89%E5%BE%B7%C2%B7%E8%8A%AC%E6%96%AF%E5%A1%94%E5%BE%B7
+      - https://en.wikipedia.org/wiki/Brad_Finstad
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111159803
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2022-08-12
+      - title: 明尼蘇達州眾議員
+        org: minnesota-house-of-representatives
+      - title: 明尼蘇達州眾議員
+        org: minnesota-house-of-representatives
+        from: 2003-01-07
+        to: 2009-01-05
+  - id: brad-jacobs
+    type: person
+    name: Brad Jacobs
+    names:
+      en: Brad Jacobs
+    gender: M
+    born: 1956-08-03
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 3
+    summary: businessman
+    netWorth:
+      usd: 15400000000
+    ids:
+      wikidata: Q4955022
+    links:
+      - https://en.wikipedia.org/wiki/Brad_Jacobs_(businessman)
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4955022
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brad-knott
+    type: person
+    name: Brad Knott
+    names:
+      zh: 布拉德·诺特
+      en: Brad Knott
+    gender: M
+    born: 1986-04-17
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1986)
+    ids:
+      wikidata: Q130979816
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E6%8B%89%E5%BE%B7%C2%B7%E8%AF%BA%E7%89%B9
+      - https://en.wikipedia.org/wiki/Brad_Knott
+    tags:
+      - us-congress
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q130979816
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: brad-little
+    type: person
+    name: Brad Little
+    names:
+      zh: 布萊德·雷托
+      en: Brad Little
+    gender: M
+    born: 1954-02-15
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 美國政治人物、第33任愛達荷州州長
+    ids:
+      wikidata: Q4954097
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E6%8B%89%E5%BE%B7%C2%B7%E5%88%A9%E7%89%B9%E7%88%BE
+      - https://en.wikipedia.org/wiki/Brad_Little
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 29
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4954097
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 愛達荷州副州長
+        from: "2009"
+        to: "2019"
+      - title: 爱达荷州州长
+        org: state-of-idaho
+        from: 2019-01-07
+      - title: 愛達荷州參議員
+        org: idaho-senate
+  - id: brad-schneider
+    type: person
+    name: Brad Schneider
+    names:
+      zh: 布拉德·施內德
+      en: Brad Schneider
+    gender: M
+    born: 1961-08-20
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q2923426
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E6%8B%89%E5%BE%B7%C2%B7%E6%96%BD%E5%A5%88%E5%BE%B7
+      - https://en.wikipedia.org/wiki/Brad_Schneider
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2923426
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: brad-sherman
+    type: person
+    name: Brad Sherman
+    names:
+      zh: 布拉德·舍曼
+      en: Brad Sherman
+    gender: M
+    born: 1954-10-24
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 美国政治人物
+    ids:
+      wikidata: Q672919
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E6%8B%89%E5%BE%B7%C2%B7%E8%88%8D%E6%9B%BC
+      - https://en.wikipedia.org/wiki/Brad_Sherman
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q672919
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: "1991"
+        to: "1995"
+      - title: 成员
+        org: membership-organization
+        from: "1990"
+        to: "1995"
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+  - id: brad-wenstrup
+    type: person
+    name: Brad Wenstrup
+    names:
+      zh: 布拉德·文斯特鲁普
+      en: Brad Wenstrup
+    gender: M
+    born: 1958-06-17
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美国政治人物
+    ids:
+      wikidata: Q892413
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E6%8B%89%E5%BE%B7%C2%B7%E6%96%87%E6%96%AF%E7%89%B9%E6%99%AE
+      - https://en.wikipedia.org/wiki/Brad_Wenstrup
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q892413
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: bram-cohen
+    type: person
+    name: Bram Cohen
+    names:
+      zh: 布莱姆·科恩
+      en: Bram Cohen
+    gender: M
+    born: 1975-10-12
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: 美國程序員，比特洪流的創建者
+    ids:
+      wikidata: Q318489
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E8%8E%B1%E5%A7%86%C2%B7%E7%A7%91%E4%BA%A8
+      - https://en.wikipedia.org/wiki/Bram_Cohen
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 33
+    sources:
+      - url: https://www.wikidata.org/wiki/Q318489
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brandon-gill
+    type: person
+    name: Brandon Gill
+    names:
+      zh: 布兰登·吉尔
+      en: Brandon Gill
+    gender: M
+    born: 1994-02-26
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician and investment banker (born 1994)
+    ids:
+      wikidata: Q124753679
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E5%85%B0%E7%99%BB%C2%B7%E5%90%89%E5%B0%94
+      - https://en.wikipedia.org/wiki/Brandon_Gill
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124753679
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: brandon-ogles
+    type: person
+    name: Brandon Ogles
+    names:
+      en: Brandon Ogles
+    gender: M
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q97054287
+    links:
+      - https://en.wikipedia.org/wiki/Brandon_Ogles
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97054287
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 田纳西州众议员
+        org: tennessee-house-of-representatives
+  - id: brandon-williams
+    type: person
+    name: Brandon Williams
+    names:
+      zh: 布兰登·威廉姆斯 (政治人物)
+      en: Brandon Williams
+    gender: M
+    born: 1967-05-22
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: American politician (born 1967)
+    ids:
+      wikidata: Q115805431
+    links:
+      - https://en.wikipedia.org/wiki/Brandon_Williams_(politician)
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115805431
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国能源部核安全次长
+        from: 2025-09-26
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+  - id: breck-eisner
+    type: person
+    name: Breck Eisner
+    names:
+      zh: 布雷克·艾斯纳
+      en: Breck Eisner
+    gender: M
+    born: 1970-12-24
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 4
+    summary: 美國電影導演
+    ids:
+      wikidata: Q2318350
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E9%9B%B7%E5%85%8B%C2%B7%E8%89%BE%E6%96%AF%E7%B4%8D
+      - https://en.wikipedia.org/wiki/Breck_Eisner
+    tags:
+      - relative
+    attrs:
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2318350
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brenda-lawrence
+    type: person
+    name: Brenda Lawrence
+    names:
+      zh: 布倫達·勞倫斯
+      en: Brenda Lawrence
+    gender: F
+    born: 1954-10-18
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1954)
+    ids:
+      wikidata: Q4960712
+    links:
+      - https://en.wikipedia.org/wiki/Brenda_Lawrence
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4960712
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 市长
+        from: "2001"
+        to: "2014"
+      - title: 成员
+        org: membership-organization
+        from: "1992"
+        to: "1996"
+      - title: 成员
+        org: membership-organization
+        from: "1997"
+        to: "2001"
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: brendan-bechtel
+    type: person
+    name: Brendan Bechtel
+    names:
+      en: Brendan Bechtel
+    gender: M
+    born: "1981"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American business executive
+    ids:
+      wikidata: Q28925188
+    links:
+      - https://en.wikipedia.org/wiki/Brendan_Bechtel
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28925188
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brendan-f-boyle
+    type: person
+    name: Brendan F. Boyle
+    names:
+      zh: 不倫丹·博伊爾
+      en: Brendan F. Boyle
+    gender: M
+    born: 1977-02-06
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q4960876
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E5%80%AB%E4%B8%B9%C2%B7%E5%8D%9A%E4%BC%8A%E7%88%BE
+      - https://en.wikipedia.org/wiki/Brendan_Boyle
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4960876
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 賓夕法尼亞州眾議員
+        org: pennsylvania-house-of-representatives
+        from: "2008"
+        to: "2014"
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+  - id: brent-scowcroft
+    type: person
+    name: Brent Scowcroft
+    names:
+      zh: 斯考克罗夫特
+      en: Brent Scowcroft
+    gender: M
+    born: 1925-03-19
+    died: 2020-08-06
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+    tier: 2
+    summary: 9th & 17th United States National Security Advisor (1925-2020)
+    ids:
+      wikidata: Q656511
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E5%80%AB%E7%89%B9%C2%B7%E6%96%AF%E8%80%83%E5%85%8B%E7%BE%85%E5%A4%AB%E7%89%B9
+      - https://en.wikipedia.org/wiki/Brent_Scowcroft
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 29
+    sources:
+      - url: https://www.wikidata.org/wiki/Q656511
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 总统国家安全事务助理
+        org: united-states-national-security-council
+        from: 1989-01-20
+        to: 1993-01-20
+      - title: 总统国家安全事务助理
+        org: united-states-national-security-council
+        from: 1975-11-03
+        to: 1977-01-20
+  - id: brett-guthrie
+    type: person
+    name: Brett Guthrie
+    names:
+      zh: 布雷特·古斯瑞
+      en: Brett Guthrie
+    gender: M
+    born: 1964-02-18
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q910794
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E9%9B%B7%E7%89%B9%C2%B7%E5%8F%A4%E6%96%AF%E7%91%9E
+      - https://en.wikipedia.org/wiki/Brett_Guthrie
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q910794
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 肯塔基州参议员
+        org: kentucky-senate
+        from: "1999"
+        to: "2008"
+  - id: brett-icahn
+    type: person
+    name: Brett Icahn
+    names:
+      en: Brett Icahn
+    gender: M
+    born: 1979-08-19
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman and investor
+    ids:
+      wikidata: Q16202347
+    links:
+      - https://en.wikipedia.org/wiki/Brett_Icahn
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16202347
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brett-kavanaugh
+    type: person
+    name: Brett Kavanaugh
+    names:
+      zh: 布雷特·卡瓦诺
+      en: Brett Kavanaugh
+    gender: M
+    born: 1965-02-12
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 2
+    summary: 美国最高法院大法官
+    ids:
+      wikidata: Q4962244
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E9%9B%B7%E7%89%B9%C2%B7%E5%8D%A1%E7%93%A6%E8%AB%BE
+      - https://en.wikipedia.org/wiki/Brett_Kavanaugh
+    tags:
+      - us-judiciary
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 47
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4962244
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國最高法院大法官
+        org: us-supreme-court
+        from: 2018-10-06
+      - title: 美国哥伦比亚特区联邦巡回上诉法院法官
+        from: 2006-05-30
+        to: 2018-10-06
+  - id: brewster-kahle
+    type: person
+    name: Brewster Kahle
+    names:
+      zh: 布魯斯特·卡利
+      en: Brewster Kahle
+    gender: M
+    born: 1960-10-22
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: 美國計算機工程師，互聯網檔案館的創始人
+    ids:
+      wikidata: Q92945
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E9%AD%AF%E6%96%AF%E7%89%B9%C2%B7%E5%8D%A1%E5%88%A9
+      - https://en.wikipedia.org/wiki/Brewster_Kahle
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 33
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92945
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brian-armstrong
+    type: person
+    name: Brian Armstrong
+    names:
+      zh: 布萊恩·阿姆斯壯
+      en: Brian Armstrong
+    gender: M
+    born: 1983-01-25
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American business executive and investor
+    netWorth:
+      usd: 12900000000
+    ids:
+      wikidata: Q64705310
+    links:
+      - https://en.wikipedia.org/wiki/Brian_Armstrong_(businessman)
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q64705310
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brian-babin
+    type: person
+    name: Brian Babin
+    names:
+      zh: 布萊恩·巴賓
+      en: Brian Babin
+    gender: M
+    born: 1948-03-23
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: U.S. Representative from Texas
+    ids:
+      wikidata: Q16979824
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E8%90%8A%E6%81%A9%C2%B7%E5%B7%B4%E8%B3%93
+      - https://en.wikipedia.org/wiki/Brian_Babin
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16979824
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 市长
+        from: "1982"
+        to: "1984"
+      - title: 參議 (英國)
+        from: "1981"
+        to: "1982"
+      - title: 參議 (英國)
+        from: "1984"
+        to: "1982"
+      - title: 成员
+        org: membership-organization
+        from: "1999"
+        to: "2014"
+      - title: 成员
+        org: membership-organization
+        from: "1992"
+        to: "1995"
+      - title: 成员
+        org: membership-organization
+        from: "1989"
+        to: "1995"
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+  - id: brian-chesky
+    type: person
+    name: Brian Chesky
+    names:
+      zh: 布莱恩·切斯基
+      en: Brian Chesky
+    gender: M
+    born: 1981-08-29
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 3
+    summary: American businessman & Co-founder and CEO of Airbnb
+    netWorth:
+      usd: 9200000000
+    ids:
+      wikidata: Q4963341
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E8%90%8A%E6%81%A9%C2%B7%E5%88%87%E6%96%AF%E5%9F%BA
+      - https://en.wikipedia.org/wiki/Brian_Chesky
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4963341
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brian-d-montgomery
+    type: person
+    name: Brian D. Montgomery
+    names:
+      en: Brian D. Montgomery
+    gender: M
+    born: 1956-08-02
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American government official
+    ids:
+      wikidata: Q4963500
+    links:
+      - https://en.wikipedia.org/wiki/Brian_D._Montgomery
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4963500
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国住房和城市发展部部长
+        org: united-states-department-of-housing-and-urban-development
+        from: 2009-01-20
+        to: 2009-01-26
+      - title: 内阁秘书长
+        from: "2003"
+        to: 2005-02-24
+      - title: Assistant Secretary for the Office of Housing and the Federal Housing Commissioner
+        org: united-states-department-of-housing-and-urban-development
+      - title: United States Deputy Secretary of Housing and Urban Development
+        from: 2019-01-17
+        to: 2020-05-12
+      - title: United States Deputy Secretary of Housing and Urban Development
+        from: 2020-05-12
+        to: 2021-01-20
+  - id: brian-fitzpatrick
+    type: person
+    name: Brian Fitzpatrick
+    names:
+      zh: 布萊恩·菲茨派翠克
+      en: Brian Fitzpatrick
+    gender: M
+    born: 1973-12-17
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 美国律师、政治人物
+    ids:
+      wikidata: Q27831059
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E8%90%8A%E6%81%A9%C2%B7%E8%8F%B2%E8%8C%A8%E6%B4%BE%E7%BF%A0%E5%85%8B
+      - https://en.wikipedia.org/wiki/Brian_Fitzpatrick_(American_politician)
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27831059
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 助理檢察官
+  - id: brian-higgins
+    type: person
+    name: Brian Higgins
+    names:
+      zh: 布萊恩·希金斯
+      en: Brian Higgins
+    gender: M
+    born: 1959-10-06
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: U.S. Representative from New York
+    ids:
+      wikidata: Q505581
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E8%90%8A%E6%81%A9%C2%B7%E5%B8%8C%E9%87%91%E6%96%AF
+      - https://en.wikipedia.org/wiki/Brian_Higgins
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q505581
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 地方議會議員
+        org: city-council
+        from: "1988"
+        to: "1994"
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 纽约州众议院议员
+        org: new-york-state-assembly
+        from: "1999"
+        to: "2004"
+  - id: brian-jack
+    type: person
+    name: Brian Jack
+    names:
+      zh: 布莱恩·杰克
+      en: Brian Jack
+    gender: M
+    born: 1988-02-17
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American political advisor (born 1988)
+    ids:
+      wikidata: Q86493775
+    links:
+      - https://en.wikipedia.org/wiki/Brian_Jack
+    tags:
+      - us-congress
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q86493775
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 白宮政治主任
+        from: 2019-02-02
+        to: 2021-01-20
+  - id: brian-kemp
+    type: person
+    name: Brian Kemp
+    names:
+      zh: 布萊恩·肯普
+      en: Brian Kemp
+    gender: M
+    born: 1963-11-02
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: American politician (born 1963)
+    ids:
+      wikidata: Q4964973
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E8%B5%96%E6%81%A9%C2%B7%E8%82%AF%E6%99%AE
+      - https://en.wikipedia.org/wiki/Brian_Kemp
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 32
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4964973
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 喬治亞州州長
+        org: state-of-georgia
+        from: 2019-01-14
+      - title: 喬治亞州州務卿
+        from: 2010-01-08
+        to: 2018-11-08
+      - title: 喬治亞州參議員
+        org: georgia-state-senate
+  - id: brian-mast
+    type: person
+    name: Brian Mast
+    names:
+      zh: 布萊恩·馬斯特
+      en: Brian Mast
+    gender: M
+    born: 1980-07-10
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+    tier: 4
+    summary: 美国佛罗里达州政治人物
+    ids:
+      wikidata: Q27733854
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E8%90%8A%E6%81%A9%C2%B7%E9%A6%AC%E6%96%AF%E7%89%B9
+      - https://en.wikipedia.org/wiki/Brian_Mast
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27733854
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: brian-sandoval
+    type: person
+    name: Brian Sandoval
+    names:
+      zh: 布莱恩·桑多瓦
+      en: Brian Sandoval
+    gender: M
+    born: 1963-08-05
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: 29th Governor of Nevada and former United States District Judge
+    ids:
+      wikidata: Q714516
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E8%90%8A%E6%81%A9%C2%B7%E6%A1%91%E5%A4%9A%E8%8F%AF
+      - https://en.wikipedia.org/wiki/Brian_Sandoval
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 28
+    sources:
+      - url: https://www.wikidata.org/wiki/Q714516
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 內華達州眾議員
+        org: nevada-state-assembly
+      - title: 內華達州州長
+        org: state-of-nevada
+        from: 2011-01-03
+        to: 2019-01-07
+      - title: President of the University of Nevada, Reno
+        org: university-of-nevada-reno
+        from: 2020-10-05
+  - id: brian-schatz
+    type: person
+    name: Brian Schatz
+    names:
+      zh: 布萊恩·夏茲
+      en: Brian Schatz
+    gender: M
+    born: 1972-10-20
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 3
+    summary: 美国政治家
+    ids:
+      wikidata: Q1827902
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E8%90%8A%E6%81%A9%C2%B7%E5%A4%8F%E8%8C%B2
+      - https://en.wikipedia.org/wiki/Brian_Schatz
+    tags:
+      - us-congress
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 32
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1827902
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: "2008"
+        to: "2011"
+      - title: 夏威夷州副州長
+        from: 2010-12-06
+        to: 2012-12-26
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2012-12-26
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: member of the Hawaii House of Representatives
+        org: hawaii-house-of-representatives
+        from: 1998-11-03
+        to: 2006-11-07
+  - id: brian-sheth
+    type: person
+    name: Brian Sheth
+    names:
+      en: Brian Sheth
+    gender: M
+    born: 1975-11-26
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American business executive
+    netWorth:
+      usd: 2200000000
+    ids:
+      wikidata: Q28967891
+    links:
+      - https://en.wikipedia.org/wiki/Brian_Sheth
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28967891
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bridget-mccain
+    type: person
+    name: Bridget McCain
+    names:
+      en: Bridget McCain
+    gender: F
+    born: 1991-07-21
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: Bangladesh-born adoptive daughter of John McCain (born 1991)
+    ids:
+      wikidata: Q22810653
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22810653
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: britainy-beshear
+    type: person
+    name: Britainy Beshear
+    names:
+      en: Britainy Beshear
+    gender: F
+    born: 1979-07-11
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: First Lady of Kentucky since 2019
+    ids:
+      wikidata: Q114785551
+    links:
+      - https://en.wikipedia.org/wiki/Britainy_Beshear
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q114785551
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: First Lady of Kentucky
+        from: 2019-12-10
+  - id: brittany-pettersen
+    type: person
+    name: Brittany Pettersen
+    names:
+      zh: 布列塔尼·彼特森
+      en: Brittany Pettersen
+    gender: F
+    born: 1981-12-06
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q16734469
+    links:
+      - https://en.wikipedia.org/wiki/Brittany_Pettersen
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16734469
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 科羅拉多州眾議員
+        org: colorado-house-of-representatives
+        from: "2013"
+        to: 2019-01-04
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 科羅拉多州參議員
+        org: colorado-senate
+        from: 2019-01-04
+        to: 2023-01-03
+  - id: brooke-rollins
+    type: person
+    name: Brooke Rollins
+    names:
+      zh: 布鲁克·罗林斯
+      en: Brooke Rollins
+    gender: F
+    born: 1972-04-10
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: 現任美國農業部長
+    ids:
+      wikidata: Q4974474
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E9%B2%81%E5%85%8B%C2%B7%E7%BD%97%E6%9E%97%E6%96%AF
+      - https://en.wikipedia.org/wiki/Brooke_Rollins
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4974474
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國農業部長
+        org: united-states-department-of-agriculture
+        from: 2025-02-13
+  - id: bruce-babbitt
+    type: person
+    name: Bruce Babbitt
+    names:
+      zh: 布鲁斯·爱德华·巴比特
+      en: Bruce Babbitt
+    gender: M
+    born: 1938-06-27
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: American lawyer and politician
+    ids:
+      wikidata: Q878739
+    links:
+      - https://en.wikipedia.org/wiki/Bruce_Babbitt
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q878739
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國內政部長
+        org: united-states-department-of-the-interior
+        from: 1993-01-22
+        to: 2001-01-02
+      - title: 亞利桑那州總檢察長
+        from: 1975-01-06
+        to: 1978-03-04
+      - title: 內政部長
+        org: interior-ministry
+      - title: 亞利桑那州州長
+        org: state-of-arizona
+        from: 1978-03-04
+        to: 1987-01-06
+  - id: bruce-dayton
+    type: person
+    name: Bruce Dayton
+    names:
+      en: Bruce Dayton
+    gender: M
+    born: 1918-08-16
+    died: 2015-11-13
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman & art collector (1918-2015)
+    ids:
+      wikidata: Q21604321
+    links:
+      - https://en.wikipedia.org/wiki/Bruce_Dayton
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21604321
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bruce-kovner
+    type: person
+    name: Bruce Kovner
+    names:
+      zh: 布魯斯·科夫勒
+      en: Bruce Kovner
+    gender: M
+    born: 1945-02-27
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 3
+    summary: American billionaire
+    netWorth:
+      usd: 9000000000
+    ids:
+      wikidata: Q4225801
+    links:
+      - https://en.wikipedia.org/wiki/Bruce_Kovner
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4225801
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bruce-mann
+    type: person
+    name: Bruce Mann
+    names:
+      zh: 布魯斯·曼 (法律史學家)
+      en: Bruce Mann
+    gender: M
+    born: 1950-04-27
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American law professor and legal historian
+    ids:
+      wikidata: Q4977945
+    links:
+      - https://en.wikipedia.org/wiki/Bruce_H._Mann
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4977945
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bruce-westerman
+    type: person
+    name: Bruce Westerman
+    names:
+      zh: 布魯斯·魏斯特曼
+      en: Bruce Westerman
+    gender: M
+    born: 1967-11-18
+    country:
+      - US
+    sectors:
+      - politics
+      - tech
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q16197421
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E9%AD%AF%E6%96%AF%C2%B7%E9%AD%8F%E6%96%AF%E7%89%B9%E6%9B%BC
+      - https://en.wikipedia.org/wiki/Bruce_Westerman
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16197421
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: member of the Arkansas House of Representatives
+        org: arkansas-house-of-representatives
+        from: 2011-01-11
+        to: 2015-01-03
+  - id: bruno-wu
+    type: person
+    name: 吳征
+    names:
+      zh: 吳征
+      en: Bruno Wu
+    gender: M
+    born: 1966-11-25
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 5
+    summary: 中国商人
+    ids:
+      wikidata: Q4979440
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B3%E5%BE%81
+      - https://en.wikipedia.org/wiki/Bruno_Wu
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4979440
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bryan-glazer
+    type: person
+    name: Bryan Glazer
+    names:
+      zh: 布赖恩·格雷泽
+      en: Bryan Glazer
+    gender: M
+    born: 1964-10-27
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman (born 1964)
+    ids:
+      wikidata: Q4980125
+    links:
+      - https://en.wikipedia.org/wiki/Bryan_Glazer
+    tags:
+      - relative
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4980125
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bryan-steil
+    type: person
+    name: Bryan Steil
+    names:
+      zh: 布萊恩·斯泰爾
+      en: Bryan Steil
+    gender: M
+    born: 1981-03-03
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: U.S. Representative from Wisconsin
+    ids:
+      wikidata: Q58494431
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%83%E8%90%8A%E6%81%A9%C2%B7%E6%96%AF%E6%B3%B0%E7%88%BE
+      - https://en.wikipedia.org/wiki/Bryan_Steil
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58494431
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: bryon-noem
+    type: person
+    name: Bryon Noem
+    names:
+      en: Bryon Noem
+    gender: M
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: former First Gentleman of South Dakota
+    ids:
+      wikidata: Q138849288
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q138849288
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bubba-cathy
+    type: person
+    name: Bubba Cathy
+    names:
+      zh: 巴巴·卡西
+      en: Bubba Cathy
+    gender: M
+    born: "1950"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 13700000000
+    ids:
+      wikidata: Q19560207
+    links:
+      - https://en.wikipedia.org/wiki/Bubba_Cathy
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19560207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bud-walton
+    type: person
+    name: Bud Walton
+    names:
+      en: Bud Walton
+    gender: M
+    born: 1921-12-20
+    died: 1995-03-21
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American businessman (1921–1995)
+    ids:
+      wikidata: Q1045098
+    links:
+      - https://en.wikipedia.org/wiki/Bud_Walton
+    tags:
+      - relative
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1045098
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: buddy-carter
+    type: person
+    name: Buddy Carter
+    names:
+      zh: 巴迪·卡特
+      en: Buddy Carter
+    gender: M
+    born: 1957-09-06
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q16240994
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B7%B4%E8%BF%AA%C2%B7%E5%8D%A1%E7%89%B9
+      - https://en.wikipedia.org/wiki/Buddy_Carter
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16240994
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 市长
+        from: "1996"
+        to: "2004"
+      - title: 地方議會議員
+        org: city-council
+        from: "1994"
+        to: "1995"
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 喬治亞州眾議員
+        org: georgia-house-of-representatives
+        from: "2005"
+        to: "2009"
+      - title: 喬治亞州參議員
+        org: georgia-state-senate
+        from: "2009"
+        to: "2014"
+  - id: bui-simon
+    type: person
+    name: Bui Simon
+    names:
+      zh: 蓬蝶普·娜矶朗嘉诺克
+      en: Bui Simon
+    gender: F
+    born: 1969-02-07
+    country:
+      - TH
+    sectors:
+      - family
+    tier: 4
+    summary: Miss Thailand 1988, Miss Universe 1988
+    ids:
+      wikidata: Q2017671
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%93%AC%E8%9D%B6%E6%99%AE%C2%B7%E5%A8%9C%E7%9F%B6%E6%9C%97%E5%98%89%E8%AF%BA%E5%85%8B
+      - https://en.wikipedia.org/wiki/Bui_Simon
+    tags:
+      - relative
+    attrs:
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2017671
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bukkapuram-nadella-yugandhar
+    type: person
+    name: Bukkapuram Nadella Yugandhar
+    names:
+      en: Bukkapuram Nadella Yugandhar
+    gender: M
+    born: "1901"
+    died: 2019-09-13
+    country:
+      - IN
+    sectors:
+      - family
+    tier: 5
+    summary: Indian civil servant
+    ids:
+      wikidata: Q135678397
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q135678397
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: burgess-owens
+    type: person
+    name: Burgess Owens
+    names:
+      zh: 伯吉斯·欧文斯
+      en: Burgess Owens
+    gender: M
+    born: 1951-08-02
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: American politician and former football player (born 1951)
+    ids:
+      wikidata: Q4998602
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BC%AF%E5%90%89%E6%96%AF%C2%B7%E6%AC%A7%E6%96%87%E6%96%AF
+      - https://en.wikipedia.org/wiki/Burgess_Owens
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4998602
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: burt-rutan
+    type: person
+    name: Burt Rutan
+    names:
+      zh: 伯特·鲁坦
+      en: Burt Rutan
+    gender: M
+    born: 1943-06-17
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: American aerospace engineer (born 1943)
+    ids:
+      wikidata: Q453046
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%C2%B7%E9%B2%81%E5%9D%A6
+      - https://en.wikipedia.org/wiki/Burt_Rutan
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q453046
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: butch-otter
+    type: person
+    name: Butch Otter
+    names:
+      zh: 巴奇·奧特
+      en: Butch Otter
+    gender: M
+    born: 1942-05-03
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: American politician (born 1942)
+    ids:
+      wikidata: Q39593
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%A5%87%C2%B7%E5%A5%A7%E7%89%B9
+      - https://en.wikipedia.org/wiki/Butch_Otter
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 28
+    sources:
+      - url: https://www.wikidata.org/wiki/Q39593
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 愛達荷州副州長
+        from: 1987-01-05
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 爱达荷州州长
+        org: state-of-idaho
+        from: "2007"
+        to: 2019-01-07
+      - title: member of the Idaho House of Representatives
+        org: idaho-house-of-representatives
+        from: "1972"
+        to: "1676"
+  - id: buzz-aldrin
+    type: person
+    name: Buzz Aldrin
+    names:
+      zh: 巴兹·奥尔德林
+      en: Buzz Aldrin
+    gender: M
+    born: 1930-01-20
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 3
+    summary: 人類歷史上第二個登上月球的太空人
+    ids:
+      wikidata: Q2252
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%85%B9%C2%B7%E5%A5%A5%E5%B0%94%E5%BE%B7%E6%9E%97
+      - https://en.wikipedia.org/wiki/Buzz_Aldrin
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 115
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2252
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: buzzy-peltola
+    type: person
+    name: Buzzy Peltola
+    names:
+      zh: 尤金·佩斯托拉
+      en: Buzzy Peltola
+    gender: M
+    born: 1966-02-07
+    died: 2023-09-12
+    country: []
+    sectors:
+      - politics
+    tier: 5
+    summary: 美国公务员
+    ids:
+      wikidata: Q122545859
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%85%B9%C2%B7%E4%BD%A9%E5%B0%94%E6%89%98%E6%8B%89
+      - https://en.wikipedia.org/wiki/Buzzy_Peltola
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q122545859
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: byron-donalds
+    type: person
+    name: Byron Donalds
+    names:
+      zh: 拜倫·唐納德
+      en: Byron Donalds
+    gender: M
+    born: 1978-10-28
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: United States Representative from Florida since 2021
+    ids:
+      wikidata: Q59726216
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%8B%9C%E5%80%AB%C2%B7%E5%94%90%E7%B4%8D%E8%8C%B2
+      - https://en.wikipedia.org/wiki/Byron_Donalds
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q59726216
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+      - title: 佛羅里達州眾議員
+        org: florida-house-of-representatives
+        from: 2016-11-08
+        to: 2020-11-03
+  - id: byron-trott
+    type: person
+    name: Byron Trott
+    names:
+      en: Byron Trott
+    gender: M
+    born: 1958-12-02
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Co-CEO of BDT & MSD
+    netWorth:
+      usd: 4300000000
+    ids:
+      wikidata: Q5004483
+    links:
+      - https://en.wikipedia.org/wiki/Byron_Trott
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5004483
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 理事会成员
+        org: board-of-directors
+        from: "2023"
+      - title: 理事会成员
+        org: board-of-directors
+        from: 2017-06-01
+      - title: 理事会成员
+        org: board-of-directors
+        from: "2015"

@@ -1,0 +1,120 @@
+id: us-china-statecraft
+kind: network
+name: 中美博弈：谈判、外交与战略资产
+names:
+  en: US–China statecraft 2025–2026
+country:
+- US
+- CN
+summary: 特朗普第二任期的中美互动主线：关税战与多轮经贸谈判（美方贝森特/格里尔 ↔ 中方何立峰）；2025-10 釜山习特会、2026-05 特朗普访问北京；TikTok 剥离（2026-01 合资公司交割）；英伟达对华芯片出口；长和港口出售（贝莱德/MSC vs 中远海运，巴拿马港口 2026-01 被巴拿马政府接管）；互派大使珀杜、谢锋。
+core:
+- donald-trump
+- xi-jinping
+- scott-bessent
+- jamieson-greer
+- he-lifeng
+- marco-rubio
+- wang-yi
+- david-perdue
+- xie-feng
+outer:
+- li-ka-shing
+- victor-li
+- larry-fink
+- ck-hutchison
+- blackrock
+- msc
+- cosco-shipping
+- tiktok-usds
+- jensen-huang
+- nvidia
+sources:
+- &id001
+  url: https://us.china-embassy.gov.cn/eng/dshd/202606/t20260623_11950162.htm
+  title: Ambassador Xie Feng attended USCBC Gala 2026（提及 2026 年 5 月习特北京会晤）
+  publisher: 中国驻美国大使馆
+  date: '2026-06-23'
+- url: https://en.wikipedia.org/wiki/China–United_States_trade_war
+  publisher: Wikipedia
+confidence: reported
+relations:
+- from: donald-trump
+  to: xi-jinping
+  type: associate
+  label: 首脑会晤：2025-10 釜山；2026-05 北京
+  confidence: confirmed
+  sources:
+  - *id001
+- from: scott-bessent
+  to: he-lifeng
+  type: associate
+  label: 中美经贸磋商对口牵头人（2025–）
+  confidence: confirmed
+- from: jamieson-greer
+  to: he-lifeng
+  type: associate
+  label: 经贸谈判对手方
+- from: marco-rubio
+  to: wang-yi
+  type: associate
+  label: 外长对口
+- from: donald-trump
+  to: david-perdue
+  type: appointed
+  label: 驻华大使（2025）
+  sources:
+  - url: https://www.walb.com/2025/04/29/senate-confirms-former-georgia-sen-david-perdue-trumps-us-ambassador-china-amid-tariff-showdown/
+    title: Senate confirms David Perdue as ambassador to China (67-29)
+    publisher: WALB / Gray
+    date: '2025-04-29'
+- - li-ka-shing
+  - founder
+  - ck-hutchison
+- - li-ka-shing
+  - parent
+  - victor-li
+  - 长子
+- - li-ka-shing
+  - parent
+  - richard-li
+  - 次子
+- - victor-li
+  - position
+  - ck-hutchison
+  - 主席
+- - larry-fink
+  - position
+  - blackrock
+  - 董事长兼 CEO
+- from: ck-hutchison
+  to: blackrock
+  type: org-partner
+  label: 2025-03 港口出售框架协议（约 228 亿美元，80% 权益）
+  sources: &id002
+  - url: https://www.freightwaves.com/news/after-trump-pressure-china-sells-panama-port-terminals-to-us-private-equity-firm-msc
+    title: After Trump pressure, CK Hutchison to sell Panama port terminals to BlackRock, MSC
+    publisher: FreightWaves
+    date: 2025-03
+  - url: https://www.dealstreetasia.com/?p=474562
+    title: BlackRock-backed group looks to close Hutchison ports deal without Panama assets
+    publisher: DealStreetAsia
+    date: '2026'
+  - url: https://www.marineinsight.com/china-threatens-to-block-22-8-billion-panama-ports-deal-over-coscos-exclusion/
+    title: China threatens to block $22.8 billion Panama ports deal over Cosco exclusion
+    publisher: Marine Insight
+- from: ck-hutchison
+  to: msc
+  type: org-partner
+  label: 同上（贝莱德/TiL 财团）
+  sources: *id002
+- from: cosco-shipping
+  to: ck-hutchison
+  type: related
+  label: 要求入股乃至控股港口交易
+  confidence: reported
+  sources: *id002
+tags:
+- network
+- cross-border
+- statecraft
+updated: '2026-10-11'

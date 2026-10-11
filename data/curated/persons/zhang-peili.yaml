@@ -1,0 +1,23 @@
+id: zhang-peili
+type: person
+name: 张培莉
+names:
+  zh: 张培莉
+  en: Zhang Beili
+aliases:
+- 张蓓莉
+gender: F
+born: '1941'
+country:
+- CN
+sectors:
+- business
+- family
+tier: 3
+summary: 温家宝之妻，珠宝玉石专家，曾主导国内钻石行业（亦写作张蓓莉）。
+sources:
+- url: https://www.nytimes.com/2012/10/26/business/global/family-of-wen-jiabao-holds-a-hidden-fortune-in-china.html
+  title: Billions in Hidden Riches for Family of Chinese Leader (David Barboza)
+  publisher: The New York Times
+  date: '2012-10-26'
+updated: '2026-10-11'

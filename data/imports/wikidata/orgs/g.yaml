@@ -1,0 +1,1837 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: g2000
+    type: org
+    name: G2000
+    names:
+      zh: 縱橫二千集團
+      en: G2000
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: clothing brand
+    ids:
+      wikidata: Q5512676
+    links:
+      - https://en.wikipedia.org/wiki/G2000
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5512676
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: galaxy-entertainment-group
+    type: org
+    name: Galaxy Entertainment Group
+    names:
+      zh: 銀河娛樂集團
+      en: Galaxy Entertainment Group
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: 亞洲一所綜合娛樂渡假發展及營運公司
+    ids:
+      wikidata: Q4039216
+    links:
+      - https://en.wikipedia.org/wiki/Galaxy_Entertainment_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4039216
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: garden-city-high-school
+    type: org
+    name: Garden City High School
+    names:
+      en: Garden City High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Garden City, New York, United States
+    ids:
+      wikidata: Q5522207
+    links:
+      - https://en.wikipedia.org/wiki/Garden_City_High_School_(New_York)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5522207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: garena
+    type: org
+    name: Garena
+    names:
+      zh: 新加坡商競舞電競有限公司
+      en: Garena
+    orgType: company
+    country:
+      - ID
+    sectors:
+      - business
+    tier: 3
+    summary: digital entertainment platform
+    ids:
+      wikidata: Q2994389
+    links:
+      - https://en.wikipedia.org/wiki/Garena
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2994389
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: garmin-group
+    type: org
+    name: Garmin Group
+    names:
+      zh: 佳明
+      en: Garmin Group
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: GPS軟體與硬體公司
+    ids:
+      wikidata: Q658789
+    links:
+      - https://en.wikipedia.org/wiki/Garmin
+    sources:
+      - url: https://www.wikidata.org/wiki/Q658789
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gates-foundation
+    type: org
+    name: Gates Foundation
+    names:
+      zh: 比尔及梅琳达·盖茨基金会
+      en: Gates Foundation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 前世界首富美國企業家比爾·蓋茨夫婦共同創立的公益基金項目
+    ids:
+      wikidata: Q655286
+    links:
+      - https://en.wikipedia.org/wiki/Gates_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q655286
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ge-aerospace
+    type: org
+    name: GE Aerospace
+    names:
+      zh: GE航空航天
+      en: GE Aerospace
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American aircraft engine supplier
+    ids:
+      wikidata: Q1485061
+    links:
+      - https://en.wikipedia.org/wiki/GE_Aerospace
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1485061
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: geely
+    type: org
+    name: 吉利控股集团
+    names:
+      zh: 吉利控股集团
+      en: Geely
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中国公司
+    ids:
+      wikidata: Q739000
+    links:
+      - https://en.wikipedia.org/wiki/Geely
+    sources:
+      - url: https://www.wikidata.org/wiki/Q739000
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: geely-financials-denmark-a-s
+    type: org
+    name: Geely Financials Denmark A/S
+    names:
+      en: Geely Financials Denmark A/S
+    orgType: company
+    country:
+      - DK
+    sectors:
+      - business
+    tier: 4
+    ids:
+      wikidata: Q116889942
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116889942
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: geely-ming-industrial
+    type: org
+    name: Geely Ming Industrial
+    names:
+      en: Geely Ming Industrial
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: motorcycle manufacturer part of Geely Group
+    ids:
+      wikidata: Q113949844
+    links:
+      - https://en.wikipedia.org/wiki/Geely_Ming_Industrial
+    sources:
+      - url: https://www.wikidata.org/wiki/Q113949844
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: geespace
+    type: org
+    name: Geespace
+    names:
+      en: Geespace
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: satellite technology company
+    ids:
+      wikidata: Q125167295
+    links:
+      - https://en.wikipedia.org/wiki/Geespace
+    sources:
+      - url: https://www.wikidata.org/wiki/Q125167295
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: geffen-records
+    type: org
+    name: Geffen Records
+    names:
+      zh: 格芬唱片
+      en: Geffen Records
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国唱片公司
+    ids:
+      wikidata: Q212699
+    links:
+      - https://en.wikipedia.org/wiki/Geffen_Records
+    sources:
+      - url: https://www.wikidata.org/wiki/Q212699
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: geffen-records-inc
+    type: org
+    name: Geffen Records, Inc.
+    names:
+      en: Geffen Records, Inc.
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: US record company
+    ids:
+      wikidata: Q61483981
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q61483981
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gemini
+    type: org
+    name: Gemini
+    names:
+      en: Gemini
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: US-based cryptocurrency exchange and custodian
+    ids:
+      wikidata: Q22908594
+    links:
+      - https://en.wikipedia.org/wiki/Gemini_(cryptocurrency_exchange)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22908594
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: general-dynamics
+    type: org
+    name: General Dynamics
+    names:
+      zh: 通用动力
+      en: General Dynamics
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American aerospace and defense manufacturing conglomerate
+    ids:
+      wikidata: Q502940
+    links:
+      - https://en.wikipedia.org/wiki/General_Dynamics
+    sources:
+      - url: https://www.wikidata.org/wiki/Q502940
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: general-motors
+    type: org
+    name: General Motors
+    names:
+      zh: 通用汽车
+      en: General Motors
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國汽車公司
+    ids:
+      wikidata: Q81965
+    links:
+      - https://en.wikipedia.org/wiki/General_Motors
+    sources:
+      - url: https://www.wikidata.org/wiki/Q81965
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: general-office-of-the-state-council
+    type: org
+    name: 中华人民共和国国务院办公厅
+    names:
+      zh: 中华人民共和国国务院办公厅
+      en: General Office of the State Council
+    orgType: government
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 4
+    summary: 办公机构
+    ids:
+      wikidata: Q7603164
+    links:
+      - https://en.wikipedia.org/wiki/General_Office_of_the_State_Council
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7603164
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: general-secretaryship-of-xi-jinping
+    type: org
+    name: 习近平体制
+    names:
+      zh: 习近平体制
+      en: general secretaryship of Xi Jinping
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 以中共中央总书记习近平为核心的中国共产党领导制度
+    ids:
+      wikidata: Q52161605
+    links:
+      - https://en.wikipedia.org/wiki/General_secretaryship_of_Xi_Jinping
+    sources:
+      - url: https://www.wikidata.org/wiki/Q52161605
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: genesis-digital-assets
+    type: org
+    name: Genesis Digital Assets
+    names:
+      en: Genesis Digital Assets
+    orgType: company
+    country:
+      - CY
+    sectors:
+      - business
+    tier: 4
+    summary: Bitcoin mining company
+    ids:
+      wikidata: Q116463173
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116463173
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: genesis-mission
+    type: org
+    name: Genesis Mission
+    names:
+      en: Genesis Mission
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: US executive order implementing America's AI Action Plan, which focus on AI-enabled science to accelerate scientific advancement
+    ids:
+      wikidata: Q137040611
+    links:
+      - https://en.wikipedia.org/wiki/Genesis_Mission
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137040611
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: geopolitical-futures
+    type: org
+    name: Geopolitical Futures
+    names:
+      en: Geopolitical Futures
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American company (2015-)
+    ids:
+      wikidata: Q112609725
+    links:
+      - https://en.wikipedia.org/wiki/Geopolitical_Futures
+    sources:
+      - url: https://www.wikidata.org/wiki/Q112609725
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: george-h-w-bush-administration-cabinet
+    type: org
+    name: George H. W. Bush Administration cabinet
+    names:
+      en: George H. W. Bush Administration cabinet
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: The most senior appointed officers of the executive branch of the federal government of the United States under the George W. Bush Administration
+    ids:
+      wikidata: Q28464554
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28464554
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: george-lucas-educational-foundation
+    type: org
+    name: George Lucas Educational Foundation
+    names:
+      en: George Lucas Educational Foundation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American nonprofit (1991-)
+    ids:
+      wikidata: Q131923889
+    links:
+      - https://en.wikipedia.org/wiki/George_Lucas_Educational_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q131923889
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: george-mason-university
+    type: org
+    name: George Mason University
+    names:
+      zh: 乔治梅森大学
+      en: George Mason University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public liberal arts and research university in Fairfax County, Virginia
+    ids:
+      wikidata: Q1411222
+    links:
+      - https://en.wikipedia.org/wiki/George_Mason_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1411222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: george-w-bush-administration-cabinet
+    type: org
+    name: George W. Bush Administration cabinet
+    names:
+      en: George W. Bush Administration cabinet
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: most senior appointed officers of the executive branch of the federal government of the United States under the George W. Bush Administration
+    ids:
+      wikidata: Q28464532
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28464532
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: george-washington-educational-campus
+    type: org
+    name: George Washington Educational Campus
+    names:
+      zh: 喬治·華盛頓高中
+      en: George Washington Educational Campus
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: educational institution in Manhattan, New York City
+    ids:
+      wikidata: Q5545975
+    links:
+      - https://en.wikipedia.org/wiki/George_Washington_Educational_Campus
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5545975
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: george-washington-university
+    type: org
+    name: George Washington University
+    names:
+      zh: 乔治·华盛顿大学
+      en: George Washington University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美國華盛頓哥倫比亞特區的大學
+    ids:
+      wikidata: Q432637
+    links:
+      - https://en.wikipedia.org/wiki/George_Washington_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q432637
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: george-washington-university-law-school
+    type: org
+    name: George Washington University Law School
+    names:
+      zh: 喬治華盛頓大學法學院
+      en: George Washington University Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school in Washington, D.C., US
+    ids:
+      wikidata: Q5546035
+    links:
+      - https://en.wikipedia.org/wiki/George_Washington_University_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5546035
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: georgetown-preparatory-school
+    type: org
+    name: Georgetown Preparatory School
+    names:
+      zh: 乔治城预备中学
+      en: Georgetown Preparatory School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Jesuit university-preparatory school in North Bethesda, Maryland, near Washington, D.C.
+    ids:
+      wikidata: Q771207
+    links:
+      - https://en.wikipedia.org/wiki/Georgetown_Preparatory_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q771207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: georgetown-university
+    type: org
+    name: Georgetown University
+    names:
+      zh: 乔治城大学
+      en: Georgetown University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 位于美国华盛顿特区的私立大学
+    ids:
+      wikidata: Q333886
+    links:
+      - https://en.wikipedia.org/wiki/Georgetown_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q333886
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: georgetown-university-law-center
+    type: org
+    name: Georgetown University Law Center
+    names:
+      zh: 乔治城大学法律中心
+      en: Georgetown University Law Center
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school of Georgetown University
+    ids:
+      wikidata: Q846101
+    links:
+      - https://en.wikipedia.org/wiki/Georgetown_University_Law_Center
+    sources:
+      - url: https://www.wikidata.org/wiki/Q846101
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: georgetown-university-school-of-medicine
+    type: org
+    name: Georgetown University School of Medicine
+    names:
+      zh: 乔治城大学医学院
+      en: Georgetown University School of Medicine
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: medical school of Georgetown University
+    ids:
+      wikidata: Q5547065
+    links:
+      - https://en.wikipedia.org/wiki/Georgetown_University_School_of_Medicine
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5547065
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: georgia-championship-wrestling
+    type: org
+    name: Georgia Championship Wrestling
+    names:
+      en: Georgia Championship Wrestling
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American professional wrestling promotion based in Atlanta, GA.
+    ids:
+      wikidata: Q638487
+    links:
+      - https://en.wikipedia.org/wiki/Georgia_Championship_Wrestling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q638487
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: georgia-house-of-representatives
+    type: org
+    name: Georgia House of Representatives
+    names:
+      zh: 佐治亚州众议院
+      en: Georgia House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the Georgia General Assembly
+    ids:
+      wikidata: Q1494564
+    links:
+      - https://en.wikipedia.org/wiki/Georgia_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494564
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: georgia-state-senate
+    type: org
+    name: Georgia State Senate
+    names:
+      zh: 佐治亚州参议院
+      en: Georgia State Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the Georgia General Assembly
+    ids:
+      wikidata: Q1494569
+    links:
+      - https://en.wikipedia.org/wiki/Georgia_State_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494569
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: georgia-state-university
+    type: org
+    name: Georgia State University
+    names:
+      zh: 乔治亚州大学艺术与科学学院
+      en: Georgia State University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国佐治亚州亚特兰大的大学
+    ids:
+      wikidata: Q1509333
+    links:
+      - https://en.wikipedia.org/wiki/Georgia_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1509333
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: georgia-tech
+    type: org
+    name: Georgia Tech
+    names:
+      zh: 佐治亚理工学院
+      en: Georgia Tech
+    orgType: think-tank
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public research university in Atlanta, Georgia, United States
+    ids:
+      wikidata: Q864855
+    links:
+      - https://en.wikipedia.org/wiki/Georgia_Tech
+    sources:
+      - url: https://www.wikidata.org/wiki/Q864855
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: giffords
+    type: org
+    name: Giffords
+    names:
+      en: Giffords
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American gun-control advocacy organization
+    ids:
+      wikidata: Q50101017
+    links:
+      - https://en.wikipedia.org/wiki/Giffords
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50101017
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gilmour-academy
+    type: org
+    name: Gilmour Academy
+    names:
+      zh: 吉尔默尔学院
+      en: Gilmour Academy
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: school in Gates Mills, Ohio, United States
+    ids:
+      wikidata: Q5562547
+    links:
+      - https://en.wikipedia.org/wiki/Gilmour_Academy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5562547
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: giordano
+    type: org
+    name: 佐丹奴
+    names:
+      zh: 佐丹奴
+      en: Giordano
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 香港公司
+    ids:
+      wikidata: Q4115012
+    links:
+      - https://en.wikipedia.org/wiki/Giordano_International
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4115012
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: giovanni-agnelli
+    type: org
+    name: Giovanni Agnelli
+    names:
+      en: Giovanni Agnelli
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Italian holding company
+    ids:
+      wikidata: Q3766352
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3766352
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: git
+    type: org
+    name: Git
+    names:
+      en: Git
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 自由開源的版本控制軟體
+    ids:
+      wikidata: Q186055
+    links:
+      - https://en.wikipedia.org/wiki/Git
+    sources:
+      - url: https://www.wikidata.org/wiki/Q186055
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: glencore
+    type: org
+    name: Glencore
+    names:
+      zh: 嘉能可
+      en: Glencore
+    orgType: company
+    country:
+      - CH
+    sectors:
+      - business
+    tier: 3
+    summary: 總部位於瑞士巴爾的跨國商品交易商
+    ids:
+      wikidata: Q169339
+    links:
+      - https://en.wikipedia.org/wiki/Glencore
+    sources:
+      - url: https://www.wikidata.org/wiki/Q169339
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: glendale-high-school
+    type: org
+    name: Glendale High School
+    names:
+      en: Glendale High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Springfield, Greene County, Missouri
+    ids:
+      wikidata: Q5568366
+    links:
+      - https://en.wikipedia.org/wiki/Glendale_High_School_(Missouri)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5568366
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: glenstone
+    type: org
+    name: Glenstone
+    names:
+      en: Glenstone
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American private art museum in Potomac, Maryland, United States
+    ids:
+      wikidata: Q56480126
+    links:
+      - https://en.wikipedia.org/wiki/Glenstone
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56480126
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: global-association-of-risk-professionals
+    type: org
+    name: Global Association of Risk Professionals
+    names:
+      zh: 全球风险专业人士协会
+      en: Global Association of Risk Professionals
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: membership association for risk managers
+    ids:
+      wikidata: Q16251355
+    links:
+      - https://en.wikipedia.org/wiki/Global_Association_of_Risk_Professionals
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16251355
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gnu-midnight-commander
+    type: org
+    name: GNU Midnight Commander
+    names:
+      zh: GNU Midnight Commander
+      en: GNU Midnight Commander
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 自由的跨平台檔案管理程式，且為Norton Commander的複製品
+    ids:
+      wikidata: Q1340000
+    links:
+      - https://en.wikipedia.org/wiki/Midnight_Commander
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1340000
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: goalkeepers
+    type: org
+    name: Goalkeepers (Gates Foundation)
+    names:
+      en: Goalkeepers (Gates Foundation)
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: global initiative by the Gates Foundation
+    ids:
+      wikidata: Q65062758
+    links:
+      - https://en.wikipedia.org/wiki/Goalkeepers_(Gates_Foundation)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65062758
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: godaddy
+    type: org
+    name: GoDaddy
+    names:
+      zh: Go Daddy
+      en: GoDaddy
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 互联网域名托管商
+    ids:
+      wikidata: Q1416215
+    links:
+      - https://en.wikipedia.org/wiki/GoDaddy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1416215
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: golden-gate-university
+    type: org
+    name: Golden Gate University
+    names:
+      zh: 金门大学
+      en: Golden Gate University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 位於美國舊金山的私立大學
+    ids:
+      wikidata: Q1534879
+    links:
+      - https://en.wikipedia.org/wiki/Golden_Gate_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1534879
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: golden-nugget-inc
+    type: org
+    name: Golden Nugget, Inc.
+    names:
+      en: Golden Nugget, Inc.
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Las Vegas based private investment firm
+    ids:
+      wikidata: Q5579679
+    links:
+      - https://en.wikipedia.org/wiki/Golden_Nugget_Hotel_%26_Casinos
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5579679
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: goldman-sachs
+    type: org
+    name: Goldman Sachs
+    names:
+      zh: 高盛
+      en: Goldman Sachs
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: American investment bank
+    ids:
+      wikidata: Q193326
+    links:
+      - https://en.wikipedia.org/wiki/Goldman_Sachs
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193326
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gome-electrical-appliances
+    type: org
+    name: 国美电器
+    names:
+      zh: 国美电器
+      en: GOME Electrical Appliances
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国电器零售商
+    ids:
+      wikidata: Q1486322
+    links:
+      - https://en.wikipedia.org/wiki/GOME_Retail_Holdings_Ltd.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1486322
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: good-ventures
+    type: org
+    name: Good Ventures
+    names:
+      en: Good Ventures
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American philanthropic foundation
+    ids:
+      wikidata: Q5583039
+    links:
+      - https://en.wikipedia.org/wiki/Good_Ventures
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5583039
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: good360
+    type: org
+    name: Good360
+    names:
+      en: Good360
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 501(c)(3) charitable organization
+    ids:
+      wikidata: Q5582400
+    links:
+      - https://en.wikipedia.org/wiki/Good360
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5582400
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: google
+    type: org
+    name: Google
+    names:
+      zh: 谷歌
+      en: Google
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國的跨國科技企業
+    ids:
+      wikidata: Q95
+    links:
+      - https://en.wikipedia.org/wiki/Google
+    sources:
+      - url: https://www.wikidata.org/wiki/Q95
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: google-brain
+    type: org
+    name: Google Brain
+    names:
+      zh: 谷歌大脑
+      en: Google Brain
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 深度学习研究项目
+    ids:
+      wikidata: Q16927616
+    links:
+      - https://en.wikipedia.org/wiki/Google_Brain
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16927616
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: google-photos
+    type: org
+    name: Google Photos
+    names:
+      zh: Google 相册
+      en: Google Photos
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 图片存储与分享服务
+    ids:
+      wikidata: Q20007086
+    links:
+      - https://en.wikipedia.org/wiki/Google_Photos
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20007086
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: google-photos-2
+    type: org
+    name: Google Photos
+    names:
+      en: Google Photos
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: mobile app
+    ids:
+      wikidata: Q125499816
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q125499816
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: google-search
+    type: org
+    name: Google Search
+    names:
+      zh: 谷歌搜索
+      en: Google Search
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: Google開發的網路搜索引擎
+    ids:
+      wikidata: Q9366
+    links:
+      - https://en.wikipedia.org/wiki/Google_Search
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9366
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: google-summer-of-code
+    type: org
+    name: Google Summer of Code
+    names:
+      zh: Google编程之夏
+      en: Google Summer of Code
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: annual program that offers open-source software projects to post-secondary student developers
+    ids:
+      wikidata: Q1324301
+    links:
+      - https://en.wikipedia.org/wiki/Google_Summer_of_Code
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1324301
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: googleplex
+    type: org
+    name: Googleplex
+    names:
+      zh: Googleplex
+      en: Googleplex
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 位於美國加州聖克拉拉郡山景城的Google及其母公司Alphabet總部
+    ids:
+      wikidata: Q694178
+    links:
+      - https://en.wikipedia.org/wiki/Googleplex
+    sources:
+      - url: https://www.wikidata.org/wiki/Q694178
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gordon-and-betty-moore-foundation
+    type: org
+    name: Gordon and Betty Moore Foundation
+    names:
+      zh: 戈登与贝蒂·摩尔基金会
+      en: Gordon and Betty Moore Foundation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private foundation
+    ids:
+      wikidata: Q3070474
+    links:
+      - https://en.wikipedia.org/wiki/Gordon_and_Betty_Moore_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3070474
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gotham-fc
+    type: org
+    name: Gotham FC
+    names:
+      zh: 蓝天足球俱乐部
+      en: Gotham FC
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国女子足球俱乐部
+    ids:
+      wikidata: Q1447181
+    links:
+      - https://en.wikipedia.org/wiki/Gotham_FC
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1447181
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: government-of-hong-kong
+    type: org
+    name: 香港特别行政区政府
+    names:
+      zh: 香港特别行政区政府
+      en: Government of Hong Kong
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中華人民共和國香港特別行政區的行政部門
+    ids:
+      wikidata: Q15164
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Hong_Kong
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15164
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: government-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国政府
+    names:
+      zh: 中华人民共和国政府
+      en: government of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 中华人民共和国中央人民政府和地方政府的总称
+    ids:
+      wikidata: Q936190
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_China
+    sources:
+      - url: https://www.wikidata.org/wiki/Q936190
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: government-of-westchester-county
+    type: org
+    name: government of Westchester County
+    names:
+      en: government of Westchester County
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of Westchester County, New York, United States
+    ids:
+      wikidata: Q140067439
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q140067439
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: grace-hopper-college
+    type: org
+    name: Grace Hopper College
+    names:
+      zh: 卡尔霍恩学院
+      en: Grace Hopper College
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国的一所学院
+    ids:
+      wikidata: Q5019758
+    links:
+      - https://en.wikipedia.org/wiki/Grace_Hopper_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5019758
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: graduate-school-of-chinese-academy-of-social-sciences
+    type: org
+    name: 中国社会科学院研究生院
+    names:
+      zh: 中国社会科学院研究生院
+      en: Graduate School of Chinese Academy of Social Sciences
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 教育机构
+    ids:
+      wikidata: Q5592036
+    links:
+      - https://en.wikipedia.org/wiki/Graduate_School_of_Chinese_Academy_of_Social_Sciences
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5592036
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: great-america-committee
+    type: org
+    name: Great America Committee
+    names:
+      en: Great America Committee
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: political Action Committee of Mike Pence
+    ids:
+      wikidata: Q30640273
+    links:
+      - https://en.wikipedia.org/wiki/Great_America_Committee
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30640273
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: great-plains-software
+    type: org
+    name: Great Plains Software
+    names:
+      en: Great Plains Software
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: accounting software company
+    ids:
+      wikidata: Q112871910
+    links:
+      - https://en.wikipedia.org/wiki/Great_Plains_Software
+    sources:
+      - url: https://www.wikidata.org/wiki/Q112871910
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: great-saint-james
+    type: org
+    name: Great Saint James
+    names:
+      zh: 大聖詹姆斯島
+      en: Great Saint James
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美屬維京群島島嶼
+    ids:
+      wikidata: Q5599902
+    links:
+      - https://en.wikipedia.org/wiki/Great_Saint_James
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5599902
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: greece-2021
+    type: org
+    name: Greece 2021
+    names:
+      en: Greece 2021
+    orgType: other
+    country:
+      - GR
+    sectors:
+      - other
+    tier: 4
+    summary: committee for the organization of celebration activities for the 200 years' anniversary since the Greek Revolution
+    ids:
+      wikidata: Q104760968
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104760968
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: greengate-centre
+    type: org
+    name: Greengate Centre
+    names:
+      en: Greengate Centre
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: shopping mall in Pennsylvania, United States
+    ids:
+      wikidata: Q5604053
+    links:
+      - https://en.wikipedia.org/wiki/Greengate_Centre
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5604053
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: greenlight-networks
+    type: org
+    name: Greenlight Networks
+    names:
+      en: Greenlight Networks
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: fiber-optic Internet service in Rochester, New York
+    ids:
+      wikidata: Q65951698
+    links:
+      - https://en.wikipedia.org/wiki/Greenlight_Networks
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65951698
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: greenpark-sports
+    type: org
+    name: GreenPark Sports
+    names:
+      en: GreenPark Sports
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American sports and esports fan engagement company
+    ids:
+      wikidata: Q141163665
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q141163665
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: greenwich-country-day-school
+    type: org
+    name: Greenwich Country Day School
+    names:
+      zh: 格林尼治乡村小学
+      en: Greenwich Country Day School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国康涅狄格州格林尼治的一所小学
+    ids:
+      wikidata: Q5604846
+    links:
+      - https://en.wikipedia.org/wiki/Greenwich_Country_Day_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5604846
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: griffin-catalyst
+    type: org
+    name: Griffin Catalyst
+    names:
+      en: Griffin Catalyst
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Griffin Catalyst is the civic engagement initiative of Ken Griffin, encompassing his philanthropic and community impact efforts.
+    ids:
+      wikidata: Q125997338
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q125997338
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: griffith-r-harsh-iv-and-margaret-c-whitman-charitable-foundation
+    type: org
+    name: Griffith R. Harsh IV and Margaret C Whitman Charitable Foundation
+    names:
+      en: Griffith R. Harsh IV and Margaret C Whitman Charitable Foundation
+    orgType: foundation
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American foundation
+    ids:
+      wikidata: Q5608915
+    links:
+      - https://en.wikipedia.org/wiki/Griffith_R._Harsh_IV_and_Margaret_C_Whitman_Charitable_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5608915
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: grinnell-college
+    type: org
+    name: Grinnell College
+    names:
+      zh: 格林内尔学院
+      en: Grinnell College
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: liberal arts college in Iowa, United States
+    ids:
+      wikidata: Q2982991
+    links:
+      - https://en.wikipedia.org/wiki/Grinnell_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2982991
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gristedes
+    type: org
+    name: Gristedes
+    names:
+      en: Gristedes
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: New York City-based chain of supermarkets
+    ids:
+      wikidata: Q5609669
+    links:
+      - https://en.wikipedia.org/wiki/Gristedes
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5609669
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: groton-school
+    type: org
+    name: Groton School
+    names:
+      zh: 格罗顿学校
+      en: Groton School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国马萨诸塞州格罗顿的学校
+    ids:
+      wikidata: Q872541
+    links:
+      - https://en.wikipedia.org/wiki/Groton_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q872541
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: groupon
+    type: org
+    name: Groupon
+    names:
+      zh: Groupon
+      en: Groupon
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American worldwide e-commerce marketplace
+    ids:
+      wikidata: Q852787
+    links:
+      - https://en.wikipedia.org/wiki/Groupon
+    sources:
+      - url: https://www.wikidata.org/wiki/Q852787
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gsi-commerce
+    type: org
+    name: GSI Commerce
+    names:
+      en: GSI Commerce
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: website
+    ids:
+      wikidata: Q1486934
+    links:
+      - https://en.wikipedia.org/wiki/EBay_Enterprise
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1486934
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: guangdong-provincial-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党广东省委员会
+    names:
+      zh: 中国共产党广东省委员会
+      en: Guangdong Provincial Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国共产党在广东省的领导机关
+    ids:
+      wikidata: Q10873202
+    links:
+      - https://en.wikipedia.org/wiki/Guangdong_Provincial_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873202
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: guangxi-university
+    type: org
+    name: 广西大学
+    names:
+      zh: 广西大学
+      en: Guangxi University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于广西南宁市的一所综合性大学
+    ids:
+      wikidata: Q1552757
+    links:
+      - https://en.wikipedia.org/wiki/Guangxi_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1552757
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: guangxi-zhuang-autonomous-regional-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党广西壮族自治区委员会
+    names:
+      zh: 中国共产党广西壮族自治区委员会
+      en: Guangxi Zhuang Autonomous Regional Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国共产党在广西壮族自治区的领导机关
+    ids:
+      wikidata: Q10873205
+    links:
+      - https://en.wikipedia.org/wiki/Guangxi_Zhuang_Autonomous_Regional_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873205
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: guizhou-provincial-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党贵州省委员会
+    names:
+      zh: 中国共产党贵州省委员会
+      en: Guizhou Provincial Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国共产党在贵州省的组织和领导机关
+    ids:
+      wikidata: Q10873267
+    links:
+      - https://en.wikipedia.org/wiki/Guizhou_Provincial_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873267
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: guizhou-university
+    type: org
+    name: 贵州大学
+    names:
+      zh: 贵州大学
+      en: Guizhou University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 1902年创建的一所学校
+    ids:
+      wikidata: Q461033
+    links:
+      - https://en.wikipedia.org/wiki/Guizhou_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461033
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gunn-high-school
+    type: org
+    name: Gunn High School
+    names:
+      zh: 戈恩高校
+      en: Gunn High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in California, United States
+    ids:
+      wikidata: Q5618905
+    links:
+      - https://en.wikipedia.org/wiki/Gunn_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5618905
+        publisher: Wikidata
+        accessed: 2026-10-11

@@ -1,0 +1,38 @@
+id: todd-blanche
+type: person
+name: Todd Blanche
+names:
+  en: Todd Blanche
+  zh: 托德·布兰奇
+gender: M
+born: '1974'
+country:
+- US
+sectors:
+- politics
+- judiciary
+tier: 2
+status: active
+summary: 司法部长（2026-08 经参议院 50–49 确认；2026-04 起代理）。此前任司法部副部长（2025–2026）；曾是特朗普“封口费”刑事案的辩护律师。
+positions:
+- title: 司法部长
+  org: us-cabinet
+  from: '2026-08-10'
+  current: true
+- title: 代理司法部长
+  org: us-cabinet
+  from: 2026-04
+  to: 2026-08
+- title: 司法部副部长
+  from: 2025-03
+  to: 2026-04
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.michiganpublic.org/2026-08-08/senate-votes-to-confirm-todd-blanche-as-attorney-general
+  title: Senate votes to confirm Todd Blanche as attorney general
+  publisher: NPR / Michigan Public
+  date: '2026-08-08'
+updated: '2026-10-11'

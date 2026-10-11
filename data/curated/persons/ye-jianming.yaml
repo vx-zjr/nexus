@@ -1,0 +1,19 @@
+id: ye-jianming
+type: person
+name: 叶简明
+names:
+  en: 叶简明
+  zh: Ye Jianming
+gender: M
+born: 1977-06
+country:
+- CN
+sectors:
+- business
+tier: 3
+status: detained
+summary: 中国华信能源创始人，曾以“民营石油巨头”身份在中东欧、美国广泛结交政要；2018 年被中国当局调查后下落不明。
+sources:
+- url: https://en.wikipedia.org/wiki/Ye_Jianming
+  publisher: Wikipedia
+updated: '2026-10-11'

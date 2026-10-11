@@ -1,0 +1,845 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: j-craig-venter-institute
+    type: org
+    name: J. Craig Venter Institute
+    names:
+      zh: 克萊格·凡特研究所
+      en: J. Craig Venter Institute
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American research institute
+    ids:
+      wikidata: Q1439786
+    links:
+      - https://en.wikipedia.org/wiki/J._Craig_Venter_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1439786
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: j-reuben-clark-law-school
+    type: org
+    name: J. Reuben Clark Law School
+    names:
+      zh: 鲁宾·克拉克法学院
+      en: J. Reuben Clark Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school at Brigham Young University, Provo, Utah, United States
+    ids:
+      wikidata: Q6106933
+    links:
+      - https://en.wikipedia.org/wiki/J._Reuben_Clark_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6106933
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jack-entertainment
+    type: org
+    name: Jack Entertainment
+    names:
+      en: Jack Entertainment
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: gaming, hospitality and entertainment company
+    ids:
+      wikidata: Q22952558
+    links:
+      - https://en.wikipedia.org/wiki/Jack_Entertainment
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22952558
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jack-m-barrack-hebrew-academy
+    type: org
+    name: Jack M. Barrack Hebrew Academy
+    names:
+      en: Jack M. Barrack Hebrew Academy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private, jewish day school in Bryn Mawr, PA, United States
+    ids:
+      wikidata: Q6113783
+    links:
+      - https://en.wikipedia.org/wiki/Jack_M._Barrack_Hebrew_Academy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6113783
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jackling-house
+    type: org
+    name: Jackling House
+    names:
+      zh: 杰克林之家
+      en: Jackling House
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: home in California, United States
+    ids:
+      wikidata: Q6116760
+    links:
+      - https://en.wikipedia.org/wiki/Jackling_House
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6116760
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jackson-state-university
+    type: org
+    name: Jackson State University
+    names:
+      zh: 杰克逊州立大学
+      en: Jackson State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university in Mississippi, United States
+    ids:
+      wikidata: Q1747601
+    links:
+      - https://en.wikipedia.org/wiki/Jackson_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1747601
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jacksonville-jaguars
+    type: org
+    name: Jacksonville Jaguars
+    names:
+      zh: 杰克逊维尔美洲虎
+      en: Jacksonville Jaguars
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国美式橄榄球队
+    ids:
+      wikidata: Q272223
+    links:
+      - https://en.wikipedia.org/wiki/Jacksonville_Jaguars
+    sources:
+      - url: https://www.wikidata.org/wiki/Q272223
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jakarta-intercultural-school
+    type: org
+    name: Jakarta Intercultural School
+    names:
+      zh: 雅加達國際學校
+      en: Jakarta Intercultural School
+    orgType: school
+    country:
+      - ID
+    sectors:
+      - other
+    tier: 4
+    summary: private international school in Jakarta, Indonesia
+    ids:
+      wikidata: Q6124478
+    links:
+      - https://en.wikipedia.org/wiki/Jakarta_Intercultural_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6124478
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: james-madison-high-school
+    type: org
+    name: James Madison High School
+    names:
+      zh: 詹姆斯·麥迪遜高中（紐約）
+      en: James Madison High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public high school in Brooklyn, New York
+    ids:
+      wikidata: Q6138769
+    links:
+      - https://en.wikipedia.org/wiki/James_Madison_High_School_(Brooklyn)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6138769
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jasper-high-school
+    type: org
+    name: Jasper High School
+    names:
+      en: Jasper High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Indiana, United States
+    ids:
+      wikidata: Q6163964
+    links:
+      - https://en.wikipedia.org/wiki/Jasper_High_School_(Indiana)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6163964
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jce-movies-limited
+    type: org
+    name: JCE Movies Limited
+    names:
+      zh: 成龙英皇影业有限公司
+      en: JCE Movies Limited
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: company
+    ids:
+      wikidata: Q1114301
+    links:
+      - https://en.wikipedia.org/wiki/JCE_Movies_Limited
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1114301
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jd-com
+    type: org
+    name: 京东商城
+    names:
+      zh: 京东商城
+      en: JD.com
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中國購物網站
+    ids:
+      wikidata: Q3598926
+    links:
+      - https://en.wikipedia.org/wiki/JD.com
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3598926
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jeffrey-epstein-s-little-black-book
+    type: org
+    name: Jeffrey Epstein's "little black book"
+    names:
+      en: Jeffrey Epstein's "little black book"
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: book of prominent names and contact information belonging to Jeffrey Epstein
+    ids:
+      wikidata: Q73540218
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q73540218
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jeffrey-epstein-s-palm-beach-mansion
+    type: org
+    name: Jeffrey Epstein's Palm Beach mansion
+    names:
+      en: Jeffrey Epstein's Palm Beach mansion
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: house of Jeffrey Epstein is Palm Beach
+    ids:
+      wikidata: Q138018568
+    links:
+      - https://en.wikipedia.org/wiki/Jeffrey_Epstein's_Palm_Beach_mansion
+    sources:
+      - url: https://www.wikidata.org/wiki/Q138018568
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jeffrey-epstein-vi-foundation
+    type: org
+    name: Jeffrey Epstein VI Foundation
+    names:
+      zh: 杰弗里·爱泼斯坦VI基金会
+      en: Jeffrey Epstein VI Foundation
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private foundation
+    ids:
+      wikidata: Q16997674
+    links:
+      - https://en.wikipedia.org/wiki/Jeffrey_Epstein_VI_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16997674
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jersey-mike-s-subs
+    type: org
+    name: Jersey Mike's Subs
+    names:
+      zh: Jersey Mike's Subs
+      en: Jersey Mike's Subs
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: American chain of sub shops
+    ids:
+      wikidata: Q6184897
+    links:
+      - https://en.wikipedia.org/wiki/Jersey_Mike's_Subs
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6184897
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jet-com
+    type: org
+    name: Jet.com
+    names:
+      en: Jet.com
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American e-commerce company
+    ids:
+      wikidata: Q22079907
+    links:
+      - https://en.wikipedia.org/wiki/Jet.com
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22079907
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jg-summit-holdings
+    type: org
+    name: JG Summit Holdings
+    names:
+      zh: JG顶峰控股公司
+      en: JG Summit Holdings
+    orgType: other
+    country:
+      - PH
+    sectors:
+      - other
+    tier: 4
+    summary: Philippine real estate conglomerate
+    ids:
+      wikidata: Q6108205
+    links:
+      - https://en.wikipedia.org/wiki/JG_Summit_Holdings
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6108205
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jiangxi-university-of-science-and-technology
+    type: org
+    name: 江西理工大学
+    names:
+      zh: 江西理工大学
+      en: Jiangxi University of Science and Technology
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于中国江西的理工类大学
+    ids:
+      wikidata: Q6191782
+    links:
+      - https://en.wikipedia.org/wiki/Jiangxi_University_of_Science_and_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6191782
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jigsaw
+    type: org
+    name: Jigsaw
+    names:
+      zh: Jigsaw
+      en: Jigsaw
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: technology incubator operated by Alphabet
+    ids:
+      wikidata: Q5583845
+    links:
+      - https://en.wikipedia.org/wiki/Jigsaw_(company)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5583845
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jilin-provincial-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党吉林省委员会
+    names:
+      zh: 中国共产党吉林省委员会
+      en: Jilin Provincial Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 第十二届委员会（2022年6月起）
+    ids:
+      wikidata: Q10873190
+    links:
+      - https://en.wikipedia.org/wiki/Jilin_Provincial_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873190
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jilin-university
+    type: org
+    name: 吉林大学
+    names:
+      zh: 吉林大学
+      en: Jilin University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 位于吉林长春的公立大学
+    ids:
+      wikidata: Q1432030
+    links:
+      - https://en.wikipedia.org/wiki/Jilin_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1432030
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jilin-university-of-technology
+    type: org
+    name: 吉林工业大学
+    names:
+      zh: 吉林工业大学
+      en: Jilin University of Technology
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国吉林省历史上大学（1954—2000）
+    ids:
+      wikidata: Q10917222
+    links:
+      - https://en.wikipedia.org/wiki/Jilin_University_of_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10917222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jimmy-wales-foundation
+    type: org
+    name: Jimmy Wales Foundation
+    names:
+      en: Jimmy Wales Foundation
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 4
+    summary: non-profit organization for freedom of expression
+    ids:
+      wikidata: Q20006792
+    links:
+      - https://en.wikipedia.org/wiki/Jimmy_Wales_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20006792
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jinan-university
+    type: org
+    name: 暨南大学
+    names:
+      zh: 暨南大学
+      en: Jinan University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 直属中共中央统战部管理的双一流综合性大学
+    ids:
+      wikidata: Q2687517
+    links:
+      - https://en.wikipedia.org/wiki/Jinan_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2687517
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jiostar
+    type: org
+    name: JioStar
+    names:
+      zh: 迪士尼星空
+      en: JioStar
+    orgType: company
+    country:
+      - IN
+    sectors:
+      - business
+    tier: 3
+    summary: Indian company
+    ids:
+      wikidata: Q5919785
+    links:
+      - https://en.wikipedia.org/wiki/Disney_Star
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5919785
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: joe-biden-administration-cabinet
+    type: org
+    name: Joe Biden Administration cabinet
+    names:
+      zh: 乔·拜登内阁
+      en: Joe Biden Administration cabinet
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 第46任美国总统政府内阁
+    ids:
+      wikidata: Q101250904
+    links:
+      - https://en.wikipedia.org/wiki/Cabinet_of_Joe_Biden
+    sources:
+      - url: https://www.wikidata.org/wiki/Q101250904
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: joe-gibbs-racing
+    type: org
+    name: Joe Gibbs Racing
+    names:
+      zh: 喬·吉布斯車隊
+      en: Joe Gibbs Racing
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: NASCAR racing team
+    ids:
+      wikidata: Q1691437
+    links:
+      - https://en.wikipedia.org/wiki/Joe_Gibbs_Racing
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1691437
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: john-f-kennedy-center-for-the-performing-arts
+    type: org
+    name: John F. Kennedy Center for the Performing Arts
+    names:
+      zh: 约翰·肯尼迪表演艺术中心
+      en: John F. Kennedy Center for the Performing Arts
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 位于美国华盛顿特区的演艺中心
+    ids:
+      wikidata: Q1631981
+    links:
+      - https://en.wikipedia.org/wiki/Kennedy_Center
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1631981
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: john-f-kennedy-school-of-government
+    type: org
+    name: John F. Kennedy School of Government
+    names:
+      zh: 约翰·F·肯尼迪政府学院
+      en: John F. Kennedy School of Government
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 学校
+    ids:
+      wikidata: Q49127
+    links:
+      - https://en.wikipedia.org/wiki/Harvard_Kennedy_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49127
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: johns-hopkins-center-for-talented-youth
+    type: org
+    name: Johns Hopkins Center for Talented Youth
+    names:
+      en: Johns Hopkins Center for Talented Youth
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: gifted education program
+    ids:
+      wikidata: Q5059890
+    links:
+      - https://en.wikipedia.org/wiki/Center_for_Talented_Youth
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5059890
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: johns-hopkins-university
+    type: org
+    name: Johns Hopkins University
+    names:
+      zh: 约翰·霍普金斯大学
+      en: Johns Hopkins University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 2
+    summary: 美國馬里蘭州巴爾的摩的大學
+    ids:
+      wikidata: Q193727
+    links:
+      - https://en.wikipedia.org/wiki/Johns_Hopkins_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193727
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: joint-forces-staff-college
+    type: org
+    name: Joint Forces Staff College
+    names:
+      zh: 联合部队参谋学院
+      en: Joint Forces Staff College
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: military postgraduate school
+    ids:
+      wikidata: Q6269212
+    links:
+      - https://en.wikipedia.org/wiki/Joint_Forces_Staff_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6269212
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jonathan-edwards-college
+    type: org
+    name: Jonathan Edwards College
+    names:
+      zh: 乔纳森·爱德华兹学院
+      en: Jonathan Edwards College
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: residential College at Yale University
+    ids:
+      wikidata: Q6273029
+    links:
+      - https://en.wikipedia.org/wiki/Jonathan_Edwards_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6273029
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: joseph-a-craig-high-school
+    type: org
+    name: Joseph A. Craig High School
+    names:
+      en: Joseph A. Craig High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Janesville, Wisconsin, United States
+    ids:
+      wikidata: Q6280779
+    links:
+      - https://en.wikipedia.org/wiki/Joseph_A._Craig_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6280779
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jpmorgan-chase
+    type: org
+    name: JPMorgan Chase
+    names:
+      zh: 摩根大通
+      en: JPMorgan Chase
+    orgType: bank
+    country:
+      - US
+    sectors:
+      - finance
+    tier: 3
+    summary: 美国跨国银行和金融服务控股公司
+    ids:
+      wikidata: Q192314
+    links:
+      - https://en.wikipedia.org/wiki/JPMorgan_Chase
+    sources:
+      - url: https://www.wikidata.org/wiki/Q192314
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ju-shi-tie
+    type: org
+    name: 局事帖
+    names:
+      zh: 局事帖
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q113446101
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q113446101
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: judicial-conference-of-the-united-states
+    type: org
+    name: Judicial Conference of the United States
+    names:
+      zh: 美國司法會議
+      en: Judicial Conference of the United States
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: United States senior judicial commission that frames policy guidelines for administration of judicial courts
+    ids:
+      wikidata: Q6302865
+    links:
+      - https://en.wikipedia.org/wiki/Judicial_Conference_of_the_United_States
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6302865
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: juilliard-school
+    type: org
+    name: Juilliard School
+    names:
+      zh: 朱力亚德学院
+      en: Juilliard School
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美國紐約市的表演藝術學院
+    ids:
+      wikidata: Q503246
+    links:
+      - https://en.wikipedia.org/wiki/Juilliard_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q503246
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: jury
+    type: org
+    name: jury
+    names:
+      zh: 陪审制
+      en: jury
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: sworn body of people convened to render a verdict officially submitted to them by a court, or to set a penalty or judgment
+    ids:
+      wikidata: Q837675
+    links:
+      - https://en.wikipedia.org/wiki/Jury
+    sources:
+      - url: https://www.wikidata.org/wiki/Q837675
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: justice-ministry
+    type: org
+    name: justice ministry
+    names:
+      zh: 司法部
+      en: justice ministry
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 政府部门类型
+    ids:
+      wikidata: Q1413677
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_justice
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1413677
+        publisher: Wikidata
+        accessed: 2026-10-11

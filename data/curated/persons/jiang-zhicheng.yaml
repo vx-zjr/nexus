@@ -1,0 +1,20 @@
+id: jiang-zhicheng
+type: person
+name: 江志成
+names:
+  zh: 江志成
+  en: Alvin Jiang
+aliases:
+- Alvin Jiang
+gender: M
+born: '1986'
+country:
+- CN
+sectors:
+- finance
+tier: 3
+summary: 江泽民之孙、江绵恒之子。哈佛毕业后于高盛任职，2010 年参与创办私募博裕资本（Boyu Capital）。
+sources:
+- url: https://en.wikipedia.org/wiki/Boyu_Capital
+  publisher: Wikipedia
+updated: '2026-10-11'

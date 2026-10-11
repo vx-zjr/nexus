@@ -1,0 +1,28 @@
+# 观察名单：近期需要复核/更新的人物与事件。AI 代理在每次迭代开始时先读本文件。
+id: watchlist-2026q4
+kind: watchlist
+name: 2026 年第四季度观察名单
+country: [CN, US]
+summary: |
+  【待办事件】
+  1. 中共二十届五中全会（2026-10-26 至 29）：关注是否增补政治局委员（传胡春华、张升民等）、中央委员的递补与开除（张又侠、刘振立、马兴瑞等的中委资格），
+     以及 2027 年二十一大人事布局。会后更新 cn-politburo-20、ccp-cmc 及相关人物 status/positions。
+  2. 美国 2026 中期选举（2026-11-03）：参众两院控制权、议长与参院多数党领袖；更新 us-congress 相关人物，必要时重跑 `ingest wikidata --preset us-congress`。
+  3. 特朗普内阁持续变动：每月对照 Wikipedia “List of dismissals and resignations in the second Trump administration”。
+  4. 张又侠、刘振立移送军事检察机关后的司法结果；马兴瑞刑事审判。
+  5. 中美经贸与科技：TikTok 合资公司后续、英伟达对华出口许可、长和港口交易（贝莱德/MSC/中远）结局、World Liberty Financial 与孙宇晨诉讼。
+  【数据缺口】
+  - 第二十届中央委员与候补委员已通过 `ingest wikidata --wp-category` 导入基础档案（2026-10-11）；其中落马者的 status 与免职时间需逐一精编。
+  - 美国国会议员的配偶持股/交易（STOCK Act 披露）尚未结构化：可写 House/Senate 披露连接器。
+  - 中国上市公司实控人与高官亲属的股权关系：可接巨潮/港交所披露与国家企业信用信息公示系统。
+core: [xi-jinping, zhang-shengmin, zhang-youxia, liu-zhenli, ma-xingrui, donald-trump, he-lifeng, scott-bessent]
+outer: [ccp-politburo, ccp-cmc, us-house, us-senate, tiktok-usds, ck-hutchison, world-liberty-financial]
+sources:
+  - url: https://www.internazionale.it/ultime-notizie-reuters/2026/09/21/china-s-xi-chairs-politburo-central-committee-plenum-set-for-october-26-29
+    title: "China's Xi chairs Politburo; Central Committee plenum set for October 26-29"
+    publisher: Reuters
+    date: 2026-09-21
+  - url: https://en.wikipedia.org/wiki/List_of_dismissals_and_resignations_in_the_second_Trump_administration
+    publisher: Wikipedia
+tags: [watchlist]
+updated: 2026-10-11

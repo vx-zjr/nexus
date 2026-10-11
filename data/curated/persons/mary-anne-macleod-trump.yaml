@@ -1,0 +1,19 @@
+id: mary-anne-macleod-trump
+type: person
+name: Mary Anne MacLeod Trump
+names:
+  en: Mary Anne MacLeod Trump
+  zh: 玛丽·安·麦克劳德·特朗普
+gender: F
+born: '1912-05-10'
+died: '2000-08-07'
+country:
+- US
+sectors:
+- family
+tier: 5
+summary: Donald Trump 之母，苏格兰移民。
+sources:
+- url: https://en.wikipedia.org/wiki/Family_of_Donald_Trump
+  publisher: Wikipedia
+updated: '2026-10-11'

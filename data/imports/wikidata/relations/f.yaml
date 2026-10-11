@@ -1,0 +1,764 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+relations:
+  - from: fan-jin-1919
+    to: yu-zhengsheng
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115671
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-wisner
+    to: frank-g-wisner
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q981007
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-g-wisner
+    to: david-wisner
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q981007
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-g-wisner
+    to: genevieve-du-fresne-de-virel
+    type: spouse
+    since: 1969-07-02
+    sources:
+      - url: https://www.wikidata.org/wiki/Q981007
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-g-wisner
+    to: thierry-de-ganay
+    type: in-law
+    label: brother-in-law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q981007
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-g-wisner
+    to: olivier-sarkozy
+    type: relative
+    label: 繼子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q981007
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fred-trump
+    to: donald-trump
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22686
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-murkowski
+    to: lisa-murkowski
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22360
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fatima-a-c-h-devolder
+    to: george-santos
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115170395
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-mrvan
+    to: frank-j-mrvan
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96077897
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: francis-tien
+    to: michael-tien
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q80332
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fernando-chui
+    to: chui-sai-cheong
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q222441
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fung-hon-chu
+    to: victor-fung
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557256
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fan-chengxiu
+    to: gu-kailai
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2499132
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: francis-tien
+    to: tien-pei-chun-james
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4368021
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fung-hon-chu
+    to: william-fung
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8009484
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frederik-meijer
+    to: doug-meijer
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18763617
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frederik-meijer
+    to: hank-meijer
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18763618
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: forrest-mars
+    to: victoria-b-mars
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19893317
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fred-chase-koch
+    to: charles-koch
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1066551
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fred-chase-koch
+    to: david-koch
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1174641
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: forrest-mars-1904
+    to: jacqueline-mars
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q463398
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: forrest-mars-1904
+    to: john-franklyn-mars
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1278705
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-pattee
+    to: erin-brockovich
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q232019
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: felix-browder
+    to: bill-browder
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q377538
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-murkowski
+    to: lisa-murkowski
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q448813
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fred-trump-jr
+    to: mary-l-trump
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96475328
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-g-wisner
+    to: princeton-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q981007
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: f-whitten-peters
+    to: the-catholic-university-of-america
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5424107
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: f-whitten-peters
+    to: harvard-law-school
+    type: alumni
+    label: Juris Doctor
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5424107
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: f-whitten-peters
+    to: london-school-of-economics-and-political-science
+    type: alumni
+    label: Master of Science
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5424107
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: f-whitten-peters
+    to: harvard-college
+    type: alumni
+    label: Bachelor of Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5424107
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-kendall-iii
+    to: united-states-military-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5487663
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-carlucci
+    to: office-of-economic-opportunity
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q518861
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-carlucci
+    to: united-states-department-of-defense
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q518861
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-carlucci
+    to: central-intelligence-agency
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q518861
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-carlucci
+    to: harvard-business-school
+    type: alumni
+    label: Master of Business Administration
+    since: "1954"
+    until: "1955"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q518861
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-carlucci
+    to: princeton-school-of-public-and-international-affairs
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q518861
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-carlucci
+    to: princeton-university
+    type: alumni
+    until: "1952"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q518861
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-carlucci
+    to: harvard-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q518861
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-carlucci
+    to: wyoming-seminary
+    type: alumni
+    until: "1948"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q518861
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-kelso
+    to: united-states-naval-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q464685
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-kelso
+    to: sewanee-the-university-of-the-south
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q464685
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: federico-pena
+    to: saint-joseph-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1400546
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: federico-pena
+    to: university-of-texas-school-of-law
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1400546
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: francis-j-harvey
+    to: university-of-notre-dame
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1294838
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: francis-collins
+    to: united-states-national-institutes-of-health
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q336658
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: francis-collins
+    to: biologos-foundation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q336658
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: francis-collins
+    to: united-states-national-institutes-of-health
+    type: position
+    label: 任职
+    since: "1993"
+    until: "2025"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q336658
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: francis-collins
+    to: university-of-michigan
+    type: position
+    label: 任职
+    since: "1984"
+    until: "1993"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q336658
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: francis-collins
+    to: yale-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q336658
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: francis-collins
+    to: university-of-north-carolina-at-chapel-hill
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q336658
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: francis-collins
+    to: university-of-virginia
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q336658
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: french-hill
+    to: vanderbilt-university
+    type: alumni
+    label: Bachelor of Science
+    until: "1979"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18631366
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: french-hill
+    to: secondary-school
+    type: alumni
+    until: "1975"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18631366
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-lucas
+    to: united-states-house-committee-on-science-space-and-technology
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q246049
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-lucas
+    to: oklahoma-state-university
+    type: alumni
+    label: Bachelor of Science
+    until: "1982"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q246049
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: filemon-vela
+    to: university-of-texas-at-austin
+    type: alumni
+    label: Juris Doctor
+    until: "1987"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4069225
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: filemon-vela
+    to: georgetown-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1985"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4069225
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: filemon-vela
+    to: university-of-texas-school-of-law
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4069225
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: filemon-vela
+    to: saint-joseph-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4069225
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frederica-wilson
+    to: fisk-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1963"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461504
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frederica-wilson
+    to: university-of-miami
+    type: alumni
+    label: Master of Arts
+    until: "1972"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461504
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fred-upton
+    to: university-of-michigan
+    type: alumni
+    label: Bachelor of Arts
+    until: "1975"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q505236
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fred-upton
+    to: shattuck-saint-mary-s-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q505236
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-pallone
+    to: middlebury-college
+    type: alumni
+    label: Bachelor of Arts
+    until: "1973"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q965289
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-pallone
+    to: the-fletcher-school-of-law-and-diplomacy
+    type: alumni
+    label: Master of Arts
+    until: "1974"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q965289
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: feng-fei
+    to: tianjin-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28411600
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fu-hua
+    to: renmin-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q51884838
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fei-dongbin
+    to: central-south-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9346998
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fei-dongbin
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9346998
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fei-gaoyun
+    to: nanjing-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16075917
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fang-yongxiang
+    to: pla-national-defence-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30943903
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fu-wenhua
+    to: pla-national-defence-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47666577
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fang-hongwei
+    to: northwestern-polytechnical-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97348479
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fang-hongwei
+    to: chang-an-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97348479
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fang-hongwei
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97348479
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fernando-chui
+    to: california-state-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q222441
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fernando-chui
+    to: university-of-oklahoma
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q222441
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fu-chengyu
+    to: northeastern-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1412982
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fu-chengyu
+    to: cheung-kong-graduate-school-of-business
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1412982
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: forrest-li
+    to: sea-ltd
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q61974364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: forrest-li
+    to: garena
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q61974364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: forrest-li
+    to: sea-ltd
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q61974364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: forrest-li
+    to: stanford-graduate-school-of-business
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q61974364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: forrest-li
+    to: stanford-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q61974364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: forrest-li
+    to: shanghai-jiao-tong-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q61974364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fernando-de-leon
+    to: harvard-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q133821108
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fatih-ozmen
+    to: sierra-space
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17510160
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fatih-ozmen
+    to: university-of-nevada-reno
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17510160
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-murkowski
+    to: santa-clara-university
+    type: alumni
+    since: "1951"
+    until: "1953"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q448813
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-l-culbertson
+    to: national-aeronautics-and-space-administration
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705636
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-l-culbertson
+    to: united-states-naval-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705636
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: frank-l-culbertson
+    to: united-states-naval-test-pilot-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705636
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fidji-simo
+    to: instacart
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q64853019
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fidji-simo
+    to: openai
+    type: position
+    label: 任职
+    since: 2025-05-01
+    until: 2026-07-01
+    sources:
+      - url: https://www.wikidata.org/wiki/Q64853019
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fidji-simo
+    to: instacart
+    type: position
+    label: 任职
+    since: "2021"
+    until: "2025"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q64853019
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fidji-simo
+    to: facebook
+    type: position
+    label: 任职
+    since: "2011"
+    until: "2021"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q64853019
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fidji-simo
+    to: ebay
+    type: position
+    label: 任职
+    since: "2006"
+    until: "2011"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q64853019
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: fidji-simo
+    to: university-of-california-los-angeles
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q64853019
+        publisher: Wikidata
+        accessed: 2026-10-11

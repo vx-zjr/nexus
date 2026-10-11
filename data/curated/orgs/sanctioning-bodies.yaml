@@ -1,0 +1,30 @@
+entities:
+- id: us-treasury-ofac
+  type: org
+  name: Office of Foreign Assets Control
+  names:
+    zh: 美国财政部外国资产控制办公室
+  aliases:
+  - OFAC
+  orgType: government
+  country: US
+  sectors:
+  - security
+  - finance
+  tier: 2
+  ids:
+    wikidata: Q1620015
+- id: prc-mfa
+  type: org
+  name: 中华人民共和国外交部
+  names:
+    zh: 中华人民共和国外交部
+    en: Ministry of Foreign Affairs of the PRC
+  orgType: government
+  country: CN
+  sectors:
+  - diplomacy
+  tier: 2
+  parent: state-council-prc
+  ids:
+    wikidata: Q1155502

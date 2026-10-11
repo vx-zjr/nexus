@@ -1,0 +1,21 @@
+id: joe-tsai
+type: person
+name: 蔡崇信
+names:
+  en: 蔡崇信
+  zh: Joe Tsai
+gender: M
+born: '1964-01-17'
+country:
+- CN
+- CA
+- TW
+sectors:
+- business
+- finance
+tier: 2
+summary: 阿里巴巴联合创始人、董事长（2023–）；布鲁克林篮网队老板。
+sources:
+- url: https://en.wikipedia.org/wiki/Joe_Tsai
+  publisher: Wikipedia
+updated: '2026-10-11'

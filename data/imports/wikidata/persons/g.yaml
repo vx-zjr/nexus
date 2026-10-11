@@ -1,0 +1,5440 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: g-k-butterfield
+    type: person
+    name: G. K. Butterfield
+    names:
+      zh: G·K·巴特费尔德
+      en: G. K. Butterfield
+    gender: M
+    born: 1947-04-27
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American politician (born 1947)
+    ids:
+      wikidata: Q983532
+    links:
+      - https://en.wikipedia.org/wiki/G._K._Butterfield
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q983532
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 法官
+        from: "2001"
+        to: "2002"
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2004-07-21
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: Chair of the Congressional Black Caucus
+        org: congressional-black-caucus
+        from: "2015"
+        to: "2017"
+  - id: g-scott-romney
+    type: person
+    name: G. Scott Romney
+    names:
+      en: G. Scott Romney
+    gender: M
+    born: 1941-06-07
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American Republican politician and lawyer
+    ids:
+      wikidata: Q2732835
+    links:
+      - https://en.wikipedia.org/wiki/Scott_Romney
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2732835
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gabby-giffords
+    type: person
+    name: Gabby Giffords
+    names:
+      zh: 嘉贝丽·吉佛斯
+      en: Gabby Giffords
+    gender: F
+    born: 1970-06-08
+    country:
+      - US
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: 美國政治家
+    ids:
+      wikidata: Q193703
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B8%83%E4%B8%BD%E5%9F%83%E5%B0%94%C2%B7%E5%90%89%E7%A6%8F%E5%85%B9
+      - https://en.wikipedia.org/wiki/Gabby_Giffords
+    tags:
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 51
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193703
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 亞利桑那州眾議員
+        org: arizona-house-of-representatives
+        from: "2001"
+        to: "2003"
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-03
+        to: 2012-01-25
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2012-01-25
+      - title: 亞利桑那州參議員
+        org: arizona-senate
+        from: "2003"
+        to: "2005"
+  - id: gabe-amo
+    type: person
+    name: Gabe Amo
+    names:
+      zh: 蓋伯·阿莫
+      en: Gabe Amo
+    gender: M
+    born: 1987-12-11
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q118901875
+    links:
+      - https://en.wikipedia.org/wiki/Gabe_Amo
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q118901875
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-11-07
+        to: 2025-01-03
+  - id: gabe-evans
+    type: person
+    name: Gabe Evans
+    names:
+      zh: 盖布·埃文斯
+      en: Gabe Evans
+    gender: M
+    born: 1986-07-28
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q115458993
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%9B%96%E5%B8%83%C2%B7%E5%9F%83%E6%96%87%E6%96%AF
+      - https://en.wikipedia.org/wiki/Gabe_Evans
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115458993
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 科羅拉多州眾議員
+        org: colorado-house-of-representatives
+        from: 2023-01-09
+        to: 2025-01-02
+  - id: gabe-newell
+    type: person
+    name: Gabe Newell
+    names:
+      zh: 加布·纽维尔
+      en: Gabe Newell
+    gender: M
+    born: 1962-11-03
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 3
+    summary: American computer programmer and businessman
+    netWorth:
+      usd: 9500000000
+    ids:
+      wikidata: Q347418
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B8%83%C2%B7%E7%BA%BD%E7%BB%B4%E5%B0%94
+      - https://en.wikipedia.org/wiki/Gabe_Newell
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 61
+    sources:
+      - url: https://www.wikidata.org/wiki/Q347418
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 会长
+        org: organization
+        from: "1996"
+  - id: gabe-vasquez
+    type: person
+    name: Gabe Vasquez
+    names:
+      zh: 加布·瓦斯奎兹
+      en: Gabe Vasquez
+    gender: M
+    born: 1984-08-03
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1984)
+    ids:
+      wikidata: Q115155647
+    links:
+      - https://en.wikipedia.org/wiki/Gabe_Vasquez
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115155647
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 地方議會議員
+        org: city-council
+        from: 2017-11-01
+        to: 2021-12-01
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: gabriel-bankman-fried
+    type: person
+    name: Gabriel Bankman-Fried
+    names:
+      en: Gabriel Bankman-Fried
+    gender: M
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: brother of Sam Bankman-Fried
+    ids:
+      wikidata: Q115770565
+    links:
+      - https://en.wikipedia.org/wiki/Gabriel_Bankman-Fried
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115770565
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gabriel-ocasio-cortez
+    type: person
+    name: Gabriel Ocasio-Cortez
+    names:
+      en: Gabriel Ocasio-Cortez
+    gender: M
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: American activist and advocate
+    ids:
+      wikidata: Q140782834
+    links:
+      - https://en.wikipedia.org/wiki/Gabriel_Ocasio-Cortez
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q140782834
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gale-norton
+    type: person
+    name: Gale Norton
+    names:
+      zh: 盖尔·诺顿
+      en: Gale Norton
+    gender: F
+    born: 1954-03-11
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: U.S. politician and former Secretary of the Interior
+    ids:
+      wikidata: Q271717
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%9B%96%E5%B0%94%C2%B7%E8%AF%BA%E9%A1%BF
+      - https://en.wikipedia.org/wiki/Gale_Norton
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q271717
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國內政部長
+        org: united-states-department-of-the-interior
+        from: 2001-01-31
+        to: 2006-03-31
+      - title: Colorado Attorney General
+        from: 1991-01-08
+        to: 1999-01-12
+  - id: gan-wei
+    type: person
+    name: 甘薇
+    names:
+      zh: 甘薇
+      en: Gan Wei
+    gender: F
+    born: 1984-05-21
+    country:
+      - CN
+    sectors:
+      - culture
+    tier: 5
+    summary: 中国演员
+    ids:
+      wikidata: Q15921579
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%94%98%E8%96%87
+      - https://en.wikipedia.org/wiki/Gan_Wei
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15921579
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gao-chunxiang
+    type: person
+    name: 高春翔
+    names:
+      zh: 高春翔
+    gender: M
+    born: "1944"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8317587
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AB%98%E6%98%A5%E7%BF%94
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317587
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: gao-donglu
+    type: person
+    name: 高东璐
+    names:
+      zh: 高东璐
+    gender: M
+    born: 1954-03-01
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8317558
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AB%98%E4%B8%9C%E7%92%90
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317558
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gao-hucheng
+    type: person
+    name: 高虎城
+    names:
+      zh: 高虎城
+      en: Gao Hucheng
+    gender: M
+    born: 1951-08-01
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: Commerce Minister of China
+    ids:
+      wikidata: Q8293820
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AB%98%E8%99%8E%E5%9F%8E
+      - https://en.wikipedia.org/wiki/Gao_Hucheng
+    tags:
+      - cn-business
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8293820
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gao-jianguo
+    type: person
+    name: 高建国
+    names:
+      zh: 高建国
+      en: Gao Jianguo
+    gender: M
+    born: "1954"
+    country:
+      - CN
+    sectors:
+      - military
+      - culture
+    tier: 4
+    summary: 中国人民解放军中将
+    ids:
+      wikidata: Q8314607
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AB%98%E5%BB%BA%E5%9B%BD
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8314607
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gao-jianjin
+    type: person
+    name: 高建进
+    names:
+      zh: 高建进
+      en: Gao Jianjin
+    gender: F
+    born: "1950"
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    summary: 中国音乐教育家，李源潮夫人
+    ids:
+      wikidata: Q7301173
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AB%98%E5%BB%BA%E8%BF%9B
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7301173
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gao-jindian
+    type: person
+    name: 高金钿
+    names:
+      zh: 高金钿
+      en: Gao Jindian
+    gender: M
+    born: 1939-10-01
+    died: 2018-12-13
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician (1939-2018)
+    ids:
+      wikidata: Q8317603
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AB%98%E9%87%91%E9%92%BF
+      - https://en.wikipedia.org/wiki/Gao_Jindian
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317603
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gao-shouwei
+    type: person
+    name: 高守维
+    names:
+      zh: 高守维
+    gender: M
+    born: "1948"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8320708
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AB%98%E5%AE%88%E7%BB%B4
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8320708
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: gao-tongsheng
+    type: person
+    name: 高同声
+    names:
+      zh: 高同声
+    gender: M
+    born: "1936"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8317576
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AB%98%E5%90%8C%E5%A3%B0
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317576
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: gao-wusheng
+    type: person
+    name: 高武生
+    names:
+      zh: 高武生
+      en: Gao Wusheng
+    gender: M
+    born: 1947-09-01
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中国人民解放军将领
+    ids:
+      wikidata: Q8317592
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AB%98%E6%AD%A6%E7%94%9F
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317592
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gao-xiang
+    type: person
+    name: 高翔
+    names:
+      zh: 高翔
+      en: Gao Xiang
+    gender: M
+    born: 1963-10-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国社会科学院院长
+    ids:
+      wikidata: Q47674387
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AB%98%E7%BF%94_(1963%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Gao_Xiang_(historian)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47674387
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国社会科学院院长
+        org: chinese-academy-of-social-sciences
+        from: 2022-12-28
+  - id: gao-zhidan
+    type: person
+    name: 高志丹
+    names:
+      zh: 高志丹
+      en: Gao Zhidan
+    gender: M
+    born: 1963-01-24
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共第二十届中央委员，国家体育总局局长、党组书记
+    ids:
+      wikidata: Q104723799
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AB%98%E5%BF%97%E4%B8%B9
+      - https://en.wikipedia.org/wiki/Gao_Zhidan
+    tags:
+      - cn-ministers
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104723799
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 国家体育总局局长
+        from: 2022-07-01
+  - id: gao-zhongxing
+    type: person
+    name: 高中兴
+    names:
+      zh: 高中兴
+      en: Gao Zhongxing
+    gender: M
+    born: "1943"
+    died: 2021-12-22
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中国人民解放军中将
+    ids:
+      wikidata: Q8291637
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AB%98%E4%B8%AD%E5%85%B4
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8291637
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: garma-cedain
+    type: person
+    name: 嘎玛泽登
+    names:
+      zh: 嘎玛泽登
+      en: Garma Cedain
+    gender: M
+    born: 1967-12-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共西藏自治区党委副书记、西藏自治区人民政府主席
+    ids:
+      wikidata: Q110405026
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%98%8E%E7%8E%9B%E6%B3%BD%E7%99%BB
+      - https://en.wikipedia.org/wiki/Garma_Cedain
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110405026
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: garret-graves
+    type: person
+    name: Garret Graves
+    names:
+      zh: 加雷特·格拉維斯
+      en: Garret Graves
+    gender: M
+    born: 1972-01-31
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q18686454
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%8B%92%E7%89%B9%C2%B7%E6%A0%BC%E9%9B%B7%E5%A4%AB%E6%96%AF
+      - https://en.wikipedia.org/wiki/Garret_Graves
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18686454
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: "2008"
+        to: 2014-02-05
+      - title: 副主席
+      - title: 理事
+        org: board-of-directors
+        from: "2023"
+        to: "2025"
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: garrett-reisman
+    type: person
+    name: Garrett Reisman
+    names:
+      zh: 加勒特·赖斯曼
+      en: Garrett Reisman
+    gender: M
+    born: 1968-02-10
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: American astronaut
+    ids:
+      wikidata: Q358931
+    links:
+      - https://en.wikipedia.org/wiki/Garrett_Reisman
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q358931
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gary-e-jacobs
+    type: person
+    name: Gary E. Jacobs
+    names:
+      zh: 蓋瑞·E·雅各布
+      en: Gary E. Jacobs
+    gender: M
+    born: "1958"
+    country: []
+    sectors:
+      - sports
+    tier: 5
+    summary: American businessman
+    ids:
+      wikidata: Q37072404
+    links:
+      - https://en.wikipedia.org/wiki/Gary_E._Jacobs
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q37072404
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gary-frederick-lutnick
+    type: person
+    name: Gary Frederick Lutnick
+    names:
+      zh: 加里·卢特尼克
+      en: Gary Frederick Lutnick
+    gender: M
+    born: 1964-11-03
+    died: 2001-09-11
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American businessperson, victim of the September 11 attacks in the World Trade Center
+    ids:
+      wikidata: Q114801347
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q114801347
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gary-gygax
+    type: person
+    name: Gary Gygax
+    names:
+      zh: 加里·吉盖克斯
+      en: Gary Gygax
+    gender: M
+    born: 1938-07-27
+    died: 2008-03-04
+    country:
+      - US
+    sectors:
+      - business
+      - culture
+    tier: 4
+    summary: 美国游戏设计师
+    ids:
+      wikidata: Q1379
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8A%A0%E9%87%8C%C2%B7%E5%90%89%E7%9B%96%E5%85%8B%E6%96%AF
+      - https://en.wikipedia.org/wiki/Gary_Gygax
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 36
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1379
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gary-herbert
+    type: person
+    name: Gary Herbert
+    names:
+      zh: 加里·赫伯特
+      en: Gary Herbert
+    gender: M
+    born: 1947-05-07
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 美國政治人物
+    ids:
+      wikidata: Q881188
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8A%A0%E9%87%8C%C2%B7%E8%B5%AB%E4%BC%AF%E7%89%B9_(%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)
+      - https://en.wikipedia.org/wiki/Gary_Herbert
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q881188
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 犹他州副州长
+      - title: Governor of Utah
+        org: state-of-utah
+        from: 2009-08-11
+        to: 2021-01-04
+  - id: gary-johnson
+    type: person
+    name: Gary Johnson
+    names:
+      zh: 蓋瑞·強生
+      en: Gary Johnson
+    gender: M
+    born: "1953"
+    country:
+      - US
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: 美国的政治家和商人
+    ids:
+      wikidata: Q352123
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8A%A0%E9%87%8C%C2%B7%E7%B4%84%E7%BF%B0%E9%81%9C
+      - https://en.wikipedia.org/wiki/Gary_Johnson
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 37
+    sources:
+      - url: https://www.wikidata.org/wiki/Q352123
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 新墨西哥州州長
+        org: state-of-new-mexico
+        from: "1995"
+        to: "2003"
+  - id: gary-kildall
+    type: person
+    name: Gary Kildall
+    names:
+      zh: 加里·基尔多尔
+      en: Gary Kildall
+    gender: M
+    born: 1942-05-19
+    died: 1994-07-11
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+      - academia
+    tier: 4
+    summary: 美国计算机科学家（1942—1994）
+    ids:
+      wikidata: Q92627
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%93%8B%E7%91%9E%C2%B7%E5%9F%BA%E7%88%BE%E5%A4%9A
+      - https://en.wikipedia.org/wiki/Gary_Kildall
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 36
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92627
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gary-locke
+    type: person
+    name: Gary Locke
+    names:
+      zh: 骆家辉
+      en: Gary Locke
+    gender: M
+    born: 1950-01-21
+    country:
+      - US
+    sectors:
+      - politics
+      - diplomacy
+    tier: 2
+    summary: 美國華人政治家和律師
+    ids:
+      wikidata: Q350378
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AA%86%E5%AE%B6%E8%BE%89
+      - https://en.wikipedia.org/wiki/Gary_Locke
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 28
+    sources:
+      - url: https://www.wikidata.org/wiki/Q350378
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 华盛顿州州长
+        org: state-of-washington
+        from: 1997-01-15
+        to: 2005-01-12
+      - title: 美國駐華大使
+        org: embassy-of-the-united-states-beijing
+        from: 2011-08-01
+        to: 2014-02-21
+      - title: 美國商務部長
+        org: united-states-department-of-commerce
+        from: 2009-03-26
+        to: 2011-08-01
+  - id: gary-palmer
+    type: person
+    name: Gary Palmer
+    names:
+      zh: 加里·帕爾默
+      en: Gary Palmer
+    gender: M
+    born: 1954-05-14
+    country:
+      - US
+    sectors:
+      - politics
+      - tech
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q17386504
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8A%A0%E9%87%8C%C2%B7%E5%B8%95%E7%88%BE%E9%BB%98_(%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)
+      - https://en.wikipedia.org/wiki/Gary_Palmer
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17386504
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: gary-peters
+    type: person
+    name: Gary Peters
+    names:
+      zh: 加里·彼得斯
+      en: Gary Peters
+    gender: M
+    born: 1958-12-01
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+      - academia
+    tier: 3
+    summary: American politician and naval officer (born 1958)
+    ids:
+      wikidata: Q1494930
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8A%A0%E9%87%8C%C2%B7%E5%BD%BC%E5%BE%97%E6%96%AF
+      - https://en.wikipedia.org/wiki/Gary_Peters
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494930
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 地方議會議員
+        org: city-council
+        from: "1991"
+        to: "1993"
+      - title: 理事
+        org: board-of-directors
+        from: "2023"
+        to: "2027"
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 密歇根州參議員
+        org: michigan-senate
+        from: "1995"
+        to: "2002"
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+  - id: gavin-newsom
+    type: person
+    name: Gavin Newsom
+    names:
+      zh: 加文·纽瑟姆
+      en: Gavin Newsom
+    gender: M
+    born: 1967-10-10
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - business
+    tier: 3
+    summary: 第40任加利福尼亚州州长
+    ids:
+      wikidata: Q461391
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8A%A0%E6%96%87%C2%B7%E7%BA%BD%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Gavin_Newsom
+    tags:
+      - us-governors
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 58
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461391
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 旧金山市长
+        org: city-and-county-of-san-francisco
+        from: 2004-01-08
+        to: 2011-01-10
+      - title: 加利福尼亞州州長
+        org: state-of-california
+        from: 2019-01-07
+      - title: 加利福尼亞州副州長
+        from: 2011-01-10
+        to: 2019-01-17
+  - id: gayle-benson
+    type: person
+    name: Gayle Benson
+    names:
+      zh: 蓋爾·班森
+      en: Gayle Benson
+    gender: F
+    born: 1947-01-26
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American businesswoman and sports executive (born 1947)
+    netWorth:
+      usd: 7900000000
+    ids:
+      wikidata: Q53976393
+    links:
+      - https://en.wikipedia.org/wiki/Gayle_Benson
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53976393
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gayle-conelly-manchin
+    type: person
+    name: Gayle Conelly Manchin
+    names:
+      zh: 蓋爾·康尼·曼欽
+      en: Gayle Conelly Manchin
+    gender: F
+    born: 1947-06-20
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: American educator
+    ids:
+      wikidata: Q5528787
+    links:
+      - https://en.wikipedia.org/wiki/Gayle_Conelly_Manchin
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5528787
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gayle-cook
+    type: person
+    name: Gayle Cook
+    names:
+      en: Gayle Cook
+    gender: F
+    born: 1934-03-01
+    died: 2025-08-17
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businesswoman (1934–2025)
+    ids:
+      wikidata: Q18685496
+    links:
+      - https://en.wikipedia.org/wiki/Gayle_Cook
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18685496
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ge-dongsheng
+    type: person
+    name: 葛东升
+    names:
+      zh: 葛东升
+    gender: M
+    born: "1946"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8291598
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%91%9B%E4%B8%9C%E5%8D%87
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8291598
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: ge-huanbiao
+    type: person
+    name: 葛焕标
+    names:
+      zh: 葛焕标
+    gender: M
+    born: "1936"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8317116
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%91%9B%E7%84%95%E6%A0%87
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317116
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ge-qiaohong
+    type: person
+    name: 葛巧红
+    names:
+      zh: 葛巧红
+      en: Ge Qiaohong
+    gender: F
+    born: 1970-07-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共河北省委常委、组织部部长
+    ids:
+      wikidata: Q110405846
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%91%9B%E5%B7%A7%E7%BA%A2
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110405846
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gene-mullin
+    type: person
+    name: Gene Mullin
+    names:
+      en: Gene Mullin
+    gender: M
+    born: 1937-04-21
+    died: 2021-04-05
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: American politician (1937-2021)
+    ids:
+      wikidata: Q5531363
+    links:
+      - https://en.wikipedia.org/wiki/Gene_Mullin
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5531363
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+  - id: genevieve-du-fresne-de-virel
+    type: person
+    name: Geneviève du Fresne de Virel
+    names:
+      en: Geneviève du Fresne de Virel
+    gender: F
+    born: 1941-08-15
+    died: 1974-12-10
+    country: []
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q131360319
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q131360319
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: genrin-ko
+    type: person
+    name: 胡彦林
+    names:
+      zh: 胡彦林
+      en: Genrin Ko
+    gender: M
+    born: 1942-07-01
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 2
+    ids:
+      wikidata: Q8314305
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E5%BD%A6%E6%9E%97
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8314305
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国人民代表大会常务委员会委员
+        org: npc-standing-committee
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: george-akerlof
+    type: person
+    name: George Akerlof
+    names:
+      zh: 乔治·阿克洛夫
+      en: George Akerlof
+    gender: M
+    born: 1940-06-17
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国经济学家
+    ids:
+      wikidata: Q222541
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E9%98%BF%E5%85%8B%E6%B4%9B%E5%A4%AB
+      - https://en.wikipedia.org/wiki/George_Akerlof
+    tags:
+      - relative
+    attrs:
+      sitelinks: 58
+    sources:
+      - url: https://www.wikidata.org/wiki/Q222541
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 教授
+      - title: 会长
+        org: organization
+  - id: george-friedman
+    type: person
+    name: George Friedman
+    names:
+      zh: 乔治·弗里德曼
+      en: George Friedman
+    gender: M
+    born: 1949-02-01
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美國地緣政治學家
+    ids:
+      wikidata: Q928281
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E6%9B%BC
+      - https://en.wikipedia.org/wiki/George_Friedman
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 29
+    sources:
+      - url: https://www.wikidata.org/wiki/Q928281
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: george-h-w-bush
+    type: person
+    name: George H. W. Bush
+    names:
+      zh: 乔治·赫伯特·沃克·布什
+      en: George H. W. Bush
+    gender: M
+    born: 1924-06-12
+    died: 2018-11-30
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+      - diplomacy
+    tier: 1
+    summary: 美國政治家，美國第41任總統
+    ids:
+      wikidata: Q23505
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E8%B5%AB%E4%BC%AF%E7%89%B9%C2%B7%E6%B2%83%E5%85%8B%C2%B7%E5%B8%83%E4%BB%80
+      - https://en.wikipedia.org/wiki/George_H._W._Bush
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 196
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國副總統
+        org: us-senate
+        from: 1981-01-20
+        to: 1989-01-20
+      - title: 美國總統
+        org: united-states-armed-forces
+        from: 1989-01-20
+        to: 1993-01-20
+      - title: 中央情報總監
+        org: central-intelligence-agency
+        from: 1976-01-30
+        to: 1977-01-20
+      - title: 美国常驻联合国代表列表
+        org: united-states-mission-to-the-united-nations
+        from: 1971-03-01
+        to: 1973-01-18
+      - title: 候任美國總統
+        from: 1988-11-08
+        to: 1989-01-20
+      - title: 美國駐華大使
+        org: embassy-of-the-united-states-beijing
+        from: 1974-09-26
+        to: 1975-12-07
+      - title: 美国众议员
+        org: us-house
+        from: 1967-01-03
+        to: 1971-01-03
+  - id: george-helmy
+    type: person
+    name: George Helmy
+    names:
+      zh: 乔治·赫尔米
+      en: George Helmy
+    gender: M
+    born: 1979-10-27
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 美國政治人物
+    ids:
+      wikidata: Q129127964
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E8%B5%AB%E5%B0%94%E7%B1%B3
+      - https://en.wikipedia.org/wiki/George_Helmy
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q129127964
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2024-08-23
+        to: 2024-12-08
+  - id: george-hickenlooper
+    type: person
+    name: George Hickenlooper
+    names:
+      zh: 喬治·希肯盧珀
+      en: George Hickenlooper
+    gender: M
+    born: 1963-05-25
+    died: 2010-10-29
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 4
+    summary: American film director (1963-2010)
+    ids:
+      wikidata: Q1411603
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%96%AC%E6%B2%BB%C2%B7%E5%B8%8C%E8%82%AF%E7%9B%A7%E7%8F%80
+      - https://en.wikipedia.org/wiki/George_Hickenlooper
+    tags:
+      - relative
+    attrs:
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1411603
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: george-hussein-onyango-obama
+    type: person
+    name: George Hussein Onyango Obama
+    names:
+      en: George Hussein Onyango Obama
+    gender: M
+    born: "1982"
+    country:
+      - KE
+    sectors:
+      - culture
+    tier: 5
+    ids:
+      wikidata: Q15982326
+    links:
+      - https://en.wikipedia.org/wiki/George_Hussein_Onyango_Obama
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15982326
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: george-j-mitchell
+    type: person
+    name: George J. Mitchell
+    names:
+      zh: 乔治·J·米切尔
+      en: George J. Mitchell
+    gender: M
+    born: 1933-08-20
+    country:
+      - US
+    sectors:
+      - business
+      - judiciary
+      - politics
+    tier: 4
+    summary: 美國政客
+    ids:
+      wikidata: Q368920
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E7%BA%A6%E7%BF%B0%C2%B7%E7%B1%B3%E5%88%87%E5%B0%94
+      - https://en.wikipedia.org/wiki/George_J._Mitchell
+    tags:
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q368920
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国参议员
+        org: us-senate
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美国参议员
+        org: us-senate
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美国参议员
+        org: us-senate
+        from: 1983-01-03
+        to: 1985-01-03
+      - title: 美国参议员
+        org: us-senate
+        from: 1980-05-17
+        to: 1981-01-03
+      - title: 美国参议员
+        org: us-senate
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美国参议员
+        org: us-senate
+        from: 1985-01-03
+        to: 1987-01-03
+      - title: 美国参议员
+        org: us-senate
+        from: 1993-01-03
+        to: 1995-01-03
+      - title: 美国参议员
+        org: us-senate
+        from: 1981-01-03
+        to: 1983-01-03
+      - title: 美國駐北愛爾蘭特使
+        from: 1995-01-03
+        to: 2001-01-20
+      - title: http://www.wikidata.org/.well-known/genid/f7b86a41bd68d56bfe0fe38daf01cae4
+        from: 1987-01-03
+        to: 1989-01-03
+  - id: george-kaiser
+    type: person
+    name: George Kaiser
+    names:
+      zh: 喬治·凱瑟
+      en: George Kaiser
+    gender: M
+    born: 1942-07-29
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 7600000000
+    ids:
+      wikidata: Q557057
+    links:
+      - https://en.wikipedia.org/wiki/George_Kaiser
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557057
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: george-kurtz
+    type: person
+    name: George Kurtz
+    names:
+      zh: 喬治·庫茲
+      en: George Kurtz
+    gender: M
+    born: 1970-10-01
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 3
+    summary: American billionaire businessman
+    netWorth:
+      usd: 7900000000
+    ids:
+      wikidata: Q50082669
+    links:
+      - https://en.wikipedia.org/wiki/George_Kurtz
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50082669
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: george-lucas
+    type: person
+    name: George Lucas
+    names:
+      zh: 乔治·卢卡斯
+      en: George Lucas
+    gender: M
+    born: 1944-05-14
+    country:
+      - US
+    sectors:
+      - business
+      - culture
+    tier: 3
+    summary: 美國電影導演、製片人、編劇和企業家
+    netWorth:
+      usd: 5000000000
+    ids:
+      wikidata: Q38222
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%8D%A2%E5%8D%A1%E6%96%AF
+      - https://en.wikipedia.org/wiki/George_Lucas
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 133
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: george-m-whitesides
+    type: person
+    name: George M. Whitesides
+    names:
+      zh: 乔治·怀特塞兹
+      en: George M. Whitesides
+    gender: M
+    born: 1939-08-03
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: American chemist and professor of chemistry
+    ids:
+      wikidata: Q701501
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%96%AC%E6%B2%BB%C2%B7%E9%BA%A5%E5%85%8B%E5%88%A9%E8%98%AD%C2%B7%E6%87%B7%E7%89%B9%E5%A1%9E%E8%8C%B2
+      - https://en.wikipedia.org/wiki/George_M._Whitesides
+    tags:
+      - relative
+    attrs:
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q701501
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: george-p-bush
+    type: person
+    name: George P. Bush
+    names:
+      zh: 乔治·P·布什
+      en: George P. Bush
+    gender: M
+    born: 1976-04-24
+    country:
+      - US
+    sectors:
+      - judiciary
+      - business
+      - politics
+    tier: 4
+    summary: 美國商人
+    ids:
+      wikidata: Q3101841
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7P%C2%B7%E5%B8%83%E4%BB%80
+      - https://en.wikipedia.org/wiki/George_P._Bush
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3101841
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: Texas Land Commissioner
+        from: 2015-01-02
+        to: 2023-01-10
+  - id: george-r-roberts
+    type: person
+    name: George R. Roberts
+    names:
+      zh: 乔治·罗伯茨
+      en: George R. Roberts
+    gender: M
+    born: 1943-06-28
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 16800000000
+    ids:
+      wikidata: Q1508188
+    links:
+      - https://en.wikipedia.org/wiki/George_R._Roberts
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1508188
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: george-s-latimer
+    type: person
+    name: George S. Latimer
+    names:
+      en: George S. Latimer
+    gender: M
+    born: 1953-11-22
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: American politician (born 1953)
+    ids:
+      wikidata: Q5544169
+    links:
+      - https://en.wikipedia.org/wiki/George_Latimer_(New_York_politician)
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5544169
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 紐約州參議員
+        org: new-york-state-senate
+        from: "2013"
+        to: 2017-12-31
+      - title: 纽约州众议院议员
+        org: new-york-state-assembly
+        from: "2005"
+        to: 2012-12-31
+      - title: Westchester County Executive
+        org: government-of-westchester-county
+        from: "2018"
+        to: 2025-01-02
+  - id: george-santos
+    type: person
+    name: George Santos
+    names:
+      zh: 乔治·桑托斯
+      en: George Santos
+    gender: M
+    born: 1988-07-22
+    country:
+      - US
+      - BR
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國眾議院前議員
+    ids:
+      wikidata: Q115170395
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E6%A1%91%E6%89%98%E6%96%AF
+      - https://en.wikipedia.org/wiki/George_Santos
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115170395
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2023-12-01
+  - id: george-shultz
+    type: person
+    name: George Shultz
+    names:
+      zh: 乔治·普拉特·舒尔茨
+      en: George Shultz
+    gender: M
+    born: 1920-12-13
+    died: 2021-02-06
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+      - business
+    tier: 2
+    summary: 美国政治人物
+    ids:
+      wikidata: Q313411
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E6%99%AE%E6%8B%89%E7%89%B9%C2%B7%E8%88%92%E5%B0%94%E8%8C%A8
+      - https://en.wikipedia.org/wiki/George_Shultz
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 50
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313411
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国国务卿
+        org: united-states-department-of-state
+        from: 1982-07-16
+        to: 1989-01-20
+      - title: 美国劳工部长
+        org: united-states-department-of-labor
+        from: 1969-01-22
+        to: 1970-07-01
+      - title: 美国财政部长
+        org: united-states-department-of-the-treasury
+        from: 1972-06-12
+        to: 1974-05-08
+      - title: Director of the Office of Management and Budget
+        org: office-of-management-and-budget
+        from: 1970-07-01
+        to: 1972-06-11
+  - id: george-soros
+    type: person
+    name: George Soros
+    names:
+      zh: 乔治·索罗斯
+      en: George Soros
+    gender: M
+    born: 1930-08-12
+    country:
+      - HU
+      - US
+    sectors:
+      - business
+      - culture
+      - academia
+    tier: 2
+    summary: 匈牙利裔美國商業巨頭，投資者和慈善家
+    netWorth:
+      usd: 24900000000
+    ids:
+      wikidata: Q12908
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E7%B4%A2%E7%BD%97%E6%96%AF
+      - https://en.wikipedia.org/wiki/George_Soros
+    tags:
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 104
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: george-t-whitesides
+    type: person
+    name: George T. Whitesides
+    names:
+      zh: 喬治·湯瑪斯·懷特塞茲
+      en: George T. Whitesides
+    gender: M
+    born: 1974-03-03
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: American politician and businessman (born 1974)
+    ids:
+      wikidata: Q3511804
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%96%AC%E6%B2%BB%C2%B7%E6%B9%AF%E7%91%AA%E6%96%AF%C2%B7%E6%87%B7%E7%89%B9%E5%A1%9E%E8%8C%B2
+      - https://en.wikipedia.org/wiki/George_T._Whitesides
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3511804
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: george-w-bush
+    type: person
+    name: George W. Bush
+    names:
+      zh: 乔治·沃克·布什
+      en: George W. Bush
+    gender: M
+    born: 1946-07-06
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+      - military
+    tier: 1
+    summary: 美国政治人物
+    ids:
+      wikidata: Q207
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E6%B2%83%E5%85%8B%C2%B7%E5%B8%83%E4%BB%80
+      - https://en.wikipedia.org/wiki/George_W._Bush
+    tags:
+      - us-executive
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 280
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國總統
+        org: united-states-armed-forces
+        from: 2001-01-20
+        to: 2009-01-20
+      - title: 会长
+        org: organization
+      - title: 候任美國總統
+        from: 2000-12-12
+        to: 2001-01-20
+      - title: 德克萨斯州州长
+        org: state-of-texas
+        from: 1995-01-17
+        to: 2000-12-21
+  - id: george-w-romney
+    type: person
+    name: George W. Romney
+    names:
+      zh: 乔治·罗姆尼
+      en: George W. Romney
+    gender: M
+    born: 1907-07-08
+    died: 1995-07-26
+    country:
+      - US
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: Governor of Michigan from 1963 to 1969
+    ids:
+      wikidata: Q520275
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%96%AC%E6%B2%BB%C2%B7%E7%BE%85%E5%A7%86%E5%B0%BC_(%E5%B7%9E%E9%95%B7)
+      - https://en.wikipedia.org/wiki/George_W._Romney
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q520275
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国住房和城市发展部部长
+        org: united-states-department-of-housing-and-urban-development
+        from: 1969-01-22
+        to: 1973-01-20
+      - title: 密歇根州州長
+        org: state-of-michigan
+        from: "1963"
+        to: 1969-01-22
+  - id: georgina-bloomberg
+    type: person
+    name: Georgina Bloomberg
+    names:
+      zh: 乔治娜·布隆伯格
+      en: Georgina Bloomberg
+    gender: F
+    born: 1983-01-20
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 4
+    summary: 迈克尔·布隆伯格之女
+    ids:
+      wikidata: Q980958
+    links:
+      - https://en.wikipedia.org/wiki/Georgina_Bloomberg
+    tags:
+      - relative
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q980958
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gerald-chan
+    type: person
+    name: Gerald Chan
+    names:
+      zh: 陈乐宗
+      en: Gerald Chan
+    gender: M
+    born: "1956"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: 晨興集團創辦人、董事長，從事私募基金和創業基金餘20年並擔任中、英、美多家生物技術公司董事。
+    ids:
+      wikidata: Q18165097
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%99%88%E4%B9%90%E5%AE%97
+      - https://en.wikipedia.org/wiki/Gerald_Chan
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18165097
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: geraldine-moffat
+    type: person
+    name: Geraldine Moffat
+    names:
+      en: Geraldine Moffat
+    gender: F
+    born: 1939-09-05
+    country:
+      - GB
+    sectors:
+      - culture
+    tier: 5
+    summary: British actress
+    ids:
+      wikidata: Q5549775
+    links:
+      - https://en.wikipedia.org/wiki/Geraldine_Moffat
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5549775
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gerry-connolly
+    type: person
+    name: Gerry Connolly
+    names:
+      zh: 蓋瑞·康納利
+      en: Gerry Connolly
+    gender: M
+    born: 1950-03-30
+    died: 2025-05-21
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: American politician (1950–2025)
+    ids:
+      wikidata: Q1514859
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A0%BC%E9%87%8C%C2%B7%E5%BA%B7%E8%AF%BA%E5%88%A9
+      - https://en.wikipedia.org/wiki/Gerry_Connolly
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1514859
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+        to: 2025-05-21
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+  - id: ghislaine-maxwell
+    type: person
+    name: Ghislaine Maxwell
+    names:
+      zh: 格希莱恩·马克思维尔
+      en: Ghislaine Maxwell
+    gender: F
+    born: 1961-12-25
+    country:
+      - US
+      - FR
+      - GB
+    sectors:
+      - business
+    tier: 4
+    summary: 英国社会名媛、儿童性罪犯，罗伯特·麦克斯韦尔的女儿
+    ids:
+      wikidata: Q5556756
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A0%BC%E5%B8%8C%E8%90%8A%E6%81%A9%C2%B7%E9%BA%A5%E5%85%8B%E6%96%AF%E9%9F%8B%E7%88%BE
+      - https://en.wikipedia.org/wiki/Ghislaine_Maxwell
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 45
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5556756
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gianni-agnelli
+    type: person
+    name: Gianni Agnelli
+    names:
+      zh: 吉亚尼·阿涅利
+      en: Gianni Agnelli
+    gender: M
+    born: 1921-03-12
+    died: 2003-01-24
+    country:
+      - IT
+    sectors:
+      - business
+      - tech
+      - politics
+    tier: 3
+    summary: Italian businessman; grandson of FIAT's founder (1921-2003)
+    ids:
+      wikidata: Q356351
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B3%88%E5%B0%BC%C2%B7%E9%98%BF%E6%B6%85%E5%88%A9
+      - https://en.wikipedia.org/wiki/Gianni_Agnelli
+    tags:
+      - relative
+      - party:Christian Democracy
+    attrs:
+      party: Christian Democracy
+      sitelinks: 36
+    sources:
+      - url: https://www.wikidata.org/wiki/Q356351
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 终身参议员
+        from: 1991-06-01
+        to: 2003-01-24
+      - title: 会长
+        org: organization
+        from: "1974"
+        to: "1976"
+      - title: 会长
+        org: organization
+        from: "1966"
+        to: "2003"
+  - id: gigi-caruso
+    type: person
+    name: Gigi Caruso
+    names:
+      en: Gigi Caruso
+    gender: F
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessperson and hearing loss advocate
+    ids:
+      wikidata: Q115111604
+    links:
+      - https://en.wikipedia.org/wiki/Gigi_Caruso
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115111604
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gigi-chao
+    type: person
+    name: 趙式芝
+    names:
+      zh: 趙式芝
+      en: Gigi Chao
+    gender: F
+    born: "1979"
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 5
+    summary: architect
+    ids:
+      wikidata: Q15709685
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B6%99%E5%BC%8F%E8%8A%9D
+      - https://en.wikipedia.org/wiki/Gigi_Chao
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15709685
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gil-cisneros
+    type: person
+    name: Gil Cisneros
+    names:
+      zh: 喜吉利
+      en: Gil Cisneros
+    gender: M
+    born: 1971-02-12
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: United States Under Secretary of Defense for Personnel and Readiness
+    ids:
+      wikidata: Q54958760
+    links:
+      - https://en.wikipedia.org/wiki/Gil_Cisneros
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q54958760
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国国防部人事与战备次长
+        from: 2021-08-24
+        to: 2023-09-08
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: gil-kahele
+    type: person
+    name: Gil Kahele
+    names:
+      en: Gil Kahele
+    gender: M
+    born: 1942-05-15
+    died: 2016-01-26
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q16730518
+    links:
+      - https://en.wikipedia.org/wiki/Gil_Kahele
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16730518
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 夏威夷州参议员
+        org: hawaii-senate
+  - id: gilbert-chu
+    type: person
+    name: Gilbert Chu
+    names:
+      zh: 朱筑文
+      en: Gilbert Chu
+    gender: M
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American biochemist
+    ids:
+      wikidata: Q5560855
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9C%B1%E7%AD%91%E6%96%87
+      - https://en.wikipedia.org/wiki/Gilbert_Chu
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5560855
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gina-mccarthy
+    type: person
+    name: Gina McCarthy
+    names:
+      zh: 吉娜·麥卡錫
+      en: Gina McCarthy
+    gender: F
+    born: 1954-05-03
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American government official
+    ids:
+      wikidata: Q5562899
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%89%E5%A8%9C%C2%B7%E9%BA%A5%E5%8D%A1%E9%8C%AB
+      - https://en.wikipedia.org/wiki/Gina_McCarthy
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5562899
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 國家環境保護局局長
+        org: united-states-environmental-protection-agency
+        from: 2013-07-18
+        to: 2017-01-20
+      - title: 白宫国家气候顾问
+        from: 2021-01-20
+  - id: gina-raimondo
+    type: person
+    name: Gina Raimondo
+    names:
+      zh: 吉娜·雷蒙多
+      en: Gina Raimondo
+    gender: F
+    born: 1971-05-17
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 2
+    summary: 40th United States Secretary of Commerce
+    ids:
+      wikidata: Q5562913
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%89%E5%A8%9C%C2%B7%E9%9B%B7%E8%92%99%E5%A4%9A
+      - https://en.wikipedia.org/wiki/Gina_Raimondo
+    tags:
+      - us-executive
+      - us-governors
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 39
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5562913
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 罗德岛州州长
+        org: state-of-rhode-island
+        from: 2015-01-06
+        to: 2021-03-02
+      - title: 美國商務部長
+        org: united-states-department-of-commerce
+        from: 2021-03-03
+        to: 2025-01-20
+      - title: General Treasurer of Rhode Island
+        from: 2011-01-04
+        to: 2015-01-06
+  - id: ginevra-elkann
+    type: person
+    name: Ginevra Elkann
+    names:
+      zh: 吉内芙拉·埃尔坎
+      en: Ginevra Elkann
+    gender: F
+    born: 1979-09-24
+    country:
+      - IT
+    sectors:
+      - family
+    tier: 4
+    summary: Italian film director
+    ids:
+      wikidata: Q2286760
+    links:
+      - https://en.wikipedia.org/wiki/Ginevra_Elkann
+    tags:
+      - relative
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2286760
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ginni-rometty
+    type: person
+    name: Ginni Rometty
+    names:
+      zh: 弗吉尼亚·罗曼提
+      en: Ginni Rometty
+    gender: F
+    born: 1957-07-29
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: American business executive
+    ids:
+      wikidata: Q49971
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%BD%97%E7%9D%BF%E5%85%B0
+      - https://en.wikipedia.org/wiki/Ginni_Rometty
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 40
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49971
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 副总统
+        from: "2009"
+      - title: 首席执行官
+        from: 2012-10-01
+        to: 2020-04-01
+      - title: 系统工程师
+        from: "1981"
+      - title: 理事
+        org: board-of-directors
+      - title: 理事
+        org: board-of-directors
+        from: "2006"
+        to: "2009"
+      - title: 理事会成员
+        org: board-of-directors
+        from: 2020-05-19
+      - title: président-directeur général
+  - id: gisele-barreto-fetterman
+    type: person
+    name: Gisele Barreto Fetterman
+    names:
+      en: Gisele Barreto Fetterman
+    gender: F
+    born: 1982-02-27
+    country:
+      - US
+      - BR
+    sectors:
+      - business
+    tier: 5
+    summary: Second Lady of Pennsylvania from 2019 to 2023
+    ids:
+      wikidata: Q100270882
+    links:
+      - https://en.wikipedia.org/wiki/Gisele_Barreto_Fetterman
+    tags:
+      - relative
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100270882
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 第二夫人
+        from: 2019-01-15
+        to: 2023-01-03
+  - id: gladys-churchill-willis
+    type: person
+    name: Gladys Churchill Willis
+    names:
+      en: Gladys Churchill Willis
+    gender: F
+    born: 1897-10-08
+    died: 1968-04-18
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: 8 Oct 1897 - 18 Apr 1968
+    ids:
+      wikidata: Q106532316
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106532316
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: glenn-grothman
+    type: person
+    name: Glenn Grothman
+    names:
+      zh: 格倫·格羅斯曼
+      en: Glenn Grothman
+    gender: M
+    born: 1955-07-03
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American politician in Wisconsin (born 1955)
+    ids:
+      wikidata: Q5568836
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A0%BC%E5%80%AB%C2%B7%E6%A0%BC%E7%BE%85%E6%96%AF%E6%9B%BC
+      - https://en.wikipedia.org/wiki/Glenn_Grothman
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5568836
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: member of the Wisconsin State Assembly
+        org: wisconsin-state-assembly
+        from: 1993-12-16
+        to: 2003-01-05
+      - title: 威斯康星州参议员
+        org: wisconsin-state-senate
+        from: 2005-01-03
+        to: 2015-01-03
+  - id: glenn-hubbard
+    type: person
+    name: Glenn Hubbard
+    names:
+      zh: 格伦·哈伯德
+      en: Glenn Hubbard
+    gender: M
+    born: 1958-09-04
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+    tier: 2
+    summary: American economist
+    ids:
+      wikidata: Q940771
+    links:
+      - https://en.wikipedia.org/wiki/Glenn_Hubbard_(economist)
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q940771
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: Chair of the Council of Economic Advisers
+        org: council-of-economic-advisers
+        from: 2001-05-11
+        to: 2003-02-28
+  - id: glenn-ivey
+    type: person
+    name: Glenn Ivey
+    names:
+      zh: 格伦·艾维
+      en: Glenn Ivey
+    gender: M
+    born: 1961-02-27
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q22004572
+    links:
+      - https://en.wikipedia.org/wiki/Glenn_Ivey
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22004572
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+  - id: glenn-thompson
+    type: person
+    name: Glenn Thompson
+    names:
+      zh: 格伦·汤普森
+      en: Glenn Thompson
+    gender: M
+    born: 1959-07-27
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: U.S. Representative from Pennsylvania
+    ids:
+      wikidata: Q1531120
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A0%BC%E4%BC%A6%C2%B7%E6%B1%A4%E6%99%AE%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Glenn_Thompson_(politician)
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1531120
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 共和黨
+        from: "2002"
+        to: "2008"
+      - title: 教育委員會
+        org: educational-administrative-structure
+        from: "1990"
+        to: "1995"
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+  - id: glenn-youngkin
+    type: person
+    name: Glenn Youngkin
+    names:
+      zh: 格伦·艾伦·扬金
+      en: Glenn Youngkin
+    gender: M
+    born: 1966-12-09
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - business
+    tier: 3
+    summary: 萊斯大學的大學籃球運動員
+    ids:
+      wikidata: Q100963892
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A0%BC%E4%BC%A6%C2%B7%E6%89%AC%E9%87%91
+      - https://en.wikipedia.org/wiki/Glenn_Youngkin
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100963892
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 弗吉尼亞州州長
+        org: commonwealth-of-virginia
+        from: 2022-01-15
+        to: 2026-01-17
+  - id: gong-gucheng
+    type: person
+    name: 龚谷成
+    names:
+      zh: 龚谷成
+      en: Gong Gucheng
+    gender: M
+    born: "1940"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese general and politician
+    ids:
+      wikidata: Q8291646
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BE%9A%E8%B0%B7%E6%88%90
+      - https://en.wikipedia.org/wiki/Gong_Gucheng
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8291646
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: gong-hongjia
+    type: person
+    name: 龚虹嘉
+    names:
+      zh: 龚虹嘉
+      en: Gong Hongjia
+    gender: M
+    born: "1964"
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中国企业家
+    netWorth:
+      usd: 8600000000
+    ids:
+      wikidata: Q18811132
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BE%94%E8%99%B9%E5%98%89
+      - https://en.wikipedia.org/wiki/Gong_Hongjia
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18811132
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gong-qihuang
+    type: person
+    name: 龚旗煌
+    names:
+      zh: 龚旗煌
+      en: Gong Qihuang
+    gender: M
+    born: 1964-08-15
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 北京大学原校长，中国科学院院士、光学家
+    ids:
+      wikidata: Q60991340
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BE%9A%E6%97%97%E7%85%8C
+      - https://en.wikipedia.org/wiki/Gong_Qihuang
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60991340
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 北京大学校长
+        from: 2022-06-17
+  - id: gong-zheng
+    type: person
+    name: 龚正
+    names:
+      zh: 龚正
+      en: Gong Zheng
+    gender: M
+    born: 1960-03-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q8964883
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BE%9A%E6%AD%A3
+      - https://en.wikipedia.org/wiki/Gong_Zheng
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8964883
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 山东省省长
+        from: 2017-04-11
+        to: 2020-04-17
+      - title: Party Secretary of Hangzhou
+        from: 2013-10-08
+        to: 2015-08-11
+      - title: 上海市市長
+        org: shanghai-municipal-people-s-government
+        from: 2020-03-23
+  - id: gordon-getty
+    type: person
+    name: Gordon Getty
+    names:
+      zh: 戈登·盖蒂
+      en: Gordon Getty
+    gender: M
+    born: 1933-12-20
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 3
+    summary: American businessman, investor, philanthropist and classical music composer
+    netWorth:
+      usd: 5500000000
+    ids:
+      wikidata: Q3110901
+    links:
+      - https://en.wikipedia.org/wiki/Gordon_Getty
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3110901
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gordon-h-mansfield
+    type: person
+    name: Gordon H. Mansfield
+    names:
+      en: Gordon H. Mansfield
+    gender: M
+    born: 1941-09-15
+    died: 2013-01-29
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: Recipient of the Purple Heart medal
+    ids:
+      wikidata: Q3110903
+    links:
+      - https://en.wikipedia.org/wiki/Gordon_H._Mansfield
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3110903
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国退伍军人事务部长
+        org: united-states-department-of-veterans-affairs
+        from: 2007-10-01
+        to: 2007-12-20
+      - title: 美國副部長辦公室
+        from: 2004-01-22
+        to: 2009-01-20
+  - id: gordon-moore
+    type: person
+    name: Gordon Moore
+    names:
+      zh: 戈登·摩尔
+      en: Gordon Moore
+    gender: M
+    born: 1929-01-03
+    died: 2023-03-24
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 3
+    summary: 美国企业家、英特尔联合创始人（1929－2023）
+    netWorth:
+      usd: 9700000000
+    ids:
+      wikidata: Q243969
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AB%98%E7%99%BB%C2%B7%E6%91%A9%E7%88%BE
+      - https://en.wikipedia.org/wiki/Gordon_Moore
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 57
+    sources:
+      - url: https://www.wikidata.org/wiki/Q243969
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gordon-p-robertson
+    type: person
+    name: Gordon P. Robertson
+    names:
+      en: Gordon P. Robertson
+    gender: M
+    born: 1958-06-04
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American lawyer
+    ids:
+      wikidata: Q5585634
+    links:
+      - https://en.wikipedia.org/wiki/Gordon_P._Robertson
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5585634
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gordon-r-england
+    type: person
+    name: Gordon R. England
+    names:
+      zh: 乌利希 (梅克伦堡公爵)
+      en: Gordon R. England
+    gender: M
+    born: 1937-09-15
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+      - tech
+    tier: 2
+    summary: 美國政治人物
+    ids:
+      wikidata: Q323508
+    links:
+      - https://en.wikipedia.org/wiki/Gordon_R._England
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q323508
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国海军部长
+        org: united-states-department-of-the-navy
+        from: 2001-05-24
+        to: 2003-01-24
+      - title: 美国海军部长
+        org: united-states-department-of-the-navy
+        from: 2003-10-01
+        to: 2006-01-03
+      - title: 美国国防部副部长
+        org: united-states-department-of-defense
+        from: 2006-01-04
+        to: 2009-02-11
+      - title: United States Deputy Secretary of Homeland Security
+        org: united-states-department-of-homeland-security
+        from: 2003-01-24
+        to: 2003-10-01
+  - id: grace-bochenek
+    type: person
+    name: Grace Bochenek
+    names:
+      zh: 格雷斯·巴克萊克
+      en: Grace Bochenek
+    gender: F
+    born: 1961-06-15
+    country:
+      - US
+    sectors:
+      - politics
+      - tech
+    tier: 2
+    summary: American industrial engineer
+    ids:
+      wikidata: Q28469524
+    links:
+      - https://en.wikipedia.org/wiki/Grace_Bochenek
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28469524
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國能源部長
+        org: united-states-department-of-energy
+        from: 2017-01-20
+        to: 2017-03-02
+  - id: grace-meng
+    type: person
+    name: Grace Meng
+    names:
+      zh: 孟昭文
+      en: Grace Meng
+    gender: F
+    born: 1975-10-01
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 民主黨籍臺裔美國聯邦眾議員
+    ids:
+      wikidata: Q5591303
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AD%9F%E6%98%AD%E6%96%87
+      - https://en.wikipedia.org/wiki/Grace_Meng
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5591303
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 纽约州众议院议员
+        org: new-york-state-assembly
+        from: "2009"
+        to: "2012"
+  - id: grace-napolitano
+    type: person
+    name: Grace Napolitano
+    names:
+      zh: 格蕾丝·纳波利塔诺
+      en: Grace Napolitano
+    gender: F
+    born: 1936-12-04
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: U.S. Representative from California
+    ids:
+      wikidata: Q469139
+    links:
+      - https://en.wikipedia.org/wiki/Grace_Napolitano
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q469139
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 市长
+        from: "1989"
+        to: "1990"
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: member of Italian municipal council
+        org: municipal-council
+        from: "1986"
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: "1992"
+        to: "1998"
+  - id: greg-brockman
+    type: person
+    name: Greg Brockman
+    names:
+      zh: 格雷格·布羅克曼
+      en: Greg Brockman
+    gender: M
+    born: 1987-11-29
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+      - academia
+    tier: 4
+    summary: American entrepreneur, investor, and software developer
+    ids:
+      wikidata: Q100604534
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A0%BC%E9%9B%B7%E6%A0%BC%C2%B7%E5%B8%83%E7%BE%85%E5%85%8B%E6%9B%BC
+      - https://en.wikipedia.org/wiki/Greg_Brockman
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100604534
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: greg-casar
+    type: person
+    name: Greg Casar
+    names:
+      zh: 格雷戈里奥·卡萨
+      en: Greg Casar
+    gender: M
+    born: 1989-05-04
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1989)
+    ids:
+      wikidata: Q104148369
+    links:
+      - https://en.wikipedia.org/wiki/Greg_Casar
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104148369
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: greg-gianforte
+    type: person
+    name: Greg Gianforte
+    names:
+      zh: 格雷格‧吉安福特
+      en: Greg Gianforte
+    gender: M
+    born: 1961-04-17
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+      - tech
+    tier: 3
+    summary: 美國政客和商人
+    ids:
+      wikidata: Q5605607
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A0%BC%E9%9B%B7%E6%A0%BC%C2%B7%E8%A9%B9%E7%A6%8F%E5%B0%94%E7%89%B9
+      - https://en.wikipedia.org/wiki/Greg_Gianforte
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5605607
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-05-25
+        to: 2019-01-03
+      - title: 蒙大拿州州長
+        org: state-of-montana
+        from: 2021-01-04
+  - id: greg-landsman
+    type: person
+    name: Greg Landsman
+    names:
+      zh: 格雷格·蘭斯曼
+      en: Greg Landsman
+    gender: M
+    born: 1976-12-04
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1976)
+    ids:
+      wikidata: Q115180677
+    links:
+      - https://en.wikipedia.org/wiki/Greg_Landsman
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115180677
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+      - title: Cincinnati City Council member
+        org: cincinnati-city-council
+        from: 2018-01-02
+        to: 2022-12-19
+  - id: greg-lopez
+    type: person
+    name: Greg Lopez
+    names:
+      en: Greg Lopez
+    gender: M
+    born: 1964-06-07
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q126910689
+    links:
+      - https://en.wikipedia.org/wiki/Greg_Lopez
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q126910689
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2024-06-25
+        to: 2025-01-03
+      - title: Mayor of Parker, Colorado
+        from: "1992"
+        to: "1996"
+  - id: greg-mankiw
+    type: person
+    name: Greg Mankiw
+    names:
+      zh: 尼古拉斯·格雷戈里·曼丘
+      en: Greg Mankiw
+    gender: M
+    born: 1958-02-03
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+    tier: 2
+    summary: 美国经济学家
+    ids:
+      wikidata: Q185734
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A0%BC%E9%9B%B7%E6%A0%BC%C2%B7%E6%9B%BC%E4%B8%98
+      - https://en.wikipedia.org/wiki/Greg_Mankiw
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 31
+    sources:
+      - url: https://www.wikidata.org/wiki/Q185734
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: Chair of the Council of Economic Advisers
+        org: council-of-economic-advisers
+        from: 2003-05-29
+        to: 2005-02-18
+  - id: greg-murphy
+    type: person
+    name: Greg Murphy
+    names:
+      zh: 格雷格·墨菲
+      en: Greg Murphy
+    gender: M
+    born: 1963-03-05
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American urologist and politician
+    ids:
+      wikidata: Q23074266
+    links:
+      - https://en.wikipedia.org/wiki/Greg_Murphy_(politician)
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23074266
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2019-09-10
+        to: 2021-01-03
+      - title: 北卡羅來納州眾議員
+        org: north-carolina-house-of-representatives
+  - id: greg-pence
+    type: person
+    name: Greg Pence
+    names:
+      zh: 格雷戈里·彭斯
+      en: Greg Pence
+    gender: M
+    born: 1956-11-14
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: American businessman and politician (born 1956)
+    ids:
+      wikidata: Q52151577
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A0%BC%E9%9B%B7%E6%A0%BC%C2%B7%E5%BD%AD%E6%96%AF
+      - https://en.wikipedia.org/wiki/Greg_Pence
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q52151577
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: greg-stanton
+    type: person
+    name: Greg Stanton
+    names:
+      zh: 格雷格·斯坦顿
+      en: Greg Stanton
+    gender: M
+    born: 1970-03-08
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American lawyer and politician (born 1970)
+    ids:
+      wikidata: Q5606289
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A0%BC%E9%9B%B7%E6%A0%BC%C2%B7%E6%96%AF%E5%9D%A6%E9%A0%93
+      - https://en.wikipedia.org/wiki/Greg_Stanton
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5606289
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: Mayor of Phoenix
+        from: 2012-01-03
+        to: 2018-05-29
+  - id: greg-steube
+    type: person
+    name: Greg Steube
+    names:
+      zh: 格雷格·斯特比
+      en: Greg Steube
+    gender: M
+    born: 1978-05-19
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: U.S. politician; Representative from Florida
+    ids:
+      wikidata: Q5606295
+    links:
+      - https://en.wikipedia.org/wiki/Greg_Steube
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5606295
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 佛羅里達州眾議員
+        org: florida-house-of-representatives
+      - title: 佛羅里達州參議員
+        org: florida-senate
+  - id: gregory-meeks
+    type: person
+    name: Gregory Meeks
+    names:
+      zh: 格里高利·米克斯
+      en: Gregory Meeks
+    gender: M
+    born: 1953-09-25
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 美国纽约联邦众议员
+    ids:
+      wikidata: Q1545391
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A0%BC%E9%9B%B7%E6%88%88%E9%87%8C%C2%B7%E7%B1%B3%E5%85%8B%E6%96%AF
+      - https://en.wikipedia.org/wiki/Gregory_Meeks
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1545391
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 法官
+        from: "1985"
+        to: "1992"
+      - title: 法律總顧問
+        from: "1984"
+        to: "1985"
+      - title: 檢察官
+        org: public-prosecutor-s-office
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1998-02-03
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: assistant district attorney
+        from: "1978"
+        to: "1983"
+      - title: 纽约州众议院议员
+        org: new-york-state-assembly
+        from: "1992"
+        to: "1998"
+  - id: gregory-olsen
+    type: person
+    name: Gregory Olsen
+    names:
+      zh: 格雷戈里·奥尔森
+      en: Gregory Olsen
+    gender: M
+    born: 1945-04-20
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: American astronaut and businessman
+    ids:
+      wikidata: Q438844
+    links:
+      - https://en.wikipedia.org/wiki/Gregory_Olsen
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 28
+    sources:
+      - url: https://www.wikidata.org/wiki/Q438844
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gregory-penske
+    type: person
+    name: Gregory Penske
+    names:
+      en: Gregory Penske
+    gender: M
+    country:
+      - US
+    sectors:
+      - tech
+    tier: 5
+    summary: 美國足球運動員
+    ids:
+      wikidata: Q5607108
+    links:
+      - https://en.wikipedia.org/wiki/Gregory_Penske
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5607108
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gregory-r-dahlberg
+    type: person
+    name: Gregory R. Dahlberg
+    names:
+      zh: 格里戈利·R·達爾伯格
+      en: Gregory R. Dahlberg
+    gender: M
+    born: 1951-11-23
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American government official
+    ids:
+      wikidata: Q1545383
+    links:
+      - https://en.wikipedia.org/wiki/Gregory_R._Dahlberg
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1545383
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国陆军部长
+        org: united-states-department-of-the-army
+      - title: 美国陆军部长
+        org: united-states-department-of-the-army
+        from: 2001-01-20
+        to: 2001-03-04
+  - id: gretchen-whitmer
+    type: person
+    name: Gretchen Whitmer
+    names:
+      zh: 魏美桂
+      en: Gretchen Whitmer
+    gender: F
+    born: 1971-08-23
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: 密西根州長
+    ids:
+      wikidata: Q5607720
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A0%BC%E8%95%BE%E7%90%B4%C2%B7%E6%83%A0%E7%89%B9%E9%BB%98
+      - https://en.wikipedia.org/wiki/Gretchen_Whitmer
+    tags:
+      - us-governors
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 42
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5607720
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 密歇根州州長
+        org: state-of-michigan
+        from: "2019"
+      - title: 密歇根州眾議員
+        org: michigan-house-of-representatives
+        from: "2001"
+        to: 2006-03-16
+      - title: 密歇根州參議員
+        org: michigan-senate
+        from: 2006-03-21
+        to: "2015"
+  - id: griffin-musk
+    type: person
+    name: Griffin Musk
+    names:
+      zh: 格里芬·马斯克
+      en: Griffin Musk
+    gender: M
+    born: "2004"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: 埃隆·马斯克子也
+    ids:
+      wikidata: Q95724881
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q95724881
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: griffith-r-harsh
+    type: person
+    name: Griffith R. Harsh
+    names:
+      en: Griffith R. Harsh
+    gender: M
+    born: 1953-06-26
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: neurosurgeon
+    ids:
+      wikidata: Q5608913
+    links:
+      - https://en.wikipedia.org/wiki/Griffith_R._Harsh
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5608913
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: grimes
+    type: person
+    name: Grimes
+    names:
+      zh: 格兰姆斯
+      en: Grimes
+    gender: F
+    born: 1988-03-17
+    country:
+      - CA
+    sectors:
+      - culture
+    tier: 3
+    summary: 加拿大歌手
+    ids:
+      wikidata: Q117970
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A0%BC%E8%8E%B1%E5%A7%86%E6%96%AF
+      - https://en.wikipedia.org/wiki/Grimes
+    tags:
+      - relative
+    attrs:
+      sitelinks: 47
+    sources:
+      - url: https://www.wikidata.org/wiki/Q117970
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gu-jingsheng
+    type: person
+    name: 谷景生
+    names:
+      zh: 谷景生
+      en: Gu Jingsheng
+    gender: M
+    born: "1913"
+    died: 2004-11-28
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    summary: 中国人民解放军将领
+    ids:
+      wikidata: Q8288192
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B0%B7%E6%99%AF%E7%94%9F
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8288192
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gu-junshan
+    type: person
+    name: 谷俊山
+    names:
+      zh: 谷俊山
+      en: Gu Junshan
+    gender: M
+    born: 1956-10-01
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: 中国人民解放军将领
+    ids:
+      wikidata: Q8317191
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B0%B7%E4%BF%8A%E5%B1%B1
+      - https://en.wikipedia.org/wiki/Gu_Junshan
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317191
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gu-kailai
+    type: person
+    name: 谷开来
+    names:
+      zh: 谷开来
+      en: Gu Kailai
+    gender: F
+    born: 1958-11-15
+    country:
+      - CN
+    sectors:
+      - business
+      - judiciary
+    tier: 3
+    summary: 薄熙来之妻
+    ids:
+      wikidata: Q2499132
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B0%B7%E9%96%8B%E4%BE%86
+      - https://en.wikipedia.org/wiki/Gu_Kailai
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2499132
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gu-liping-1959
+    type: person
+    name: 谷丽萍
+    names:
+      zh: 谷丽萍
+      en: Gu Liping
+    gender: F
+    born: 1959-04-01
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 5
+    summary: 令計劃之妻
+    ids:
+      wikidata: Q18109616
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B0%B7%E4%B8%BD%E8%90%8D
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18109616
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gu-lizhen
+    type: person
+    name: Gu Lizhen
+    names:
+      zh: 顾丽真
+      en: Gu Lizhen
+    gender: F
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: 董建华之母
+    ids:
+      wikidata: Q10566149
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%A1%A7%E9%BA%97%E7%9C%9F
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10566149
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gu-shu
+    type: person
+    name: 谷澍
+    names:
+      zh: 谷澍
+      en: Gu Shu
+    gender: M
+    born: 1967-08-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - finance
+    tier: 3
+    summary: 中国农业银行董事长
+    ids:
+      wikidata: Q28412923
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B0%B7%E6%BE%8D
+      - https://en.wikipedia.org/wiki/Gu_Shu
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28412923
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gu-wengen
+    type: person
+    name: 顾文根
+    names:
+      zh: 顾文根
+      en: Gu Wengen
+    gender: M
+    born: "1946"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese naval commander
+    ids:
+      wikidata: Q11665199
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%A1%BE%E6%96%87%E6%A0%B9
+      - https://en.wikipedia.org/wiki/Gu_Wengen
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11665199
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: guan-kai
+    type: person
+    name: 关凯
+    names:
+      zh: 关凯
+      en: Guan Kai
+    gender: M
+    born: "1948"
+    died: "2024"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8315292
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%85%B3%E5%87%AF
+      - https://en.wikipedia.org/wiki/Guan_Kai
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315292
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: guan-zhi-ou
+    type: person
+    name: 关志鸥
+    names:
+      zh: 关志鸥
+      en: Guan Zhi'ou
+    gender: M
+    born: 1969-12-20
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共湖北省委书记
+    ids:
+      wikidata: Q28417048
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%85%B3%E5%BF%97%E9%B8%A5
+      - https://en.wikipedia.org/wiki/Guan_Zhi'ou
+    tags:
+      - cn-ministers
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28417048
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国自然资源部部长
+        org: ministry-of-natural-resources-of-the-people-s-republic-of-china
+        from: 2024-12-25
+  - id: gui-minhai
+    type: person
+    name: 桂民海
+    names:
+      zh: 桂民海
+      en: Gui Minhai
+    gender: M
+    born: 1964-05-05
+    country:
+      - SE
+      - CN
+    sectors:
+      - business
+      - culture
+    tier: 4
+    summary: 瑞典籍华裔学者、作家、出版界人士
+    ids:
+      wikidata: Q22099950
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A1%82%E6%B0%91%E6%B5%B7
+      - https://en.wikipedia.org/wiki/Gui_Minhai
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22099950
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gui-quanzhi
+    type: person
+    name: 桂全智
+    names:
+      zh: 桂全智
+    gender: M
+    born: "1943"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8316673
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A1%82%E5%85%A8%E6%99%BA
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316673
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: guillermo-pacanins-acevedo
+    type: person
+    name: Guillermo Pacanins Acevedo
+    names:
+      en: Guillermo Pacanins Acevedo
+    gender: M
+    born: 1909-02-27
+    died: 1992-06-23
+    country: []
+    sectors:
+      - politics
+      - military
+      - diplomacy
+    tier: 5
+    summary: Venezuelan aviator
+    ids:
+      wikidata: Q61038837
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q61038837
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: guo-boquan
+    type: person
+    name: 郭伯权
+    names:
+      zh: 郭伯权
+      en: Guo Boquan
+    gender: M
+    born: 1961-10-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: 中華人民共和国政治人物
+    ids:
+      wikidata: Q17499632
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E4%BC%AF%E6%9D%83
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17499632
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: guo-boxiong
+    type: person
+    name: 郭伯雄
+    names:
+      zh: 郭伯雄
+      en: Guo Boxiong
+    gender: M
+    born: 1942-07-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 前中国共产党中央军事委员会副主席
+    ids:
+      wikidata: Q1337947
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E4%BC%AF%E9%9B%84
+      - https://en.wikipedia.org/wiki/Guo_Boxiong
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1337947
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党中央政治局委员
+        from: 2002-11-15
+        to: 2012-11-15
+  - id: guo-dongya
+    type: person
+    name: 郭东亚
+    names:
+      zh: 郭东亚
+    gender: M
+    born: "1937"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8319448
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E4%B8%9C%E4%BA%9A
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319448
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: guo-fang
+    type: person
+    name: 郭芳
+    names:
+      zh: 郭芳
+      en: Guo Fang
+    gender: F
+    born: 1970-10-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国生态环境部党组成员、副部长
+    ids:
+      wikidata: Q112966454
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E8%8A%B3_(1970%E5%B9%B4)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q112966454
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: guo-guangchang
+    type: person
+    name: 郭广昌
+    names:
+      zh: 郭广昌
+      en: Guo Guangchang
+    gender: M
+    born: 1967-02-16
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国商人
+    ids:
+      wikidata: Q5619586
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E5%BB%A3%E6%98%8C
+      - https://en.wikipedia.org/wiki/Guo_Guangchang
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5619586
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 会长
+        org: organization
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: guo-guirong
+    type: person
+    name: 郭桂蓉
+    names:
+      zh: 郭桂蓉
+      en: Guo Guirong
+    gender: M
+    born: "1937"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8317386
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E6%A1%82%E8%93%89
+      - https://en.wikipedia.org/wiki/Guo_Guirong
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317386
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: guo-jinlong
+    type: person
+    name: 郭金龙
+    names:
+      zh: 郭金龙
+      en: Guo Jinlong
+    gender: M
+    born: 1947-07-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 十八届中共中央政治局委员、原中共北京市委书记
+    ids:
+      wikidata: Q1368232
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E9%87%91%E9%BE%99
+      - https://en.wikipedia.org/wiki/Guo_Jinlong
+    tags:
+      - cn-leaders
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1368232
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 安徽省人民代表大会常务委员会主任
+        from: "2005"
+        to: "2007"
+      - title: 北京市市長
+        org: people-s-government-of-beijing-municipality
+        from: 2007-11-30
+        to: 2012-07-25
+      - title: 中国共产党安徽省委员会书记
+        org: anhui-provincial-committee-of-the-chinese-communist-party
+        from: "2004"
+        to: "2007"
+      - title: 中国共产党北京市委员会书记
+        org: beijing-municipal-committee-of-the-chinese-communist-party
+        from: 2012-07-03
+        to: 2017-05-27
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中国共产党西藏自治区委员会书记
+        org: tibet-autonomous-regional-committee-of-the-chinese-communist-party
+        from: 2000-09-01
+        to: 2004-12-01
+      - title: 中国共产党中央政治局委员
+        from: 2012-11-15
+        to: 2017-10-25
+  - id: guo-junbo
+    type: person
+    name: 郭俊波
+    names:
+      zh: 郭俊波
+    gender: M
+    born: "1950"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8314631
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E4%BF%8A%E6%B3%A2
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8314631
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: guo-ningning
+    type: person
+    name: 郭宁宁
+    names:
+      zh: 郭宁宁
+      en: Guo Ningning
+    gender: F
+    born: 1970-07-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - finance
+    tier: 3
+    summary: 中共福建省委副书记、福州市委书记
+    ids:
+      wikidata: Q59160119
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E5%AE%81%E5%AE%81
+      - https://en.wikipedia.org/wiki/Guo_Ningning
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q59160119
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: guo-puxiao
+    type: person
+    name: 郭普校
+    names:
+      zh: 郭普校
+      en: Guo Puxiao
+    gender: M
+    born: "1964"
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 3
+    summary: 中国人民解放军军事人物
+    ids:
+      wikidata: Q104381961
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E6%99%AE%E6%A0%A1
+      - https://en.wikipedia.org/wiki/Guo_Puxiao
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104381961
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: guo-shengkun
+    type: person
+    name: 郭声琨
+    names:
+      zh: 郭声琨
+      en: Guo Shengkun
+    gender: M
+    born: 1954-10-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - business
+    tier: 2
+    summary: 中共十九届中央政治局委员、中央政法委原书记
+    ids:
+      wikidata: Q4276774
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E5%A3%B0%E7%90%A8
+      - https://en.wikipedia.org/wiki/Guo_Shengkun
+    tags:
+      - cn-leaders
+      - cn-provincial
+      - cn-business
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4276774
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 国务委员
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 2013-03-16
+        to: 2018-03-19
+      - title: 中国共产党中央委员会政法委员会书记
+        org: ccp-central-political-legal-commission
+        from: 2017-10-31
+        to: 2022-10-01
+      - title: 中华人民共和国公安部部长
+        org: ministry-of-public-security
+        from: 2012-12-28
+        to: 2017-11-04
+      - title: 中国共产党中央政治局委员
+        from: 2017-10-25
+      - title: 中国共产党中央书记处书记
+        org: ccp-secretariat
+        from: 2017-10-01
+      - title: 中国共产党广西壮族自治区委员会书记
+        org: guangxi-zhuang-autonomous-regional-committee-of-the-chinese-communist-party
+        from: 2007-11-01
+        to: 2012-12-01
+  - id: guo-yonghong
+    type: person
+    name: 郭永红
+    names:
+      zh: 郭永红
+      en: Guo Yonghong
+    gender: F
+    born: 1968-07-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共天津市委常委、组织部部长
+    ids:
+      wikidata: Q97349867
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E6%B0%B8%E7%BA%A2
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97349867
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: guo-yuanqiang
+    type: person
+    name: 郭元强
+    names:
+      zh: 郭元强
+      en: Guo Yuanqiang
+    gender: M
+    born: 1965-07-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - academia
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q24833479
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E5%85%83%E5%BC%BA
+      - https://en.wikipedia.org/wiki/Guo_Yuanqiang
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24833479
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: guo-yuxiang
+    type: person
+    name: 郭玉祥
+    names:
+      zh: 郭玉祥
+      en: Guo Yuxiang
+    gender: M
+    born: "1939"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中国人民解放军中将
+    ids:
+      wikidata: Q8320603
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E7%8E%89%E7%A5%A5
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8320603
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: guo-zhenggang
+    type: person
+    name: Guo Zhenggang
+    names:
+      zh: 郭正钢
+      en: Guo Zhenggang
+    gender: M
+    born: "1970"
+    country: []
+    sectors:
+      - military
+    tier: 5
+    summary: 中国将领
+    ids:
+      wikidata: Q17499635
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E6%AD%A3%E9%92%A2
+      - https://en.wikipedia.org/wiki/Guo_Zhenggang
+    tags:
+      - relative
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17499635
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: guo-zhuxue
+    type: person
+    name: 郭竹学
+    names:
+      zh: 郭竹学
+      en: Guo Zhuxue
+    gender: M
+    born: 1966-11-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国国家铁路集团董事长
+    ids:
+      wikidata: Q116226215
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E7%AB%B9%E5%AD%A6
+      - https://en.wikipedia.org/wiki/Guo_Zhuxue
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116226215
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gus-bilirakis
+    type: person
+    name: Gus Bilirakis
+    names:
+      zh: 戈斯·比利拉基斯
+      en: Gus Bilirakis
+    gender: M
+    born: 1963-02-08
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: U.S. Representative from Florida
+    ids:
+      wikidata: Q1555314
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%88%88%E6%96%AF%C2%B7%E6%AF%94%E5%88%A9%E6%8B%89%E5%9F%BA%E6%96%AF
+      - https://en.wikipedia.org/wiki/Gus_Bilirakis
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1555314
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 佛羅里達州眾議員
+        org: florida-house-of-representatives
+        from: "1998"
+        to: "2006"
+  - id: gus-walz
+    type: person
+    name: Gus Walz
+    names:
+      zh: 格斯·沃爾茲
+      en: Gus Walz
+    gender: M
+    born: "2006"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American student; son of Tim Walz (born 2006)
+    ids:
+      wikidata: Q129408580
+    links:
+      - https://en.wikipedia.org/wiki/Gus_Walz
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q129408580
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: guy-kawasaki
+    type: person
+    name: Guy Kawasaki
+    names:
+      zh: 盖伊·川崎
+      en: Guy Kawasaki
+    gender: M
+    born: 1954-08-30
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美国企业家、作家
+    ids:
+      wikidata: Q507469
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%9B%96%E4%BC%8A%C2%B7%E5%B7%9D%E5%B4%8E
+      - https://en.wikipedia.org/wiki/Guy_Kawasaki
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q507469
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: guy-reschenthaler
+    type: person
+    name: Guy Reschenthaler
+    names:
+      zh: 蓋伊·瑞森紹爾
+      en: Guy Reschenthaler
+    gender: M
+    born: 1983-04-17
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American politician and attorney (born 1983)
+    ids:
+      wikidata: Q22096097
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%93%8B%E4%BC%8A%C2%B7%E7%91%9E%E6%A3%AE%E7%B4%B9%E7%88%BE
+      - https://en.wikipedia.org/wiki/Guy_Reschenthaler
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22096097
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 宾夕法尼亚州参议员
+        org: pennsylvania-state-senate
+        from: 2015-11-24
+        to: 2019-01-03
+  - id: gwen-moore
+    type: person
+    name: Gwen Moore
+    names:
+      zh: 格温·穆尔
+      en: Gwen Moore
+    gender: F
+    born: 1951-04-18
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (1951-)
+    ids:
+      wikidata: Q461698
+    links:
+      - https://en.wikipedia.org/wiki/Gwen_Moore
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461698
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 临时主席
+        from: "1997"
+        to: "1998"
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: member of the Wisconsin State Assembly
+        org: wisconsin-state-assembly
+        from: "1989"
+        to: "1992"
+      - title: 威斯康星州参议员
+        org: wisconsin-state-senate
+        from: "1993"
+        to: "2004"
+  - id: gwen-walz
+    type: person
+    name: Gwen Walz
+    names:
+      en: Gwen Walz
+    gender: F
+    born: 1966-06-15
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American educator (born 1966)
+    ids:
+      wikidata: Q128636124
+    links:
+      - https://en.wikipedia.org/wiki/Gwen_Walz
+    tags:
+      - relative
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q128636124
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: First Lady of Minnesota
+        from: 2019-01-07
+  - id: gwendolyn-sontheim-meyer
+    type: person
+    name: Gwendolyn Sontheim Meyer
+    names:
+      en: Gwendolyn Sontheim Meyer
+    gender: F
+    born: "1961"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American show jumper, heiress (Cargill), billionaire
+    netWorth:
+      usd: 5400000000
+    ids:
+      wikidata: Q5623504
+    links:
+      - https://en.wikipedia.org/wiki/Gwendolyn_Sontheim_Meyer
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5623504
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: gwynne-shotwell
+    type: person
+    name: Gwynne Shotwell
+    names:
+      zh: 格温·肖特维尔
+      en: Gwynne Shotwell
+    gender: F
+    born: 1963-11-23
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美国企业家
+    ids:
+      wikidata: Q1557944
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A0%BC%E6%B8%A9%C2%B7%E8%82%96%E7%89%B9%E5%A8%81%E5%B0%94
+      - https://en.wikipedia.org/wiki/Gwynne_Shotwell
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 33
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1557944
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席运营官
+      - title: 会长
+        org: organization
+        from: "2008"

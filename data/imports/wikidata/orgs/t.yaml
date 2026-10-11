@@ -1,0 +1,3269 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: taiwan-affairs-office
+    type: org
+    name: 中共中央台湾工作办公室
+    names:
+      zh: 中共中央台湾工作办公室
+      en: Taiwan Affairs Office
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 中共中央对台湾工作的办事机构
+    ids:
+      wikidata: Q1021636
+    links:
+      - https://en.wikipedia.org/wiki/Taiwan_Affairs_Office
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1021636
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tampa-bay-buccaneers
+    type: org
+    name: Tampa Bay Buccaneers
+    names:
+      zh: 坦帕湾海盗
+      en: Tampa Bay Buccaneers
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: National Football League franchise in Tampa, Florida
+    ids:
+      wikidata: Q320476
+    links:
+      - https://en.wikipedia.org/wiki/Tampa_Bay_Buccaneers
+    sources:
+      - url: https://www.wikidata.org/wiki/Q320476
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: taylor-university
+    type: org
+    name: Taylor University
+    names:
+      zh: 泰勒大学
+      en: Taylor University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: Christian university in Indiana
+    ids:
+      wikidata: Q7690168
+    links:
+      - https://en.wikipedia.org/wiki/Taylor_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7690168
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: td-ameritrade
+    type: org
+    name: TD Ameritrade
+    names:
+      zh: TD·美国交易公司
+      en: TD Ameritrade
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American online broker
+    ids:
+      wikidata: Q7669886
+    links:
+      - https://en.wikipedia.org/wiki/TD_Ameritrade
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7669886
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: td-trump-deutschland
+    type: org
+    name: TD Trump Deutschland
+    names:
+      en: TD Trump Deutschland
+    orgType: company
+    country:
+      - DE
+    sectors:
+      - business
+    tier: 4
+    summary: Disestablished real estate company by Donald Trump.
+    ids:
+      wikidata: Q2383864
+    links:
+      - https://en.wikipedia.org/wiki/TD_Trump_Deutschland
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2383864
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: teachers-college
+    type: org
+    name: Teachers College
+    names:
+      zh: 哥伦比亚大学教育学院
+      en: Teachers College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: graduate school of Columbia University
+    ids:
+      wikidata: Q7691246
+    links:
+      - https://en.wikipedia.org/wiki/Teachers_College%2C_Columbia_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7691246
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: team-penske
+    type: org
+    name: Team Penske
+    names:
+      zh: 彭斯克車隊
+      en: Team Penske
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国职业赛车队
+    ids:
+      wikidata: Q174144
+    links:
+      - https://en.wikipedia.org/wiki/Team_Penske
+    sources:
+      - url: https://www.wikidata.org/wiki/Q174144
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: teaneck-high-school
+    type: org
+    name: Teaneck High School
+    names:
+      zh: 提内克高中
+      en: Teaneck High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in New Jersey, United States
+    ids:
+      wikidata: Q7691704
+    links:
+      - https://en.wikipedia.org/wiki/Teaneck_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7691704
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: telebit
+    type: org
+    name: Telebit
+    names:
+      en: Telebit
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: modem business
+    ids:
+      wikidata: Q2401341
+    links:
+      - https://en.wikipedia.org/wiki/Telebit
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2401341
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: telosa
+    type: org
+    name: Telosa
+    names:
+      zh: 特罗莎
+      en: Telosa
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: planned city megaproject in the United States
+    ids:
+      wikidata: Q108685380
+    links:
+      - https://en.wikipedia.org/wiki/Telosa
+    sources:
+      - url: https://www.wikidata.org/wiki/Q108685380
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tencent
+    type: org
+    name: 腾讯
+    names:
+      zh: 腾讯
+      en: Tencent
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中国跨国投资控股集团
+    ids:
+      wikidata: Q860580
+    links:
+      - https://en.wikipedia.org/wiki/Tencent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q860580
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tennessee-house-of-representatives
+    type: org
+    name: Tennessee House of Representatives
+    names:
+      zh: 田納西州眾議院
+      en: Tennessee House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Lower House of the Tennessee Legislature
+    ids:
+      wikidata: Q2145213
+    links:
+      - https://en.wikipedia.org/wiki/Tennessee_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2145213
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tennessee-senate
+    type: org
+    name: Tennessee Senate
+    names:
+      zh: 田納西州參議院
+      en: Tennessee Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Upper House of the Tennessee Legislature
+    ids:
+      wikidata: Q1772204
+    links:
+      - https://en.wikipedia.org/wiki/Tennessee_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1772204
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tennessee-state-government
+    type: org
+    name: Tennessee State Government
+    names:
+      zh: 田纳西州政府
+      en: Tennessee State Government
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Tennessee
+    ids:
+      wikidata: Q22073146
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Tennessee
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22073146
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tennessee-technological-university
+    type: org
+    name: Tennessee Technological University
+    names:
+      zh: 田納西理工大學
+      en: Tennessee Technological University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university
+    ids:
+      wikidata: Q7700206
+    links:
+      - https://en.wikipedia.org/wiki/Tennessee_Technological_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7700206
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: terrapower
+    type: org
+    name: TerraPower
+    names:
+      zh: 泰拉能源
+      en: TerraPower
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美国核能公司
+    ids:
+      wikidata: Q4050859
+    links:
+      - https://en.wikipedia.org/wiki/TerraPower
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4050859
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tesla
+    type: org
+    name: Tesla
+    names:
+      zh: 特斯拉公司
+      en: Tesla
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國汽車、能源存儲、太陽能公司
+    ids:
+      wikidata: Q478214
+    links:
+      - https://en.wikipedia.org/wiki/Tesla%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q478214
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tetris-online-inc
+    type: org
+    name: Tetris Online, Inc.
+    names:
+      zh: Tetris在线
+      en: Tetris Online, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American online video game developer (2006–2019)
+    ids:
+      wikidata: Q14947375
+    links:
+      - https://en.wikipedia.org/wiki/Tetris_Online%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14947375
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: texas-a-and-m-university
+    type: org
+    name: Texas A&M University
+    names:
+      zh: 得克萨斯农工大学
+      en: Texas A&M University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 位於美國德克薩斯州大學城的公立研究型大學
+    ids:
+      wikidata: Q49212
+    links:
+      - https://en.wikipedia.org/wiki/Texas_A%26M_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49212
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: texas-christian-university
+    type: org
+    name: Texas Christian University
+    names:
+      zh: 德克萨斯基督教大学
+      en: Texas Christian University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private university in Fort Worth, Texas, USA
+    ids:
+      wikidata: Q2302280
+    links:
+      - https://en.wikipedia.org/wiki/Texas_Christian_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2302280
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: texas-house-of-representatives
+    type: org
+    name: Texas House of Representatives
+    names:
+      zh: 德克薩斯州眾議院
+      en: Texas House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of U.S. state Texas legislature
+    ids:
+      wikidata: Q827550
+    links:
+      - https://en.wikipedia.org/wiki/Texas_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q827550
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: texas-institute-of-technology-and-science
+    type: org
+    name: Texas Institute of Technology & Science
+    names:
+      en: Texas Institute of Technology & Science
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q109332244
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q109332244
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: texas-rangers
+    type: org
+    name: Texas Rangers
+    names:
+      zh: 德州游骑兵
+      en: Texas Rangers
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国职棒大联盟球队
+    ids:
+      wikidata: Q329816
+    links:
+      - https://en.wikipedia.org/wiki/Texas_Rangers_(baseball)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q329816
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: texas-senate
+    type: org
+    name: Texas Senate
+    names:
+      zh: 德克萨斯参议院
+      en: Texas Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Senate of the State of Texas
+    ids:
+      wikidata: Q515426
+    links:
+      - https://en.wikipedia.org/wiki/Texas_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q515426
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: texas-southern-university
+    type: org
+    name: Texas Southern University
+    names:
+      zh: 德克萨斯南方大学
+      en: Texas Southern University
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: university
+    ids:
+      wikidata: Q626591
+    links:
+      - https://en.wikipedia.org/wiki/Texas_Southern_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q626591
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: texas-tech-university
+    type: org
+    name: Texas Tech University
+    names:
+      zh: 得克萨斯理工大学
+      en: Texas Tech University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: TTU，也常譯為德州理工大學），是一所位于美国德克萨斯州拉伯克市的研究型大学，学校成立于1923年2月10号，最初称为德克萨斯技术学院(Texas Technological College）, 1969年，改名為德州理工大學(Texas Tech University）
+    ids:
+      wikidata: Q1423756
+    links:
+      - https://en.wikipedia.org/wiki/Texas_Tech_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1423756
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: texas-wesleyan-university
+    type: org
+    name: Texas Wesleyan University
+    names:
+      zh: 德克萨斯卫斯理大学
+      en: Texas Wesleyan University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private Methodist university in Fort Worth, Texas, United States
+    ids:
+      wikidata: Q7708205
+    links:
+      - https://en.wikipedia.org/wiki/Texas_Wesleyan_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7708205
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-14th-central-committee-of-the-public-interest-party-of-china
+    type: org
+    name: 中国致公党第十四届中央委员会
+    names:
+      zh: 中国致公党第十四届中央委员会
+      en: The 14th Central Committee of the Public Interest Party of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 是中国致公党第十四次全国代表大会选举产生的领导机构，该大会于2012年12月3日至6日在北京举行，是参政党2012年召开的全国代表大会
+    ids:
+      wikidata: Q136802813
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136802813
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-3do-company
+    type: org
+    name: The 3DO Company
+    names:
+      zh: 3DO公司
+      en: The 3DO Company
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國電子遊戲開發商
+    ids:
+      wikidata: Q1062171
+    links:
+      - https://en.wikipedia.org/wiki/The_3DO_Company
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1062171
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-american-conservative
+    type: org
+    name: The American Conservative
+    names:
+      zh: 美國保守派
+      en: The American Conservative
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American magazine
+    ids:
+      wikidata: Q159664
+    links:
+      - https://en.wikipedia.org/wiki/The_American_Conservative
+    sources:
+      - url: https://www.wikidata.org/wiki/Q159664
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-anschutz-corporation
+    type: org
+    name: The Anschutz Corporation
+    names:
+      zh: 安舒茨公司
+      en: The Anschutz Corporation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American private holding company
+    ids:
+      wikidata: Q7713888
+    links:
+      - https://en.wikipedia.org/wiki/The_Anschutz_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7713888
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-anschutz-foundation
+    type: org
+    name: The Anschutz Foundation
+    names:
+      en: The Anschutz Foundation
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American private charitable foundation founded by Philip Anschutz
+    ids:
+      wikidata: Q113934140
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q113934140
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-black-feathered-hat
+    type: org
+    name: The Black Feathered Hat
+    names:
+      en: The Black Feathered Hat
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Gustav Klimt
+    ids:
+      wikidata: Q113997319
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q113997319
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-board-of-governors-of-ariel-university
+    type: org
+    name: The Board of Governors of Ariel University
+    names:
+      en: The Board of Governors of Ariel University
+    orgType: other
+    country:
+      - IL
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q117278648
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q117278648
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-boring-company
+    type: org
+    name: The Boring Company
+    names:
+      zh: 无聊公司
+      en: The Boring Company
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國公司
+    ids:
+      wikidata: Q28874479
+    links:
+      - https://en.wikipedia.org/wiki/The_Boring_Company
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28874479
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-broad
+    type: org
+    name: The Broad
+    names:
+      en: The Broad
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: contemporary art museum in Downtown Los Angeles
+    ids:
+      wikidata: Q17060100
+    links:
+      - https://en.wikipedia.org/wiki/The_Broad
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17060100
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-broad-art-foundation
+    type: org
+    name: The Broad Art Foundation
+    names:
+      en: The Broad Art Foundation
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q106689155
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106689155
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-catholic-university-of-america
+    type: org
+    name: The Catholic University of America
+    names:
+      zh: 美國天主教大學
+      en: The Catholic University of America
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 一所位于美国华盛顿特区的天主教大学
+    ids:
+      wikidata: Q179036
+    links:
+      - https://en.wikipedia.org/wiki/Catholic_University_of_America
+    sources:
+      - url: https://www.wikidata.org/wiki/Q179036
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-center-for-early-education
+    type: org
+    name: The Center for Early Education
+    names:
+      en: The Center for Early Education
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private school in West Hollywood, California, United States
+    ids:
+      wikidata: Q7721887
+    links:
+      - https://en.wikipedia.org/wiki/Center_for_Early_Education
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7721887
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-coca-cola-company
+    type: org
+    name: The Coca-Cola Company
+    names:
+      zh: 可口可乐公司
+      en: The Coca-Cola Company
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 跨國飲料公司
+    ids:
+      wikidata: Q3295867
+    links:
+      - https://en.wikipedia.org/wiki/The_Coca-Cola_Company
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3295867
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-cohen-group
+    type: org
+    name: The Cohen Group
+    names:
+      zh: 科恩集团
+      en: The Cohen Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    ids:
+      wikidata: Q16829847
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16829847
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-donald-j-trump-revocable-trust
+    type: org
+    name: The Donald J. Trump Revocable Trust
+    names:
+      en: The Donald J. Trump Revocable Trust
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: trust created in 2014 to hold and manage the personal assets and business assets of Donald J. Trump
+    ids:
+      wikidata: Q115934307
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115934307
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-eric-and-wendy-schmidt-fund-for-strategic-innovation
+    type: org
+    name: The Eric and Wendy Schmidt Fund for Strategic Innovation
+    names:
+      en: The Eric and Wendy Schmidt Fund for Strategic Innovation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private foundation in Palo Alto, California, United States
+    ids:
+      wikidata: Q45761111
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q45761111
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-explorers-club
+    type: org
+    name: The Explorers Club
+    names:
+      zh: 探险俱乐部
+      en: The Explorers Club
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: organization founded in 1904
+    ids:
+      wikidata: Q2411202
+    links:
+      - https://en.wikipedia.org/wiki/The_Explorers_Club
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2411202
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-fletcher-school-of-law-and-diplomacy
+    type: org
+    name: The Fletcher School of Law and Diplomacy
+    names:
+      zh: 弗莱彻法律与外交学院
+      en: The Fletcher School of Law and Diplomacy
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: Tufts University school of international relations and law
+    ids:
+      wikidata: Q1073441
+    links:
+      - https://en.wikipedia.org/wiki/Fletcher_School_of_Law_and_Diplomacy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1073441
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-geffen-film-company
+    type: org
+    name: The Geffen Film Company
+    names:
+      zh: 格芬电影公司
+      en: The Geffen Film Company
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: film distributor and production company
+    ids:
+      wikidata: Q7736023
+    links:
+      - https://en.wikipedia.org/wiki/The_Geffen_Film_Company
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7736023
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-giving-pledge
+    type: org
+    name: The Giving Pledge
+    names:
+      zh: 捐赠宣言
+      en: The Giving Pledge
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: charitable campaign for rich people to donate at least 50% of their wealth
+    ids:
+      wikidata: Q203807
+    links:
+      - https://en.wikipedia.org/wiki/The_Giving_Pledge
+    sources:
+      - url: https://www.wikidata.org/wiki/Q203807
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-gnome-project
+    type: org
+    name: The GNOME Project
+    names:
+      zh: GNOME計劃
+      en: The GNOME Project
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: 自由軟件社區
+    ids:
+      wikidata: Q7735575
+    links:
+      - https://en.wikipedia.org/wiki/GNOME_Project
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7735575
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-gravel-institute
+    type: org
+    name: The Gravel Institute
+    names:
+      en: The Gravel Institute
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American progressive think tank
+    ids:
+      wikidata: Q104879998
+    links:
+      - https://en.wikipedia.org/wiki/The_Gravel_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104879998
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-haverford-school
+    type: org
+    name: The Haverford School
+    names:
+      zh: 哈弗福德中學
+      en: The Haverford School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private, all-boys school in Haverford, Pennsylvania, United States
+    ids:
+      wikidata: Q7739047
+    links:
+      - https://en.wikipedia.org/wiki/Haverford_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7739047
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-henry-t-nicholas-iii-foundation
+    type: org
+    name: The Henry T. Nicholas, III Foundation
+    names:
+      en: The Henry T. Nicholas, III Foundation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q7739382
+    links:
+      - https://en.wikipedia.org/wiki/The_Henry_T._Nicholas_III_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7739382
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-heritage-foundation
+    type: org
+    name: The Heritage Foundation
+    names:
+      zh: 美国传统基金会
+      en: The Heritage Foundation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国智库
+    ids:
+      wikidata: Q876787
+    links:
+      - https://en.wikipedia.org/wiki/The_Heritage_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q876787
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-hill-school
+    type: org
+    name: The Hill School
+    names:
+      zh: 希尔中学
+      en: The Hill School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: school in Pennsylvania, United States
+    ids:
+      wikidata: Q7739685
+    links:
+      - https://en.wikipedia.org/wiki/The_Hill_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7739685
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-home-depot
+    type: org
+    name: The Home Depot
+    names:
+      zh: 家得宝
+      en: The Home Depot
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国家庭装饰与建材零售商
+    ids:
+      wikidata: Q864407
+    links:
+      - https://en.wikipedia.org/wiki/Home_Depot
+    sources:
+      - url: https://www.wikidata.org/wiki/Q864407
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-kinkaid-school
+    type: org
+    name: The Kinkaid School
+    names:
+      zh: The Kinkaid School
+      en: The Kinkaid School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: school in Piney Point Village, Harris County, Texas, United States
+    ids:
+      wikidata: Q7744702
+    links:
+      - https://en.wikipedia.org/wiki/The_Kinkaid_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7744702
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-kraft-group
+    type: org
+    name: The Kraft Group
+    names:
+      zh: 卡夫集團
+      en: The Kraft Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American group of large corporations
+    ids:
+      wikidata: Q7744946
+    links:
+      - https://en.wikipedia.org/wiki/Kraft_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7744946
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-mccallie-school
+    type: org
+    name: The McCallie School
+    names:
+      zh: 麥克考利預科學校
+      en: The McCallie School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: school in Chattanooga, Tennessee, United States
+    ids:
+      wikidata: Q7750751
+    links:
+      - https://en.wikipedia.org/wiki/The_McCallie_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7750751
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-nature-conservancy
+    type: org
+    name: The Nature Conservancy
+    names:
+      zh: 大自然保护协会
+      en: The Nature Conservancy
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国环保慈善组织
+    ids:
+      wikidata: Q1813186
+    links:
+      - https://en.wikipedia.org/wiki/The_Nature_Conservancy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1813186
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-new-republic
+    type: org
+    name: The New Republic
+    names:
+      zh: 新共和
+      en: The New Republic
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国杂志
+    ids:
+      wikidata: Q1329873
+    links:
+      - https://en.wikipedia.org/wiki/The_New_Republic
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1329873
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-palace-of-auburn-hills
+    type: org
+    name: The Palace of Auburn Hills
+    names:
+      zh: 奧本山豪华娱乐场
+      en: The Palace of Auburn Hills
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: architectural structure
+    ids:
+      wikidata: Q1327633
+    links:
+      - https://en.wikipedia.org/wiki/The_Palace_of_Auburn_Hills
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1327633
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-parker-foundation
+    type: org
+    name: The Parker Foundation
+    names:
+      en: The Parker Foundation
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q60195334
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60195334
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-players-tribune
+    type: org
+    name: The Players Tribune
+    names:
+      zh: 球員論壇報
+      en: The Players Tribune
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Sports journalism website providing content written by professional athletes
+    ids:
+      wikidata: Q19358484
+    links:
+      - https://en.wikipedia.org/wiki/The_Players'_Tribune
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19358484
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-post-oak
+    type: org
+    name: The Post Oak
+    names:
+      en: The Post Oak
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 5 star hotel in houston
+    ids:
+      wikidata: Q54871391
+    links:
+      - https://en.wikipedia.org/wiki/The_Post_Oak
+    sources:
+      - url: https://www.wikidata.org/wiki/Q54871391
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-queen
+    type: org
+    name: The Queen
+    names:
+      en: The Queen
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Janet Taylor Pickett
+    ids:
+      wikidata: Q96141140
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96141140
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-related-companies
+    type: org
+    name: The Related Companies
+    names:
+      zh: Related Midwest地產公司
+      en: The Related Companies
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American real estate firm and developer
+    ids:
+      wikidata: Q7760100
+    links:
+      - https://en.wikipedia.org/wiki/Related_Companies
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7760100
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-saylor-academy
+    type: org
+    name: The Saylor Academy
+    names:
+      zh: 塞勒基金会
+      en: The Saylor Academy
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Non-profit initiative offering free and open online education
+    ids:
+      wikidata: Q7762372
+    links:
+      - https://en.wikipedia.org/wiki/Saylor_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7762372
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-scream
+    type: org
+    name: The Scream
+    names:
+      en: The Scream
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: pastel by Edvard Munch (1895)
+    ids:
+      wikidata: Q18891157
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18891157
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-seminar-network
+    type: org
+    name: The Seminar Network
+    names:
+      en: The Seminar Network
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q86754306
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q86754306
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-smoker
+    type: org
+    name: The Smoker
+    names:
+      en: The Smoker
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Fernand Léger (Met)
+    ids:
+      wikidata: Q137723133
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137723133
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-spaceship-company
+    type: org
+    name: The Spaceship Company
+    names:
+      zh: 太空船公司
+      en: The Spaceship Company
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: spacecraft manufacturing company
+    ids:
+      wikidata: Q7765658
+    links:
+      - https://en.wikipedia.org/wiki/The_Spaceship_Company
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7765658
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-stanford-review
+    type: org
+    name: The Stanford Review
+    names:
+      en: The Stanford Review
+    orgType: media
+    country:
+      - US
+    sectors:
+      - media
+    tier: 4
+    summary: student-run newspaper
+    ids:
+      wikidata: Q3332289
+    links:
+      - https://en.wikipedia.org/wiki/The_Stanford_Review
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3332289
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-terrace-at-the-hotel-mistral
+    type: org
+    name: The Terrace at the Hôtel Mistral
+    names:
+      en: The Terrace at the Hôtel Mistral
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Georges Braque
+    ids:
+      wikidata: Q121494186
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q121494186
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-terramar-project
+    type: org
+    name: The TerraMar Project
+    names:
+      en: The TerraMar Project
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: organization
+    ids:
+      wikidata: Q17089943
+    links:
+      - https://en.wikipedia.org/wiki/The_TerraMar_Project
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17089943
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-tetris-company
+    type: org
+    name: The Tetris Company
+    names:
+      zh: 俄罗斯方块公司
+      en: The Tetris Company
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美国电子游戏公司
+    ids:
+      wikidata: Q3522981
+    links:
+      - https://en.wikipedia.org/wiki/The_Tetris_Company
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3522981
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-tornante-company
+    type: org
+    name: The Tornante Company
+    names:
+      zh: 托內特公司
+      en: The Tornante Company
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American investment firm
+    ids:
+      wikidata: Q16255488
+    links:
+      - https://en.wikipedia.org/wiki/The_Tornante_Company
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16255488
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-vanguard-group
+    type: org
+    name: The Vanguard Group
+    names:
+      zh: 先锋基金
+      en: The Vanguard Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 基金管理公司
+    ids:
+      wikidata: Q849363
+    links:
+      - https://en.wikipedia.org/wiki/The_Vanguard_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q849363
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-virgin-with-the-host
+    type: org
+    name: The Virgin with the Host
+    names:
+      en: The Virgin with the Host
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Jean-Auguste Dominique Ingres
+    ids:
+      wikidata: Q20882135
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20882135
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-walt-disney-company
+    type: org
+    name: The Walt Disney Company
+    names:
+      zh: 华特迪士尼公司
+      en: The Walt Disney Company
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國多元化跨國大眾傳媒公司
+    ids:
+      wikidata: Q7414
+    links:
+      - https://en.wikipedia.org/wiki/The_Walt_Disney_Company
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7414
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-walt-disney-company-latin-america
+    type: org
+    name: The Walt Disney Company Latin America
+    names:
+      en: The Walt Disney Company Latin America
+    orgType: company
+    country:
+      - AR
+    sectors:
+      - business
+    tier: 4
+    summary: Disney subsidiary
+    ids:
+      wikidata: Q14928314
+    links:
+      - https://en.wikipedia.org/wiki/The_Walt_Disney_Company_Latin_America
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14928314
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-washington-post
+    type: org
+    name: The Washington Post
+    names:
+      zh: 华盛顿邮报
+      en: The Washington Post
+    orgType: media
+    country:
+      - US
+    sectors:
+      - media
+    tier: 2
+    summary: 美國華盛頓特區的報紙
+    ids:
+      wikidata: Q166032
+    links:
+      - https://en.wikipedia.org/wiki/The_Washington_Post
+    sources:
+      - url: https://www.wikidata.org/wiki/Q166032
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-washington-times
+    type: org
+    name: The Washington Times
+    names:
+      zh: 华盛顿时报
+      en: The Washington Times
+    orgType: media
+    country:
+      - US
+    sectors:
+      - media
+    tier: 3
+    summary: 1982年创办的美国报纸
+    ids:
+      wikidata: Q494170
+    links:
+      - https://en.wikipedia.org/wiki/The_Washington_Times
+    sources:
+      - url: https://www.wikidata.org/wiki/Q494170
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-wharton-school
+    type: org
+    name: The Wharton School
+    names:
+      zh: 沃顿商学院
+      en: The Wharton School
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 賓夕法尼亞大學商學院
+    ids:
+      wikidata: Q1329269
+    links:
+      - https://en.wikipedia.org/wiki/Wharton_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1329269
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: the-wonderful-company
+    type: org
+    name: The Wonderful Company
+    names:
+      en: The Wonderful Company
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American privately-held holding company
+    ids:
+      wikidata: Q7360876
+    links:
+      - https://en.wikipedia.org/wiki/The_Wonderful_Company
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7360876
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: theodore-roosevelt-medora-foundation
+    type: org
+    name: Theodore Roosevelt Medora Foundation
+    names:
+      en: Theodore Roosevelt Medora Foundation
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: non-profit in Medora, ND
+    ids:
+      wikidata: Q74472837
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q74472837
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: theranos
+    type: org
+    name: Theranos
+    names:
+      zh: Theranos
+      en: Theranos
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國生物科技公司
+    ids:
+      wikidata: Q16956307
+    links:
+      - https://en.wikipedia.org/wiki/Theranos
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16956307
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thiel-fellowship
+    type: org
+    name: Thiel Fellowship
+    names:
+      zh: 泰爾獎學金
+      en: Thiel Fellowship
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 由彼得·泰爾創立的獎學金
+    ids:
+      wikidata: Q7783986
+    links:
+      - https://en.wikipedia.org/wiki/Thiel_Fellowship
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7783986
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thinking-machines-lab
+    type: org
+    name: Thinking Machines Lab
+    names:
+      zh: 思維機器實驗室
+      en: Thinking Machines Lab
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American artificial intelligence company
+    ids:
+      wikidata: Q132532850
+    links:
+      - https://en.wikipedia.org/wiki/Thinking_Machines_Lab
+    sources:
+      - url: https://www.wikidata.org/wiki/Q132532850
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: third-point-management
+    type: org
+    name: Third Point Management
+    names:
+      zh: 第三點管理
+      en: Third Point Management
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: New York-based hedge fund
+    ids:
+      wikidata: Q17164492
+    links:
+      - https://en.wikipedia.org/wiki/Third_Point
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17164492
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thomas-downey-high-school
+    type: org
+    name: Thomas Downey High School
+    names:
+      en: Thomas Downey High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in California, United States
+    ids:
+      wikidata: Q7789043
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_Downey_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7789043
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thomas-jefferson-high-school
+    type: org
+    name: Thomas Jefferson High School
+    names:
+      en: Thomas Jefferson High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: historic high school in San Antonio, Bexar County, Texas
+    ids:
+      wikidata: Q14711377
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_Jefferson_High_School_(San_Antonio)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14711377
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thomas-jefferson-high-school-for-science-and-technology
+    type: org
+    name: Thomas Jefferson High School for Science and Technology
+    names:
+      en: Thomas Jefferson High School for Science and Technology
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: magnet high school in Alexandria, Virginia
+    ids:
+      wikidata: Q7791268
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_Jefferson_High_School_for_Science_and_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7791268
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thrive-global
+    type: org
+    name: Thrive Global
+    names:
+      en: Thrive Global
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: company
+    ids:
+      wikidata: Q66809068
+    links:
+      - https://en.wikipedia.org/wiki/Thrive_Global
+    sources:
+      - url: https://www.wikidata.org/wiki/Q66809068
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thud
+    type: org
+    name: Thud
+    names:
+      en: Thud
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American media company (2017–2019)
+    ids:
+      wikidata: Q115815194
+    links:
+      - https://en.wikipedia.org/wiki/Thud_(media_company)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115815194
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thurgood-marshall-school-of-law
+    type: org
+    name: Thurgood Marshall School of Law
+    names:
+      en: Thurgood Marshall School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school in Houston, Texas, part of Texas Southern University
+    ids:
+      wikidata: Q7799288
+    links:
+      - https://en.wikipedia.org/wiki/Thurgood_Marshall_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7799288
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thx
+    type: org
+    name: THX
+    names:
+      zh: THX标准
+      en: THX
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American audio company
+    ids:
+      wikidata: Q1044630
+    links:
+      - https://en.wikipedia.org/wiki/THX
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1044630
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tiaa
+    type: org
+    name: TIAA
+    names:
+      zh: 美国教师保险和年金协会
+      en: TIAA
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: financial services organization
+    ids:
+      wikidata: Q740999
+    links:
+      - https://en.wikipedia.org/wiki/TIAA
+    sources:
+      - url: https://www.wikidata.org/wiki/Q740999
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tianjin-university
+    type: org
+    name: 天津大学
+    names:
+      zh: 天津大学
+      en: Tianjin University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位於中國天津市的大學
+    ids:
+      wikidata: Q2031560
+    links:
+      - https://en.wikipedia.org/wiki/Tianjin_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2031560
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tibet-autonomous-regional-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党西藏自治区委员会
+    names:
+      zh: 中国共产党西藏自治区委员会
+      en: Tibet Autonomous Regional Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国共产党在西藏自治区的领导机关
+    ids:
+      wikidata: Q10873266
+    links:
+      - https://en.wikipedia.org/wiki/Tibet_Autonomous_Regional_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873266
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tiens-biotech-group
+    type: org
+    name: Tiens Biotech Group
+    names:
+      zh: 天狮集团
+      en: Tiens Biotech Group
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: 天津公司
+    ids:
+      wikidata: Q851600
+    links:
+      - https://en.wikipedia.org/wiki/Tiens_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q851600
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tiger-global-management
+    type: org
+    name: Tiger Global Management
+    names:
+      zh: 老虎全球管理
+      en: Tiger Global Management
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Private Investment Firm
+    ids:
+      wikidata: Q95413215
+    links:
+      - https://en.wikipedia.org/wiki/Tiger_Global_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q95413215
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: time
+    type: org
+    name: Time
+    names:
+      zh: 时代
+      en: Time
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國新聞雜誌
+    ids:
+      wikidata: Q43297
+    links:
+      - https://en.wikipedia.org/wiki/Time_(magazine)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q43297
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tinder
+    type: org
+    name: Tinder
+    names:
+      zh: Tinder
+      en: Tinder
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 一款美国的约会应用
+    ids:
+      wikidata: Q15078152
+    links:
+      - https://en.wikipedia.org/wiki/Tinder_(app)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15078152
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tko-group-holdings
+    type: org
+    name: TKO Group Holdings
+    names:
+      en: TKO Group Holdings
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American sports and entertainment promoter
+    ids:
+      wikidata: Q120435068
+    links:
+      - https://en.wikipedia.org/wiki/TKO_Group_Holdings
+    sources:
+      - url: https://www.wikidata.org/wiki/Q120435068
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tongji-university
+    type: org
+    name: 同济大学
+    names:
+      zh: 同济大学
+      en: Tongji University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 中國上海綜合性大學
+    ids:
+      wikidata: Q16947
+    links:
+      - https://en.wikipedia.org/wiki/Tongji_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16947
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: top-of-the-rock
+    type: org
+    name: Top of the Rock
+    names:
+      en: Top of the Rock
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q66722774
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q66722774
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: torre-mayor
+    type: org
+    name: Torre Mayor
+    names:
+      zh: 主塔大廈
+      en: Torre Mayor
+    orgType: other
+    country:
+      - MX
+    sectors:
+      - other
+    tier: 3
+    summary: skyscraper in Mexico City
+    ids:
+      wikidata: Q844813
+    links:
+      - https://en.wikipedia.org/wiki/Torre_Mayor
+    sources:
+      - url: https://www.wikidata.org/wiki/Q844813
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: torrey-pines-high-school
+    type: org
+    name: Torrey Pines High School
+    names:
+      zh: 托利松高中
+      en: Torrey Pines High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public high school in San Diego, California, USA
+    ids:
+      wikidata: Q7827097
+    links:
+      - https://en.wikipedia.org/wiki/Torrey_Pines_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7827097
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tory-burch-llc
+    type: org
+    name: Tory Burch LLC
+    names:
+      zh: 汤丽柏琦
+      en: Tory Burch LLC
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American fashion brand
+    ids:
+      wikidata: Q19988222
+    links:
+      - https://en.wikipedia.org/wiki/Tory_Burch_LLC
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19988222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: total-intelligence-solutions
+    type: org
+    name: Total Intelligence Solutions
+    names:
+      en: Total Intelligence Solutions
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: company
+    ids:
+      wikidata: Q2078271
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2078271
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: total-wine-and-more
+    type: org
+    name: Total Wine & More
+    names:
+      en: Total Wine & More
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: US alcoholic beverages retail chain
+    ids:
+      wikidata: Q7828084
+    links:
+      - https://en.wikipedia.org/wiki/Total_Wine_%26_More
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7828084
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: totalenergies
+    type: org
+    name: TotalEnergies
+    names:
+      zh: TotalEnergies
+      en: TotalEnergies
+    orgType: company
+    country:
+      - FR
+    sectors:
+      - business
+    tier: 2
+    summary: 法国石油公司
+    ids:
+      wikidata: Q154037
+    links:
+      - https://en.wikipedia.org/wiki/TotalEnergies
+    sources:
+      - url: https://www.wikidata.org/wiki/Q154037
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: touch-press
+    type: org
+    name: Touch Press
+    names:
+      zh: Touchpress
+      en: Touch Press
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 4
+    summary: app developer and publisher
+    ids:
+      wikidata: Q14817066
+    links:
+      - https://en.wikipedia.org/wiki/Touchpress
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14817066
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: toyota
+    type: org
+    name: Toyota
+    names:
+      zh: 丰田汽车
+      en: Toyota
+    orgType: company
+    country:
+      - JP
+    sectors:
+      - business
+    tier: 2
+    summary: 日本汽車製造商
+    ids:
+      wikidata: Q53268
+    links:
+      - https://en.wikipedia.org/wiki/Toyota
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53268
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tpg
+    type: org
+    name: TPG
+    names:
+      zh: 德州太平洋集团
+      en: TPG
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American investment company
+    ids:
+      wikidata: Q2164606
+    links:
+      - https://en.wikipedia.org/wiki/TPG_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2164606
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tpusa-faith
+    type: org
+    name: TPUSA Faith
+    names:
+      en: TPUSA Faith
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: arm of TPUSA that's about religion
+    ids:
+      wikidata: Q136807282
+    links:
+      - https://en.wikipedia.org/wiki/TPUSA_Faith
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136807282
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: traf-o-data
+    type: org
+    name: Traf-O-Data
+    names:
+      zh: 交通数据公司
+      en: Traf-O-Data
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: early predecessor company to Microsoft
+    ids:
+      wikidata: Q2632842
+    links:
+      - https://en.wikipedia.org/wiki/Traf-O-Data
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2632842
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trees-at-l-estaque
+    type: org
+    name: Trees at L'Estaque
+    names:
+      en: Trees at L'Estaque
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Georges Braque (Met)
+    ids:
+      wikidata: Q137723136
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137723136
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trellix
+    type: org
+    name: Trellix
+    names:
+      en: Trellix
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: internet software company
+    ids:
+      wikidata: Q7838012
+    links:
+      - https://en.wikipedia.org/wiki/Trellix_(1995%E2%80%932004)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7838012
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trinity-university
+    type: org
+    name: Trinity University
+    names:
+      zh: 三一大学
+      en: Trinity University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university in San Antonio, Texas
+    ids:
+      wikidata: Q1311379
+    links:
+      - https://en.wikipedia.org/wiki/Trinity_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1311379
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trinity-washington-university
+    type: org
+    name: Trinity Washington University
+    names:
+      zh: 华盛顿圣三一大学
+      en: Trinity Washington University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: Catholic university in Washington, D.C.
+    ids:
+      wikidata: Q3539296
+    links:
+      - https://en.wikipedia.org/wiki/Trinity_Washington_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3539296
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tron
+    type: org
+    name: Tron
+    names:
+      zh: 波場
+      en: Tron
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: open-source blockchain computing platform
+    ids:
+      wikidata: Q47134419
+    links:
+      - https://en.wikipedia.org/wiki/Tron_(blockchain)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47134419
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: truemors
+    type: org
+    name: Truemors
+    names:
+      en: Truemors
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q17087618
+    links:
+      - https://en.wikipedia.org/wiki/Truemors
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17087618
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: truman-state-university
+    type: org
+    name: Truman State University
+    names:
+      zh: 杜鲁门州立大学
+      en: Truman State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国密苏里州的一所大学
+    ids:
+      wikidata: Q7847734
+    links:
+      - https://en.wikipedia.org/wiki/Truman_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7847734
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trumbull-college
+    type: org
+    name: Trumbull College
+    names:
+      zh: 特朗布尔学院
+      en: Trumbull College
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: residential college of Yale University
+    ids:
+      wikidata: Q7847747
+    links:
+      - https://en.wikipedia.org/wiki/Trumbull_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7847747
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trump-entertainment-resorts
+    type: org
+    name: Trump Entertainment Resorts
+    names:
+      zh: 川普娱乐公司
+      en: Trump Entertainment Resorts
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: defunct gaming and hospitality company
+    ids:
+      wikidata: Q2456392
+    links:
+      - https://en.wikipedia.org/wiki/Trump_Entertainment_Resorts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2456392
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trump-home
+    type: org
+    name: Trump Home
+    names:
+      en: Trump Home
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: brand of furniture and home items by Donald Trump
+    ids:
+      wikidata: Q28407316
+    links:
+      - https://en.wikipedia.org/wiki/Trump_Home
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28407316
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trump-international-golf-links-scotland
+    type: org
+    name: Trump International Golf Links, Scotland
+    names:
+      zh: 苏格兰特朗普国际高尔夫球场
+      en: Trump International Golf Links, Scotland
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 4
+    summary: golf course in the UK
+    ids:
+      wikidata: Q54869832
+    links:
+      - https://en.wikipedia.org/wiki/Trump_International_Golf_Links_Scotland
+    sources:
+      - url: https://www.wikidata.org/wiki/Q54869832
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trump-media
+    type: org
+    name: Truth Social
+    names:
+      zh: 真实社交
+      en: Truth Social
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 社交媒體平台
+    ids:
+      wikidata: Q109001687
+    links:
+      - https://en.wikipedia.org/wiki/Truth_Social
+    sources:
+      - url: https://www.wikidata.org/wiki/Q109001687
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trump-media
+    type: org
+    name: Trump Media & Technology Group
+    names:
+      zh: 特朗普媒体与科技集团
+      en: Trump Media & Technology Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American media and technology company
+    ids:
+      wikidata: Q109030760
+    links:
+      - https://en.wikipedia.org/wiki/Trump_Media_%26_Technology_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q109030760
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trump-model-management
+    type: org
+    name: Trump Model Management
+    names:
+      en: Trump Model Management
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: modeling agency
+    ids:
+      wikidata: Q844374
+    links:
+      - https://en.wikipedia.org/wiki/Trump_Model_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q844374
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trump-mortgage
+    type: org
+    name: Trump Mortgage
+    names:
+      zh: 川普按揭
+      en: Trump Mortgage
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: defunct financial services company named after Donald Trump
+    ids:
+      wikidata: Q7847772
+    links:
+      - https://en.wikipedia.org/wiki/Trump_Mortgage
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7847772
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trump-national-golf-club
+    type: org
+    name: Trump National Golf Club
+    names:
+      zh: 洛杉矶特朗普国家高尔夫俱乐部
+      en: Trump National Golf Club
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public golf club in Rancho Palos Verdes, California
+    ids:
+      wikidata: Q7847774
+    links:
+      - https://en.wikipedia.org/wiki/Trump_National_Golf_Club%2C_Los_Angeles
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7847774
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trump-national-golf-club-2
+    type: org
+    name: Trump National Golf Club
+    names:
+      en: Trump National Golf Club
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private golf club at Lowes Island in Cascades, Virginia
+    ids:
+      wikidata: Q20714076
+    links:
+      - https://en.wikipedia.org/wiki/Trump_National_Golf_Club_Washington%2C_D.C.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20714076
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trump-oil-corporation
+    type: org
+    name: Trump Oil Corporation
+    names:
+      en: Trump Oil Corporation
+    orgType: company
+    country:
+      - CA
+    sectors:
+      - business
+    tier: 4
+    ids:
+      wikidata: Q60789091
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60789091
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trump-organization
+    type: org
+    name: The Trump Organization
+    names:
+      zh: 特朗普集团
+      en: The Trump Organization
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國企業集團
+    ids:
+      wikidata: Q2462124
+    links:
+      - https://en.wikipedia.org/wiki/The_Trump_Organization
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2462124
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trump-tower-penthouse-of-donald-trump
+    type: org
+    name: Trump Tower penthouse of Donald Trump
+    names:
+      zh: 唐纳德·特朗普的特朗普大厦顶层公寓
+      en: Trump Tower penthouse of Donald Trump
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: 特朗普家族的主要住所
+    ids:
+      wikidata: Q123134707
+    links:
+      - https://en.wikipedia.org/wiki/Trump_Tower_penthouse_of_Donald_Trump
+    sources:
+      - url: https://www.wikidata.org/wiki/Q123134707
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trump-university
+    type: org
+    name: Trump University
+    names:
+      zh: 特朗普大学
+      en: Trump University
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: former for-profit US education company
+    ids:
+      wikidata: Q7770555
+    links:
+      - https://en.wikipedia.org/wiki/Trump_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7770555
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trump-winery
+    type: org
+    name: Trump Winery
+    names:
+      en: Trump Winery
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American winery operated by Eric Trump
+    ids:
+      wikidata: Q7847789
+    links:
+      - https://en.wikipedia.org/wiki/Trump_Winery
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7847789
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trump-world-tower
+    type: org
+    name: Trump World Tower
+    names:
+      zh: 特朗普世界大厦
+      en: Trump World Tower
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 建筑
+    ids:
+      wikidata: Q844324
+    links:
+      - https://en.wikipedia.org/wiki/Trump_World_Tower
+    sources:
+      - url: https://www.wikidata.org/wiki/Q844324
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trust
+    type: org
+    name: trust
+    names:
+      zh: 信托法
+      en: trust
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: three-party fiduciary relationship
+    ids:
+      wikidata: Q854022
+    links:
+      - https://en.wikipedia.org/wiki/Trust_(law)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q854022
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trustcafe
+    type: org
+    name: Trustcafé
+    names:
+      en: Trustcafé
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 社交網絡服務
+    ids:
+      wikidata: Q75094168
+    links:
+      - https://en.wikipedia.org/wiki/Trust_Caf%C3%A9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q75094168
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trusteeship
+    type: org
+    name: trusteeship
+    names:
+      en: trusteeship
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: office or position of a trustee
+    ids:
+      wikidata: Q124542016
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124542016
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tsinghua-university
+    type: org
+    name: 清华大学
+    names:
+      zh: 清华大学
+      en: Tsinghua University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 2
+    summary: 中华人民共和国北京市综合性大学
+    ids:
+      wikidata: Q16955
+    links:
+      - https://en.wikipedia.org/wiki/Tsinghua_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16955
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tsr
+    type: org
+    name: TSR
+    names:
+      zh: TSR
+      en: TSR
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: former company, publisher of Dungeons & Dragons
+    ids:
+      wikidata: Q1543201
+    links:
+      - https://en.wikipedia.org/wiki/TSR%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1543201
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tudor-investment-corporation
+    type: org
+    name: Tudor Investment Corporation
+    names:
+      en: Tudor Investment Corporation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American hedge fund firm
+    ids:
+      wikidata: Q95950900
+    links:
+      - https://en.wikipedia.org/wiki/Tudor_Investment_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q95950900
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tufts-university
+    type: org
+    name: Tufts University
+    names:
+      zh: 塔夫茨大学
+      en: Tufts University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 位于美国马萨诸塞州的一所私立研究型大学
+    ids:
+      wikidata: Q49120
+    links:
+      - https://en.wikipedia.org/wiki/Tufts_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49120
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tufts-university-school-of-engineering
+    type: org
+    name: Tufts University School of Engineering
+    names:
+      en: Tufts University School of Engineering
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: one of the ten schools that comprise Tufts University
+    ids:
+      wikidata: Q7851548
+    links:
+      - https://en.wikipedia.org/wiki/Tufts_University_School_of_Engineering
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7851548
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tulane-university
+    type: org
+    name: Tulane University
+    names:
+      zh: 杜兰大学
+      en: Tulane University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国路易斯安那州的大学
+    ids:
+      wikidata: Q1193547
+    links:
+      - https://en.wikipedia.org/wiki/Tulane_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1193547
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tulips
+    type: org
+    name: Tulips
+    names:
+      en: Tulips
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: sculpture by Jeff Koons sold at Christie's in 2012
+    ids:
+      wikidata: Q59850705
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q59850705
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tumblr
+    type: org
+    name: Tumblr
+    names:
+      en: Tumblr
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 微博平台和社交網站
+    ids:
+      wikidata: Q384060
+    links:
+      - https://en.wikipedia.org/wiki/Tumblr
+    sources:
+      - url: https://www.wikidata.org/wiki/Q384060
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: turn-2-foundation
+    type: org
+    name: Turn 2 Foundation
+    names:
+      en: Turn 2 Foundation
+    orgType: foundation
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q7855636
+    links:
+      - https://en.wikipedia.org/wiki/Turn_2_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7855636
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: turner-broadcasting-system
+    type: org
+    name: Turner Broadcasting System
+    names:
+      zh: 透納廣播公司
+      en: Turner Broadcasting System
+    orgType: media
+    country:
+      - US
+    sectors:
+      - media
+    tier: 3
+    summary: 前美国媒体集团
+    ids:
+      wikidata: Q7855903
+    links:
+      - https://en.wikipedia.org/wiki/Turner_Broadcasting_System
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7855903
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: turner-broadcasting-system-asia-pacific
+    type: org
+    name: Turner Broadcasting System Asia Pacific
+    names:
+      zh: 透納廣播系統亞太公司
+      en: Turner Broadcasting System Asia Pacific
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: company
+    ids:
+      wikidata: Q7855888
+    links:
+      - https://en.wikipedia.org/wiki/WarnerMedia_Entertainment_Networks_Asia_Pacific
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7855888
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: turner-broadcasting-system-europe
+    type: org
+    name: Turner Broadcasting System Europe
+    names:
+      en: Turner Broadcasting System Europe
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: media company
+    ids:
+      wikidata: Q7855891
+    links:
+      - https://en.wikipedia.org/wiki/WarnerMedia_EMEA
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7855891
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: turner-entertainment
+    type: org
+    name: Turner Entertainment
+    names:
+      zh: 透納娛樂公司
+      en: Turner Entertainment
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American multimedia company
+    ids:
+      wikidata: Q371400
+    links:
+      - https://en.wikipedia.org/wiki/Turner_Entertainment_Co.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q371400
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: turner-foundation
+    type: org
+    name: Turner Foundation
+    names:
+      en: Turner Foundation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: nonprofit organization in Atlanta, United States
+    ids:
+      wikidata: Q30259591
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30259591
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: turning-point-action
+    type: org
+    name: Turning Point Action
+    names:
+      zh: 转折点行动
+      en: Turning Point Action
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Conservative advocacy group
+    ids:
+      wikidata: Q84697720
+    links:
+      - https://en.wikipedia.org/wiki/Turning_Point_Action
+    sources:
+      - url: https://www.wikidata.org/wiki/Q84697720
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: turning-point-usa
+    type: org
+    name: Turning Point USA
+    names:
+      zh: 美國轉折點
+      en: Turning Point USA
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国非营利组织、美國校園保守組織
+    ids:
+      wikidata: Q27941549
+    links:
+      - https://en.wikipedia.org/wiki/Turning_Point_USA
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27941549
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tv-6
+    type: org
+    name: TV-6
+    names:
+      en: TV-6
+    orgType: other
+    country:
+      - RU
+    sectors:
+      - other
+    tier: 4
+    summary: defunct first Russian commercial television channel launched in 1993 and closed in 2002
+    ids:
+      wikidata: Q2386094
+    links:
+      - https://en.wikipedia.org/wiki/TV-6_(Russia)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2386094
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: twitter-inc
+    type: org
+    name: Twitter, Inc.
+    names:
+      zh: 推特公司
+      en: Twitter, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國公司
+    ids:
+      wikidata: Q1390577
+    links:
+      - https://en.wikipedia.org/wiki/Twitter%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1390577
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: two-sigma
+    type: org
+    name: Two Sigma
+    names:
+      zh: 席斯投资管理
+      en: Two Sigma
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: investment firm
+    ids:
+      wikidata: Q18355352
+    links:
+      - https://en.wikipedia.org/wiki/Two_Sigma
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18355352
+        publisher: Wikidata
+        accessed: 2026-10-11

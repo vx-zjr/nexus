@@ -1,0 +1,19 @@
+id: josh-kushner
+type: person
+name: Josh Kushner
+names:
+  en: Josh Kushner
+  zh: 乔什·库什纳
+gender: M
+born: '1985-06-12'
+country:
+- US
+sectors:
+- finance
+- tech
+tier: 3
+summary: Jared Kushner 之弟，风投 Thrive Capital 创始人（OpenAI 重要投资方）；妻为超模 Karlie Kloss。
+sources:
+- url: https://en.wikipedia.org/wiki/Joshua_Kushner
+  publisher: Wikipedia
+updated: '2026-10-11'

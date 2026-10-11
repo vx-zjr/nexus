@@ -1,0 +1,23 @@
+id: elaine-chao
+type: person
+name: Elaine Chao
+names:
+  en: Elaine Chao
+  zh: 赵小兰
+gender: F
+born: '1953-03-26'
+country:
+- US
+sectors:
+- politics
+- business
+tier: 2
+summary: 生于台北。前交通部长（2017–2021）、劳工部长（2001–2009）。其父赵锡成创办的福茂集团（Foremost）大量船舶在中国国有船厂建造并获中国国有银行融资；纽时 2019 调查及交通部监察长 2021 报告关注其利用职务为家族企业造势。
+sources:
+- url: https://en.wikipedia.org/wiki/Elaine_Chao
+  publisher: Wikipedia
+- url: https://www.allsides.com/news/2019-06-03-0700/politics-chao-family-deep-ties-worlds-2-largest-economies
+  title: For the Chao Family, Deep Ties to the World's 2 Largest Economies (NYT, 2019-06-02)
+  publisher: The New York Times（AllSides 摘要）
+  date: '2019-06-02'
+updated: '2026-10-11'

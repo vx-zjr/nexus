@@ -1,0 +1,26 @@
+id: brooke-rollins
+type: person
+name: Brooke Rollins
+names:
+  en: Brooke Rollins
+  zh: 布鲁克·罗林斯
+gender: F
+born: '1972'
+country:
+- US
+sectors:
+- politics
+tier: 2
+status: active
+summary: 农业部长（2025–）。前 America First Policy Institute 总裁。
+positions:
+- title: 农业部长
+  org: us-cabinet
+  from: '2025-02-13'
+  current: true
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

@@ -1,0 +1,39 @@
+id: wang-huning
+type: person
+name: 王沪宁
+names:
+  zh: 王沪宁
+  en: Wang Huning
+gender: M
+born: 1955-10
+country:
+- CN
+sectors:
+- politics
+tier: 1
+status: active
+summary: 全国政协主席（2023–），政治局常委第 4 位。复旦学者出身的理论家，先后为江泽民、胡锦涛、习近平三任总书记起草理论（“三代帝师”）。
+positions:
+- title: 全国政协主席
+  org: cppcc-national-committee
+  from: 2023-03
+  current: true
+- title: 政治局常委
+  org: ccp-politburo-standing-committee
+  from: 2017-10
+  current: true
+- title: 中央政策研究室主任
+  from: 2002-10
+  to: 2020-10
+tags:
+- pbsc-20
+- theorist
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+updated: '2026-10-11'

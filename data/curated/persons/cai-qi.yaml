@@ -1,0 +1,47 @@
+id: cai-qi
+type: person
+name: 蔡奇
+names:
+  zh: 蔡奇
+  en: Cai Qi
+gender: M
+born: 1955-12
+country:
+- CN
+sectors:
+- politics
+tier: 1
+status: active
+summary: 中央书记处第一书记、中办主任（2022–），政治局常委第 5 位。在福建、浙江长期追随习近平，“之江新军”代表人物；前北京市委书记。
+positions:
+- title: 中央书记处书记
+  org: ccp-secretariat
+  from: 2022-10
+  current: true
+- title: 中共中央办公厅主任
+  org: ccp-general-office
+  from: 2022-10
+  current: true
+- title: 政治局常委
+  org: ccp-politburo-standing-committee
+  from: 2022-10
+  current: true
+- title: 北京市委书记
+  from: 2017-05
+  to: 2022-10
+- title: 国家安全委员会办公室副主任
+  from: 2014-03
+  to: 2016-10
+tags:
+- zhijiang-xinjun
+- fujian-clique
+- pbsc-20
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+updated: '2026-10-11'

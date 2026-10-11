@@ -1,0 +1,23 @@
+id: justin-sun
+type: person
+name: 孙宇晨
+names:
+  en: 孙宇晨
+  zh: Justin Sun
+gender: M
+born: '1990-07-30'
+country:
+- CN
+- GD
+sectors:
+- tech
+- finance
+tier: 3
+summary: 波场（TRON）创始人，曾任格林纳达驻 WTO 大使。曾投资 World Liberty Financial（约 4500 万美元）及特朗普迷因币，2026-04 起诉 WLF 欺诈。
+sources:
+- url: https://nclawyersweekly.com/2026/04/23/blockchain-billionaire-sun-takes-trump-familys-crypto-firm-to-court/
+  title: Blockchain billionaire Sun takes Trump family's crypto firm to court
+  date: '2026-04-23'
+- url: https://en.wikipedia.org/wiki/World_Liberty_Financial
+  publisher: Wikipedia
+updated: '2026-10-11'

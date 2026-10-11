@@ -1,0 +1,18 @@
+id: ginni-thomas
+type: person
+name: Ginni Thomas
+names:
+  en: Ginni Thomas
+  zh: 金妮·托马斯
+gender: F
+born: '1957-02-23'
+country:
+- US
+sectors:
+- politics
+tier: 3
+summary: 保守派活动人士，Clarence Thomas 之妻；曾参与质疑 2020 年大选结果的活动。
+sources:
+- url: https://en.wikipedia.org/wiki/Ginni_Thomas
+  publisher: Wikipedia
+updated: '2026-10-11'

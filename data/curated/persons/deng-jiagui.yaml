@@ -1,0 +1,24 @@
+id: deng-jiagui
+type: person
+name: 邓家贵
+names:
+  zh: 邓家贵
+  en: Deng Jiagui
+gender: M
+born: '1951'
+country:
+- CN
+sectors:
+- business
+tier: 3
+summary: 齐桥桥之夫。彭博 2012 调查所涉家族资产主要持有人之一；ICIJ 2014 离岸解密显示其持有英属维尔京群岛公司 Excellence Effort Property Development 50% 股份。
+sources:
+- url: https://www.bloomberg.com/news/2012-06-29/xi-jinping-millionaire-relations-reveal-fortunes-of-elite.html
+  title: Xi Jinping Millionaire Relations Reveal Fortunes of Elite
+  publisher: Bloomberg
+  date: '2012-06-29'
+- url: https://www.icij.org/investigations/offshore/leaked-records-reveal-offshore-holdings-of-chinas-elite/
+  title: Leaked Records Reveal Offshore Holdings of China's Elite
+  publisher: ICIJ
+  date: '2014-01-21'
+updated: '2026-10-11'

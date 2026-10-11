@@ -1,0 +1,22 @@
+id: peter-thiel
+type: person
+name: Peter Thiel
+names:
+  en: Peter Thiel
+  zh: 彼得·蒂尔
+gender: M
+born: '1967-10-11'
+country:
+- US
+- DE
+- NZ
+sectors:
+- finance
+- tech
+- politics
+tier: 2
+summary: PayPal 联合创始人、Palantir 联合创始人兼董事长、Founders Fund 创始人。硅谷右翼核心金主：2022 年为 JD Vance 参选投入约 1500 万美元，Vance 曾任职其 Mithril Capital。
+sources:
+- url: https://en.wikipedia.org/wiki/Peter_Thiel
+  publisher: Wikipedia
+updated: '2026-10-11'

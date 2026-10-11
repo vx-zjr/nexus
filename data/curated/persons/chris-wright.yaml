@@ -1,0 +1,27 @@
+id: chris-wright
+type: person
+name: Chris Wright
+names:
+  en: Chris Wright
+  zh: 克里斯·赖特
+gender: M
+born: '1965'
+country:
+- US
+sectors:
+- politics
+- business
+tier: 2
+status: active
+summary: 能源部长（2025–）。Liberty Energy 创始人（页岩油服务）。
+positions:
+- title: 能源部长
+  org: us-cabinet
+  from: '2025-02-03'
+  current: true
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

@@ -1,0 +1,27 @@
+id: kelly-loeffler
+type: person
+name: Kelly Loeffler
+names:
+  en: Kelly Loeffler
+  zh: 凯莉·洛夫勒
+gender: F
+born: '1970-11-27'
+country:
+- US
+sectors:
+- politics
+- finance
+tier: 3
+status: active
+summary: 小企业管理局局长（2025–）。前佐治亚参议员；其丈夫 Jeffrey Sprecher 为洲际交易所（ICE，纽交所母公司）创始人兼 CEO。
+positions:
+- title: 小企业管理局局长
+  org: us-cabinet
+  from: '2025-02-20'
+  current: true
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

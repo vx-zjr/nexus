@@ -1,0 +1,19 @@
+id: patrick-ho
+type: person
+name: 何志平
+names:
+  en: 何志平
+  zh: Patrick Ho
+gender: M
+born: '1949-08-30'
+country:
+- HK
+sectors:
+- politics
+- business
+tier: 4
+summary: 前香港民政事务局局长，后任华信能源旗下智库负责人；2018 年在美国因代表华信向乌干达、乍得官员行贿被定罪，判刑 3 年。
+sources:
+- url: https://en.wikipedia.org/wiki/Patrick_Ho
+  publisher: Wikipedia
+updated: '2026-10-11'

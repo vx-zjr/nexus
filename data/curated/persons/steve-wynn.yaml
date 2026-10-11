@@ -1,0 +1,18 @@
+id: steve-wynn
+type: person
+name: Steve Wynn
+names:
+  en: Steve Wynn
+  zh: 史蒂夫·永利
+gender: M
+born: '1942-01-27'
+country:
+- US
+sectors:
+- business
+tier: 3
+summary: 永利度假村创始人（含澳门永利）。2022 年美国司法部起诉其在 2017 年代表中国政府游说特朗普政府遣返郭文贵却未依《外国代理人登记法》登记（2024 年法院驳回）。
+sources:
+- url: https://en.wikipedia.org/wiki/Steve_Wynn
+  publisher: Wikipedia
+updated: '2026-10-11'

@@ -1,0 +1,18 @@
+id: xi-mingze
+type: person
+name: 习明泽
+names:
+  zh: 习明泽
+  en: Xi Mingze
+gender: F
+born: '1992'
+country:
+- CN
+sectors:
+- family
+tier: 4
+summary: 习近平与彭丽媛之独女，2010–2014 年以化名就读哈佛大学。婚姻状况无可靠公开信息。
+sources:
+- url: https://en.wikipedia.org/wiki/Xi_Mingze
+  publisher: Wikipedia
+updated: '2026-10-11'

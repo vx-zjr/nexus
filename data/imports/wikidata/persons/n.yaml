@@ -1,0 +1,2343 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: nabila-khashoggi
+    type: person
+    name: Nabila Khashoggi
+    names:
+      en: Nabila Khashoggi
+    gender: F
+    born: 1962-02-19
+    country:
+      - LB
+    sectors:
+      - culture
+    tier: 5
+    summary: Saudi-American actress
+    ids:
+      wikidata: Q55229779
+    links:
+      - https://en.wikipedia.org/wiki/Nabila_Khashoggi
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55229779
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nalin-haley
+    type: person
+    name: Nalin Haley
+    names:
+      en: Nalin Haley
+    gender: M
+    born: 2001-09-06
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: American political activist
+    ids:
+      wikidata: Q136745935
+    links:
+      - https://en.wikipedia.org/wiki/Nalin_Haley
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136745935
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nancy-bass-wyden
+    type: person
+    name: Nancy Bass Wyden
+    names:
+      en: Nancy Bass Wyden
+    gender: F
+    born: 1961-04-11
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessperson
+    ids:
+      wikidata: Q87434148
+    links:
+      - https://en.wikipedia.org/wiki/Nancy_Bass_Wyden
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q87434148
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nancy-gore-hunger
+    type: person
+    name: Nancy Gore Hunger
+    names:
+      en: Nancy Gore Hunger
+    gender: F
+    born: 1938-01-23
+    died: 1984-07-11
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: Member of the Gore political family
+    ids:
+      wikidata: Q6962713
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6962713
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nancy-lee-bass
+    type: person
+    name: Nancy Lee Bass
+    names:
+      en: Nancy Lee Bass
+    gender: F
+    born: 1917-03-07
+    died: 2013-02-28
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American philanthropist
+    ids:
+      wikidata: Q18536835
+    links:
+      - https://en.wikipedia.org/wiki/Nancy_Lee_Bass
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18536835
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nancy-mace
+    type: person
+    name: Nancy Mace
+    names:
+      zh: 南西·梅斯
+      en: Nancy Mace
+    gender: F
+    born: 1977-12-04
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1977)
+    ids:
+      wikidata: Q6962831
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8D%97%E5%B8%8C%C2%B7%E6%A2%85%E6%96%AF
+      - https://en.wikipedia.org/wiki/Nancy_Mace
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6962831
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 南卡羅來納州眾議員
+        org: south-carolina-house-of-representatives
+        from: 2018-01-23
+        to: 2020-11-08
+  - id: nancy-pelosi
+    type: person
+    name: Nancy Pelosi
+    names:
+      zh: 南希·佩洛西
+      en: Nancy Pelosi
+    gender: F
+    born: 1940-03-26
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+    tier: 2
+    summary: 美國民主黨政治人物・第52、55任美國眾議院議長
+    ids:
+      wikidata: Q170581
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8D%97%E5%B8%8C%C2%B7%E4%BD%A9%E6%B4%9B%E8%A5%BF
+      - https://en.wikipedia.org/wiki/Nancy_Pelosi
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 107
+    sources:
+      - url: https://www.wikidata.org/wiki/Q170581
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: "1985"
+        to: "1986"
+      - title: 美國眾議院議長
+        org: us-house
+        from: 2007-01-04
+        to: 2011-01-03
+      - title: 美國眾議院議長
+        org: us-house
+        from: 2019-01-03
+        to: 2023-01-03
+      - title: 党主席
+        from: "1981"
+        to: "1983"
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1987-06-02
+        to: 1989-01-03
+  - id: nancy-reagan
+    type: person
+    name: Nancy Reagan
+    names:
+      zh: 南希·里根
+      en: Nancy Reagan
+    gender: F
+    born: 1921-07-06
+    died: 2016-03-06
+    country:
+      - US
+    sectors:
+      - culture
+      - judiciary
+      - business
+    tier: 3
+    summary: 前美国第一夫人、女演员，里根总统夫人
+    ids:
+      wikidata: Q193426
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8D%97%E5%B8%8C%C2%B7%E9%87%8C%E6%A0%B9
+      - https://en.wikipedia.org/wiki/Nancy_Reagan
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 106
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193426
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國第一夫人
+        org: first-family-of-the-united-states
+        from: 1981-01-20
+        to: 1989-01-20
+      - title: 加州第一夫人或合伙人
+        org: first-family-of-california
+        from: 1967-01-02
+        to: 1975-01-06
+  - id: nancy-walker-bush
+    type: person
+    name: Nancy Walker Bush
+    names:
+      zh: 南希·沃克·布什·埃利斯
+      en: Nancy Walker Bush
+    gender: F
+    born: 1926-02-04
+    died: 2021-01-10
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: Sister of George H W Bush
+    ids:
+      wikidata: Q6963057
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8D%97%E5%B8%8C%C2%B7%E6%B2%83%E5%85%8B%C2%B7%E5%B8%83%E4%BB%80%C2%B7%E5%9F%83%E5%88%A9%E6%96%AF
+      - https://en.wikipedia.org/wiki/Nancy_Walker_Bush_Ellis
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6963057
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nancy-walton-laurie
+    type: person
+    name: Nancy Walton Laurie
+    names:
+      en: Nancy Walton Laurie
+    gender: F
+    born: 1951-05-15
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American heiress, billionaire
+    netWorth:
+      usd: 15600000000
+    ids:
+      wikidata: Q6963060
+    links:
+      - https://en.wikipedia.org/wiki/Nancy_Walton_Laurie
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6963060
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nanette-barragan
+    type: person
+    name: Nanette Barragán
+    names:
+      zh: 娜内特·巴拉甘
+      en: Nanette Barragán
+    gender: F
+    born: 1976-09-15
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: U.S. Representative from California
+    ids:
+      wikidata: Q21662745
+    links:
+      - https://en.wikipedia.org/wiki/Nanette_Barrag%C3%A1n
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21662745
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: naomi-biden
+    type: person
+    name: Naomi Biden
+    names:
+      en: Naomi Biden
+    gender: F
+    born: 1993-12-21
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: granddaughter of Joe Biden (born 1993)
+    ids:
+      wikidata: Q100605126
+    links:
+      - https://en.wikipedia.org/wiki/Naomi_Biden
+    tags:
+      - relative
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100605126
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nat-simons
+    type: person
+    name: Nat Simons
+    names:
+      zh: 纳·西蒙斯
+      en: Nat Simons
+    gender: M
+    born: "1966"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: 美國商人
+    ids:
+      wikidata: Q30122788
+    links:
+      - https://en.wikipedia.org/wiki/Nat_Simons
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30122788
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: natasha-bassett
+    type: person
+    name: Natasha Bassett
+    names:
+      zh: 娜塔莎·巴塞特
+      en: Natasha Bassett
+    gender: F
+    born: 1992-10-16
+    country:
+      - AU
+    sectors:
+      - culture
+    tier: 4
+    summary: Australian actress
+    ids:
+      wikidata: Q28534056
+    links:
+      - https://en.wikipedia.org/wiki/Natasha_Bassett
+    tags:
+      - relative
+    attrs:
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28534056
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nate-vance
+    type: person
+    name: Nate Vance
+    names:
+      en: Nate Vance
+    gender: M
+    born: "1978"
+    country:
+      - US
+    sectors:
+      - military
+    tier: 5
+    summary: American marine and Ukraine volunteer
+    ids:
+      wikidata: Q133876952
+    links:
+      - https://en.wikipedia.org/wiki/Nate_Vance
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q133876952
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nathan-blecharczyk
+    type: person
+    name: Nathan Blecharczyk
+    names:
+      zh: 內森·布萊卡斯亞克
+      en: Nathan Blecharczyk
+    gender: M
+    born: "1983"
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 3
+    summary: American businessman & Co-founder of Airbnb
+    netWorth:
+      usd: 8700000000
+    ids:
+      wikidata: Q19538950
+    links:
+      - https://en.wikipedia.org/wiki/Nathan_Blecharczyk
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19538950
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 理事会成员
+        org: board-of-directors
+        from: "2008"
+  - id: nathan-deal
+    type: person
+    name: Nathan Deal
+    names:
+      zh: 内森·迪尔
+      en: Nathan Deal
+    gender: M
+    born: 1942-08-25
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: 82nd governor of Georgia from 2011 to 2019
+    ids:
+      wikidata: Q179732
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8D%97%E6%A3%AE%C2%B7%E8%BF%AA%E7%88%BE
+      - https://en.wikipedia.org/wiki/Nathan_Deal
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 28
+    sources:
+      - url: https://www.wikidata.org/wiki/Q179732
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 法官
+        from: "1971"
+        to: "1972"
+      - title: 喬治亞州州長
+        org: state-of-georgia
+        from: 2011-01-10
+        to: 2019-01-14
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-03
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2010-03-22
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-04-11
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-03
+        to: 2010-03-21
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-03
+        to: 1995-04-10
+      - title: 喬治亞州參議員
+        org: georgia-state-senate
+        from: 1981-01-03
+        to: 1993-01-03
+      - title: assistant district attorney
+        from: "1970"
+        to: "1971"
+  - id: nathaniel-moran
+    type: person
+    name: Nathaniel Moran
+    names:
+      zh: 納撒尼爾·莫蘭
+      en: Nathaniel Moran
+    gender: M
+    born: 1974-09-23
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: United States Representative from Texas
+    ids:
+      wikidata: Q115137468
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%B4%8D%E6%92%92%E5%B0%BC%E7%88%BE%C2%B7%E8%8E%AB%E8%98%AD
+      - https://en.wikipedia.org/wiki/Nathaniel_Moran
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115137468
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: member of the Tyler City Council
+        from: "2005"
+        to: "2009"
+  - id: neal-blue
+    type: person
+    name: Neal Blue
+    names:
+      zh: 尼尔·布鲁
+      en: Neal Blue
+    gender: M
+    born: "1935"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American aviation executive
+    netWorth:
+      usd: 5500000000
+    ids:
+      wikidata: Q16096870
+    links:
+      - https://en.wikipedia.org/wiki/Neal_Blue
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16096870
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: neal-dunn
+    type: person
+    name: Neal Dunn
+    names:
+      zh: 尼爾·鄧恩
+      en: Neal Dunn
+    gender: M
+    born: 1953-02-16
+    country:
+      - US
+    sectors:
+      - politics
+      - finance
+    tier: 4
+    summary: American politician and physician
+    ids:
+      wikidata: Q27733851
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%BC%E7%88%BE%C2%B7%E9%84%A7%E6%81%A9
+      - https://en.wikipedia.org/wiki/Neal_Dunn
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27733851
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: neal-s-wolin
+    type: person
+    name: Neal S. Wolin
+    names:
+      zh: 尼尔·沃林
+      en: Neal S. Wolin
+    gender: M
+    born: 1961-12-09
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: Deputy Secretary of the Treasury
+    ids:
+      wikidata: Q1302611
+    links:
+      - https://en.wikipedia.org/wiki/Neal_S._Wolin
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1302611
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国财政部长
+        org: united-states-department-of-the-treasury
+        from: 2013-01-25
+        to: 2013-02-28
+      - title: 美國財政部副部長
+        org: united-states-department-of-the-treasury
+        from: 2009-05-18
+        to: 2013-08-31
+  - id: neale-donald-walsch
+    type: person
+    name: Neale Donald Walsch
+    names:
+      zh: 尼尔·唐纳·沃许
+      en: Neale Donald Walsch
+    gender: M
+    born: 1943-09-10
+    country:
+      - US
+    sectors:
+      - business
+      - culture
+      - media
+    tier: 4
+    summary: 美國作家
+    ids:
+      wikidata: Q318860
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%B0%94%C2%B7%E5%94%90%E7%BA%B3%C2%B7%E6%B2%83%E8%AE%B8
+      - https://en.wikipedia.org/wiki/Neale_Donald_Walsch
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 35
+    sources:
+      - url: https://www.wikidata.org/wiki/Q318860
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ned-lamont
+    type: person
+    name: Ned Lamont
+    names:
+      zh: 內德·拉蒙特
+      en: Ned Lamont
+    gender: M
+    born: 1954-01-03
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+      - academia
+    tier: 3
+    summary: 美国商人和康涅狄格州第89州长
+    ids:
+      wikidata: Q1973878
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%86%85%E5%BE%B7%C2%B7%E6%8B%89%E6%9B%BC%E7%89%B9
+      - https://en.wikipedia.org/wiki/Ned_Lamont
+    tags:
+      - us-governors
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1973878
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 康乃狄克州州長
+        org: state-of-connecticut
+        from: 2019-01-09
+  - id: neeru-khosla
+    type: person
+    name: Neeru Khosla
+    names:
+      en: Neeru Khosla
+    gender: F
+    born: "1955"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: Wikimedia Foundation board member
+    ids:
+      wikidata: Q6986957
+    links:
+      - https://en.wikipedia.org/wiki/Neeru_Khosla
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6986957
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: neil-bluhm
+    type: person
+    name: Neil Bluhm
+    names:
+      en: Neil Bluhm
+    gender: M
+    born: "1938"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: businessperson
+    netWorth:
+      usd: 8700000000
+    ids:
+      wikidata: Q6988304
+    links:
+      - https://en.wikipedia.org/wiki/Neil_Bluhm
+    tags:
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6988304
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: neil-bush
+    type: person
+    name: Neil Bush
+    names:
+      zh: 尼尔·布什
+      en: Neil Bush
+    gender: M
+    born: 1955-01-22
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American businessman and investor
+    ids:
+      wikidata: Q320829
+    links:
+      - https://en.wikipedia.org/wiki/Neil_Bush
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q320829
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: neil-gorsuch
+    type: person
+    name: Neil Gorsuch
+    names:
+      zh: 尼尔·戈萨奇
+      en: Neil Gorsuch
+    gender: M
+    born: 1967-08-29
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 2
+    summary: 2017年上任的美国最高法院法官
+    ids:
+      wikidata: Q15488345
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%B0%94%C2%B7%E6%88%88%E8%90%A8%E5%A5%87
+      - https://en.wikipedia.org/wiki/Neil_Gorsuch
+    tags:
+      - us-judiciary
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 38
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15488345
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國最高法院大法官
+        org: us-supreme-court
+        from: 2017-04-10
+      - title: 美国联邦法官
+      - title: Judge of the United States Court of Appeals for the Tenth Circuit
+        from: 2006-08-08
+        to: 2017-04-09
+  - id: neil-reagan
+    type: person
+    name: Neil Reagan
+    names:
+      zh: 尼爾·里根
+      en: Neil Reagan
+    gender: M
+    born: 1908-09-16
+    died: 1996-12-11
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American actor (1908–1996); older brother of Ronald Reagan
+    ids:
+      wikidata: Q15628572
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%BC%E7%88%BE%C2%B7%E9%87%8C%E6%A0%B9
+      - https://en.wikipedia.org/wiki/Neil_Reagan
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15628572
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: neil-simon
+    type: person
+    name: Neil Simon
+    names:
+      zh: 尼尔·赛门
+      en: Neil Simon
+    gender: M
+    born: 1927-07-04
+    died: 2018-08-26
+    country:
+      - US
+    sectors:
+      - business
+      - culture
+    tier: 4
+    summary: American playwright, writer, and academic (1927–2018)
+    ids:
+      wikidata: Q315808
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%BC%E7%88%BE%C2%B7%E8%B3%BD%E9%96%80
+      - https://en.wikipedia.org/wiki/Neil_Simon
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 47
+    sources:
+      - url: https://www.wikidata.org/wiki/Q315808
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: neilia-hunter
+    type: person
+    name: Neilia Hunter
+    names:
+      zh: 内莉亚·亨特
+      en: Neilia Hunter
+    gender: F
+    born: 1942-07-28
+    died: 1972-12-18
+    country:
+      - US
+    sectors:
+      - family
+    tier: 3
+    summary: American teacher and first wife of Joe Biden (1942–1972)
+    ids:
+      wikidata: Q19285477
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%86%85%E8%8E%89%E4%BA%9A%C2%B7%E4%BA%A8%E7%89%B9
+      - https://en.wikipedia.org/wiki/Neilia_Hunter_Biden
+    tags:
+      - relative
+    attrs:
+      sitelinks: 36
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19285477
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nelle-wilson-reagan
+    type: person
+    name: Nelle Wilson Reagan
+    names:
+      zh: 內莉·威爾遜·里根
+      en: Nelle Wilson Reagan
+    gender: F
+    born: 1883-07-24
+    died: 1962-07-25
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: mother of Ronald Reagan (1883-1962)
+    ids:
+      wikidata: Q6990072
+    links:
+      - https://en.wikipedia.org/wiki/Nelle_Wilson_Reagan
+    tags:
+      - relative
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6990072
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nellie-pou
+    type: person
+    name: Nellie Pou
+    names:
+      en: Nellie Pou
+    gender: F
+    born: 1956-05-20
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1956)
+    ids:
+      wikidata: Q6990132
+    links:
+      - https://en.wikipedia.org/wiki/Nellie_Pou
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6990132
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 新澤西州眾議員
+        org: new-jersey-general-assembly
+        from: 1997-01-29
+        to: 2012-01-10
+      - title: 新澤西州參議員
+        org: new-jersey-senate
+        from: 2014-01-14
+        to: 2016-01-12
+      - title: 新澤西州參議員
+        org: new-jersey-senate
+        from: 2018-01-09
+        to: 2020-01-14
+      - title: 新澤西州參議員
+        org: new-jersey-senate
+        from: 2022-01-11
+        to: 2024-01-09
+      - title: 新澤西州參議員
+        org: new-jersey-senate
+        from: 2016-01-12
+        to: 2018-01-09
+      - title: 新澤西州參議員
+        org: new-jersey-senate
+        from: 2020-01-14
+        to: 2022-01-11
+      - title: 新澤西州參議員
+        org: new-jersey-senate
+        from: 2012-01-10
+        to: 2014-01-14
+      - title: 新澤西州參議員
+        org: new-jersey-senate
+        from: 2024-01-09
+        to: "2025"
+  - id: nelson-bunker-hunt
+    type: person
+    name: Nelson Bunker Hunt
+    names:
+      en: Nelson Bunker Hunt
+    gender: M
+    born: 1926-02-22
+    died: 2014-10-21
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman (1926-2014)
+    ids:
+      wikidata: Q711333
+    links:
+      - https://en.wikipedia.org/wiki/Nelson_Bunker_Hunt
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q711333
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: neri-oxman
+    type: person
+    name: Neri Oxman
+    names:
+      zh: 奈瑞·奧克斯曼
+      en: Neri Oxman
+    gender: F
+    born: 1976-02-06
+    country:
+      - US
+      - IL
+    sectors:
+      - culture
+      - academia
+    tier: 4
+    summary: 研究者
+    ids:
+      wikidata: Q4981374
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A5%88%E7%91%9E%C2%B7%E5%A5%A7%E5%85%8B%E6%96%AF%E6%9B%BC
+      - https://en.wikipedia.org/wiki/Neri_Oxman
+    tags:
+      - relative
+    attrs:
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4981374
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 諮詢委員會
+  - id: nevada-musk
+    type: person
+    name: Nevada Musk
+    names:
+      en: Nevada Musk
+    gender: M
+    born: 2002-05-18
+    died: 2002-05-28
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: first son of Elon Musk
+    ids:
+      wikidata: Q109731214
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q109731214
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ng-teng-fong
+    type: person
+    name: Ng Teng Fong
+    names:
+      zh: 黄廷方
+      en: Ng Teng Fong
+    gender: M
+    born: "1928"
+    died: 2010-02-02
+    country:
+      - SG
+    sectors:
+      - business
+    tier: 5
+    summary: Singaporean businessman (1928–2010)
+    ids:
+      wikidata: Q718141
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%83%E5%BB%B7%E6%96%B9
+      - https://en.wikipedia.org/wiki/Ng_Teng_Fong
+    tags:
+      - relative
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q718141
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ni-hong
+    type: person
+    name: 倪虹
+    names:
+      zh: 倪虹
+      en: Ni Hong
+    gender: M
+    born: 1962-10-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国住房和城乡建设部部长
+    ids:
+      wikidata: Q97175537
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%80%AA%E8%99%B9
+      - https://en.wikipedia.org/wiki/Ni_Hong_(politician)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97175537
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国住房和城乡建设部部长
+        org: ministry-of-housing-and-urban-rural-development-of-the-people-s-republic-of-chin
+        from: 2022-06-25
+  - id: ni-yuefeng
+    type: person
+    name: 倪岳峰
+    names:
+      zh: 倪岳峰
+      en: Ni Yuefeng
+    gender: M
+    born: 1964-09-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 全国人大社会建设委员会副主任委员
+    ids:
+      wikidata: Q8292622
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%80%AA%E5%B2%B3%E5%B3%B0
+      - https://en.wikipedia.org/wiki/Ni_Yuefeng
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292622
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nian-fuchun
+    type: person
+    name: 年福纯
+    names:
+      zh: 年福纯
+    gender: M
+    born: "1949"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8315719
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B9%B4%E7%A6%8F%E7%BA%AF
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315719
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nicholas-f-brady
+    type: person
+    name: Nicholas F. Brady
+    names:
+      zh: 尼古拉斯·F·布雷迪
+      en: Nicholas F. Brady
+    gender: M
+    born: 1930-04-11
+    country:
+      - US
+    sectors:
+      - politics
+      - finance
+    tier: 2
+    summary: American politician (born 1930)
+    ids:
+      wikidata: Q723444
+    links:
+      - https://en.wikipedia.org/wiki/Nicholas_F._Brady
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q723444
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国财政部长
+        org: united-states-department-of-the-treasury
+        from: 1988-09-15
+        to: 1993-01-17
+      - title: 美國參議員
+        org: us-senate
+        from: 1982-04-12
+        to: 1982-12-27
+  - id: nicholas-negroponte
+    type: person
+    name: Nicholas Negroponte
+    names:
+      zh: 尼古拉斯·尼葛洛庞帝
+      en: Nicholas Negroponte
+    gender: M
+    born: 1943-12-01
+    country:
+      - US
+    sectors:
+      - business
+      - culture
+      - tech
+    tier: 4
+    summary: 美国计算机科学家
+    ids:
+      wikidata: Q92601
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%A4%E6%8B%89%E6%96%AF%C2%B7%E5%B0%BC%E8%91%9B%E6%B4%9B%E9%BE%90%E5%B8%9D
+      - https://en.wikipedia.org/wiki/Nicholas_Negroponte
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 37
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92601
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nick-begich
+    type: person
+    name: Nick Begich
+    names:
+      zh: 尼克·贝吉齐
+      en: Nick Begich
+    gender: M
+    born: 1932-04-06
+    died: 1972-10-16
+    country:
+      - US
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: 美國政治人物 (1932–1972)
+    ids:
+      wikidata: Q1619015
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%85%8B%C2%B7%E8%B2%9D%E5%90%89%E5%A5%87
+      - https://en.wikipedia.org/wiki/Nick_Begich_Sr.
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1619015
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 1971-01-03
+        to: 1972-10-16
+      - title: 阿拉斯加州參議員
+        org: alaska-senate
+  - id: nick-begich-iii
+    type: person
+    name: Nick Begich III
+    names:
+      zh: 尼克·貝吉奇三世
+      en: Nick Begich III
+    gender: M
+    born: 1977-10-21
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q113676482
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%85%8B%C2%B7%E8%B2%9D%E5%90%89%E5%A5%87%E4%B8%89%E4%B8%96
+      - https://en.wikipedia.org/wiki/Nick_Begich_III
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q113676482
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: nick-lalota
+    type: person
+    name: Nick LaLota
+    names:
+      zh: 尼古拉斯·拉洛塔
+      en: Nick LaLota
+    gender: M
+    born: 1978-06-23
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician and businessman (born 1978)
+    ids:
+      wikidata: Q115168182
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%85%8B%C2%B7%E6%8B%89%E6%B4%9B%E5%A1%94
+      - https://en.wikipedia.org/wiki/Nick_LaLota
+    tags:
+      - us-congress
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115168182
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+  - id: nicole-lapin
+    type: person
+    name: Nicole Lapin
+    names:
+      en: Nicole Lapin
+    gender: F
+    born: 1984-03-07
+    country:
+      - US
+    sectors:
+      - media
+    tier: 5
+    summary: American television news anchor, author and businesswoman
+    ids:
+      wikidata: Q7030098
+    links:
+      - https://en.wikipedia.org/wiki/Nicole_Lapin
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7030098
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nicole-malliotakis
+    type: person
+    name: Nicole Malliotakis
+    names:
+      zh: 妮可·马利奥塔基斯
+      en: Nicole Malliotakis
+    gender: F
+    born: 1980-11-11
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1980)
+    ids:
+      wikidata: Q7030112
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A6%AE%E5%8F%AF%C2%B7%E9%A6%AC%E5%88%A9%E5%A5%A7%E5%A1%94%E5%9F%BA%E6%96%AF
+      - https://en.wikipedia.org/wiki/Nicole_Malliotakis
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7030112
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 纽约州众议院议员
+        org: new-york-state-assembly
+        from: "2011"
+        to: "2021"
+  - id: nicole-shanahan
+    type: person
+    name: Nicole Shanahan
+    names:
+      zh: 妮科尔·沙纳汉
+      en: Nicole Shanahan
+    gender: F
+    born: 1985-09-26
+    country:
+      - US
+    sectors:
+      - judiciary
+      - business
+      - politics
+    tier: 5
+    summary: American entrepreneur, attorney, and 2024 vice-presidential nominee of Robert F. Kennedy Jr. (born 1985)
+    ids:
+      wikidata: Q105100778
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A6%AE%E5%8F%AF%C2%B7%E6%B2%99%E7%BA%B3%E6%B1%89
+      - https://en.wikipedia.org/wiki/Nicole_Shanahan
+    tags:
+      - relative
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105100778
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nika-soon-shiong
+    type: person
+    name: Nika Soon-Shiong
+    names:
+      en: Nika Soon-Shiong
+    gender: F
+    born: "1993"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American activist (1993-)
+    ids:
+      wikidata: Q107019539
+    links:
+      - https://en.wikipedia.org/wiki/Nika_Soon-Shiong
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q107019539
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nikema-williams
+    type: person
+    name: Nikema Williams
+    names:
+      zh: 尼科馬·威廉斯
+      en: Nikema Williams
+    gender: F
+    born: 1978-07-30
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q56486570
+    links:
+      - https://en.wikipedia.org/wiki/Nikema_Williams
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56486570
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 色情片
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: nikki-haley
+    type: person
+    name: Nikki Haley
+    names:
+      zh: 妮基·黑利
+      en: Nikki Haley
+    gender: F
+    born: 1972-01-20
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - business
+    tier: 2
+    summary: 前任美國常駐聯合國代表
+    ids:
+      wikidata: Q11668
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A6%AE%E5%9F%BA%C2%B7%E9%BB%91%E5%88%A9
+      - https://en.wikipedia.org/wiki/Nikki_Haley
+    tags:
+      - us-executive
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 77
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11668
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国常驻联合国代表列表
+        org: united-states-mission-to-the-united-nations
+        from: 2017-01-27
+        to: 2018-12-31
+      - title: 南卡羅來納州眾議員
+        org: south-carolina-house-of-representatives
+        from: 2005-01-11
+        to: 2011-01-11
+      - title: 南卡羅萊納州州長
+        org: state-of-south-carolina
+        from: 2011-01-12
+        to: 2017-01-24
+  - id: nikki-ng-mien-hua
+    type: person
+    name: Nikki Ng Mien Hua
+    names:
+      zh: 黃敏華 (企業家)
+      en: Nikki Ng Mien Hua
+    gender: F
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: 香港企業家
+    ids:
+      wikidata: Q8968820
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%83%E6%95%8F%E8%8F%AF_(%E4%BC%81%E6%A5%AD%E5%AE%B6)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8968820
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nikolai-pazhitnov
+    type: person
+    name: Nikolai Pazhitnov
+    names:
+      en: Nikolai Pazhitnov
+    gender: M
+    born: 1907-08-01
+    died: 1976-05-16
+    country:
+      - RU
+    sectors:
+      - culture
+    tier: 5
+    summary: Soviet actor
+    ids:
+      wikidata: Q125181358
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q125181358
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nils-torvalds
+    type: person
+    name: Nils Torvalds
+    names:
+      zh: 尼尔斯·托瓦尔兹
+      en: Nils Torvalds
+    gender: M
+    born: 1945-08-07
+    country:
+      - FI
+    sectors:
+      - politics
+      - media
+    tier: 4
+    summary: 芬兰从政人物及记者
+    ids:
+      wikidata: Q949046
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%BC%E7%88%BE%E6%96%AF%C2%B7%E6%89%98%E7%93%A6%E8%8C%B2
+      - https://en.wikipedia.org/wiki/Nils_Torvalds
+    tags:
+      - relative
+      - party:Swedish People's Party of Finland
+    attrs:
+      party: Swedish People's Party of Finland
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q949046
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 歐洲議會議員
+        org: european-parliament
+        from: 2019-07-02
+      - title: 歐洲議會議員
+        org: european-parliament
+        from: 2014-07-01
+        to: 2019-07-01
+      - title: 歐洲議會議員
+        org: european-parliament
+        from: 2012-07-05
+        to: 2014-06-30
+  - id: nina-wang
+    type: person
+    name: 龚如心
+    names:
+      zh: 龚如心
+      en: Nina Wang
+    gender: F
+    born: 1937-09-29
+    died: 2007-04-03
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: Hong Kong entrepreneur (1937–2007)
+    ids:
+      wikidata: Q455685
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BE%94%E5%A6%82%E5%BF%83
+      - https://en.wikipedia.org/wiki/Nina_Wang
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q455685
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: niu-hongguang
+    type: person
+    name: 牛红光
+    names:
+      zh: 牛红光
+      en: Niu Hongguang
+    gender: M
+    born: 1951-10-01
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8292642
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%89%9B%E7%BA%A2%E5%85%89
+      - https://en.wikipedia.org/wiki/Niu_Hongguang
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292642
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: noelle-bush
+    type: person
+    name: Noelle Bush
+    names:
+      en: Noelle Bush
+    gender: F
+    born: 1977-07-26
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: daughter of Jeb Bush
+    ids:
+      wikidata: Q18844106
+    links:
+      - https://en.wikipedia.org/wiki/Noelle_Bush
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18844106
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nolan-bushnell
+    type: person
+    name: Nolan Bushnell
+    names:
+      zh: 诺兰·布什内尔
+      en: Nolan Bushnell
+    gender: M
+    born: 1943-02-05
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: American entrepreneur (born 1943)
+    ids:
+      wikidata: Q335039
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%AF%BA%E5%85%B0%C2%B7%E5%B8%83%E4%BB%80%E5%86%85%E5%B0%94
+      - https://en.wikipedia.org/wiki/Nolan_Bushnell
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 42
+    sources:
+      - url: https://www.wikidata.org/wiki/Q335039
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nong-shengwen
+    type: person
+    name: 农生文
+    names:
+      zh: 农生文
+      en: Nong Shengwen
+    gender: M
+    born: 1965-08-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 广西壮族自治区人大常委会党组副书记、副主任
+    ids:
+      wikidata: Q110148912
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%86%9C%E7%94%9F%E6%96%87
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110148912
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nora-roberts
+    type: person
+    name: Nora Roberts
+    names:
+      zh: 诺拉·罗伯茨
+      en: Nora Roberts
+    gender: F
+    born: 1950-10-10
+    country:
+      - US
+    sectors:
+      - business
+      - culture
+    tier: 4
+    summary: Romance novelist
+    ids:
+      wikidata: Q231356
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%AF%BA%E6%8B%89%C2%B7%E7%BD%97%E4%BC%AF%E8%8C%A8
+      - https://en.wikipedia.org/wiki/Nora_Roberts
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 52
+    sources:
+      - url: https://www.wikidata.org/wiki/Q231356
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: norma-torres
+    type: person
+    name: Norma Torres
+    names:
+      zh: 諾瑪·托雷斯
+      en: Norma Torres
+    gender: F
+    born: 1965-04-04
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: U.S. Representative from California
+    ids:
+      wikidata: Q3343727
+    links:
+      - https://en.wikipedia.org/wiki/Norma_Torres
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3343727
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 成员
+        org: membership-organization
+        from: "2000"
+        to: "2006"
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: Mayor of Pomona, California
+        from: "2006"
+        to: "2008"
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: "2008"
+        to: "2013"
+      - title: 加利福尼亞州參議員
+        org: california-state-senate
+        from: "2013"
+        to: "2014"
+  - id: norman-mineta
+    type: person
+    name: Norman Mineta
+    names:
+      zh: 诺曼·峰田
+      en: Norman Mineta
+    gender: M
+    born: 1931-11-12
+    died: 2022-05-03
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: 美国日本裔政治人物
+    ids:
+      wikidata: Q553502
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%AF%BA%E6%9B%BC%C2%B7%E5%B3%B0%E7%94%B0
+      - https://en.wikipedia.org/wiki/Norman_Mineta
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q553502
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国运输部长
+        org: united-states-department-of-transportation
+        from: 2001-01-25
+        to: 2006-08-07
+      - title: 美國商務部長
+        org: united-states-department-of-commerce
+        from: 2000-07-20
+        to: 2001-01-20
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1975-01-03
+        to: 1977-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1977-01-03
+        to: 1979-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-03
+        to: 1995-10-10
+      - title: 美国众议员
+        org: us-house
+        from: 1985-01-03
+        to: 1987-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1983-01-03
+        to: 1985-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1979-01-03
+        to: 1981-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1981-01-03
+        to: 1983-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1995-10-10
+      - title: 加利福尼亞州聖荷西市長
+        org: san-jose-city-council
+        from: 1971-01-09
+        to: 1975-01-09
+  - id: norris-cochran
+    type: person
+    name: Norris Cochran
+    names:
+      zh: 諾里斯·科克倫
+      en: Norris Cochran
+    gender: M
+    born: "1970"
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American civil servant
+    ids:
+      wikidata: Q28530101
+    links:
+      - https://en.wikipedia.org/wiki/Norris_Cochran
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28530101
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國衛生與公共服務部長
+        org: united-states-department-of-health-and-human-services
+        from: 2021-01-20
+        to: 2021-03-19
+  - id: nur-omar-mohamed
+    type: person
+    name: Nur Omar Mohamed
+    names:
+      en: Nur Omar Mohamed
+    gender: M
+    died: 2020-06-15
+    country:
+      - US
+      - SO
+    sectors:
+      - family
+    tier: 5
+    summary: father of Ilhan Omar
+    ids:
+      wikidata: Q96370232
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96370232
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nurlan-abilmazhinuly
+    type: person
+    name: 努尔兰·阿不都满金
+    names:
+      zh: 努尔兰·阿不都满金
+      en: Nurlan Abilmazhinuly
+    gender: M
+    born: "1962"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 新疆维吾尔自治区政协主席
+    ids:
+      wikidata: Q8292950
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8A%AA%E5%B0%94%E5%85%B0%C2%B7%E9%98%BF%E4%B8%8D%E9%83%BD%E6%BB%A1%E9%87%91
+      - https://en.wikipedia.org/wiki/Nurlan_Abilmazhinuly
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292950
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: nydia-m-velazquez
+    type: person
+    name: Nydia M. Velázquez
+    names:
+      zh: 妮蒂亞·维乐贵丝
+      en: Nydia M. Velázquez
+    gender: F
+    born: 1953-03-28
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+    tier: 4
+    summary: American politician (born 1953)
+    ids:
+      wikidata: Q434890
+    links:
+      - https://en.wikipedia.org/wiki/Nydia_Vel%C3%A1zquez
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q434890
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主管
+        from: "1986"
+        to: "1989"
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 紐約市議員
+        org: new-york-city-council
+        from: "1984"

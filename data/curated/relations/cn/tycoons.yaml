@@ -1,0 +1,64 @@
+sources:
+- url: https://en.wikipedia.org/wiki/Huawei
+  publisher: Wikipedia
+- url: https://en.wikipedia.org/wiki/Alibaba_Group
+  publisher: Wikipedia
+- url: https://en.wikipedia.org/wiki/ByteDance
+  publisher: Wikipedia
+relations:
+- - ren-zhengfei
+  - founder
+  - huawei
+- - ren-zhengfei
+  - parent
+  - meng-wanzhou
+  - 长女
+- - meng-wanzhou
+  - position
+  - huawei
+  - 副董事长/CFO
+- from: us-doj
+  to: meng-wanzhou
+  type: legal
+  label: 2018-12 应美方引渡请求在加拿大被捕，2021-09 暂缓起诉协议后获释
+  since: 2018-12
+  until: 2021-09
+  sources:
+  - url: https://en.wikipedia.org/wiki/Arrest_of_Meng_Wanzhou
+    publisher: Wikipedia
+- - jack-ma
+  - founder
+  - alibaba-group
+- - jack-ma
+  - founder
+  - ant-group
+- - joe-tsai
+  - founder
+  - alibaba-group
+- - joe-tsai
+  - position
+  - alibaba-group
+  - 董事长
+- - jack-ma
+  - business-partner
+  - joe-tsai
+  - 阿里巴巴联合创始人
+- - zhang-yiming
+  - founder
+  - bytedance
+- - shou-zi-chew
+  - position
+  - tiktok
+  - CEO
+- - shou-zi-chew
+  - board
+  - tiktok-usds
+- - ma-huateng
+  - founder
+  - tencent
+- - wang-jianlin
+  - founder
+  - wan-da-ji-tuan
+- - xu-jiayin
+  - founder
+  - evergrande

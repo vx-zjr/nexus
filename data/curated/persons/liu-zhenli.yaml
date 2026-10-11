@@ -1,0 +1,45 @@
+id: liu-zhenli
+type: person
+name: 刘振立
+names:
+  zh: 刘振立
+  en: Liu Zhenli
+gender: M
+born: 1964-08
+country:
+- CN
+sectors:
+- military
+tier: 3
+status: purged
+summary: 前中央军委委员、联合参谋部参谋长、上将。2026-01 与张又侠同时被立案审查，2026-09-21 被开除党籍军籍。
+positions:
+- title: 中央军委委员
+  org: ccp-cmc
+  from: 2022-10
+  to: 2026-08
+- title: 联合参谋部参谋长
+  org: ccp-cmc
+  from: 2022-10
+  to: 2026-01
+- title: 陆军司令员
+  from: 2021-06
+  to: 2022-10
+ids:
+  wikidata: Q10897586
+tags:
+- purged-2026
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.internazionale.it/ultime-notizie-reuters/2026/09/21/china-expels-two-top-generals-from-party-and-military-alleging-disloyalty-corruption
+  title: China expels two top generals from party and military, alleging disloyalty, corruption
+  publisher: Reuters
+  date: '2026-09-21'
+- url: https://scmp.com/news/china/politics/article/3368287/former-top-pla-generals-expelled-communist-party-factionalism-and-disloyalty
+  title: Former top PLA generals expelled from Communist Party for factionalism and disloyalty
+  publisher: South China Morning Post
+  date: '2026-09-22'
+updated: '2026-10-11'

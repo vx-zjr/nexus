@@ -1,0 +1,19 @@
+id: xu-jiayin
+type: person
+name: 许家印
+names:
+  en: 许家印
+  zh: Xu Jiayin
+gender: M
+born: '1958-10-09'
+country:
+- CN
+sectors:
+- business
+tier: 2
+status: detained
+summary: 恒大集团创始人，2023-09 因涉嫌违法犯罪被采取强制措施。
+sources:
+- url: https://en.wikipedia.org/wiki/Xu_Jiayin
+  publisher: Wikipedia
+updated: '2026-10-11'

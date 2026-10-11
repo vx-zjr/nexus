@@ -1,0 +1,24 @@
+id: carrie-lam
+type: person
+name: 林郑月娥
+names:
+  zh: 林郑月娥
+  en: Carrie Lam
+gender: F
+born: '1957-05-13'
+country:
+- HK
+sectors:
+- politics
+tier: 3
+summary: 前香港特首（2017–2022）。2020-08 被美国财政部依第 13936 号行政令制裁。
+ids:
+  wikidata: Q19217
+sources:
+- url: https://en.wikipedia.org/wiki/Carrie_Lam
+  publisher: Wikipedia
+- url: https://home.treasury.gov/news/press-releases/sm1088
+  title: Treasury Sanctions Individuals for Undermining Hong Kong's Autonomy
+  publisher: U.S. Department of the Treasury
+  date: '2020-08-07'
+updated: '2026-10-11'

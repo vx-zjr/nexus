@@ -1,0 +1,94 @@
+sources:
+- url: https://en.wikipedia.org/wiki/Paramount_Skydance
+  publisher: Wikipedia
+- url: https://en.wikipedia.org/wiki/Murdoch_family
+  publisher: Wikipedia
+relations:
+- - larry-ellison
+  - parent
+  - david-ellison
+  - 子
+- - larry-ellison
+  - founder
+  - oracle
+- - david-ellison
+  - position
+  - paramount-skydance
+  - 董事长兼 CEO
+- - larry-ellison
+  - investor
+  - paramount-skydance
+  - 家族出资控股
+- from: oracle
+  to: tiktok-usds
+  type: owner
+  label: 15%（技术与数据托管方）
+  since: '2026-01-22'
+  sources:
+  - url: https://axios.com/2026/01/23/tiktok-deal-trump-app-ban
+    title: TikTok divestiture deal closes
+    publisher: Axios
+    date: '2026-01-23'
+- from: silver-lake
+  to: tiktok-usds
+  type: owner
+  label: 15%
+  since: '2026-01-22'
+  sources:
+  - url: https://axios.com/2026/01/23/tiktok-deal-trump-app-ban
+    title: TikTok divestiture deal closes
+    publisher: Axios
+    date: '2026-01-23'
+- from: mgx
+  to: tiktok-usds
+  type: owner
+  label: 15%
+  since: '2026-01-22'
+  sources:
+  - url: https://axios.com/2026/01/23/tiktok-deal-trump-app-ban
+    title: TikTok divestiture deal closes
+    publisher: Axios
+    date: '2026-01-23'
+- from: bytedance
+  to: tiktok-usds
+  type: owner
+  label: 19.9%
+  since: '2026-01-22'
+  sources:
+  - url: https://www.caixinglobal.com/2026-01-23/tiktok-completes-us-spinoff-to-keep-app-online-102407279.html
+    title: TikTok Completes U.S. Spinoff
+    publisher: Caixin Global
+    date: '2026-01-23'
+- - bytedance
+  - parent-org
+  - tiktok
+- from: rupert-murdoch
+  to: wendi-deng
+  type: ex-spouse
+  since: '1999'
+  until: '2013'
+- - rupert-murdoch
+  - parent
+  - lachlan-murdoch
+  - 长子
+- - rupert-murdoch
+  - founder
+  - news-corp
+- - lachlan-murdoch
+  - position
+  - fox-corporation
+  - 执行董事长兼 CEO
+- - lachlan-murdoch
+  - position
+  - news-corp
+  - 董事长
+- from: mgx
+  to: binance
+  type: investor
+  label: 20 亿美元（以 USD1 稳定币支付）
+  sources:
+  - url: https://nclawyersweekly.com/2026/04/23/blockchain-billionaire-sun-takes-trump-familys-crypto-firm-to-court/
+    title: Blockchain billionaire Sun takes Trump family's crypto firm to court
+    date: '2026-04-23'
+  - url: https://en.wikipedia.org/wiki/World_Liberty_Financial
+    publisher: Wikipedia

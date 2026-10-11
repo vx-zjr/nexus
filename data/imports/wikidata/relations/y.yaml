@@ -1,0 +1,560 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+relations:
+  - from: yang-jiechi
+    to: yang-jiemian
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-ruomu
+    to: chen-yuan-1945
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q82260
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-zhengsheng
+    to: yu-qiangsheng
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115671
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-zhengsheng
+    to: yu-minsheng
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115671
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-zhengsheng
+    to: yu-cisheng
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115671
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yao-yilin
+    to: yao-mingwei
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q622826
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yao-yilin
+    to: yao-jinxin
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q622826
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yao-jiexun
+    to: yao-yilin
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q622826
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-chengwu
+    to: yang-dongming
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8320103
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-guoqiang
+    to: yang-huiyan
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q464748
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-lan
+    to: bruno-wu
+    type: spouse
+    since: "1995"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8048424
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-jiechi
+    to: london-school-of-economics-and-political-science
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-jiechi
+    to: nanjing-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yan-junqi
+    to: shanghai-jiao-tong-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q261597
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yin-li
+    to: shandong-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19825407
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yuan-jiajun
+    to: beihang-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292172
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-xiaodu
+    to: national-supervisory-commission
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9080691
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-zhengsheng
+    to: harbin-military-institute
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115671
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-zhengsheng
+    to: beijing-no-4-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115671
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yi-gang
+    to: indiana-university-purdue-university-indianapolis
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4743711
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yi-gang
+    to: peking-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4743711
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yi-gang
+    to: peking-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4743711
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yi-gang
+    to: university-of-illinois-urbana-champaign
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4743711
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: you-quan
+    to: renmin-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4276510
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yao-yilin
+    to: no-1-high-school-affiliated-to-east-china-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q622826
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yao-yilin
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q622826
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-chuantang
+    to: shandong-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1059497
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-chuantang
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1059497
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-weiguo
+    to: renmin-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292831
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yi-lianhong
+    to: shaanxi-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q33127829
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-jianhua
+    to: china-foreign-affairs-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q51884689
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yi-xiaoguang
+    to: pla-national-defence-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292895
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-jinshan
+    to: pla-national-defence-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8294032
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-dongming
+    to: beihang-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8320103
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-zhongfu
+    to: central-china-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20688012
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yassamin-ansari
+    to: stanford-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "2014"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q122226202
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: young-kim
+    to: university-of-southern-california
+    type: alumni
+    label: Bachelor in Business Administration
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19662859
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yvette-clarke
+    to: creator-economy-caucus
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461679
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yvette-clarke
+    to: creator-economy-caucus
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461679
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yadira-caraveo
+    to: regis-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q59193450
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-xuejun
+    to: national-university-of-defense-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292892
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ying-yong
+    to: zhejiang-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9134379
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ying-yong
+    to: china-university-of-political-science-and-law
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9134379
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yi-huiman
+    to: peking-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28501074
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yi-huiman
+    to: nanjing-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28501074
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-jihong
+    to: beijing-normal-university
+    type: position
+    label: 任职
+    since: 2024-04-30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22101206
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-jihong
+    to: jilin-university
+    type: position
+    label: 任职
+    since: "1999"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22101206
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-jihong
+    to: chinese-academy-of-sciences
+    type: position
+    label: 任职
+    since: "2015"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22101206
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-jihong
+    to: jilin-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22101206
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yin-yong
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28417331
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-zhiliang
+    to: pla-dalian-naval-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30945837
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yin-hejun
+    to: xidian-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30950303
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-huiwen-1968
+    to: liaoning-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q51106444
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-huiwen-1968
+    to: northeastern-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q51106444
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-huiwen-1968
+    to: bohai-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q51106444
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-qingjiang
+    to: pla-national-defence-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65062339
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-lijun
+    to: tianjin-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97300275
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ye-jianchun
+    to: hohai-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97175709
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-aihua
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16906959
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-aihua
+    to: anhui-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16906959
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-jinbai
+    to: xi-an-jiaotong-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97325208
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yuan-gujie
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110105390
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yuan-gujie
+    to: sun-yat-sen-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110105390
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yuan-gujie
+    to: peking-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110105390
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-jianfeng
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115703539
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-huiyan
+    to: country-garden
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q464748
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-huiyan
+    to: ohio-state-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q464748
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-yuanqing
+    to: lenovo
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q740364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-yuanqing
+    to: lenovo
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q740364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-yuanqing
+    to: shanghai-jiao-tong-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q740364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-yuanqing
+    to: university-of-science-and-technology-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q740364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-xiong
+    to: chinese-academy-of-social-sciences
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2117887
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-lan
+    to: beijing-foreign-studies-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8048424
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-lan
+    to: columbia-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8048424
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-lan
+    to: school-of-international-and-public-affairs-columbia-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8048424
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yang-lan
+    to: china-europe-international-business-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8048424
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: yu-dong
+    to: polybona-films
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8059909
+        publisher: Wikidata
+        accessed: 2026-10-11

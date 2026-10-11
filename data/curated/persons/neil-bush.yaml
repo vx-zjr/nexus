@@ -1,0 +1,22 @@
+id: neil-bush
+type: person
+name: Neil Bush
+names:
+  en: Neil Bush
+  zh: 尼尔·布什
+gender: M
+born: '1955-01-22'
+country:
+- US
+sectors:
+- business
+tier: 3
+summary: 老布什之子、小布什之弟，长期与中国商界往来，任乔治·H·W·布什美中关系基金会主席。2002 年与江绵恒参与创办的宏力半导体签订顾问合同（五年 200 万美元股票，离婚案证词披露；本人称未实际领取）。
+sources:
+- url: https://en.wikipedia.org/wiki/Neil_Bush
+  publisher: Wikipedia
+- url: https://www.nbcnews.com/news/amp/wbna4071824
+  title: President's brother Neil enmeshed in messy divorce
+  publisher: NBC News / AP
+  date: 2003-11
+updated: '2026-10-11'

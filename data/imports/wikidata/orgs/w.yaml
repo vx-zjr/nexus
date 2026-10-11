@@ -1,0 +1,2352 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: wabc
+    type: org
+    name: WABC
+    names:
+      en: WABC
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: New York City radio station on 770 kHz
+    ids:
+      wikidata: Q1322074
+    links:
+      - https://en.wikipedia.org/wiki/WABC_(AM)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1322074
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wade-hampton-high-school
+    type: org
+    name: Wade Hampton High School
+    names:
+      en: Wade Hampton High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Greenville, South Carolina
+    ids:
+      wikidata: Q65081698
+    links:
+      - https://en.wikipedia.org/wiki/Wade_Hampton_High_School_(Greenville%2C_South_Carolina)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65081698
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: waggoner-ranch
+    type: org
+    name: Waggoner Ranch
+    names:
+      zh: 瓦格纳牧场
+      en: Waggoner Ranch
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: historic ranch in northwest Texas
+    ids:
+      wikidata: Q21175268
+    links:
+      - https://en.wikipedia.org/wiki/Waggoner_Ranch
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21175268
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wake-forest-university
+    type: org
+    name: Wake Forest University
+    names:
+      zh: 威克森林大学
+      en: Wake Forest University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国卡罗来纳州大学
+    ids:
+      wikidata: Q392667
+    links:
+      - https://en.wikipedia.org/wiki/Wake_Forest_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q392667
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wake-forest-university-school-of-business
+    type: org
+    name: Wake Forest University School of Business
+    names:
+      zh: 维克森林大学商学院
+      en: Wake Forest University School of Business
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Business school of Wake Forest University in North Carolina, United States
+    ids:
+      wikidata: Q4837616
+    links:
+      - https://en.wikipedia.org/wiki/Wake_Forest_University_School_of_Business
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4837616
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: walmart
+    type: org
+    name: Walmart
+    names:
+      zh: 沃尔玛
+      en: Walmart
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國跨國零售企業
+    ids:
+      wikidata: Q483551
+    links:
+      - https://en.wikipedia.org/wiki/Walmart
+    sources:
+      - url: https://www.wikidata.org/wiki/Q483551
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: walsh-school-of-foreign-service
+    type: org
+    name: Walsh School of Foreign Service
+    names:
+      zh: 埃德蒙·A·沃尔什外事学院
+      en: Walsh School of Foreign Service
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国乔治城大学国际关系学院
+    ids:
+      wikidata: Q128047
+    links:
+      - https://en.wikipedia.org/wiki/Walsh_School_of_Foreign_Service
+    sources:
+      - url: https://www.wikidata.org/wiki/Q128047
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: walt-whitman-high-school
+    type: org
+    name: Walt Whitman High School
+    names:
+      en: Walt Whitman High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public high school located in Montgomery County, Maryland, United States
+    ids:
+      wikidata: Q7964080
+    links:
+      - https://en.wikipedia.org/wiki/Walt_Whitman_High_School_(Maryland)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7964080
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: walton-enterprises
+    type: org
+    name: Walton Enterprises
+    names:
+      en: Walton Enterprises
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Family office of the Waltons
+    ids:
+      wikidata: Q17343056
+    links:
+      - https://en.wikipedia.org/wiki/Walton_Enterprises
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17343056
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wan-da-ji-tuan
+    type: org
+    name: 万达集团
+    names:
+      zh: 万达集团
+      en: Wanda Group
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中国企业集团
+    ids:
+      wikidata: Q5210937
+    links:
+      - https://en.wikipedia.org/wiki/Wanda_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5210937
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wanda-commercial
+    type: org
+    name: 萬達商業
+    names:
+      zh: 萬達商業
+      en: Wanda Commercial
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国房地产开发公司
+    ids:
+      wikidata: Q18658349
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18658349
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: warburg-pincus
+    type: org
+    name: Warburg Pincus
+    names:
+      zh: 华平投资
+      en: Warburg Pincus
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: private equity firm from USA
+    ids:
+      wikidata: Q1300943
+    links:
+      - https://en.wikipedia.org/wiki/Warburg_Pincus
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1300943
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: warner-bros-discovery-americas
+    type: org
+    name: Warner Bros. Discovery Americas
+    names:
+      zh: 透納廣播公司拉丁美洲
+      en: Warner Bros. Discovery Americas
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Latin American regional affiliate of Warner Bros. Discovery
+    ids:
+      wikidata: Q7855896
+    links:
+      - https://en.wikipedia.org/wiki/Warner_Bros._Discovery_Americas
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7855896
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: warner-bros-discovery-argentina
+    type: org
+    name: Warner Bros. Discovery Argentina
+    names:
+      en: Warner Bros. Discovery Argentina
+    orgType: company
+    country:
+      - AR
+    sectors:
+      - business
+    tier: 4
+    summary: local Argentinian subsidiary of Warner Bros. Discovery
+    ids:
+      wikidata: Q7855938
+    links:
+      - https://en.wikipedia.org/wiki/Warner_Bros._Discovery_Argentina
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7855938
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: warner-bros-discovery-international
+    type: org
+    name: Warner Bros. Discovery International
+    names:
+      en: Warner Bros. Discovery International
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: international unit of Warner Bros. Discovery
+    ids:
+      wikidata: Q112872237
+    links:
+      - https://en.wikipedia.org/wiki/Warner_Bros._Discovery_International
+    sources:
+      - url: https://www.wikidata.org/wiki/Q112872237
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: warner-music-group
+    type: org
+    name: Warner Music Group
+    names:
+      zh: 华纳音乐集团
+      en: Warner Music Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國大型全球音樂集團
+    ids:
+      wikidata: Q21077
+    links:
+      - https://en.wikipedia.org/wiki/Warner_Music_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21077
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: washington-and-lee-university
+    type: org
+    name: Washington and Lee University
+    names:
+      zh: 华盛顿与李大学
+      en: Washington and Lee University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国弗吉尼亚州私立文理大学
+    ids:
+      wikidata: Q1785291
+    links:
+      - https://en.wikipedia.org/wiki/Washington_and_Lee_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1785291
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: washington-and-lee-university-school-of-law
+    type: org
+    name: Washington and Lee University School of Law
+    names:
+      zh: 华盛顿与李大学法学院
+      en: Washington and Lee University School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American law school
+    ids:
+      wikidata: Q7972542
+    links:
+      - https://en.wikipedia.org/wiki/Washington_and_Lee_University_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7972542
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: washington-commanders
+    type: org
+    name: Washington Commanders
+    names:
+      zh: 华盛顿指挥官
+      en: Washington Commanders
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 全国橄榄球联盟（NFL）球队
+    ids:
+      wikidata: Q212654
+    links:
+      - https://en.wikipedia.org/wiki/Washington_Commanders
+    sources:
+      - url: https://www.wikidata.org/wiki/Q212654
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: washington-examiner
+    type: org
+    name: Washington Examiner
+    names:
+      zh: 華盛頓檢查者報
+      en: Washington Examiner
+    orgType: media
+    country:
+      - US
+    sectors:
+      - media
+    tier: 4
+    summary: 美国新闻媒体
+    ids:
+      wikidata: Q255700
+    links:
+      - https://en.wikipedia.org/wiki/Washington_Examiner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q255700
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: washington-house-of-representatives
+    type: org
+    name: Washington House of Representatives
+    names:
+      zh: 华盛顿州众议院
+      en: Washington House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the Washington State Legislature
+    ids:
+      wikidata: Q1802872
+    links:
+      - https://en.wikipedia.org/wiki/Washington_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1802872
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: washington-mystics
+    type: org
+    name: Washington Mystics
+    names:
+      zh: 华盛顿神秘
+      en: Washington Mystics
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: American professional women's basketball team
+    ids:
+      wikidata: Q1465192
+    links:
+      - https://en.wikipedia.org/wiki/Washington_Mystics
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1465192
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: washington-state-senate
+    type: org
+    name: Washington State Senate
+    names:
+      zh: 華盛頓州參議院
+      en: Washington State Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the Washington State Legislature
+    ids:
+      wikidata: Q2269889
+    links:
+      - https://en.wikipedia.org/wiki/Washington_State_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2269889
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: washington-state-university
+    type: org
+    name: Washington State University
+    names:
+      zh: 华盛顿州立大学
+      en: Washington State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美國華盛頓普爾曼的公立大學
+    ids:
+      wikidata: Q597236
+    links:
+      - https://en.wikipedia.org/wiki/Washington_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q597236
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: washington-university-in-st-louis
+    type: org
+    name: Washington University in St. Louis
+    names:
+      zh: 圣路易斯华盛顿大学
+      en: Washington University in St. Louis
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: private research university in St. Louis, Missouri, United States
+    ids:
+      wikidata: Q777403
+    links:
+      - https://en.wikipedia.org/wiki/Washington_University_in_St._Louis
+    sources:
+      - url: https://www.wikidata.org/wiki/Q777403
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: washington-university-school-of-law
+    type: org
+    name: Washington University School of Law
+    names:
+      zh: 华盛顿大学法学院
+      en: Washington University School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school in Saint Louis, Missouri
+    ids:
+      wikidata: Q5354197
+    links:
+      - https://en.wikipedia.org/wiki/Washington_University_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5354197
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wayne-state-university
+    type: org
+    name: Wayne State University
+    names:
+      zh: 韦恩州立大学
+      en: Wayne State University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 位於密歇根州底特律的美國公共研究大學
+    ids:
+      wikidata: Q349055
+    links:
+      - https://en.wikipedia.org/wiki/Wayne_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q349055
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wayne-state-university-law-school
+    type: org
+    name: Wayne State University Law School
+    names:
+      zh: 韋恩州立大學法律學院
+      en: Wayne State University Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school in Detroit
+    ids:
+      wikidata: Q7976643
+    links:
+      - https://en.wikipedia.org/wiki/Wayne_State_University_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7976643
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: we-the-people-party
+    type: org
+    name: We the People Party
+    names:
+      zh: 我们人民党
+      en: We the People Party
+    orgType: party
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American political party founded by Robert F. Kennedy Jr.
+    ids:
+      wikidata: Q124397764
+    links:
+      - https://en.wikipedia.org/wiki/We_the_People_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124397764
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: webb-school-of-knoxville
+    type: org
+    name: Webb School of Knoxville
+    names:
+      en: Webb School of Knoxville
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: college preparatory day school in Knoxville, Tennessee, United States
+    ids:
+      wikidata: Q7978675
+    links:
+      - https://en.wikipedia.org/wiki/Webb_School_of_Knoxville
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7978675
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: webster-university
+    type: org
+    name: Webster University
+    names:
+      zh: 韦伯斯特大学
+      en: Webster University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university in Webster Groves, St. Louis
+    ids:
+      wikidata: Q1465303
+    links:
+      - https://en.wikipedia.org/wiki/Webster_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1465303
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wellesley-college
+    type: org
+    name: Wellesley College
+    names:
+      zh: 卫斯理学院
+      en: Wellesley College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 馬薩諸塞州私立女子文理學院
+    ids:
+      wikidata: Q49205
+    links:
+      - https://en.wikipedia.org/wiki/Wellesley_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49205
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wesleyan-university
+    type: org
+    name: Wesleyan University
+    names:
+      zh: 维思大学
+      en: Wesleyan University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国文理学院
+    ids:
+      wikidata: Q49167
+    links:
+      - https://en.wikipedia.org/wiki/Wesleyan_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49167
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: west-virginia-house-of-delegates
+    type: org
+    name: West Virginia House of Delegates
+    names:
+      zh: 西弗吉尼亞州眾議院
+      en: West Virginia House of Delegates
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the West Virginia Legislature
+    ids:
+      wikidata: Q320278
+    links:
+      - https://en.wikipedia.org/wiki/West_Virginia_House_of_Delegates
+    sources:
+      - url: https://www.wikidata.org/wiki/Q320278
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: western-kentucky-university
+    type: org
+    name: Western Kentucky University
+    names:
+      zh: 西肯塔基大学
+      en: Western Kentucky University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university in Kentucky, United States
+    ids:
+      wikidata: Q1474105
+    links:
+      - https://en.wikipedia.org/wiki/Western_Kentucky_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1474105
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: westexec-advisors
+    type: org
+    name: WestExec Advisors
+    names:
+      en: WestExec Advisors
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: American consulting firm
+    ids:
+      wikidata: Q102302822
+    links:
+      - https://en.wikipedia.org/wiki/WestExec_Advisors
+    sources:
+      - url: https://www.wikidata.org/wiki/Q102302822
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wexner-foundation
+    type: org
+    name: Wexner Foundation
+    names:
+      en: Wexner Foundation
+    orgType: ngo
+    country:
+      - IL
+    sectors:
+      - other
+    tier: 4
+    summary: philanthropic organisation
+    ids:
+      wikidata: Q7990273
+    links:
+      - https://en.wikipedia.org/wiki/Wexner_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7990273
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: whatsapp
+    type: org
+    name: WhatsApp
+    names:
+      en: WhatsApp
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 即時通信應用程式
+    ids:
+      wikidata: Q1049511
+    links:
+      - https://en.wikipedia.org/wiki/WhatsApp
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1049511
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: whatsapp-llc
+    type: org
+    name: WhatsApp LLC
+    names:
+      en: WhatsApp LLC
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: WhatsApp developers
+    ids:
+      wikidata: Q52410688
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q52410688
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wheaton-college
+    type: org
+    name: Wheaton College
+    names:
+      zh: 伊利诺伊州惠顿学院
+      en: Wheaton College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: Christian liberal arts college in Wheaton, Illinois
+    ids:
+      wikidata: Q747179
+    links:
+      - https://en.wikipedia.org/wiki/Wheaton_College_(Illinois)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q747179
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wheaton-college-2
+    type: org
+    name: Wheaton College
+    names:
+      zh: 韦顿学院
+      en: Wheaton College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: Private liberal arts college in Norton, Massachusetts
+    ids:
+      wikidata: Q924318
+    links:
+      - https://en.wikipedia.org/wiki/Wheaton_College_(Massachusetts)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q924318
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: white-house-coronavirus-task-force
+    type: org
+    name: White House Coronavirus Task Force
+    names:
+      zh: 美国白宫冠状病毒工作组
+      en: White House Coronavirus Task Force
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: United States Department of State task force to mitigate COVID-19
+    ids:
+      wikidata: Q87767345
+    links:
+      - https://en.wikipedia.org/wiki/White_House_Coronavirus_Task_Force
+    sources:
+      - url: https://www.wikidata.org/wiki/Q87767345
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: white-house-covid-19-response-team
+    type: org
+    name: White House COVID-19 Response Team
+    names:
+      zh: 白宮COVID-19因應小組
+      en: White House COVID-19 Response Team
+    orgType: government
+    country: []
+    sectors:
+      - politics
+    tier: 4
+    summary: federal agency
+    ids:
+      wikidata: Q105550858
+    links:
+      - https://en.wikipedia.org/wiki/White_House_COVID-19_Response_Team
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105550858
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: white-house-office
+    type: org
+    name: White House Office
+    names:
+      zh: 白宫办公厅
+      en: White House Office
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: entity within the Executive Office of the President of the United States (EOP)
+    ids:
+      wikidata: Q9287183
+    links:
+      - https://en.wikipedia.org/wiki/White_House_Office
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9287183
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: white-house-office-of-communications
+    type: org
+    name: White House Office of Communications
+    names:
+      en: White House Office of Communications
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    ids:
+      wikidata: Q27906983
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27906983
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: white-house-office-of-the-press-secretary
+    type: org
+    name: White House Office of the Press Secretary
+    names:
+      zh: 白宮發言人辦公室
+      en: White House Office of the Press Secretary
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: information provider to the U.S. president, White House staff, and the media
+    ids:
+      wikidata: Q7994903
+    links:
+      - https://en.wikipedia.org/wiki/White_House_Office_of_the_Press_Secretary
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7994903
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: white-house-task-force-on-celebrating-america-s-250th-birthday
+    type: org
+    name: White House Task Force on Celebrating America's 250th Birthday
+    names:
+      en: White House Task Force on Celebrating America's 250th Birthday
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: US executive planning team
+    ids:
+      wikidata: Q132353716
+    links:
+      - https://en.wikipedia.org/wiki/Freedom_250
+    sources:
+      - url: https://www.wikidata.org/wiki/Q132353716
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: whitehaven
+    type: org
+    name: Whitehaven
+    names:
+      en: Whitehaven
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: house in Washington, D.C., USA
+    ids:
+      wikidata: Q25223501
+    links:
+      - https://en.wikipedia.org/wiki/Whitehaven_(house)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q25223501
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wichita-east-high-school
+    type: org
+    name: Wichita East High School
+    names:
+      en: Wichita East High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Kansas, United States
+    ids:
+      wikidata: Q7998127
+    links:
+      - https://en.wikipedia.org/wiki/Wichita_East_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7998127
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: widener-university
+    type: org
+    name: Widener University
+    names:
+      zh: 威得恩大学
+      en: Widener University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private university
+    ids:
+      wikidata: Q3443325
+    links:
+      - https://en.wikipedia.org/wiki/Widener_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3443325
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wikia-search
+    type: org
+    name: Wikia Search
+    names:
+      en: Wikia Search
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: defunct free and open-source web search engine by Wikia
+    ids:
+      wikidata: Q1075624
+    links:
+      - https://en.wikipedia.org/wiki/Wikia_Search
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1075624
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wikibooks
+    type: org
+    name: Wikibooks
+    names:
+      zh: 维基教科书
+      en: Wikibooks
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 网站
+    ids:
+      wikidata: Q367
+    links:
+      - https://en.wikipedia.org/wiki/Wikibooks
+    sources:
+      - url: https://www.wikidata.org/wiki/Q367
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wikimedia-commons
+    type: org
+    name: Wikimedia Commons
+    names:
+      zh: 维基共享资源
+      en: Wikimedia Commons
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 維基媒體基金會所計畫的自由使用圖像、音訊及其他媒體文件的線上資料庫
+    ids:
+      wikidata: Q565
+    links:
+      - https://en.wikipedia.org/wiki/Wikimedia_Commons
+    sources:
+      - url: https://www.wikidata.org/wiki/Q565
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wikimedia-endowment
+    type: org
+    name: Wikimedia Endowment
+    names:
+      zh: 维基媒体捐赠基金
+      en: Wikimedia Endowment
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: endowment to support the Wikimedia projects
+    ids:
+      wikidata: Q47467626
+    links:
+      - https://en.wikipedia.org/wiki/Wikimedia_Endowment
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47467626
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wikimedia-foundation
+    type: org
+    name: Wikimedia Foundation
+    names:
+      zh: 维基媒体基金会
+      en: Wikimedia Foundation
+    orgType: foundation
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 運營維基媒體項目的美國非營利慈善組織
+    ids:
+      wikidata: Q180
+    links:
+      - https://en.wikipedia.org/wiki/Wikimedia_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q180
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wikimedia-foundation-board-of-trustees
+    type: org
+    name: Wikimedia Foundation Board of Trustees
+    names:
+      zh: 维基媒体基金会理事会
+      en: Wikimedia Foundation Board of Trustees
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: committee of volunteers that oversees the Wikimedia Foundation
+    ids:
+      wikidata: Q15735628
+    links:
+      - https://en.wikipedia.org/wiki/Wikimedia_Foundation_Board_of_Trustees
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15735628
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wikinews
+    type: org
+    name: Wikinews
+    names:
+      zh: 维基新闻
+      en: Wikinews
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 由志願者編寫與編輯的開放內容線上新聞
+    ids:
+      wikidata: Q964
+    links:
+      - https://en.wikipedia.org/wiki/Wikinews
+    sources:
+      - url: https://www.wikidata.org/wiki/Q964
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wikipedia
+    type: org
+    name: Wikipedia
+    names:
+      zh: 维基百科
+      en: Wikipedia
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 人人可編輯的自由線上百科全書，2001年於美國創立
+    ids:
+      wikidata: Q52
+    links:
+      - https://en.wikipedia.org/wiki/Wikipedia
+    sources:
+      - url: https://www.wikidata.org/wiki/Q52
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wikiquote
+    type: org
+    name: Wikiquote
+    names:
+      zh: 维基语录
+      en: Wikiquote
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 維基媒體旗下由志願者編輯的語錄收集網站
+    ids:
+      wikidata: Q369
+    links:
+      - https://en.wikipedia.org/wiki/Wikiquote
+    sources:
+      - url: https://www.wikidata.org/wiki/Q369
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wikispecies
+    type: org
+    name: Wikispecies
+    names:
+      zh: 维基物种
+      en: Wikispecies
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 美國維基媒體基金會運營的線上物種名錄，面向公眾開放編輯
+    ids:
+      wikidata: Q13679
+    links:
+      - https://en.wikipedia.org/wiki/Wikispecies
+    sources:
+      - url: https://www.wikidata.org/wiki/Q13679
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wikitribune
+    type: org
+    name: WikiTribune
+    names:
+      zh: Wikitribune
+      en: WikiTribune
+    orgType: company
+    country:
+      - GB
+    sectors:
+      - business
+    tier: 3
+    summary: 網站
+    ids:
+      wikidata: Q29568422
+    links:
+      - https://en.wikipedia.org/wiki/WikiTribune
+    sources:
+      - url: https://www.wikidata.org/wiki/Q29568422
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wiktionary
+    type: org
+    name: Wiktionary
+    names:
+      zh: 维基词典
+      en: Wiktionary
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 自由的多語言詞典
+    ids:
+      wikidata: Q151
+    links:
+      - https://en.wikipedia.org/wiki/Wiktionary
+    sources:
+      - url: https://www.wikidata.org/wiki/Q151
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: willamette-university
+    type: org
+    name: Willamette University
+    names:
+      zh: 威拉姆特大学
+      en: Willamette University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private university located in Salem, Oregon
+    ids:
+      wikidata: Q930291
+    links:
+      - https://en.wikipedia.org/wiki/Willamette_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q930291
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: willamette-university-college-of-law
+    type: org
+    name: Willamette University College of Law
+    names:
+      zh: 威廉米特大学法学院
+      en: Willamette University College of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private law school
+    ids:
+      wikidata: Q8003310
+    links:
+      - https://en.wikipedia.org/wiki/Willamette_University_College_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8003310
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: willett-advisors
+    type: org
+    name: Willett Advisors
+    names:
+      en: Willett Advisors
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Investment arm for the personal and philanthropic assets of former New York Mayor Michael R. Bloomberg
+    ids:
+      wikidata: Q42393368
+    links:
+      - https://en.wikipedia.org/wiki/Willett_Advisors
+    sources:
+      - url: https://www.wikidata.org/wiki/Q42393368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: william-and-mary-law-school
+    type: org
+    name: William & Mary Law School
+    names:
+      zh: 威廉与玛丽法学院
+      en: William & Mary Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school of the College of William & Mary
+    ids:
+      wikidata: Q8003845
+    links:
+      - https://en.wikipedia.org/wiki/William_%26_Mary_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8003845
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: william-mitchell-college-of-law
+    type: org
+    name: William Mitchell College of Law
+    names:
+      zh: 威廉·米切尔法学院
+      en: William Mitchell College of Law
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private law school in St. Paul, Minnesota
+    ids:
+      wikidata: Q8015692
+    links:
+      - https://en.wikipedia.org/wiki/William_Mitchell_College_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8015692
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: williams-and-connolly
+    type: org
+    name: Williams & Connolly
+    names:
+      zh: 康諾利律師事務所
+      en: Williams & Connolly
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law firm
+    ids:
+      wikidata: Q8020966
+    links:
+      - https://en.wikipedia.org/wiki/Williams_%26_Connolly
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8020966
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: williams-college
+    type: org
+    name: Williams College
+    names:
+      zh: 威廉姆斯学院
+      en: Williams College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美國馬薩諸塞州文理學院
+    ids:
+      wikidata: Q49166
+    links:
+      - https://en.wikipedia.org/wiki/Williams_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49166
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: willow
+    type: org
+    name: Willow
+    names:
+      en: Willow
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: cat belonging to Joe and Jill Biden
+    ids:
+      wikidata: Q110727478
+    links:
+      - https://en.wikipedia.org/wiki/Willow_(cat)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110727478
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wilmer-cutler-pickering-hale-and-dorr
+    type: org
+    name: Wilmer Cutler Pickering Hale and Dorr
+    names:
+      zh: 威尔默·黑尔
+      en: Wilmer Cutler Pickering Hale and Dorr
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: multinational law firm
+    ids:
+      wikidata: Q8022698
+    links:
+      - https://en.wikipedia.org/wiki/WilmerHale
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8022698
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wilmington-friends-school
+    type: org
+    name: Wilmington Friends School
+    names:
+      zh: 威尔明顿贵格会学校
+      en: Wilmington Friends School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: independent day co-ed school in New Castle County, Delaware, United States
+    ids:
+      wikidata: Q8022759
+    links:
+      - https://en.wikipedia.org/wiki/Wilmington_Friends_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8022759
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: windsor-house
+    type: org
+    name: 皇室堡
+    names:
+      zh: 皇室堡
+      en: Windsor House
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: shopping mall in Hong Kong
+    ids:
+      wikidata: Q15910300
+    links:
+      - https://en.wikipedia.org/wiki/Windsor_House_(Hong_Kong)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15910300
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: winecup-gamble-ranch
+    type: org
+    name: Winecup Gamble Ranch
+    names:
+      en: Winecup Gamble Ranch
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: large ranch in Nevada
+    ids:
+      wikidata: Q137227294
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137227294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wingman
+    type: org
+    name: Wingman
+    names:
+      en: Wingman
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: supply tender built in 2014
+    ids:
+      wikidata: Q101919915
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q101919915
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: winklevoss-capital-management
+    type: org
+    name: Winklevoss Capital Management
+    names:
+      en: Winklevoss Capital Management
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American venture capital firm and family office
+    ids:
+      wikidata: Q17145979
+    links:
+      - https://en.wikipedia.org/wiki/Winklevoss_Capital_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17145979
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: winn-dixie
+    type: org
+    name: Winn-Dixie
+    names:
+      en: Winn-Dixie
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American supermarket chain headquartered in Jacksonville, Florida
+    ids:
+      wikidata: Q1264366
+    links:
+      - https://en.wikipedia.org/wiki/Winn-Dixie
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1264366
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wisconsin-economic-development-corporation
+    type: org
+    name: Wisconsin Economic Development Corporation
+    names:
+      en: Wisconsin Economic Development Corporation
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: United States government civilian foreign aid agency
+    ids:
+      wikidata: Q22073514
+    links:
+      - https://en.wikipedia.org/wiki/Wisconsin_Economic_Development_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22073514
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wisconsin-state-assembly
+    type: org
+    name: Wisconsin State Assembly
+    names:
+      zh: 威斯康星州议会
+      en: Wisconsin State Assembly
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the Wisconsin Legislature
+    ids:
+      wikidata: Q1236853
+    links:
+      - https://en.wikipedia.org/wiki/Wisconsin_State_Assembly
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1236853
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wisconsin-state-senate
+    type: org
+    name: Wisconsin State Senate
+    names:
+      zh: 威斯康星州参议院
+      en: Wisconsin State Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 威斯康星州议会上院
+    ids:
+      wikidata: Q1412814
+    links:
+      - https://en.wikipedia.org/wiki/Wisconsin_State_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1412814
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wl-ross-and-co
+    type: org
+    name: WL Ross & Co
+    names:
+      en: WL Ross & Co
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American private equity company
+    ids:
+      wikidata: Q48740961
+    links:
+      - https://en.wikipedia.org/wiki/WL_Ross_%26_Co
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48740961
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wolf-trap-foundation-for-the-performing-arts
+    type: org
+    name: Wolf Trap Foundation for the Performing Arts
+    names:
+      en: Wolf Trap Foundation for the Performing Arts
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國非盈利組織
+    ids:
+      wikidata: Q54851829
+    links:
+      - https://en.wikipedia.org/wiki/Wolf_Trap_Foundation_for_the_Performing_Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q54851829
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wolfensohn-center-for-development
+    type: org
+    name: Wolfensohn Center for Development
+    names:
+      en: Wolfensohn Center for Development
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American nonprofit (2006-2010)
+    ids:
+      wikidata: Q123416190
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q123416190
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wolfram-physics-project
+    type: org
+    name: Wolfram Physics Project
+    names:
+      en: Wolfram Physics Project
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: project to find the fundamental theory of physics
+    ids:
+      wikidata: Q90614242
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q90614242
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wolfram-research
+    type: org
+    name: Wolfram Research
+    names:
+      zh: 沃尔夫勒姆研究公司
+      en: Wolfram Research
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 公司
+    ids:
+      wikidata: Q1367937
+    links:
+      - https://en.wikipedia.org/wiki/Wolfram_Research
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1367937
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wolfson-college
+    type: org
+    name: Wolfson College
+    names:
+      zh: 牛津大學沃弗森學院
+      en: Wolfson College
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 4
+    summary: college of the University of Oxford
+    ids:
+      wikidata: Q2007225
+    links:
+      - https://en.wikipedia.org/wiki/Wolfson_College%2C_Oxford
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2007225
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: woman-iii
+    type: org
+    name: Woman III
+    names:
+      zh: 女人III
+      en: Woman III
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Willem de Kooning
+    ids:
+      wikidata: Q1887644
+    links:
+      - https://en.wikipedia.org/wiki/Woman_III
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1887644
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: women-s-equality-party
+    type: org
+    name: Women’s Equality Party
+    names:
+      zh: 女性平權黨
+      en: Women’s Equality Party
+    orgType: party
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: New York political party
+    ids:
+      wikidata: Q20552581
+    links:
+      - https://en.wikipedia.org/wiki/Women's_Equality_Party_(New_York)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20552581
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wonder-group-inc
+    type: org
+    name: Wonder Group Inc.
+    names:
+      en: Wonder Group Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: business
+    ids:
+      wikidata: Q133715205
+    links:
+      - https://en.wikipedia.org/wiki/Wonder_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q133715205
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wonders-of-wildlife-museum-and-aquarium
+    type: org
+    name: Wonders of Wildlife Museum & Aquarium
+    names:
+      en: Wonders of Wildlife Museum & Aquarium
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: wildlife museum in Springfield, Missouri
+    ids:
+      wikidata: Q8031923
+    links:
+      - https://en.wikipedia.org/wiki/Wonders_of_Wildlife_Museum_%26_Aquarium
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8031923
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: worcester-academy
+    type: org
+    name: Worcester Academy
+    names:
+      zh: 烏斯特學院
+      en: Worcester Academy
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private high school in Worcester, Massachusetts, United States
+    ids:
+      wikidata: Q1256922
+    links:
+      - https://en.wikipedia.org/wiki/Worcester_Academy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1256922
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: worcester-college
+    type: org
+    name: Worcester College
+    names:
+      zh: 牛津大學伍斯特學院
+      en: Worcester College
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 3
+    summary: college of the University of Oxford
+    ids:
+      wikidata: Q780745
+    links:
+      - https://en.wikipedia.org/wiki/Worcester_College%2C_Oxford
+    sources:
+      - url: https://www.wikidata.org/wiki/Q780745
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: workday-inc
+    type: org
+    name: Workday, Inc.
+    names:
+      zh: Workday公司
+      en: Workday, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美国人力财务软件厂商
+    ids:
+      wikidata: Q8034666
+    links:
+      - https://en.wikipedia.org/wiki/Workday%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8034666
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: working-group-on-financial-markets
+    type: org
+    name: Working Group on Financial Markets
+    names:
+      zh: 美国金融市场工作组
+      en: Working Group on Financial Markets
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: a working group within the US federal government
+    ids:
+      wikidata: Q1634897
+    links:
+      - https://en.wikipedia.org/wiki/Working_Group_on_Financial_Markets
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1634897
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: world-bank
+    type: org
+    name: World Bank
+    names:
+      zh: 世界银行
+      en: World Bank
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 国际金融机构
+    ids:
+      wikidata: Q7164
+    links:
+      - https://en.wikipedia.org/wiki/World_Bank
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7164
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: world-bank-group
+    type: org
+    name: World Bank Group
+    names:
+      zh: 世界银行集团
+      en: World Bank Group
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: group of five international organizations that make leveraged loans to developing countries
+    ids:
+      wikidata: Q320863
+    links:
+      - https://en.wikipedia.org/wiki/World_Bank_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q320863
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: world-bodybuilding-federation
+    type: org
+    name: World Bodybuilding Federation
+    names:
+      zh: 世界健美聯盟
+      en: World Bodybuilding Federation
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: organization
+    ids:
+      wikidata: Q865566
+    links:
+      - https://en.wikipedia.org/wiki/World_Bodybuilding_Federation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q865566
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: world-championship-wrestling
+    type: org
+    name: World Championship Wrestling
+    names:
+      zh: 世界冠軍摔角
+      en: World Championship Wrestling
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American professional wrestling company
+    ids:
+      wikidata: Q130171
+    links:
+      - https://en.wikipedia.org/wiki/World_Championship_Wrestling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q130171
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: world-food-programme
+    type: org
+    name: World Food Programme
+    names:
+      zh: 世界粮食计划署
+      en: World Food Programme
+    orgType: other
+    country:
+      - IT
+    sectors:
+      - other
+    tier: 2
+    summary: 聯合國的食品援助組織
+    ids:
+      wikidata: Q204344
+    links:
+      - https://en.wikipedia.org/wiki/World_Food_Programme
+    sources:
+      - url: https://www.wikidata.org/wiki/Q204344
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: world-jewish-congress
+    type: org
+    name: World Jewish Congress
+    names:
+      zh: 犹太人战争委员会
+      en: World Jewish Congress
+    orgType: ngo
+    country:
+      - CH
+    sectors:
+      - other
+    tier: 3
+    summary: 犹太组织
+    ids:
+      wikidata: Q541010
+    links:
+      - https://en.wikipedia.org/wiki/World_Jewish_Congress
+    sources:
+      - url: https://www.wikidata.org/wiki/Q541010
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: world-liberty-financial
+    type: org
+    name: World Liberty Financial
+    names:
+      en: World Liberty Financial
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: cryptocurrency platform
+    ids:
+      wikidata: Q130316305
+    links:
+      - https://en.wikipedia.org/wiki/World_Liberty_Financial
+    sources:
+      - url: https://www.wikidata.org/wiki/Q130316305
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: world-war-zero
+    type: org
+    name: World War Zero
+    names:
+      en: World War Zero
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: Climate activism organization
+    ids:
+      wikidata: Q77127097
+    links:
+      - https://en.wikipedia.org/wiki/World_War_Zero
+    sources:
+      - url: https://www.wikidata.org/wiki/Q77127097
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: world-wide-technology
+    type: org
+    name: World Wide Technology
+    names:
+      en: World Wide Technology
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American technology company
+    ids:
+      wikidata: Q8036496
+    links:
+      - https://en.wikipedia.org/wiki/World_Wide_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8036496
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: worldcoin
+    type: org
+    name: Worldcoin
+    names:
+      zh: 世界幣
+      en: Worldcoin
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: 一个加密货币专案
+    ids:
+      wikidata: Q118868596
+    links:
+      - https://en.wikipedia.org/wiki/World_(blockchain)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q118868596
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wtem
+    type: org
+    name: WTEM
+    names:
+      en: WTEM
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: sports radio station in Washington, D.C.
+    ids:
+      wikidata: Q7956141
+    links:
+      - https://en.wikipedia.org/wiki/WTEM
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7956141
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wuhan-university
+    type: org
+    name: 武汉大学
+    names:
+      zh: 武汉大学
+      en: Wuhan University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 中国武汉的综合性大学
+    ids:
+      wikidata: Q1108197
+    links:
+      - https://en.wikipedia.org/wiki/Wuhan_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1108197
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wuhan-university-of-science-and-technology
+    type: org
+    name: 武汉科技大学
+    names:
+      zh: 武汉科技大学
+      en: Wuhan University of Science and Technology
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于湖北省武汉市的一所综合性大学
+    ids:
+      wikidata: Q6123855
+    links:
+      - https://en.wikipedia.org/wiki/Wuhan_University_of_Science_and_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6123855
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wuhan-university-of-technology
+    type: org
+    name: 武汉理工大学
+    names:
+      zh: 武汉理工大学
+      en: Wuhan University of Technology
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位於湖北省武漢市的全國重點大學
+    ids:
+      wikidata: Q832355
+    links:
+      - https://en.wikipedia.org/wiki/Wuhan_University_of_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q832355
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wwe
+    type: org
+    name: WWE
+    names:
+      zh: 世界摔角娛樂
+      en: WWE
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: American professional wrestling and entertainment company
+    ids:
+      wikidata: Q35339
+    links:
+      - https://en.wikipedia.org/wiki/WWE
+    sources:
+      - url: https://www.wikidata.org/wiki/Q35339
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wwe-music-group
+    type: org
+    name: WWE Music Group
+    names:
+      zh: 世界摔角娛樂唱片公司
+      en: WWE Music Group
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American record label
+    ids:
+      wikidata: Q3622086
+    links:
+      - https://en.wikipedia.org/wiki/WWE_Music_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3622086
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wwe-studios
+    type: org
+    name: WWE Studios
+    names:
+      zh: 世界摔跤娱乐电影制片厂
+      en: WWE Studios
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: subsidiary of WWE
+    ids:
+      wikidata: Q1149935
+    links:
+      - https://en.wikipedia.org/wiki/WWE_Studios
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1149935
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wynn-resorts
+    type: org
+    name: Wynn Resorts
+    names:
+      zh: 永利度假村
+      en: Wynn Resorts
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American gaming, hospitality and entertainment company
+    ids:
+      wikidata: Q2274089
+    links:
+      - https://en.wikipedia.org/wiki/Wynn_Resorts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2274089
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wyoming-house-of-representatives
+    type: org
+    name: Wyoming House of Representatives
+    names:
+      zh: 懷俄明州眾議院
+      en: Wyoming House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of Wyoming's state legislature
+    ids:
+      wikidata: Q2145228
+    links:
+      - https://en.wikipedia.org/wiki/Wyoming_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2145228
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wyoming-seminary
+    type: org
+    name: Wyoming Seminary
+    names:
+      en: Wyoming Seminary
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private primary and secondary school in Kingston, Pennsylvania, US
+    ids:
+      wikidata: Q16903753
+    links:
+      - https://en.wikipedia.org/wiki/Wyoming_Seminary
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16903753
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: wyoming-senate
+    type: org
+    name: Wyoming Senate
+    names:
+      zh: 怀俄明州参议院
+      en: Wyoming Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the Wyoming state legislature
+    ids:
+      wikidata: Q909666
+    links:
+      - https://en.wikipedia.org/wiki/Wyoming_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q909666
+        publisher: Wikidata
+        accessed: 2026-10-11

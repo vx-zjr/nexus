@@ -1,0 +1,20 @@
+id: wendi-deng
+type: person
+name: Wendi Deng
+names:
+  en: Wendi Deng
+  zh: 邓文迪
+gender: F
+born: '1968-12-08'
+country:
+- US
+- CN
+sectors:
+- business
+- media
+tier: 3
+summary: 生于山东济南、成长于江苏徐州，1999–2013 年为默多克之妻，曾负责新闻集团在华业务（MySpace China 等），在中美政商圈人脉广泛。
+sources:
+- url: https://en.wikipedia.org/wiki/Wendi_Deng_Murdoch
+  publisher: Wikipedia
+updated: '2026-10-11'

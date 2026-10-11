@@ -1,0 +1,46 @@
+note: 太子党/高官亲属的商业任职与持股（来源以维基百科与 ICIJ 为主）
+sources:
+- &id001
+  url: https://www.icij.org/investigations/offshore/leaked-records-reveal-offshore-holdings-of-chinas-elite/
+  title: Leaked Records Reveal Offshore Holdings of China's Elite
+  publisher: ICIJ
+  date: '2014-01-21'
+- url: https://www.icij.org/investigations/panama-papers/20160406-china-red-nobility-offshore-dealings/
+  title: 'Panama Papers: China''s red nobility offshore dealings'
+  publisher: ICIJ
+  date: '2016-04-06'
+relations:
+- from: zhu-yunlai
+  to: cicc
+  type: position
+  label: CEO
+  until: '2014'
+  sources:
+  - url: https://en.wikipedia.org/wiki/Levin_Zhu
+    publisher: Wikipedia
+- from: hu-haifeng
+  to: nuctech
+  type: position
+  label: 总裁/党委书记
+  sources:
+  - url: https://en.wikipedia.org/wiki/Hu_Haifeng
+    publisher: Wikipedia
+- from: mao-daolin
+  to: hu-haiqing
+  type: spouse
+  sources:
+  - url: https://en.wikipedia.org/wiki/Hu_Haiqing
+    publisher: Wikipedia
+- from: chen-yuan
+  to: state-council-prc
+  type: position
+  label: 国家开发银行行长/董事长（1998–2013）
+  sources:
+  - url: https://en.wikipedia.org/wiki/Chen_Yuan
+    publisher: Wikipedia
+- from: li-zidan
+  to: jia-qinglin
+  type: in-law
+  label: 孙女婿（离岸公司持有人，ICIJ）
+  sources:
+  - *id001

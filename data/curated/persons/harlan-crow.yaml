@@ -1,0 +1,22 @@
+id: harlan-crow
+type: person
+name: Harlan Crow
+names:
+  en: Harlan Crow
+  zh: 哈伦·克劳
+gender: M
+born: '1949-07-10'
+country:
+- US
+sectors:
+- business
+tier: 3
+summary: Crow Holdings 董事长，达拉斯地产富豪、共和党大金主。
+sources:
+- url: https://en.wikipedia.org/wiki/Harlan_Crow
+  publisher: Wikipedia
+- url: https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow
+  title: Clarence Thomas and the Billionaire
+  publisher: ProPublica
+  date: '2023-04-06'
+updated: '2026-10-11'

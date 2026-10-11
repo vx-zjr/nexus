@@ -1,0 +1,29 @@
+id: jeff-yass
+type: person
+name: Jeff Yass
+names:
+  en: Jeff Yass
+  zh: 杰夫·亚斯
+gender: M
+born: '1958'
+country:
+- US
+sectors:
+- finance
+tier: 2
+summary: Susquehanna 联合创始人。Susquehanna 2012 年起投资字节跳动，持股约 15%，其本人约 7%；2024 周期与妻子捐款约 1.01 亿美元（保守派）。2024-03 与特朗普在海湖庄园会面数日后，特朗普转而反对 TikTok 禁令（特朗普否认二者相关）。
+sources:
+- url: https://en.wikipedia.org/wiki/Jeff_Yass
+  publisher: Wikipedia
+- url: https://www.allsides.com/blog/elon-musk-tops-list-2024-political-donors-five-others-gave-more-100-million
+  title: Elon Musk tops list of 2024 political donors; five others gave more than $100 million (OpenSecrets data)
+  publisher: AllSides / OpenSecrets
+- url: https://fortune.com/2024/12/09/trump-jeff-yass-tiktok-avoid-ban
+  title: Trump, Jeff Yass and TikTok
+  publisher: Fortune
+  date: '2024-12-09'
+- url: https://www.inquirer.com/politics/pennsylvania/tiktok-ban-jeff-yass-congress-house-20240313.html
+  title: TikTok ban, Jeff Yass and Congress
+  publisher: The Philadelphia Inquirer
+  date: '2024-03-13'
+updated: '2026-10-11'

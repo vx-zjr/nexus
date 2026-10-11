@@ -1,0 +1,19 @@
+id: meng-wanzhou
+type: person
+name: 孟晚舟
+names:
+  en: 孟晚舟
+  zh: Meng Wanzhou
+gender: F
+born: '1972-02-13'
+country:
+- CN
+sectors:
+- tech
+- business
+tier: 2
+summary: 任正非之女，华为副董事长、轮值董事长兼 CFO。2018-12 应美国引渡请求在温哥华被捕，2021-09 与美国司法部达成暂缓起诉协议后获释回国。
+sources:
+- url: https://en.wikipedia.org/wiki/Meng_Wanzhou
+  publisher: Wikipedia
+updated: '2026-10-11'

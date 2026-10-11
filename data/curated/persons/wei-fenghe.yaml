@@ -1,0 +1,36 @@
+id: wei-fenghe
+type: person
+name: 魏凤和
+names:
+  zh: 魏凤和
+  en: Wei Fenghe
+gender: M
+born: 1954-02
+country:
+- CN
+sectors:
+- military
+tier: 3
+status: purged
+summary: 前国防部长（2018–2023）、火箭军首任司令员。2024-06 与李尚福同时被开除党籍。
+positions:
+- title: 国防部长
+  org: state-council-prc
+  from: 2018-03
+  to: 2023-03
+- title: 中央军委委员
+  org: ccp-cmc
+  from: 2017-10
+  to: 2022-10
+ids:
+  wikidata: Q7929529
+tags:
+- purged-2024
+- pla-purge
+sources:
+- url: https://jamestown.org/cronyism-and-failed-promotions-xis-pla-purge/
+  title: 'Cronyism and Failed Promotions: Xi''s PLA Purge'
+  publisher: Jamestown Foundation
+- url: https://en.wikipedia.org/wiki/Wei_Fenghe
+  publisher: Wikipedia
+updated: '2026-10-11'

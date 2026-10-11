@@ -1,0 +1,35 @@
+id: kevin-warsh
+type: person
+name: Kevin Warsh
+names:
+  en: Kevin Warsh
+  zh: 凯文·沃什
+gender: M
+born: '1970-04-13'
+country:
+- US
+sectors:
+- finance
+- politics
+tier: 1
+status: active
+summary: 美联储主席（2026-05 起，参议院 54–45 确认）。曾任美联储理事（2006–2011）、小布什政府经济顾问；其岳父为雅诗兰黛继承人 Ronald Lauder。
+positions:
+- title: 美联储主席
+  org: federal-reserve
+  from: 2026-05
+  current: true
+- title: 美联储理事
+  org: federal-reserve
+  from: 2006-02
+  to: 2011-03
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://infobytes.orrick.com/2026-05-15/u-s-senate-confirms-kevin-warsh-to-serve-as-fed-chair/
+  title: U.S. Senate Confirms Kevin Warsh to Serve as Fed Chair
+  publisher: Orrick InfoBytes
+  date: '2026-05-15'
+updated: '2026-10-11'

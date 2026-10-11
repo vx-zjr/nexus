@@ -1,0 +1,109 @@
+id: network-paypal-thiel
+kind: network
+name: “PayPal 黑帮”与硅谷右翼
+names:
+  en: PayPal Mafia & Tech Right
+country: US
+head: peter-thiel
+summary: PayPal 创业团队（Thiel、Musk、Sacks 等）在 2024 年后成为特朗普—万斯政府最重要的科技/资本盟友：Thiel 扶植万斯；Musk 出资并主导 DOGE；Sacks 出任 AI 与加密货币主管；Palantir 获大量政府合同。
+core:
+- peter-thiel
+- elon-musk
+- david-sacks
+- jd-vance
+- alex-karp
+outer:
+- kimbal-musk
+- palantir
+- founders-fund
+- mithril-capital
+- america-pac
+- doge
+- tesla
+- spacex
+sources:
+- url: https://en.wikipedia.org/wiki/PayPal_Mafia
+  publisher: Wikipedia
+relations:
+- - peter-thiel
+  - patron
+  - jd-vance
+  - 前雇主 & 2022 参选金主
+- - jd-vance
+  - position
+  - mithril-capital
+  - 负责人（2016–2017）
+- - peter-thiel
+  - founder
+  - palantir
+- - peter-thiel
+  - founder
+  - founders-fund
+- - peter-thiel
+  - founder
+  - mithril-capital
+- - alex-karp
+  - founder
+  - palantir
+- - alex-karp
+  - position
+  - palantir
+  - CEO
+- - alex-karp
+  - classmate
+  - peter-thiel
+  - 斯坦福法学院
+- - elon-musk
+  - business-partner
+  - peter-thiel
+  - PayPal（X.com 合并）
+- - david-sacks
+  - colleague
+  - peter-thiel
+  - PayPal
+- - donald-trump
+  - appointed
+  - david-sacks
+  - AI & 加密货币主管（2025）
+- - elon-musk
+  - sibling
+  - kimbal-musk
+- - elon-musk
+  - position
+  - tesla
+  - CEO
+- - elon-musk
+  - founder
+  - spacex
+- - kimbal-musk
+  - board
+  - tesla
+- - elon-musk
+  - founder
+  - america-pac
+- from: elon-musk
+  to: donald-trump
+  type: donor
+  label: 2024 大选经 America PAC 投入 2 亿美元以上
+  sources:
+  - url: https://en.wikipedia.org/wiki/America_PAC
+    publisher: Wikipedia
+- from: elon-musk
+  to: doge
+  type: position
+  label: 负责人
+  since: 2025-01
+  until: 2025-05
+- from: elon-musk
+  to: donald-trump
+  type: rival
+  label: 2025-06 公开决裂
+  since: 2025-06
+  confidence: confirmed
+  sources:
+  - url: https://en.wikipedia.org/wiki/Elon_Musk
+    publisher: Wikipedia
+tags:
+- network
+- us-top
+updated: '2026-10-11'

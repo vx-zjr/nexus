@@ -1,0 +1,18 @@
+id: eric-trump
+type: person
+name: Eric Trump
+names:
+  en: Eric Trump
+  zh: 埃里克·特朗普
+gender: M
+born: '1984-01-06'
+country:
+- US
+sectors:
+- business
+tier: 2
+summary: Trump Organization 执行副总裁；World Liberty Financial 联合创始人；比特币矿企 American Bitcoin 联合创始人。
+sources:
+- url: https://en.wikipedia.org/wiki/Eric_Trump
+  publisher: Wikipedia
+updated: '2026-10-11'

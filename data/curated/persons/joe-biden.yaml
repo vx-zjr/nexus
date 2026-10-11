@@ -1,0 +1,19 @@
+id: joe-biden
+type: person
+name: Joe Biden
+names:
+  en: Joe Biden
+  zh: 乔·拜登
+gender: M
+born: '1942-11-20'
+country:
+- US
+sectors:
+- politics
+tier: 1
+status: retired
+summary: 第 46 任美国总统（2021–2025）、第 47 任副总统（2009–2017）。
+sources:
+- url: https://en.wikipedia.org/wiki/Joe_Biden
+  publisher: Wikipedia
+updated: '2026-10-11'

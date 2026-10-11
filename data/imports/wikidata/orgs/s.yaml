@@ -1,0 +1,5293 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: s-a-c-capital-advisors
+    type: org
+    name: S.A.C. Capital Advisors
+    names:
+      zh: SAC基金
+      en: S.A.C. Capital Advisors
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: group of hedge funds
+    ids:
+      wikidata: Q24259670
+    links:
+      - https://en.wikipedia.org/wiki/S.A.C._Capital_Advisors
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24259670
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: s-c-johnson-and-son
+    type: org
+    name: S. C. Johnson & Son
+    names:
+      zh: 美国庄臣
+      en: S. C. Johnson & Son
+    orgType: company
+    country:
+      - US
+      - CH
+    sectors:
+      - business
+    tier: 3
+    summary: 美国公司
+    ids:
+      wikidata: Q683170
+    links:
+      - https://en.wikipedia.org/wiki/S._C._Johnson_%26_Son
+    sources:
+      - url: https://www.wikidata.org/wiki/Q683170
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: said-business-school
+    type: org
+    name: Saïd Business School
+    names:
+      zh: 牛津大学赛德商学院
+      en: Saïd Business School
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 4
+    summary: 学院
+    ids:
+      wikidata: Q4119233
+    links:
+      - https://en.wikipedia.org/wiki/Sa%C3%AFd_Business_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4119233
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sailgp
+    type: org
+    name: SailGP
+    names:
+      en: SailGP
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: international sailing competition
+    ids:
+      wikidata: Q74108059
+    links:
+      - https://en.wikipedia.org/wiki/SailGP
+    sources:
+      - url: https://www.wikidata.org/wiki/Q74108059
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: saint-ignatius-high-school
+    type: org
+    name: Saint Ignatius High School
+    names:
+      zh: 克利夫兰圣依纳爵斯高中
+      en: Saint Ignatius High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school Cleveland, Ohio, U.S
+    ids:
+      wikidata: Q7401380
+    links:
+      - https://en.wikipedia.org/wiki/Saint_Ignatius_High_School_(Cleveland)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7401380
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: saint-joseph-academy
+    type: org
+    name: Saint Joseph Academy
+    names:
+      en: Saint Joseph Academy
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private, coeducational school in Brownsville, , Texas, United States
+    ids:
+      wikidata: Q7401539
+    links:
+      - https://en.wikipedia.org/wiki/Saint_Joseph_Academy_(Brownsville%2C_Texas)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7401539
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: saint-louis-university
+    type: org
+    name: Saint Louis University
+    names:
+      zh: 圣路易斯大学
+      en: Saint Louis University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private research university with campuses in St. Louis, Missouri, and Madrid, Spain
+    ids:
+      wikidata: Q734774
+    links:
+      - https://en.wikipedia.org/wiki/Saint_Louis_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q734774
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: saint-louis-university-school-of-law
+    type: org
+    name: Saint Louis University School of Law
+    names:
+      zh: 圣路易斯大学法学院
+      en: Saint Louis University School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Law School of Saint Louis University in St. Louis, Missouri
+    ids:
+      wikidata: Q7401683
+    links:
+      - https://en.wikipedia.org/wiki/Saint_Louis_University_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7401683
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: saint-mary-s-college
+    type: org
+    name: Saint Mary's College
+    names:
+      zh: 聖瑪麗學院
+      en: Saint Mary's College
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: liberal arts college in Notre Dame, Indiana, U.S.
+    ids:
+      wikidata: Q7401824
+    links:
+      - https://en.wikipedia.org/wiki/Saint_Mary's_College_(Indiana)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7401824
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: saint-mary-s-college-of-california
+    type: org
+    name: Saint Mary's College of California
+    names:
+      zh: 加利福尼亞聖瑪麗學院
+      en: Saint Mary's College of California
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: Roman Catholic college
+    ids:
+      wikidata: Q7401829
+    links:
+      - https://en.wikipedia.org/wiki/Saint_Mary's_College_of_California
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7401829
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: saint-mary-s-university-of-minnesota
+    type: org
+    name: Saint Mary's University of Minnesota
+    names:
+      zh: 明尼蘇達聖瑪莉大學
+      en: Saint Mary's University of Minnesota
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university in the United States
+    ids:
+      wikidata: Q2212976
+    links:
+      - https://en.wikipedia.org/wiki/Saint_Mary's_University_of_Minnesota
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2212976
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: saint-peter-s-university
+    type: org
+    name: Saint Peter's University
+    names:
+      zh: 圣彼得大学
+      en: Saint Peter's University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国新泽西州私立研究型大学
+    ids:
+      wikidata: Q3443737
+    links:
+      - https://en.wikipedia.org/wiki/Saint_Peter's_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3443737
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: salesforce
+    type: org
+    name: Salesforce
+    names:
+      zh: Salesforce.com
+      en: Salesforce
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American cloud-based software company
+    ids:
+      wikidata: Q941127
+    links:
+      - https://en.wikipedia.org/wiki/Salesforce
+    sources:
+      - url: https://www.wikidata.org/wiki/Q941127
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: salomon-brothers
+    type: org
+    name: Salomon Brothers
+    names:
+      zh: 所罗门兄弟
+      en: Salomon Brothers
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: former American investment bank
+    ids:
+      wikidata: Q2034767
+    links:
+      - https://en.wikipedia.org/wiki/Salomon_Brothers
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2034767
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: samford-university
+    type: org
+    name: Samford University
+    names:
+      zh: 桑福德大学
+      en: Samford University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private Christian university in Homewood, Alabama
+    ids:
+      wikidata: Q6381586
+    links:
+      - https://en.wikipedia.org/wiki/Samford_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381586
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: samuel-curtis-johnson-graduate-school-of-management
+    type: org
+    name: Samuel Curtis Johnson Graduate School of Management
+    names:
+      zh: S·C·约翰逊管理研究院
+      en: Samuel Curtis Johnson Graduate School of Management
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: business school
+    ids:
+      wikidata: Q1049535
+    links:
+      - https://en.wikipedia.org/wiki/Cornell_Johnson_Graduate_School_of_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1049535
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: san-antonio-city-council
+    type: org
+    name: San Antonio City Council
+    names:
+      zh: 聖安東尼奧市議會
+      en: San Antonio City Council
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: arm of municipal government in San Antonio, Texas, United States
+    ids:
+      wikidata: Q7413312
+    links:
+      - https://en.wikipedia.org/wiki/San_Antonio_City_Council
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7413312
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: san-diego-state-university
+    type: org
+    name: San Diego State University
+    names:
+      zh: 圣地亚哥州立大学
+      en: San Diego State University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国加利福尼亚州圣迭戈（San Diego ）的大学
+    ids:
+      wikidata: Q913861
+    links:
+      - https://en.wikipedia.org/wiki/San_Diego_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q913861
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: san-fernando-high-school
+    type: org
+    name: San Fernando High School
+    names:
+      zh: 聖費爾南多高中
+      en: San Fernando High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in California, United States
+    ids:
+      wikidata: Q7413872
+    links:
+      - https://en.wikipedia.org/wiki/San_Fernando_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7413872
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: san-francisco-mayor-s-office
+    type: org
+    name: San Francisco Mayor's Office
+    names:
+      en: San Francisco Mayor's Office
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: executive office in the government of San Francisco, California, United States
+    ids:
+      wikidata: Q139967920
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q139967920
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: san-francisco-state-university
+    type: org
+    name: San Francisco State University
+    names:
+      zh: 旧金山州立大学
+      en: San Francisco State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: university in San Francisco, California, United States
+    ids:
+      wikidata: Q1256981
+    links:
+      - https://en.wikipedia.org/wiki/San_Francisco_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1256981
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: san-jose-city-council
+    type: org
+    name: San Jose City Council
+    names:
+      zh: 聖荷西市議會
+      en: San Jose City Council
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: legislative body of the City of San Jose, California, United States
+    ids:
+      wikidata: Q7414438
+    links:
+      - https://en.wikipedia.org/wiki/San_Jose_City_Council
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7414438
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: san-jose-earthquakes
+    type: org
+    name: San Jose Earthquakes
+    names:
+      zh: 圣何塞地震
+      en: San Jose Earthquakes
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國足協足球隊
+    ids:
+      wikidata: Q575370
+    links:
+      - https://en.wikipedia.org/wiki/San_Jose_Earthquakes
+    sources:
+      - url: https://www.wikidata.org/wiki/Q575370
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: san-jose-mayor-s-office
+    type: org
+    name: San Jose Mayor's Office
+    names:
+      en: San Jose Mayor's Office
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: executive office within the municipal government of San Jose, California, United States
+    ids:
+      wikidata: Q120805286
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q120805286
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: san-jose-state-university
+    type: org
+    name: San Jose State University
+    names:
+      zh: 圣何塞州立大学
+      en: San Jose State University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国加州圣何塞的大学
+    ids:
+      wikidata: Q498526
+    links:
+      - https://en.wikipedia.org/wiki/San_Jose_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q498526
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sandia-high-school
+    type: org
+    name: Sandia High School
+    names:
+      en: Sandia High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high School in Albuquerque, New Mexico
+    ids:
+      wikidata: Q7416322
+    links:
+      - https://en.wikipedia.org/wiki/Sandia_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7416322
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sandra-day-o-connor-college-of-law
+    type: org
+    name: Sandra Day O'Connor College of Law
+    names:
+      en: Sandra Day O'Connor College of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: one of the professional graduate schools at Arizona State University
+    ids:
+      wikidata: Q7416583
+    links:
+      - https://en.wikipedia.org/wiki/Sandra_Day_O'Connor_College_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7416583
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sands-hotel-and-casino
+    type: org
+    name: Sands Hotel and Casino
+    names:
+      zh: 金沙飯店
+      en: Sands Hotel and Casino
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: former hotel and casino on the Las Vegas Strip in Nevada, United States, that operated from 1952 to 1996
+    ids:
+      wikidata: Q1107391
+    links:
+      - https://en.wikipedia.org/wiki/Sands_Hotel_and_Casino
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1107391
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: santa-clara-university
+    type: org
+    name: Santa Clara University
+    names:
+      zh: 圣塔克拉拉大学
+      en: Santa Clara University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: private non-profit Jesuit university located in Santa Clara, California, United States
+    ids:
+      wikidata: Q992830
+    links:
+      - https://en.wikipedia.org/wiki/Santa_Clara_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q992830
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: santa-clara-university-school-of-law
+    type: org
+    name: Santa Clara University School of Law
+    names:
+      en: Santa Clara University School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school in Santa Clara, California, United States
+    ids:
+      wikidata: Q7419339
+    links:
+      - https://en.wikipedia.org/wiki/Santa_Clara_University_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7419339
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: santa-monica-college
+    type: org
+    name: Santa Monica College
+    names:
+      zh: 圣莫尼卡学院
+      en: Santa Monica College
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public, community college in Santa Monica, California, United States
+    ids:
+      wikidata: Q1033692
+    links:
+      - https://en.wikipedia.org/wiki/Santa_Monica_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1033692
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sany-heavy-industry-co-ltd
+    type: org
+    name: 三一重工股份有限公司
+    names:
+      zh: 三一重工股份有限公司
+      en: SANY Heavy Industry Co., Ltd
+    orgType: company
+    country:
+      - CN
+      - HK
+    sectors:
+      - business
+    tier: 4
+    summary: Chinese heavy machinary company
+    ids:
+      wikidata: Q1853060
+    links:
+      - https://en.wikipedia.org/wiki/Sany
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1853060
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sarah-lawrence-college
+    type: org
+    name: Sarah Lawrence College
+    names:
+      zh: 莎拉劳伦斯学院
+      en: Sarah Lawrence College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美國私立文科學院
+    ids:
+      wikidata: Q1051840
+    links:
+      - https://en.wikipedia.org/wiki/Sarah_Lawrence_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1051840
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sas-institute
+    type: org
+    name: SAS Institute
+    names:
+      zh: 赛仕软件
+      en: SAS Institute
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American analytics and artificial intelligence company
+    ids:
+      wikidata: Q1473820
+    links:
+      - https://en.wikipedia.org/wiki/SAS_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1473820
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sattitla-highlands-national-monument
+    type: org
+    name: Sáttítla Highlands National Monument
+    names:
+      zh: 曜石高地國家名勝
+      en: Sáttítla Highlands National Monument
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: announced U.S. national monument in California
+    ids:
+      wikidata: Q131750570
+    links:
+      - https://en.wikipedia.org/wiki/S%C3%A1tt%C3%ADtla_Highlands_National_Monument
+    sources:
+      - url: https://www.wikidata.org/wiki/Q131750570
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: save-america-s-treasures
+    type: org
+    name: Save America's Treasures
+    names:
+      en: Save America's Treasures
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: United States federal government initiative to preserve and protect historic buildings, arts, and published works
+    ids:
+      wikidata: Q7427983
+    links:
+      - https://en.wikipedia.org/wiki/Save_America's_Treasures
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7427983
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: scaled-composites
+    type: org
+    name: Scaled Composites
+    names:
+      zh: 縮尺複合體公司
+      en: Scaled Composites
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 航空航天公司
+    ids:
+      wikidata: Q1411762
+    links:
+      - https://en.wikipedia.org/wiki/Scaled_Composites
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1411762
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: scarsdale-high-school
+    type: org
+    name: Scarsdale High School
+    names:
+      zh: 斯卡斯代尔高中
+      en: Scarsdale High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国纽约州高中
+    ids:
+      wikidata: Q14707276
+    links:
+      - https://en.wikipedia.org/wiki/Scarsdale_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14707276
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: schmidt-futures
+    type: org
+    name: Schmidt Futures
+    names:
+      en: Schmidt Futures
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American philanthropy
+    ids:
+      wikidata: Q111146691
+    links:
+      - https://en.wikipedia.org/wiki/Schmidt_Futures
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111146691
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: schmidt-ocean-institute
+    type: org
+    name: Schmidt Ocean Institute
+    names:
+      en: Schmidt Ocean Institute
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: oceanographic research foundation
+    ids:
+      wikidata: Q17092916
+    links:
+      - https://en.wikipedia.org/wiki/Schmidt_Ocean_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17092916
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: schmidt-sciences
+    type: org
+    name: Schmidt Sciences
+    names:
+      en: Schmidt Sciences
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: philanthropic organization established in 2024
+    ids:
+      wikidata: Q133190183
+    links:
+      - https://en.wikipedia.org/wiki/Schmidt_Sciences
+    sources:
+      - url: https://www.wikidata.org/wiki/Q133190183
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: school-of-international-and-public-affairs-columbia-university
+    type: org
+    name: School of International and Public Affairs, Columbia University
+    names:
+      zh: 哥倫比亞大學國際公共事務學院
+      en: School of International and Public Affairs, Columbia University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: school of Columbia University in New York
+    ids:
+      wikidata: Q7432485
+    links:
+      - https://en.wikipedia.org/wiki/Columbia_University_School_of_International_and_Public_Affairs
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7432485
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: scranton-preparatory-school
+    type: org
+    name: Scranton Preparatory School
+    names:
+      zh: 斯克蘭頓大學預科學校
+      en: Scranton Preparatory School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private, coeducational school in Scranton, Pennsylvania, United States
+    ids:
+      wikidata: Q7438753
+    links:
+      - https://en.wikipedia.org/wiki/Scranton_Preparatory_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7438753
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: scratch-foundation
+    type: org
+    name: Scratch Foundation
+    names:
+      en: Scratch Foundation
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American charitable organization
+    ids:
+      wikidata: Q33092225
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q33092225
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sea-expandary
+    type: org
+    name: 探海游艇
+    names:
+      zh: 探海游艇
+      en: SEA EXPANDARY
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: Chinese yacht manufacturer
+    ids:
+      wikidata: Q138483894
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q138483894
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sea-ltd
+    type: org
+    name: Sea Ltd
+    names:
+      zh: 冬海集团
+      en: Sea Ltd
+    orgType: company
+    country:
+      - SG
+    sectors:
+      - business
+    tier: 4
+    summary: 新加坡企业
+    ids:
+      wikidata: Q93520415
+    links:
+      - https://en.wikipedia.org/wiki/Sea_Ltd
+    sources:
+      - url: https://www.wikidata.org/wiki/Q93520415
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: seattle-kraken
+    type: org
+    name: Seattle Kraken
+    names:
+      zh: 西雅圖海怪
+      en: Seattle Kraken
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: ice hockey team in the National Hockey League
+    ids:
+      wikidata: Q59422166
+    links:
+      - https://en.wikipedia.org/wiki/Seattle_Kraken
+    sources:
+      - url: https://www.wikidata.org/wiki/Q59422166
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: seattle-supersonics
+    type: org
+    name: Seattle SuperSonics
+    names:
+      zh: 西雅图超音速
+      en: Seattle SuperSonics
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: former American professional basketball team
+    ids:
+      wikidata: Q235326
+    links:
+      - https://en.wikipedia.org/wiki/Seattle_SuperSonics
+    sources:
+      - url: https://www.wikidata.org/wiki/Q235326
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: second-amendment-caucus
+    type: org
+    name: Second Amendment Caucus
+    names:
+      zh: 第二修正案核心小组
+      en: Second Amendment Caucus
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: congressional group
+    ids:
+      wikidata: Q39054002
+    links:
+      - https://en.wikipedia.org/wiki/Second_Amendment_Caucus
+    sources:
+      - url: https://www.wikidata.org/wiki/Q39054002
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: second-front-systems
+    type: org
+    name: Second Front Systems
+    names:
+      en: Second Front Systems
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Software company accelerating the deployment of commercial software to the U.S. and allied governments.
+    ids:
+      wikidata: Q134983302
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q134983302
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: secondary-school
+    type: org
+    name: secondary school
+    names:
+      zh: 中学
+      en: secondary school
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 提供第二期教育的机构
+    ids:
+      wikidata: Q159334
+    links:
+      - https://en.wikipedia.org/wiki/Secondary_school
+    sources:
+      - url: https://www.wikidata.org/wiki/Q159334
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: segway-inc
+    type: org
+    name: Segway Inc.
+    names:
+      en: Segway Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Multinational electronic transportation company
+    ids:
+      wikidata: Q7446425
+    links:
+      - https://en.wikipedia.org/wiki/Segway_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7446425
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: self-portrait-with-palette
+    type: org
+    name: Self-Portrait with Palette
+    names:
+      en: Self-Portrait with Palette
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Édouard Manet
+    ids:
+      wikidata: Q661803
+    links:
+      - https://en.wikipedia.org/wiki/Self-Portrait_with_Palette_(Manet)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q661803
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: senate
+    type: org
+    name: senate
+    names:
+      zh: 参议院
+      en: senate
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: type of legislative body, often the upper house or chamber of a bicameral legislature
+    ids:
+      wikidata: Q2570643
+    links:
+      - https://en.wikipedia.org/wiki/Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2570643
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: senate-of-virginia
+    type: org
+    name: Senate of Virginia
+    names:
+      zh: 弗吉尼亞州參議院
+      en: Senate of Virginia
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國弗吉尼亞州議會的上議院
+    ids:
+      wikidata: Q1747983
+    links:
+      - https://en.wikipedia.org/wiki/Virginia_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1747983
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: seton-hall-university
+    type: org
+    name: Seton Hall University
+    names:
+      zh: 薛顿贺尔大学
+      en: Seton Hall University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国新泽西州大学
+    ids:
+      wikidata: Q585828
+    links:
+      - https://en.wikipedia.org/wiki/Seton_Hall_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q585828
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: seton-hall-university-school-of-law
+    type: org
+    name: Seton Hall University School of Law
+    names:
+      zh: 薛顿贺尔大学法学院
+      en: Seton Hall University School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: educational/office in Newark, New Jersey
+    ids:
+      wikidata: Q7456791
+    links:
+      - https://en.wikipedia.org/wiki/Seton_Hall_University_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7456791
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: seven-springs-estate
+    type: org
+    name: Seven Springs estate
+    names:
+      en: Seven Springs estate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Trump property
+    ids:
+      wikidata: Q123352703
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q123352703
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sewanee-the-university-of-the-south
+    type: org
+    name: "Sewanee: The University of the South"
+    names:
+      zh: 西沃恩南方大学
+      en: "Sewanee: The University of the South"
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: liberal arts university in Sewanee, Tennessee
+    ids:
+      wikidata: Q7458159
+    links:
+      - https://en.wikipedia.org/wiki/Sewanee%3A_The_University_of_the_South
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7458159
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sf-express
+    type: org
+    name: 顺丰速运
+    names:
+      zh: 顺丰速运
+      en: SF Express
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国快递公司
+    ids:
+      wikidata: Q7390019
+    links:
+      - https://en.wikipedia.org/wiki/SF_Express
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7390019
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shaanxi-normal-university
+    type: org
+    name: 陕西师范大学
+    names:
+      zh: 陕西师范大学
+      en: Shaanxi Normal University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国公立大学
+    ids:
+      wikidata: Q5932856
+    links:
+      - https://en.wikipedia.org/wiki/Shaanxi_Normal_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5932856
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shaanxi-provincial-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党陕西省委员会
+    names:
+      zh: 中国共产党陕西省委员会
+      en: Shaanxi Provincial Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 维基媒体列表条目
+    ids:
+      wikidata: Q7225342
+    links:
+      - https://en.wikipedia.org/wiki/Shaanxi_Provincial_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7225342
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shabtai
+    type: org
+    name: Shabtai
+    names:
+      en: Shabtai
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Jewish leadership society based at Yale University
+    ids:
+      wikidata: Q16971938
+    links:
+      - https://en.wikipedia.org/wiki/Shabtai_(society)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16971938
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shaker-heights-high-school
+    type: org
+    name: Shaker Heights High School
+    names:
+      zh: 谢克海茨高中
+      en: Shaker Heights High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public high school in Shaker Heights, Ohio, USA
+    ids:
+      wikidata: Q7462725
+    links:
+      - https://en.wikipedia.org/wiki/Shaker_Heights_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7462725
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shamrock-holdings
+    type: org
+    name: Shamrock Holdings
+    names:
+      zh: 三叶草控股
+      en: Shamrock Holdings
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: company that manages Roy Edward Disney's personal holdings
+    ids:
+      wikidata: Q3481322
+    links:
+      - https://en.wikipedia.org/wiki/Shamrock_Holdings
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3481322
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shandong-normal-university
+    type: org
+    name: 山东师范大学
+    names:
+      zh: 山东师范大学
+      en: Shandong Normal University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国山东省济南市的大学
+    ids:
+      wikidata: Q4570128
+    links:
+      - https://en.wikipedia.org/wiki/Shandong_Normal_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4570128
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shandong-provincial-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党山东省委员会
+    names:
+      zh: 中国共产党山东省委员会
+      en: Shandong Provincial Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国共产党在山东省的地方组织及领导机关
+    ids:
+      wikidata: Q10873199
+    links:
+      - https://en.wikipedia.org/wiki/Shandong_Provincial_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873199
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shandong-university
+    type: org
+    name: 山东大学
+    names:
+      zh: 山东大学
+      en: Shandong University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 位于中国山东的综合性大学
+    ids:
+      wikidata: Q604470
+    links:
+      - https://en.wikipedia.org/wiki/Shandong_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q604470
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shandong-university-of-science-and-technology
+    type: org
+    name: 山东科技大学
+    names:
+      zh: 山东科技大学
+      en: Shandong University of Science and Technology
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国山东省的大学
+    ids:
+      wikidata: Q7487936
+    links:
+      - https://en.wikipedia.org/wiki/Shandong_University_of_Science_and_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7487936
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shanghai-clique
+    type: org
+    name: 上海帮
+    names:
+      zh: 上海帮
+      en: Shanghai clique
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 以中共中央原總書記江澤民為首的中共派系
+    ids:
+      wikidata: Q1193517
+    links:
+      - https://en.wikipedia.org/wiki/Shanghai_clique
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1193517
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shanghai-datong-high-school
+    type: org
+    name: 上海市大同中学
+    names:
+      zh: 上海市大同中学
+      en: Shanghai Datong High School
+    orgType: school
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 上海市高级中学
+    ids:
+      wikidata: Q10867854
+    links:
+      - https://en.wikipedia.org/wiki/Shanghai_Datong_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10867854
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shanghai-forte-land
+    type: org
+    name: 上海復地
+    names:
+      zh: 上海復地
+      en: Shanghai Forte Land
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国地产商
+    ids:
+      wikidata: Q7488447
+    links:
+      - https://en.wikipedia.org/wiki/Shanghai_Forte_Land
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7488447
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shanghai-high-school
+    type: org
+    name: 上海市上海中学
+    names:
+      zh: 上海市上海中学
+      en: Shanghai High School
+    orgType: school
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Shanghai, China
+    ids:
+      wikidata: Q840879
+    links:
+      - https://en.wikipedia.org/wiki/Shanghai_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q840879
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shanghai-jiao-tong-university
+    type: org
+    name: 上海交通大学
+    names:
+      zh: 上海交通大学
+      en: Shanghai Jiao Tong University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 上海綜合型大學
+    ids:
+      wikidata: Q525169
+    links:
+      - https://en.wikipedia.org/wiki/Shanghai_Jiao_Tong_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q525169
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shanghai-municipal-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党上海市委员会
+    names:
+      zh: 中国共产党上海市委员会
+      en: Shanghai Municipal Committee of the Chinese Communist Party
+    orgType: legislature
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 4
+    summary: 中国共产党在上海市的领导机关
+    ids:
+      wikidata: Q10873174
+    links:
+      - https://en.wikipedia.org/wiki/Shanghai_Municipal_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873174
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shanghai-municipal-people-s-government
+    type: org
+    name: 上海市人民政府
+    names:
+      zh: 上海市人民政府
+      en: Shanghai Municipal People's Government
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国上海市的地方国家行政机关
+    ids:
+      wikidata: Q10867824
+    links:
+      - https://en.wikipedia.org/wiki/Shanghai_Municipal_People's_Government
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10867824
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shanghai-normal-university
+    type: org
+    name: 上海师范大学
+    names:
+      zh: 上海师范大学
+      en: Shanghai Normal University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 上海高等学校
+    ids:
+      wikidata: Q839020
+    links:
+      - https://en.wikipedia.org/wiki/Shanghai_Normal_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q839020
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shanghai-tang
+    type: org
+    name: Shanghai Tang
+    names:
+      zh: 上海滩
+      en: Shanghai Tang
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Hong Kong luxury fashion house
+    ids:
+      wikidata: Q7488518
+    links:
+      - https://en.wikipedia.org/wiki/Shanghai_Tang
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7488518
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shanghai-university
+    type: org
+    name: 上海大学
+    names:
+      zh: 上海大学
+      en: Shanghai University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 位于上海市的公立大学
+    ids:
+      wikidata: Q1343386
+    links:
+      - https://en.wikipedia.org/wiki/Shanghai_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1343386
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shanghai-university-of-finance-and-economics
+    type: org
+    name: 上海财经大学
+    names:
+      zh: 上海财经大学
+      en: Shanghai University of Finance and Economics
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中华人民共和国教育部直属的一所以经济管理学科为主的研究型大学
+    ids:
+      wikidata: Q6129947
+    links:
+      - https://en.wikipedia.org/wiki/Shanghai_University_of_Finance_and_Economics
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6129947
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shanxi-normal-university
+    type: org
+    name: 山西师范大学
+    names:
+      zh: 山西师范大学
+      en: Shanxi Normal University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国山西太原市的大学（2021年以前位于临汾）
+    ids:
+      wikidata: Q7489125
+    links:
+      - https://en.wikipedia.org/wiki/Shanxi_Normal_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7489125
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shanxi-university
+    type: org
+    name: 山西大学
+    names:
+      zh: 山西大学
+      en: Shanxi University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 1902年建立的一所学校
+    ids:
+      wikidata: Q7489128
+    links:
+      - https://en.wikipedia.org/wiki/Shanxi_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7489128
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shattuck-saint-mary-s-school
+    type: org
+    name: Shattuck-Saint Mary's School
+    names:
+      zh: 沙特克圣玛丽高中
+      en: Shattuck-Saint Mary's School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private secondary school in Faribault, Minnesota
+    ids:
+      wikidata: Q7490730
+    links:
+      - https://en.wikipedia.org/wiki/Shattuck-Saint_Mary's_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7490730
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shenzhen-university
+    type: org
+    name: 深圳大学
+    names:
+      zh: 深圳大学
+      en: Shenzhen University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 位於中國廣東省深圳市的綜合性大學
+    ids:
+      wikidata: Q1945756
+    links:
+      - https://en.wikipedia.org/wiki/Shenzhen_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1945756
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shenzhou-international
+    type: org
+    name: Shenzhou International
+    names:
+      zh: 申洲國際
+      en: Shenzhou International
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: 一家於開曼群島註冊成立的有限公司（香港商業登記編號：36072192／香港公司註冊編號：F0014279／澳門商業登記編號：111590SO）
+    ids:
+      wikidata: Q25054381
+    links:
+      - https://en.wikipedia.org/wiki/Shenzhou_International
+    sources:
+      - url: https://www.wikidata.org/wiki/Q25054381
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shi-international-corp
+    type: org
+    name: SHI International Corp
+    names:
+      zh: SHI国际
+      en: SHI International Corp
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American information technology company
+    ids:
+      wikidata: Q29097643
+    links:
+      - https://en.wikipedia.org/wiki/SHI_International_Corp
+    sources:
+      - url: https://www.wikidata.org/wiki/Q29097643
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shift4-payments
+    type: org
+    name: Shift4 Payments
+    names:
+      en: Shift4 Payments
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American payment processing solutions company
+    ids:
+      wikidata: Q105222736
+    links:
+      - https://en.wikipedia.org/wiki/Shift4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105222736
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shimao-property
+    type: org
+    name: Shimao Property
+    names:
+      zh: 世茂房地產
+      en: Shimao Property
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: property development company in Shanghai
+    ids:
+      wikidata: Q7496840
+    links:
+      - https://en.wikipedia.org/wiki/Shimao_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7496840
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shorewood-high-school
+    type: org
+    name: Shorewood High School
+    names:
+      en: Shorewood High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public high school in the Village of Shorewood, Milwaukee County, Wisconsin
+    ids:
+      wikidata: Q14714602
+    links:
+      - https://en.wikipedia.org/wiki/Shorewood_High_School_(Wisconsin)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14714602
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: shufu-news
+    type: org
+    name: Shufu News
+    names:
+      en: Shufu News
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: electronic Sindhi newspaper published in Arabic
+    ids:
+      wikidata: Q130377663
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q130377663
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sichuan-provincial-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党四川省委员会
+    names:
+      zh: 中国共产党四川省委员会
+      en: Sichuan Provincial Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国共产党在四川省的领导机关
+    ids:
+      wikidata: Q10873192
+    links:
+      - https://en.wikipedia.org/wiki/Sichuan_Provincial_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873192
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sichuan-university
+    type: org
+    name: 四川大学
+    names:
+      zh: 四川大学
+      en: Sichuan University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 位于中国成都市的一所重点大学
+    ids:
+      wikidata: Q2281517
+    links:
+      - https://en.wikipedia.org/wiki/Sichuan_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2281517
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sidley-austin
+    type: org
+    name: Sidley Austin
+    names:
+      zh: 盛德国际律师事务所
+      en: Sidley Austin
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: U.S.-based corporate law firm
+    ids:
+      wikidata: Q3483312
+    links:
+      - https://en.wikipedia.org/wiki/Sidley_Austin
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3483312
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sidwell-friends-school
+    type: org
+    name: Sidwell Friends School
+    names:
+      zh: 赛维尔友谊学校
+      en: Sidwell Friends School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Private, day, college-prep school in Bethesda, Maryland and Washington, D.C.
+    ids:
+      wikidata: Q3439758
+    links:
+      - https://en.wikipedia.org/wiki/Sidwell_Friends_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3439758
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: siebel-systems
+    type: org
+    name: Siebel Systems
+    names:
+      zh: 希柏系統軟體有限公司
+      en: Siebel Systems
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: On-premises customer relationship management software application company acquired by Oracle
+    ids:
+      wikidata: Q2143512
+    links:
+      - https://en.wikipedia.org/wiki/Siebel_Systems
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2143512
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: siegel-family-endowment
+    type: org
+    name: Siegel Family Endowment
+    names:
+      en: Siegel Family Endowment
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American philanthropic organization
+    ids:
+      wikidata: Q33090271
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q33090271
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sierra-entertainment
+    type: org
+    name: Sierra Entertainment
+    names:
+      zh: 雪乐山
+      en: Sierra Entertainment
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: American video game company
+    ids:
+      wikidata: Q494614
+    links:
+      - https://en.wikipedia.org/wiki/Sierra_Entertainment
+    sources:
+      - url: https://www.wikidata.org/wiki/Q494614
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sierra-on-line
+    type: org
+    name: Sierra On-Line
+    names:
+      en: Sierra On-Line
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: former entertainment software company
+    ids:
+      wikidata: Q4049462
+    links:
+      - https://en.wikipedia.org/wiki/Sierra_On-Line
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4049462
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sierra-space
+    type: org
+    name: Sierra Space
+    names:
+      en: Sierra Space
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American spaceflight company
+    ids:
+      wikidata: Q109256454
+    links:
+      - https://en.wikipedia.org/wiki/Sierra_Space
+    sources:
+      - url: https://www.wikidata.org/wiki/Q109256454
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: silicon-graphics
+    type: org
+    name: Silicon Graphics
+    names:
+      zh: 硅谷图形公司
+      en: Silicon Graphics
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: former American company
+    ids:
+      wikidata: Q623459
+    links:
+      - https://en.wikipedia.org/wiki/Silicon_Graphics
+    sources:
+      - url: https://www.wikidata.org/wiki/Q623459
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: simon-property-group
+    type: org
+    name: Simon Property Group
+    names:
+      zh: 西蒙地产集团
+      en: Simon Property Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American commercial real estate company and real estate investment trust
+    ids:
+      wikidata: Q2287759
+    links:
+      - https://en.wikipedia.org/wiki/Simon_Property_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2287759
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: simons-foundation
+    type: org
+    name: Simons Foundation
+    names:
+      zh: 西蒙斯基金会
+      en: Simons Foundation
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: nonprofit organization in New York, United States
+    ids:
+      wikidata: Q28148561
+    links:
+      - https://en.wikipedia.org/wiki/Simons_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28148561
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sing-tao-news-corporation-limited
+    type: org
+    name: 星岛新闻集团
+    names:
+      zh: 星岛新闻集团
+      en: Sing Tao News Corporation Limited
+    orgType: company
+    country:
+      - CN
+      - BM
+    sectors:
+      - business
+    tier: 4
+    summary: 香港媒體企業
+    ids:
+      wikidata: Q7522713
+    links:
+      - https://en.wikipedia.org/wiki/Sing_Tao_News_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7522713
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: singularity-university
+    type: org
+    name: Singularity University
+    names:
+      zh: 奇點大學
+      en: Singularity University
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American education company
+    ids:
+      wikidata: Q2919406
+    links:
+      - https://en.wikipedia.org/wiki/Singularity_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2919406
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: skadden-arps-slate-meagher-and-flom
+    type: org
+    name: Skadden, Arps, Slate, Meagher & Flom
+    names:
+      zh: 世达律师事务所
+      en: Skadden, Arps, Slate, Meagher & Flom
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: company
+    ids:
+      wikidata: Q1584922
+    links:
+      - https://en.wikipedia.org/wiki/Skadden%2C_Arps%2C_Slate%2C_Meagher_%26_Flom
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1584922
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: skat
+    type: org
+    name: Skat
+    names:
+      en: Skat
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: luxury yacht built in 2002
+    ids:
+      wikidata: Q1704857
+    links:
+      - https://en.wikipedia.org/wiki/Skat_(yacht)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1704857
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sky-espana
+    type: org
+    name: Sky España
+    names:
+      en: Sky España
+    orgType: other
+    country:
+      - ES
+    sectors:
+      - other
+    tier: 4
+    summary: Spanish pay-TV provider owned by Sky
+    ids:
+      wikidata: Q51381461
+    links:
+      - https://en.wikipedia.org/wiki/Sky_Espa%C3%B1a
+    sources:
+      - url: https://www.wikidata.org/wiki/Q51381461
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sky-group
+    type: org
+    name: Sky Group
+    names:
+      zh: 天空集团
+      en: Sky Group
+    orgType: company
+    country:
+      - GB
+    sectors:
+      - business
+    tier: 3
+    summary: British media and telecommunications conglomerate
+    ids:
+      wikidata: Q918390
+    links:
+      - https://en.wikipedia.org/wiki/Sky_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q918390
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sky-italia
+    type: org
+    name: Sky Italia
+    names:
+      zh: 意大利天空电视
+      en: Sky Italia
+    orgType: other
+    country:
+      - IT
+    sectors:
+      - other
+    tier: 4
+    summary: Italian television platform
+    ids:
+      wikidata: Q796719
+    links:
+      - https://en.wikipedia.org/wiki/Sky_Italia
+    sources:
+      - url: https://www.wikidata.org/wiki/Q796719
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sky-italia-2
+    type: org
+    name: Sky Italia (company)
+    names:
+      en: Sky Italia (company)
+    orgType: company
+    country:
+      - IT
+    sectors:
+      - business
+    tier: 4
+    summary: Italian company
+    ids:
+      wikidata: Q16606776
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16606776
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: skywalker-ranch
+    type: org
+    name: Skywalker Ranch
+    names:
+      zh: 天行者农场
+      en: Skywalker Ranch
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: film studio and movie ranch
+    ids:
+      wikidata: Q991250
+    links:
+      - https://en.wikipedia.org/wiki/Skywalker_Ranch
+    sources:
+      - url: https://www.wikidata.org/wiki/Q991250
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: skywalker-sound
+    type: org
+    name: Skywalker Sound
+    names:
+      zh: Skywalker Sound
+      en: Skywalker Sound
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: sound division of Lucasfilm
+    ids:
+      wikidata: Q2703822
+    links:
+      - https://en.wikipedia.org/wiki/Skywalker_Sound
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2703822
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sloan-fellows-program
+    type: org
+    name: Sloan Fellows Program
+    names:
+      zh: 史隆研究生
+      en: Sloan Fellows Program
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: world's first senior and mid-career master's degree in general management and leadership
+    ids:
+      wikidata: Q2294287
+    links:
+      - https://en.wikipedia.org/wiki/Sloan_Fellows
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2294287
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: small-business-administration
+    type: org
+    name: Small Business Administration
+    names:
+      zh: 小型企业管理局
+      en: Small Business Administration
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国的一个政府机构
+    ids:
+      wikidata: Q495354
+    links:
+      - https://en.wikipedia.org/wiki/Small_Business_Administration
+    sources:
+      - url: https://www.wikidata.org/wiki/Q495354
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: smidt-tech
+    type: org
+    name: Smidt Tech
+    names:
+      en: Smidt Tech
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public charter high school in Los Angeles, California, USA
+    ids:
+      wikidata: Q17065871
+    links:
+      - https://en.wikipedia.org/wiki/Smidt_Tech
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17065871
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: smith-college
+    type: org
+    name: Smith College
+    names:
+      zh: 史密斯學院
+      en: Smith College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: private women's liberal arts college in Massachusetts
+    ids:
+      wikidata: Q49204
+    links:
+      - https://en.wikipedia.org/wiki/Smith_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49204
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: smith-special-counsel-investigation
+    type: org
+    name: Smith special counsel investigation
+    names:
+      zh: 对特别法律顾问史密斯的调查
+      en: Smith special counsel investigation
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: investigation into former U.S. president Donald Trump
+    ids:
+      wikidata: Q115907896
+    links:
+      - https://en.wikipedia.org/wiki/Smith_special_counsel_investigation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115907896
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: snap-inc
+    type: org
+    name: Snap Inc.
+    names:
+      zh: 色拉布
+      en: Snap Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国社交媒体公司
+    ids:
+      wikidata: Q27022329
+    links:
+      - https://en.wikipedia.org/wiki/Snap_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27022329
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: snyder-communications
+    type: org
+    name: Snyder Communications
+    names:
+      en: Snyder Communications
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: former marketing and advertisement company founded by Dan Snyder
+    ids:
+      wikidata: Q7548889
+    links:
+      - https://en.wikipedia.org/wiki/Snyder_Communications
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7548889
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: society-of-labor-economists
+    type: org
+    name: Society of Labor Economists
+    names:
+      en: Society of Labor Economists
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q4330328
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4330328
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: socks
+    type: org
+    name: Socks
+    names:
+      zh: 襪子
+      en: Socks
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 比爾·克林頓家族的貓
+    ids:
+      wikidata: Q1371145
+    links:
+      - https://en.wikipedia.org/wiki/Socks_(cat)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1371145
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: software-arts
+    type: org
+    name: Software Arts
+    names:
+      en: Software Arts
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American software company, 1979 to 1985
+    ids:
+      wikidata: Q2626009
+    links:
+      - https://en.wikipedia.org/wiki/Software_Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2626009
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: soho-china
+    type: org
+    name: SOHO中國
+    names:
+      zh: SOHO中國
+      en: SOHO China
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: office real-estate developer in China
+    ids:
+      wikidata: Q7392053
+    links:
+      - https://en.wikipedia.org/wiki/SOHO_China
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7392053
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: solar-valley
+    type: org
+    name: 中国太阳谷
+    names:
+      zh: 中国太阳谷
+      en: Solar Valley
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国利用太阳能的“一个大规模的社会，经济和生态工程”
+    ids:
+      wikidata: Q3916676
+    links:
+      - https://en.wikipedia.org/wiki/Solar_Valley_(China)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3916676
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: solarcity
+    type: org
+    name: SolarCity
+    names:
+      zh: SolarCity
+      en: SolarCity
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國太陽能企業
+    ids:
+      wikidata: Q7555824
+    links:
+      - https://en.wikipedia.org/wiki/SolarCity
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7555824
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: solyndra
+    type: org
+    name: Solyndra
+    names:
+      zh: Solyndra
+      en: Solyndra
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American solar panel manufacturer
+    ids:
+      wikidata: Q3271267
+    links:
+      - https://en.wikipedia.org/wiki/Solyndra
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3271267
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sony-pictures
+    type: org
+    name: Sony Pictures
+    names:
+      zh: 索尼影视娱乐
+      en: Sony Pictures
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 索尼美國電視電影製作發行單位
+    ids:
+      wikidata: Q822314
+    links:
+      - https://en.wikipedia.org/wiki/Sony_Pictures
+    sources:
+      - url: https://www.wikidata.org/wiki/Q822314
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: soochow-university
+    type: org
+    name: 东吴大学
+    names:
+      zh: 东吴大学
+      en: Soochow University
+    orgType: university
+    country:
+      - TW
+    sectors:
+      - academia
+    tier: 4
+    summary: 位於臺北市的教學型大學
+    ids:
+      wikidata: Q495911
+    links:
+      - https://en.wikipedia.org/wiki/Soochow_University_(Taipei)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q495911
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: soros-fund-management
+    type: org
+    name: Soros Fund Management
+    names:
+      zh: 索罗斯基金管理公司
+      en: Soros Fund Management
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: private investment firm
+    ids:
+      wikidata: Q200816
+    links:
+      - https://en.wikipedia.org/wiki/Soros_Fund_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q200816
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: south-carolina-house-of-representatives
+    type: org
+    name: South Carolina House of Representatives
+    names:
+      zh: 南卡羅來納州眾議院
+      en: South Carolina House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the General Assembly of the U.S. state of South Carolina
+    ids:
+      wikidata: Q1299487
+    links:
+      - https://en.wikipedia.org/wiki/South_Carolina_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1299487
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: south-carolina-senate
+    type: org
+    name: South Carolina Senate
+    names:
+      zh: 南卡罗来纳州参议院
+      en: South Carolina Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: house of legislature for the US state of South Carolina
+    ids:
+      wikidata: Q2269875
+    links:
+      - https://en.wikipedia.org/wiki/South_Carolina_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2269875
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: south-carolina-state-university
+    type: org
+    name: South Carolina State University
+    names:
+      zh: 南卡罗来纳州州立大學
+      en: South Carolina State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: public university in Orangeburg, South Carolina, United States
+    ids:
+      wikidata: Q7566644
+    links:
+      - https://en.wikipedia.org/wiki/South_Carolina_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7566644
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: south-china-agricultural-university
+    type: org
+    name: 华南农业大学
+    names:
+      zh: 华南农业大学
+      en: South China Agricultural University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于中华人民共和国广东省广州市的“双一流”综合性大学
+    ids:
+      wikidata: Q7566809
+    links:
+      - https://en.wikipedia.org/wiki/South_China_Agricultural_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7566809
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: south-china-university-of-technology
+    type: org
+    name: 华南理工大学
+    names:
+      zh: 华南理工大学
+      en: South China University of Technology
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国广东一所大学
+    ids:
+      wikidata: Q835366
+    links:
+      - https://en.wikipedia.org/wiki/South_China_University_of_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q835366
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: south-dakota-house-of-representatives
+    type: org
+    name: South Dakota House of Representatives
+    names:
+      zh: 南達科他州眾議院
+      en: South Dakota House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of U.S. state legislature
+    ids:
+      wikidata: Q526732
+    links:
+      - https://en.wikipedia.org/wiki/South_Dakota_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q526732
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: south-dakota-senate
+    type: org
+    name: South Dakota Senate
+    names:
+      zh: 南達科他州參議院
+      en: South Dakota Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: senate
+    ids:
+      wikidata: Q429756
+    links:
+      - https://en.wikipedia.org/wiki/South_Dakota_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q429756
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: south-dakota-state-university
+    type: org
+    name: South Dakota State University
+    names:
+      zh: 南达科塔州立大学
+      en: South Dakota State University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public university in Brookings, South Dakota, US
+    ids:
+      wikidata: Q2302260
+    links:
+      - https://en.wikipedia.org/wiki/South_Dakota_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2302260
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: south-high-school
+    type: org
+    name: South High School
+    names:
+      zh: 南高中學
+      en: South High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Torrance, California
+    ids:
+      wikidata: Q7567465
+    links:
+      - https://en.wikipedia.org/wiki/South_High_School_(Torrance%2C_California)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7567465
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: southeast-university
+    type: org
+    name: 东南大学
+    names:
+      zh: 东南大学
+      en: Southeast University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中國江蘇省南京市的大學
+    ids:
+      wikidata: Q3551770
+    links:
+      - https://en.wikipedia.org/wiki/Southeast_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3551770
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: southern-methodist-university
+    type: org
+    name: Southern Methodist University
+    names:
+      zh: 南方卫理公会大学
+      en: Southern Methodist University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: private university in Dallas, Texas, United States
+    ids:
+      wikidata: Q1536258
+    links:
+      - https://en.wikipedia.org/wiki/Southern_Methodist_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1536258
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: southern-utah-university
+    type: org
+    name: Southern Utah University
+    names:
+      zh: 南犹他大学
+      en: Southern Utah University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: public university in Cedar City, Utah, United States
+    ids:
+      wikidata: Q632573
+    links:
+      - https://en.wikipedia.org/wiki/Southern_Utah_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q632573
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: southfield-lathrup-high-school
+    type: org
+    name: Southfield-Lathrup High School
+    names:
+      en: Southfield-Lathrup High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public school in Southfield, Michigan, United States
+    ids:
+      wikidata: Q7570767
+    links:
+      - https://en.wikipedia.org/wiki/Southfield-Lathrup_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7570767
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: southwest-university-of-political-science-and-law
+    type: org
+    name: 西南政法大学
+    names:
+      zh: 西南政法大学
+      en: Southwest University of Political Science and Law
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于中国重庆市的一所政法院校
+    ids:
+      wikidata: Q1323075
+    links:
+      - https://en.wikipedia.org/wiki/Southwest_University_of_Political_Science_and_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1323075
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: southwestern-baptist-theological-seminary
+    type: org
+    name: Southwestern Baptist Theological Seminary
+    names:
+      zh: 西南浸信會神學院
+      en: Southwestern Baptist Theological Seminary
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Seminary in Fort Worth, Texas, U.S.
+    ids:
+      wikidata: Q7571391
+    links:
+      - https://en.wikipedia.org/wiki/Southwestern_Baptist_Theological_Seminary
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7571391
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: southwestern-high-school
+    type: org
+    name: Southwestern High School
+    names:
+      zh: 西南高级中学
+      en: Southwestern High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Detroit, Michigan
+    ids:
+      wikidata: Q7571416
+    links:
+      - https://en.wikipedia.org/wiki/Southwestern_High_School_(Michigan)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7571416
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: southwestern-university-of-finance-and-economics
+    type: org
+    name: 西南财经大学
+    names:
+      zh: 西南财经大学
+      en: Southwestern University of Finance and Economics
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 位于四川省成都市的大学
+    ids:
+      wikidata: Q1107944
+    links:
+      - https://en.wikipedia.org/wiki/Southwestern_University_of_Finance_and_Economics
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1107944
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sower-with-setting-sun
+    type: org
+    name: Sower with Setting Sun
+    names:
+      en: Sower with Setting Sun
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: drawing by Vincent van Gogh
+    ids:
+      wikidata: Q136706233
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136706233
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: spacex
+    type: org
+    name: SpaceX
+    names:
+      zh: 太空探索技术公司
+      en: SpaceX
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國太空運輸公司
+    ids:
+      wikidata: Q193701
+    links:
+      - https://en.wikipedia.org/wiki/SpaceX
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193701
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: spacexai
+    type: org
+    name: SpaceXAI
+    names:
+      zh: SpaceXAI
+      en: SpaceXAI
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国人工智能公司
+    ids:
+      wikidata: Q120599684
+    links:
+      - https://en.wikipedia.org/wiki/SpaceX_Super_Intelligence
+    sources:
+      - url: https://www.wikidata.org/wiki/Q120599684
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: spanx-inc
+    type: org
+    name: Spanx, Inc.
+    names:
+      zh: Spanx
+      en: Spanx, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American intimate apparel company
+    ids:
+      wikidata: Q1932886
+    links:
+      - https://en.wikipedia.org/wiki/Spanx
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1932886
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: spectrum-7
+    type: org
+    name: Spectrum 7
+    names:
+      en: Spectrum 7
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: oil Company
+    ids:
+      wikidata: Q7575273
+    links:
+      - https://en.wikipedia.org/wiki/Spectrum_7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7575273
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: spot-fetcher
+    type: org
+    name: Spot Fetcher
+    names:
+      en: Spot Fetcher
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: dog of President George W. Bush
+    ids:
+      wikidata: Q6962578
+    links:
+      - https://en.wikipedia.org/wiki/Spot_Fetcher
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6962578
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: st-albans-school
+    type: org
+    name: St. Albans School
+    names:
+      zh: 聖奧爾本斯學校 (華盛頓特區)
+      en: St. Albans School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: education organization in Washington D.C., United States
+    ids:
+      wikidata: Q7586750
+    links:
+      - https://en.wikipedia.org/wiki/St._Albans_School_(Washington%2C_D.C.)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7586750
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: st-andrew-s-episcopal-school
+    type: org
+    name: St. Andrew's Episcopal School
+    names:
+      zh: 圣安德鲁圣公会学校
+      en: St. Andrew's Episcopal School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private school in Potomac, Maryland, U.S
+    ids:
+      wikidata: Q7586874
+    links:
+      - https://en.wikipedia.org/wiki/St._Andrew's_Episcopal_School_(Maryland)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7586874
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: st-antony-s-college
+    type: org
+    name: St Antony's College
+    names:
+      zh: 牛津大學聖安東尼學院
+      en: St Antony's College
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 3
+    summary: college of the University of Oxford
+    ids:
+      wikidata: Q2035359
+    links:
+      - https://en.wikipedia.org/wiki/St_Antony's_College%2C_Oxford
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2035359
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: st-ignatius-college-prep
+    type: org
+    name: St. Ignatius College Prep
+    names:
+      zh: 聖伊納爵大學預備校
+      en: St. Ignatius College Prep
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Chicago, Illinois, USA
+    ids:
+      wikidata: Q780366
+    links:
+      - https://en.wikipedia.org/wiki/St._Ignatius_College_Prep
+    sources:
+      - url: https://www.wikidata.org/wiki/Q780366
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: st-ignatius-college-preparatory
+    type: org
+    name: St. Ignatius College Preparatory
+    names:
+      zh: 圣依纳爵大学预科
+      en: St. Ignatius College Preparatory
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in San Francisco, California
+    ids:
+      wikidata: Q7588355
+    links:
+      - https://en.wikipedia.org/wiki/St._Ignatius_College_Preparatory
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7588355
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: st-john-s-college
+    type: org
+    name: St John's College
+    names:
+      zh: 牛津大學聖約翰學院
+      en: St John's College
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 3
+    summary: college of the University of Oxford
+    ids:
+      wikidata: Q609646
+    links:
+      - https://en.wikipedia.org/wiki/St_John's_College%2C_Oxford
+    sources:
+      - url: https://www.wikidata.org/wiki/Q609646
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: st-john-s-college-2
+    type: org
+    name: St. John's College
+    names:
+      zh: 圣约翰学院
+      en: St. John's College
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国马里兰州和新墨西哥州的大学
+    ids:
+      wikidata: Q663625
+    links:
+      - https://en.wikipedia.org/wiki/St._John's_College_(Annapolis%2FSanta_Fe)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q663625
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: st-john-s-school
+    type: org
+    name: St. John's School
+    names:
+      zh: 聖約翰學校
+      en: St. John's School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: school in Houston, Texas, United States
+    ids:
+      wikidata: Q7588837
+    links:
+      - https://en.wikipedia.org/wiki/St._John's_School_(Texas)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7588837
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: st-lawrence-university
+    type: org
+    name: St. Lawrence University
+    names:
+      zh: 圣劳伦斯大学
+      en: St. Lawrence University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: liberal arts college in Canton, Saint Lawrence County, New York, USA
+    ids:
+      wikidata: Q1411093
+    links:
+      - https://en.wikipedia.org/wiki/St._Lawrence_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1411093
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: st-mark-s-school
+    type: org
+    name: St. Mark's School
+    names:
+      zh: 聖馬可中學
+      en: St. Mark's School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: preparatory school in Southborough, Massachusetts
+    ids:
+      wikidata: Q7589975
+    links:
+      - https://en.wikipedia.org/wiki/St._Mark's_School_(Massachusetts)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7589975
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: st-mary-s-university
+    type: org
+    name: St. Mary's University
+    names:
+      zh: 聖瑪麗大學
+      en: St. Mary's University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university in San Antonio, Texas, United States
+    ids:
+      wikidata: Q7590446
+    links:
+      - https://en.wikipedia.org/wiki/St._Mary's_University%2C_Texas
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7590446
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: st-paul-s-school
+    type: org
+    name: St. Paul's School
+    names:
+      zh: 圣保罗学校
+      en: St. Paul's School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: boarding school in Concord, New Hampshire
+    ids:
+      wikidata: Q906930
+    links:
+      - https://en.wikipedia.org/wiki/St._Paul's_School_(New_Hampshire)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q906930
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: st-paul-s-school-2
+    type: org
+    name: St Paul's School
+    names:
+      zh: 伦敦圣保禄学校
+      en: St Paul's School
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 4
+    summary: school in Richmond upon Thames, UK
+    ids:
+      wikidata: Q1227526
+    links:
+      - https://en.wikipedia.org/wiki/St_Paul's_School%2C_London
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1227526
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: st-xavier-high-school
+    type: org
+    name: St. Xavier High School
+    names:
+      zh: 圣沙维尔高中
+      en: St. Xavier High School
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Jesuit Catholic high school in Finneytown, Ohio, United States, near Cincinnati
+    ids:
+      wikidata: Q1142714
+    links:
+      - https://en.wikipedia.org/wiki/St._Xavier_High_School_(Ohio)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1142714
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: stand-together
+    type: org
+    name: Stand Together
+    names:
+      en: Stand Together
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American nonprofit of Charles Koch
+    ids:
+      wikidata: Q86754305
+    links:
+      - https://en.wikipedia.org/wiki/Stand_Together
+    sources:
+      - url: https://www.wikidata.org/wiki/Q86754305
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: standing-committee-of-the-chinese-people-s-political-consultative-conference
+    type: org
+    name: 中国人民政治协商会议全国委员会常务委员会
+    names:
+      zh: 中国人民政治协商会议全国委员会常务委员会
+      en: Standing Committee of the Chinese People's Political Consultative Conference
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国人民政治协商会议全国委员会主持会务机构
+    ids:
+      wikidata: Q10872858
+    links:
+      - https://en.wikipedia.org/wiki/Standing_Committee_of_the_National_Committee_of_the_Chinese_People's_Political_Consultative_Conference
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10872858
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: stanford-graduate-school-of-business
+    type: org
+    name: Stanford Graduate School of Business
+    names:
+      zh: 斯坦福商学院
+      en: Stanford Graduate School of Business
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: professional school of Stanford University, in Stanford, California
+    ids:
+      wikidata: Q1413558
+    links:
+      - https://en.wikipedia.org/wiki/Stanford_Graduate_School_of_Business
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1413558
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: stanford-law-school
+    type: org
+    name: Stanford Law School
+    names:
+      zh: 斯坦福法学院
+      en: Stanford Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國加利福尼亞州斯坦福大學研究生院
+    ids:
+      wikidata: Q8012895
+    links:
+      - https://en.wikipedia.org/wiki/Stanford_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8012895
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: stanford-university
+    type: org
+    name: Stanford University
+    names:
+      zh: 斯坦福大学
+      en: Stanford University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 2
+    summary: 位於美國加州史丹佛的私立大學，於1891年創校
+    ids:
+      wikidata: Q41506
+    links:
+      - https://en.wikipedia.org/wiki/Stanford_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q41506
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: star
+    type: org
+    name: Star
+    names:
+      zh: 明星周刊
+      en: Star
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: American celebrity tabloid magazine
+    ids:
+      wikidata: Q3496935
+    links:
+      - https://en.wikipedia.org/wiki/Star_(magazine)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3496935
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: star-wars
+    type: org
+    name: Star Wars
+    names:
+      zh: 星球大战
+      en: Star Wars
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 美國科幻電影系列
+    ids:
+      wikidata: Q462
+    links:
+      - https://en.wikipedia.org/wiki/Star_Wars
+    sources:
+      - url: https://www.wikidata.org/wiki/Q462
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state
+    type: org
+    name: state
+    names:
+      zh: 国家
+      en: state
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 共同体
+    ids:
+      wikidata: Q7275
+    links:
+      - https://en.wikipedia.org/wiki/State_(polity)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7275
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-administration-of-foreign-exchange
+    type: org
+    name: 国家外汇管理局
+    names:
+      zh: 国家外汇管理局
+      en: State Administration of Foreign Exchange
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国人民银行管理的国家局
+    ids:
+      wikidata: Q1512824
+    links:
+      - https://en.wikipedia.org/wiki/State_Administration_of_Foreign_Exchange
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1512824
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-council-prc
+    type: org
+    name: 中华人民共和国国务院
+    names:
+      zh: 中华人民共和国国务院
+      en: State Council of the People's Republic of China
+    orgType: legislature
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国最高国家行政机构
+    ids:
+      wikidata: Q59261
+    links:
+      - https://en.wikipedia.org/wiki/State_Council_of_China
+    sources:
+      - url: https://www.wikidata.org/wiki/Q59261
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-alabama
+    type: org
+    name: State of Alabama
+    names:
+      zh: 亚拉巴马州政府
+      en: State of Alabama
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Alabama
+    ids:
+      wikidata: Q5589171
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Alabama
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589171
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-alaska
+    type: org
+    name: State of Alaska
+    names:
+      zh: 阿拉斯加州政府
+      en: State of Alaska
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 行政机构
+    ids:
+      wikidata: Q5589173
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Alaska
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589173
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-arizona
+    type: org
+    name: State of Arizona
+    names:
+      zh: 亚利桑那州政府
+      en: State of Arizona
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Arizona
+    ids:
+      wikidata: Q16969540
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Arizona
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16969540
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-california
+    type: org
+    name: State of California
+    names:
+      zh: 加州政府
+      en: State of California
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of California
+    ids:
+      wikidata: Q5589189
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_California
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589189
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-colorado
+    type: org
+    name: State of Colorado
+    names:
+      zh: 科羅拉多州政府
+      en: State of Colorado
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Colorado
+    ids:
+      wikidata: Q53709973
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53709973
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-connecticut
+    type: org
+    name: State of Connecticut
+    names:
+      en: State of Connecticut
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Connecticut
+    ids:
+      wikidata: Q53709967
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53709967
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-delaware
+    type: org
+    name: State of Delaware
+    names:
+      en: State of Delaware
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Delaware
+    ids:
+      wikidata: Q53709974
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Delaware
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53709974
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-florida
+    type: org
+    name: State of Florida
+    names:
+      zh: 佛罗里达州政府
+      en: State of Florida
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Florida
+    ids:
+      wikidata: Q3112589
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Florida
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3112589
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-georgia
+    type: org
+    name: State of Georgia
+    names:
+      en: State of Georgia
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Georgia
+    ids:
+      wikidata: Q5589210
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Georgia_(U.S._state)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589210
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-hawaii
+    type: org
+    name: State of Hawaii
+    names:
+      zh: 夏威夷州政府
+      en: State of Hawaii
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Hawaii
+    ids:
+      wikidata: Q38724674
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Hawaii
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38724674
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-idaho
+    type: org
+    name: State of Idaho
+    names:
+      en: State of Idaho
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Idaho
+    ids:
+      wikidata: Q53709972
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53709972
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-indiana
+    type: org
+    name: State of Indiana
+    names:
+      zh: 印第安納州政府
+      en: State of Indiana
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Indiana
+    ids:
+      wikidata: Q5589221
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Indiana
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589221
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-iowa
+    type: org
+    name: State of Iowa
+    names:
+      zh: 愛荷華州政府
+      en: State of Iowa
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Iowa
+    ids:
+      wikidata: Q53709982
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53709982
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-kansas
+    type: org
+    name: State of Kansas
+    names:
+      en: State of Kansas
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Kansas
+    ids:
+      wikidata: Q5589230
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Kansas
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589230
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-louisiana
+    type: org
+    name: State of Louisiana
+    names:
+      zh: 路易斯安那州政府
+      en: State of Louisiana
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Louisiana
+    ids:
+      wikidata: Q53709985
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53709985
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-maine
+    type: org
+    name: State of Maine
+    names:
+      zh: 缅因州政府
+      en: State of Maine
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Maine
+    ids:
+      wikidata: Q53709966
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53709966
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-maryland
+    type: org
+    name: State of Maryland
+    names:
+      zh: 馬里蘭州政府
+      en: State of Maryland
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Maryland
+    ids:
+      wikidata: Q5589245
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Maryland
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589245
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-michigan
+    type: org
+    name: State of Michigan
+    names:
+      zh: 密歇根州政府
+      en: State of Michigan
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国的州行政部门
+    ids:
+      wikidata: Q5589251
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Michigan
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589251
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-minnesota
+    type: org
+    name: State of Minnesota
+    names:
+      en: State of Minnesota
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Minnesota
+    ids:
+      wikidata: Q41500875
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q41500875
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-mississippi
+    type: org
+    name: State of Mississippi
+    names:
+      en: State of Mississippi
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Mississippi
+    ids:
+      wikidata: Q6503170
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Mississippi
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6503170
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-missouri
+    type: org
+    name: State of Missouri
+    names:
+      en: State of Missouri
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Missouri
+    ids:
+      wikidata: Q6503171
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Missouri
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6503171
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-montana
+    type: org
+    name: State of Montana
+    names:
+      zh: 蒙大拿州政府
+      en: State of Montana
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Montana
+    ids:
+      wikidata: Q53709971
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53709971
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-nebraska
+    type: org
+    name: State of Nebraska
+    names:
+      en: State of Nebraska
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Nebraska
+    ids:
+      wikidata: Q53709983
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Nebraska
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53709983
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-nevada
+    type: org
+    name: State of Nevada
+    names:
+      en: State of Nevada
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Nevada
+    ids:
+      wikidata: Q5589268
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Nevada
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589268
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-new-hampshire
+    type: org
+    name: State of New Hampshire
+    names:
+      en: State of New Hampshire
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of New Hampshire
+    ids:
+      wikidata: Q5589270
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_New_Hampshire
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589270
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-new-jersey
+    type: org
+    name: State of New Jersey
+    names:
+      zh: 新澤西州政府
+      en: State of New Jersey
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of New Jersey
+    ids:
+      wikidata: Q5589271
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_New_Jersey
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589271
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-new-mexico
+    type: org
+    name: State of New Mexico
+    names:
+      en: State of New Mexico
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of New Mexico
+    ids:
+      wikidata: Q16152647
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_New_Mexico
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16152647
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-new-york
+    type: org
+    name: State of New York
+    names:
+      zh: 纽约州政府
+      en: State of New York
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of New York
+    ids:
+      wikidata: Q5589272
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_New_York_(state)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589272
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-north-carolina
+    type: org
+    name: State of North Carolina
+    names:
+      zh: 北卡罗莱纳州政府
+      en: State of North Carolina
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of North Carolina
+    ids:
+      wikidata: Q7225184
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_North_Carolina
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7225184
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-north-dakota
+    type: org
+    name: State of North Dakota
+    names:
+      en: State of North Dakota
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of North Dakota
+    ids:
+      wikidata: Q53709968
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53709968
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-ohio
+    type: org
+    name: State of Ohio
+    names:
+      zh: 俄亥俄州政府
+      en: State of Ohio
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Ohio
+    ids:
+      wikidata: Q5589278
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Ohio
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589278
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-oklahoma
+    type: org
+    name: State of Oklahoma
+    names:
+      zh: 奧克拉荷馬州政府
+      en: State of Oklahoma
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Oklahoma
+    ids:
+      wikidata: Q5589284
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Oklahoma
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589284
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-rhode-island
+    type: org
+    name: State of Rhode Island
+    names:
+      en: State of Rhode Island
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Rhode Island
+    ids:
+      wikidata: Q5589305
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Rhode_Island
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589305
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-south-carolina
+    type: org
+    name: State of South Carolina
+    names:
+      zh: 南卡羅來納州政府
+      en: State of South Carolina
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of South Carolina
+    ids:
+      wikidata: Q53709977
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53709977
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-south-dakota
+    type: org
+    name: State of South Dakota
+    names:
+      zh: 南達科他州政府
+      en: State of South Dakota
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of South Dakota
+    ids:
+      wikidata: Q5589318
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_South_Dakota
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589318
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-texas
+    type: org
+    name: State of Texas
+    names:
+      zh: 德克萨斯州政府
+      en: State of Texas
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Texas
+    ids:
+      wikidata: Q3112637
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Texas
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3112637
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-utah
+    type: org
+    name: State of Utah
+    names:
+      zh: 猶他州政府
+      en: State of Utah
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Utah
+    ids:
+      wikidata: Q5589326
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Utah
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589326
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-washington
+    type: org
+    name: State of Washington
+    names:
+      zh: 华盛顿州政府
+      en: State of Washington
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Washington
+    ids:
+      wikidata: Q16152657
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Washington_(state)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16152657
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-west-virginia
+    type: org
+    name: State of West Virginia
+    names:
+      zh: 西弗吉尼亚州政府
+      en: State of West Virginia
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of West Virginia
+    ids:
+      wikidata: Q5589342
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_West_Virginia
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589342
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-wisconsin
+    type: org
+    name: State of Wisconsin
+    names:
+      zh: 威斯康辛州政府
+      en: State of Wisconsin
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Wisconsin
+    ids:
+      wikidata: Q20894430
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20894430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-of-wyoming
+    type: org
+    name: State of Wyoming
+    names:
+      zh: 懷俄明州政府
+      en: State of Wyoming
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Wyoming
+    ids:
+      wikidata: Q53709970
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53709970
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-owned-assets-supervision-and-administration-commission-of-the-state-counci
+    type: org
+    name: 国务院国有资产监督管理委员会
+    names:
+      zh: 国务院国有资产监督管理委员会
+      en: State-owned Assets Supervision and Administration Commission of the State Council
+    orgType: government
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国国务院直属特设机构
+    ids:
+      wikidata: Q1629075
+    links:
+      - https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission_of_the_State_Council
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1629075
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: state-university-of-new-york-at-albany
+    type: org
+    name: State University of New York at Albany
+    names:
+      zh: 纽约州立大学奥尔巴尼分校
+      en: State University of New York at Albany
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国大学
+    ids:
+      wikidata: Q1780816
+    links:
+      - https://en.wikipedia.org/wiki/University_at_Albany
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1780816
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: stefan-batory-foundation
+    type: org
+    name: Stefan Batory Foundation
+    names:
+      en: Stefan Batory Foundation
+    orgType: foundation
+    country:
+      - PL
+    sectors:
+      - other
+    tier: 4
+    summary: nonprofit organisation from Poland
+    ids:
+      wikidata: Q4308487
+    links:
+      - https://en.wikipedia.org/wiki/Stefan_Batory_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4308487
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: stellantis
+    type: org
+    name: Stellantis
+    names:
+      zh: 斯特兰蒂斯
+      en: Stellantis
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 3
+    summary: 法國-義大利-美國跨國汽車製造商
+    ids:
+      wikidata: Q97439162
+    links:
+      - https://en.wikipedia.org/wiki/Stellantis
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97439162
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sterling-plaza
+    type: org
+    name: Sterling Plaza
+    names:
+      en: Sterling Plaza
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: historic building in Beverly Hills, California
+    ids:
+      wikidata: Q19881927
+    links:
+      - https://en.wikipedia.org/wiki/Sterling_Plaza
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19881927
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: stern-school-of-business
+    type: org
+    name: Stern School of Business
+    names:
+      zh: 斯特恩商学院
+      en: Stern School of Business
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 纽约大学商学院
+    ids:
+      wikidata: Q770467
+    links:
+      - https://en.wikipedia.org/wiki/New_York_University_Stern_School_of_Business
+    sources:
+      - url: https://www.wikidata.org/wiki/Q770467
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: stetson-university
+    type: org
+    name: Stetson University
+    names:
+      zh: 史丹森大學
+      en: Stetson University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private university in Deland, Florida
+    ids:
+      wikidata: Q2341039
+    links:
+      - https://en.wikipedia.org/wiki/Stetson_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2341039
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: stetson-university-college-of-law
+    type: org
+    name: Stetson University College of Law
+    names:
+      zh: 塞茲頓大學
+      en: Stetson University College of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school in Florida
+    ids:
+      wikidata: Q7611664
+    links:
+      - https://en.wikipedia.org/wiki/Stetson_University_College_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7611664
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: steve-jobs-archive
+    type: org
+    name: Steve Jobs Archive
+    names:
+      en: Steve Jobs Archive
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: collection of artefacts related to American businessman Steve Jobs
+    ids:
+      wikidata: Q124618897
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124618897
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: still-life-on-a-table-duo-pour-flute
+    type: org
+    name: 'Still Life on a Table: "Duo pour flûte"'
+    names:
+      en: 'Still Life on a Table: "Duo pour flûte"'
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Georges Braque
+    ids:
+      wikidata: Q137723137
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137723137
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: still-life-with-clarinet
+    type: org
+    name: Still Life with Clarinet
+    names:
+      en: Still Life with Clarinet
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Georges Braque
+    ids:
+      wikidata: Q137723143
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137723143
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: still-life-with-metronome
+    type: org
+    name: Still Life with Metronome
+    names:
+      en: Still Life with Metronome
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Georges Braque
+    ids:
+      wikidata: Q137723142
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137723142
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: stockx
+    type: org
+    name: StockX
+    names:
+      en: StockX
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: online marketplace and reseller, primarily of clothing and sneakers
+    ids:
+      wikidata: Q55775893
+    links:
+      - https://en.wikipedia.org/wiki/StockX
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55775893
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: stony-brook-university
+    type: org
+    name: Stony Brook University
+    names:
+      zh: 石溪大学
+      en: Stony Brook University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国纽约州石溪的公立大学
+    ids:
+      wikidata: Q969850
+    links:
+      - https://en.wikipedia.org/wiki/Stony_Brook_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q969850
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: straight-arrow-news
+    type: org
+    name: Straight Arrow News
+    names:
+      en: Straight Arrow News
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: American media company and news website
+    ids:
+      wikidata: Q136488162
+    links:
+      - https://en.wikipedia.org/wiki/Straight_Arrow_News
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136488162
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: strancally-castle
+    type: org
+    name: Strancally Castle
+    names:
+      en: Strancally Castle
+    orgType: other
+    country:
+      - IE
+    sectors:
+      - other
+    tier: 4
+    summary: country house in County Waterford, Ireland
+    ids:
+      wikidata: Q7621210
+    links:
+      - https://en.wikipedia.org/wiki/Strancally_Castle
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7621210
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: strategic-and-policy-forum
+    type: org
+    name: Strategic and Policy Forum
+    names:
+      en: Strategic and Policy Forum
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: U.S. presidential business forum
+    ids:
+      wikidata: Q30693303
+    links:
+      - https://en.wikipedia.org/wiki/Strategic_and_Policy_Forum
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30693303
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: strategy
+    type: org
+    name: Strategy
+    names:
+      zh: 微策略
+      en: Strategy
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American technology company
+    ids:
+      wikidata: Q1192211
+    links:
+      - https://en.wikipedia.org/wiki/MicroStrategy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1192211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: stratfor
+    type: org
+    name: Stratfor
+    names:
+      zh: 斯特拉特福
+      en: Stratfor
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 企业
+    ids:
+      wikidata: Q1165036
+    links:
+      - https://en.wikipedia.org/wiki/Stratfor
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1165036
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: strike-force-on-unfair-and-illegal-pricing
+    type: org
+    name: Strike Force on Unfair and Illegal Pricing
+    names:
+      en: Strike Force on Unfair and Illegal Pricing
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American government inter-agency group (2024-)
+    ids:
+      wikidata: Q131108881
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q131108881
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: students-for-trump
+    type: org
+    name: Students for Trump
+    names:
+      en: Students for Trump
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: U.S. youth political group in support of Donald Trump
+    ids:
+      wikidata: Q27629669
+    links:
+      - https://en.wikipedia.org/wiki/Students_for_Trump
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27629669
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sturm-college-of-law
+    type: org
+    name: Sturm College of Law
+    names:
+      en: Sturm College of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school of University of Denver
+    ids:
+      wikidata: Q7629097
+    links:
+      - https://en.wikipedia.org/wiki/Sturm_College_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7629097
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: stuyvesant-high-school
+    type: org
+    name: Stuyvesant High School
+    names:
+      zh: 斯泰弗森特高中
+      en: Stuyvesant High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: specialized high school in New York City, United States
+    ids:
+      wikidata: Q3098911
+    links:
+      - https://en.wikipedia.org/wiki/Stuyvesant_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3098911
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sun-hung-kai-and-co
+    type: org
+    name: 新鴻基公司
+    names:
+      zh: 新鴻基公司
+      en: Sun Hung Kai & Co.
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: listed non-bank financial corporation in Hong Kong
+    ids:
+      wikidata: Q7638341
+    links:
+      - https://en.wikipedia.org/wiki/Sun_Hung_Kai_%26_Co.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7638341
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sun-hung-kai-properties
+    type: org
+    name: 新鸿基地产
+    names:
+      zh: 新鸿基地产
+      en: Sun Hung Kai Properties
+    orgType: company
+    country:
+      - HK
+    sectors:
+      - business
+    tier: 4
+    summary: 香港地產發展商
+    ids:
+      wikidata: Q1789188
+    links:
+      - https://en.wikipedia.org/wiki/Sun_Hung_Kai_Properties
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1789188
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sun-microsystems
+    type: org
+    name: Sun Microsystems
+    names:
+      zh: 昇陽電腦
+      en: Sun Microsystems
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 总部设在圣克拉拉的已被收购的计算机软硬件公司
+    ids:
+      wikidata: Q14647
+    links:
+      - https://en.wikipedia.org/wiki/Sun_Microsystems
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14647
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sun-yat-sen-university
+    type: org
+    name: 中山大学
+    names:
+      zh: 中山大学
+      en: Sun Yat-sen University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 中国广东省广州市的综合性大学
+    ids:
+      wikidata: Q178972
+    links:
+      - https://en.wikipedia.org/wiki/Sun_Yat-sen_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q178972
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sunac-china
+    type: org
+    name: 融创中国
+    names:
+      zh: 融创中国
+      en: Sunac China
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中國住宅房地產開發商
+    ids:
+      wikidata: Q13410248
+    links:
+      - https://en.wikipedia.org/wiki/Sunac
+    sources:
+      - url: https://www.wikidata.org/wiki/Q13410248
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: suning-appliance-group
+    type: org
+    name: 苏宁电器集团
+    names:
+      zh: 苏宁电器集团
+      en: Suning Appliance Group
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国企业
+    ids:
+      wikidata: Q24885067
+    links:
+      - https://en.wikipedia.org/wiki/Suning_Appliance_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24885067
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: suning-com
+    type: org
+    name: 苏宁易购
+    names:
+      zh: 苏宁易购
+      en: Suning.com
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国公司
+    ids:
+      wikidata: Q1895661
+    links:
+      - https://en.wikipedia.org/wiki/Suning.com
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1895661
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: suning-holdings-group
+    type: org
+    name: 苏宁控股
+    names:
+      zh: 苏宁控股
+      en: Suning Holdings Group
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国企业
+    ids:
+      wikidata: Q24451600
+    links:
+      - https://en.wikipedia.org/wiki/Suning_Holdings_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24451600
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: suning-real-estate
+    type: org
+    name: Suning Real Estate
+    names:
+      zh: 苏宁置业集团
+      en: Suning Real Estate
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: 中国企业
+    ids:
+      wikidata: Q24890111
+    links:
+      - https://en.wikipedia.org/wiki/Suning_Real_Estate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24890111
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: supreme-people-s-court-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国最高人民法院
+    names:
+      zh: 中华人民共和国最高人民法院
+      en: Supreme People's Court of the People's Republic of China
+    orgType: legislature
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国的最高法院
+    ids:
+      wikidata: Q691994
+    links:
+      - https://en.wikipedia.org/wiki/Supreme_People's_Court
+    sources:
+      - url: https://www.wikidata.org/wiki/Q691994
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: supreme-people-s-procuratorate-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国最高人民检察院
+    names:
+      zh: 中华人民共和国最高人民检察院
+      en: Supreme People's Procuratorate of the People's Republic of China
+    orgType: government
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国最高检察机关
+    ids:
+      wikidata: Q2682024
+    links:
+      - https://en.wikipedia.org/wiki/Supreme_People's_Procuratorate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2682024
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: susquehanna
+    type: org
+    name: Susquehanna International Group
+    names:
+      zh: 海纳国际集团
+      en: Susquehanna International Group
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Trading firm
+    ids:
+      wikidata: Q7649307
+    links:
+      - https://en.wikipedia.org/wiki/Susquehanna_International_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7649307
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: swarthmore-college
+    type: org
+    name: Swarthmore College
+    names:
+      zh: 斯沃斯莫尔学院
+      en: Swarthmore College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: liberal arts college in Swarthmore, Pennsylvania
+    ids:
+      wikidata: Q1378320
+    links:
+      - https://en.wikipedia.org/wiki/Swarthmore_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1378320
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: swatt-and-stein
+    type: org
+    name: Swatt and Stein
+    names:
+      en: Swatt and Stein
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American office for architecture, active in San Francisco
+    ids:
+      wikidata: Q139858826
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q139858826
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sweet-josephine
+    type: org
+    name: Sweet Josephine
+    names:
+      en: Sweet Josephine
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: diamond
+    ids:
+      wikidata: Q24233901
+    links:
+      - https://en.wikipedia.org/wiki/Sweet_Josephine
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24233901
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: sygma-archive
+    type: org
+    name: Sygma archive
+    names:
+      en: Sygma archive
+    orgType: other
+    country:
+      - FR
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q88902134
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q88902134
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: synthetic-genomics
+    type: org
+    name: Synthetic Genomics
+    names:
+      en: Synthetic Genomics
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: company in La Jolla, United States
+    ids:
+      wikidata: Q4050516
+    links:
+      - https://en.wikipedia.org/wiki/Viridos_(company)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4050516
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: syracuse-university
+    type: org
+    name: Syracuse University
+    names:
+      zh: 雪城大学
+      en: Syracuse University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 位于美国纽约州锡拉丘兹市的大学
+    ids:
+      wikidata: Q617433
+    links:
+      - https://en.wikipedia.org/wiki/Syracuse_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q617433
+        publisher: Wikidata
+        accessed: 2026-10-11

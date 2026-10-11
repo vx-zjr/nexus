@@ -1,0 +1,18 @@
+id: priscilla-chan
+type: person
+name: Priscilla Chan
+names:
+  en: Priscilla Chan
+  zh: 陈慧娴
+gender: F
+born: '1985-02-24'
+country:
+- US
+sectors:
+- ngo
+tier: 3
+summary: 儿科医生，陈-扎克伯格基金会（CZI）联合创始人。
+sources:
+- url: https://en.wikipedia.org/wiki/Priscilla_Chan
+  publisher: Wikipedia
+updated: '2026-10-11'

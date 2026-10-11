@@ -1,0 +1,8263 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: a-james-manchin
+    type: person
+    name: A. James Manchin
+    names:
+      en: A. James Manchin
+    gender: M
+    born: 1927-04-07
+    died: 2003-11-03
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: American politician in West Virginia (1927-2003)
+    ids:
+      wikidata: Q4647998
+    links:
+      - https://en.wikipedia.org/wiki/A._James_Manchin
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4647998
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 西弗吉尼亞州眾議員
+        org: west-virginia-house-of-delegates
+      - title: West Virginia State Treasurer
+  - id: a-willis-robertson
+    type: person
+    name: A. Willis Robertson
+    names:
+      zh: A·威利斯·羅伯遜
+      en: A. Willis Robertson
+    gender: M
+    born: 1887-05-27
+    died: 1971-11-01
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 4
+    summary: American politician (1887-1971)
+    ids:
+      wikidata: Q331714
+    links:
+      - https://en.wikipedia.org/wiki/A._Willis_Robertson
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q331714
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 1947-01-03
+        to: 1949-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1946-11-05
+        to: 1947-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1965-01-03
+        to: 1966-12-30
+      - title: 美國參議員
+        org: us-senate
+        from: 1961-01-03
+        to: 1963-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1953-01-03
+        to: 1955-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1959-01-03
+        to: 1961-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1957-01-03
+        to: 1959-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1963-01-03
+        to: 1965-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1951-01-03
+        to: 1953-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1949-01-03
+        to: 1951-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1955-01-03
+        to: 1957-01-03
+      - title: 联邦律师
+        from: "1922"
+        to: "1928"
+      - title: 美国众议员
+        org: us-house
+      - title: 弗吉尼亚州参议员
+        org: senate-of-virginia
+        from: "1916"
+        to: "1922"
+      - title: 維吉尼亞州聯邦眾議員
+  - id: aaron-david-miller
+    type: person
+    name: Aaron David Miller
+    names:
+      zh: 亞倫·米勒
+      en: Aaron David Miller
+    gender: M
+    born: 1949-03-25
+    country:
+      - US
+    sectors:
+      - diplomacy
+    tier: 5
+    summary: American diplomat
+    ids:
+      wikidata: Q4661954
+    links:
+      - https://en.wikipedia.org/wiki/Aaron_David_Miller
+    tags:
+      - relative
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4661954
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: aaron-swartz
+    type: person
+    name: Aaron Swartz
+    names:
+      zh: 亚伦·斯沃茨
+      en: Aaron Swartz
+    gender: M
+    born: 1986-11-08
+    died: 2013-01-11
+    country:
+      - US
+    sectors:
+      - business
+      - culture
+      - tech
+    tier: 3
+    summary: 計算機程序員和互聯網政治活動家
+    ids:
+      wikidata: Q302817
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8
+      - https://en.wikipedia.org/wiki/Aaron_Swartz
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 83
+    sources:
+      - url: https://www.wikidata.org/wiki/Q302817
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: abby-cox
+    type: person
+    name: Abby Cox
+    names:
+      en: Abby Cox
+    gender: F
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: first Lady of Utah since 2021
+    ids:
+      wikidata: Q136983282
+    links:
+      - https://en.wikipedia.org/wiki/Abby_Cox
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136983282
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: abdulfattah-jandali
+    type: person
+    name: Abdulfattah Jandali
+    names:
+      zh: 阿卜杜勒法塔赫·詹达利
+      en: Abdulfattah Jandali
+    gender: M
+    born: 1931-03-15
+    country:
+      - SY
+    sectors:
+      - academia
+    tier: 5
+    summary: "Steve Jobs' biological father. He was a political refugee came to United States from then Syria civil war. (writer: Shreeram Khadka)"
+    ids:
+      wikidata: Q12605967
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12605967
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: abigail-disney
+    type: person
+    name: Abigail Disney
+    names:
+      en: Abigail Disney
+    gender: F
+    born: 1960-01-24
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: American film producer
+    ids:
+      wikidata: Q4667675
+    links:
+      - https://en.wikipedia.org/wiki/Abigail_Disney
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4667675
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: abigail-johnson
+    type: person
+    name: Abigail Johnson
+    names:
+      zh: 阿比盖尔·约翰逊
+      en: Abigail Johnson
+    gender: F
+    born: 1961-12-19
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American businesswoman, business executive, heiress, billionaire
+    netWorth:
+      usd: 15600000000
+    ids:
+      wikidata: Q321125
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E6%AF%94%E7%9B%96%E5%B0%94%C2%B7%E7%BA%A6%E7%BF%B0%E9%80%8A
+      - https://en.wikipedia.org/wiki/Abigail_Johnson
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 43
+    sources:
+      - url: https://www.wikidata.org/wiki/Q321125
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 会长
+        org: organization
+        from: "2014"
+  - id: abigail-spanberger
+    type: person
+    name: Abigail Spanberger
+    names:
+      zh: 阿比盖尔·斯潘伯格
+      en: Abigail Spanberger
+    gender: F
+    born: 1979-08-07
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 美國政治人物
+    ids:
+      wikidata: Q55603085
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E6%AF%94%E8%93%8B%E7%88%BE%C2%B7%E6%96%AF%E6%BD%98%E4%BC%AF%E6%A0%BC
+      - https://en.wikipedia.org/wiki/Abigail_Spanberger
+    tags:
+      - us-congress
+      - us-governors
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 32
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55603085
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 弗吉尼亞州州長
+        org: commonwealth-of-virginia
+        from: 2026-01-17
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: abo-obama
+    type: person
+    name: Abo Obama
+    names:
+      en: Abo Obama
+    gender: M
+    born: "1968"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q15982321
+    links:
+      - https://en.wikipedia.org/wiki/Abo_Obama
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15982321
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: abraham-hamadeh
+    type: person
+    name: Abraham Hamadeh
+    names:
+      zh: 亚伯拉罕·哈马德
+      en: Abraham Hamadeh
+    gender: M
+    born: 1991-05-15
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+    tier: 4
+    summary: American prosecutor and U.S. Army captain
+    ids:
+      wikidata: Q124307977
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%C2%B7%E5%93%88%E9%A9%AC%E5%BE%B7
+      - https://en.wikipedia.org/wiki/Abraham_Hamadeh
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124307977
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: adam-dell
+    type: person
+    name: Adam Dell
+    names:
+      en: Adam Dell
+    gender: M
+    born: 1970-01-14
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman
+    ids:
+      wikidata: Q4678962
+    links:
+      - https://en.wikipedia.org/wiki/Adam_Dell
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4678962
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: adam-foroughi
+    type: person
+    name: Adam Foroughi
+    names:
+      en: Adam Foroughi
+    gender: M
+    born: "1980"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American businessman and winemaker
+    netWorth:
+      usd: 17400000000
+    ids:
+      wikidata: Q107414226
+    links:
+      - https://en.wikipedia.org/wiki/Adam_Foroughi
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q107414226
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: adam-gray
+    type: person
+    name: Adam Gray
+    names:
+      zh: 亞當·格雷
+      en: Adam Gray
+    gender: M
+    born: 1977-09-23
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q3000097
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%9E%E7%95%B6%C2%B7%E6%A0%BC%E9%9B%B7
+      - https://en.wikipedia.org/wiki/Adam_Gray
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3000097
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: 2012-12-03
+        to: 2022-12-05
+  - id: adam-kinzinger
+    type: person
+    name: Adam Kinzinger
+    names:
+      zh: 亞當·金辛格
+      en: Adam Kinzinger
+    gender: M
+    born: 1978-02-27
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American military officer and politician (born 1978)
+    ids:
+      wikidata: Q349955
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%9E%E7%95%B6%C2%B7%E9%87%91%E8%BE%9B%E6%A0%BC
+      - https://en.wikipedia.org/wiki/Adam_Kinzinger
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q349955
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 成员
+        org: membership-organization
+        from: "1998"
+        to: "2003"
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: adam-schiff
+    type: person
+    name: Adam Schiff
+    names:
+      zh: 亞當·希夫
+      en: Adam Schiff
+    gender: M
+    born: 1960-06-22
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - judiciary
+    tier: 3
+    summary: 美国政治人物
+    ids:
+      wikidata: Q350843
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%9E%E7%95%B6%C2%B7%E5%B8%8C%E5%A4%AB
+      - https://en.wikipedia.org/wiki/Adam_Schiff
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 36
+    sources:
+      - url: https://www.wikidata.org/wiki/Q350843
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 檢察官
+        org: public-prosecutor-s-office
+        from: "1987"
+        to: "1993"
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2024-12-08
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2024-12-08
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 加利福尼亞州參議員
+        org: california-state-senate
+        from: 1996-12-02
+        to: 2000-11-30
+      - title: 参议员
+        org: senate
+      - title: chairperson of US House Intelligence committee
+        org: united-states-house-permanent-select-committee-on-intelligence
+        from: "2019"
+        to: "2023"
+  - id: adam-silver
+    type: person
+    name: Adam Silver
+    names:
+      zh: 萧华
+      en: Adam Silver
+    gender: M
+    born: 1962-04-25
+    country:
+      - US
+    sectors:
+      - business
+      - judiciary
+    tier: 4
+    summary: 美国企业家
+    ids:
+      wikidata: Q4679786
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%95%AD%E8%8F%AF_(NBA)
+      - https://en.wikipedia.org/wiki/Adam_Silver
+    tags:
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 29
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4679786
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: NBA总裁
+        org: national-basketball-association
+        from: 2014-02-01
+  - id: adam-smith
+    type: person
+    name: Adam Smith
+    names:
+      zh: 亞當·史密斯
+      en: Adam Smith
+    gender: M
+    born: 1965-06-15
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 來自華盛頓哥倫比亞特區的美國政客
+    ids:
+      wikidata: Q350916
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%9E%E7%95%B6%C2%B7%E5%8F%B2%E5%AF%86%E6%96%AF_(1965%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Adam_Smith_(Washington_politician)
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q350916
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 檢察官
+        org: public-prosecutor-s-office
+        from: "1993"
+        to: "1995"
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 華盛頓州參議員
+        org: washington-state-senate
+        from: 1991-01-03
+        to: 1997-01-03
+  - id: adam-szubin
+    type: person
+    name: Adam Szubin
+    names:
+      en: Adam Szubin
+    gender: M
+    born: "1972"
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: politician
+    ids:
+      wikidata: Q28514306
+    links:
+      - https://en.wikipedia.org/wiki/Adam_Szubin
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28514306
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国财政部长
+        org: united-states-department-of-the-treasury
+        from: 2017-01-20
+        to: 2017-02-13
+      - title: 美國財政部恐怖主義及金融情報次長
+        from: 2015-04-16
+        to: 2017-02-13
+  - id: addison-mcdowell
+    type: person
+    name: Addison McDowell
+    names:
+      zh: 艾迪生·麦克道尔
+      en: Addison McDowell
+    gender: M
+    born: 1994-01-21
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1994)
+    ids:
+      wikidata: Q130979819
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E8%BF%AA%E7%94%9F%C2%B7%E9%BA%A6%E5%85%8B%E9%81%93%E5%B0%94
+      - https://en.wikipedia.org/wiki/Addison_McDowell
+    tags:
+      - us-congress
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q130979819
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: addison-mitchell-mcconnell
+    type: person
+    name: Addison Mitchell McConnell
+    names:
+      en: Addison Mitchell McConnell
+    gender: M
+    born: 1917-12-22
+    died: 1990-09-28
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: 22 Dec 1917 - 28 Sep 1990
+    ids:
+      wikidata: Q107323253
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q107323253
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: adelita-grijalva
+    type: person
+    name: Adelita Grijalva
+    names:
+      en: Adelita Grijalva
+    gender: F
+    born: 1970-10-30
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1970)
+    ids:
+      wikidata: Q134612342
+    links:
+      - https://en.wikipedia.org/wiki/Adelita_Grijalva
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q134612342
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-09-23
+      - title: member of the United States House of Representatives
+        org: us-house
+        from: 2025-11-12
+  - id: adrian-cheng
+    type: person
+    name: 郑志刚
+    names:
+      zh: 郑志刚
+      en: Adrian Cheng
+    gender: M
+    born: 1979-11-01
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 5
+    summary: 香港企业家
+    ids:
+      wikidata: Q9086912
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%84%AD%E5%BF%97%E5%89%9B
+      - https://en.wikipedia.org/wiki/Adrian_Cheng
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9086912
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 太平紳士
+  - id: adrian-smith
+    type: person
+    name: Adrian Smith
+    names:
+      zh: 阿德里安·史密斯
+      en: Adrian Smith
+    gender: M
+    born: 1970-12-19
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q373443
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E5%BE%B7%E9%87%8C%E5%AE%89%C2%B7%E5%8F%B2%E5%AF%86%E6%96%AF_(%E6%94%BF%E6%B2%BB%E5%AE%B6)
+      - https://en.wikipedia.org/wiki/Adrian_Smith_(politician)
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q373443
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 理事
+        org: board-of-directors
+        from: 2021-04-01
+        to: "2025"
+      - title: 成员
+        org: membership-organization
+        from: "1994"
+        to: "1998"
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 內布拉斯加州參議員
+        org: nebraska-legislature
+        from: "1999"
+        to: "2007"
+  - id: adriano-espaillat
+    type: person
+    name: Adriano Espaillat
+    names:
+      zh: 阿德里亚诺·埃斯派亚特
+      en: Adriano Espaillat
+    gender: M
+    born: 1954-09-27
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: Dominican-American politician (born 1954)
+    ids:
+      wikidata: Q4685569
+    links:
+      - https://en.wikipedia.org/wiki/Adriano_Espaillat
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4685569
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 紐約州參議員
+        org: new-york-state-senate
+        from: "2010"
+        to: "2016"
+      - title: 纽约州众议院议员
+        org: new-york-state-assembly
+        from: "1996"
+        to: "2010"
+  - id: aerin-lauder
+    type: person
+    name: Aerin Lauder
+    names:
+      zh: 艾琳·蘭黛
+      en: Aerin Lauder
+    gender: F
+    born: 1970-04-23
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessperson
+    ids:
+      wikidata: Q16211813
+    links:
+      - https://en.wikipedia.org/wiki/Aerin_Lauder
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16211813
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: afeni-shakur
+    type: person
+    name: Afeni Shakur
+    names:
+      zh: 阿芬妮·夏庫爾
+      en: Afeni Shakur
+    gender: F
+    born: 1947-01-10
+    died: 2016-05-02
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American political activist (1947–2016)
+    ids:
+      wikidata: Q2273636
+    links:
+      - https://en.wikipedia.org/wiki/Afeni_Shakur
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2273636
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ahn-jae-hyung
+    type: person
+    name: Ahn Jae-Hyung
+    names:
+      zh: 安宰亨
+      en: Ahn Jae-Hyung
+    gender: M
+    born: 1965-01-08
+    country:
+      - KR
+    sectors:
+      - family
+    tier: 4
+    summary: 韩国乒乓球选手
+    ids:
+      wikidata: Q402165
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E5%AE%B0%E4%BA%A8
+      - https://en.wikipedia.org/wiki/Ahn_Jae-hyung
+    tags:
+      - relative
+    attrs:
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q402165
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ai-husheng
+    type: person
+    name: 艾虎生
+    names:
+      zh: 艾虎生
+      en: Ai Husheng
+    gender: M
+    born: "1951"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese general
+    ids:
+      wikidata: Q8291784
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E8%99%8E%E7%94%9F
+      - https://en.wikipedia.org/wiki/Ai_Husheng
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8291784
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: aida-alvarez
+    type: person
+    name: Aída Álvarez
+    names:
+      en: Aída Álvarez
+    gender: F
+    born: "1950"
+    country:
+      - US
+    sectors:
+      - politics
+      - finance
+      - media
+    tier: 2
+    summary: Puerto Rican politician
+    ids:
+      wikidata: Q4833246
+    links:
+      - https://en.wikipedia.org/wiki/Aida_%C3%81lvarez
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4833246
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 小型企業管理署署長
+        org: small-business-administration
+        to: 2001-01-20
+  - id: aisha-wahab
+    type: person
+    name: Aisha Wahab
+    names:
+      en: Aisha Wahab
+    gender: F
+    born: 1987-01-11
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician from California (born 1987)
+    ids:
+      wikidata: Q115794283
+    links:
+      - https://en.wikipedia.org/wiki/Aisha_Wahab
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115794283
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 地方議會議員
+        org: city-council
+        from: 2018-12-11
+        to: 2022-12-05
+      - title: 美国众议员
+        org: us-house
+        from: 2026-09-02
+      - title: 加利福尼亞州參議員
+        org: california-state-senate
+        from: 2022-12-05
+        to: 2026-09-01
+  - id: ajaypal-singh-banga
+    type: person
+    name: Ajaypal Singh Banga
+    names:
+      zh: 彭安杰
+      en: Ajaypal Singh Banga
+    gender: M
+    born: 1959-11-10
+    country:
+      - US
+      - IN
+    sectors:
+      - business
+    tier: 4
+    summary: Indian American business executive
+    ids:
+      wikidata: Q4699676
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BD%AD%E5%AE%89%E6%9D%B0
+      - https://en.wikipedia.org/wiki/Ajay_Banga
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 31
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4699676
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 世界银行行长
+        org: world-bank-group
+        from: 2023-06-02
+      - title: UN board member
+  - id: ajit-singh-randhawa
+    type: person
+    name: Ajit Singh Randhawa
+    names:
+      en: Ajit Singh Randhawa
+    gender: M
+    died: 2024-06-16
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: father of Nikki Haley
+    ids:
+      wikidata: Q124131999
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124131999
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: al-gore
+    type: person
+    name: Al Gore
+    names:
+      zh: 阿尔·戈尔
+      en: Al Gore
+    gender: M
+    born: 1948-03-31
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - business
+    tier: 1
+    summary: 政治人物, 美国
+    ids:
+      wikidata: Q19673
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%C2%B7%E6%88%88%E5%B0%94
+      - https://en.wikipedia.org/wiki/Al_Gore
+    tags:
+      - us-executive
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 135
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19673
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國副總統
+        org: us-senate
+        from: 1993-01-20
+        to: 2001-01-20
+      - title: 理事
+        org: board-of-directors
+      - title: 美國參議員
+        org: us-senate
+        from: 1991-01-03
+        to: 1993-01-02
+      - title: 美國參議員
+        org: us-senate
+        from: 1985-01-03
+        to: 1987-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1981-01-03
+        to: 1983-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1977-01-03
+        to: 1979-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1979-01-03
+        to: 1981-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1983-01-03
+        to: 1985-01-03
+  - id: al-gore-iii
+    type: person
+    name: Al Gore III
+    names:
+      en: Al Gore III
+    gender: M
+    born: 1982-10-19
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q107292249
+    links:
+      - https://en.wikipedia.org/wiki/Al_Gore_III
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q107292249
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: al-green
+    type: person
+    name: Al Green
+    names:
+      zh: 阿爾‧格林
+      en: Al Green
+    gender: M
+    born: 1947-09-01
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: U.S. Representative from Texas
+    ids:
+      wikidata: Q749039
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E6%A0%BC%E6%9E%97_(%E6%94%BF%E6%B2%BB%E5%AE%B6)
+      - https://en.wikipedia.org/wiki/Al_Green_(politician)
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q749039
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 太平绅士
+        from: "1977"
+        to: "2004"
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: al-stewart
+    type: person
+    name: Al Stewart
+    names:
+      zh: 阿爾·斯圖爾特
+      en: Al Stewart
+    gender: M
+    born: "1955"
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American civil servant
+    ids:
+      wikidata: Q105320190
+    links:
+      - https://en.wikipedia.org/wiki/Al_Stewart_(government_official)
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105320190
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国劳工部长
+        org: united-states-department-of-labor
+        from: 2021-01-20
+        to: 2021-03-23
+  - id: alain-elkann
+    type: person
+    name: Alain Elkann
+    names:
+      zh: 阿兰·埃尔坎
+      en: Alain Elkann
+    gender: M
+    born: 1950-03-23
+    country:
+      - US
+    sectors:
+      - culture
+      - media
+    tier: 5
+    summary: Italian journalist
+    ids:
+      wikidata: Q1065346
+    links:
+      - https://en.wikipedia.org/wiki/Alain_Elkann
+    tags:
+      - relative
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1065346
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 总统
+        org: state
+        from: "2007"
+      - title: 会长
+        org: organization
+        from: "2004"
+        to: "2012"
+  - id: alan-armstrong
+    type: person
+    name: Alan Armstrong
+    names:
+      zh: 艾伦·S·阿姆斯特朗
+      en: Alan Armstrong
+    gender: M
+    born: 1962-07-11
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+      - tech
+    tier: 3
+    summary: American businessman and politician (born 1962)
+    ids:
+      wikidata: Q138781196
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E4%BC%A6%C2%B7S%C2%B7%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E6%9C%97
+      - https://en.wikipedia.org/wiki/Alan_Armstrong
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q138781196
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2026-03-24
+  - id: alan-b-krueger
+    type: person
+    name: Alan B. Krueger
+    names:
+      zh: 阿兰·克鲁格
+      en: Alan B. Krueger
+    gender: M
+    born: 1960-09-17
+    died: 2019-03-16
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+    tier: 2
+    summary: American economist (1960–2019)
+    ids:
+      wikidata: Q931129
+    links:
+      - https://en.wikipedia.org/wiki/Alan_Krueger
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q931129
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: United States Assistant Secretary of the Treasury
+        from: 2009-05-07
+        to: 2010-10-16
+      - title: Chair of the Council of Economic Advisers
+        org: council-of-economic-advisers
+        from: 2011-11-07
+        to: 2013-08-02
+  - id: alan-blinken
+    type: person
+    name: Alan Blinken
+    names:
+      zh: 艾倫·布林肯
+      en: Alan Blinken
+    gender: M
+    born: "1937"
+    country:
+      - US
+    sectors:
+      - politics
+      - diplomacy
+    tier: 5
+    summary: American businessman and politician
+    ids:
+      wikidata: Q4706196
+    links:
+      - https://en.wikipedia.org/wiki/Alan_Blinken
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4706196
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alan-greenspan
+    type: person
+    name: Alan Greenspan
+    names:
+      zh: 艾伦·格林斯潘
+      en: Alan Greenspan
+    gender: M
+    born: 1926-03-06
+    died: 2026-06-22
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+      - academia
+    tier: 2
+    summary: 美國經濟學家、美國聯邦儲備委員會第13任主席（1926-2026）
+    ids:
+      wikidata: Q193635
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E4%BC%A6%C2%B7%E6%A0%BC%E6%9E%97%E6%96%AF%E6%BD%98
+      - https://en.wikipedia.org/wiki/Alan_Greenspan
+    tags:
+      - us-executive
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 67
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193635
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美联储主席
+        org: federal-reserve
+        from: 1987-08-11
+        to: 2006-01-31
+      - title: Chair of the Council of Economic Advisers
+        org: council-of-economic-advisers
+        from: 1974-09-04
+        to: 1977-01-20
+  - id: alan-lowenthal
+    type: person
+    name: Alan Lowenthal
+    names:
+      zh: 艾伦·洛文塔尔
+      en: Alan Lowenthal
+    gender: M
+    born: 1941-03-08
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1941)
+    ids:
+      wikidata: Q3740782
+    links:
+      - https://en.wikipedia.org/wiki/Alan_Lowenthal
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3740782
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: 1998-12-07
+        to: 2004-12-06
+      - title: 加利福尼亞州參議員
+        org: california-state-senate
+        from: 2004-12-06
+        to: 2012-11-30
+  - id: alan-trefler
+    type: person
+    name: Alan Trefler
+    names:
+      en: Alan Trefler
+    gender: M
+    born: 1956-03-10
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: 美國商人
+    netWorth:
+      usd: 4200000000
+    ids:
+      wikidata: Q4707930
+    links:
+      - https://en.wikipedia.org/wiki/Alan_Trefler
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4707930
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alan-wilson
+    type: person
+    name: Alan Wilson
+    names:
+      zh: 阿蘭·威爾森
+      en: Alan Wilson
+    gender: M
+    born: 1973-07-16
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+      - military
+    tier: 5
+    summary: American attorney and politician
+    ids:
+      wikidata: Q4708077
+    links:
+      - https://en.wikipedia.org/wiki/Alan_Wilson_(politician)
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4708077
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: South Carolina Attorney General
+        from: 2011-01-12
+  - id: albert-c-cohn
+    type: person
+    name: Albert C. Cohn
+    names:
+      en: Albert C. Cohn
+    gender: M
+    born: 1885-12-20
+    died: 1959-01-08
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American judge (1885–1959)
+    ids:
+      wikidata: Q4709853
+    links:
+      - https://en.wikipedia.org/wiki/Albert_C._Cohn
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4709853
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 纽约最高法院
+  - id: albert-gore-sr
+    type: person
+    name: Albert Gore Sr.
+    names:
+      zh: 老艾伯特·戈尔
+      en: Albert Gore Sr.
+    gender: M
+    born: 1907-12-26
+    died: 1998-12-05
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 4
+    summary: American politician from Tennessee (1907–1998)
+    ids:
+      wikidata: Q577160
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%80%81%E8%89%BE%E4%BC%AF%E7%89%B9%C2%B7%E6%88%88%E5%B0%94
+      - https://en.wikipedia.org/wiki/Albert_Gore_Sr.
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q577160
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 專員
+        org: commission
+        from: "1936"
+        to: "1937"
+      - title: 美國參議員
+        org: us-senate
+        from: 1963-01-03
+        to: 1965-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1965-01-03
+        to: 1967-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1969-01-03
+        to: 1971-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1955-01-03
+        to: 1957-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1961-01-03
+        to: 1963-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1959-01-03
+        to: 1961-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1957-01-03
+        to: 1959-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1953-01-03
+        to: 1955-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1967-01-03
+        to: 1969-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1939-01-03
+        to: 1953-01-03
+  - id: albert-yeung
+    type: person
+    name: 杨受成
+    names:
+      zh: 杨受成
+      en: Albert Yeung
+    gender: M
+    born: 1943-03-02
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 香港商人
+    ids:
+      wikidata: Q8421164
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%8F%97%E6%88%90
+      - https://en.wikipedia.org/wiki/Albert_Yeung
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8421164
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alberto-gonzales
+    type: person
+    name: Alberto Gonzales
+    names:
+      zh: 阿尔韦托·冈萨雷斯
+      en: Alberto Gonzales
+    gender: M
+    born: 1955-08-04
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: 80th United States Attorney General
+    ids:
+      wikidata: Q202350
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E9%9F%A6%E6%89%98%C2%B7%E5%86%88%E8%90%A8%E9%9B%B7%E6%96%AF
+      - https://en.wikipedia.org/wiki/Alberto_Gonzales
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 34
+    sources:
+      - url: https://www.wikidata.org/wiki/Q202350
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國司法部長
+        org: us-doj
+        from: 2005-02-03
+        to: 2007-09-17
+      - title: 白宫法律顾问
+        from: 2001-01-20
+        to: 2005-02-03
+  - id: albio-sires
+    type: person
+    name: Albio Sires
+    names:
+      zh: 阿爾比奧·席瑞斯
+      en: Albio Sires
+    gender: M
+    born: 1951-01-26
+    country:
+      - US
+      - CU
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q527509
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E6%AF%94%E5%A5%A7%C2%B7%E5%B8%AD%E7%91%9E%E6%96%AF
+      - https://en.wikipedia.org/wiki/Albio_Sires
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q527509
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 市长
+        from: "1995"
+        to: "2007"
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2006-11-07
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 新澤西州眾議員
+        org: new-jersey-general-assembly
+        from: 2002-01-08
+        to: 2004-01-13
+      - title: 新澤西州眾議員
+        org: new-jersey-general-assembly
+        from: 2000-01-11
+        to: 2002-01-08
+      - title: 新澤西州眾議員
+        org: new-jersey-general-assembly
+        from: 2004-01-13
+        to: 2006-01-10
+  - id: aldona-wos
+    type: person
+    name: Aldona Wos
+    names:
+      zh: 阿尔多纳·沃斯
+      en: Aldona Wos
+    gender: F
+    born: "1955"
+    country:
+      - US
+      - PL
+    sectors:
+      - politics
+      - diplomacy
+    tier: 5
+    summary: American ambassador, physician and politician (born 1955)
+    ids:
+      wikidata: Q4713956
+    links:
+      - https://en.wikipedia.org/wiki/Aldona_Wos
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4713956
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: North Carolina Secretary of Health and Human Services
+        from: "2013"
+        to: "2015"
+  - id: alec-gores
+    type: person
+    name: Alec Gores
+    names:
+      zh: 亞歷克·戈爾斯
+      en: Alec Gores
+    gender: M
+    born: "1953"
+    country:
+      - US
+    sectors:
+      - finance
+    tier: 5
+    summary: 美國商人
+    ids:
+      wikidata: Q4714149
+    links:
+      - https://en.wikipedia.org/wiki/Alec_Gores
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4714149
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alejandro-daniel-wolff
+    type: person
+    name: Alejandro Daniel Wolff
+    names:
+      zh: 亚利桑德罗·丹尼尔·沃尔夫
+      en: Alejandro Daniel Wolff
+    gender: M
+    born: "1956"
+    country:
+      - US
+    sectors:
+      - politics
+      - diplomacy
+    tier: 2
+    summary: American ambassador
+    ids:
+      wikidata: Q343856
+    links:
+      - https://en.wikipedia.org/wiki/Alejandro_Daniel_Wolff
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q343856
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 大使
+        org: diplomatic-corps
+      - title: 美国常驻联合国代表列表
+        org: united-states-mission-to-the-united-nations
+        from: 2006-12-31
+        to: 2007-04-30
+  - id: alejandro-mayorkas
+    type: person
+    name: Alejandro Mayorkas
+    names:
+      zh: 亚历杭德罗·马约尔卡斯
+      en: Alejandro Mayorkas
+    gender: M
+    born: 1959-11-24
+    country:
+      - US
+      - CU
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: 美國國土安全部長
+    ids:
+      wikidata: Q4714600
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E6%9D%AD%E5%BE%B7%E7%BD%97%C2%B7%E9%A9%AC%E7%BA%A6%E5%8D%A1%E6%96%AF
+      - https://en.wikipedia.org/wiki/Alejandro_Mayorkas
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4714600
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國國土安全部長
+        org: united-states-department-of-homeland-security
+        from: 2021-02-02
+        to: 2025-01-20
+      - title: United States Deputy Secretary of Homeland Security
+        org: united-states-department-of-homeland-security
+        from: 2013-12-23
+        to: 2016-10-28
+      - title: Director of U.S. Citizenship and Immigration Services
+        from: 2009-08-12
+        to: 2013-12-23
+  - id: alex-azar
+    type: person
+    name: Alex Azar
+    names:
+      zh: 亚历克斯·阿扎
+      en: Alex Azar
+    gender: M
+    born: 1967-06-17
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+      - business
+    tier: 2
+    summary: 美国政治人物
+    ids:
+      wikidata: Q4716651
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%85%8B%E6%96%AF%C2%B7%E9%98%BF%E6%89%8E
+      - https://en.wikipedia.org/wiki/Alex_Azar
+    tags:
+      - us-executive
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4716651
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 会长
+        org: organization
+        from: "2012"
+        to: "2017"
+      - title: 美國衛生與公共服務部長
+        org: united-states-department-of-health-and-human-services
+        from: 2018-01-29
+        to: 2021-01-20
+      - title: 美国卫生和公共服务副部长
+        from: 2005-01-22
+        to: 2007-02-04
+  - id: alex-bradley
+    type: person
+    name: Alex Bradley
+    names:
+      zh: 艾利克斯·布拉德利
+      en: Alex Bradley
+    gender: M
+    born: 1959-10-30
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: 美国篮球运动员
+    ids:
+      wikidata: Q3610640
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%85%8B%E6%96%AF%C2%B7%E5%B8%83%E6%8B%89%E5%BE%B7%E5%88%A9
+      - https://en.wikipedia.org/wiki/Alex_Bradley_(basketball)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3610640
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alex-herman
+    type: person
+    name: Alex Herman
+    names:
+      en: Alex Herman
+    gender: M
+    born: "1899"
+    died: "1975"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: 美國棒球運動員
+    ids:
+      wikidata: Q108331433
+    links:
+      - https://en.wikipedia.org/wiki/Alex_Herman
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q108331433
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alex-padilla
+    type: person
+    name: Alex Padilla
+    names:
+      zh: 亚历克斯·帕迪利亚
+      en: Alex Padilla
+    gender: M
+    born: 1973-03-22
+    country:
+      - US
+    sectors:
+      - politics
+      - tech
+    tier: 3
+    summary: 美国政治家
+    ids:
+      wikidata: Q4717593
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%85%8B%E6%96%AF%C2%B7%E5%B8%95%E8%BF%AA%E5%88%A9%E4%BA%9A
+      - https://en.wikipedia.org/wiki/Alex_Padilla
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4717593
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-20
+        to: 2023-01-03
+      - title: 加利福尼亞州州務卿
+        org: office-of-the-secretary-of-state-of-california
+        from: 2015-01-05
+        to: 2021-01-18
+      - title: 洛杉矶市议会主席
+        from: 2001-07-04
+        to: "2006"
+      - title: 加利福尼亞州參議員
+        org: california-state-senate
+        from: 2006-12-04
+        to: 2014-11-30
+  - id: alex-witkoff
+    type: person
+    name: Alex Witkoff
+    names:
+      en: Alex Witkoff
+    gender: M
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: American businessman
+    ids:
+      wikidata: Q135456474
+    links:
+      - https://en.wikipedia.org/wiki/Alex_Witkoff
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q135456474
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alex-x-mooney
+    type: person
+    name: Alex X. Mooney
+    names:
+      zh: 阿萊克斯·穆尼
+      en: Alex X. Mooney
+    gender: M
+    born: 1971-06-05
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1971)
+    ids:
+      wikidata: Q4718026
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E8%90%8A%E5%85%8B%E6%96%AF%C2%B7%E7%A9%86%E5%B0%BC
+      - https://en.wikipedia.org/wiki/Alex_Mooney
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4718026
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: "2010"
+        to: "2013"
+      - title: 美国国会职员
+        from: "1993"
+        to: "1995"
+      - title: 成员
+        org: membership-organization
+        from: "1995"
+      - title: 成员
+        org: membership-organization
+        from: "2011"
+        to: "2013"
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 馬里蘭州參議員
+        org: maryland-senate
+        from: "1999"
+        to: "2010"
+  - id: alexander-acosta
+    type: person
+    name: Alexander Acosta
+    names:
+      zh: 亞歷山大·阿科斯塔
+      en: Alexander Acosta
+    gender: M
+    born: 1969-01-16
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: 美国检察官
+    ids:
+      wikidata: Q7273452
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E5%B1%B1%E5%A4%A7%C2%B7%E9%98%BF%E7%A7%91%E6%96%AF%E5%A1%94
+      - https://en.wikipedia.org/wiki/Alexander_Acosta
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7273452
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 院长
+        org: faculty
+        from: 2009-07-01
+        to: 2017-04-28
+      - title: 美国劳工部长
+        org: united-states-department-of-labor
+        from: 2017-04-28
+        to: 2019-07-19
+      - title: 佛羅里達州南區聯邦檢察官
+        from: 2005-06-11
+        to: 2009-06-05
+      - title: Member of the National Labor Relations Board
+        from: 2002-12-17
+        to: 2003-08-21
+  - id: alexander-c-karp
+    type: person
+    name: Alexander C. Karp
+    names:
+      zh: 艾力克斯·卡普
+      en: Alexander C. Karp
+    gender: M
+    born: 1967-10-02
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 14300000000
+    ids:
+      wikidata: Q19560940
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8A%9B%E5%85%8B%E6%96%AF%C2%B7%E5%8D%A1%E6%99%AE
+      - https://en.wikipedia.org/wiki/Alex_Karp
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19560940
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alexander-ellis-iii
+    type: person
+    name: Alexander Ellis III
+    names:
+      zh: 亚历山大·埃利斯三世
+      en: Alexander Ellis III
+    gender: M
+    born: "1949"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: businessperson
+    ids:
+      wikidata: Q4718801
+    links:
+      - https://en.wikipedia.org/wiki/Alexander_Ellis_III
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4718801
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alexander-soros
+    type: person
+    name: Alexander Soros
+    names:
+      zh: 亚历山大·索罗斯
+      en: Alexander Soros
+    gender: M
+    born: 1985-10-27
+    country:
+      - US
+    sectors:
+      - culture
+      - business
+    tier: 4
+    summary: American investor and philanthropist
+    ids:
+      wikidata: Q4720120
+    links:
+      - https://en.wikipedia.org/wiki/Alexander_Soros
+    tags:
+      - relative
+    attrs:
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4720120
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alexander-vindman
+    type: person
+    name: Alexander Vindman
+    names:
+      zh: 亚历山大·温德曼
+      en: Alexander Vindman
+    gender: M
+    born: 1975-06-06
+    country:
+      - US
+    sectors:
+      - culture
+      - military
+      - diplomacy
+    tier: 4
+    summary: retired United States Army officer, diplomat, and national security officer
+    ids:
+      wikidata: Q72758754
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E5%B1%B1%E5%A4%A7%C2%B7%E6%BA%AB%E5%BE%B7%E6%9B%BC
+      - https://en.wikipedia.org/wiki/Alex_Vindman
+    tags:
+      - relative
+    attrs:
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q72758754
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alexandra-kerry
+    type: person
+    name: Alexandra Kerry
+    names:
+      zh: 亞歷山德拉·克里
+      en: Alexandra Kerry
+    gender: F
+    born: 1973-09-05
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 5
+    summary: American film director and producer
+    ids:
+      wikidata: Q4720675
+    links:
+      - https://en.wikipedia.org/wiki/Alexandra_Kerry
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4720675
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alexandra-pelosi
+    type: person
+    name: Alexandra Pelosi
+    names:
+      zh: 亞歷珊卓·佩洛西
+      en: Alexandra Pelosi
+    gender: F
+    born: 1970-10-05
+    country:
+      - US
+    sectors:
+      - culture
+      - media
+    tier: 4
+    summary: American journalist (born 1970)
+    ids:
+      wikidata: Q2325554
+    links:
+      - https://en.wikipedia.org/wiki/Alexandra_Pelosi
+    tags:
+      - relative
+    attrs:
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2325554
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alexandra-von-furstenberg
+    type: person
+    name: Alexandra von Fürstenberg
+    names:
+      en: Alexandra von Fürstenberg
+    gender: F
+    born: 1972-10-03
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: American socialite
+    ids:
+      wikidata: Q4720790
+    links:
+      - https://en.wikipedia.org/wiki/Alexandra_von_F%C3%BCrstenberg
+    tags:
+      - relative
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4720790
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alexandria-ocasio-cortez
+    type: person
+    name: Alexandria Ocasio-Cortez
+    names:
+      zh: 亚历山德里娅·奥卡西奥-科尔特斯
+      en: Alexandria Ocasio-Cortez
+    gender: F
+    born: 1989-10-13
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q55223040
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%BE%B7%E9%87%8C%E5%A8%85%C2%B7%E5%A5%A5%E5%8D%A1%E8%A5%BF%E5%A5%A5-%E7%A7%91%E5%B0%94%E7%89%B9%E6%96%AF
+      - https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 91
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55223040
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+  - id: alexey-pajitnov
+    type: person
+    name: Alexey Pajitnov
+    names:
+      zh: 阿列克谢·帕基特诺夫
+      en: Alexey Pajitnov
+    gender: M
+    born: 1955-04-16
+    country:
+      - US
+      - RU
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: 俄罗斯计算机工程师
+    ids:
+      wikidata: Q92600
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2%C2%B7%E5%B8%95%E5%9F%BA%E7%89%B9%E8%AF%BA%E5%A4%AB
+      - https://en.wikipedia.org/wiki/Alexey_Pajitnov
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 46
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92600
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alexis-herman
+    type: person
+    name: Alexis Herman
+    names:
+      zh: 阿丽克西斯·M·赫尔曼
+      en: Alexis Herman
+    gender: F
+    born: 1947-07-16
+    died: 2025-04-25
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 2
+    summary: American politician and businesswoman (1947–2025)
+    ids:
+      wikidata: Q292340
+    links:
+      - https://en.wikipedia.org/wiki/Alexis_Herman
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q292340
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国劳工部长
+        org: united-states-department-of-labor
+        from: 1997-05-01
+        to: 2001-01-20
+      - title: Director of the Office of Public Liaison
+        org: office-of-public-liaison
+        from: 1993-01-20
+        to: 1997-02-07
+  - id: alfred-lawson-jr
+    type: person
+    name: Alfred Lawson, Jr.
+    names:
+      en: Alfred Lawson, Jr.
+    gender: M
+    born: 1948-09-21
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: U.S. Representative from Florida
+    ids:
+      wikidata: Q4723052
+    links:
+      - https://en.wikipedia.org/wiki/Al_Lawson
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4723052
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 佛羅里達州眾議員
+        org: florida-house-of-representatives
+        from: "1982"
+        to: "2000"
+      - title: 佛羅里達州參議員
+        org: florida-senate
+        from: "2000"
+        to: "2010"
+  - id: alfredo-guillermo-paulson
+    type: person
+    name: Alfredo Guillermo Paulson
+    names:
+      en: Alfredo Guillermo Paulson
+    gender: M
+    born: 1924-11-22
+    died: 2002-07-24
+    country: []
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q22912302
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22912302
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alice-albright
+    type: person
+    name: Alice Albright
+    names:
+      en: Alice Albright
+    gender: F
+    born: 1961-06-17
+    country:
+      - US
+    sectors:
+      - finance
+    tier: 5
+    summary: CEO of Millennium Challenge Corporation
+    ids:
+      wikidata: Q111351661
+    links:
+      - https://en.wikipedia.org/wiki/Alice_P._Albright
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111351661
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alice-king
+    type: person
+    name: Alice King
+    names:
+      zh: 金董建平
+      en: Alice King
+    gender: F
+    country: []
+    sectors:
+      - culture
+    tier: 5
+    summary: 香港艺术家、收藏家
+    ids:
+      wikidata: Q17074989
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%87%91%E8%91%A3%E5%BB%BA%E5%B9%B3
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17074989
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alice-rogoff
+    type: person
+    name: Alice Rogoff
+    names:
+      en: Alice Rogoff
+    gender: F
+    born: 1951-11-10
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 5
+    summary: American publisher, business executive, philanthropist, and arts patron
+    ids:
+      wikidata: Q16499830
+    links:
+      - https://en.wikipedia.org/wiki/Alice_Rogoff
+    tags:
+      - relative
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16499830
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alice-walton
+    type: person
+    name: Alice Walton
+    names:
+      zh: 爱丽丝·沃尔顿
+      en: Alice Walton
+    gender: F
+    born: 1949-10-02
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 世界上最富有的女性
+    netWorth:
+      usd: 44400000000
+    ids:
+      wikidata: Q289571
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%84%9B%E9%BA%97%E7%B5%B2%C2%B7%E6%B2%83%E7%88%BE%E9%A0%93
+      - https://en.wikipedia.org/wiki/Alice_Walton
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 40
+    sources:
+      - url: https://www.wikidata.org/wiki/Q289571
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alicia-menendez
+    type: person
+    name: Alicia Menendez
+    names:
+      zh: 艾丽西亚·梅南德斯
+      en: Alicia Menendez
+    gender: F
+    born: 1983-07-02
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 5
+    summary: American television commentator and writer
+    ids:
+      wikidata: Q4726284
+    links:
+      - https://en.wikipedia.org/wiki/Alicia_Menendez
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4726284
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alida-rockefeller-messinger
+    type: person
+    name: Alida Rockefeller Messinger
+    names:
+      zh: 阿利達·洛克菲勒·梅塞德
+      en: Alida Rockefeller Messinger
+    gender: F
+    born: "1948"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American philanthropist
+    ids:
+      wikidata: Q4726369
+    links:
+      - https://en.wikipedia.org/wiki/Alida_Rockefeller_Messinger
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4726369
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alisha-kramer
+    type: person
+    name: Alisha Kramer
+    names:
+      en: Alisha Kramer
+    gender: F
+    born: "1990"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American obstetrician-gynecologist
+    ids:
+      wikidata: Q110232772
+    links:
+      - https://en.wikipedia.org/wiki/Alisha_Kramer
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110232772
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: allan-zeman
+    type: person
+    name: 盛智文
+    names:
+      zh: 盛智文
+      en: Allan Zeman
+    gender: M
+    born: 1949-07-18
+    country:
+      - CA
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 香港太平紳士、海洋公園董事局主席、蘭桂坊集團主席
+    ids:
+      wikidata: Q2837795
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%9B%9B%E6%99%BA%E6%96%87
+      - https://en.wikipedia.org/wiki/Allan_Zeman
+    tags:
+      - cn-business
+      - party:New People's Party
+    attrs:
+      party: New People's Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2837795
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 太平紳士
+  - id: alma-adams
+    type: person
+    name: Alma Adams
+    names:
+      zh: 阿爾瑪·亞當斯
+      en: Alma Adams
+    gender: F
+    born: 1946-05-27
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+    tier: 4
+    summary: American politician in North Carolina (born 1946)
+    ids:
+      wikidata: Q4733597
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E7%91%AA%C2%B7%E4%BA%9E%E7%95%B6%E6%96%AF
+      - https://en.wikipedia.org/wiki/Alma_Adams
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4733597
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 成员
+        org: membership-organization
+        from: "1987"
+        to: "1994"
+      - title: 成员
+        org: membership-organization
+        from: "1984"
+        to: "1986"
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2014-11-04
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 北卡羅來納州眾議員
+        org: north-carolina-house-of-representatives
+        from: "1994"
+        to: "2014"
+  - id: alma-arrington-brown
+    type: person
+    name: Alma Arrington Brown
+    names:
+      en: Alma Arrington Brown
+    gender: F
+    born: 1940-02-14
+    died: 2016-04-03
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: former senior vice president of Chevy Chase
+    ids:
+      wikidata: Q124623534
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124623534
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alma-powell
+    type: person
+    name: Alma Powell
+    names:
+      zh: 阿尔玛·鲍威尔
+      en: Alma Powell
+    gender: F
+    born: 1937-10-27
+    died: 2024-07-28
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American audiologist (1937-2024)
+    ids:
+      wikidata: Q4733589
+    links:
+      - https://en.wikipedia.org/wiki/Alma_Powell
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4733589
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: almina-burdick-gygax
+    type: person
+    name: Almina Burdick Gygax
+    names:
+      en: Almina Burdick Gygax
+    gender: F
+    born: 1907-05-06
+    died: 1980-10-20
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: Mother of Gary Gygax
+    ids:
+      wikidata: Q14565179
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14565179
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alphonse-gravel
+    type: person
+    name: Alphonse Gravel
+    names:
+      zh: 阿方斯·格拉韦尔
+      en: Alphonse Gravel
+    gender: M
+    born: 1895-09-01
+    died: 1966-10-28
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: (1895-1966)
+    ids:
+      wikidata: Q97104572
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97104572
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alphonso-jackson
+    type: person
+    name: Alphonso Jackson
+    names:
+      zh: 阿方索·杰克逊
+      en: Alphonso Jackson
+    gender: M
+    born: 1945-09-09
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: 13th United States Secretary of Housing and Urban Development
+    ids:
+      wikidata: Q324505
+    links:
+      - https://en.wikipedia.org/wiki/Alphonso_Jackson
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q324505
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国住房和城市发展部部长
+        org: united-states-department-of-housing-and-urban-development
+        from: 2004-08-01
+        to: 2008-04-18
+      - title: 美国住房和城市发展部部长
+        org: united-states-department-of-housing-and-urban-development
+        from: 2003-11-01
+        to: 2004-08-01
+      - title: United States Deputy Secretary of Housing and Urban Development
+        from: 2001-05-24
+        to: 2004-08-31
+  - id: althea-flynt
+    type: person
+    name: Althea Flynt
+    names:
+      zh: 阿尔西尔·弗莱恩特
+      en: Althea Flynt
+    gender: F
+    born: 1953-11-06
+    died: 1987-06-27
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Magazine publisher (1953–1987)
+    ids:
+      wikidata: Q436107
+    links:
+      - https://en.wikipedia.org/wiki/Althea_Flynt
+    tags:
+      - relative
+    attrs:
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q436107
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alvin-wiederspahn
+    type: person
+    name: Alvin Wiederspahn
+    names:
+      zh: 阿爾文·維德斯帕恩
+      en: Alvin Wiederspahn
+    gender: M
+    born: 1949-01-18
+    died: 2014-10-24
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q4738248
+    links:
+      - https://en.wikipedia.org/wiki/Alvin_Wiederspahn
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4738248
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 懷俄明州眾議員
+        org: wyoming-house-of-representatives
+      - title: 懷俄明州參議員
+        org: wyoming-senate
+  - id: amanda-lucas
+    type: person
+    name: Amanda Lucas
+    names:
+      en: Amanda Lucas
+    gender: F
+    born: 1981-07-01
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 5
+    summary: American martial artist
+    ids:
+      wikidata: Q4739681
+    links:
+      - https://en.wikipedia.org/wiki/Amanda_Lucas_(fighter)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4739681
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amar-bose
+    type: person
+    name: Amar Bose
+    names:
+      zh: 阿马尔·博斯
+      en: Amar Bose
+    gender: M
+    born: 1929-11-02
+    died: 2013-07-12
+    country:
+      - US
+      - IN
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: Indian American academic entrepreneur (1929–2013)
+    ids:
+      wikidata: Q454696
+    links:
+      - https://en.wikipedia.org/wiki/Amar_Bose
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q454696
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amber-heard
+    type: person
+    name: Amber Heard
+    names:
+      zh: 安伯·赫德
+      en: Amber Heard
+    gender: F
+    born: 1986-04-22
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 3
+    summary: 美国女演员
+    ids:
+      wikidata: Q229166
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E6%9F%8F%C2%B7%E8%B5%AB%E5%BE%B7
+      - https://en.wikipedia.org/wiki/Amber_Heard
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 84
+    sources:
+      - url: https://www.wikidata.org/wiki/Q229166
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amelia-warren-tyagi
+    type: person
+    name: Amelia Warren Tyagi
+    names:
+      en: Amelia Warren Tyagi
+    gender: F
+    born: 1971-09-02
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American business consultant (1971-)
+    ids:
+      wikidata: Q22673677
+    links:
+      - https://en.wikipedia.org/wiki/Amelia_Warren_Tyagi
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22673677
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ami-bera
+    type: person
+    name: Ami Bera
+    names:
+      zh: 阿米·貝拉
+      en: Ami Bera
+    gender: M
+    born: 1965-03-02
+    country:
+      - US
+      - IN
+    sectors:
+      - politics
+      - academia
+    tier: 4
+    summary: American physician and politician
+    ids:
+      wikidata: Q3389105
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E7%B1%B3%C2%B7%E8%B4%9D%E6%8B%89
+      - https://en.wikipedia.org/wiki/Ami_Bera
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3389105
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席醫療官
+        from: "1999"
+        to: "2004"
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: associate dean
+        from: "2004"
+        to: "2007"
+  - id: ammar-campa-najjar
+    type: person
+    name: Ammar Campa-Najjar
+    names:
+      en: Ammar Campa-Najjar
+    gender: M
+    born: "1989"
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q49001794
+    links:
+      - https://en.wikipedia.org/wiki/Ammar_Campa-Najjar
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49001794
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amos-hostetter-jr
+    type: person
+    name: Amos Hostetter, Jr.
+    names:
+      en: Amos Hostetter, Jr.
+    gender: M
+    born: 1937-01-12
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美國商人
+    netWorth:
+      usd: 3900000000
+    ids:
+      wikidata: Q4747891
+    links:
+      - https://en.wikipedia.org/wiki/Amos_Hostetter_Jr.
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4747891
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amy-biden
+    type: person
+    name: Amy Biden
+    names:
+      zh: 艾米·拜登
+      en: Amy Biden
+    gender: F
+    born: 1971-11-08
+    died: 1972-12-18
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: daughter of Joe Biden (1971-1972)
+    ids:
+      wikidata: Q98854696
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E7%B1%B3%C2%B7%E6%8B%9C%E7%99%BB
+      - https://en.wikipedia.org/wiki/Amy_Biden
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q98854696
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amy-coney-barrett
+    type: person
+    name: Amy Coney Barrett
+    names:
+      zh: 埃米·科尼·巴雷特
+      en: Amy Coney Barrett
+    gender: F
+    born: 1972-01-28
+    country:
+      - US
+    sectors:
+      - judiciary
+      - academia
+    tier: 2
+    summary: 美國最高法院大法官
+    ids:
+      wikidata: Q29863844
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E7%B1%B3%C2%B7%E7%A7%91%E5%B0%BC%C2%B7%E5%B7%B4%E9%9B%B7%E7%89%B9
+      - https://en.wikipedia.org/wiki/Amy_Coney_Barrett
+    tags:
+      - us-judiciary
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 51
+    sources:
+      - url: https://www.wikidata.org/wiki/Q29863844
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國最高法院大法官
+        org: us-supreme-court
+        from: 2020-10-26
+      - title: Judge of the United States Court of Appeals for the Seventh Circuit
+        from: 2017-11-02
+        to: 2020-10-26
+  - id: amy-irving
+    type: person
+    name: Amy Irving
+    names:
+      zh: 艾米·欧文
+      en: Amy Irving
+    gender: F
+    born: 1953-09-10
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 3
+    summary: 美国女演员
+    ids:
+      wikidata: Q235020
+    links:
+      - https://en.wikipedia.org/wiki/Amy_Irving
+    tags:
+      - relative
+    attrs:
+      sitelinks: 48
+    sources:
+      - url: https://www.wikidata.org/wiki/Q235020
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amy-klobuchar
+    type: person
+    name: Amy Klobuchar
+    names:
+      zh: 艾米·克罗布彻
+      en: Amy Klobuchar
+    gender: F
+    born: 1960-05-25
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - judiciary
+    tier: 3
+    summary: 美国参议员
+    ids:
+      wikidata: Q22237
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E7%B1%B3%C2%B7%E5%85%8B%E6%B4%9B%E5%B8%83%E6%9F%A5%E5%B0%94
+      - https://en.wikipedia.org/wiki/Amy_Klobuchar
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 48
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22237
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2011-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-03
+      - title: 縣法官
+        from: 1999-01-03
+        to: 2007-01-03
+  - id: amy-kurzweil
+    type: person
+    name: Amy Kurzweil
+    names:
+      en: Amy Kurzweil
+    gender: F
+    born: "1986"
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 5
+    summary: American cartoonist
+    ids:
+      wikidata: Q117037605
+    links:
+      - https://en.wikipedia.org/wiki/Amy_Kurzweil
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q117037605
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amy-pascal
+    type: person
+    name: Amy Pascal
+    names:
+      zh: 艾米·帕斯卡爾
+      en: Amy Pascal
+    gender: F
+    born: 1958-03-25
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American film producer and business executive (born 1958)
+    ids:
+      wikidata: Q481925
+    links:
+      - https://en.wikipedia.org/wiki/Amy_Pascal
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q481925
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amy-rule
+    type: person
+    name: Amy Rule
+    names:
+      en: Amy Rule
+    gender: F
+    born: 1957-06-30
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: Wife of former Chicago mayor Rahm Emanuel
+    ids:
+      wikidata: Q118110395
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q118110395
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amy-schumer
+    type: person
+    name: Amy Schumer
+    names:
+      zh: 艾米·舒默
+      en: Amy Schumer
+    gender: F
+    born: 1981-06-01
+    country:
+      - US
+    sectors:
+      - culture
+      - media
+    tier: 3
+    summary: American comedian and actress (born 1981)
+    ids:
+      wikidata: Q4749380
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E7%B1%B3%C2%B7%E8%88%92%E9%BB%98
+      - https://en.wikipedia.org/wiki/Amy_Schumer
+    tags:
+      - relative
+    attrs:
+      sitelinks: 46
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4749380
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: an-byeong-hun
+    type: person
+    name: An Byeong-hun
+    names:
+      zh: 安秉勋
+      en: An Byeong-hun
+    gender: M
+    born: 1991-09-17
+    country:
+      - KR
+    sectors:
+      - family
+    tier: 5
+    summary: 韩国高尔夫运动员
+    ids:
+      wikidata: Q4749844
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E7%A7%89%E5%8B%8B
+      - https://en.wikipedia.org/wiki/An_Byeong-hun
+    tags:
+      - relative
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4749844
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: an-wei
+    type: person
+    name: 安伟
+    names:
+      zh: 安伟
+      en: An Wei
+    gender: M
+    born: 1966-05-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共河南省委常委
+    ids:
+      wikidata: Q28409728
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E4%BC%9F_(%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28409728
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: analilia-mejia
+    type: person
+    name: Analilia Mejia
+    names:
+      en: Analilia Mejia
+    gender: F
+    born: 1977-08-19
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American activist and politician
+    ids:
+      wikidata: Q138142530
+    links:
+      - https://en.wikipedia.org/wiki/Analilia_Mejia
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q138142530
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2026-04-20
+  - id: anca-faur
+    type: person
+    name: Anca Faur
+    names:
+      en: Anca Faur
+    gender: F
+    born: 1959-05-14
+    died: 2025-10-28
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: MD & PhD, vice-president of Buzz Aldrin Ventures
+    ids:
+      wikidata: Q116276904
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116276904
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 理事
+        org: board-of-directors
+  - id: andre-carson
+    type: person
+    name: André Carson
+    names:
+      zh: 安德烈·卡尔森
+      en: André Carson
+    gender: M
+    born: 1974-10-16
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American politician (born 1974)
+    ids:
+      wikidata: Q517649
+    links:
+      - https://en.wikipedia.org/wiki/Andr%C3%A9_Carson
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q517649
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 成员
+        org: membership-organization
+        from: "2007"
+        to: "2008"
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2008-03-13
+        to: 2009-01-03
+  - id: andrea-abrams
+    type: person
+    name: Andrea Abrams
+    names:
+      en: Andrea Abrams
+    gender: F
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: American anthropologist
+    ids:
+      wikidata: Q55642881
+    links:
+      - https://en.wikipedia.org/wiki/Andrea_Abrams
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55642881
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: andrea-catsimatidis
+    type: person
+    name: Andrea Catsimatidis
+    names:
+      en: Andrea Catsimatidis
+    gender: F
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q22639329
+    links:
+      - https://en.wikipedia.org/wiki/Andrea_Catsimatidis
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22639329
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: andrea-mitchell
+    type: person
+    name: Andrea Mitchell
+    names:
+      zh: 安德烈亚·米切尔
+      en: Andrea Mitchell
+    gender: F
+    born: 1946-10-30
+    country:
+      - US
+    sectors:
+      - media
+    tier: 4
+    summary: American television anchor
+    ids:
+      wikidata: Q494466
+    links:
+      - https://en.wikipedia.org/wiki/Andrea_Mitchell
+    tags:
+      - relative
+    attrs:
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q494466
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: andrea-salinas
+    type: person
+    name: Andrea Salinas
+    names:
+      zh: 安德烈娅·萨利纳斯
+      en: Andrea Salinas
+    gender: F
+    born: 1969-12-06
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: politician
+    ids:
+      wikidata: Q39791512
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E7%83%88%E5%A8%85%C2%B7%E8%90%A8%E5%88%A9%E7%BA%B3%E6%96%AF
+      - https://en.wikipedia.org/wiki/Andrea_Salinas
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q39791512
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+      - title: 俄勒岡州眾議員
+        org: oregon-house-of-representatives
+  - id: andrea-wynn
+    type: person
+    name: Andrea Wynn
+    names:
+      en: Andrea Wynn
+    gender: F
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q24049288
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24049288
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: andrew-beal
+    type: person
+    name: Andrew Beal
+    names:
+      zh: 安德魯·比爾
+      en: Andrew Beal
+    gender: M
+    born: 1952-11-11
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 3
+    summary: American banker, businessman, investor, and amateur mathematician
+    netWorth:
+      usd: 12000000000
+    ids:
+      wikidata: Q503681
+    links:
+      - https://en.wikipedia.org/wiki/Andrew_Beal
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q503681
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: andrew-card
+    type: person
+    name: Andrew Card
+    names:
+      zh: 安德鲁·希尔·卡尔德
+      en: Andrew Card
+    gender: M
+    born: 1947-05-10
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: U.S. Secretary of Transportation, White House Chief of Staff
+    ids:
+      wikidata: Q504029
+    links:
+      - https://en.wikipedia.org/wiki/Andrew_Card
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q504029
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 白宮幕僚長
+        org: executive-office-of-the-president-of-the-united-states
+        from: 2001-01-20
+        to: 2006-04-14
+      - title: 美国运输部长
+        org: united-states-department-of-transportation
+        from: 1992-02-24
+        to: 1993-01-20
+      - title: 白宮副幕僚長
+        from: 1989-01-20
+        to: 1992-02-03
+      - title: 麻薩諸塞州眾議員
+        org: massachusetts-house-of-representatives
+      - title: 麻薩諸塞州眾議員
+        org: massachusetts-house-of-representatives
+        from: "1979"
+        to: "1983"
+  - id: andrew-cherng
+    type: person
+    name: 程正昌
+    names:
+      zh: 程正昌
+      en: Andrew Cherng
+    gender: M
+    born: "1947"
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: American entrepreneur
+    netWorth:
+      usd: 7700000000
+    ids:
+      wikidata: Q4756595
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%A8%8B%E6%AD%A3%E6%98%8C
+      - https://en.wikipedia.org/wiki/Andrew_Cherng
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4756595
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: andrew-clyde
+    type: person
+    name: Andrew Clyde
+    names:
+      zh: 安德魯·克萊德
+      en: Andrew Clyde
+    gender: M
+    born: 1963-11-22
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q102277679
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E9%AD%AF%C2%B7%E5%85%8B%E8%90%8A%E5%BE%B7
+      - https://en.wikipedia.org/wiki/Andrew_Clyde
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q102277679
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: andrew-cray
+    type: person
+    name: Andrew Cray
+    names:
+      en: Andrew Cray
+    gender: M
+    born: 1986-06-11
+    died: 2014-08-28
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American LGBT rights activist and political figure
+    ids:
+      wikidata: Q47507596
+    links:
+      - https://en.wikipedia.org/wiki/Andrew_Cray
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47507596
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: andrew-cuomo
+    type: person
+    name: Andrew Cuomo
+    names:
+      zh: 安德鲁·科莫
+      en: Andrew Cuomo
+    gender: M
+    born: 1957-12-06
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: 2011年至2021年纽约州州长（Andrew Cuomo）
+    ids:
+      wikidata: Q11673
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E9%B2%81%C2%B7%E7%A7%91%E8%8E%AB
+      - https://en.wikipedia.org/wiki/Andrew_Cuomo
+    tags:
+      - us-executive
+      - us-governors
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 54
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11673
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 纽约州州长
+        org: state-of-new-york
+        from: "2011"
+        to: 2021-08-23
+      - title: 美国住房和城市发展部部长
+        org: united-states-department-of-housing-and-urban-development
+        from: 1997-01-29
+        to: 2001-01-20
+      - title: 纽约州司法检察长
+        from: "2007"
+        to: 2010-12-31
+  - id: andrew-garbarino
+    type: person
+    name: Andrew Garbarino
+    names:
+      zh: 安德鲁·加巴里诺
+      en: Andrew Garbarino
+    gender: M
+    born: 1984-09-27
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1984)
+    ids:
+      wikidata: Q21257859
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E9%AD%AF%C2%B7%E5%8A%A0%E5%B7%B4%E9%87%8C%E8%AB%BE
+      - https://en.wikipedia.org/wiki/Andrew_Garbarino
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21257859
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 纽约州众议院议员
+        org: new-york-state-assembly
+        from: "2013"
+        to: 2020-12-31
+  - id: andrew-getty
+    type: person
+    name: Andrew Getty
+    names:
+      en: Andrew Getty
+    gender: M
+    born: 1967-07-01
+    died: 2015-03-31
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American businessman (1967-2015)
+    ids:
+      wikidata: Q19750971
+    links:
+      - https://en.wikipedia.org/wiki/Andrew_Getty
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19750971
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: andrew-giuliani
+    type: person
+    name: Andrew Giuliani
+    names:
+      zh: 安德鲁·朱利安尼
+      en: Andrew Giuliani
+    gender: M
+    born: 1986-01-30
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: Public Liaison Assistant to and regular golfing partner of President Donald Trump
+    ids:
+      wikidata: Q29588784
+    links:
+      - https://en.wikipedia.org/wiki/Andrew_Giuliani
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q29588784
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: andrew-grove
+    type: person
+    name: Andrew Grove
+    names:
+      zh: 安迪·葛洛夫
+      en: Andrew Grove
+    gender: M
+    born: 1936-09-02
+    died: 2016-03-21
+    country:
+      - HU
+      - US
+    sectors:
+      - business
+      - academia
+      - culture
+    tier: 4
+    summary: 英特尔公司联合创始人（1936－2016）
+    ids:
+      wikidata: Q432929
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E8%BF%AA%C2%B7%E8%91%9B%E6%B4%9B%E5%A4%AB
+      - https://en.wikipedia.org/wiki/Andrew_Grove
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 38
+    sources:
+      - url: https://www.wikidata.org/wiki/Q432929
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 会长
+        org: organization
+        from: "1979"
+        to: "1987"
+      - title: 董事長
+        org: board-of-directors
+        from: "1997"
+        to: "2004"
+      - title: président-directeur général
+        from: "1987"
+        to: "1997"
+  - id: andrew-hickenlooper
+    type: person
+    name: Andrew Hickenlooper
+    names:
+      en: Andrew Hickenlooper
+    gender: M
+    born: 1837-08-10
+    died: 1904-05-12
+    country:
+      - US
+    sectors:
+      - military
+    tier: 5
+    summary: Union Army General
+    ids:
+      wikidata: Q4757299
+    links:
+      - https://en.wikipedia.org/wiki/Andrew_Hickenlooper
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4757299
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 俄亥俄州副州長
+        from: "1880"
+        to: "1882"
+  - id: andrew-madoff
+    type: person
+    name: Andrew Madoff
+    names:
+      en: Andrew Madoff
+    gender: M
+    born: 1966-04-08
+    died: 2014-09-03
+    country:
+      - US
+    sectors:
+      - finance
+    tier: 5
+    summary: 美國商人
+    ids:
+      wikidata: Q44443916
+    links:
+      - https://en.wikipedia.org/wiki/Andrew_Madoff
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44443916
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: andrew-martin
+    type: person
+    name: Andrew Martin
+    names:
+      zh: 安德魯·馬丁
+      en: Andrew Martin
+    gender: M
+    born: 1975-03-17
+    died: 2009-03-13
+    country:
+      - CA
+    sectors:
+      - family
+    tier: 4
+    summary: Canadian professional wrestler (1975-2009)
+    ids:
+      wikidata: Q467402
+    links:
+      - https://en.wikipedia.org/wiki/Test_(wrestler)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q467402
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: andrew-r-wheeler
+    type: person
+    name: Andrew R. Wheeler
+    names:
+      zh: 安德魯·R·惠勒
+      en: Andrew R. Wheeler
+    gender: M
+    born: 1964-12-23
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+      - business
+    tier: 2
+    summary: 第15任美国国家环境保护局局长
+    ids:
+      wikidata: Q37936461
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E9%B2%81%C2%B7R%C2%B7%E6%83%A0%E5%8B%92
+      - https://en.wikipedia.org/wiki/Andrew_R._Wheeler
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q37936461
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 國家環境保護局局長
+        org: united-states-environmental-protection-agency
+        from: 2018-07-09
+        to: 2019-02-28
+      - title: 國家環境保護局局長
+        org: united-states-environmental-protection-agency
+        from: 2019-02-28
+        to: 2021-01-20
+  - id: andrew-y-ng
+    type: person
+    name: Andrew Y. Ng
+    names:
+      zh: 吴恩达
+      en: Andrew Y. Ng
+    gender: M
+    born: 1976-04-18
+    country:
+      - US
+      - GB
+    sectors:
+      - business
+      - tech
+      - academia
+    tier: 4
+    summary: 美籍华裔人工智能科学家
+    ids:
+      wikidata: Q2846695
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%B4%E6%81%A9%E8%BE%BE
+      - https://en.wikipedia.org/wiki/Andrew_Ng
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 35
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2846695
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: andrew-yang
+    type: person
+    name: Andrew Yang
+    names:
+      zh: 楊安澤
+      en: Andrew Yang
+    gender: M
+    born: 1975-01-13
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美国企业家
+    ids:
+      wikidata: Q28723576
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%AE%89%E6%BE%A4
+      - https://en.wikipedia.org/wiki/Andrew_Yang
+    tags:
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 41
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28723576
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: andy-barr
+    type: person
+    name: Andy Barr
+    names:
+      zh: 安迪·巴爾
+      en: Andy Barr
+    gender: M
+    born: 1973-07-24
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+      - academia
+    tier: 4
+    summary: U.S. Representative from Kentucky
+    ids:
+      wikidata: Q3828645
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E8%BF%AA%C2%B7%E5%B7%B4%E7%88%BE
+      - https://en.wikipedia.org/wiki/Andy_Barr
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3828645
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: andy-beshear
+    type: person
+    name: Andy Beshear
+    names:
+      zh: 安迪·贝希尔
+      en: Andy Beshear
+    gender: M
+    born: 1977-11-29
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: 美國政治家
+    ids:
+      wikidata: Q21572825
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E8%BF%AA%C2%B7%E8%B2%9D%E5%B8%8C%E7%88%BE
+      - https://en.wikipedia.org/wiki/Andy_Beshear
+    tags:
+      - us-governors
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 33
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21572825
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 肯塔基州州長
+        org: commonwealth-of-kentucky
+        from: 2019-12-10
+      - title: 肯塔基州检察长
+        org: kentucky-office-of-the-attorney-general
+        from: 2016-01-04
+        to: 2019-12-10
+  - id: andy-biggs
+    type: person
+    name: Andy Biggs
+    names:
+      zh: 安迪·比格斯
+      en: Andy Biggs
+    gender: M
+    born: 1958-11-07
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 美国政治家（生于1958）
+    ids:
+      wikidata: Q16199304
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E8%BF%AA%C2%B7%E6%AF%94%E6%A0%BC%E6%96%AF
+      - https://en.wikipedia.org/wiki/Andy_Biggs
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16199304
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 亞利桑那州眾議員
+        org: arizona-house-of-representatives
+        from: "2003"
+        to: "2011"
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 亞利桑那州參議員
+        org: arizona-senate
+        from: "2011"
+        to: "2016"
+  - id: andy-harris
+    type: person
+    name: Andy Harris
+    names:
+      zh: 安迪·哈里斯
+      en: Andy Harris
+    gender: M
+    born: 1957-01-25
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+    tier: 4
+    summary: U.S. Representative from Maryland
+    ids:
+      wikidata: Q506639
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E8%BF%AA%C2%B7%E5%93%88%E9%87%8C%E6%96%AF
+      - https://en.wikipedia.org/wiki/Andy_Harris_(politician)
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q506639
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 馬里蘭州參議員
+        org: maryland-senate
+        from: "1998"
+        to: "2010"
+  - id: andy-kim
+    type: person
+    name: Andy Kim
+    names:
+      zh: 安迪·金
+      en: Andy Kim
+    gender: M
+    born: 1982-07-12
+    country:
+      - US
+    sectors:
+      - politics
+      - diplomacy
+    tier: 3
+    summary: 美国政治人物
+    ids:
+      wikidata: Q55639180
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E8%BF%AA%C2%B7%E9%87%91_(%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)
+      - https://en.wikipedia.org/wiki/Andy_Kim
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55639180
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2024-12-08
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2024-12-08
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: andy-levin
+    type: person
+    name: Andy Levin
+    names:
+      zh: 安迪·列汶
+      en: Andy Levin
+    gender: M
+    born: 1960-08-10
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+      - business
+    tier: 4
+    summary: American politician (born 1960)
+    ids:
+      wikidata: Q4760938
+    links:
+      - https://en.wikipedia.org/wiki/Andy_Levin
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4760938
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: andy-ogles
+    type: person
+    name: Andy Ogles
+    names:
+      zh: 安迪·奥格斯
+      en: Andy Ogles
+    gender: M
+    born: 1971-06-18
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1971)
+    ids:
+      wikidata: Q111623114
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E8%BF%AA%C2%B7%E5%A5%A5%E6%A0%BC%E6%96%AF
+      - https://en.wikipedia.org/wiki/Andy_Ogles
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111623114
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: andy-rubin
+    type: person
+    name: Andy Rubin
+    names:
+      zh: 安迪·鲁宾
+      en: Andy Rubin
+    gender: M
+    born: 1963-03-13
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: 领导开发Android、“Android之父”
+    ids:
+      wikidata: Q49826
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E8%BF%AA%C2%B7%E9%B2%81%E5%AE%BE
+      - https://en.wikipedia.org/wiki/Andy_Rubin
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 33
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49826
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: andy-samberg
+    type: person
+    name: Andy Samberg
+    names:
+      zh: 安迪·萨姆伯格
+      en: Andy Samberg
+    gender: M
+    born: 1978-08-18
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 3
+    summary: American comedian and actor (born 1978)
+    ids:
+      wikidata: Q314640
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E8%BF%AA%C2%B7%E8%90%A8%E5%A7%86%E4%BC%AF%E6%A0%BC
+      - https://en.wikipedia.org/wiki/Andy_Samberg
+    tags:
+      - relative
+    attrs:
+      sitelinks: 52
+    sources:
+      - url: https://www.wikidata.org/wiki/Q314640
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: andy-spade
+    type: person
+    name: Andy Spade
+    names:
+      zh: 安迪·斯派德
+      en: Andy Spade
+    gender: M
+    born: 1962-12-24
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: 美国企业家
+    ids:
+      wikidata: Q4761335
+    links:
+      - https://en.wikipedia.org/wiki/Andy_Spade
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4761335
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: angela-alsobrooks
+    type: person
+    name: Angela Alsobrooks
+    names:
+      zh: 安杰拉·奥索布鲁克斯
+      en: Angela Alsobrooks
+    gender: F
+    born: 1971-02-23
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: 美国马里兰州政治人物
+    ids:
+      wikidata: Q58755148
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E6%9D%B0%E6%8B%89%C2%B7%E5%A5%A5%E7%B4%A2%E5%B8%83%E9%B2%81%E5%85%8B%E6%96%AF
+      - https://en.wikipedia.org/wiki/Angela_Alsobrooks
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 23
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58755148
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-03
+      - title: 州檢察官
+        from: 2011-01-03
+        to: 2018-12-03
+      - title: Prince George's County Executive
+        org: prince-george-s-county-government
+        from: 2018-12-03
+        to: 2024-12-02
+  - id: angela-chao
+    type: person
+    name: Angela Chao
+    names:
+      zh: 趙安吉
+      en: Angela Chao
+    gender: F
+    born: 1973-03-04
+    died: 2024-02-11
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: 原福茂集團董事長兼執行長
+    ids:
+      wikidata: Q107323263
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B5%B5%E5%AE%89%E5%90%89
+      - https://en.wikipedia.org/wiki/Angela_Chao
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q107323263
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: angela-ducey
+    type: person
+    name: Angela Ducey
+    names:
+      zh: 安吉拉·杜西
+      en: Angela Ducey
+    gender: F
+    born: 1965-12-05
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American businesswoman and philanthropist
+    ids:
+      wikidata: Q26705101
+    links:
+      - https://en.wikipedia.org/wiki/Angela_Ducey
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q26705101
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: angela-gui
+    type: person
+    name: Angela Gui
+    names:
+      en: Angela Gui
+    gender: F
+    born: 1994-02-23
+    country:
+      - SE
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q30564772
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30564772
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: angela-leong
+    type: person
+    name: Angela Leong
+    names:
+      zh: 梁安琪
+      en: Angela Leong
+    gender: F
+    born: 1961-03-23
+    country: []
+    sectors:
+      - business
+      - politics
+    tier: 5
+    summary: 澳門從政者
+    ids:
+      wikidata: Q6526282
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A2%81%E5%AE%89%E7%90%AA_(%E6%BE%B3%E9%96%80)
+      - https://en.wikipedia.org/wiki/Leong_On_Kei
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6526282
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 立法會議員
+        org: legislative-assembly-of-macau
+        from: 2017-10-16
+        to: 2021-10-15
+      - title: 立法會議員
+        org: legislative-assembly-of-macau
+        from: 2025-10-16
+      - title: 立法會議員
+        org: legislative-assembly-of-macau
+        from: 2021-10-16
+        to: 2025-10-15
+  - id: angie-craig
+    type: person
+    name: Angie Craig
+    names:
+      zh: 安琪·克雷格
+      en: Angie Craig
+    gender: F
+    born: 1972-02-14
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q58324174
+    links:
+      - https://en.wikipedia.org/wiki/Angie_Craig
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58324174
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+  - id: angus-king
+    type: person
+    name: Angus King
+    names:
+      zh: 安格斯·金
+      en: Angus King
+    gender: M
+    born: 1944-03-31
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+      - business
+    tier: 3
+    summary: 美国政治人物
+    ids:
+      wikidata: Q544464
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E6%A0%BC%E6%96%AF%C2%B7%E9%87%91
+      - https://en.wikipedia.org/wiki/Angus_King
+    tags:
+      - us-congress
+      - party:independent politician
+    attrs:
+      party: independent politician
+      sitelinks: 39
+    sources:
+      - url: https://www.wikidata.org/wiki/Q544464
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 緬因州州長
+        org: state-of-maine
+        from: 1995-01-05
+        to: 2003-01-08
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: angus-king-iii
+    type: person
+    name: Angus King III
+    names:
+      en: Angus King III
+    gender: M
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman and political candidate
+    ids:
+      wikidata: Q135111075
+    links:
+      - https://en.wikipedia.org/wiki/Angus_King_III
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q135111075
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anita-summers
+    type: person
+    name: Anita Summers
+    names:
+      en: Anita Summers
+    gender: F
+    born: 1925-09-09
+    died: 2023-10-22
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 5
+    summary: American economist
+    ids:
+      wikidata: Q4765646
+    links:
+      - https://en.wikipedia.org/wiki/Anita_Summers
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4765646
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anita-thigpen-perry
+    type: person
+    name: Anita Thigpen Perry
+    names:
+      zh: 安妮塔·西格彭·佩里
+      en: Anita Thigpen Perry
+    gender: F
+    born: 1952-05-05
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: First Lady of Texas (2000-15)
+    ids:
+      wikidata: Q4765651
+    links:
+      - https://en.wikipedia.org/wiki/Anita_Thigpen_Perry
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4765651
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anjali-pichai
+    type: person
+    name: Anjali Pichai
+    names:
+      zh: 安佳丽·皮查伊
+      en: Anjali Pichai
+    gender: F
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American chemical engineer
+    ids:
+      wikidata: Q22063678
+    links:
+      - https://en.wikipedia.org/wiki/Anjali_Pichai
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22063678
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ann-altman
+    type: person
+    name: Ann Altman
+    names:
+      en: Ann Altman
+    gender: F
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 5
+    summary: poet and stand-up comic
+    ids:
+      wikidata: Q136430980
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136430980
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ann-day
+    type: person
+    name: Ann Day
+    names:
+      zh: 安·戴
+      en: Ann Day
+    gender: F
+    born: 1938-08-10
+    died: 2016-05-07
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: politician
+    ids:
+      wikidata: Q24039859
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%C2%B7%E6%88%B4
+      - https://en.wikipedia.org/wiki/Ann_Day
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24039859
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 亞利桑那州參議員
+        org: arizona-senate
+  - id: ann-getty
+    type: person
+    name: Ann Getty
+    names:
+      en: Ann Getty
+    gender: F
+    born: 1941-03-11
+    died: 2020-09-14
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American publisher and philanthropist
+    ids:
+      wikidata: Q99476909
+    links:
+      - https://en.wikipedia.org/wiki/Ann_Getty
+    tags:
+      - relative
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q99476909
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ann-kirkpatrick
+    type: person
+    name: Ann Kirkpatrick
+    names:
+      zh: 安·柯克帕特里克
+      en: Ann Kirkpatrick
+    gender: F
+    born: 1950-03-24
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: former U.S. Representative from Arizona (born 1950)
+    ids:
+      wikidata: Q558460
+    links:
+      - https://en.wikipedia.org/wiki/Ann_Kirkpatrick
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q558460
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 副职
+        to: "1980"
+      - title: 市律師
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 亞利桑那州眾議員
+        org: arizona-house-of-representatives
+        from: "2005"
+        to: "2007"
+  - id: ann-lamont
+    type: person
+    name: Ann Lamont
+    names:
+      zh: 安·拉蒙特
+      en: Ann Lamont
+    gender: F
+    born: 1957-01-11
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: 美国女商人
+    ids:
+      wikidata: Q60493791
+    links:
+      - https://en.wikipedia.org/wiki/Ann_Lamont
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60493791
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ann-mclane-kuster
+    type: person
+    name: Ann McLane Kuster
+    names:
+      zh: 安·麦克莱恩·库斯特
+      en: Ann McLane Kuster
+    gender: F
+    born: 1956-09-05
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: U.S. Representative from New Hampshire
+    ids:
+      wikidata: Q3917208
+    links:
+      - https://en.wikipedia.org/wiki/Annie_Kuster
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3917208
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国国会职员
+        from: "1978"
+        to: "1981"
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: ann-mclaughlin-korologos
+    type: person
+    name: Ann McLaughlin Korologos
+    names:
+      zh: 安妮·D·麦克老林
+      en: Ann McLaughlin Korologos
+    gender: F
+    born: 1941-11-16
+    died: 2023-01-30
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 2
+    summary: 美國政治人物
+    ids:
+      wikidata: Q433650
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E5%A6%AE%C2%B7%E9%BA%A6%E5%85%8B%E5%8B%9E%E6%9E%97
+      - https://en.wikipedia.org/wiki/Ann_McLaughlin_Korologos
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q433650
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国劳工部长
+        org: united-states-department-of-labor
+        from: 1987-12-14
+        to: 1989-01-20
+  - id: ann-romney
+    type: person
+    name: Ann Romney
+    names:
+      zh: 安·羅姆尼
+      en: Ann Romney
+    gender: F
+    born: 1949-04-16
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: wife of Mitt Romney, First Lady of Massachusetts
+    ids:
+      wikidata: Q1100946
+    links:
+      - https://en.wikipedia.org/wiki/Ann_Romney
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1100946
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ann-rork-light
+    type: person
+    name: Ann Rork Light
+    names:
+      en: Ann Rork Light
+    gender: F
+    born: 1908-06-12
+    died: 1988-01-23
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 5
+    summary: American actress (1908 – 1988)
+    ids:
+      wikidata: Q20657718
+    links:
+      - https://en.wikipedia.org/wiki/Ann_Rork_Light
+    tags:
+      - relative
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20657718
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ann-schmeltz-bowers
+    type: person
+    name: Ann Schmeltz Bowers
+    names:
+      en: Ann Schmeltz Bowers
+    gender: F
+    born: 1937-11-01
+    died: 2024-01-24
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American business executive, Chair of the Noyce Foundation
+    ids:
+      wikidata: Q22994762
+    links:
+      - https://en.wikipedia.org/wiki/Ann_Bowers
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22994762
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ann-scott
+    type: person
+    name: Ann Scott
+    names:
+      en: Ann Scott
+    gender: F
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: First Lady of Florida, wife of Rick Scott
+    ids:
+      wikidata: Q106465336
+    links:
+      - https://en.wikipedia.org/wiki/Ann_Scott_(First_Lady_of_Florida)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106465336
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: First Lady of Florida
+        from: 2011-01-04
+        to: 2019-01-07
+  - id: ann-veneman
+    type: person
+    name: Ann Veneman
+    names:
+      zh: 安·维尼曼
+      en: Ann Veneman
+    gender: F
+    born: 1949-06-29
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: Executive Director of UNICEF and United States Secretary of Agriculture
+    ids:
+      wikidata: Q292936
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%C2%B7%E7%BB%B4%E5%B0%BC%E6%9B%BC
+      - https://en.wikipedia.org/wiki/Ann_Veneman
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q292936
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國農業部長
+        org: united-states-department-of-agriculture
+        from: 2001-01-20
+        to: 2005-01-20
+      - title: 联合国儿童基金会执行董事
+        org: unicef
+        from: 2005-05-01
+        to: 2010-04-30
+      - title: United States Deputy Secretary of Agriculture
+        from: "1991"
+        to: "1993"
+  - id: ann-wagner
+    type: person
+    name: Ann Wagner
+    names:
+      zh: 安·瓦格纳
+      en: Ann Wagner
+    gender: F
+    born: 1962-09-13
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+      - diplomacy
+    tier: 4
+    summary: U.S. Representative from Missouri
+    ids:
+      wikidata: Q3917251
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%C2%B7%E7%93%A6%E6%A0%BC%E7%B4%8D
+      - https://en.wikipedia.org/wiki/Ann_Wagner
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3917251
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 党主席
+        from: "1999"
+        to: "2005"
+      - title: 党主席
+        from: "2001"
+        to: "2005"
+      - title: 美國駐盧森堡大使列表
+        from: "2005"
+        to: "2009"
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+  - id: ann-walton-kroenke
+    type: person
+    name: Ann Walton Kroenke
+    names:
+      zh: 安·沃爾頓·克倫克
+      en: Ann Walton Kroenke
+    gender: F
+    born: 1948-12-18
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American businesswoman, heiress to the Walmart fortune
+    netWorth:
+      usd: 12800000000
+    ids:
+      wikidata: Q4766736
+    links:
+      - https://en.wikipedia.org/wiki/Ann_Walton_Kroenke
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4766736
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anna-eshoo
+    type: person
+    name: Anna Eshoo
+    names:
+      zh: 安娜·埃斯
+      en: Anna Eshoo
+    gender: F
+    born: 1942-12-13
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1942)
+    ids:
+      wikidata: Q291193
+    links:
+      - https://en.wikipedia.org/wiki/Anna_Eshoo
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 23
+    sources:
+      - url: https://www.wikidata.org/wiki/Q291193
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 參謀長
+        org: military-staff
+        from: "1981"
+        to: "1982"
+      - title: 会长
+        org: organization
+        from: "1986"
+      - title: 成员
+        org: membership-organization
+        from: "1982"
+      - title: 成员
+        org: membership-organization
+        from: "1980"
+        to: "1992"
+      - title: 成员
+        org: membership-organization
+        from: "1983"
+        to: "1992"
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-03
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+  - id: anna-murdoch-mann
+    type: person
+    name: Anna Murdoch Mann
+    names:
+      zh: 安娜·默多克·曼恩
+      en: Anna Murdoch Mann
+    gender: F
+    born: 1944-06-30
+    died: 2026-02-17
+    country:
+      - GB
+    sectors:
+      - culture
+      - media
+    tier: 5
+    summary: Scottish journalist and author (1944–2026)
+    ids:
+      wikidata: Q15522089
+    links:
+      - https://en.wikipedia.org/wiki/Anna_dePeyster
+    tags:
+      - relative
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15522089
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anna-paulina-luna
+    type: person
+    name: Anna Paulina Luna
+    names:
+      zh: 安娜·保利娜·卢纳
+      en: Anna Paulina Luna
+    gender: F
+    born: 1989-05-06
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+    tier: 4
+    summary: American politician and veteran (born 1989)
+    ids:
+      wikidata: Q112805534
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E5%A8%9C%C2%B7%E4%BF%9D%E5%88%A9%E5%A8%9C%C2%B7%E5%8D%A2%E7%BA%B3
+      - https://en.wikipedia.org/wiki/Anna_Paulina_Luna
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q112805534
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+  - id: anna-spiegelova
+    type: person
+    name: Anna Spiegelová
+    names:
+      en: Anna Spiegelová
+    gender: F
+    born: 1910-05-11
+    died: 1989-10-04
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: mother of Madeleine Albright
+    ids:
+      wikidata: Q22138384
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22138384
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anna-sui
+    type: person
+    name: Anna Sui
+    names:
+      zh: 萧志美
+      en: Anna Sui
+    gender: F
+    born: 1964-08-04
+    country:
+      - US
+    sectors:
+      - business
+      - culture
+    tier: 4
+    summary: 美籍華裔時尚設計師
+    ids:
+      wikidata: Q262789
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%95%AD%E5%BF%97%E7%BE%8E
+      - https://en.wikipedia.org/wiki/Anna_Sui
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 39
+    sources:
+      - url: https://www.wikidata.org/wiki/Q262789
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: annabel-yao
+    type: person
+    name: 姚安娜
+    names:
+      zh: 姚安娜
+      en: Annabel Yao
+    gender: F
+    born: 1998-01-14
+    country:
+      - CN
+    sectors:
+      - culture
+    tier: 5
+    summary: 中國藝人
+    ids:
+      wikidata: Q77607747
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A7%9A%E5%AE%89%E5%A8%9C_(%E4%BB%BB%E6%AD%A3%E9%9D%9E%E4%B9%8B%E5%A5%B3)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q77607747
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: annaliese-witschak
+    type: person
+    name: Annaliese Witschak
+    names:
+      en: Annaliese Witschak
+    gender: F
+    born: 1934-01-03
+    died: 2025-09-05
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: (1934-2025)
+    ids:
+      wikidata: Q22244429
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22244429
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anne-cox-chambers
+    type: person
+    name: Anne Cox Chambers
+    names:
+      zh: 安妮·考克斯·錢伯斯
+      en: Anne Cox Chambers
+    gender: F
+    born: 1919-12-01
+    died: 2020-01-31
+    country:
+      - US
+    sectors:
+      - business
+      - politics
+      - diplomacy
+    tier: 4
+    summary: American diplomat (1919-2020)
+    netWorth:
+      usd: 16100000000
+    ids:
+      wikidata: Q463381
+    links:
+      - https://en.wikipedia.org/wiki/Anne_Cox_Chambers
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q463381
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: United States Ambassador to Belgium
+        from: "1977"
+        to: "1981"
+  - id: anne-gorsuch-burford
+    type: person
+    name: Anne Gorsuch Burford
+    names:
+      en: Anne Gorsuch Burford
+    gender: F
+    born: 1942-04-21
+    died: 2004-07-18
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 4
+    summary: American politician and attorney (1942-2004)
+    ids:
+      wikidata: Q565342
+    links:
+      - https://en.wikipedia.org/wiki/Anne_Gorsuch_Burford
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q565342
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 國家環境保護局局長
+        org: united-states-environmental-protection-agency
+        from: 1981-05-20
+        to: 1983-03-09
+      - title: 科羅拉多州眾議員
+        org: colorado-house-of-representatives
+        from: "1976"
+        to: "1980"
+  - id: anne-gust-brown
+    type: person
+    name: Anne Gust Brown
+    names:
+      zh: 安妮·古斯特·布朗
+      en: Anne Gust Brown
+    gender: F
+    born: 1958-03-15
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American businesswoman and politician
+    ids:
+      wikidata: Q16192730
+    links:
+      - https://en.wikipedia.org/wiki/Anne_Gust_Brown
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16192730
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 加州第一夫人或合伙人
+        org: first-family-of-california
+        from: 2011-01-03
+        to: 2019-01-07
+  - id: anne-hendricks-bass
+    type: person
+    name: Anne Hendricks Bass
+    names:
+      en: Anne Hendricks Bass
+    gender: F
+    born: 1941-10-19
+    died: 2020-04-01
+    country:
+      - US
+    sectors:
+      - finance
+    tier: 5
+    summary: American investor and philanthropist (1941-2020)
+    ids:
+      wikidata: Q21062622
+    links:
+      - https://en.wikipedia.org/wiki/Anne_Hendricks_Bass
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21062622
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anne-holton
+    type: person
+    name: Anne Holton
+    names:
+      zh: 安妮·霍爾頓
+      en: Anne Holton
+    gender: F
+    born: 1958-02-01
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American lawyer and judge (born 1958)
+    ids:
+      wikidata: Q4768453
+    links:
+      - https://en.wikipedia.org/wiki/Anne_Holton
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4768453
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 維吉尼亞州第一夫人
+  - id: anne-horak-gallagher
+    type: person
+    name: Anne Horak Gallagher
+    names:
+      zh: 安妮·霍拉克
+      en: Anne Horak Gallagher
+    gender: F
+    born: 1984-05-05
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 5
+    summary: American actress
+    ids:
+      wikidata: Q95017032
+    links:
+      - https://en.wikipedia.org/wiki/Anne_Horak_Gallagher
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q95017032
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anne-kantor
+    type: person
+    name: Anne Kantor
+    names:
+      en: Anne Kantor
+    gender: F
+    born: "1935"
+    died: 2022-09-15
+    country:
+      - AU
+    sectors:
+      - family
+    tier: 5
+    summary: Australian psychotherapist and philanthropist
+    ids:
+      wikidata: Q76040517
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q76040517
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anne-kasich
+    type: person
+    name: Anne Kasich
+    names:
+      en: Anne Kasich
+    gender: F
+    born: "1918"
+    died: 1987-08-21
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: 1918 - 21 Aug 1987
+    ids:
+      wikidata: Q22952512
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22952512
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anne-montminy
+    type: person
+    name: Anne Montminy
+    names:
+      en: Anne Montminy
+    gender: F
+    born: 1975-01-28
+    country:
+      - CA
+      - US
+    sectors:
+      - judiciary
+    tier: 4
+    summary: Canadian diver
+    ids:
+      wikidata: Q565621
+    links:
+      - https://en.wikipedia.org/wiki/Anne_Montminy
+    tags:
+      - relative
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q565621
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anne-spielberg
+    type: person
+    name: Anne Spielberg
+    names:
+      zh: 安妮·史皮爾伯格
+      en: Anne Spielberg
+    gender: F
+    born: 1949-12-25
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: American screenwriter (born 1949)
+    ids:
+      wikidata: Q469204
+    links:
+      - https://en.wikipedia.org/wiki/Anne_Spielberg
+    tags:
+      - relative
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q469204
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anne-w-patterson
+    type: person
+    name: Anne W. Patterson
+    names:
+      zh: 安妮·W·帕特森
+      en: Anne W. Patterson
+    gender: F
+    born: 1949-10-04
+    country:
+      - US
+      - SV
+    sectors:
+      - politics
+      - diplomacy
+    tier: 2
+    summary: United States Department of State official and diplomat
+    ids:
+      wikidata: Q433742
+    links:
+      - https://en.wikipedia.org/wiki/Anne_W._Patterson
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q433742
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 大使
+        org: diplomatic-corps
+      - title: 美国常驻联合国代表列表
+        org: united-states-mission-to-the-united-nations
+        from: 2005-01-20
+        to: 2005-08-01
+  - id: anne-wojcicki
+    type: person
+    name: Anne Wojcicki
+    names:
+      zh: 安妮·沃西基
+      en: Anne Wojcicki
+    gender: F
+    born: 1973-07-28
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 23andMe创始人
+    ids:
+      wikidata: Q2069573
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E5%A6%AE%C2%B7%E6%B2%83%E8%A5%BF%E5%9F%BA
+      - https://en.wikipedia.org/wiki/Anne_Wojcicki
+    tags:
+      - relative
+    attrs:
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2069573
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: annunciata-m-nancy-d-alesandro
+    type: person
+    name: Annunciata M. "Nancy" D'Alesandro
+    names:
+      zh: 安农恰塔·达历山德罗
+      en: Annunciata M. "Nancy" D'Alesandro
+    gender: F
+    born: 1909-03-25
+    died: 1995-04-03
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: 25 Mar 1909 - 3 Apr 1995
+    ids:
+      wikidata: Q107323320
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q107323320
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anousheh-ansari
+    type: person
+    name: Anousheh Ansari
+    names:
+      zh: 阿努什·安萨里
+      en: Anousheh Ansari
+    gender: F
+    born: 1966-09-12
+    country:
+      - US
+      - IR
+    sectors:
+      - business
+      - tech
+    tier: 3
+    summary: 伊朗裔美籍工程师和企业家
+    ids:
+      wikidata: Q17519
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E4%BB%80%C2%B7%E5%AE%89%E8%90%A8%E9%87%8C
+      - https://en.wikipedia.org/wiki/Anousheh_Ansari
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 61
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17519
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anthony-d-esposito
+    type: person
+    name: Anthony D'Esposito
+    names:
+      zh: 安东尼·德斯波西托
+      en: Anthony D'Esposito
+    gender: M
+    born: 1982-02-22
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1982)
+    ids:
+      wikidata: Q115170420
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E6%9D%B1%E5%B0%BC%C2%B7%E5%BE%B7%E6%96%AF%E6%B3%A2%E8%A5%BF%E6%89%98
+      - https://en.wikipedia.org/wiki/Anthony_D'Esposito
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115170420
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 地方議會議員
+        org: city-council
+        from: 2016-02-10
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+  - id: anthony-dean-rodham
+    type: person
+    name: Anthony (Tony) Dean Rodham
+    names:
+      zh: 托尼·罗德姆
+      en: Anthony (Tony) Dean Rodham
+    gender: M
+    born: 1954-08-08
+    died: 2019-06-07
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American consultant and businessman (1954–2019)
+    ids:
+      wikidata: Q7823289
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%98%E5%B0%BC%C2%B7%E7%BD%97%E5%BE%B7%E5%A7%86
+      - https://en.wikipedia.org/wiki/Tony_Rodham
+    tags:
+      - relative
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7823289
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anthony-foxx
+    type: person
+    name: Anthony Foxx
+    names:
+      zh: 安东尼·福克斯
+      en: Anthony Foxx
+    gender: M
+    born: 1971-04-30
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: 17th United States Secretary of Transportation
+    ids:
+      wikidata: Q4772543
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E4%B8%9C%E5%B0%BC%C2%B7%E7%A6%8F%E5%85%8B%E6%96%AF
+      - https://en.wikipedia.org/wiki/Anthony_Foxx
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4772543
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国运输部长
+        org: united-states-department-of-transportation
+        from: 2013-07-02
+        to: 2017-01-20
+      - title: 夏洛特市市長
+        from: 2009-12-07
+        to: 2013-07-01
+  - id: anthony-g-brown
+    type: person
+    name: Anthony G. Brown
+    names:
+      zh: 托尼·G·布朗
+      en: Anthony G. Brown
+    gender: M
+    born: 1961-11-21
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: Attorney General of Maryland since 2023
+    ids:
+      wikidata: Q4772558
+    links:
+      - https://en.wikipedia.org/wiki/Anthony_Brown_(Maryland_politician)
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4772558
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 馬里蘭州副州長
+        from: 2007-01-17
+        to: 2015-01-21
+      - title: 马里兰州总检察长
+        from: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 馬里蘭州眾議員
+        org: maryland-house-of-delegates
+        from: 1999-01-14
+        to: 2007-01-14
+  - id: anthony-gonzalez
+    type: person
+    name: Anthony Gonzalez
+    names:
+      zh: 安东尼·冈萨雷斯
+      en: Anthony Gonzalez
+    gender: M
+    born: 1984-09-18
+    country:
+      - US
+      - CU
+    sectors:
+      - politics
+    tier: 4
+    summary: American football player and politician (born 1984)
+    ids:
+      wikidata: Q3487172
+    links:
+      - https://en.wikipedia.org/wiki/Anthony_Gonzalez_(politician)
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3487172
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: anthony-h-pascal
+    type: person
+    name: Anthony H. Pascal
+    names:
+      en: Anthony H. Pascal
+    gender: M
+    born: "1933"
+    died: 2017-04-06
+    country: []
+    sectors:
+      - academia
+    tier: 5
+    summary: economist
+    ids:
+      wikidata: Q141018897
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q141018897
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anthony-kennedy
+    type: person
+    name: Anthony Kennedy
+    names:
+      zh: 安東尼·肯尼迪
+      en: Anthony Kennedy
+    gender: M
+    born: 1936-07-23
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+      - academia
+    tier: 2
+    summary: 美国最高法院大法官
+    ids:
+      wikidata: Q11171
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E6%9D%B1%E5%B0%BC%C2%B7%E8%82%AF%E5%B0%BC%E8%BF%AA
+      - https://en.wikipedia.org/wiki/Anthony_Kennedy
+    tags:
+      - us-judiciary
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 42
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11171
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國最高法院大法官
+        org: us-supreme-court
+        from: 1988-02-18
+        to: 2018-07-31
+      - title: Judge of the United States Court of Appeals for the Ninth Circuit
+        from: 1975-05-30
+        to: 1988-02-18
+  - id: anthony-lake
+    type: person
+    name: Anthony Lake
+    names:
+      zh: 安东尼∙雷克
+      en: Anthony Lake
+    gender: M
+    born: 1939-04-02
+    country:
+      - US
+    sectors:
+      - politics
+      - diplomacy
+      - academia
+    tier: 2
+    summary: American academic and diplomat
+    ids:
+      wikidata: Q573515
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E4%B8%9C%E5%B0%BC%C2%B7%E8%8E%B1%E5%85%8B
+      - https://en.wikipedia.org/wiki/Anthony_Lake
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q573515
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國國務院政策規劃主任
+        org: policy-planning-staff
+        from: 1977-01-21
+        to: 1981-01-20
+      - title: 执行董事
+        from: 2010-05-01
+        to: 2017-12-31
+      - title: 总统国家安全事务助理
+        org: united-states-national-security-council
+        from: 1993-01-20
+        to: 1997-03-14
+  - id: anthony-principi
+    type: person
+    name: Anthony Principi
+    names:
+      zh: 安东尼·普林奇皮
+      en: Anthony Principi
+    gender: M
+    born: 1944-04-16
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+      - military
+    tier: 2
+    summary: 4th United States Secretary of Veterans Affairs
+    ids:
+      wikidata: Q573825
+    links:
+      - https://en.wikipedia.org/wiki/Anthony_Principi
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q573825
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国退伍军人事务部长
+        org: united-states-department-of-veterans-affairs
+        from: 1992-09-26
+        to: 1993-01-20
+      - title: 美国退伍军人事务部长
+        org: united-states-department-of-veterans-affairs
+        from: 2001-01-23
+        to: 2005-01-26
+      - title: 美國副部長辦公室
+        from: 1989-03-17
+        to: 1992-09-26
+  - id: anthony-pritzker
+    type: person
+    name: Anthony Pritzker
+    names:
+      en: Anthony Pritzker
+    gender: M
+    born: 1961-01-07
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美國商人
+    netWorth:
+      usd: 4400000000
+    ids:
+      wikidata: Q4773305
+    links:
+      - https://en.wikipedia.org/wiki/Anthony_Pritzker
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4773305
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anthony-rubio
+    type: person
+    name: Anthony Rubio
+    names:
+      en: Anthony Rubio
+    gender: M
+    born: "2000"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American football player
+    ids:
+      wikidata: Q131876433
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q131876433
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: antonin-scalia
+    type: person
+    name: Antonin Scalia
+    names:
+      zh: 安東寧·斯卡利亞
+      en: Antonin Scalia
+    gender: M
+    born: 1936-03-11
+    died: 2016-02-13
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 2
+    summary: 美国最高法院大法官（1936—2016）
+    ids:
+      wikidata: Q11156
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E6%9D%B1%E5%AF%A7%C2%B7%E6%96%AF%E5%8D%A1%E5%88%A9%E4%BA%9E
+      - https://en.wikipedia.org/wiki/Antonin_Scalia
+    tags:
+      - us-judiciary
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 53
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11156
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: "1972"
+        to: "1974"
+      - title: 美國最高法院大法官
+        org: us-supreme-court
+        from: 1986-09-26
+        to: 2016-02-13
+      - title: 美国哥伦比亚特区联邦巡回上诉法院法官
+        from: 1982-08-17
+        to: 1986-09-26
+      - title: 助理檢察總長
+        from: 1974-08-22
+        to: 1977-01-20
+  - id: antony-blinken
+    type: person
+    name: Antony Blinken
+    names:
+      zh: 安东尼‧布林肯
+      en: Antony Blinken
+    gender: M
+    born: 1962-04-16
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+      - diplomacy
+    tier: 2
+    summary: 美國政治人物
+    ids:
+      wikidata: Q7821917
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%89%E6%9D%B1%E5%B0%BC%C2%B7%E5%B8%83%E6%9E%97%E8%82%AF
+      - https://en.wikipedia.org/wiki/Antony_Blinken
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 85
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7821917
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国国务卿
+        org: united-states-department-of-state
+        from: 2021-01-26
+        to: 2025-01-20
+      - title: 美国副国务卿
+        from: 2015-01-09
+        to: 2017-01-20
+      - title: 美国副国家安全顾问
+        from: 2013-01-20
+        to: 2015-01-09
+  - id: antony-ressler
+    type: person
+    name: Antony Ressler
+    names:
+      zh: 東尼·雷斯勒
+      en: Antony Ressler
+    gender: M
+    born: 1960-10-12
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 3
+    summary: American chief executive
+    netWorth:
+      usd: 13800000000
+    ids:
+      wikidata: Q16193321
+    links:
+      - https://en.wikipedia.org/wiki/Tony_Ressler
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16193321
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anya-schiffrin
+    type: person
+    name: Anya Schiffrin
+    names:
+      en: Anya Schiffrin
+    gender: F
+    born: 1962-12-06
+    country:
+      - US
+    sectors:
+      - media
+    tier: 5
+    summary: 美國記者
+    ids:
+      wikidata: Q4778207
+    links:
+      - https://en.wikipedia.org/wiki/Anya_Schiffrin
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4778207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: apoorva-t-ramaswamy
+    type: person
+    name: Apoorva T. Ramaswamy
+    names:
+      en: Apoorva T. Ramaswamy
+    gender: F
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American laryngologist and researcher
+    ids:
+      wikidata: Q60725805
+    links:
+      - https://en.wikipedia.org/wiki/Apoorva_Ramaswamy
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60725805
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: april-mcclain-delaney
+    type: person
+    name: April McClain-Delaney
+    names:
+      en: April McClain-Delaney
+    gender: F
+    born: 1964-05-28
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q125935301
+    links:
+      - https://en.wikipedia.org/wiki/April_McClain_Delaney
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q125935301
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: arati-prabhakar
+    type: person
+    name: Arati Prabhakar
+    names:
+      zh: 阿拉蒂·普拉巴卡
+      en: Arati Prabhakar
+    gender: F
+    born: 1959-02-02
+    country:
+      - US
+      - IN
+    sectors:
+      - politics
+      - tech
+    tier: 2
+    summary: Director of the Office of Science and Technology Policy
+    ids:
+      wikidata: Q4784423
+    links:
+      - https://en.wikipedia.org/wiki/Arati_Prabhakar
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4784423
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 總統科學顧問
+        org: us-cabinet
+        from: 2022-10-03
+      - title: DARPA Director
+  - id: arch-a-moore
+    type: person
+    name: Arch A. Moore
+    names:
+      zh: 小阿奇·A·摩爾
+      en: Arch A. Moore
+    gender: M
+    born: 1923-04-16
+    died: 2015-01-07
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 4
+    summary: American politician (1923–2015)
+    ids:
+      wikidata: Q365572
+    links:
+      - https://en.wikipedia.org/wiki/Arch_A._Moore_Jr.
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q365572
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 1957-01-03
+        to: 1969-01-03
+      - title: 西弗吉尼亞州眾議員
+        org: west-virginia-house-of-delegates
+      - title: 西弗吉尼亚州州长
+        org: state-of-west-virginia
+        from: 1985-01-14
+        to: 1989-01-16
+      - title: 西弗吉尼亚州州长
+        org: state-of-west-virginia
+        from: 1969-01-13
+        to: 1977-01-17
+  - id: archie-aldis-emmerson
+    type: person
+    name: Archie Aldis Emmerson
+    names:
+      zh: 阿奇·阿尔迪斯·埃默森
+      en: Archie Aldis Emmerson
+    gender: M
+    born: 1929-04-10
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 5900000000
+    ids:
+      wikidata: Q4786605
+    links:
+      - https://en.wikipedia.org/wiki/Red_Emmerson
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4786605
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ari-emanuel
+    type: person
+    name: Ari Emanuel
+    names:
+      zh: 阿里·伊曼紐
+      en: Ari Emanuel
+    gender: M
+    born: 1961-03-29
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American businessman and CEO of Endeavor
+    ids:
+      wikidata: Q2861138
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%C2%B7%E4%BC%8A%E6%9B%BC%E7%BA%BD%E5%B0%94
+      - https://en.wikipedia.org/wiki/Ari_Emanuel
+    tags:
+      - relative
+    attrs:
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2861138
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arianna-huffington
+    type: person
+    name: Arianna Huffington
+    names:
+      zh: 亚利安纳·赫芬顿
+      en: Arianna Huffington
+    gender: F
+    born: 1950-07-15
+    country:
+      - US
+      - GR
+    sectors:
+      - business
+      - culture
+      - politics
+    tier: 4
+    summary: American journalist
+    ids:
+      wikidata: Q233397
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%AE%89%E5%A8%9C%C2%B7%E8%B5%AB%E8%8A%AC%E9%A1%BF
+      - https://en.wikipedia.org/wiki/Arianna_Huffington
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 48
+    sources:
+      - url: https://www.wikidata.org/wiki/Q233397
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席执行官
+        from: "2016"
+      - title: 主管
+      - title: 会长
+        org: organization
+        from: "1971"
+        to: "1972"
+  - id: arken-imirbaki
+    type: person
+    name: 艾力更·依明巴海
+    names:
+      zh: 艾力更·依明巴海
+      en: Arken Imirbaki
+    gender: M
+    born: "1953"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中国阿拉伯友好协会会长
+    ids:
+      wikidata: Q9330536
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E5%8A%9B%E6%9B%B4%C2%B7%E4%BE%9D%E6%98%8E%E5%B7%B4%E6%B5%B7
+      - https://en.wikipedia.org/wiki/Arken_Imirbaki
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9330536
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国人民代表大会常务委员会副委员长
+        org: npc-standing-committee
+        from: 2013-03-14
+        to: 2023-03-10
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: arleny-harris
+    type: person
+    name: Arleny Harris
+    names:
+      zh: 阿琳·哈里斯
+      en: Arleny Harris
+    gender: F
+    born: 1948-06-06
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American inventor
+    ids:
+      wikidata: Q4792153
+    links:
+      - https://en.wikipedia.org/wiki/Arlene_Harris_(inventor)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4792153
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arne-duncan
+    type: person
+    name: Arne Duncan
+    names:
+      zh: 阿恩·邓肯
+      en: Arne Duncan
+    gender: M
+    born: 1964-11-06
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American educator
+    ids:
+      wikidata: Q349922
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E6%81%A9%C2%B7%E9%82%93%E8%82%AF
+      - https://en.wikipedia.org/wiki/Arne_Duncan
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 31
+    sources:
+      - url: https://www.wikidata.org/wiki/Q349922
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國教育部長
+        org: united-states-department-of-education
+        from: 2009-01-21
+        to: "2016"
+      - title: Chief Executive Officer of Chicago Public Schools
+        from: 2001-06-26
+        to: 2009-01-21
+  - id: arnold-spielberg
+    type: person
+    name: Arnold Spielberg
+    names:
+      zh: 阿諾德·史匹柏
+      en: Arnold Spielberg
+    gender: M
+    born: 1917-02-06
+    died: 2020-08-25
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: American electrical engineer
+    ids:
+      wikidata: Q15784029
+    links:
+      - https://en.wikipedia.org/wiki/Arnold_Spielberg
+    tags:
+      - relative
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15784029
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arte-moreno
+    type: person
+    name: Arte Moreno
+    names:
+      zh: 亞提·莫雷諾
+      en: Arte Moreno
+    gender: M
+    born: 1946-08-01
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美國商人
+    netWorth:
+      usd: 4900000000
+    ids:
+      wikidata: Q4797381
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%8F%90%C2%B7%E8%8E%AB%E9%9B%B7%E8%AB%BE
+      - https://en.wikipedia.org/wiki/Arte_Moreno
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4797381
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arthur-blank
+    type: person
+    name: Arthur Blank
+    names:
+      zh: 亞瑟·伯朗克
+      en: Arthur Blank
+    gender: M
+    born: 1942-09-27
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American businessman and sports team owner
+    netWorth:
+      usd: 11400000000
+    ids:
+      wikidata: Q2865008
+    links:
+      - https://en.wikipedia.org/wiki/Arthur_Blank
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2865008
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arthur-dantchik
+    type: person
+    name: Arthur Dantchik
+    names:
+      en: Arthur Dantchik
+    gender: M
+    born: "1957"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American billionaire businessman
+    netWorth:
+      usd: 16300000000
+    ids:
+      wikidata: Q117312587
+    links:
+      - https://en.wikipedia.org/wiki/Arthur_Dantchik
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q117312587
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: asa-hutchinson
+    type: person
+    name: Asa Hutchinson
+    names:
+      zh: 阿薩·賀勤森
+      en: Asa Hutchinson
+    gender: M
+    born: 1950-12-03
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: Governor of Arkansas from 2015 to 2023
+    ids:
+      wikidata: Q720121
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E8%96%A9%C2%B7%E8%B3%80%E5%8B%A4%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Asa_Hutchinson
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q720121
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國檢察官
+        from: "1982"
+        to: "1985"
+      - title: 阿肯色州州長
+        from: 2015-01-13
+        to: 2023-01-10
+      - title: 党主席
+        from: "1991"
+        to: 1995-12-31
+      - title: 市律師
+        from: "1977"
+        to: "1978"
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-03
+        to: 2001-08-06
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2001-08-06
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+  - id: ash-carter
+    type: person
+    name: Ash Carter
+    names:
+      zh: 阿什顿·卡特
+      en: Ash Carter
+    gender: M
+    born: 1954-09-24
+    died: 2022-10-24
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+    tier: 2
+    summary: 第25任美国国防部长（1954－2022）
+    ids:
+      wikidata: Q4806029
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BB%80%E9%A1%BF%C2%B7%E5%8D%A1%E7%89%B9
+      - https://en.wikipedia.org/wiki/Ash_Carter
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 43
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4806029
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国国防部长
+        org: united-states-department-of-defense
+        from: 2015-02-17
+        to: 2017-01-19
+      - title: 美国国防部副部长
+        org: united-states-department-of-defense
+        from: 2011-10-06
+        to: 2013-12-04
+      - title: 国防部长
+        org: defence-ministry
+      - title: 国防科技安全管理局
+        from: 1993-06-30
+        to: 1996-09-14
+      - title: 美国国防部采购、技术与后勤次长
+        from: 2009-04-27
+        to: 2011-10-05
+  - id: ashley-biden
+    type: person
+    name: Ashley Biden
+    names:
+      zh: 阿什莉·拜登
+      en: Ashley Biden
+    gender: F
+    born: 1981-06-08
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美國前總統喬·拜登女兒、商人、社運人士
+    ids:
+      wikidata: Q97588420
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BB%80%E8%8E%89%C2%B7%E6%8B%9C%E7%99%BB
+      - https://en.wikipedia.org/wiki/Ashley_Biden
+    tags:
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 34
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97588420
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ashley-estes-kavanaugh
+    type: person
+    name: Ashley Estes Kavanaugh
+    names:
+      zh: 阿什莉·卡瓦诺
+      en: Ashley Estes Kavanaugh
+    gender: F
+    born: 1974-11-04
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: 美国官员
+    ids:
+      wikidata: Q4805425
+    links:
+      - https://en.wikipedia.org/wiki/Ashley_Estes_Kavanaugh
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4805425
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ashley-hinson
+    type: person
+    name: Ashley Hinson
+    names:
+      zh: 阿什莉·欣森
+      en: Ashley Hinson
+    gender: F
+    born: 1983-06-27
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美国政治人物
+    ids:
+      wikidata: Q60713905
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BB%80%E8%8E%89%C2%B7%E6%AC%A3%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Ashley_Hinson
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60713905
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 艾奧瓦州眾議員
+        org: iowa-house-of-representatives
+        from: 2017-01-09
+        to: 2021-01-03
+  - id: ashley-moody
+    type: person
+    name: Ashley Moody
+    names:
+      zh: 阿什利·穆迪
+      en: Ashley Moody
+    gender: F
+    born: 1975-03-28
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: 美国政治人物
+    ids:
+      wikidata: Q58333626
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BB%80%E8%8E%89%C2%B7%E7%A9%86%E8%BF%AA
+      - https://en.wikipedia.org/wiki/Ashley_Moody
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58333626
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-21
+      - title: 佛罗里达州检察长
+        from: 2019-01-08
+        to: 2025-01-21
+  - id: astrid-menks
+    type: person
+    name: Astrid Menks
+    names:
+      en: Astrid Menks
+    gender: F
+    born: "1946"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: second wife of Warren Buffett
+    ids:
+      wikidata: Q96756817
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96756817
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: audrey-pence
+    type: person
+    name: Audrey Pence
+    names:
+      en: Audrey Pence
+    gender: F
+    born: 1994-08-18
+    country:
+      - US
+    sectors:
+      - media
+    tier: 5
+    summary: daughter of U.S. Vice President Mike Pence
+    ids:
+      wikidata: Q124517842
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124517842
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: audrey-ruth-mars
+    type: person
+    name: Audrey Ruth Mars
+    names:
+      en: Audrey Ruth Mars
+    gender: F
+    born: 1910-05-25
+    died: 1989-06-15
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: 25 May 1910 - 15 Jun 1989
+    ids:
+      wikidata: Q105831497
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105831497
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: august-pfluger
+    type: person
+    name: August Pfluger
+    names:
+      zh: 奧古斯塔·普盧格
+      en: August Pfluger
+    gender: M
+    born: 1977-12-28
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+    tier: 4
+    summary: American military officer and politician (born 1977)
+    ids:
+      wikidata: Q101196462
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%8F%A4%E6%96%AF%E7%89%B9%C2%B7%E5%BC%97%E5%8D%A2%E6%A0%BC
+      - https://en.wikipedia.org/wiki/August_Pfluger
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q101196462
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: auma-obama
+    type: person
+    name: Auma Obama
+    names:
+      zh: 奥马·奥巴马
+      en: Auma Obama
+    gender: F
+    born: "1960"
+    country:
+      - KE
+    sectors:
+      - culture
+      - media
+    tier: 4
+    summary: Kenyan-British community activist, sociologist, journalist and author
+    ids:
+      wikidata: Q773197
+    links:
+      - https://en.wikipedia.org/wiki/Auma_Obama
+    tags:
+      - relative
+    attrs:
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q773197
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: austan-goolsbee
+    type: person
+    name: Austan Goolsbee
+    names:
+      zh: 奧斯坦·古爾斯比
+      en: Austan Goolsbee
+    gender: M
+    born: 1969-08-18
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+    tier: 2
+    summary: American economist
+    ids:
+      wikidata: Q780691
+    links:
+      - https://en.wikipedia.org/wiki/Austan_Goolsbee
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q780691
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国总统经济顾问委员会
+      - title: Chair of the Council of Economic Advisers
+        org: council-of-economic-advisers
+        from: 2010-09-10
+        to: 2011-08-05
+  - id: austen-s-cargill-ii
+    type: person
+    name: Austen S. Cargill II
+    names:
+      en: Austen S. Cargill II
+    gender: M
+    born: "1951"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美國商人
+    netWorth:
+      usd: 4800000000
+    ids:
+      wikidata: Q4822865
+    links:
+      - https://en.wikipedia.org/wiki/Austen_S._Cargill_II
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4822865
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: austin-scott
+    type: person
+    name: Austin Scott
+    names:
+      zh: 奧斯汀·斯科特
+      en: Austin Scott
+    gender: M
+    born: 1969-12-10
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: U.S. Representative from Georgia
+    ids:
+      wikidata: Q781167
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A5%A7%E6%96%AF%E6%B1%80%C2%B7%E6%96%AF%E7%A7%91%E7%89%B9
+      - https://en.wikipedia.org/wiki/Austin_Scott
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q781167
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 喬治亞州眾議員
+        org: georgia-house-of-representatives
+        from: "1997"
+        to: "2010"
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+  - id: avi-arad
+    type: person
+    name: Avi Arad
+    names:
+      zh: 艾维·亚拉
+      en: Avi Arad
+    gender: M
+    born: 1948-08-01
+    country:
+      - US
+      - IL
+    sectors:
+      - business
+    tier: 4
+    summary: Israeli-American film producer (born 1948)
+    ids:
+      wikidata: Q545394
+    links:
+      - https://en.wikipedia.org/wiki/Avi_Arad
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 36
+    sources:
+      - url: https://www.wikidata.org/wiki/Q545394
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: avram-glazer
+    type: person
+    name: Avram Glazer
+    names:
+      zh: 艾弗拉姆·格雷泽
+      en: Avram Glazer
+    gender: M
+    born: 1960-10-19
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American businessman (born 1960)
+    ids:
+      wikidata: Q1185107
+    links:
+      - https://en.wikipedia.org/wiki/Avram_Glazer
+    tags:
+      - relative
+    attrs:
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1185107
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: avril-haines
+    type: person
+    name: Avril Haines
+    names:
+      zh: 埃夫丽尔·海恩斯
+      en: Avril Haines
+    gender: F
+    born: 1969-08-27
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: 美国律师
+    ids:
+      wikidata: Q14525857
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E8%96%87%E5%84%BF%C2%B7%E6%B5%B7%E6%81%A9%E6%96%AF
+      - https://en.wikipedia.org/wiki/Avril_Haines
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 36
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14525857
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 國家情報總監
+        org: united-states-intelligence-community
+        from: 2021-01-21
+        to: 2025-01-20
+      - title: 中央情報局副局長
+        org: central-intelligence-agency
+        from: 2013-08-09
+        to: 2015-01-10
+      - title: 美国副国家安全顾问
+        from: 2015-01-11
+        to: 2017-01-20
+  - id: aw-boon-haw
+    type: person
+    name: 胡文虎
+    names:
+      zh: 胡文虎
+      en: Aw Boon Haw
+    gender: M
+    born: "1882"
+    died: "1954"
+    country:
+      - MM
+      - CN
+    sectors:
+      - business
+    tier: 5
+    summary: Burmese Chinese businessman (1882–1954)
+    ids:
+      wikidata: Q791575
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E6%96%87%E8%99%8E
+      - https://en.wikipedia.org/wiki/Aw_Boon_Haw
+    tags:
+      - relative
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q791575
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 国民参政会参政员
+        org: national-political-assembly
+  - id: aw-hoe
+    type: person
+    name: Aw Hoe
+    names:
+      zh: 胡好
+      en: Aw Hoe
+    gender: M
+    born: "1919"
+    died: "1951"
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: Hong Kong businessperson
+    ids:
+      wikidata: Q10488876
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E5%A5%BD
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10488876
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ayanna-pressley
+    type: person
+    name: Ayanna Pressley
+    names:
+      zh: 艾安娜·普雷斯利
+      en: Ayanna Pressley
+    gender: F
+    born: 1974-02-03
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: U.S. Representative from Massachusetts
+    ids:
+      wikidata: Q13562359
+    links:
+      - https://en.wikipedia.org/wiki/Ayanna_Pressley
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 28
+    sources:
+      - url: https://www.wikidata.org/wiki/Q13562359
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: aza-raskin
+    type: person
+    name: Aza Raskin
+    names:
+      zh: 阿萨·拉斯金
+      en: Aza Raskin
+    gender: M
+    born: 1984-02-01
+    country:
+      - US
+    sectors:
+      - tech
+      - business
+    tier: 5
+    summary: American computer programmer
+    ids:
+      wikidata: Q1057010
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%BF%E8%96%A9%C2%B7%E6%8B%89%E6%96%AF%E9%87%91
+      - https://en.wikipedia.org/wiki/Aza_Raskin
+    tags:
+      - relative
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1057010
+        publisher: Wikidata
+        accessed: 2026-10-11

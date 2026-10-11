@@ -1,0 +1,35 @@
+id: marco-rubio
+type: person
+name: Marco Rubio
+names:
+  en: Marco Rubio
+  zh: 马可·卢比奥
+gender: M
+born: '1971-05-28'
+country:
+- US
+sectors:
+- politics
+- diplomacy
+tier: 1
+status: active
+summary: 国务卿（2025–），2025-05 起兼任国家安全顾问（接替调任驻联合国大使的 Mike Waltz）。前佛州参议员，长期对华强硬。
+positions:
+- title: 国务卿
+  org: us-cabinet
+  from: '2025-01-21'
+  current: true
+- title: 国家安全顾问（代理）
+  org: us-white-house
+  from: '2025-05-01'
+  current: true
+- title: 联邦参议员（佛罗里达）
+  org: us-senate
+  from: '2011-01-03'
+  to: '2025-01-20'
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

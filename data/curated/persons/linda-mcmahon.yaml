@@ -1,0 +1,27 @@
+id: linda-mcmahon
+type: person
+name: Linda McMahon
+names:
+  en: Linda McMahon
+  zh: 琳达·麦克马洪
+gender: F
+born: '1948-10-04'
+country:
+- US
+sectors:
+- politics
+- business
+tier: 2
+status: active
+summary: 教育部长（2025–）、2024 年过渡团队联合主席。WWE 联合创始人，前小企业管理局局长（2017–2019）；特朗普长期政治捐助者。
+positions:
+- title: 教育部长
+  org: us-cabinet
+  from: '2025-03-03'
+  current: true
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

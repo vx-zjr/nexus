@@ -1,0 +1,30 @@
+{
+  "name": "@nexus/web",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@dagrejs/dagre": "^3.1.1",
+    "@nexus/core": "*",
+    "graphology": "^0.26.0",
+    "graphology-layout-forceatlas2": "^0.10.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "sigma": "^3.0.3",
+    "zustand": "^5.0.15"
+  },
+  "devDependencies": {
+    "@nexus/cli": "*",
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.3.4"
+  }
+}

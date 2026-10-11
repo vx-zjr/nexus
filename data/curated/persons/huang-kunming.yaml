@@ -1,0 +1,43 @@
+id: huang-kunming
+type: person
+name: 黄坤明
+names:
+  zh: 黄坤明
+  en: Huang Kunming
+gender: M
+born: 1956-11
+country:
+- CN
+sectors:
+- politics
+tier: 2
+status: active
+summary: 广东省委书记（2022–，2026-08 仍在任）。习近平在福建、浙江的老部下；前中宣部部长（2017–2022）。
+positions:
+- title: 广东省委书记
+  from: 2022-10
+  current: true
+- title: 政治局委员
+  org: ccp-politburo
+  from: 2017-10
+  current: true
+- title: 中宣部部长
+  org: ccp-publicity-department
+  from: 2017-10
+  to: 2022-10
+tags:
+- zhijiang-xinjun
+- fujian-clique
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+- url: https://m.sfccn.com/2026/8-18/zOMDE1MzNfMjIxMjUzOA.html
+  title: 2026年广东省党外人士暑期座谈会召开 黄坤明主持并讲话
+  publisher: 21世纪经济报道
+  date: '2026-08-18'
+updated: '2026-10-11'

@@ -1,0 +1,20 @@
+id: henry-paulson
+type: person
+name: Henry Paulson
+names:
+  en: Henry Paulson
+  zh: 亨利·保尔森
+gender: M
+born: '1946-03-28'
+country:
+- US
+sectors:
+- finance
+- politics
+tier: 2
+status: retired
+summary: 前财长（2006–2009）、前高盛 CEO，保尔森基金会创始人。在《与中国打交道》中详述与王岐山的长期私交。
+sources:
+- url: https://en.wikipedia.org/wiki/Henry_Paulson
+  publisher: Wikipedia
+updated: '2026-10-11'

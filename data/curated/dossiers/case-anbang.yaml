@@ -1,0 +1,42 @@
+id: case-anbang
+kind: case
+name: 安邦案与邓家姻亲
+country:
+- CN
+- US
+head: wu-xiaohui
+summary: 吴小晖凭借与邓小平家族的姻亲关系及高层人脉，将安邦从地方车险公司扩张为资产近 2 万亿元的金融集团，并大举海外收购（含纽约华尔道夫酒店）。2017 年与特朗普女婿库什纳家族企业洽谈 666 号大楼投资，引发美国舆论关注。
+core:
+- wu-xiaohui
+- zhuo-ran
+- an-bang-bao-xian
+outer:
+- deng-xiaoping
+- deng-nan
+- jared-kushner
+sources:
+- url: https://en.wikipedia.org/wiki/Wu_Xiaohui
+  publisher: Wikipedia
+- url: https://en.wikipedia.org/wiki/Anbang_Insurance_Group
+  publisher: Wikipedia
+relations:
+- from: wu-xiaohui
+  to: zhuo-ran
+  type: spouse
+  confidence: reported
+  note: 多家媒体报道；后有离婚传闻
+- - wu-xiaohui
+  - position
+  - an-bang-bao-xian
+  - 董事长
+- from: an-bang-bao-xian
+  to: jared-kushner
+  type: associate
+  label: 2017 年洽谈 666 Fifth Avenue 投资（未成）
+  sources:
+  - url: https://en.wikipedia.org/wiki/666_Fifth_Avenue
+    publisher: Wikipedia
+tags:
+- case
+- cross-border
+updated: '2026-10-11'

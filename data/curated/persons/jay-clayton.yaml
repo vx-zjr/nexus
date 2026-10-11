@@ -1,0 +1,38 @@
+id: jay-clayton
+type: person
+name: Jay Clayton
+names:
+  en: Jay Clayton
+  zh: 杰伊·克莱顿
+gender: M
+born: '1966-07-11'
+country:
+- US
+sectors:
+- politics
+- security
+- finance
+tier: 2
+status: active
+summary: 国家情报总监（2026-08 起）。前美国证监会（SEC）主席（2017–2020）、纽约南区联邦检察官（2025–2026）；华尔街律师出身（Sullivan & Cromwell）。
+positions:
+- title: 国家情报总监
+  org: us-cabinet
+  from: '2026-08-03'
+  current: true
+- title: 纽约南区联邦检察官
+  from: 2025-04
+  to: 2026-08
+- title: SEC 主席
+  from: 2017-05
+  to: 2020-12
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://federalnewsnetwork.com/management/2026/06/trump-plans-to-nominate-us-attorney-jay-clayton-to-be-national-intelligence-director/
+  title: Trump nominates US Attorney Jay Clayton to be director of national intelligence
+  publisher: Federal News Network / AP
+  date: '2026-06-11'
+updated: '2026-10-11'

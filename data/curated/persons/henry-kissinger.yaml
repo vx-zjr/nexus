@@ -1,0 +1,20 @@
+id: henry-kissinger
+type: person
+name: Henry Kissinger
+names:
+  en: Henry Kissinger
+  zh: 亨利·基辛格
+gender: M
+born: '1923-05-27'
+died: '2023-11-29'
+country:
+- US
+sectors:
+- diplomacy
+- politics
+tier: 2
+summary: 前国务卿，1971 年秘密访华开启中美关系；基辛格咨询公司创始人。2023-07 以百岁高龄访华会见习近平。
+sources:
+- url: https://en.wikipedia.org/wiki/Henry_Kissinger
+  publisher: Wikipedia
+updated: '2026-10-11'

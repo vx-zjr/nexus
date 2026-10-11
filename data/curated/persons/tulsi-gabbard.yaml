@@ -1,0 +1,31 @@
+id: tulsi-gabbard
+type: person
+name: Tulsi Gabbard
+names:
+  en: Tulsi Gabbard
+  zh: 图尔西·加巴德
+gender: F
+born: '1981-04-12'
+country:
+- US
+sectors:
+- politics
+- security
+tier: 2
+status: retired
+summary: 前国家情报总监（2025-02–2026-06），以丈夫患癌为由辞职。前夏威夷民主党众议员，2022 年退出民主党。
+positions:
+- title: 国家情报总监
+  org: us-cabinet
+  from: '2025-02-12'
+  to: '2026-06-19'
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.hawaiinewsnow.com/2026/06/20/tulsi-gabbard-exits-role-director-national-intelligence/
+  title: Tulsi Gabbard exits role as director of national intelligence
+  publisher: Hawaii News Now
+  date: '2026-06-20'
+updated: '2026-10-11'

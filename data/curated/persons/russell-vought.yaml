@@ -1,0 +1,30 @@
+id: russell-vought
+type: person
+name: Russell Vought
+names:
+  en: Russell Vought
+  zh: 拉塞尔·沃特
+gender: M
+born: '1976-03-26'
+country:
+- US
+sectors:
+- politics
+tier: 2
+status: active
+summary: 白宫管理和预算办公室（OMB）主任（2025–），“Project 2025”主要设计者之一。
+positions:
+- title: OMB 主任
+  org: us-white-house
+  from: '2025-02-07'
+  current: true
+- title: OMB 主任
+  org: us-white-house
+  from: 2020-07
+  to: 2021-01
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

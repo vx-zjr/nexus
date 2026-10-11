@@ -1,0 +1,20 @@
+id: rupert-murdoch
+type: person
+name: Rupert Murdoch
+names:
+  en: Rupert Murdoch
+  zh: 鲁珀特·默多克
+gender: M
+born: '1931-03-11'
+country:
+- US
+- AU
+sectors:
+- media
+- business
+tier: 1
+summary: 新闻集团、福克斯公司缔造者。1999–2013 年与邓文迪婚姻；2025-09 家族信托纠纷和解后由长子 Lachlan 独掌控制权。
+sources:
+- url: https://en.wikipedia.org/wiki/Rupert_Murdoch
+  publisher: Wikipedia
+updated: '2026-10-11'

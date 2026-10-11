@@ -1,0 +1,26 @@
+id: susie-wiles
+type: person
+name: Susie Wiles
+names:
+  en: Susie Wiles
+  zh: 苏茜·怀尔斯
+gender: F
+born: '1957-05-14'
+country:
+- US
+sectors:
+- politics
+tier: 1
+status: active
+summary: 白宫幕僚长（2025–），首位女性幕僚长；2024 年竞选联合主席。
+positions:
+- title: 白宫幕僚长
+  org: us-white-house
+  from: '2025-01-20'
+  current: true
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

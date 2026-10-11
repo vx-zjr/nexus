@@ -1,0 +1,51 @@
+id: shi-taifeng
+type: person
+name: 石泰峰
+names:
+  zh: 石泰峰
+  en: Shi Taifeng
+gender: M
+born: 1956-09
+country:
+- CN
+sectors:
+- politics
+tier: 2
+status: active
+summary: 中组部部长（2025-04 起，与李干杰“罕见对调”）、中央书记处书记。此前任中央统战部部长（2022–2025）。习近平任中央党校校长时的常务副校长。
+positions:
+- title: 中组部部长
+  org: ccp-organization-department
+  from: 2025-04
+  current: true
+- title: 中央书记处书记
+  org: ccp-secretariat
+  from: 2022-10
+  current: true
+- title: 政治局委员
+  org: ccp-politburo
+  from: 2022-10
+  current: true
+- title: 中央统战部部长
+  org: ccp-united-front-work-department
+  from: 2022-10
+  to: 2025-04
+- title: 中国社会科学院院长
+  from: 2020-04
+  to: 2022-10
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+- url: https://www.stheadline.com/zh-hans/realtime-china/3443367/罕见对调石泰峰掌中央组织部-李干杰任中央统战部长独家
+  title: 罕见对调｜石泰峰掌中央组织部 李干杰任中央统战部长
+  publisher: 星岛日报
+  date: '2025-04-02'
+- url: https://www.aol.com/news/two-senior-chinese-communist-party-112716292.html
+  title: Two senior Chinese Communist Party officials swap jobs in 'unprecedented' move
+  date: 2025-04
+updated: '2026-10-11'

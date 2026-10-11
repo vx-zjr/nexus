@@ -1,0 +1,19 @@
+id: chen-liangyu
+type: person
+name: 陈良宇
+names:
+  zh: 陈良宇
+  en: Chen Liangyu
+gender: M
+born: 1946-10
+country:
+- CN
+sectors:
+- politics
+tier: 3
+status: detained
+summary: 前上海市委书记、政治局委员，2006 年因上海社保基金案落马，2008 年被判 18 年。
+sources:
+- url: https://en.wikipedia.org/wiki/Chen_Liangyu
+  publisher: Wikipedia
+updated: '2026-10-11'

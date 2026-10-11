@@ -1,0 +1,18 @@
+id: shou-zi-chew
+type: person
+name: 周受资
+names:
+  en: 周受资
+  zh: Shou Zi Chew
+gender: M
+born: '1983'
+country:
+- SG
+sectors:
+- tech
+tier: 2
+summary: 新加坡籍，TikTok CEO（2021–），TikTok 美国合资公司董事。
+sources:
+- url: https://en.wikipedia.org/wiki/Shou_Zi_Chew
+  publisher: Wikipedia
+updated: '2026-10-11'

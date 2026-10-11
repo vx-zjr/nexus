@@ -1,0 +1,169 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+relations:
+  - from: qi-xin
+    to: xi-jinping
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qiao-shi
+    to: yu-wen
+    type: spouse
+    since: "1952"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1326536
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qian-zhengying
+    to: huang-xinbai
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8248863
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qian-min
+    to: qian-haihao
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317417
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qian-qichen
+    to: peking-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q469516
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qian-qichen
+    to: shanghai-datong-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q469516
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qiao-shi
+    to: tongji-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1326536
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qiao-shi
+    to: no-1-high-school-affiliated-to-east-china-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1326536
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qian-zhengying
+    to: shanghai-datong-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8248863
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qi-xuchun
+    to: peking-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9026646
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qiangba-puncog
+    to: chongqing-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1335590
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qiang-wei
+    to: university-of-science-and-technology-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7267632
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qiao-qingchen
+    to: pla-national-defence-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6148061
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qin-weijiang
+    to: pla-national-defence-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316992
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qin-shengxiang
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16906418
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qu-qingshan
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18653671
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qu-qingshan
+    to: shaanxi-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18653671
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qiu-yong
+    to: tsinghua-university
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19692053
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qiu-yong
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19692053
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qin-weizhong
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97194002
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qin-yinglin
+    to: muyuan-foods
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22100291
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qin-yinglin
+    to: muyuan-foods
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22100291
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: qin-yinglin
+    to: henan-agricultural-university
+    type: alumni
+    until: "1989"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22100291
+        publisher: Wikidata
+        accessed: 2026-10-11

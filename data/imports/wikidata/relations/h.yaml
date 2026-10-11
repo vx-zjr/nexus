@@ -1,0 +1,1925 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+relations:
+  - from: hu-jintao
+    to: hu-haifeng
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15029
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hu-jintao
+    to: hu-haiqing
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15029
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hu-jintao
+    to: liu-yongqing
+    type: spouse
+    since: 1970-02-01
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15029
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ho-yin
+    to: edmund-ho
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3048127
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: he-siyuan
+    to: he-luli
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1592181
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: he-guoqiang
+    to: he-jintao
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q737894
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-jing
+    to: yu-zhengsheng
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115671
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hu-ming
+    to: bo-xilai
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21822
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: he-pengfei
+    to: he-jiesheng
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8331826
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: he-long
+    to: he-pengfei
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8331826
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hugh-e-rodham
+    to: hillary-clinton
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hillary-clinton
+    to: chelsea-clinton
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hillary-clinton
+    to: hugh-rodham
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hillary-clinton
+    to: anthony-dean-rodham
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hillary-clinton
+    to: bill-clinton
+    type: spouse
+    since: 1975-10-11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hazel-r-o-leary
+    to: max-robinson
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q465586
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hazel-r-o-leary
+    to: john-f-o-leary
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q465586
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: harold-schafer
+    to: ed-schafer
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q887102
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: howard-lutnick
+    to: gary-frederick-lutnick
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16194176
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: heidi-heitkamp
+    to: joel-heitkamp
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50597
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hugh-auchincloss-jr
+    to: jake-auchincloss
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q101196632
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: helen-cole
+    to: tom-cole
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q173839
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hank-meijer
+    to: peter-meijer
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96419165
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: helen-louella
+    to: rick-snyder
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q887111
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hu-haifeng
+    to: hu-haiqing
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q262261
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hu-jintao
+    to: hu-haifeng
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q262261
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hu-haifeng
+    to: mao-daolin-1963
+    type: in-law
+    label: 婿
+    sources:
+      - url: https://www.wikidata.org/wiki/Q262261
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-fok
+    to: timothy-fok
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7807201
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ho-iat-seng
+    to: ho-teng-iat
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9346254
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: helen-walton
+    to: s-robson-walton
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q736477
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herbert-fisk-johnson-iii
+    to: helen-johnson-leipold
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5734095
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herbert-fisk-johnson-iii
+    to: s-curtis-johnson
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5734095
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herbert-fisk-johnson-iii
+    to: winnie-johnson-marquart
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5734095
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: helen-walton
+    to: alice-walton
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q289571
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-kravis
+    to: marie-josee-kravis
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q933721
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: helen-johnson-leipold
+    to: winnie-johnson-marquart
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5702551
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: helen-johnson-leipold
+    to: craig-leipold
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5702551
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hank-meijer
+    to: peter-meijer
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18763618
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: howard-homan-buffett
+    to: warren-buffett
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47213
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: howard-winklevoss
+    to: tyler-winklevoss
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3066193
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: howard-winklevoss
+    to: cameron-winklevoss
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3066455
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-caruso
+    to: rick-j-caruso
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7331476
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herb-simon
+    to: melvin-simon
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5735576
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herb-simon
+    to: diane-meyer-simon
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5735576
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herb-simon
+    to: bui-simon
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5735576
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: h-l-hunt
+    to: ray-lee-hunt
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7297744
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herbert-vollrath-kohler-sr
+    to: herbert-kohler-jr
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16105137
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herbert-kohler-jr
+    to: david-kohler
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16105137
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herbert-kohler-jr
+    to: ruth-deyoung-kohler-1941
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16105137
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: howard-edward-butt-sr
+    to: charles-butt
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5075937
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: helen-walton
+    to: jim-walton
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q741784
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-nicholas
+    to: marsalee-nicholas
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5726332
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hillary-clinton
+    to: chelsea-clinton
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q229671
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: harriet-may-norton
+    to: robert-noyce
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q241735
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: helen-giuliani
+    to: rudy-giuliani
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q212648
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hugo-wolfram
+    to: stephen-wolfram
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q310798
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: helen-arakelian
+    to: robert-kardashian
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1816737
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hunter-biden
+    to: beau-biden
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5944264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hunter-biden
+    to: ashley-biden
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5944264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hunter-biden
+    to: amy-biden
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5944264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hunter-biden
+    to: finnegan-biden
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5944264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hunter-biden
+    to: maisy-biden
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5944264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hunter-biden
+    to: naomi-biden
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5944264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hunter-biden
+    to: kathleen-biden
+    type: ex-spouse
+    since: "1993"
+    until: "2017"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5944264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hunter-biden
+    to: melissa-cohen
+    type: spouse
+    since: "2019"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5944264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hu-chunhua
+    to: peking-university
+    type: alumni
+    label: Bachelor of Arts
+    until: 1983-08-01
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1185298
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: han-zheng
+    to: east-china-normal-university
+    type: alumni
+    label: master's degree
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48405
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: han-zheng
+    to: fudan-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48405
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-ju
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q505710
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: he-lifeng
+    to: central-financial-commission
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8291839
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: he-lifeng
+    to: xiamen-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8291839
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hu-jintao
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15029
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: han-qide
+    to: peking-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1574134
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: han-qide
+    to: xi-an-jiaotong-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1574134
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: han-qide
+    to: fudan-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1574134
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hao-mingjin
+    to: northeast-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16907517
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hao-mingjin
+    to: shandong-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16907517
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hao-mingjin
+    to: china-university-of-political-science-and-law
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16907517
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: he-guoqiang
+    to: beijing-university-of-chemical-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q737894
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: he-weidong
+    to: national-university-of-defense-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28409057
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-kunming
+    to: fujian-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292452
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-kunming
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292452
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hu-heping
+    to: university-of-tokyo
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292447
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hu-heping
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292447
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-shuxian
+    to: nanjing-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8293836
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: han-changfu
+    to: renmin-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q376439
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hu-yongzhu
+    to: heilongjiang-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317063
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: he-weirong
+    to: pla-national-defence-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319657
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hao-peng
+    to: northwestern-polytechnical-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292448
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hillary-clinton
+    to: arkansas-advocates-for-children-and-families
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hillary-clinton
+    to: office-on-violence-against-women
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hillary-clinton
+    to: save-america-s-treasures
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hillary-clinton
+    to: onward-together
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hillary-clinton
+    to: university-of-arkansas
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hillary-clinton
+    to: columbia-university
+    type: position
+    label: 任职
+    since: "2023"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hillary-clinton
+    to: wellesley-college
+    type: alumni
+    label: Bachelor of Arts
+    since: "1965"
+    until: "1969"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hillary-clinton
+    to: yale-law-school
+    type: alumni
+    label: Juris Doctor
+    since: "1969"
+    until: "1973"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: heather-wilson
+    to: university-of-oxford
+    type: alumni
+    label: Doctor of Philosophy
+    until: "1985"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q459712
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: heather-wilson
+    to: united-states-air-force-academy
+    type: alumni
+    label: Bachelor of Science
+    until: "1982"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q459712
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: heather-wilson
+    to: university-of-oxford
+    type: alumni
+    label: Master of Philosophy
+    until: "1985"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q459712
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-l-garrett-iii
+    to: university-of-san-diego
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3784962
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-l-garrett-iii
+    to: university-of-miami
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3784962
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hansford-t-johnson
+    to: stanford-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5651089
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hansford-t-johnson
+    to: united-states-air-force-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5651089
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hansford-t-johnson
+    to: university-of-colorado
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5651089
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hansford-t-johnson
+    to: united-states-army-command-and-general-staff-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5651089
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hazel-r-o-leary
+    to: fisk-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q465586
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hazel-r-o-leary
+    to: fisk-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q465586
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hazel-r-o-leary
+    to: rutgers-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q465586
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hazel-r-o-leary
+    to: rutgers-law-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q465586
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hazel-r-o-leary
+    to: rutgers-school-of-law-newark
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q465586
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hilda-solis
+    to: california-state-polytechnic-university-pomona
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50610
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hilda-solis
+    to: university-of-southern-california
+    type: alumni
+    label: Master of Arts
+    until: "1981"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50610
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hilda-solis
+    to: california-state-polytechnic-university-pomona
+    type: alumni
+    label: Bachelor of Arts
+    until: "1979"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50610
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hilda-solis
+    to: usc-sol-price-school-of-public-policy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50610
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: howard-m-radzely
+    to: the-wharton-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5920259
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: howard-m-radzely
+    to: harvard-law-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5920259
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: h-r-mcmaster
+    to: united-states-military-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5628492
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: h-r-mcmaster
+    to: valley-forge-military-academy-and-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5628492
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: h-r-mcmaster
+    to: university-of-north-carolina-at-chapel-hill
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5628492
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: h-r-mcmaster
+    to: joint-forces-staff-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5628492
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: h-r-mcmaster
+    to: united-states-army-command-and-general-staff-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5628492
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: howard-lutnick
+    to: haverford-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16194176
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-cisneros
+    to: urban-institute
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1606601
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-cisneros
+    to: national-hispanic-leadership-agenda
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1606601
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-cisneros
+    to: john-f-kennedy-school-of-government
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1606601
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-cisneros
+    to: texas-a-and-m-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1606601
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-cisneros
+    to: george-washington-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1606601
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-paulson
+    to: goldman-sachs
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311025
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-paulson
+    to: united-states-department-of-the-treasury
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311025
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-paulson
+    to: dartmouth-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311025
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-paulson
+    to: harvard-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311025
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-paulson
+    to: harvard-business-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311025
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: harvey-s-rosen
+    to: princeton-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1587931
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: harvey-s-rosen
+    to: harvard-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1587931
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: harvey-s-rosen
+    to: university-of-michigan-college-of-literature-science-and-the-arts
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1587931
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: heidi-heitkamp
+    to: lewis-and-clark-law-school
+    type: alumni
+    label: Juris Doctor
+    until: "1980"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50597
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: heidi-heitkamp
+    to: university-of-north-dakota
+    type: alumni
+    label: Bachelor of Arts
+    until: "1977"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50597
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: heidi-heitkamp
+    to: lewis-and-clark-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50597
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hillary-scholten
+    to: university-of-maryland-francis-king-carey-school-of-law
+    type: alumni
+    label: Juris Doctor
+    until: "2011"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115137368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: harriet-hageman
+    to: central-michigan-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110815967
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: harriet-hageman
+    to: university-of-wyoming
+    type: alumni
+    label: Bachelor of Science
+    until: "1986"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110815967
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: harriet-hageman
+    to: university-of-wyoming-college-of-law
+    type: alumni
+    label: Juris Doctor
+    until: "1989"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110815967
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-cuellar
+    to: university-of-texas-at-austin
+    type: alumni
+    label: Doctor of Philosophy
+    until: "1998"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q539562
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-cuellar
+    to: georgetown-university
+    type: alumni
+    label: Bachelor of Science
+    until: "1978"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q539562
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-cuellar
+    to: university-of-texas-at-austin
+    type: alumni
+    label: Juris Doctor
+    until: "1981"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q539562
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-cuellar
+    to: walsh-school-of-foreign-service
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q539562
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hank-johnson
+    to: thurgood-marshall-school-of-law
+    type: alumni
+    label: Juris Doctor
+    until: "1979"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q983537
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hank-johnson
+    to: clark-atlanta-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1976"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q983537
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: haley-stevens
+    to: american-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58322563
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hal-rogers
+    to: university-of-kentucky
+    type: alumni
+    label: Bachelor of Laws
+    until: "1962"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q547153
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hal-rogers
+    to: university-of-kentucky
+    type: alumni
+    label: Bachelor of Arts
+    until: "1962"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q547153
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hal-rogers
+    to: western-kentucky-university
+    type: alumni
+    since: "1956"
+    until: "1957"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q547153
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hal-rogers
+    to: university-of-kentucky-college-of-law
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q547153
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hakeem-jeffries
+    to: paul-weiss-rifkind-wharton-and-garrison
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5640425
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hakeem-jeffries
+    to: new-york-university
+    type: alumni
+    label: Juris Doctor
+    until: "1997"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5640425
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hakeem-jeffries
+    to: binghamton-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1992"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5640425
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hakeem-jeffries
+    to: georgetown-university
+    type: alumni
+    label: Master of Public Policy
+    until: "1994"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5640425
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hakeem-jeffries
+    to: new-york-university-school-of-law
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5640425
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-mcmaster
+    to: university-of-south-carolina-school-of-law
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5725737
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-mcmaster
+    to: university-of-south-carolina
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5725737
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hou-jianguo
+    to: university-of-science-and-technology-of-china
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8970125
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hou-jianguo
+    to: university-of-science-and-technology-of-china
+    type: alumni
+    label: bachelor's degree
+    since: "1978"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8970125
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hou-jianguo
+    to: university-of-science-and-technology-of-china
+    type: alumni
+    label: master's degree
+    since: "1978"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8970125
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hou-jianguo
+    to: university-of-science-and-technology-of-china
+    type: alumni
+    label: doctorate
+    since: "1978"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8970125
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huai-jinpeng
+    to: beihang-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9142144
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huai-jinpeng
+    to: jilin-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9142144
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huai-jinpeng
+    to: harbin-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9142144
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huai-jinpeng
+    to: beihang-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9142144
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: he-junke
+    to: national-university-of-defense-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8971221
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hou-kai
+    to: central-university-of-finance-and-economics
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15939018
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-xiaowei
+    to: northeastern-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16908373
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-xiaowei
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16908373
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hu-changsheng
+    to: shandong-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16921253
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hu-yuting
+    to: xi-an-jiaotong-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18109527
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hu-yuting
+    to: peking-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18109527
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hu-yuting
+    to: university-of-science-and-technology-beijing
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18109527
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-shouhong
+    to: beijing-agricultural-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28408957
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: he-rong
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30950291
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: he-rong
+    to: china-university-of-political-science-and-law
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30950291
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-qiang
+    to: northwestern-polytechnical-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30941468
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-jianfa
+    to: zhejiang-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30947255
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-jianfa
+    to: university-of-chinese-academy-of-sciences
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30947255
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-jianfa
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30947255
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: han-wenxiu
+    to: renmin-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q85885247
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: han-liming
+    to: southeast-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16908114
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: he-yaling
+    to: xi-an-jiaotong-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28413483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hu-wenrong
+    to: shandong-university-of-science-and-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47670064
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hu-wenrong
+    to: tongji-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47670064
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-ru
+    to: peking-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60991354
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-zhiqiang
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q98136757
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hong-qing
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111693029
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hong-qing
+    to: northeast-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111693029
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hu-haifeng
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q262261
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: he-xiangjian
+    to: midea
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1515641
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-guangyu
+    to: gome-electrical-appliances
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5925535
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-guangyu
+    to: renmin-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5925535
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-ming-1958
+    to: solar-valley
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5925648
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-ming-1958
+    to: china-university-of-petroleum
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5925648
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ho-tsu-kwok-charles
+    to: sing-tao-news-corporation-limited
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7259012
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ho-tsu-kwok-charles
+    to: diocesan-boys-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7259012
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ho-iat-seng
+    to: jinan-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9346254
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ho-iat-seng
+    to: zhejiang-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9346254
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: huang-yinbao
+    to: esperanto-centro-ora-ponto
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27994659
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herbert-fisk-johnson-iii
+    to: s-c-johnson-and-son
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5734095
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herbert-fisk-johnson-iii
+    to: s-c-johnson-and-son
+    type: position
+    label: 任职
+    since: "1987"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5734095
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herbert-fisk-johnson-iii
+    to: samuel-curtis-johnson-graduate-school-of-management
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5734095
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herbert-fisk-johnson-iii
+    to: cornell-university-college-of-engineering
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5734095
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herbert-fisk-johnson-iii
+    to: cornell-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5734095
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-kravis
+    to: kohlberg-kravis-roberts
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q933721
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-kravis
+    to: claremont-mckenna-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q933721
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-kravis
+    to: columbia-business-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q933721
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: helen-johnson-leipold
+    to: cornell-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5702551
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: harold-hamm
+    to: continental-resources
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1585842
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hamilton-e-james
+    to: costco
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16149081
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hamilton-e-james
+    to: choate-rosemary-hall
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16149081
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hamilton-e-james
+    to: harvard-business-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16149081
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hamilton-e-james
+    to: harvard-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16149081
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hank-meijer
+    to: creston-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18763618
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hank-meijer
+    to: university-of-michigan-college-of-literature-science-and-the-arts
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18763618
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: howard-schultz
+    to: maveron
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q472330
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: howard-schultz
+    to: seattle-supersonics
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q472330
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: howard-schultz
+    to: pi
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q472330
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: howard-schultz
+    to: xerox
+    type: position
+    label: 任职
+    since: "1975"
+    until: "1979"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q472330
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herb-simon
+    to: simon-property-group
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5735576
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herb-simon
+    to: indiana-pacers
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5735576
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herb-simon
+    to: indiana-fever
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5735576
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herb-simon
+    to: simon-property-group
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5735576
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herb-simon
+    to: kirkus-reviews
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5735576
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herb-simon
+    to: reno-1868-fc
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5735576
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herb-simon
+    to: city-college-of-new-york
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5735576
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herbert-kohler-jr
+    to: choate-rosemary-hall
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16105137
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herbert-kohler-jr
+    to: phillips-exeter-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16105137
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herbert-kohler-jr
+    to: yale-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16105137
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-samueli
+    to: broadcom
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q944937
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-samueli
+    to: broadcom
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q944937
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-samueli
+    to: broadcom-2
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q944937
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-samueli
+    to: university-of-california-los-angeles
+    type: position
+    label: 任职
+    since: "1985"
+    until: "1995"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q944937
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-samueli
+    to: broadcom-2
+    type: position
+    label: 任职
+    since: "1991"
+    until: "2016"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q944937
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-samueli
+    to: broadcom
+    type: position
+    label: 任职
+    since: 2016-02-01
+    until: 2018-12-01
+    sources:
+      - url: https://www.wikidata.org/wiki/Q944937
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-samueli
+    to: university-of-california-los-angeles
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q944937
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-samueli
+    to: fairfax-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q944937
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-nicholas
+    to: broadcom-2
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5726332
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-nicholas
+    to: the-henry-t-nicholas-iii-foundation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5726332
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-nicholas
+    to: university-of-california-irvine
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5726332
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: henry-nicholas
+    to: university-of-california-los-angeles
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5726332
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herb-kohl
+    to: harvard-business-school
+    type: alumni
+    label: Master of Business Administration
+    until: "1958"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q560447
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herb-kohl
+    to: university-of-wisconsin-madison
+    type: alumni
+    until: "1956"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q560447
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herb-kohl
+    to: harvard-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q560447
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herman-cain
+    to: the-coca-cola-company
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q491019
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herman-cain
+    to: morehouse-college
+    type: alumni
+    label: Bachelor of Science
+    sources:
+      - url: https://www.wikidata.org/wiki/Q491019
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: herman-cain
+    to: purdue-university
+    type: alumni
+    label: Master of Science
+    sources:
+      - url: https://www.wikidata.org/wiki/Q491019
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hunter-biden
+    to: rosemont-seneca-partners
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5944264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hunter-biden
+    to: united-states-department-of-commerce
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5944264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hunter-biden
+    to: amtrak
+    type: position
+    label: 任职
+    since: 2006-07-26
+    until: 2009-01-29
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5944264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hunter-biden
+    to: yale-law-school
+    type: alumni
+    label: Juris Doctor
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5944264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hunter-biden
+    to: georgetown-university
+    type: alumni
+    label: Bachelor of Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5944264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: hunter-biden
+    to: archmere-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5944264
+        publisher: Wikidata
+        accessed: 2026-10-11

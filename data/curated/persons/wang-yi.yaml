@@ -1,0 +1,42 @@
+id: wang-yi
+type: person
+name: 王毅
+names:
+  zh: 王毅
+  en: Wang Yi
+gender: M
+born: 1953-10
+country:
+- CN
+sectors:
+- politics
+- diplomacy
+tier: 2
+status: active
+summary: 中央外事工作委员会办公室主任（2022–）、外交部长（2013–2022；2023-07 秦刚被免后复任）。
+positions:
+- title: 外交部长
+  org: state-council-prc
+  from: 2023-07
+  current: true
+- title: 中央外办主任
+  org: ccp-central-foreign-affairs-commission
+  from: 2022-10
+  current: true
+- title: 政治局委员
+  org: ccp-politburo
+  from: 2022-10
+  current: true
+- title: 外交部长
+  org: state-council-prc
+  from: 2013-03
+  to: 2022-12
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+updated: '2026-10-11'

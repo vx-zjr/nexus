@@ -1,0 +1,4403 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: e-bronson-ingram-ii
+    type: person
+    name: E. Bronson Ingram II
+    names:
+      en: E. Bronson Ingram II
+    gender: M
+    born: 1931-11-27
+    died: 1995-06-15
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman (1931–1995)
+    ids:
+      wikidata: Q5321759
+    links:
+      - https://en.wikipedia.org/wiki/E._Bronson_Ingram_II
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5321759
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: e-jingping
+    type: person
+    name: 鄂竟平
+    names:
+      zh: 鄂竟平
+      en: E Jingping
+    gender: M
+    born: "1956"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物、水利学家
+    ids:
+      wikidata: Q8292438
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%84%82%E7%AB%9F%E5%B9%B3
+      - https://en.wikipedia.org/wiki/E_Jingping
+    tags:
+      - cn-ministers
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292438
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国水利部部长
+        org: ministry-of-water-resources-of-the-people-s-republic-of-china
+        from: 2018-03-19
+        to: 2021-02-28
+  - id: earl-blumenauer
+    type: person
+    name: Earl Blumenauer
+    names:
+      zh: 埃爾·布盧姆諾爾
+      en: Earl Blumenauer
+    gender: M
+    born: 1948-08-16
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American politician (born 1948)
+    ids:
+      wikidata: Q748066
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8E%84%E7%88%BE%C2%B7%E5%B8%83%E7%9B%A7%E6%A2%85%E7%91%99%E7%88%BE
+      - https://en.wikipedia.org/wiki/Earl_Blumenauer
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q748066
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 專員
+        org: commission
+        from: "1986"
+        to: "1996"
+      - title: 專員
+        org: commission
+        from: "1978"
+        to: "1985"
+      - title: 会长
+        org: organization
+        from: "1970"
+        to: "1977"
+      - title: 成员
+        org: membership-organization
+        from: "1975"
+        to: "1981"
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1996-05-21
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 俄勒岡州眾議員
+        org: oregon-house-of-representatives
+        from: "1973"
+        to: "1978"
+  - id: ed-bass
+    type: person
+    name: Ed Bass
+    names:
+      zh: 艾德·巴斯
+      en: Ed Bass
+    gender: M
+    born: 1945-09-10
+    country:
+      - US
+    sectors:
+      - finance
+    tier: 5
+    summary: American financier and philanthropist
+    ids:
+      wikidata: Q5334534
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E5%BE%B7%C2%B7%E5%B7%B4%E6%96%AF
+      - https://en.wikipedia.org/wiki/Ed_Bass
+    tags:
+      - relative
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5334534
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ed-case
+    type: person
+    name: Ed Case
+    names:
+      zh: 埃德·凱斯
+      en: Ed Case
+    gender: M
+    born: 1952-09-27
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q597613
+    links:
+      - https://en.wikipedia.org/wiki/Ed_Case
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q597613
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2002-11-30
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: member of the Hawaii House of Representatives
+        org: hawaii-house-of-representatives
+        from: "1994"
+        to: "2002"
+  - id: ed-derwinski
+    type: person
+    name: Ed Derwinski
+    names:
+      zh: 爱德华·德文斯基
+      en: Ed Derwinski
+    gender: M
+    born: 1926-09-15
+    died: 2012-01-15
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: 美國政治人物 (1926–2012)
+    ids:
+      wikidata: Q546986
+    links:
+      - https://en.wikipedia.org/wiki/Ed_Derwinski
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q546986
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国退伍军人事务部长
+        org: united-states-department-of-veterans-affairs
+        from: 1989-03-15
+        to: 1992-09-26
+      - title: 美國國務院顧問
+        from: 1983-03-23
+        to: 1987-03-24
+      - title: 伊利諾州眾議員
+        org: illinois-house-of-representatives
+      - title: 美國國務院軍備控制和國際安全事務次卿
+        from: 1987-03-24
+        to: 1989-01-21
+      - title: 美国众议员
+        org: us-house
+        from: 1963-01-03
+        to: 1965-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1965-01-03
+        to: 1967-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1977-01-03
+        to: 1979-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1961-01-03
+        to: 1963-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1969-01-03
+        to: 1971-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1975-01-03
+        to: 1977-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 1979-01-03
+        to: 1981-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1971-01-03
+        to: 1973-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1973-01-03
+        to: 1975-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1981-01-03
+        to: 1983-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1967-01-03
+        to: 1969-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1959-01-03
+        to: 1961-01-03
+      - title: Administrator of Veterans Affairs
+        org: united-states-department-of-veterans-affairs
+        from: 1989-01-21
+        to: 1989-03-15
+  - id: ed-markey
+    type: person
+    name: Ed Markey
+    names:
+      zh: 爱德华·马基
+      en: Ed Markey
+    gender: M
+    born: 1946-07-11
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: American politician (born 1946)
+    ids:
+      wikidata: Q1282411
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E5%BE%B7%C2%B7%E9%A9%AC%E5%9F%BA
+      - https://en.wikipedia.org/wiki/Ed_Markey
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 36
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1282411
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国参议员
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-07-16
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1981-01-03
+        to: 1983-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1976-11-02
+        to: 1977-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1977-01-03
+        to: 1979-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1985-01-03
+        to: 1987-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1983-01-03
+        to: 1985-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1979-01-03
+        to: 1981-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2013-07-15
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 参议员
+        org: senate
+      - title: 麻薩諸塞州眾議員
+        org: massachusetts-house-of-representatives
+        from: "1973"
+        to: "1976"
+      - title: 麻薩諸塞州眾議員
+        org: massachusetts-house-of-representatives
+        from: 1975-01-03
+        to: 1976-11-02
+  - id: ed-perlmutter
+    type: person
+    name: Ed Perlmutter
+    names:
+      zh: 埃德·珀爾馬特
+      en: Ed Perlmutter
+    gender: M
+    born: 1953-05-01
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: U.S. Representative from Colorado
+    ids:
+      wikidata: Q331507
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E5%BE%B7%C2%B7%E7%8F%80%E7%88%BE%E9%A6%AC%E7%89%B9
+      - https://en.wikipedia.org/wiki/Ed_Perlmutter
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q331507
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 科羅拉多州參議員
+        org: colorado-senate
+        from: "1995"
+        to: "2003"
+  - id: ed-roski-jr
+    type: person
+    name: Ed Roski Jr.
+    names:
+      en: Ed Roski Jr.
+    gender: M
+    born: "1938"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: Businessman, Billionaire and United States Marine
+    netWorth:
+      usd: 7400000000
+    ids:
+      wikidata: Q5344735
+    links:
+      - https://en.wikipedia.org/wiki/Ed_Roski_Jr.
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5344735
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ed-schafer
+    type: person
+    name: Ed Schafer
+    names:
+      zh: 埃德·谢弗
+      en: Ed Schafer
+    gender: M
+    born: 1946-08-08
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 2
+    summary: 美国政治人物
+    ids:
+      wikidata: Q887102
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E5%BE%B7%C2%B7%E8%B0%A2%E5%BC%97
+      - https://en.wikipedia.org/wiki/Ed_Schafer
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q887102
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國農業部長
+        org: united-states-department-of-agriculture
+        from: 2008-01-28
+        to: 2009-01-20
+      - title: 北達科他州州長
+        org: state-of-north-dakota
+        from: 1992-12-15
+        to: 2000-12-15
+  - id: eddie-bernice-johnson
+    type: person
+    name: Eddie Bernice Johnson
+    names:
+      zh: 艾迪·伯尼斯·強森
+      en: Eddie Bernice Johnson
+    gender: F
+    born: 1934-12-03
+    died: 2023-12-31
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: American politician (1934–2023)
+    ids:
+      wikidata: Q461526
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E8%BF%AA%C2%B7%E4%BC%AF%E5%B0%BC%E6%96%AF%C2%B7%E5%BC%B7%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Eddie_Bernice_Johnson
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461526
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: member of the State Senate of Texas
+        org: texas-senate
+        from: "1986"
+        to: "1992"
+      - title: Chair of the Congressional Black Caucus
+        org: congressional-black-caucus
+        from: "2001"
+        to: "2003"
+      - title: 德克薩斯州眾議員
+        org: texas-house-of-representatives
+        from: "1972"
+        to: "1977"
+  - id: eden-sassoon
+    type: person
+    name: Eden Sassoon
+    names:
+      en: Eden Sassoon
+    gender: F
+    born: "1973"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: Beauty & Wellness Consultant
+    ids:
+      wikidata: Q16214606
+    links:
+      - https://en.wikipedia.org/wiki/Eden_Sassoon
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16214606
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: edgar-mitchell
+    type: person
+    name: Edgar Mitchell
+    names:
+      zh: 艾德加·米切尔
+      en: Edgar Mitchell
+    gender: M
+    born: 1930-09-17
+    died: 2016-02-04
+    country:
+      - US
+    sectors:
+      - business
+      - military
+    tier: 4
+    summary: American astronaut (1930-2016)
+    ids:
+      wikidata: Q295873
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E5%BE%B7%E5%8A%A0%C2%B7%E7%B1%B3%E5%88%87%E5%B0%94
+      - https://en.wikipedia.org/wiki/Edgar_Mitchell
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 52
+    sources:
+      - url: https://www.wikidata.org/wiki/Q295873
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: edgar-prince
+    type: person
+    name: Edgar Prince
+    names:
+      zh: 艾德加·普林斯
+      en: Edgar Prince
+    gender: M
+    born: 1931-05-03
+    died: 1995-03-02
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessperson (1931-1995)
+    ids:
+      wikidata: Q20685182
+    links:
+      - https://en.wikipedia.org/wiki/Edgar_Prince
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20685182
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: edgar-uihlein
+    type: person
+    name: Edgar Uihlein
+    names:
+      en: Edgar Uihlein
+    gender: M
+    born: "1916"
+    died: 2005-05-19
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: American politician
+    ids:
+      wikidata: Q58895611
+    links:
+      - https://en.wikipedia.org/wiki/Edgar_Uihlein
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58895611
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: edith-eliza-farnsworth
+    type: person
+    name: Edith Eliza Farnsworth
+    names:
+      en: Edith Eliza Farnsworth
+    gender: F
+    born: 1927-12-18
+    died: 2007-02-21
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American foreign policy analyst
+    ids:
+      wikidata: Q104036929
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104036929
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: edmund-ho
+    type: person
+    name: 何厚铧
+    names:
+      zh: 何厚铧
+      en: Edmund Ho
+    gender: M
+    born: 1955-03-13
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中國政協全國委員會副主席、原澳門行政長官
+    ids:
+      wikidata: Q3048127
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BD%95%E5%8E%9A%E9%8F%B5
+      - https://en.wikipedia.org/wiki/Edmund_Ho
+    tags:
+      - cn-leaders
+      - party:independent politician
+    attrs:
+      party: independent politician
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3048127
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 澳門特別行政區行政長官
+        from: 1999-12-20
+        to: 2009-12-19
+      - title: 中国人民政治协商会议全国委员会副主席
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+        from: 2010-03-13
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国人民代表大会常务委员会委员
+        org: npc-standing-committee
+      - title: 立法會議員
+        org: legislative-assembly-of-macau
+        from: 1999-10-12
+        to: 2001-10-15
+  - id: edna-disney
+    type: person
+    name: Edna Disney
+    names:
+      en: Edna Disney
+    gender: F
+    born: 1890-01-16
+    died: 1984-12-18
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: wife of Roy O. Disney
+    ids:
+      wikidata: Q18113545
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18113545
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: eduardo-saverin
+    type: person
+    name: Eduardo Saverin
+    names:
+      zh: 爱德华多·萨维林
+      en: Eduardo Saverin
+    gender: M
+    born: 1982-03-19
+    country:
+      - US
+      - BR
+      - SG
+    sectors:
+      - business
+      - tech
+      - academia
+    tier: 3
+    summary: 巴西企业家、Facebook联合创始人
+    netWorth:
+      usd: 9700000000
+    ids:
+      wikidata: Q312663
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%84%9B%E5%BE%B7%E8%8F%AF%E5%A4%9A%C2%B7%E8%96%A9%E7%B6%AD%E6%9E%97
+      - https://en.wikipedia.org/wiki/Eduardo_Saverin
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 44
+    sources:
+      - url: https://www.wikidata.org/wiki/Q312663
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: edward-c-hugler
+    type: person
+    name: Edward C. Hugler
+    names:
+      zh: 愛德華·C·赫格勒
+      en: Edward C. Hugler
+    gender: M
+    born: 1950-02-07
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American government official
+    ids:
+      wikidata: Q5342139
+    links:
+      - https://en.wikipedia.org/wiki/Edward_C._Hugler
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5342139
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国劳工部长
+        org: united-states-department-of-labor
+        from: 2017-01-20
+        to: 2017-04-27
+      - title: 美国劳工部长
+        org: united-states-department-of-labor
+        from: 2009-02-02
+        to: 2009-02-24
+  - id: edward-c-johnson-ii
+    type: person
+    name: Edward C. Johnson II
+    names:
+      en: Edward C. Johnson II
+    gender: M
+    born: 1898-01-19
+    died: 1984-04-02
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American businessman and lawyer (1898–1984)
+    ids:
+      wikidata: Q28870565
+    links:
+      - https://en.wikipedia.org/wiki/Edward_C._Johnson_II
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28870565
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: edward-j-debartolo-jr
+    type: person
+    name: Edward J. DeBartolo, Jr.
+    names:
+      en: Edward J. DeBartolo, Jr.
+    gender: M
+    born: 1946-11-06
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American football owner
+    netWorth:
+      usd: 3800000000
+    ids:
+      wikidata: Q5343636
+    links:
+      - https://en.wikipedia.org/wiki/Edward_J._DeBartolo_Jr.
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5343636
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: edward-j-debartolo-sr
+    type: person
+    name: Edward J. DeBartolo, Sr.
+    names:
+      en: Edward J. DeBartolo, Sr.
+    gender: M
+    born: 1909-05-17
+    died: 1994-12-19
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: 美國商人
+    ids:
+      wikidata: Q5343637
+    links:
+      - https://en.wikipedia.org/wiki/Edward_J._DeBartolo_Sr.
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5343637
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: edward-j-pence-jr
+    type: person
+    name: Edward J. Pence, Jr.
+    names:
+      en: Edward J. Pence, Jr.
+    gender: M
+    born: "1929"
+    died: "1988"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: (1929-1988)
+    ids:
+      wikidata: Q28465753
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28465753
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: edward-j-perkins
+    type: person
+    name: Edward J. Perkins
+    names:
+      zh: 爱德华·J·帕金斯
+      en: Edward J. Perkins
+    gender: M
+    born: 1928-06-08
+    died: 2020-11-07
+    country:
+      - US
+    sectors:
+      - politics
+      - diplomacy
+    tier: 2
+    summary: Career diplomat and 19th United States Ambassador to the United Nations (1928–2020)
+    ids:
+      wikidata: Q518323
+    links:
+      - https://en.wikipedia.org/wiki/Edward_J._Perkins
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q518323
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国驻澳大利亚大使
+        from: 1993-11-24
+        to: 1996-07-19
+      - title: 美国常驻联合国代表列表
+        org: united-states-mission-to-the-united-nations
+        from: 1992-05-12
+        to: 1993-01-27
+      - title: 美国驻外事务处总干事
+        from: 1989-09-22
+        to: 1992-05-07
+      - title: United States Ambassador to Liberia
+        org: embassy-of-the-united-states-monrovia
+        from: 1985-08-28
+        to: 1986-10-22
+      - title: United States Ambassador to South Africa
+        from: 1986-11-27
+        to: 1989-05-22
+  - id: edward-johnson-iii
+    type: person
+    name: Edward Johnson, III
+    names:
+      en: Edward Johnson, III
+    gender: M
+    born: 1930-06-29
+    died: 2022-03-23
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American investor and businessperson (1930–2022)
+    netWorth:
+      usd: 7800000000
+    ids:
+      wikidata: Q382502
+    links:
+      - https://en.wikipedia.org/wiki/Edward_Johnson_III
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q382502
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: edward-joseph-desaulnier-jr
+    type: person
+    name: Edward Joseph DeSaulnier Jr.
+    names:
+      en: Edward Joseph DeSaulnier Jr.
+    gender: M
+    born: 1921-01-08
+    died: 1989-04-20
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: American politician and jurist from Massachusetts (1921-1989)
+    ids:
+      wikidata: Q89873750
+    links:
+      - https://en.wikipedia.org/wiki/Edward_DeSaulnier
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q89873750
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 麻薩諸塞州眾議員
+        org: massachusetts-house-of-representatives
+      - title: 麻薩諸塞州參議員
+        org: massachusetts-senate
+  - id: edward-lazear
+    type: person
+    name: Edward Lazear
+    names:
+      en: Edward Lazear
+    gender: M
+    born: 1948-08-17
+    died: 2020-11-23
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+    tier: 2
+    summary: American economist (1948-2020)
+    ids:
+      wikidata: Q448413
+    links:
+      - https://en.wikipedia.org/wiki/Edward_Lazear
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q448413
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: Chair of the Council of Economic Advisers
+        org: council-of-economic-advisers
+        from: 2006-02-27
+        to: 2009-01-20
+  - id: edward-ross-roybal
+    type: person
+    name: Edward Ross Roybal
+    names:
+      zh: 爱德华·罗巴尔
+      en: Edward Ross Roybal
+    gender: M
+    born: 1916-02-10
+    died: 2005-10-24
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: American politician (1916-2005)
+    ids:
+      wikidata: Q1115522
+    links:
+      - https://en.wikipedia.org/wiki/Edward_R._Roybal
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1115522
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 1979-01-03
+        to: 1981-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1963-01-03
+        to: 1965-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1985-01-03
+        to: 1987-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1975-01-03
+        to: 1977-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1965-01-03
+        to: 1967-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1981-01-03
+        to: 1983-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1969-01-03
+        to: 1971-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1971-01-03
+        to: 1973-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1977-01-03
+        to: 1979-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1973-01-03
+        to: 1975-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1983-01-03
+        to: 1985-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1967-01-03
+        to: 1969-01-03
+      - title: 美国众议员
+        org: us-house
+  - id: edward-t-donilon
+    type: person
+    name: Edward T. Donilon
+    names:
+      en: Edward T. Donilon
+    gender: M
+    born: 1921-07-04
+    died: 1999-01-18
+    country: []
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q106150010
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106150010
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: edwin-eugene-aldrin-sr
+    type: person
+    name: Edwin Eugene Aldrin Sr.
+    names:
+      en: Edwin Eugene Aldrin Sr.
+    gender: M
+    born: 1896-04-12
+    died: 1974-12-28
+    country:
+      - US
+    sectors:
+      - military
+    tier: 5
+    summary: United States Army officer and aviator
+    ids:
+      wikidata: Q58176045
+    links:
+      - https://en.wikipedia.org/wiki/Edwin_Eugene_Aldrin_Sr.
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58176045
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: edythe-broad
+    type: person
+    name: Edythe Broad
+    names:
+      en: Edythe Broad
+    gender: F
+    born: "1936"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American art collector and philanthropist
+    netWorth:
+      usd: 7000000000
+    ids:
+      wikidata: Q72941844
+    links:
+      - https://en.wikipedia.org/wiki/Edythe_Broad
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q72941844
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elaine-chao
+    type: person
+    name: 赵小兰
+    names:
+      zh: 赵小兰
+      en: Elaine Chao
+    gender: F
+    born: 1953-03-26
+    country:
+      - US
+      - TW
+    sectors:
+      - politics
+      - academia
+    tier: 2
+    summary: 美国华裔政治人物
+    netWorth:
+      usd: 24000000
+    ids:
+      wikidata: Q263322
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B6%99%E5%B0%8F%E8%98%AD
+      - https://en.wikipedia.org/wiki/Elaine_Chao
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 43
+    sources:
+      - url: https://www.wikidata.org/wiki/Q263322
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国运输部长
+        org: united-states-department-of-transportation
+        from: 2017-01-31
+        to: 2021-01-11
+      - title: 美国劳工部长
+        org: united-states-department-of-labor
+        from: 2001-01-20
+        to: 2009-01-20
+      - title: 美國運輸部副部長
+        from: 1989-04-19
+        to: 1991-10-08
+  - id: elaine-duke
+    type: person
+    name: Elaine Duke
+    names:
+      zh: 伊萊恩·杜克
+      en: Elaine Duke
+    gender: F
+    born: 1958-06-26
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 2
+    summary: American civil servant
+    ids:
+      wikidata: Q28839617
+    links:
+      - https://en.wikipedia.org/wiki/Elaine_Duke
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28839617
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國國土安全部長
+        org: united-states-department-of-homeland-security
+        from: 2017-07-31
+        to: 2017-12-06
+      - title: United States Deputy Secretary of Homeland Security
+        org: united-states-department-of-homeland-security
+        from: 2017-04-10
+        to: 2018-04-15
+  - id: elaine-joyce
+    type: person
+    name: Elaine Joyce
+    names:
+      zh: 伊莱恩·乔伊斯
+      en: Elaine Joyce
+    gender: F
+    born: 1945-12-19
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 4
+    summary: American actress (born 1945)
+    ids:
+      wikidata: Q3050392
+    links:
+      - https://en.wikipedia.org/wiki/Elaine_Joyce
+    tags:
+      - relative
+    attrs:
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3050392
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elaine-luria
+    type: person
+    name: Elaine Luria
+    names:
+      zh: 伊莱恩·卢里亚
+      en: Elaine Luria
+    gender: F
+    born: 1975-08-15
+    country:
+      - US
+    sectors:
+      - politics
+      - tech
+    tier: 4
+    summary: 美国政治人物
+    ids:
+      wikidata: Q58323073
+    links:
+      - https://en.wikipedia.org/wiki/Elaine_Luria
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58323073
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: elaine-wynn
+    type: person
+    name: Elaine Wynn
+    names:
+      en: Elaine Wynn
+    gender: F
+    born: 1942-04-28
+    died: 2025-04-14
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American businessperson and philanthropist (1942–2025)
+    ids:
+      wikidata: Q19518082
+    links:
+      - https://en.wikipedia.org/wiki/Elaine_Wynn
+    tags:
+      - relative
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19518082
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: eleanor-sis-daley
+    type: person
+    name: Eleanor "Sis" Daley
+    names:
+      en: Eleanor "Sis" Daley
+    gender: F
+    born: 1907-03-04
+    died: 2003-02-16
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: wife of Richard J. Daley
+    ids:
+      wikidata: Q5354208
+    links:
+      - https://en.wikipedia.org/wiki/Eleanor_%22Sis%22_Daley
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5354208
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elena-kagan
+    type: person
+    name: Elena Kagan
+    names:
+      zh: 埃琳娜·卡根
+      en: Elena Kagan
+    gender: F
+    born: 1960-04-28
+    country:
+      - US
+    sectors:
+      - judiciary
+      - academia
+    tier: 2
+    summary: Associate Justice of the Supreme Court of the United States since 2010
+    ids:
+      wikidata: Q11105
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E7%90%B3%E5%A8%9C%C2%B7%E5%8D%A1%E6%A0%B9
+      - https://en.wikipedia.org/wiki/Elena_Kagan
+    tags:
+      - us-judiciary
+    attrs:
+      sitelinks: 42
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11105
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國最高法院大法官
+        org: us-supreme-court
+        from: 2010-08-07
+      - title: 美國聯邦總律師
+        org: department-of-justice-office-of-the-solicitor-general
+        from: 2009-03-20
+        to: 2010-05-17
+  - id: eli-broad
+    type: person
+    name: Eli Broad
+    names:
+      zh: 艾利·布罗德
+      en: Eli Broad
+    gender: M
+    born: 1933-06-06
+    died: 2021-04-30
+    country:
+      - US
+    sectors:
+      - finance
+    tier: 4
+    summary: American businessperson and philanthropist (1933–2021)
+    netWorth:
+      usd: 1000000000
+    ids:
+      wikidata: Q1139602
+    links:
+      - https://en.wikipedia.org/wiki/Eli_Broad
+    tags:
+      - relative
+    attrs:
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1139602
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 理事
+        org: board-of-directors
+        from: 2004-06-09
+        to: "2009"
+  - id: eli-crane
+    type: person
+    name: Eli Crane
+    names:
+      zh: 埃利·克兰
+      en: Eli Crane
+    gender: M
+    born: 1980-01-03
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+      - military
+    tier: 4
+    summary: 美国政治人物
+    ids:
+      wikidata: Q115155633
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%8E%B1%C2%B7%E5%85%8B%E5%85%B0
+      - https://en.wikipedia.org/wiki/Eli_Crane
+    tags:
+      - us-congress
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115155633
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: eli-m-black
+    type: person
+    name: Eli M. Black
+    names:
+      zh: 伊莱·布莱克
+      en: Eli M. Black
+    gender: M
+    born: 1921-04-09
+    died: 1975-02-03
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 5
+    summary: American businessman (1921–1975)
+    ids:
+      wikidata: Q1329347
+    links:
+      - https://en.wikipedia.org/wiki/Eli_M._Black
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1329347
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elias-sanders
+    type: person
+    name: Elias Sanders
+    names:
+      en: Elias Sanders
+    gender: M
+    born: 1904-09-14
+    died: 1962-08-04
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: father of Bernie Sanders
+    ids:
+      wikidata: Q20177345
+    links:
+      - https://en.wikipedia.org/wiki/Elias_Sanders
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20177345
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elisa-new
+    type: person
+    name: Elisa New
+    names:
+      en: Elisa New
+    gender: F
+    born: "1958"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American academic
+    ids:
+      wikidata: Q5361374
+    links:
+      - https://en.wikipedia.org/wiki/Elisa_New
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5361374
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elisabeth-mabus
+    type: person
+    name: Elisabeth Mabus
+    names:
+      en: Elisabeth Mabus
+    gender: F
+    country: []
+    sectors:
+      - judiciary
+    tier: 5
+    summary: lawyer
+    ids:
+      wikidata: Q115863399
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115863399
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elisabeth-meynard-maxwell
+    type: person
+    name: Elisabeth Meynard Maxwell
+    names:
+      zh: 伊利莎白·麦克斯韦
+      en: Elisabeth Meynard Maxwell
+    gender: F
+    born: 1921-03-11
+    died: 2013-08-07
+    country:
+      - FR
+      - GB
+    sectors:
+      - family
+    tier: 5
+    summary: Anglo-French historical researcher
+    ids:
+      wikidata: Q14559709
+    links:
+      - https://en.wikipedia.org/wiki/Elisabeth_Maxwell
+    tags:
+      - relative
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14559709
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elisabeth-murdoch
+    type: person
+    name: Elisabeth Murdoch
+    names:
+      zh: 伊丽莎白·默多克
+      en: Elisabeth Murdoch
+    gender: F
+    born: 1909-02-08
+    died: 2012-12-05
+    country:
+      - AU
+    sectors:
+      - family
+    tier: 5
+    summary: Australian philanthropist and mother of international media proprietor Rupert Murdoch (1909-2012)
+    ids:
+      wikidata: Q713195
+    links:
+      - https://en.wikipedia.org/wiki/Elisabeth_Murdoch_(philanthropist)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q713195
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elisabeth-murdoch-1968
+    type: person
+    name: Elisabeth Murdoch
+    names:
+      zh: 小伊丽莎白·默多克
+      en: Elisabeth Murdoch
+    gender: F
+    born: 1968-08-22
+    country:
+      - US
+      - GB
+      - AU
+    sectors:
+      - business
+      - media
+    tier: 5
+    summary: Australian television industry and international media executive (born 1968)
+    ids:
+      wikidata: Q3051101
+    links:
+      - https://en.wikipedia.org/wiki/Elisabeth_Murdoch_(businesswoman)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3051101
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elise-ellen-cawley
+    type: person
+    name: Elise Ellen Cawley
+    names:
+      en: Elise Ellen Cawley
+    gender: F
+    born: "1961"
+    died: 2026-07-25
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: mathematician (1961 - 2026)
+    ids:
+      wikidata: Q102185927
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q102185927
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elise-stefanik
+    type: person
+    name: Elise Stefanik
+    names:
+      zh: 埃莉斯·斯蒂芬尼克
+      en: Elise Stefanik
+    gender: F
+    born: 1984-07-02
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 3
+    summary: 美国政治人物
+    ids:
+      wikidata: Q18211057
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E6%96%AF%E8%92%82%E8%8A%AC%E5%B0%BC%E5%85%8B
+      - https://en.wikipedia.org/wiki/Elise_Stefanik
+    tags:
+      - us-congress
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18211057
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 众议院共和党大会主席
+        org: house-republican-conference
+        from: "2021"
+  - id: elissa-slotkin
+    type: person
+    name: Elissa Slotkin
+    names:
+      zh: 埃莉萨·斯洛特金
+      en: Elissa Slotkin
+    gender: F
+    born: 1976-07-10
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 美国密歇根州政治人物
+    ids:
+      wikidata: Q30323721
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E8%8E%89%E8%90%A8%C2%B7%E6%96%AF%E6%B4%9B%E7%89%B9%E9%87%91
+      - https://en.wikipedia.org/wiki/Elissa_Slotkin
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30323721
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 國防部國際安全事務助理部長
+        from: 2014-11-14
+        to: 2017-01-20
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+  - id: elizabeth-christ-trump
+    type: person
+    name: Elizabeth Christ Trump
+    names:
+      zh: 伊丽莎白·特朗普
+      en: Elizabeth Christ Trump
+    gender: F
+    born: 1880-10-10
+    died: 1966-06-06
+    country:
+      - US
+      - DE
+    sectors:
+      - business
+    tier: 4
+    summary: German-American businesswoman (1880–1966)
+    ids:
+      wikidata: Q23600580
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%8E%89%E8%8E%8E%E7%99%BD%C2%B7%E5%B7%9D%E6%99%AE
+      - https://en.wikipedia.org/wiki/Elizabeth_Christ_Trump
+    tags:
+      - relative
+    attrs:
+      sitelinks: 23
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23600580
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elizabeth-dole
+    type: person
+    name: Elizabeth Dole
+    names:
+      zh: 伊丽莎白·H·多勒
+      en: Elizabeth Dole
+    gender: F
+    born: 1936-07-29
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: 美國政治人物
+    ids:
+      wikidata: Q239571
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%C2%B7%E5%A4%9A%E5%B0%94
+      - https://en.wikipedia.org/wiki/Elizabeth_Dole
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 33
+    sources:
+      - url: https://www.wikidata.org/wiki/Q239571
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 会长
+        org: organization
+        from: "1991"
+        to: "2000"
+      - title: 美国运输部长
+        org: united-states-department-of-transportation
+        from: 1983-02-07
+        to: 1987-09-30
+      - title: 美国劳工部长
+        org: united-states-department-of-labor
+        from: 1989-01-25
+        to: 1990-11-23
+      - title: 美國參議員
+        org: us-senate
+        from: 2003-01-03
+        to: 2005-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2005-01-03
+        to: 2007-01-03
+  - id: elizabeth-holmes
+    type: person
+    name: Elizabeth Holmes
+    names:
+      zh: 伊莉莎白·霍姆斯
+      en: Elizabeth Holmes
+    gender: F
+    born: 1984-02-03
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美國企業家
+    ids:
+      wikidata: Q17503525
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%8E%89%E8%8E%8E%E7%99%BD%C2%B7%E9%9C%8D%E5%A7%86%E6%96%AF
+      - https://en.wikipedia.org/wiki/Elizabeth_Holmes
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 48
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17503525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elizabeth-koch
+    type: person
+    name: Elizabeth Koch
+    names:
+      en: Elizabeth Koch
+    gender: F
+    born: "1976"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American publisher and writer
+    ids:
+      wikidata: Q25189417
+    links:
+      - https://en.wikipedia.org/wiki/Elizabeth_Koch_(publisher)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q25189417
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elizabeth-m-tamposi
+    type: person
+    name: Elizabeth M. Tamposi
+    names:
+      zh: 伊丽莎白·塔姆波
+      en: Elizabeth M. Tamposi
+    gender: F
+    born: "1955"
+    country:
+      - US
+    sectors:
+      - diplomacy
+    tier: 5
+    summary: United States Assistant Secretary of State
+    ids:
+      wikidata: Q5363136
+    links:
+      - https://en.wikipedia.org/wiki/Elizabeth_M._Tamposi
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5363136
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国国务院领事事务助理国务卿
+        from: 1989-10-18
+        to: 1992-11-10
+  - id: elizabeth-noyce
+    type: person
+    name: Elizabeth Noyce
+    names:
+      en: Elizabeth Noyce
+    gender: F
+    born: 1930-10-07
+    died: 1996-09-18
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American philanthropist
+    ids:
+      wikidata: Q16013713
+    links:
+      - https://en.wikipedia.org/wiki/Elizabeth_Noyce
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16013713
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elizabeth-uihlein
+    type: person
+    name: Elizabeth Uihlein
+    names:
+      en: Elizabeth Uihlein
+    gender: F
+    born: "1945"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American billionaire
+    netWorth:
+      usd: 6200000000
+    ids:
+      wikidata: Q116893721
+    links:
+      - https://en.wikipedia.org/wiki/Elizabeth_Uihlein
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116893721
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elizabeth-warren
+    type: person
+    name: Elizabeth Warren
+    names:
+      zh: 伊莉莎白·華倫
+      en: Elizabeth Warren
+    gender: F
+    born: 1949-06-22
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - judiciary
+    tier: 3
+    summary: 美国政治人物
+    ids:
+      wikidata: Q434706
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%8E%89%E8%8E%8E%E7%99%BD%C2%B7%E8%8F%AF%E5%80%AB
+      - https://en.wikipedia.org/wiki/Elizabeth_Warren
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 70
+    sources:
+      - url: https://www.wikidata.org/wiki/Q434706
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: "2008"
+        to: "2010"
+      - title: 總統提名人
+        org: presidential-election
+        from: 2019-02-09
+        to: 2020-03-05
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: special adviser
+        from: "2010"
+        to: "2011"
+  - id: ella-emhoff
+    type: person
+    name: Ella Emhoff
+    names:
+      en: Ella Emhoff
+    gender: F
+    born: 1999-05-29
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: American fashion designer and model (born 1999)
+    ids:
+      wikidata: Q98382515
+    links:
+      - https://en.wikipedia.org/wiki/Ella_Emhoff
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q98382515
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ellen-barkin
+    type: person
+    name: Ellen Barkin
+    names:
+      zh: 艾倫·芭金
+      en: Ellen Barkin
+    gender: F
+    born: 1954-04-16
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 3
+    summary: 美國女演員
+    ids:
+      wikidata: Q229234
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E4%BC%A6%C2%B7%E5%B7%B4%E5%B0%94%E9%87%91
+      - https://en.wikipedia.org/wiki/Ellen_Barkin
+    tags:
+      - relative
+    attrs:
+      sitelinks: 52
+    sources:
+      - url: https://www.wikidata.org/wiki/Q229234
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ellen-rush
+    type: person
+    name: Ellen Rush
+    names:
+      en: Ellen Rush
+    gender: F
+    born: 1931-09-06
+    died: 1988-11-02
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: 6 Sep 1931 - 2 Nov 1988
+    ids:
+      wikidata: Q119855408
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q119855408
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elnathan-whitman
+    type: person
+    name: Elnathan Whitman
+    names:
+      en: Elnathan Whitman
+    gender: M
+    born: 1785-11-18
+    died: "1868"
+    country:
+      - CA
+    sectors:
+      - politics
+    tier: 5
+    summary: 加拿大政治人物
+    ids:
+      wikidata: Q5367018
+    links:
+      - https://en.wikipedia.org/wiki/Elnathan_Whitman
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5367018
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: member of the Nova Scotia House of Assembly
+  - id: elon-musk
+    type: person
+    name: Elon Musk
+    names:
+      zh: 埃隆·马斯克
+      en: Elon Musk
+    gender: M
+    born: 1971-06-28
+    country:
+      - CA
+      - US
+      - ZA
+    sectors:
+      - business
+      - tech
+      - politics
+    tier: 1
+    summary: 南非裔美籍商人
+    netWorth:
+      usd: 790000000000
+    ids:
+      wikidata: Q317521
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B
+      - https://en.wikipedia.org/wiki/Elon_Musk
+    tags:
+      - us-business
+      - party:America Party
+    attrs:
+      party: America Party
+      sitelinks: 202
+    sources:
+      - url: https://www.wikidata.org/wiki/Q317521
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: "2008"
+        to: 2018-11-01
+      - title: 首席执行官
+        from: 2022-10-28
+        to: 2023-06-05
+      - title: 首席执行官
+        from: 2008-10-01
+      - title: 首席执行官
+        from: "2002"
+      - title: 美國總統資深顧問
+        org: white-house-office
+        from: 2025-01-20
+        to: 2025-05-30
+      - title: co-president
+        from: 2016-07-01
+  - id: elsie-livingston-johnson
+    type: person
+    name: Elsie Livingston Johnson
+    names:
+      en: Elsie Livingston Johnson
+    gender: F
+    born: 1904-10-23
+    died: "1981"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q105845418
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105845418
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: elwyn-c-lee
+    type: person
+    name: Elwyn C. Lee
+    names:
+      en: Elwyn C. Lee
+    gender: M
+    born: "1949"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: American academic
+    ids:
+      wikidata: Q5368369
+    links:
+      - https://en.wikipedia.org/wiki/Elwyn_Lee
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5368369
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: emanuel-cleaver
+    type: person
+    name: Emanuel Cleaver
+    names:
+      zh: 伊曼紐·克萊弗
+      en: Emanuel Cleaver
+    gender: M
+    born: 1944-10-26
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: U.S. Representative from Missouri
+    ids:
+      wikidata: Q1334654
+    links:
+      - https://en.wikipedia.org/wiki/Emanuel_Cleaver
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1334654
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 地方議會議員
+        org: city-council
+        from: "1979"
+        to: "1991"
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: Mayor of Kansas City, Missouri
+        from: "1991"
+        to: "1999"
+      - title: Chair of the Congressional Black Caucus
+        org: congressional-black-caucus
+        from: "2011"
+        to: "2013"
+  - id: emanuel-stein
+    type: person
+    name: Emanuel Stein
+    names:
+      en: Emanuel Stein
+    gender: M
+    born: "1908"
+    died: "1985"
+    country: []
+    sectors:
+      - academia
+    tier: 5
+    summary: (1908-1985)
+    ids:
+      wikidata: Q110225186
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110225186
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: emilia-sykes
+    type: person
+    name: Emilia Sykes
+    names:
+      zh: 艾米丽亚·赛克斯
+      en: Emilia Sykes
+    gender: F
+    born: 1986-01-04
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1986)
+    ids:
+      wikidata: Q18637943
+    links:
+      - https://en.wikipedia.org/wiki/Emilia_Sykes
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18637943
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 俄亥俄州眾議員
+        org: ohio-house-of-representatives
+        from: 2015-01-06
+        to: 2022-12-31
+  - id: emily-lam
+    type: person
+    name: Emily Lam
+    names:
+      zh: 林恬儿
+      en: Emily Lam
+    gender: F
+    born: 1984-10-12
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: Hong Kong business woman
+    ids:
+      wikidata: Q18921154
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9E%97%E6%81%AC%E5%85%92
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18921154
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 太平紳士
+        from: 2024-07-01
+  - id: emily-randall
+    type: person
+    name: Emily Randall
+    names:
+      en: Emily Randall
+    gender: F
+    born: 1985-10-30
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q60473885
+    links:
+      - https://en.wikipedia.org/wiki/Emily_Randall
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60473885
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 華盛頓州參議員
+        org: washington-state-senate
+        from: 2019-01-14
+        to: 2024-12-08
+  - id: emily-wei-rales
+    type: person
+    name: Emily Wei Rales
+    names:
+      en: Emily Wei Rales
+    gender: F
+    born: "1976"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: art curator
+    ids:
+      wikidata: Q61998089
+    links:
+      - https://en.wikipedia.org/wiki/Emily_Wei_Rales
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q61998089
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 博物館館長
+        org: museum
+  - id: emmett-j-rice
+    type: person
+    name: Emmett J. Rice
+    names:
+      en: Emmett J. Rice
+    gender: M
+    born: 1919-12-21
+    died: 2011-03-10
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 5
+    summary: Governor of the Federal Reserve System (1919-2011)
+    ids:
+      wikidata: Q1338730
+    links:
+      - https://en.wikipedia.org/wiki/Emmett_J._Rice
+    tags:
+      - relative
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1338730
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: eren-ozmen
+    type: person
+    name: Eren Özmen
+    names:
+      zh: 埃伦·厄兹曼
+      en: Eren Özmen
+    gender: F
+    born: 1958-09-01
+    country:
+      - US
+      - TR
+    sectors:
+      - business
+    tier: 4
+    summary: Turkish businesswoman
+    netWorth:
+      usd: 4900000000
+    ids:
+      wikidata: Q17386500
+    links:
+      - https://en.wikipedia.org/wiki/Eren_%C3%96zmen
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17386500
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: eric-burlison
+    type: person
+    name: Eric Burlison
+    names:
+      zh: 埃里克·伯利森
+      en: Eric Burlison
+    gender: M
+    born: 1976-10-02
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q5386212
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E4%BC%AF%E5%88%A9%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Eric_Burlison
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5386212
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+      - title: 密蘇里州參議員
+        org: missouri-senate
+        from: "2018"
+        to: 2023-01-03
+      - title: member of the Missouri House of Representatives
+        org: missouri-house-of-representatives
+        from: 2009-01-05
+        to: "2017"
+  - id: eric-cantor
+    type: person
+    name: Eric Cantor
+    names:
+      zh: 埃里克·坎托
+      en: Eric Cantor
+    gender: M
+    born: 1963-06-06
+    country:
+      - US
+    sectors:
+      - business
+      - judiciary
+      - politics
+    tier: 4
+    summary: American politician (born 1963)
+    ids:
+      wikidata: Q497271
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E5%9D%8E%E6%89%98
+      - https://en.wikipedia.org/wiki/Eric_Cantor
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q497271
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2014-08-18
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 維吉尼亞州眾議員
+        org: virginia-house-of-delegates
+        from: "1992"
+        to: "2001"
+  - id: eric-eisner
+    type: person
+    name: Eric Eisner
+    names:
+      zh: 埃里克·艾斯纳
+      en: Eric Eisner
+    gender: M
+    born: "1973"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: 美國電影製片廠高管
+    ids:
+      wikidata: Q5386426
+    links:
+      - https://en.wikipedia.org/wiki/Eric_Eisner_(producer)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5386426
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: eric-fanning
+    type: person
+    name: Eric Fanning
+    names:
+      zh: 埃里克·范寧
+      en: Eric Fanning
+    gender: M
+    born: 1968-07-02
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: acting United States Secretary of the Air Force
+    ids:
+      wikidata: Q13534694
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E8%8C%83%E5%AF%A7
+      - https://en.wikipedia.org/wiki/Eric_Fanning
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q13534694
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國空軍部長
+        org: united-states-department-of-the-air-force
+        from: 2013-06-21
+        to: 2013-12-20
+      - title: 美国陆军部长
+        org: united-states-department-of-the-army
+        from: 2016-05-17
+        to: 2017-01-20
+      - title: 美国陆军部长
+        org: united-states-department-of-the-army
+        from: 2015-11-03
+        to: 2016-01-11
+  - id: eric-fok
+    type: person
+    name: Eric Fok
+    names:
+      zh: 霍啟山
+      en: Eric Fok
+    gender: M
+    born: 1983-05-24
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: Hong Kong businessman
+    ids:
+      wikidata: Q111693435
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9C%8D%E5%95%9F%E5%B1%B1
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111693435
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: eric-holcomb
+    type: person
+    name: Eric Holcomb
+    names:
+      zh: 艾瑞克·霍爾坎
+      en: Eric Holcomb
+    gender: M
+    born: 1968-05-02
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 印第安納州州長
+    ids:
+      wikidata: Q23016975
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BE%AF%E5%BA%B7%E5%AE%89
+      - https://en.wikipedia.org/wiki/Eric_Holcomb
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23016975
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 印第安納州州長
+        org: state-of-indiana
+        from: 2017-01-09
+        to: 2025-01-13
+  - id: eric-holder
+    type: person
+    name: Eric Holder
+    names:
+      zh: 埃里克·霍尔德
+      en: Eric Holder
+    gender: M
+    born: 1951-01-21
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: United States Attorney General from 2009 to 2015
+    ids:
+      wikidata: Q312644
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E9%9C%8D%E5%B0%94%E5%BE%B7
+      - https://en.wikipedia.org/wiki/Eric_Holder
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 36
+    sources:
+      - url: https://www.wikidata.org/wiki/Q312644
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國副司法部長
+        from: 1997-06-13
+        to: 2001-01-20
+      - title: 美國司法部長
+        org: us-doj
+        from: 2001-01-20
+        to: 2001-02-02
+      - title: 美國司法部長
+        org: us-doj
+        from: 2009-02-03
+        to: 2015-04-27
+      - title: 司法部长
+        org: justice-ministry
+      - title: United States Attorney for the District of Columbia
+        from: 1993-01-20
+        to: 1997-06-13
+  - id: eric-ken-shinseki
+    type: person
+    name: Eric Ken Shinseki
+    names:
+      zh: 埃里克·新关
+      en: Eric Ken Shinseki
+    gender: M
+    born: 1942-11-28
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: 美国日裔军官
+    ids:
+      wikidata: Q373274
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E5%8A%9B%C2%B7%E6%96%B0%E9%97%9C
+      - https://en.wikipedia.org/wiki/Eric_Shinseki
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q373274
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国陆军参谋长
+        from: 1999-06-21
+        to: 2003-06-11
+      - title: 美國陸軍副參謀長
+        from: 1998-11-24
+        to: 1999-06-21
+      - title: 美国退伍军人事务部长
+        org: united-states-department-of-veterans-affairs
+        from: 2009-01-21
+        to: 2014-05-30
+  - id: eric-lander
+    type: person
+    name: Eric Lander
+    names:
+      zh: 埃里克·兰德
+      en: Eric Lander
+    gender: M
+    born: 1957-02-03
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+    tier: 2
+    summary: director of the Office of Science and Technology Policy and Science Advisor to the President
+    ids:
+      wikidata: Q970550
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E5%85%B0%E5%BE%B7
+      - https://en.wikipedia.org/wiki/Eric_Lander
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q970550
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 總統科學顧問
+        org: us-cabinet
+        from: 2021-06-02
+        to: 2022-02-18
+  - id: eric-lefkofsky
+    type: person
+    name: Eric Lefkofsky
+    names:
+      en: Eric Lefkofsky
+    gender: M
+    born: 1969-09-13
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American entrepreneur, billionaire, and philanthropist
+    netWorth:
+      usd: 6000000000
+    ids:
+      wikidata: Q4310209
+    links:
+      - https://en.wikipedia.org/wiki/Eric_Lefkofsky
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4310209
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: eric-s-yuan
+    type: person
+    name: 袁征
+    names:
+      zh: 袁征
+      en: Eric S. Yuan
+    gender: M
+    born: 1970-02-20
+    country:
+      - US
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 美籍华人企业家
+    netWorth:
+      usd: 4900000000
+    ids:
+      wikidata: Q44870909
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%A2%81%E5%BE%81_(%E4%BC%81%E4%B8%9A%E5%AE%B6)
+      - https://en.wikipedia.org/wiki/Eric_Yuan
+    tags:
+      - cn-business
+      - us-business
+    attrs:
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44870909
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席执行官
+        from: "2011"
+      - title: vice president of engineering
+        from: "2007"
+  - id: eric-schmidt
+    type: person
+    name: Eric Schmidt
+    names:
+      zh: 埃里克·施密特
+      en: Eric Schmidt
+    gender: M
+    born: 1955-04-27
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+      - academia
+    tier: 3
+    summary: 軟件工程師，商人，前谷歌首席執行官
+    netWorth:
+      usd: 12900000000
+    ids:
+      wikidata: Q92747
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E6%96%BD%E5%AF%86%E7%89%B9
+      - https://en.wikipedia.org/wiki/Eric_Schmidt
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 57
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92747
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席执行官
+        from: 2001-03-01
+        to: 2011-04-01
+      - title: 理事会成员
+        org: board-of-directors
+        from: 2001-03-01
+        to: 2019-06-19
+  - id: eric-schmitt
+    type: person
+    name: Eric Schmitt
+    names:
+      zh: 埃里克·施米特
+      en: Eric Schmitt
+    gender: M
+    born: 1975-06-20
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: American politician and lawyer (born 1975)
+    ids:
+      wikidata: Q5387455
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E6%96%BD%E7%B1%B3%E7%89%B9_(%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)
+      - https://en.wikipedia.org/wiki/Eric_Schmitt
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5387455
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+      - title: 密蘇里州總檢察長
+        from: 2019-01-03
+        to: 2023-01-03
+      - title: 密苏里州司库
+        from: 2017-01-09
+        to: 2019-01-03
+      - title: 密蘇里州參議員
+        org: missouri-senate
+        from: 2009-01-07
+        to: 2017-01-04
+  - id: eric-smidt
+    type: person
+    name: Eric Smidt
+    names:
+      en: Eric Smidt
+    gender: M
+    born: 1960-01-26
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American businessmen
+    netWorth:
+      usd: 17900000000
+    ids:
+      wikidata: Q5387535
+    links:
+      - https://en.wikipedia.org/wiki/Eric_Smidt
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5387535
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: eric-sorensen
+    type: person
+    name: Eric Sorensen
+    names:
+      zh: 埃里克·瑟恩森
+      en: Eric Sorensen
+    gender: M
+    born: 1976-03-18
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American meteorologist and politician (born 1976)
+    ids:
+      wikidata: Q115182513
+    links:
+      - https://en.wikipedia.org/wiki/Eric_Sorensen_(politician)
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115182513
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+  - id: eric-swalwell
+    type: person
+    name: Eric Swalwell
+    names:
+      zh: 埃里克·斯沃韦尔
+      en: Eric Swalwell
+    gender: M
+    born: 1980-11-16
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American lawyer and politician (born 1980)
+    ids:
+      wikidata: Q3466996
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E6%96%AF%E6%B2%83%E9%9F%A6%E5%B0%94
+      - https://en.wikipedia.org/wiki/Eric_Swalwell
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3466996
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 檢察官
+        org: public-prosecutor-s-office
+      - title: 區域檢察長
+        from: "2006"
+        to: "2012"
+      - title: 成员
+        org: membership-organization
+        from: "2010"
+        to: "2012"
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+        to: 2026-04-14
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+  - id: eric-trump
+    type: person
+    name: Eric Trump
+    names:
+      zh: 艾瑞克·川普
+      en: Eric Trump
+    gender: M
+    born: 1984-01-06
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 唐纳德·特朗普次子
+    ids:
+      wikidata: Q3731533
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E7%89%B9%E6%9C%97%E6%99%AE
+      - https://en.wikipedia.org/wiki/Eric_Trump
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 45
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3731533
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: erica-lee-carter
+    type: person
+    name: Erica Lee Carter
+    names:
+      en: Erica Lee Carter
+    gender: F
+    born: 1980-02-02
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q130982422
+    links:
+      - https://en.wikipedia.org/wiki/Erica_Lee_Carter
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q130982422
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2024-11-05
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2024-11-12
+        to: 2025-01-03
+  - id: erik-prince
+    type: person
+    name: Erik Prince
+    names:
+      zh: 艾瑞克·普林斯
+      en: Erik Prince
+    gender: M
+    born: 1969-06-06
+    country:
+      - US
+    sectors:
+      - business
+      - military
+      - finance
+    tier: 4
+    summary: American businessman, former US Navy SEAL officer and the founder of the private military company Blackwater
+    ids:
+      wikidata: Q749887
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E7%91%9E%E5%85%8B%C2%B7%E6%99%AE%E6%9E%97%E6%96%AF
+      - https://en.wikipedia.org/wiki/Erik_Prince
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q749887
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: erika-donalds
+    type: person
+    name: Erika Donalds
+    names:
+      en: Erika Donalds
+    gender: F
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: American conservative education activist
+    ids:
+      wikidata: Q116668717
+    links:
+      - https://en.wikipedia.org/wiki/Erika_Donalds
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116668717
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: erika-kirk
+    type: person
+    name: Erika Kirk
+    names:
+      zh: 埃丽卡·柯克
+      en: Erika Kirk
+    gender: F
+    born: 1988-11-20
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American businesswoman and podcaster (born 1988)
+    ids:
+      wikidata: Q116508021
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E7%91%9E%E5%8D%A1%C2%B7%E6%9F%AF%E5%85%8B
+      - https://en.wikipedia.org/wiki/Erika_Kirk
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116508021
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: chief executive officer of Turning Point USA
+        org: turning-point-usa
+        from: 2025-09-18
+  - id: erin-brockovich
+    type: person
+    name: Erin Brockovich
+    names:
+      zh: 艾琳·布羅克維齊
+      en: Erin Brockovich
+    gender: F
+    born: 1960-06-22
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American environmental activist
+    ids:
+      wikidata: Q232019
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E7%90%B3%C2%B7%E5%B8%83%E7%BE%85%E5%85%8B%E7%B6%AD%E5%A5%87
+      - https://en.wikipedia.org/wiki/Erin_Brockovich
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 43
+    sources:
+      - url: https://www.wikidata.org/wiki/Q232019
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: erin-houchin
+    type: person
+    name: Erin Houchin
+    names:
+      zh: 艾琳·霍钦
+      en: Erin Houchin
+    gender: F
+    born: 1976-09-24
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1976)
+    ids:
+      wikidata: Q20676994
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E7%90%B3%C2%B7%E9%9C%8D%E9%92%A6
+      - https://en.wikipedia.org/wiki/Erin_Houchin
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20676994
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+      - title: 印第安納州參議員
+        org: indiana-senate
+        from: 2014-11-18
+        to: 2022-02-04
+  - id: erkin-tuniyaz
+    type: person
+    name: 艾尔肯·吐尼亚孜
+    names:
+      zh: 艾尔肯·吐尼亚孜
+      en: Erkin Tuniyaz
+    gender: M
+    born: 1961-12-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共新疆维吾尔自治区党委副书记、新疆维吾尔自治区人民政府主席
+    ids:
+      wikidata: Q47670521
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E5%B0%94%E8%82%AF%C2%B7%E5%90%90%E5%B0%BC%E4%BA%9A%E5%AD%9C
+      - https://en.wikipedia.org/wiki/Erkin_Tuniyaz
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47670521
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ernest-garcia-ii
+    type: person
+    name: Ernest Garcia II
+    names:
+      en: Ernest Garcia II
+    gender: M
+    born: "1957"
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman
+    netWorth:
+      usd: 1000000000
+    ids:
+      wikidata: Q47155845
+    links:
+      - https://en.wikipedia.org/wiki/Ernest_Garcia_II
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47155845
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ernest-garcia-iii
+    type: person
+    name: Ernest Garcia III
+    names:
+      en: Ernest Garcia III
+    gender: M
+    born: "1985"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: billionaire CEO of Carvana
+    netWorth:
+      usd: 11400000000
+    ids:
+      wikidata: Q47157156
+    links:
+      - https://en.wikipedia.org/wiki/Ernest_Garcia_III
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47157156
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ernest-james-stevens
+    type: person
+    name: Ernest James Stevens
+    names:
+      en: Ernest James Stevens
+    gender: M
+    born: 1884-02-13
+    died: 1972-02-07
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: 13 Feb 1884 - certain 7 Feb 1972
+    ids:
+      wikidata: Q115286636
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115286636
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ernest-moniz
+    type: person
+    name: Ernest Moniz
+    names:
+      zh: 欧内斯特·莫尼兹
+      en: Ernest Moniz
+    gender: M
+    born: 1944-12-22
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+    tier: 2
+    summary: 13th United States Secretary of Energy
+    ids:
+      wikidata: Q5393576
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AC%A7%E5%86%85%E6%96%AF%E7%89%B9%C2%B7%E8%8E%AB%E5%B0%BC%E5%85%B9
+      - https://en.wikipedia.org/wiki/Ernest_Moniz
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5393576
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國能源部長
+        org: united-states-department-of-energy
+        from: 2013-05-21
+        to: 2017-01-20
+  - id: errol-musk
+    type: person
+    name: Errol Musk
+    names:
+      zh: 埃罗尔·马斯克
+      en: Errol Musk
+    gender: M
+    born: 1946-05-25
+    country:
+      - ZA
+      - NL
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: 南非工程师
+    ids:
+      wikidata: Q35723119
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E7%BE%85%E7%88%BE%C2%B7%E9%A6%AC%E6%96%AF%E5%85%8B
+      - https://en.wikipedia.org/wiki/Errol_Musk
+    tags:
+      - relative
+      - party:Progressive Federal Party
+    attrs:
+      party: Progressive Federal Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q35723119
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: erskine-bowles
+    type: person
+    name: Erskine Bowles
+    names:
+      zh: 厄斯金·鮑爾斯
+      en: Erskine Bowles
+    gender: M
+    born: 1945-08-08
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American politician and businessman
+    ids:
+      wikidata: Q731097
+    links:
+      - https://en.wikipedia.org/wiki/Erskine_Bowles
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q731097
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 白宮幕僚長
+        org: executive-office-of-the-president-of-the-united-states
+        from: 1997-01-20
+        to: 1998-10-20
+      - title: 白宮副幕僚長
+        from: 1994-10-03
+        to: 1996-01-11
+      - title: 小型企業管理署署長
+        org: small-business-administration
+        from: 1993-05-07
+        to: 1994-10-03
+  - id: estee-lauder
+    type: person
+    name: Estée Lauder
+    names:
+      zh: 雅诗·兰黛
+      en: Estée Lauder
+    gender: F
+    born: 1908-07-01
+    died: 2004-04-24
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国商人
+    ids:
+      wikidata: Q285493
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9B%85%E8%AF%97%C2%B7%E5%85%B0%E9%BB%9B
+      - https://en.wikipedia.org/wiki/Est%C3%A9e_Lauder_(businesswoman)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 45
+    sources:
+      - url: https://www.wikidata.org/wiki/Q285493
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: esther-wojcicki
+    type: person
+    name: Esther Wojcicki
+    names:
+      zh: 埃絲特·沃西基
+      en: Esther Wojcicki
+    gender: F
+    born: "1941"
+    country:
+      - US
+    sectors:
+      - media
+    tier: 4
+    summary: American journalist and educator
+    ids:
+      wikidata: Q550045
+    links:
+      - https://en.wikipedia.org/wiki/Esther_Wojcicki
+    tags:
+      - relative
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q550045
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ethel-kennedy
+    type: person
+    name: Ethel Kennedy
+    names:
+      zh: 艾赛尔·肯尼迪
+      en: Ethel Kennedy
+    gender: F
+    born: 1928-04-11
+    died: 2024-10-10
+    country:
+      - US
+    sectors:
+      - family
+    tier: 3
+    summary: American human-rights campaigner and spouse of US Senator Robert F. Kennedy
+    ids:
+      wikidata: Q258661
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E5%A1%9E%E5%B0%94%C2%B7%E8%82%AF%E5%B0%BC%E8%BF%AA
+      - https://en.wikipedia.org/wiki/Ethel_Kennedy
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 35
+    sources:
+      - url: https://www.wikidata.org/wiki/Q258661
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: eugene-cernan
+    type: person
+    name: Eugene Cernan
+    names:
+      zh: 尤金·塞尔南
+      en: Eugene Cernan
+    gender: M
+    born: 1934-03-14
+    died: 2017-01-16
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美國太空人
+    ids:
+      wikidata: Q158486
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%A4%E9%87%91%C2%B7%E5%A1%9E%E5%B0%94%E5%8D%97
+      - https://en.wikipedia.org/wiki/Gene_Cernan
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 59
+    sources:
+      - url: https://www.wikidata.org/wiki/Q158486
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: eugene-scalia
+    type: person
+    name: Eugene Scalia
+    names:
+      zh: 尤金·斯卡利亚
+      en: Eugene Scalia
+    gender: M
+    born: 1963-08-14
+    country:
+      - US
+      - IT
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: American lawyer
+    ids:
+      wikidata: Q16875330
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%A4%E9%87%91%C2%B7%E6%96%AF%E5%8D%A1%E5%88%A9%E4%BA%9A
+      - https://en.wikipedia.org/wiki/Eugene_Scalia
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16875330
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国劳工部长
+        org: united-states-department-of-labor
+        from: 2019-09-30
+        to: 2021-01-20
+      - title: 美国劳工事务律师
+        from: 2002-01-11
+        to: 2003-01-17
+  - id: eugene-vindman
+    type: person
+    name: Eugene Vindman
+    names:
+      en: Eugene Vindman
+    gender: M
+    born: 1975-06-06
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+      - military
+    tier: 4
+    summary: Ukrainian-American politician and U.S. Army officer (born 1975)
+    ids:
+      wikidata: Q112610369
+    links:
+      - https://en.wikipedia.org/wiki/Eugene_Vindman
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q112610369
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: eugenia-brin
+    type: person
+    name: Eugenia Brin
+    names:
+      zh: 尤金妮亚·布林
+      en: Eugenia Brin
+    gender: F
+    born: "1949"
+    died: 2024-12-03
+    country:
+      - US
+      - RU
+    sectors:
+      - academia
+    tier: 5
+    summary: 研究者
+    ids:
+      wikidata: Q13377792
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q13377792
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: eva-andersson-dubin
+    type: person
+    name: Eva Andersson-Dubin
+    names:
+      en: Eva Andersson-Dubin
+    gender: F
+    born: "1961"
+    country:
+      - SE
+    sectors:
+      - family
+    tier: 5
+    summary: Swedish model and television presenter
+    ids:
+      wikidata: Q67024532
+    links:
+      - https://en.wikipedia.org/wiki/Eva_Andersson-Dubin
+    tags:
+      - relative
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q67024532
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: evan-ryan
+    type: person
+    name: Evan Ryan
+    names:
+      zh: 埃文·瑞安
+      en: Evan Ryan
+    gender: F
+    born: 1971-04-18
+    country:
+      - US
+    sectors:
+      - diplomacy
+    tier: 4
+    summary: 美国官员
+    ids:
+      wikidata: Q5415533
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E6%96%87%C2%B7%E7%91%9E%E5%AE%89
+      - https://en.wikipedia.org/wiki/Evan_Ryan
+    tags:
+      - relative
+    attrs:
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5415533
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国教育文化事务助理国务卿
+        org: bureau-of-educational-and-cultural-affairs
+        from: 2013-09-26
+        to: 2017-01-05
+      - title: 内阁秘书长
+        from: 2021-01-20
+  - id: evan-sabino-medeiros
+    type: person
+    name: Evan Sabino Medeiros
+    names:
+      en: Evan Sabino Medeiros
+    gender: M
+    born: "1970"
+    country: []
+    sectors:
+      - academia
+    tier: 5
+    summary: American international relations scholar
+    ids:
+      wikidata: Q112191738
+    links:
+      - https://en.wikipedia.org/wiki/Evan_S._Medeiros
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q112191738
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: evan-spiegel
+    type: person
+    name: Evan Spiegel
+    names:
+      zh: 伊万·斯皮格
+      en: Evan Spiegel
+    gender: M
+    born: 1990-06-04
+    country:
+      - US
+      - FR
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: 美國商人
+    ids:
+      wikidata: Q15439301
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BC%8A%E4%B8%87%C2%B7%E6%96%AF%E7%9A%AE%E6%A0%BC
+      - https://en.wikipedia.org/wiki/Evan_Spiegel
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15439301
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 总干事
+  - id: evan-williams
+    type: person
+    name: Evan Williams
+    names:
+      zh: 埃文·威廉姆斯
+      en: Evan Williams
+    gender: M
+    born: 1972-03-31
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: 美國科技企業家
+    ids:
+      wikidata: Q561960
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%83%E6%96%87%C2%B7%E5%A8%81%E5%BB%89%E5%A7%86%E6%96%AF
+      - https://en.wikipedia.org/wiki/Evan_Williams_(Internet_entrepreneur)
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q561960
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席执行官
+        from: 2008-10-16
+        to: 2010-10-01
+  - id: eve-jobs
+    type: person
+    name: Eve Jobs
+    names:
+      zh: 伊芙·乔布斯
+      en: Eve Jobs
+    gender: F
+    born: 1998-07-09
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: daughter of Steve Jobs and Laurene Powell Jobs
+    ids:
+      wikidata: Q20895867
+    links:
+      - https://en.wikipedia.org/wiki/Eve_Jobs
+    tags:
+      - relative
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20895867
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: evelyn-berezin
+    type: person
+    name: Evelyn Berezin
+    names:
+      zh: 艾芙琳·貝瑞森
+      en: Evelyn Berezin
+    gender: F
+    born: 1925-04-12
+    died: 2018-12-08
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: 美國電腦科學家
+    ids:
+      wikidata: Q11431
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E8%8A%99%E7%90%B3%C2%B7%E5%88%A5%E5%88%97%E6%B4%A5
+      - https://en.wikipedia.org/wiki/Evelyn_Berezin
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11431
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: evelyn-lauder
+    type: person
+    name: Evelyn Lauder
+    names:
+      zh: 伊芙琳·勞德
+      en: Evelyn Lauder
+    gender: F
+    born: 1936-08-12
+    died: 2011-11-12
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Jewish American businesswoman and philanthropist (1936–2011)
+    ids:
+      wikidata: Q462055
+    links:
+      - https://en.wikipedia.org/wiki/Evelyn_Lauder
+    tags:
+      - relative
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q462055
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: evelyn-yang
+    type: person
+    name: Evelyn Yang
+    names:
+      en: Evelyn Yang
+    gender: F
+    born: 1981-10-31
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American marketer (born 1981)
+    ids:
+      wikidata: Q62090833
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q62090833
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: everton-blair
+    type: person
+    name: Everton Blair
+    names:
+      en: Everton Blair
+    gender: M
+    born: 1992-04-23
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1992)
+    ids:
+      wikidata: Q141178872
+    links:
+      - https://en.wikipedia.org/wiki/Everton_Blair
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q141178872
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2026-09-01
+  - id: ezekiel-emanuel
+    type: person
+    name: Ezekiel Emanuel
+    names:
+      en: Ezekiel Emanuel
+    gender: M
+    born: 1957-09-06
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: American physician
+    ids:
+      wikidata: Q5423140
+    links:
+      - https://en.wikipedia.org/wiki/Ezekiel_Emanuel
+    tags:
+      - relative
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5423140
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ezra-clyde-jackson
+    type: person
+    name: Ezra Clyde Jackson
+    names:
+      en: Ezra Clyde Jackson
+    gender: M
+    born: 1926-08-16
+    died: 1996-06-20
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: notable illustrator and comic book artist
+    ids:
+      wikidata: Q137882406
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137882406
+        publisher: Wikidata
+        accessed: 2026-10-11

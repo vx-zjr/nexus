@@ -1,0 +1,607 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: yahoo
+    type: org
+    name: Yahoo
+    names:
+      zh: 雅虎
+      en: Yahoo
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: Web服務提供商，其Web門戶和搜索引擎
+    ids:
+      wikidata: Q37093
+    links:
+      - https://en.wikipedia.org/wiki/Yahoo
+    sources:
+      - url: https://www.wikidata.org/wiki/Q37093
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yale-college
+    type: org
+    name: Yale College
+    names:
+      zh: 耶鲁学院
+      en: Yale College
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 耶鲁大学本科教育部门
+    ids:
+      wikidata: Q2599077
+    links:
+      - https://en.wikipedia.org/wiki/Yale_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2599077
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yale-divinity-school
+    type: org
+    name: Yale Divinity School
+    names:
+      zh: 耶鲁大学神学院
+      en: Yale Divinity School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Theological Graduate School of Yale University
+    ids:
+      wikidata: Q10723329
+    links:
+      - https://en.wikipedia.org/wiki/Yale_Divinity_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10723329
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yale-law-journal
+    type: org
+    name: Yale Law Journal
+    names:
+      zh: 耶鲁法学杂志
+      en: Yale Law Journal
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: journal
+    ids:
+      wikidata: Q3571386
+    links:
+      - https://en.wikipedia.org/wiki/The_Yale_Law_Journal
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3571386
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yale-law-school
+    type: org
+    name: Yale Law School
+    names:
+      zh: 耶鲁法学院
+      en: Yale Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 耶鲁大学法学院，位于美国纽黑文
+    ids:
+      wikidata: Q1143289
+    links:
+      - https://en.wikipedia.org/wiki/Yale_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1143289
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yale-school-of-engineering-and-applied-science
+    type: org
+    name: Yale School of Engineering and Applied Science
+    names:
+      zh: 耶鲁大学工程与应用科学学院
+      en: Yale School of Engineering and Applied Science
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: engineering school of Yale University
+    ids:
+      wikidata: Q8047425
+    links:
+      - https://en.wikipedia.org/wiki/Yale_School_of_Engineering_and_Applied_Science
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8047425
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yale-school-of-management
+    type: org
+    name: Yale School of Management
+    names:
+      zh: 耶鲁大学管理学院
+      en: Yale School of Management
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: graduate business school of Yale University
+    ids:
+      wikidata: Q8047426
+    links:
+      - https://en.wikipedia.org/wiki/Yale_School_of_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8047426
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yale-university
+    type: org
+    name: Yale University
+    names:
+      zh: 耶鲁大学
+      en: Yale University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 2
+    summary: 位於美國康乃狄克州紐希文市的私立研究型大學
+    ids:
+      wikidata: Q49112
+    links:
+      - https://en.wikipedia.org/wiki/Yale_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49112
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yali-network-abuja
+    type: org
+    name: YALI Network Abuja
+    names:
+      en: YALI Network Abuja
+    orgType: other
+    country:
+      - NG
+    sectors:
+      - other
+    tier: 4
+    summary: US Department of State Project in Nigeria
+    ids:
+      wikidata: Q106485470
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106485470
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yali-network-edo
+    type: org
+    name: YALI Network Edo
+    names:
+      en: YALI Network Edo
+    orgType: other
+    country:
+      - NG
+    sectors:
+      - other
+    tier: 4
+    summary: Community of young professionals in Edo state
+    ids:
+      wikidata: Q106485898
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106485898
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yali-network-ekiti
+    type: org
+    name: YALI Network Ekiti
+    names:
+      en: YALI Network Ekiti
+    orgType: other
+    country:
+      - NG
+    sectors:
+      - other
+    tier: 4
+    summary: Community of young professionals in Ekiti state
+    ids:
+      wikidata: Q106485915
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106485915
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yali-network-enugu
+    type: org
+    name: YALI Network Enugu
+    names:
+      en: YALI Network Enugu
+    orgType: other
+    country:
+      - NG
+    sectors:
+      - other
+    tier: 4
+    summary: Community of young professionals in Enugu state
+    ids:
+      wikidata: Q106485940
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106485940
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yali-network-gombe
+    type: org
+    name: YALI Network Gombe
+    names:
+      en: YALI Network Gombe
+    orgType: other
+    country:
+      - NG
+    sectors:
+      - other
+    tier: 4
+    summary: Community of young professionals in Gombe state
+    ids:
+      wikidata: Q106485960
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106485960
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yali-network-imo
+    type: org
+    name: YALI Network Imo
+    names:
+      en: YALI Network Imo
+    orgType: other
+    country:
+      - NG
+    sectors:
+      - other
+    tier: 4
+    summary: Community of young professionals in Imo state
+    ids:
+      wikidata: Q106485995
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106485995
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yali-network-jigawa
+    type: org
+    name: YALI Network Jigawa
+    names:
+      en: YALI Network Jigawa
+    orgType: other
+    country:
+      - NG
+    sectors:
+      - other
+    tier: 4
+    summary: Community of young professionals in Jigawa state
+    ids:
+      wikidata: Q106486005
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106486005
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yali-network-kaduna
+    type: org
+    name: YALI Network Kaduna
+    names:
+      en: YALI Network Kaduna
+    orgType: other
+    country:
+      - NG
+    sectors:
+      - other
+    tier: 4
+    summary: Community of young professionals in Kaduna state
+    ids:
+      wikidata: Q106486091
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106486091
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yali-network-kano
+    type: org
+    name: YALI Network Kano
+    names:
+      en: YALI Network Kano
+    orgType: other
+    country:
+      - NG
+    sectors:
+      - other
+    tier: 4
+    summary: Community of young professionals in kano state
+    ids:
+      wikidata: Q106485513
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106485513
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yali-network-kastina
+    type: org
+    name: YALI Network Kastina
+    names:
+      en: YALI Network Kastina
+    orgType: other
+    country:
+      - NG
+    sectors:
+      - other
+    tier: 4
+    summary: Community of young professionals in kastina state
+    ids:
+      wikidata: Q106485555
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106485555
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yali-network-kebbi
+    type: org
+    name: YALI Network Kebbi
+    names:
+      en: YALI Network Kebbi
+    orgType: other
+    country:
+      - NG
+    sectors:
+      - other
+    tier: 4
+    summary: arm of yali network in kebbi state
+    ids:
+      wikidata: Q106485644
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106485644
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yali-network-lagos
+    type: org
+    name: YALI Network Lagos
+    names:
+      en: YALI Network Lagos
+    orgType: other
+    country:
+      - NG
+    sectors:
+      - other
+    tier: 4
+    summary: Community of young professionals in lagos state
+    ids:
+      wikidata: Q106485716
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106485716
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yali-network-yobe
+    type: org
+    name: YALI Network Yobe
+    names:
+      en: YALI Network Yobe
+    orgType: other
+    country:
+      - NG
+    sectors:
+      - other
+    tier: 4
+    summary: arm of YALI network in yobe state
+    ids:
+      wikidata: Q106485752
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106485752
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yali-network-zamfara
+    type: org
+    name: YALI Network Zamfara
+    names:
+      en: YALI Network Zamfara
+    orgType: other
+    country:
+      - NG
+    sectors:
+      - other
+    tier: 4
+    summary: Community of young professionals in Zamfara state
+    ids:
+      wikidata: Q106485825
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106485825
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yali-rlc-west-africa
+    type: org
+    name: YALI RLC West Africa
+    names:
+      en: YALI RLC West Africa
+    orgType: ngo
+    country:
+      - GH
+      - TG
+      - BF
+      - GM
+      - CI
+      - CM
+      - LR
+      - NG
+      - SL
+    sectors:
+      - other
+    tier: 4
+    summary: Regional Leadership Centre of YALI in West Africa
+    ids:
+      wikidata: Q100234558
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100234558
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yield-giving
+    type: org
+    name: Yield Giving
+    names:
+      en: Yield Giving
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American philanthropy founded by MacKenzie Scott
+    ids:
+      wikidata: Q130426051
+    links:
+      - https://en.wikipedia.org/wiki/Yield_Giving
+    sources:
+      - url: https://www.wikidata.org/wiki/Q130426051
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: youku
+    type: org
+    name: 优酷
+    names:
+      zh: 优酷
+      en: Youku
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中國影片分享網站
+    ids:
+      wikidata: Q151135
+    links:
+      - https://en.wikipedia.org/wiki/Youku
+    sources:
+      - url: https://www.wikidata.org/wiki/Q151135
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: youku-tudou
+    type: org
+    name: 优酷土豆集团
+    names:
+      zh: 优酷土豆集团
+      en: Youku Tudou
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: video hosting service based in China
+    ids:
+      wikidata: Q8057770
+    links:
+      - https://en.wikipedia.org/wiki/Youku_Tudou
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8057770
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: young-african-leaders-initiative
+    type: org
+    name: Young African Leaders Initiative
+    names:
+      en: Young African Leaders Initiative
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: US Department of State project
+    ids:
+      wikidata: Q17501863
+    links:
+      - https://en.wikipedia.org/wiki/Young_African_Leaders_Initiative
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17501863
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: young-harris-college
+    type: org
+    name: Young Harris College
+    names:
+      zh: 楊哈里斯學院
+      en: Young Harris College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: Private university in Georgia, United States
+    ids:
+      wikidata: Q14686966
+    links:
+      - https://en.wikipedia.org/wiki/Young_Harris_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14686966
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: youtube
+    type: org
+    name: YouTube
+    names:
+      zh: YouTube
+      en: YouTube
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: Google旗下的影片分享平台
+    ids:
+      wikidata: Q866
+    links:
+      - https://en.wikipedia.org/wiki/YouTube
+    sources:
+      - url: https://www.wikidata.org/wiki/Q866
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yuri-s-night
+    type: org
+    name: Yuri's Night
+    names:
+      zh: 尤里之夜
+      en: Yuri's Night
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: holiday to commemorate space exploration
+    ids:
+      wikidata: Q782749
+    links:
+      - https://en.wikipedia.org/wiki/Yuri's_Night
+    sources:
+      - url: https://www.wikidata.org/wiki/Q782749
+        publisher: Wikidata
+        accessed: 2026-10-11

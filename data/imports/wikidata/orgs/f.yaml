@@ -1,0 +1,1893 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: f50-league-llc
+    type: org
+    name: F50 League LLC
+    names:
+      en: F50 League LLC
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: organization that organizes SailGP
+    ids:
+      wikidata: Q111425252
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111425252
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: facebook
+    type: org
+    name: Facebook
+    names:
+      zh: Facebook
+      en: Facebook
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 源自美國的跨國社交網路平台
+    ids:
+      wikidata: Q355
+    links:
+      - https://en.wikipedia.org/wiki/Facebook
+    sources:
+      - url: https://www.wikidata.org/wiki/Q355
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: faculty
+    type: org
+    name: faculty
+    names:
+      zh: 学院
+      en: faculty
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 大學內各主修領域或各級別機構
+    ids:
+      wikidata: Q180958
+    links:
+      - https://en.wikipedia.org/wiki/Academic_division
+    sources:
+      - url: https://www.wikidata.org/wiki/Q180958
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fair-count
+    type: org
+    name: Fair Count
+    names:
+      en: Fair Count
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: nonprofit nonpartisan organization dedicated to achieve a fair and accurate count of all people in Georgia and the nation in the 2020 Census
+    ids:
+      wikidata: Q105967547
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105967547
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fair-fight-action
+    type: org
+    name: Fair Fight Action
+    names:
+      en: Fair Fight Action
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American organization advocating voting rights
+    ids:
+      wikidata: Q85760316
+    links:
+      - https://en.wikipedia.org/wiki/Fair_Fight_Action
+    sources:
+      - url: https://www.wikidata.org/wiki/Q85760316
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fairchild-semiconductor
+    type: org
+    name: Fairchild Semiconductor
+    names:
+      zh: 仙童半导体
+      en: Fairchild Semiconductor
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国硅谷电子工业企业
+    ids:
+      wikidata: Q1096013
+    links:
+      - https://en.wikipedia.org/wiki/Fairchild_Semiconductor
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1096013
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fairfax-high-school
+    type: org
+    name: Fairfax High School
+    names:
+      zh: 福尔法克斯高中
+      en: Fairfax High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Los Angeles, California, USA
+    ids:
+      wikidata: Q2565243
+    links:
+      - https://en.wikipedia.org/wiki/Fairfax_High_School_(Los_Angeles)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2565243
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fairleigh-dickinson-university
+    type: org
+    name: Fairleigh Dickinson University
+    names:
+      zh: 费尔里·狄金生大学
+      en: Fairleigh Dickinson University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美國新澤西州大學
+    ids:
+      wikidata: Q1393301
+    links:
+      - https://en.wikipedia.org/wiki/Fairleigh_Dickinson_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1393301
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fairtex
+    type: org
+    name: Fairtex
+    names:
+      en: Fairtex
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: sport wearing
+    ids:
+      wikidata: Q30635316
+    links:
+      - https://en.wikipedia.org/wiki/Fairtex
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30635316
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: family-of-the-governor-of-ohio
+    type: org
+    name: family of the Governor of Ohio
+    names:
+      en: family of the Governor of Ohio
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q111903237
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111903237
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fanatics-inc
+    type: org
+    name: Fanatics, Inc.
+    names:
+      en: Fanatics, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American online sports retailer
+    ids:
+      wikidata: Q18150640
+    links:
+      - https://en.wikipedia.org/wiki/Fanatics%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18150640
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fandom
+    type: org
+    name: Fandom
+    names:
+      zh: Fandom
+      en: Fandom
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 免費的 wiki 網絡託管服務
+    ids:
+      wikidata: Q17459
+    links:
+      - https://en.wikipedia.org/wiki/Fandom_(website)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17459
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fandom-inc
+    type: org
+    name: Fandom, Inc.
+    names:
+      en: Fandom, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American wiki company
+    ids:
+      wikidata: Q20466202
+    links:
+      - https://en.wikipedia.org/wiki/Fandom%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20466202
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fanfou
+    type: org
+    name: 饭否
+    names:
+      zh: 饭否
+      en: Fanfou
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 微博客网站
+    ids:
+      wikidata: Q5433777
+    links:
+      - https://en.wikipedia.org/wiki/Fanfou
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5433777
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: far-hills-country-day-school
+    type: org
+    name: Far Hills Country Day School
+    names:
+      en: Far Hills Country Day School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: school in Far Hills, New Jersey
+    ids:
+      wikidata: Q5434581
+    links:
+      - https://en.wikipedia.org/wiki/Far_Hills_Country_Day_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5434581
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: far-rockaway-high-school
+    type: org
+    name: Far Rockaway High School
+    names:
+      zh: 法洛克衛高中
+      en: Far Rockaway High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 位於紐約市皇后區遠洛克威的公立高中，從1897年至2011年開業
+    ids:
+      wikidata: Q5434604
+    links:
+      - https://en.wikipedia.org/wiki/Far_Rockaway_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5434604
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: farsight-studios
+    type: org
+    name: FarSight Studios
+    names:
+      zh: FarSight工作室
+      en: FarSight Studios
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American video game developer
+    ids:
+      wikidata: Q726675
+    links:
+      - https://en.wikipedia.org/wiki/FarSight_Studios
+    sources:
+      - url: https://www.wikidata.org/wiki/Q726675
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fast-company
+    type: org
+    name: Fast Company
+    names:
+      zh: Fast Company 杂志
+      en: Fast Company
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國商業月刊
+    ids:
+      wikidata: Q1346673
+    links:
+      - https://en.wikipedia.org/wiki/Fast_Company
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1346673
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fatkat
+    type: org
+    name: FatKat
+    names:
+      en: FatKat
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: investment software
+    ids:
+      wikidata: Q5437148
+    links:
+      - https://en.wikipedia.org/wiki/FatKat_(investment_software)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5437148
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: faun-and-bacchante
+    type: org
+    name: Faun and Bacchante
+    names:
+      en: Faun and Bacchante
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by William-Adolphe Bouguereau
+    ids:
+      wikidata: Q58845104
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58845104
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fc-lugano
+    type: org
+    name: FC Lugano
+    names:
+      zh: 卢加诺足球俱乐部
+      en: FC Lugano
+    orgType: other
+    country:
+      - CH
+    sectors:
+      - other
+    tier: 3
+    summary: 瑞士足球俱乐部
+    ids:
+      wikidata: Q633521
+    links:
+      - https://en.wikipedia.org/wiki/FC_Lugano
+    sources:
+      - url: https://www.wikidata.org/wiki/Q633521
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: federal-bureau-of-investigation
+    type: org
+    name: Federal Bureau of Investigation
+    names:
+      zh: 联邦调查局
+      en: Federal Bureau of Investigation
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國司法部的主要調查機關
+    ids:
+      wikidata: Q8333
+    links:
+      - https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8333
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: federal-communications-commission
+    type: org
+    name: Federal Communications Commission
+    names:
+      zh: 美国联邦通信委员会
+      en: Federal Communications Commission
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 政府机构
+    ids:
+      wikidata: Q128831
+    links:
+      - https://en.wikipedia.org/wiki/Federal_Communications_Commission
+    sources:
+      - url: https://www.wikidata.org/wiki/Q128831
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: federal-government-of-the-united-states
+    type: org
+    name: Federal Government of the United States
+    names:
+      zh: 美国联邦政府
+      en: Federal Government of the United States
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國國家政府
+    ids:
+      wikidata: Q48525
+    links:
+      - https://en.wikipedia.org/wiki/Federal_government_of_the_United_States
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: federal-open-market-committee
+    type: org
+    name: Federal Open Market Committee
+    names:
+      zh: 聯邦公開市場委員會
+      en: Federal Open Market Committee
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 決定美國貨幣政策、公開市場操作方針的委員會
+    ids:
+      wikidata: Q2289022
+    links:
+      - https://en.wikipedia.org/wiki/Federal_Open_Market_Committee
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2289022
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: federal-reserve
+    type: org
+    name: Federal Reserve System
+    names:
+      zh: 联邦储备系统
+      en: Federal Reserve System
+    orgType: bank
+    country:
+      - US
+    sectors:
+      - finance
+    tier: 2
+    summary: 美國中央銀行制度
+    ids:
+      wikidata: Q53536
+    links:
+      - https://en.wikipedia.org/wiki/Federal_Reserve
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53536
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: federal-reserve-bank-of-new-york
+    type: org
+    name: Federal Reserve Bank of New York
+    names:
+      zh: 纽约联邦储备银行
+      en: Federal Reserve Bank of New York
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國12個聯邦準備銀行之一
+    ids:
+      wikidata: Q115860
+    links:
+      - https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_New_York
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115860
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: feeding-america
+    type: org
+    name: Feeding America
+    names:
+      zh: 赈济美国
+      en: Feeding America
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: United States non-profit organization
+    ids:
+      wikidata: Q2006911
+    links:
+      - https://en.wikipedia.org/wiki/Feeding_America
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2006911
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fermilab
+    type: org
+    name: Fermilab
+    names:
+      zh: 费米国立加速器实验室
+      en: Fermilab
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: high-energy particle physics laboratory in Illinois, USA
+    ids:
+      wikidata: Q337641
+    links:
+      - https://en.wikipedia.org/wiki/Fermi_National_Accelerator_Laboratory
+    sources:
+      - url: https://www.wikidata.org/wiki/Q337641
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fessenden-school
+    type: org
+    name: Fessenden School
+    names:
+      en: Fessenden School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private boarding/day school in the United States
+    ids:
+      wikidata: Q5445638
+    links:
+      - https://en.wikipedia.org/wiki/Fessenden_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5445638
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fiat
+    type: org
+    name: Fiat
+    names:
+      zh: 菲亚特
+      en: Fiat
+    orgType: company
+    country:
+      - IT
+    sectors:
+      - business
+    tier: 2
+    summary: 意大利汽车品牌
+    ids:
+      wikidata: Q27597
+    links:
+      - https://en.wikipedia.org/wiki/Fiat
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27597
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fiat-chrysler-automobiles
+    type: org
+    name: Fiat Chrysler Automobiles
+    names:
+      zh: Fiat Chrysler Automobiles
+      en: Fiat Chrysler Automobiles
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 3
+    summary: Italian-American multinational automotive manufacturing (2014-2021)
+    ids:
+      wikidata: Q15678788
+    links:
+      - https://en.wikipedia.org/wiki/Fiat_Chrysler_Automobiles
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15678788
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fidelity-international-ltd
+    type: org
+    name: Fidelity International Ltd
+    names:
+      zh: 富達國際
+      en: Fidelity International Ltd
+    orgType: company
+    country:
+      - LU
+      - GB
+    sectors:
+      - business
+    tier: 4
+    summary: 富达投资非美国业务
+    ids:
+      wikidata: Q5446786
+    links:
+      - https://en.wikipedia.org/wiki/Fidelity_International
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5446786
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fidelity-investments
+    type: org
+    name: Fidelity Investments
+    names:
+      zh: 富达投资集团
+      en: Fidelity Investments
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: US American multinational financial services corporation
+    ids:
+      wikidata: Q1411292
+    links:
+      - https://en.wikipedia.org/wiki/Fidelity_Investments
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1411292
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fight-fight-fight-llc
+    type: org
+    name: Fight Fight Fight LLC
+    names:
+      en: Fight Fight Fight LLC
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American corporation
+    ids:
+      wikidata: Q131832257
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q131832257
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: figure-2-ranch
+    type: org
+    name: Figure 2 Ranch
+    names:
+      en: Figure 2 Ranch
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q5448003
+    links:
+      - https://en.wikipedia.org/wiki/Figure_2_Ranch
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5448003
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: financial-trust-company
+    type: org
+    name: Financial Trust Company
+    names:
+      en: Financial Trust Company
+    orgType: company
+    country:
+      - VI
+    sectors:
+      - business
+    tier: 4
+    summary: Jeffrey Epstein Virgin Islands company
+    ids:
+      wikidata: Q65356059
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65356059
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fireblocks
+    type: org
+    name: Fireblocks
+    names:
+      en: Fireblocks
+    orgType: company
+    country:
+      - IL
+    sectors:
+      - business
+    tier: 4
+    ids:
+      wikidata: Q108896760
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q108896760
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: first-cabinet-of-donald-trump
+    type: org
+    name: first cabinet of Donald Trump
+    names:
+      zh: 唐纳德·特朗普内阁
+      en: first cabinet of Donald Trump
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 2017-2021年美国内阁
+    ids:
+      wikidata: Q27811470
+    links:
+      - https://en.wikipedia.org/wiki/First_cabinet_of_Donald_Trump
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27811470
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: first-family
+    type: org
+    name: First Family
+    names:
+      zh: 第一家庭
+      en: First Family
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: unofficial title for the family of a republic's head of state
+    ids:
+      wikidata: Q863372
+    links:
+      - https://en.wikipedia.org/wiki/First_family
+    sources:
+      - url: https://www.wikidata.org/wiki/Q863372
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: first-family-of-california
+    type: org
+    name: First Family of California
+    names:
+      en: First Family of California
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: family of the Governor of California
+    ids:
+      wikidata: Q111903197
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111903197
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: first-family-of-the-united-states
+    type: org
+    name: first family of the United States
+    names:
+      zh: 美国第一家庭
+      en: first family of the United States
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: family of the president of the United States
+    ids:
+      wikidata: Q862444
+    links:
+      - https://en.wikipedia.org/wiki/First_family_of_the_United_States
+    sources:
+      - url: https://www.wikidata.org/wiki/Q862444
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: first-look-media
+    type: org
+    name: First Look Media
+    names:
+      zh: 第一眼媒体
+      en: First Look Media
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American media company
+    ids:
+      wikidata: Q15730134
+    links:
+      - https://en.wikipedia.org/wiki/First_Look_Media
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15730134
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: first-presidential-transition-of-donald-trump
+    type: org
+    name: first presidential transition of Donald Trump
+    names:
+      zh: 唐纳德·特朗普总统过渡期
+      en: first presidential transition of Donald Trump
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: transfer of power from Barack Obama to Donald Trump
+    ids:
+      wikidata: Q24204549
+    links:
+      - https://en.wikipedia.org/wiki/First_presidential_transition_of_Donald_Trump
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24204549
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fishburne-military-school
+    type: org
+    name: Fishburne Military School
+    names:
+      en: Fishburne Military School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private, military boarding school in Waynesboro, Virginia, United States
+    ids:
+      wikidata: Q5454715
+    links:
+      - https://en.wikipedia.org/wiki/Fishburne_Military_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5454715
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fisher-investments
+    type: org
+    name: Fisher Investments
+    names:
+      en: Fisher Investments
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Founded in 1979 by Ken Fisher, Fisher Investments is a fee-only investment adviser serving financially successful individuals & prominent institutions globally.
+    ids:
+      wikidata: Q54074163
+    links:
+      - https://en.wikipedia.org/wiki/Fisher_Investments
+    sources:
+      - url: https://www.wikidata.org/wiki/Q54074163
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fisher-investments-luxembourg
+    type: org
+    name: Fisher Investments Luxembourg
+    names:
+      en: Fisher Investments Luxembourg
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: investment firm
+    ids:
+      wikidata: Q120293158
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q120293158
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fisk-university
+    type: org
+    name: Fisk University
+    names:
+      zh: 费斯克大学
+      en: Fisk University
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: historically black university in Nashville, Tennessee, US
+    ids:
+      wikidata: Q49087
+    links:
+      - https://en.wikipedia.org/wiki/Fisk_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49087
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: flag
+    type: org
+    name: Flag
+    names:
+      en: Flag
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Jasper Johns (1958)
+    ids:
+      wikidata: Q107683080
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q107683080
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: florida-a-and-m-university
+    type: org
+    name: Florida A&M University
+    names:
+      zh: 佛罗里达农业和机械大学
+      en: Florida A&M University
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国佛罗里达州大学
+    ids:
+      wikidata: Q1430048
+    links:
+      - https://en.wikipedia.org/wiki/Florida_A%26M_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1430048
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: florida-house-of-representatives
+    type: org
+    name: Florida House of Representatives
+    names:
+      zh: 佛罗里达州众议院
+      en: Florida House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the US state of Florida
+    ids:
+      wikidata: Q909020
+    links:
+      - https://en.wikipedia.org/wiki/Florida_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q909020
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: florida-international-university
+    type: org
+    name: Florida International University
+    names:
+      zh: 佛羅里達國際大學
+      en: Florida International University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国佛罗里达州大学
+    ids:
+      wikidata: Q1065809
+    links:
+      - https://en.wikipedia.org/wiki/Florida_International_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1065809
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: florida-senate
+    type: org
+    name: Florida Senate
+    names:
+      zh: 佛罗里达州参议院
+      en: Florida Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the Florida Legislature, the state legislature of the US state of Florida
+    ids:
+      wikidata: Q123199
+    links:
+      - https://en.wikipedia.org/wiki/Florida_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q123199
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: florida-state-college-at-jacksonville
+    type: org
+    name: Florida State College at Jacksonville
+    names:
+      zh: 佛州學院傑克孫維校區
+      en: Florida State College at Jacksonville
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: public college in Jacksonville, Florida
+    ids:
+      wikidata: Q5461608
+    links:
+      - https://en.wikipedia.org/wiki/Florida_State_College_at_Jacksonville
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5461608
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: florida-state-university
+    type: org
+    name: Florida State University
+    names:
+      zh: 佛罗里达州立大学
+      en: Florida State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 1851年创建的一所学校
+    ids:
+      wikidata: Q861548
+    links:
+      - https://en.wikipedia.org/wiki/Florida_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q861548
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: florida-state-university-college-of-law
+    type: org
+    name: Florida State University College of Law
+    names:
+      zh: 佛羅里達州立大學法學院
+      en: Florida State University College of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school
+    ids:
+      wikidata: Q5461640
+    links:
+      - https://en.wikipedia.org/wiki/Florida_State_University_College_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5461640
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: flynn-intel-group
+    type: org
+    name: Flynn Intel Group
+    names:
+      en: Flynn Intel Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: lobbying group
+    ids:
+      wikidata: Q39086157
+    links:
+      - https://en.wikipedia.org/wiki/Flynn_Intel_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q39086157
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fondazione-giovanni-agnelli
+    type: org
+    name: Fondazione Giovanni Agnelli
+    names:
+      en: Fondazione Giovanni Agnelli
+    orgType: foundation
+    country:
+      - IT
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q3747176
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3747176
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: for-inspiration-and-recognition-of-science-and-technology
+    type: org
+    name: For Inspiration and Recognition of Science and Technology
+    names:
+      zh: 高尚的专业精神
+      en: For Inspiration and Recognition of Science and Technology
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: US charity
+    ids:
+      wikidata: Q444353
+    links:
+      - https://en.wikipedia.org/wiki/For_Inspiration_and_Recognition_of_Science_and_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q444353
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fordham-university
+    type: org
+    name: Fordham University
+    names:
+      zh: 福坦莫大学
+      en: Fordham University
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: private research university in New York City, USA
+    ids:
+      wikidata: Q130965
+    links:
+      - https://en.wikipedia.org/wiki/Fordham_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q130965
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fordham-university-school-of-law
+    type: org
+    name: Fordham University School of Law
+    names:
+      zh: 福坦莫大学法学院
+      en: Fordham University School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: graduate law school of Fordham University
+    ids:
+      wikidata: Q5468082
+    links:
+      - https://en.wikipedia.org/wiki/Fordham_University_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5468082
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: forest-slope-in-unterach-am-attersee
+    type: org
+    name: Forest Slope in Unterach am Attersee
+    names:
+      en: Forest Slope in Unterach am Attersee
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Gustav Klimt
+    ids:
+      wikidata: Q136714049
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136714049
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fortinet
+    type: org
+    name: Fortinet
+    names:
+      zh: Fortinet
+      en: Fortinet
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: network security corporation
+    ids:
+      wikidata: Q2749364
+    links:
+      - https://en.wikipedia.org/wiki/Fortinet
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2749364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: forum-robinsons
+    type: org
+    name: Forum Robinsons
+    names:
+      en: Forum Robinsons
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: shopping mall in Metro Manila, Philippines
+    ids:
+      wikidata: Q18355944
+    links:
+      - https://en.wikipedia.org/wiki/Forum_Robinsons
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18355944
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: forward-party
+    type: org
+    name: Forward Party
+    names:
+      zh: 前進黨 (美國)
+      en: Forward Party
+    orgType: party
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American political organization
+    ids:
+      wikidata: Q108816586
+    links:
+      - https://en.wikipedia.org/wiki/Forward_Party_(United_States)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q108816586
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fosun-international-limited
+    type: org
+    name: 复星国际
+    names:
+      zh: 复星国际
+      en: Fosun International Limited
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国公司
+    ids:
+      wikidata: Q3079736
+    links:
+      - https://en.wikipedia.org/wiki/Fosun_International
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3079736
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: founders-fund
+    type: org
+    name: Founders Fund
+    names:
+      zh: 创始人基金
+      en: Founders Fund
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American venture capital firm
+    ids:
+      wikidata: Q1439864
+    links:
+      - https://en.wikipedia.org/wiki/Founders_Fund
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1439864
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: four-seasons-hotel-and-residences-toronto
+    type: org
+    name: Four Seasons Hotel and Residences Toronto
+    names:
+      zh: 多倫多四季酒店
+      en: Four Seasons Hotel and Residences Toronto
+    orgType: other
+    country:
+      - CA
+    sectors:
+      - other
+    tier: 4
+    summary: skyscraper in Toronto, Canada
+    ids:
+      wikidata: Q593320
+    links:
+      - https://en.wikipedia.org/wiki/Four_Seasons_Hotel_and_Residences_Toronto
+    sources:
+      - url: https://www.wikidata.org/wiki/Q593320
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fox-broadcasting-company
+    type: org
+    name: Fox Broadcasting Company
+    names:
+      zh: 福克斯广播公司
+      en: Fox Broadcasting Company
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美国商业电视网
+    ids:
+      wikidata: Q166419
+    links:
+      - https://en.wikipedia.org/wiki/Fox_Broadcasting_Company
+    sources:
+      - url: https://www.wikidata.org/wiki/Q166419
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fox-corporation
+    type: org
+    name: Fox Corporation
+    names:
+      zh: 福克斯公司
+      en: Fox Corporation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国媒体公司
+    ids:
+      wikidata: Q60238941
+    links:
+      - https://en.wikipedia.org/wiki/Fox_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60238941
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fox-entertainment-group
+    type: org
+    name: Fox Entertainment Group
+    names:
+      zh: 福克斯娱乐集团
+      en: Fox Entertainment Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國娛樂公司
+    ids:
+      wikidata: Q925249
+    links:
+      - https://en.wikipedia.org/wiki/Fox_Entertainment_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q925249
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fox-networks-group
+    type: org
+    name: Fox Networks Group
+    names:
+      zh: 福克斯国际频道
+      en: Fox Networks Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: a subsidiary of Walt Disney Direct-to-Consumer & International
+    ids:
+      wikidata: Q386442
+    links:
+      - https://en.wikipedia.org/wiki/Fox_Networks_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q386442
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fox-networks-group-latin-america
+    type: org
+    name: Fox Networks Group Latin America
+    names:
+      en: Fox Networks Group Latin America
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q23012801
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23012801
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fox-news
+    type: org
+    name: Fox News
+    names:
+      zh: 福克斯新闻频道
+      en: Fox News
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美国新闻频道
+    ids:
+      wikidata: Q186068
+    links:
+      - https://en.wikipedia.org/wiki/Fox_News
+    sources:
+      - url: https://www.wikidata.org/wiki/Q186068
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fox-television-stations
+    type: org
+    name: Fox Television Stations
+    names:
+      zh: 福克斯电视台
+      en: Fox Television Stations
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: television station division of Fox
+    ids:
+      wikidata: Q5476982
+    links:
+      - https://en.wikipedia.org/wiki/Fox_Television_Stations
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5476982
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: foxcroft-school
+    type: org
+    name: Foxcroft School
+    names:
+      en: Foxcroft School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: preparatory school in Middleburg, Virginia
+    ids:
+      wikidata: Q5477113
+    links:
+      - https://en.wikipedia.org/wiki/Foxcroft_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5477113
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: franklin-and-marshall-college
+    type: org
+    name: Franklin & Marshall College
+    names:
+      zh: 富兰克林·马歇尔学院
+      en: Franklin & Marshall College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private liberal arts college in Lancaster, Pennsylvania, U.S.
+    ids:
+      wikidata: Q664881
+    links:
+      - https://en.wikipedia.org/wiki/Franklin_%26_Marshall_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q664881
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: franklin-high-school
+    type: org
+    name: Franklin High School
+    names:
+      en: Franklin High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Public High School located in Franklin, Tennessee, in Williamson County
+    ids:
+      wikidata: Q5491553
+    links:
+      - https://en.wikipedia.org/wiki/Franklin_High_School_(Tennessee)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5491553
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: franzi-with-bow-and-arrow
+    type: org
+    name: Fränzi with Bow and Arrow
+    names:
+      en: Fränzi with Bow and Arrow
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Ernst Ludwig Kirchner
+    ids:
+      wikidata: Q136714094
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136714094
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fredric-g-levin-college-of-law
+    type: org
+    name: Fredric G. Levin College of Law
+    names:
+      zh: 佛罗里达大学莱文法学院
+      en: Fredric G. Levin College of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: University of Florida law school
+    ids:
+      wikidata: Q5499390
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Florida_Levin_College_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5499390
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: freedom-caucus
+    type: org
+    name: Freedom Caucus
+    names:
+      zh: 自由核心小组
+      en: Freedom Caucus
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国众议院共和党党团
+    ids:
+      wikidata: Q19881038
+    links:
+      - https://en.wikipedia.org/wiki/Freedom_Caucus
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19881038
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: frontier-services-group
+    type: org
+    name: Frontier Services Group
+    names:
+      zh: 先丰服务
+      en: Frontier Services Group
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: 安保、物流、保險公司
+    ids:
+      wikidata: Q42309964
+    links:
+      - https://en.wikipedia.org/wiki/Frontier_Services_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q42309964
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ftx
+    type: org
+    name: FTX
+    names:
+      zh: FTX
+      en: FTX
+    orgType: other
+    country:
+      - AG
+    sectors:
+      - other
+    tier: 3
+    summary: 數碼資產現貨、衍生工具交易平台
+    ids:
+      wikidata: Q108864780
+    links:
+      - https://en.wikipedia.org/wiki/FTX
+    sources:
+      - url: https://www.wikidata.org/wiki/Q108864780
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fu-foundation-school-of-engineering-and-applied-science
+    type: org
+    name: Fu Foundation School of Engineering and Applied Science
+    names:
+      zh: 哥伦比亚大学工学院
+      en: Fu Foundation School of Engineering and Applied Science
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 学校
+    ids:
+      wikidata: Q5149833
+    links:
+      - https://en.wikipedia.org/wiki/Fu_Foundation_School_of_Engineering_and_Applied_Science
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5149833
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fudan-university
+    type: org
+    name: 复旦大学
+    names:
+      zh: 复旦大学
+      en: Fudan University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 中国上海高等学校
+    ids:
+      wikidata: Q495015
+    links:
+      - https://en.wikipedia.org/wiki/Fudan_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q495015
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fujian-normal-university
+    type: org
+    name: 福建师范大学
+    names:
+      zh: 福建师范大学
+      en: Fujian Normal University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于福州的公立大学
+    ids:
+      wikidata: Q4570168
+    links:
+      - https://en.wikipedia.org/wiki/Fujian_Normal_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4570168
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fujian-provincial-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党福建省委员会
+    names:
+      zh: 中国共产党福建省委员会
+      en: Fujian Provincial Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国共产党在福建省的地方组织
+    ids:
+      wikidata: Q10873219
+    links:
+      - https://en.wikipedia.org/wiki/Fujian_Provincial_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873219
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fujian-provincial-people-s-government
+    type: org
+    name: 福建省人民政府
+    names:
+      zh: 福建省人民政府
+      en: Fujian Provincial People's Government
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国福建省的地方行政机关
+    ids:
+      wikidata: Q13389950
+    links:
+      - https://en.wikipedia.org/wiki/Fujian_Provincial_People's_Government
+    sources:
+      - url: https://www.wikidata.org/wiki/Q13389950
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fulham-f-c
+    type: org
+    name: Fulham F.C.
+    names:
+      zh: 富勒姆足球俱乐部
+      en: Fulham F.C.
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 2
+    summary: 英格兰伦敦的足球俱乐部
+    ids:
+      wikidata: Q18708
+    links:
+      - https://en.wikipedia.org/wiki/Fulham_F.C.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18708
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: furman-university
+    type: org
+    name: Furman University
+    names:
+      zh: 傅爾曼大學
+      en: Furman University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private liberal arts college in Greenville, South Carolina, United States
+    ids:
+      wikidata: Q1475020
+    links:
+      - https://en.wikipedia.org/wiki/Furman_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1475020
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fuyao
+    type: org
+    name: 福耀集团
+    names:
+      zh: 福耀集团
+      en: Fuyao
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国企业
+    ids:
+      wikidata: Q1254961
+    links:
+      - https://en.wikipedia.org/wiki/Fuyao_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1254961
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fwd-us
+    type: org
+    name: FWD.us
+    names:
+      en: FWD.us
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: lobbying group for immigration and education reform in the US
+    ids:
+      wikidata: Q15064314
+    links:
+      - https://en.wikipedia.org/wiki/FWD.us
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15064314
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fx-networks
+    type: org
+    name: FX Networks
+    names:
+      zh: FX电视网
+      en: FX Networks
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American mass media company owned by Disney
+    ids:
+      wikidata: Q110565573
+    links:
+      - https://en.wikipedia.org/wiki/FX_Networks
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110565573
+        publisher: Wikidata
+        accessed: 2026-10-11

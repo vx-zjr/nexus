@@ -1,0 +1,38 @@
+id: yin-li
+type: person
+name: 尹力
+names:
+  zh: 尹力
+  en: Yin Li
+gender: M
+born: 1962-08
+country:
+- CN
+sectors:
+- politics
+tier: 2
+status: active
+summary: 北京市委书记（2022–），前福建省委书记（2020–2022）。卫生系统出身。
+positions:
+- title: 北京市委书记
+  from: 2022-10
+  current: true
+- title: 政治局委员
+  org: ccp-politburo
+  from: 2022-10
+  current: true
+- title: 福建省委书记
+  from: 2020-12
+  to: 2022-10
+- title: 四川省长
+  from: 2016-12
+  to: 2020-12
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+updated: '2026-10-11'

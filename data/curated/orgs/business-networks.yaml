@@ -1,0 +1,59 @@
+# 与权贵关系网相关的企业/基金/政治组织（QID 均经 `ctos wd` 核实）
+entities:
+  # ---------- 美国：特朗普家族生意 ----------
+  - { id: trump-organization, type: org, name: The Trump Organization, names: { zh: 特朗普集团 }, orgType: company, country: US, sectors: [business], tier: 2, ids: { wikidata: Q2462124 }, summary: 特朗普家族控股企业，2017 年起由 Donald Trump Jr. 与 Eric Trump 经营。, links: [https://en.wikipedia.org/wiki/The_Trump_Organization] }
+  - { id: trump-media, type: org, name: Trump Media & Technology Group, names: { zh: 特朗普媒体科技集团 }, aliases: [TMTG, DJT, Truth Social], orgType: company, country: US, sectors: [media, tech], tier: 2, ids: { wikidata: Q109030760 }, summary: Truth Social 母公司（纳斯达克：DJT），CEO 为前众议员 Devin Nunes；特朗普为最大股东。, links: [https://en.wikipedia.org/wiki/Trump_Media_%26_Technology_Group] }
+  - { id: world-liberty-financial, type: org, name: World Liberty Financial, names: { zh: 世界自由金融 }, aliases: [WLFI, WLF], orgType: company, country: US, sectors: [finance, tech], tier: 2, founded: 2024, ids: { wikidata: Q130316305 },
+      summary: "特朗普家族持股约 60% 的加密货币公司（2024 年成立），发行稳定币 USD1。Zach Witkoff 任 CEO，Steve Witkoff 为“荣誉联合创始人”。阿布扎比 MGX 以 USD1 向币安注资 20 亿美元；孙宇晨曾投资约 4500 万美元，并于 2026-04 起诉 WLF 欺诈。",
+      sources: [ { url: 'https://nclawyersweekly.com/2026/04/23/blockchain-billionaire-sun-takes-trump-familys-crypto-firm-to-court/', title: "Blockchain billionaire Sun takes Trump family's crypto firm to court", date: 2026-04-23 }, https://en.wikipedia.org/wiki/World_Liberty_Financial ] }
+  - { id: affinity-partners, type: org, name: Affinity Partners, orgType: fund, country: US, sectors: [finance], tier: 3, founded: 2021, ids: { wikidata: Q112683459 }, summary: Jared Kushner 离开白宫后创办的投资公司，沙特主权基金 PIF 为主要出资方（约 20 亿美元）。, links: [https://en.wikipedia.org/wiki/Affinity_Partners] }
+  - { id: mithril-capital, type: org, name: Mithril Capital, orgType: fund, country: US, sectors: [finance], tier: 4, ids: { wikidata: Q128795954 }, summary: Peter Thiel 联合创办的风投，JD Vance 曾在此任职。 }
+  - { id: america-pac, type: org, name: America PAC, orgType: club, country: US, sectors: [politics], tier: 3, founded: 2024, ids: { wikidata: Q127790371 }, summary: 马斯克资助的超级政治行动委员会，2024 年大选为特朗普投入约 2 亿美元以上。, links: [https://en.wikipedia.org/wiki/America_PAC] }
+  - { id: doge, type: org, name: Department of Government Efficiency, names: { zh: 政府效率部 }, aliases: [DOGE], orgType: government, country: US, sectors: [politics], tier: 3, founded: 2025, ids: { wikidata: Q131158869 }, summary: 2025-01 成立，马斯克主导至 2025-05。 }
+  # ---------- 美国：科技/金融/传媒 ----------
+  - { id: oracle, type: org, name: Oracle Corporation, names: { zh: 甲骨文 }, orgType: company, country: US, sectors: [tech], tier: 2, ids: { wikidata: Q19900 } }
+  - { id: tiktok-usds, type: org, name: TikTok USDS Joint Venture, names: { zh: TikTok 美国数据安全合资公司 }, orgType: company, country: US, sectors: [tech, media], tier: 2, founded: 2026,
+      summary: "2026-01-22 交割。Oracle、Silver Lake、MGX 各持 15%，字节跳动保留 19.9%，约三分之一由字节现有投资人关联方持有。董事会 7 人含周受资、Egon Durban（Silver Lake）、Kenneth Glueck（Oracle）、David Scott（MGX）等。",
+      sources: [ { url: 'https://axios.com/2026/01/23/tiktok-deal-trump-app-ban', title: TikTok divestiture deal closes, publisher: Axios, date: 2026-01-23 }, { url: 'https://www.caixinglobal.com/2026-01-23/tiktok-completes-us-spinoff-to-keep-app-online-102407279.html', title: TikTok Completes U.S. Spinoff to Keep App Online, publisher: Caixin Global, date: 2026-01-23 } ] }
+  - { id: tiktok, type: org, name: TikTok, orgType: company, country: CN, sectors: [tech, media], tier: 2, ids: { wikidata: Q48938223 }, parent: bytedance }
+  - { id: bytedance, type: org, name: 字节跳动, names: { zh: 字节跳动, en: ByteDance }, orgType: company, country: CN, sectors: [tech], tier: 2, ids: { wikidata: Q55606242 } }
+  - { id: silver-lake, type: org, name: Silver Lake, orgType: fund, country: US, sectors: [finance], tier: 3, ids: { wikidata: Q1676442 } }
+  - { id: mgx, type: org, name: MGX Fund Management, orgType: fund, country: [AE], sectors: [finance], tier: 3, ids: { wikidata: Q131855666 }, summary: 阿布扎比政府背景的 AI 投资公司（主席为 Sheikh Tahnoon）。 }
+  - { id: binance, type: org, name: Binance, names: { zh: 币安 }, orgType: company, sectors: [finance, tech], tier: 3, ids: { wikidata: Q51403327 } }
+  - { id: nvidia, type: org, name: Nvidia, names: { zh: 英伟达 }, orgType: company, country: US, sectors: [tech], tier: 1, ids: { wikidata: Q182477 } }
+  - { id: apple-inc, type: org, name: Apple Inc., names: { zh: 苹果公司 }, orgType: company, country: US, sectors: [tech], tier: 1, ids: { wikidata: Q312 } }
+  - { id: tesla, type: org, name: Tesla, names: { zh: 特斯拉 }, orgType: company, country: US, sectors: [tech, business], tier: 1, ids: { wikidata: Q478214 } }
+  - { id: spacex, type: org, name: SpaceX, orgType: company, country: US, sectors: [tech], tier: 1, ids: { wikidata: Q193701 } }
+  - { id: palantir, type: org, name: Palantir Technologies, orgType: company, country: US, sectors: [tech, security], tier: 2, ids: { wikidata: Q2047336 } }
+  - { id: founders-fund, type: org, name: Founders Fund, orgType: fund, country: US, sectors: [finance], tier: 3, ids: { wikidata: Q1439864 } }
+  - { id: paramount-skydance, type: org, name: Paramount Skydance, orgType: company, country: US, sectors: [media], tier: 2, founded: 2025, ids: { wikidata: Q135485147 }, summary: 2025-08 Skydance 与 Paramount Global 合并，David Ellison 任 CEO，Ellison 家族控股。 }
+  - { id: news-corp, type: org, name: News Corp, names: { zh: 新闻集团 }, orgType: media, country: US, sectors: [media], tier: 2, ids: { wikidata: Q14289857 } }
+  - { id: fox-corporation, type: org, name: Fox Corporation, names: { zh: 福克斯公司 }, orgType: media, country: US, sectors: [media], tier: 2, ids: { wikidata: Q60238941 } }
+  - { id: blackstone, type: org, name: Blackstone Inc., names: { zh: 黑石集团 }, orgType: fund, country: US, sectors: [finance], tier: 2, ids: { wikidata: Q880942 } }
+  - { id: schwarzman-scholars, type: org, name: Schwarzman Scholars, names: { zh: 苏世民书院 }, orgType: university, country: CN, sectors: [academia], tier: 3, founded: 2013, ids: { wikidata: Q17152830 }, summary: 苏世民捐资在清华大学设立的研究生项目，是中美精英网络的重要节点。 }
+  - { id: bridgewater, type: org, name: Bridgewater Associates, names: { zh: 桥水基金 }, orgType: fund, country: US, sectors: [finance], tier: 2, ids: { wikidata: Q652431 } }
+  - { id: kissinger-associates, type: org, name: Kissinger Associates, names: { zh: 基辛格咨询公司 }, orgType: company, country: US, sectors: [business, diplomacy], tier: 3, ids: { wikidata: Q3197516 } }
+  - { id: las-vegas-sands, type: org, name: Las Vegas Sands, names: { zh: 金沙集团 }, orgType: company, country: US, sectors: [business], tier: 2, ids: { wikidata: Q1506045 }, summary: Adelson 家族控股，澳门金沙中国母公司。 }
+  - { id: wynn-resorts, type: org, name: Wynn Resorts, names: { zh: 永利度假村 }, orgType: company, country: US, sectors: [business], tier: 3, ids: { wikidata: Q2274089 } }
+  - { id: cantor-fitzgerald, type: org, name: Cantor Fitzgerald, orgType: bank, country: US, sectors: [finance], tier: 3, ids: { wikidata: Q2936874 } }
+  - { id: soros-fund-management, type: org, name: Soros Fund Management, names: { zh: 索罗斯基金管理公司 }, orgType: fund, country: US, sectors: [finance], tier: 3, ids: { wikidata: Q200816 } }
+  - { id: thrive-capital, type: org, name: Thrive Capital, orgType: fund, country: US, sectors: [finance], tier: 3, ids: { wikidata: Q105962567 }, summary: Josh Kushner（Jared Kushner 之弟）创办的风投。 }
+  # ---------- 美国：赵小兰家族 ----------
+  - { id: foremost-group, type: org, name: Foremost Group, names: { zh: 福茂集团 }, orgType: company, country: US, sectors: [business], tier: 3, ids: { wikidata: Q64430814 }, summary: 赵锡成（James S. C. Chao）创办的航运公司，大量船舶在中国国有船厂建造并获中国国有银行贷款承诺（纽时 2019 调查）。 }
+  # ---------- 中国：权贵关联企业 ----------
+  - { id: bhr-partners, type: org, name: 渤海华美, names: { zh: 渤海华美（上海）股权投资基金管理有限公司, en: BHR Partners }, orgType: fund, country: CN, sectors: [finance], tier: 3, founded: 2013, ids: { wikidata: Q28456257 }, summary: 中美合资私募，Hunter Biden 曾任董事并通过 Skaneateles 持股 10%（2017–2020）。, links: [https://en.wikipedia.org/wiki/BHR_Partners] }
+  - { id: cefc-china-energy, type: org, name: 中国华信能源, names: { zh: 中国华信能源有限公司, en: CEFC China Energy }, orgType: company, country: CN, sectors: [business], tier: 3, ids: { wikidata: Q17380679 }, summary: 叶简明创办；2018 年叶简明被调查后公司破产。何志平（Patrick Ho）2018 年在美国因代表华信行贿被定罪。 }
+  - { id: an-bang-bao-xian, type: org, name: 安邦保险, names: { zh: 安邦保险集团, en: Anbang Insurance Group }, orgType: company, country: CN, sectors: [finance], tier: 3, ids: { wikidata: Q18233866 }, summary: 吴小晖控制；2017 年曾与 Kushner Companies 洽谈纽约第五大道 666 号项目（后告吹）。2018 年被银保监会接管，吴小晖获刑 18 年。 }
+  - { id: boyu-capital, type: org, name: 博裕资本, names: { zh: 博裕资本, en: Boyu Capital }, orgType: fund, country: [CN, HK], sectors: [finance], tier: 3, founded: 2010, ids: { wikidata: Q120328128 }, summary: 江泽民之孙江志成（Alvin Jiang）参与创办的私募基金。 }
+  - { id: new-horizon-capital, type: org, name: 新天域资本, names: { zh: 新天域资本, en: New Horizon Capital }, orgType: fund, country: CN, sectors: [finance], tier: 4, founded: 2005, summary: 温家宝之子温云松参与创办的私募基金（纽时 2012 调查）。, sources: ['https://www.nytimes.com/2012/10/26/business/global/family-of-wen-jiabao-holds-a-hidden-fortune-in-china.html'] }
+  - { id: ping-an-bao-xian, type: org, name: 平安保险, names: { zh: 中国平安保险（集团）, en: Ping An Insurance }, orgType: company, country: CN, sectors: [finance], tier: 2, ids: { wikidata: Q1256188 } }
+  - { id: wan-da-ji-tuan, type: org, name: 万达集团, names: { zh: 大连万达集团, en: Wanda Group }, orgType: company, country: CN, sectors: [business], tier: 2, ids: { wikidata: Q5210937 } }
+  - { id: cicc, type: org, name: 中金公司, names: { zh: 中国国际金融股份有限公司, en: China International Capital Corporation }, orgType: bank, country: CN, sectors: [finance], tier: 2, ids: { wikidata: Q5099737 }, summary: 朱镕基之子朱云来曾长期任 CEO（1998 年加入，2014 年卸任）。 }
+  - { id: spic, type: org, name: 国家电力投资集团, names: { zh: 国家电力投资集团, en: State Power Investment Corporation }, aliases: [国家电投, 中电投], orgType: soe, country: CN, sectors: [business], tier: 3, ids: { wikidata: Q20062801 }, summary: 由中国电力投资集团（李小琳曾任副总经理）与国家核电合并而成。 }
+  - { id: nuctech, type: org, name: 同方威视, names: { zh: 同方威视技术股份有限公司, en: Nuctech }, orgType: soe, country: CN, sectors: [tech], tier: 4, ids: { wikidata: Q30272351 }, summary: 胡锦涛之子胡海峰曾任总裁/党委书记（2009 年纳米比亚采购案被提及）。 }
+  - { id: china-satcom, type: org, name: 中国卫通, names: { zh: 中国卫通集团, en: China Satcom }, orgType: soe, country: CN, sectors: [tech], tier: 4, ids: { wikidata: Q18243665 } }
+  - { id: huawei, type: org, name: 华为, names: { zh: 华为技术有限公司, en: Huawei }, orgType: company, country: CN, sectors: [tech], tier: 1, ids: { wikidata: Q160120 } }
+  - { id: alibaba-group, type: org, name: 阿里巴巴集团, names: { zh: 阿里巴巴集团, en: Alibaba Group }, orgType: company, country: CN, sectors: [tech], tier: 1, ids: { wikidata: Q1359568 } }
+  - { id: ant-group, type: org, name: 蚂蚁集团, names: { zh: 蚂蚁集团, en: Ant Group }, orgType: company, country: CN, sectors: [finance, tech], tier: 2, ids: { wikidata: Q21979415 } }
+  - { id: tencent, type: org, name: 腾讯, names: { zh: 腾讯控股, en: Tencent }, orgType: company, country: CN, sectors: [tech], tier: 1, ids: { wikidata: Q860580 } }
+  - { id: evergrande, type: org, name: 恒大集团, names: { zh: 中国恒大集团, en: Evergrande Group }, orgType: company, country: CN, sectors: [business], tier: 3, ids: { wikidata: Q5417145 }, summary: 许家印创办；2021 年债务危机，2023 年许家印被采取强制措施，2024 年香港法院颁令清盘。 }

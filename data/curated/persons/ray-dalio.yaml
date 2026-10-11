@@ -1,0 +1,18 @@
+id: ray-dalio
+type: person
+name: Ray Dalio
+names:
+  en: Ray Dalio
+  zh: 瑞·达利欧
+gender: M
+born: '1949-08-08'
+country:
+- US
+sectors:
+- finance
+tier: 2
+summary: 桥水基金创始人，与中国金融高层交往深厚。
+sources:
+- url: https://en.wikipedia.org/wiki/Ray_Dalio
+  publisher: Wikipedia
+updated: '2026-10-11'

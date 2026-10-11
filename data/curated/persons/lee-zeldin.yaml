@@ -1,0 +1,26 @@
+id: lee-zeldin
+type: person
+name: Lee Zeldin
+names:
+  en: Lee Zeldin
+  zh: 李·泽尔丁
+gender: M
+born: '1980-01-30'
+country:
+- US
+sectors:
+- politics
+tier: 3
+status: active
+summary: 环保署（EPA）署长（2025–）。前纽约众议员。
+positions:
+- title: 环保署署长
+  org: us-cabinet
+  from: '2025-01-29'
+  current: true
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

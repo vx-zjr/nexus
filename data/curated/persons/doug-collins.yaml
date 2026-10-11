@@ -1,0 +1,26 @@
+id: doug-collins
+type: person
+name: Doug Collins
+names:
+  en: Doug Collins
+  zh: 道格·柯林斯
+gender: M
+born: '1966-08-16'
+country:
+- US
+sectors:
+- politics
+tier: 2
+status: active
+summary: 退伍军人事务部长（2025–）。前佐治亚众议员、特朗普第一次弹劾案中的辩护者。
+positions:
+- title: 退伍军人事务部长
+  org: us-cabinet
+  from: '2025-02-05'
+  current: true
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

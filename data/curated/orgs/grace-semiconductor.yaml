@@ -1,0 +1,22 @@
+entities:
+- id: grace-semiconductor
+  type: org
+  name: 宏力半导体
+  names:
+    zh: 上海宏力半导体制造有限公司
+    en: Grace Semiconductor Manufacturing Corp.
+  orgType: company
+  country:
+  - CN
+  sectors:
+  - tech
+  tier: 4
+  founded: 2000
+  summary: 2000 年成立于上海张江，江绵恒与王文洋参与创办；2011 年与华虹 NEC 合并为华虹宏力。
+  sources:
+  - url: https://en.wikipedia.org/wiki/Jiang_Mianheng
+    publisher: Wikipedia
+  - url: https://www.nbcnews.com/news/amp/wbna4071824
+    title: President's brother Neil enmeshed in messy divorce
+    publisher: NBC News / AP
+    date: 2003-11

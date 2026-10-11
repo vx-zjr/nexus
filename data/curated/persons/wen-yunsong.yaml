@@ -1,0 +1,23 @@
+id: wen-yunsong
+type: person
+name: 温云松
+names:
+  zh: 温云松
+  en: Winston Wen
+aliases:
+- Winston Wen
+gender: M
+born: '1972'
+country:
+- CN
+sectors:
+- finance
+- business
+tier: 3
+summary: 温家宝之子。2005 年参与创办私募新天域资本（New Horizon Capital），2012 年起任中国卫通董事长。
+sources:
+- url: https://www.nytimes.com/2012/10/26/business/global/family-of-wen-jiabao-holds-a-hidden-fortune-in-china.html
+  title: Billions in Hidden Riches for Family of Chinese Leader (David Barboza)
+  publisher: The New York Times
+  date: '2012-10-26'
+updated: '2026-10-11'

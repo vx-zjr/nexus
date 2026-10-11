@@ -1,0 +1,89 @@
+# 派系档案：关系来源默认继承文件级 sources；清洗关系见 legal 类。
+id: xi-network
+kind: faction
+name: 习近平派系（之江新军/闽江旧部）
+names:
+  en: Xi Jinping's network
+country: CN
+head: xi-jinping
+summary: |-
+  习近平在福建（1985–2002）、浙江（2002–2007）、上海（2007）及中央党校（2007–2013）任职期间结识、提拔的干部构成二十大后最高层的主体。
+  “之江新军”指浙江时期旧部（李强、蔡奇、陈敏尔、黄坤明等）；“闽江旧部”指福建时期旧部（何立峰、蔡奇、黄坤明等）。
+  注意：派系归属是分析性判断，可信度为“报道”，以 Brookings 李成等研究为主要依据。
+confidence: reported
+sources:
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+core:
+- xi-jinping
+- li-qiang
+- cai-qi
+- huang-kunming
+- chen-miner
+- he-lifeng
+- ding-xuexiang
+- li-shulei
+- shi-taifeng
+outer:
+- zhao-leji
+- he-weidong
+- zhang-youxia
+- ma-xingrui
+relations:
+- - xi-jinping
+  - patron
+  - li-qiang
+  - 浙江省委秘书长（大管家）
+- - xi-jinping
+  - patron
+  - cai-qi
+  - 福建、浙江旧部
+- - xi-jinping
+  - patron
+  - huang-kunming
+  - 福建、浙江旧部
+- - xi-jinping
+  - patron
+  - chen-miner
+  - 浙江宣传部长，“之江新语”
+- - xi-jinping
+  - patron
+  - he-lifeng
+  - 厦门旧识（1980s）
+- - xi-jinping
+  - patron
+  - li-shulei
+  - 中央党校副校长
+- - xi-jinping
+  - patron
+  - shi-taifeng
+  - 中央党校常务副校长
+- - ding-xuexiang
+  - aide
+  - xi-jinping
+  - 上海市委秘书长（2007）
+- - xi-jinping
+  - patron
+  - he-weidong
+  - 东部战区旧部，后被清洗
+- - xi-jinping
+  - ally
+  - zhang-youxia
+  - 父辈西北野战军袍泽，后被清洗
+- - xi-jinping
+  - ally
+  - zhao-leji
+  - 陕西同乡
+- - ccp-cmc
+  - legal
+  - zhang-youxia
+  - 2026-01 立案审查，2026-09 开除党籍军籍
+- - ccp-ccdi
+  - legal
+  - ma-xingrui
+  - 2026-04 审查调查，2026-06 开除党籍
+tags:
+- faction
+- cn-top
+updated: '2026-10-11'

@@ -1,0 +1,18 @@
+id: mark-zuckerberg
+type: person
+name: Mark Zuckerberg
+names:
+  en: Mark Zuckerberg
+  zh: 马克·扎克伯格
+gender: M
+born: '1984-05-14'
+country:
+- US
+sectors:
+- tech
+tier: 1
+summary: Meta 创始人兼 CEO。妻子 Priscilla Chan（陈慧娴）为华裔（越南华人后裔），曾学习中文并多次访华。
+sources:
+- url: https://en.wikipedia.org/wiki/Mark_Zuckerberg
+  publisher: Wikipedia
+updated: '2026-10-11'

@@ -1,0 +1,666 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: ian-fok
+    type: person
+    name: 霍震寰
+    names:
+      zh: 霍震寰
+      en: Ian Fok
+    gender: M
+    born: 1949-05-12
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: 香港商人
+    ids:
+      wikidata: Q9372313
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9C%8D%E9%9C%87%E5%AF%B0
+      - https://en.wikipedia.org/wiki/Ian_Fok
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9372313
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: ian-maxwell
+    type: person
+    name: Ian Maxwell
+    names:
+      zh: 伊恩·麦克斯韦
+      en: Ian Maxwell
+    gender: M
+    born: "1956"
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: British businessman, brother of Jeffrey Epstein associate Ghislaine Maxwell
+    ids:
+      wikidata: Q5982230
+    links:
+      - https://en.wikipedia.org/wiki/Ian_Maxwell
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5982230
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ignatius-leong
+    type: person
+    name: 梁志荣
+    names:
+      zh: 梁志荣
+      en: Ignatius Leong
+    gender: M
+    born: 1956-01-17
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 新加坡国际象棋总会前主席
+    ids:
+      wikidata: Q5992765
+    links:
+      - https://en.wikipedia.org/wiki/Ignatius_Leong
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5992765
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: igor-olenicoff
+    type: person
+    name: Igor Olenicoff
+    names:
+      en: Igor Olenicoff
+    gender: M
+    born: "1942"
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 8000000000
+    ids:
+      wikidata: Q16106387
+    links:
+      - https://en.wikipedia.org/wiki/Igor_Olenicoff
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16106387
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ilhan-omar
+    type: person
+    name: Ilhan Omar
+    names:
+      zh: 伊尔汉·奥马尔
+      en: Ilhan Omar
+    gender: F
+    born: 1982-10-04
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+    tier: 4
+    summary: 美国政治人物
+    ids:
+      wikidata: Q26436159
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%B0%94%E6%B1%97%C2%B7%E5%A5%A5%E9%A9%AC%E5%B0%94
+      - https://en.wikipedia.org/wiki/Ilhan_Omar
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 58
+    sources:
+      - url: https://www.wikidata.org/wiki/Q26436159
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 明尼蘇達州眾議員
+        org: minnesota-house-of-representatives
+        from: 2017-01-02
+        to: 2019-01-03
+  - id: ilona-staller
+    type: person
+    name: Ilona Staller
+    names:
+      zh: 伊蘿娜·史特拉
+      en: Ilona Staller
+    gender: F
+    born: 1951-11-26
+    country:
+      - HU
+      - IT
+    sectors:
+      - politics
+      - culture
+    tier: 3
+    summary: Hungarian-born Italian pornographic actress, singer and politician
+    ids:
+      wikidata: Q49941
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%98%BF%E5%A8%9C%C2%B7%E5%8F%B2%E7%89%B9%E6%8B%89
+      - https://en.wikipedia.org/wiki/Ilona_Staller
+    tags:
+      - relative
+      - party:Radical Party
+    attrs:
+      party: Radical Party
+      sitelinks: 53
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49941
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 意大利众议员
+        from: 1987-06-27
+        to: 1992-04-22
+  - id: imogene-powers-johnson
+    type: person
+    name: Imogene Powers Johnson
+    names:
+      en: Imogene Powers Johnson
+    gender: F
+    born: 1930-09-03
+    died: 2018-03-03
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American billionaire (1930-2018)
+    ids:
+      wikidata: Q20639272
+    links:
+      - https://en.wikipedia.org/wiki/Imogene_Powers_Johnson
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20639272
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: indra-nooyi
+    type: person
+    name: Indra Nooyi
+    names:
+      zh: 卢英德
+      en: Indra Nooyi
+    gender: F
+    born: 1955-09-28
+    country:
+      - US
+      - IN
+    sectors:
+      - business
+    tier: 4
+    summary: 美国印度裔企业主管
+    ids:
+      wikidata: Q264913
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8D%A2%E8%8B%B1%E5%BE%B7
+      - https://en.wikipedia.org/wiki/Indra_Nooyi
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 50
+    sources:
+      - url: https://www.wikidata.org/wiki/Q264913
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席执行官
+        from: "2006"
+        to: "2018"
+      - title: 財務總監
+        from: "2001"
+        to: "2006"
+  - id: ira-magaziner
+    type: person
+    name: Ira Magaziner
+    names:
+      en: Ira Magaziner
+    gender: M
+    born: 1947-11-08
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American political advisor
+    ids:
+      wikidata: Q3915969
+    links:
+      - https://en.wikipedia.org/wiki/Ira_Magaziner
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3915969
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ira-rennert
+    type: person
+    name: Ira Rennert
+    names:
+      en: Ira Rennert
+    gender: M
+    born: 1934-05-31
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 4
+    summary: 美國商人
+    netWorth:
+      usd: 3800000000
+    ids:
+      wikidata: Q6066208
+    links:
+      - https://en.wikipedia.org/wiki/Ira_Rennert
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6066208
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: iris-weinshall
+    type: person
+    name: Iris Weinshall
+    names:
+      zh: 艾丽斯·温歇尔
+      en: Iris Weinshall
+    gender: F
+    born: 1953-09-05
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q6070286
+    links:
+      - https://en.wikipedia.org/wiki/Iris_Weinshall
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6070286
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: New York City Commissioner of Transportation
+        from: 2000-09-08
+        to: 2007-04-13
+  - id: irv-newhouse
+    type: person
+    name: Irv Newhouse
+    names:
+      en: Irv Newhouse
+    gender: M
+    born: 1920-10-20
+    died: 2001-03-29
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q19360599
+    links:
+      - https://en.wikipedia.org/wiki/Irv_Newhouse
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19360599
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 華盛頓州眾議員
+        org: washington-house-of-representatives
+  - id: irving-blum
+    type: person
+    name: Irving Blum
+    names:
+      en: Irving Blum
+    gender: M
+    born: "1930"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American art dealer
+    ids:
+      wikidata: Q57447004
+    links:
+      - https://en.wikipedia.org/wiki/Irving_Blum
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q57447004
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: irwin-m-jacobs
+    type: person
+    name: Irwin M. Jacobs
+    names:
+      zh: 厄文·馬克·雅各布
+      en: Irwin M. Jacobs
+    gender: M
+    born: 1933-10-18
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American electrical engineer and philanthropist
+    ids:
+      wikidata: Q6075105
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8E%84%E6%96%87%C2%B7%E9%A6%AC%E5%85%8B%C2%B7%E9%9B%85%E5%90%84%E5%B8%83
+      - https://en.wikipedia.org/wiki/Irwin_M._Jacobs
+    tags:
+      - relative
+    attrs:
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6075105
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: isaac-perlmutter
+    type: person
+    name: Isaac Perlmutter
+    names:
+      zh: 艾薩克·珀爾馬特
+      en: Isaac Perlmutter
+    gender: M
+    born: 1942-12-01
+    country:
+      - US
+      - IL
+    sectors:
+      - business
+      - finance
+    tier: 3
+    summary: Israeli-American businessman and chairman of Marvel Entertainment
+    netWorth:
+      usd: 5200000000
+    ids:
+      wikidata: Q12408276
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E7%8F%80%E5%B0%94%E9%A9%AC%E7%89%B9
+      - https://en.wikipedia.org/wiki/Isaac_Perlmutter
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12408276
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: 2016-11-16
+        to: 2023-03-29
+      - title: 总干事
+        from: "2005"
+        to: 2016-11-16
+  - id: isabel-guzman
+    type: person
+    name: Isabel Guzman
+    names:
+      zh: 伊莎贝尔·卡西利亚斯·古兹曼
+      en: Isabel Guzman
+    gender: F
+    born: "1970"
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American government administrator and business advocate
+    ids:
+      wikidata: Q104717188
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E5%B0%94%C2%B7%E5%8D%A1%E8%A5%BF%E5%88%A9%E4%BA%9A%E6%96%AF%C2%B7%E5%8F%A4%E5%85%B9%E6%9B%BC
+      - https://en.wikipedia.org/wiki/Isabel_Guzman
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104717188
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 小型企業管理署署長
+        org: small-business-administration
+        from: 2021-03-17
+        to: 2025-01-20
+  - id: isabel-maxwell
+    type: person
+    name: Isabel Maxwell
+    names:
+      zh: 伊莎贝·麦克斯韦
+      en: Isabel Maxwell
+    gender: F
+    born: 1950-08-16
+    country:
+      - FR
+    sectors:
+      - business
+      - media
+    tier: 5
+    summary: French academic, businessperson
+    ids:
+      wikidata: Q14948979
+    links:
+      - https://en.wikipedia.org/wiki/Isabel_Maxwell
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14948979
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: isaiah-zeldin
+    type: person
+    name: Isaiah Zeldin
+    names:
+      zh: 以賽亞·澤爾丁
+      en: Isaiah Zeldin
+    gender: M
+    born: "1921"
+    died: 2018-01-26
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American Reform rabbi
+    ids:
+      wikidata: Q47507410
+    links:
+      - https://en.wikipedia.org/wiki/Isaiah_Zeldin
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47507410
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: isra-hirsi
+    type: person
+    name: Isra Hirsi
+    names:
+      zh: 伊莎拉·希爾西
+      en: Isra Hirsi
+    gender: F
+    born: 2003-02-22
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: American environmental activist (born 2003)
+    ids:
+      wikidata: Q65693436
+    links:
+      - https://en.wikipedia.org/wiki/Isra_Hirsi
+    tags:
+      - relative
+    attrs:
+      sitelinks: 29
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65693436
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: israel-englander
+    type: person
+    name: Israel Englander
+    names:
+      zh: 伊斯雷爾‧辛格
+      en: Israel Englander
+    gender: M
+    born: 1948-09-30
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American hedge fund manager
+    netWorth:
+      usd: 18900000000
+    ids:
+      wikidata: Q16120832
+    links:
+      - https://en.wikipedia.org/wiki/Israel_Englander
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16120832
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ivana-trump
+    type: person
+    name: Ivana Trump
+    names:
+      zh: 伊凡娜·川普
+      en: Ivana Trump
+    gender: F
+    born: 1949-02-20
+    died: 2022-07-14
+    country:
+      - US
+      - AT
+      - CZ
+    sectors:
+      - culture
+      - business
+    tier: 3
+    summary: 唐纳德·特朗普的首任妻子
+    ids:
+      wikidata: Q242351
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%87%A1%E5%A8%9C%C2%B7%E5%B7%9D%E6%99%AE
+      - https://en.wikipedia.org/wiki/Ivana_Trump
+    tags:
+      - relative
+    attrs:
+      sitelinks: 67
+    sources:
+      - url: https://www.wikidata.org/wiki/Q242351
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ivanka-trump
+    type: person
+    name: Ivanka Trump
+    names:
+      zh: 伊万卡·特朗普
+      en: Ivanka Trump
+    gender: F
+    born: 1981-10-30
+    country:
+      - US
+    sectors:
+      - culture
+      - business
+      - politics
+    tier: 3
+    summary: 商人 和前任美國第一千金
+    ids:
+      wikidata: Q239411
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BC%8A%E4%B8%87%E5%8D%A1%C2%B7%E7%89%B9%E6%9C%97%E6%99%AE
+      - https://en.wikipedia.org/wiki/Ivanka_Trump
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 85
+    sources:
+      - url: https://www.wikidata.org/wiki/Q239411
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國總統資深顧問
+        org: white-house-office
+        from: 2017-03-29
+        to: 2021-01-20

@@ -1,0 +1,19 @@
+id: jensen-huang
+type: person
+name: Jensen Huang
+names:
+  en: Jensen Huang
+  zh: 黄仁勋
+gender: M
+born: '1963-02-17'
+country:
+- US
+- TW
+sectors:
+- tech
+tier: 1
+summary: 英伟达联合创始人兼 CEO，生于台湾台南。在对华芯片出口管制谈判中与特朗普政府直接交涉（H20/H200 对华销售与政府分成安排）。
+sources:
+- url: https://en.wikipedia.org/wiki/Jensen_Huang
+  publisher: Wikipedia
+updated: '2026-10-11'

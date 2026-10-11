@@ -1,0 +1,48 @@
+id: li-qiang
+type: person
+name: 李强
+names:
+  zh: 李强
+  en: Li Qiang
+gender: M
+born: 1959-07
+country:
+- CN
+sectors:
+- politics
+tier: 1
+status: active
+summary: 国务院总理（2023–），政治局常委第 2 位。2004–2007 年任浙江省委秘书长，为时任省委书记习近平的“大管家”，“之江新军”核心。
+positions:
+- title: 国务院总理
+  org: state-council-prc
+  from: 2023-03
+  current: true
+- title: 政治局常委
+  org: ccp-politburo-standing-committee
+  from: 2022-10
+  current: true
+- title: 上海市委书记
+  from: 2017-10
+  to: 2022-10
+- title: 江苏省委书记
+  from: 2016-06
+  to: 2017-10
+- title: 浙江省长
+  from: 2013-01
+  to: 2016-06
+- title: 浙江省委秘书长
+  from: 2004-11
+  to: 2007-08
+tags:
+- zhijiang-xinjun
+- pbsc-20
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+updated: '2026-10-11'

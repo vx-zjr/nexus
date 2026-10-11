@@ -1,0 +1,43 @@
+id: ding-xuexiang
+type: person
+name: 丁薛祥
+names:
+  zh: 丁薛祥
+  en: Ding Xuexiang
+gender: M
+born: 1962-09
+country:
+- CN
+sectors:
+- politics
+tier: 1
+status: active
+summary: 国务院第一副总理（2023–），政治局常委第 6 位。2007 年任上海市委秘书长期间为习近平“大秘”，后任中办主任（2017–2022）。
+positions:
+- title: 国务院副总理（第一）
+  org: state-council-prc
+  from: 2023-03
+  current: true
+- title: 政治局常委
+  org: ccp-politburo-standing-committee
+  from: 2022-10
+  current: true
+- title: 中共中央办公厅主任
+  org: ccp-general-office
+  from: 2017-10
+  to: 2022-10
+- title: 上海市委秘书长
+  from: 2007-03
+  to: '2012'
+tags:
+- xi-secretary
+- pbsc-20
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+updated: '2026-10-11'

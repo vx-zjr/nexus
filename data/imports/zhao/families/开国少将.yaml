@@ -1,0 +1,212 @@
+# 自动生成：ingest zhao（2026-10-10，源 https://github.com/programthink/zhao @ e8eea46 2018-05-02 18:35:59 +0800）
+# 许可：GPL-3.0（原作者：编程随想）。请勿手工修改本目录——修订请写到 data/curated/ 覆盖。
+dossiers:
+  - id: family-wu-xi
+    kind: family
+    name: 吴西家族
+    country:
+      - CN
+    head: wu-xi
+    core:
+      - wu-xi
+      - wu-liming
+    outer:
+      - luo-ning
+    tags:
+      - zhao
+      - 开国少将
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E5%90%B4%E8%A5%BF.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: wu-xi
+        to: wu-liming
+        type: parent
+        label: 子
+      - from: wu-liming
+        to: luo-ning
+        type: spouse
+        label: 妻
+  - id: family-sun-keji
+    kind: family
+    name: 孙克骥家族
+    country:
+      - CN
+    head: sun-keji
+    core:
+      - sun-keji
+      - sun-sui
+    outer:
+      - zhang-haiyang
+    tags:
+      - zhao
+      - 开国少将
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E5%AD%99%E5%85%8B%E9%AA%A5.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: sun-keji
+        to: sun-sui
+        type: parent
+        label: 女
+  - id: family-zhang-zhenhuan
+    kind: family
+    name: 张震寰家族
+    country:
+      - CN
+    head: zhang-zhenhuan
+    core:
+      - zhang-zhenhuan
+      - zhang-zhikai
+    outer:
+      - yu-zhengsheng
+    tags:
+      - zhao
+      - 开国少将
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E5%BC%A0%E9%9C%87%E5%AF%B0.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: zhang-zhenhuan
+        to: zhang-zhikai
+        type: parent
+        label: 女
+  - id: family-li-fuke
+    kind: family
+    name: 李夫克家族
+    country:
+      - CN
+    head: li-fuke
+    core:
+      - li-fuke
+      - li-manjun
+    outer:
+      - su-rongsheng
+    tags:
+      - zhao
+      - 开国少将
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E6%9D%8E%E5%A4%AB%E5%85%8B.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: li-fuke
+        to: li-manjun
+        type: parent
+        label: 女
+  - id: family-wang-zhitao
+    kind: family
+    name: 王智涛家族
+    country:
+      - CN
+    head: wang-zhitao
+    core:
+      - wang-zhitao
+      - wang-yaming
+    outer:
+      - ji-qiaoling
+    tags:
+      - zhao
+      - 开国少将
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E7%8E%8B%E6%99%BA%E6%B6%9B.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: wang-zhitao
+        to: wang-yaming
+        type: parent
+        label: 子
+  - id: family-gu-jingsheng
+    kind: family
+    name: 谷景生家族
+    country:
+      - CN
+    head: gu-jingsheng
+    core:
+      - gu-jingsheng
+      - gu-wangjiang
+      - gu-zhengxie
+      - gu-dan
+      - gu-wangning
+      - gu-kailai
+    outer:
+      - li-xiaoxue
+      - bo-xilai
+      - bo-guagua
+    tags:
+      - zhao
+      - 开国少将
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E8%B0%B7%E6%99%AF%E7%94%9F.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: gu-jingsheng
+        to: gu-wangjiang
+        type: parent
+        label: 长女
+      - from: gu-jingsheng
+        to: gu-zhengxie
+        type: parent
+        label: 次女
+      - from: gu-jingsheng
+        to: gu-dan
+        type: parent
+        label: 三女
+      - from: gu-jingsheng
+        to: gu-wangning
+        type: parent
+        label: 四女
+      - from: gu-jingsheng
+        to: gu-kailai
+        type: parent
+        label: 五女
+  - id: family-he-biao
+    kind: family
+    name: 贺彪家族
+    country:
+      - CN
+    head: he-biao
+    core:
+      - he-biao
+      - he-dou
+      - he-zheng
+      - he-ping
+    outer:
+      - deng-rong
+      - bao-li-ji-tuan
+    tags:
+      - zhao
+      - 开国少将
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E8%B4%BA%E5%BD%AA.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: he-biao
+        to: he-dou
+        type: parent
+        label: 长子
+      - from: he-biao
+        to: he-zheng
+        type: parent
+        label: 次子
+      - from: he-biao
+        to: he-ping
+        type: parent
+        label: 三子
+      - from: he-ping
+        to: bao-li-ji-tuan
+        type: position
+        label: 集团董事长、总经理

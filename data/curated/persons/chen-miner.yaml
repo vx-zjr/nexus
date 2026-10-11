@@ -1,0 +1,40 @@
+id: chen-miner
+type: person
+name: 陈敏尔
+names:
+  zh: 陈敏尔
+  en: Chen Min'er
+gender: M
+born: 1960-09
+country:
+- CN
+sectors:
+- politics
+tier: 2
+status: active
+summary: 天津市委书记（2022–）。习近平主政浙江时任省委宣传部长，为习“之江新语”专栏的重要推手，“之江新军”核心之一；前重庆市委书记、贵州省委书记。
+positions:
+- title: 天津市委书记
+  from: 2022-12
+  current: true
+- title: 政治局委员
+  org: ccp-politburo
+  from: 2017-10
+  current: true
+- title: 重庆市委书记
+  from: 2017-07
+  to: 2022-12
+- title: 浙江省委宣传部长
+  from: '2002'
+  to: '2007'
+tags:
+- zhijiang-xinjun
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+updated: '2026-10-11'

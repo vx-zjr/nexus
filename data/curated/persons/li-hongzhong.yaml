@@ -1,0 +1,36 @@
+id: li-hongzhong
+type: person
+name: 李鸿忠
+names:
+  zh: 李鸿忠
+  en: Li Hongzhong
+gender: M
+born: 1956-08
+country:
+- CN
+sectors:
+- politics
+tier: 2
+status: active
+summary: 全国人大常委会副委员长（2023–）。前天津市委书记（2016–2022）；最早公开喊出“习核心”的地方大员之一。
+positions:
+- title: 全国人大常委会副委员长
+  org: npc-standing-committee
+  from: 2023-03
+  current: true
+- title: 政治局委员
+  org: ccp-politburo
+  from: 2017-10
+  current: true
+- title: 天津市委书记
+  from: 2016-09
+  to: 2022-12
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+updated: '2026-10-11'

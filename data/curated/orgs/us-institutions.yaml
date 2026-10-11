@@ -1,0 +1,110 @@
+# 美国核心权力机构
+sources:
+  - https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+entities:
+  - id: us-white-house
+    type: org
+    name: White House
+    names: { zh: 白宫, en: White House / Executive Office of the President }
+    orgType: government
+    country: US
+    sectors: [politics]
+    tier: 1
+    ids: { wikidata: Q35525 }
+    links: [https://www.whitehouse.gov/]
+
+  - id: us-cabinet
+    type: org
+    name: United States Cabinet
+    names: { zh: 美国内阁, en: Cabinet of the United States }
+    orgType: committee
+    country: US
+    sectors: [politics]
+    tier: 1
+    summary: 特朗普第二任期内阁（2025–）。2026 年内 Noem（国土安全）、Bondi（司法）、Chavez-DeRemer（劳工）、Gabbard（国家情报总监）先后离任。
+    ids: { wikidata: Q639738 }
+    links:
+      - https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+      - "https://ballotpedia.org/Donald_Trump's_Cabinet,_2025-2026"
+
+  - id: us-senate
+    type: org
+    name: United States Senate
+    names: { zh: 美国参议院, en: United States Senate }
+    orgType: legislature
+    country: US
+    sectors: [politics]
+    tier: 1
+    ids: { wikidata: Q66096 }
+    links: [https://www.senate.gov/]
+
+  - id: us-house
+    type: org
+    name: United States House of Representatives
+    names: { zh: 美国众议院, en: United States House of Representatives }
+    orgType: legislature
+    country: US
+    sectors: [politics]
+    tier: 1
+    ids: { wikidata: Q11701 }
+    links: [https://www.house.gov/]
+
+  - id: us-supreme-court
+    type: org
+    name: Supreme Court of the United States
+    names: { zh: 美国最高法院, en: Supreme Court of the United States }
+    orgType: court
+    country: US
+    sectors: [judiciary]
+    tier: 1
+    ids: { wikidata: Q11201 }
+    links: [https://www.supremecourt.gov/]
+
+  - id: federal-reserve
+    type: org
+    name: Federal Reserve
+    names: { zh: 美联储, en: Federal Reserve System }
+    orgType: bank
+    country: US
+    sectors: [finance]
+    tier: 1
+    summary: Kevin Warsh 于 2026-05-13 获参议院以 54–45 确认，接替 Jerome Powell 任主席。
+    ids: { wikidata: Q53536 }
+    sources:
+      - url: https://infobytes.orrick.com/2026-05-15/u-s-senate-confirms-kevin-warsh-to-serve-as-fed-chair/
+        title: U.S. Senate Confirms Kevin Warsh to Serve as Fed Chair
+        date: 2026-05-15
+    links: [https://www.federalreserve.gov/]
+
+  - id: republican-party
+    type: org
+    name: Republican Party
+    names: { zh: 美国共和党, en: Republican Party (United States) }
+    aliases: [GOP]
+    orgType: party
+    country: US
+    sectors: [politics]
+    tier: 2
+    ids: { wikidata: Q29468 }
+
+  - id: democratic-party
+    type: org
+    name: Democratic Party
+    names: { zh: 美国民主党, en: Democratic Party (United States) }
+    orgType: party
+    country: US
+    sectors: [politics]
+    tier: 2
+    ids: { wikidata: Q29552 }
+
+  - id: us-doj
+    type: org
+    name: United States Department of Justice
+    names: { zh: 美国司法部 }
+    aliases: [DOJ]
+    orgType: government
+    country: US
+    sectors: [judiciary, security]
+    tier: 2
+    parent: us-cabinet
+    ids: { wikidata: Q1553390 }

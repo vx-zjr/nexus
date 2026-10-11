@@ -1,0 +1,20 @@
+id: jiang-jiemin
+type: person
+name: 蒋洁敏
+names:
+  zh: 蒋洁敏
+  en: Jiang Jiemin
+gender: M
+born: 1955-10
+country:
+- CN
+sectors:
+- business
+- politics
+tier: 3
+status: detained
+summary: 前中石油董事长、国资委主任，周永康“石油帮”核心。2015 年以受贿等罪被判 16 年。
+sources:
+- url: https://en.wikipedia.org/wiki/Jiang_Jiemin
+  publisher: Wikipedia
+updated: '2026-10-11'

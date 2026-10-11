@@ -1,0 +1,43 @@
+id: li-shulei
+type: person
+name: 李书磊
+names:
+  zh: 李书磊
+  en: Li Shulei
+gender: M
+born: 1964-01
+country:
+- CN
+sectors:
+- politics
+tier: 2
+status: active
+summary: 中宣部部长（2022–）、中央书记处书记。14 岁入北大的“神童”；习近平任中央党校校长时的副校长，后在福建任职，被视为习的文胆。
+positions:
+- title: 中宣部部长
+  org: ccp-publicity-department
+  from: 2022-10
+  current: true
+- title: 中央书记处书记
+  org: ccp-secretariat
+  from: 2022-10
+  current: true
+- title: 政治局委员
+  org: ccp-politburo
+  from: 2022-10
+  current: true
+- title: 中纪委副书记
+  org: ccp-ccdi
+  from: 2017-10
+  to: 2022-10
+tags:
+- fujian-clique
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+updated: '2026-10-11'

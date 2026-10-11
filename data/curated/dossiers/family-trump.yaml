@@ -1,0 +1,221 @@
+id: family-trump
+kind: family
+name: 特朗普家族
+names:
+  en: Trump family
+country: US
+head: donald-trump
+summary: |-
+  第一代：Fred Trump（纽约地产）。第二代：Donald Trump。第三代：Don Jr.、Ivanka、Eric、Tiffany、Barron。
+  姻亲网络：库什纳家族（Jared、Charles 驻法大使、Josh/Thrive Capital）、布洛斯家族（Massad 任非洲事务高级顾问）、Lara Trump（RNC 前联合主席）。
+  家族生意：Trump Organization、Trump Media（DJT）、World Liberty Financial（加密货币，家族持股约 60%）、Affinity Partners（库什纳）。
+core:
+- fred-trump
+- mary-anne-macleod-trump
+- donald-trump
+- ivana-trump
+- marla-maples
+- melania-trump
+- donald-trump-jr
+- ivanka-trump
+- eric-trump
+- tiffany-trump
+- barron-trump
+outer:
+- jared-kushner
+- charles-kushner
+- josh-kushner
+- lara-trump
+- michael-boulos
+- massad-boulos
+- kimberly-guilfoyle
+- trump-organization
+- trump-media
+- world-liberty-financial
+- affinity-partners
+sources:
+- url: https://en.wikipedia.org/wiki/Family_of_Donald_Trump
+  publisher: Wikipedia
+confidence: confirmed
+relations:
+- - fred-trump
+  - spouse
+  - mary-anne-macleod-trump
+- - fred-trump
+  - parent
+  - donald-trump
+  - 子
+- - mary-anne-macleod-trump
+  - parent
+  - donald-trump
+  - 子
+- from: donald-trump
+  to: ivana-trump
+  type: ex-spouse
+  since: '1977'
+  until: '1992'
+- from: donald-trump
+  to: marla-maples
+  type: ex-spouse
+  since: '1993'
+  until: '1999'
+- from: donald-trump
+  to: melania-trump
+  type: spouse
+  since: '2005'
+- - donald-trump
+  - parent
+  - donald-trump-jr
+  - 长子
+- - ivana-trump
+  - parent
+  - donald-trump-jr
+  - 长子
+- - donald-trump
+  - parent
+  - ivanka-trump
+  - 长女
+- - ivana-trump
+  - parent
+  - ivanka-trump
+  - 长女
+- - donald-trump
+  - parent
+  - eric-trump
+  - 次子
+- - ivana-trump
+  - parent
+  - eric-trump
+  - 次子
+- - donald-trump
+  - parent
+  - tiffany-trump
+  - 次女
+- - marla-maples
+  - parent
+  - tiffany-trump
+  - 女
+- - donald-trump
+  - parent
+  - barron-trump
+  - 幼子
+- - melania-trump
+  - parent
+  - barron-trump
+  - 子
+- from: ivanka-trump
+  to: jared-kushner
+  type: spouse
+  since: '2009'
+- from: eric-trump
+  to: lara-trump
+  type: spouse
+  since: '2014'
+- from: tiffany-trump
+  to: michael-boulos
+  type: spouse
+  since: '2022'
+- from: donald-trump-jr
+  to: kimberly-guilfoyle
+  type: partner
+  label: 前未婚妻
+  since: '2020'
+  until: '2024'
+- - charles-kushner
+  - parent
+  - jared-kushner
+  - 子
+- - charles-kushner
+  - parent
+  - josh-kushner
+  - 子
+- - massad-boulos
+  - parent
+  - michael-boulos
+  - 子
+- - donald-trump
+  - appointed
+  - charles-kushner
+  - 驻法国大使（2025）
+- - donald-trump
+  - appointed
+  - massad-boulos
+  - 非洲事务高级顾问（2025）
+- - donald-trump
+  - appointed
+  - kimberly-guilfoyle
+  - 驻希腊大使（2025）
+- - donald-trump
+  - owner
+  - trump-organization
+  - 控股
+- - donald-trump-jr
+  - position
+  - trump-organization
+  - 执行副总裁
+- - eric-trump
+  - position
+  - trump-organization
+  - 执行副总裁
+- - donald-trump
+  - owner
+  - trump-media
+  - 最大股东
+- - donald-trump-jr
+  - board
+  - trump-media
+- - devin-nunes
+  - position
+  - trump-media
+  - CEO
+- from: donald-trump
+  to: world-liberty-financial
+  type: owner
+  label: 家族持股约 60%；“首席加密倡导者”
+  sources: &id001
+  - url: https://nclawyersweekly.com/2026/04/23/blockchain-billionaire-sun-takes-trump-familys-crypto-firm-to-court/
+    title: Blockchain billionaire Sun takes Trump family's crypto firm to court
+    date: '2026-04-23'
+  - url: https://en.wikipedia.org/wiki/World_Liberty_Financial
+    publisher: Wikipedia
+- from: eric-trump
+  to: world-liberty-financial
+  type: founder
+  sources: *id001
+- from: donald-trump-jr
+  to: world-liberty-financial
+  type: founder
+  sources: *id001
+- from: barron-trump
+  to: world-liberty-financial
+  type: position
+  label: DeFi visionary
+  sources: *id001
+- from: zach-witkoff
+  to: world-liberty-financial
+  type: founder
+  label: 联合创始人兼 CEO
+  sources: *id001
+- from: steve-witkoff
+  to: world-liberty-financial
+  type: founder
+  label: 荣誉联合创始人
+  sources: *id001
+- - steve-witkoff
+  - parent
+  - zach-witkoff
+  - 子
+- - steve-witkoff
+  - friend
+  - donald-trump
+  - 数十年地产圈好友
+- - jared-kushner
+  - founder
+  - affinity-partners
+- - josh-kushner
+  - founder
+  - thrive-capital
+tags:
+- family
+- us-top
+updated: '2026-10-11'

@@ -1,0 +1,23 @@
+id: michael-bloomberg
+type: person
+name: Michael Bloomberg
+names:
+  en: Michael Bloomberg
+  zh: 迈克尔·布隆伯格
+gender: M
+born: '1942-02-14'
+country:
+- US
+sectors:
+- media
+- finance
+- politics
+tier: 2
+summary: 彭博社创始人、前纽约市长，2024 周期民主党方最大金主之一（约 6400 万美元）。
+sources:
+- url: https://en.wikipedia.org/wiki/Michael_Bloomberg
+  publisher: Wikipedia
+- url: https://www.allsides.com/blog/elon-musk-tops-list-2024-political-donors-five-others-gave-more-100-million
+  title: Elon Musk tops list of 2024 political donors; five others gave more than $100 million (OpenSecrets data)
+  publisher: AllSides / OpenSecrets
+updated: '2026-10-11'

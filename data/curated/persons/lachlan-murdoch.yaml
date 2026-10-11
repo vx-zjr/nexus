@@ -1,0 +1,19 @@
+id: lachlan-murdoch
+type: person
+name: Lachlan Murdoch
+names:
+  en: Lachlan Murdoch
+  zh: 拉克兰·默多克
+gender: M
+born: '1971-09-08'
+country:
+- US
+- AU
+sectors:
+- media
+tier: 2
+summary: 福克斯公司执行董事长兼 CEO、新闻集团董事长；2025 年家族信托和解后获得控制权。
+sources:
+- url: https://en.wikipedia.org/wiki/Lachlan_Murdoch
+  publisher: Wikipedia
+updated: '2026-10-11'

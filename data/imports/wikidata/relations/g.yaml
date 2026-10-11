@@ -1,0 +1,2911 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+relations:
+  - from: gu-lizhen
+    to: tung-chee-hwa
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15027
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guo-boxiong
+    to: guo-zhenggang
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1337947
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guo-boxiong
+    to: guo-boquan
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1337947
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-shultz
+    to: charlotte-mailliard-shultz
+    type: spouse
+    since: "1997"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313411
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: george-w-bush
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: jenna-bush-hager
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: barbara-bush-1981
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: jeb-bush
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: neil-bush
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: marvin-p-bush
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: dorothy-bush-koch
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: robin-bush
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: laura-bush
+    type: spouse
+    since: 1977-11-05
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: george-w-bush
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: jeb-bush
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: neil-bush
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: marvin-p-bush
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: dorothy-bush-koch
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: robin-bush
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: jonathan-bush
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: nancy-walker-bush
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: william-h-t-bush
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: prescott-s-bush-jr
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: barbara-bush
+    type: spouse
+    since: 1945-01-06
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: jonathan-s-bush
+    type: relative
+    label: 外甥或侄子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: alexander-ellis-iii
+    type: relative
+    label: 外甥或侄子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: joe-ellis
+    type: relative
+    label: 外甥或侄子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: john-prescott-ellis
+    type: relative
+    label: 外甥或侄子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: billy-bush
+    type: relative
+    label: 外甥或侄子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-locke
+    to: mona-lee-locke
+    type: spouse
+    since: "1994"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q350378
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-romney
+    to: mitt-romney
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4496
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-m-whitesides
+    to: george-t-whitesides
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3511804
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-t-whitesides
+    to: loretta-hidalgo-whitesides
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3511804
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-e-jacobs
+    to: sara-jacobs
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50825637
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gene-mullin
+    to: kevin-mullin
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6397046
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gil-kahele
+    to: kaiali-i-kahele
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28861508
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-pence
+    to: john-pence
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q52151577
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gavin-newsom
+    to: hilary-newsom
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461391
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gavin-newsom
+    to: kimberly-guilfoyle
+    type: ex-spouse
+    since: 2001-12-01
+    until: 2006-02-28
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461391
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gavin-newsom
+    to: jennifer-siebel-newsom
+    type: spouse
+    since: "2008"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461391
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-gianforte
+    to: susan-gianforte
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5605607
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gu-jingsheng
+    to: gu-kailai
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2499132
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gu-kailai
+    to: bo-guagua
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2499132
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gui-minhai
+    to: angela-gui
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22099950
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gayle-cook
+    to: carl-cook
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18719347
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-moore
+    to: betty-i-moore
+    type: spouse
+    since: 1950-09-09
+    sources:
+      - url: https://www.wikidata.org/wiki/Q243969
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: amanda-lucas
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: katie-lucas
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: mellody-hobson
+    type: spouse
+    since: 2013-06-22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: marcia-lucas
+    type: spouse
+    since: 1969-02-22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: amanda-lucas
+    type: relative
+    label: 養女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: katie-lucas
+    type: relative
+    label: 養女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: alexander-soros
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: jonathan-soros
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: robert-soros
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: paul-soros
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: susan-weber-soros
+    type: spouse
+    since: "1983"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: annaliese-witschak
+    type: spouse
+    since: "1960"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: daisy-soros
+    type: relative
+    label: 嫂
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-getty
+    to: cynthia-beck
+    type: partner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3110901
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-getty
+    to: john-paul-getty-jr
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3110901
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-getty
+    to: andrew-getty
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3110901
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-getty
+    to: john-gilbert-getty
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3110901
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-getty
+    to: kendalle-getty
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3110901
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-getty
+    to: ann-getty
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3110901
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-kildall
+    to: scott-kildall
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92627
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-kildall
+    to: dorothy-mcewen-kildall
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92627
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guillermo-pacanins-acevedo
+    to: carolina-herrera
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q264589
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: jeb-bush
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q221997
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-johnson
+    to: dee-johnson
+    type: spouse
+    since: "1977"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q352123
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gladys-churchill-willis
+    to: pat-robertson
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q364990
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: geraldine-moffat
+    to: sam-houser
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q984061
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ghislaine-maxwell
+    to: ian-maxwell
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5556756
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ghislaine-maxwell
+    to: kevin-maxwell
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5556756
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ghislaine-maxwell
+    to: isabel-maxwell
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5556756
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ghislaine-maxwell
+    to: christine-maxwell
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5556756
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-gygax
+    to: luke-gygax
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1379
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guo-shengkun
+    to: jiangxi-university-of-science-and-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4276774
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guo-jinlong
+    to: nanjing-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1368232
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gao-jianguo
+    to: pla-national-defence-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8314607
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guo-guirong
+    to: xidian-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317386
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gao-jindian
+    to: pla-national-defence-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317603
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guo-yuxiang
+    to: plaaf-xi-an-flying-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8320603
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-shultz
+    to: xyleco
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313411
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-shultz
+    to: committee-on-the-present-danger-third-iteration
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313411
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-shultz
+    to: office-of-management-and-budget
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313411
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-shultz
+    to: united-states-department-of-labor
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313411
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-shultz
+    to: stanford-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313411
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-shultz
+    to: united-states-department-of-the-treasury
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313411
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-shultz
+    to: mit-sloan-school-of-management
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313411
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-shultz
+    to: university-of-chicago
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313411
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-shultz
+    to: united-states-department-of-state
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313411
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-shultz
+    to: massachusetts-institute-of-technology
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313411
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-shultz
+    to: princeton-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313411
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-shultz
+    to: massachusetts-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313411
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-shultz
+    to: princeton-school-of-public-and-international-affairs
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313411
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: spectrum-7
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: george-w-bush-administration-cabinet
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: united-states-department-of-homeland-security
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: papahanaumokuakea-marine-national-monument
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: arbusto-energy
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: india
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: miss-beazley
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: barney
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: prairie-chapel-ranch
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: spot-fetcher
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: harvard-business-school
+    type: alumni
+    label: Master of Business Administration
+    since: "1973"
+    until: "1975"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: yale-college
+    type: alumni
+    label: Bachelor of Arts
+    since: "1964"
+    until: "1968"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: davenport-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: the-kinkaid-school
+    type: alumni
+    since: "1959"
+    until: "1961"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-w-bush
+    to: phillips-academy
+    type: alumni
+    since: "1961"
+    until: "1964"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: george-h-w-bush-administration-cabinet
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: hrg-group
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: points-of-light-institute
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: zapata-petroleum-corporation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: bush-compound
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: millie
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: ranger
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: central-intelligence-agency
+    type: position
+    label: 任职
+    since: 1976-01-30
+    until: 1977-01-20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: yale-university
+    type: alumni
+    label: Bachelor of Arts
+    since: "1945"
+    until: "1948"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: davenport-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: phillips-academy
+    type: alumni
+    since: "1936"
+    until: "1942"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-h-w-bush
+    to: greenwich-country-day-school
+    type: alumni
+    until: "1936"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-r-england
+    to: united-states-department-of-homeland-security
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q323508
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-r-england
+    to: texas-christian-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q323508
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-r-england
+    to: university-of-maryland
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q323508
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: grace-bochenek
+    to: university-of-central-florida
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28469524
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: grace-bochenek
+    to: wayne-state-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28469524
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gregory-r-dahlberg
+    to: american-university
+    type: alumni
+    label: Master in Public Administration
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1545383
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-h-mansfield
+    to: american-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3110903
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-h-mansfield
+    to: villanova-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3110903
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-h-mansfield
+    to: university-of-miami
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3110903
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-locke
+    to: boston-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q350378
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-locke
+    to: boston-university-school-of-law
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q350378
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-locke
+    to: jonathan-edwards-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q350378
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-locke
+    to: yale-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q350378
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gina-raimondo
+    to: united-states-district-court-for-the-southern-district-of-new-york
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5562913
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gina-raimondo
+    to: new-college
+    type: alumni
+    label: Doctor of Philosophy
+    until: "2002"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5562913
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gina-raimondo
+    to: yale-law-school
+    type: alumni
+    label: Juris Doctor
+    until: "1998"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5562913
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gina-raimondo
+    to: harvard-college
+    type: alumni
+    label: Bachelor of Arts
+    until: "1993"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5562913
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gina-raimondo
+    to: la-salle-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5562913
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gale-norton
+    to: university-of-denver
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q271717
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gale-norton
+    to: sturm-college-of-law
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q271717
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gina-mccarthy
+    to: tufts-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5562899
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gina-mccarthy
+    to: university-of-massachusetts-boston
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5562899
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gina-mccarthy
+    to: tufts-university-school-of-engineering
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5562899
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-mankiw
+    to: urban-institute
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q185734
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-mankiw
+    to: harvard-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q185734
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-mankiw
+    to: harvard-law-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q185734
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-mankiw
+    to: princeton-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q185734
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-mankiw
+    to: massachusetts-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q185734
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-mankiw
+    to: pingry-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q185734
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: glenn-hubbard
+    to: totalenergies
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q940771
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: glenn-hubbard
+    to: metlife
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q940771
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: glenn-hubbard
+    to: columbia-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q940771
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: glenn-hubbard
+    to: university-of-central-florida
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q940771
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: glenn-hubbard
+    to: harvard-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q940771
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-helmy
+    to: port-authority-of-new-york-and-new-jersey
+    type: position
+    label: 任职
+    since: "2023"
+    until: "2024"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q129127964
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-helmy
+    to: united-parcel-service
+    type: position
+    label: 任职
+    since: "2001"
+    until: "2013"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q129127964
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-helmy
+    to: rutgers-university
+    type: alumni
+    label: Bachelor of Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q129127964
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-helmy
+    to: harvard-extension-school
+    type: alumni
+    label: Master of Arts in Liberal Studies
+    until: "2011"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q129127964
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-peters
+    to: united-states-senate-committee-on-homeland-security-and-governmental-affairs
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494930
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-peters
+    to: wayne-state-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494930
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-peters
+    to: wayne-state-university
+    type: alumni
+    label: Juris Doctor
+    until: "1989"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494930
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-peters
+    to: university-of-detroit-mercy
+    type: alumni
+    label: Master of Business Administration
+    until: "1984"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494930
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-peters
+    to: michigan-state-university
+    type: alumni
+    label: Master of Arts
+    until: "2007"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494930
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-peters
+    to: wayne-state-university-law-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494930
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gabe-vasquez
+    to: new-mexico-state-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "2008"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115155647
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-landsman
+    to: ohio-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1999"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115180677
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gabe-evans
+    to: patrick-henry-college
+    type: alumni
+    label: Bachelor of Arts
+    until: "2009"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115458993
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-lopez
+    to: small-business-administration
+    type: position
+    label: 任职
+    since: "2008"
+    until: "2014"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q126910689
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-lopez
+    to: new-mexico-state-university
+    type: alumni
+    until: "1986"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q126910689
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gerry-connolly
+    to: john-f-kennedy-school-of-government
+    type: alumni
+    label: Master in Public Administration
+    until: "1979"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1514859
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-casar
+    to: university-of-virginia
+    type: alumni
+    label: Bachelor of Arts
+    until: "2011"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104148369
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: garret-graves
+    to: catholic-high-school
+    type: alumni
+    until: "1990"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18686454
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: garret-graves
+    to: american-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18686454
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: garret-graves
+    to: university-of-alabama
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18686454
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: glenn-thompson
+    to: pennsylvania-state-university
+    type: alumni
+    label: Bachelor of Science
+    until: "1981"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1531120
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gus-bilirakis
+    to: stetson-university-college-of-law
+    type: alumni
+    label: Juris Doctor
+    until: "1989"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1555314
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gus-bilirakis
+    to: university-of-florida
+    type: alumni
+    label: Bachelor of Arts
+    until: "1986"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1555314
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-palmer
+    to: university-of-alabama
+    type: alumni
+    label: Bachelor of Science
+    until: "1977"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17386504
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-palmer
+    to: secondary-school
+    type: alumni
+    until: "1972"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17386504
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: glenn-ivey
+    to: harvard-law-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22004572
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: glenn-ivey
+    to: princeton-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22004572
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guy-reschenthaler
+    to: pennsylvania-state-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22096097
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-t-whitesides
+    to: yuri-s-night
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3511804
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-t-whitesides
+    to: astronomers-without-borders
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3511804
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-t-whitesides
+    to: national-aeronautics-and-space-administration
+    type: position
+    label: 任职
+    since: 2009-01-20
+    until: 2010-05-07
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3511804
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-t-whitesides
+    to: virgin-galactic
+    type: position
+    label: 任职
+    since: "2010"
+    until: "2021"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3511804
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-t-whitesides
+    to: king-s-college
+    type: alumni
+    label: Master of Philosophy
+    until: "2000"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3511804
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-t-whitesides
+    to: princeton-school-of-public-and-international-affairs
+    type: alumni
+    label: Bachelor of Arts
+    until: "1996"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3511804
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-t-whitesides
+    to: newton-north-high-school
+    type: alumni
+    until: "1992"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3511804
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gregory-meeks
+    to: howard-university
+    type: alumni
+    label: Juris Doctor
+    until: "1978"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1545391
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gregory-meeks
+    to: adelphi-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1975"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1545391
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gregory-meeks
+    to: howard-university-school-of-law
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1545391
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-murphy
+    to: davidson-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23074266
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gwen-moore
+    to: marquette-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1978"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461698
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gwen-moore
+    to: harvard-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461698
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-stanton
+    to: university-of-michigan-law-school
+    type: alumni
+    label: Juris Doctor
+    until: "1995"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5606289
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-stanton
+    to: marquette-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1992"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5606289
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: grace-meng
+    to: university-of-michigan
+    type: alumni
+    label: Bachelor of Arts
+    until: "1997"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5591303
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: grace-meng
+    to: stuyvesant-high-school
+    type: alumni
+    until: "1993"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5591303
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-steube
+    to: fredric-g-levin-college-of-law
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5606295
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-steube
+    to: university-of-florida
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5606295
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gil-cisneros
+    to: regis-university
+    type: alumni
+    label: Master of Business Administration
+    until: "2002"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q54958760
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gil-cisneros
+    to: george-washington-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1994"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q54958760
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gil-cisneros
+    to: brown-university
+    type: alumni
+    label: Master of Arts
+    until: "2015"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q54958760
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: glenn-grothman
+    to: university-of-wisconsin-madison
+    type: alumni
+    label: Bachelor in Business Administration
+    until: "1978"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5568836
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: glenn-grothman
+    to: university-of-wisconsin-law-school
+    type: alumni
+    label: Juris Doctor
+    until: "1983"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5568836
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-pence
+    to: yale-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q52151577
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-pence
+    to: loyola-university-chicago
+    type: alumni
+    until: "1979"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q52151577
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gabe-amo
+    to: wheaton-college-2
+    type: alumni
+    label: Bachelor of Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q118901875
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-s-latimer
+    to: government-of-westchester-county
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5544169
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-s-latimer
+    to: fordham-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1974"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5544169
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-s-latimer
+    to: robert-f-wagner-graduate-school-of-public-service
+    type: alumni
+    label: Master in Public Administration
+    until: "1976"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5544169
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-herbert
+    to: brigham-young-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q881188
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: glenn-youngkin
+    to: carlyle-group
+    type: position
+    label: 任职
+    since: "1995"
+    until: "2020"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100963892
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: glenn-youngkin
+    to: mckinsey-and-company
+    type: position
+    label: 任职
+    since: "1994"
+    until: "1995"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100963892
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: glenn-youngkin
+    to: harvard-business-school
+    type: alumni
+    label: Master of Business Administration
+    since: "1992"
+    until: "1994"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100963892
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: glenn-youngkin
+    to: rice-university
+    type: alumni
+    label: Bachelor of Arts
+    since: "1985"
+    until: "1990"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100963892
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: glenn-youngkin
+    to: rice-university
+    type: alumni
+    label: Bachelor of Science in Mechanical Engineering
+    since: "1985"
+    until: "1990"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100963892
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gavin-newsom
+    to: california-governor-s-office
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461391
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gavin-newsom
+    to: plumpjack-estate-winery
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461391
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gavin-newsom
+    to: plumpjack-group
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461391
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gavin-newsom
+    to: santa-clara-university
+    type: alumni
+    label: Bachelor of Science
+    until: "1989"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461391
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gretchen-whitmer
+    to: michigan-state-university-college-of-law
+    type: alumni
+    label: Juris Doctor
+    until: "1998"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5607720
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gretchen-whitmer
+    to: michigan-state-university
+    type: alumni
+    label: Bachelor of Arts
+    since: "1989"
+    until: "1993"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5607720
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-gianforte
+    to: rightnow-technologies
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5605607
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-gianforte
+    to: bell-labs
+    type: position
+    label: 任职
+    since: "1983"
+    until: "1986"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5605607
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-gianforte
+    to: rightnow-technologies
+    type: position
+    label: 任职
+    since: "1997"
+    until: "2012"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5605607
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-gianforte
+    to: montana-state-university
+    type: alumni
+    label: Doctor of Philosophy
+    since: "2007"
+    until: "2007"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5605607
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gong-zheng
+    to: xiamen-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8964883
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gong-zheng
+    to: university-of-international-business-and-economics
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8964883
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gong-zheng
+    to: golden-gate-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8964883
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gao-xiang
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47674387
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gao-xiang
+    to: renmin-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47674387
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guo-yuanqiang
+    to: central-china-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24833479
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guo-yuanqiang
+    to: south-china-university-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24833479
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gu-shu
+    to: dongbei-university-of-finance-and-economics
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28412923
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gu-shu
+    to: shanghai-university-of-finance-and-economics
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28412923
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gu-shu
+    to: shanghai-jiao-tong-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28412923
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gong-qihuang
+    to: peking-university
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60991340
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gong-qihuang
+    to: peking-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60991340
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gong-qihuang
+    to: peking-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60991340
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guo-ningning
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q59160119
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guo-ningning
+    to: china-europe-international-business-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q59160119
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: garma-cedain
+    to: sichuan-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110405026
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: garma-cedain
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110405026
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: garma-cedain
+    to: minzu-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110405026
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guo-fang
+    to: renmin-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q112966454
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gu-kailai
+    to: peking-university
+    type: alumni
+    label: bachelor's degree
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2499132
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gu-kailai
+    to: peking-university
+    type: alumni
+    label: master's degree
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2499132
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guo-guangchang
+    to: fosun-international-limited
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5619586
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guo-guangchang
+    to: fosun-international-limited
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5619586
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guo-guangchang
+    to: shanghai-forte-land
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5619586
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guo-guangchang
+    to: fudan-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5619586
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guo-guangchang
+    to: cheung-kong-graduate-school-of-business
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5619586
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gao-hucheng
+    to: beijing-international-studies-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8293820
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gui-minhai
+    to: peking-university
+    type: alumni
+    label: bachelor's degree
+    since: "1981"
+    until: "1985"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22099950
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gong-hongjia
+    to: hikvision
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18811132
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gong-hongjia
+    to: huazhong-university-of-science-and-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18811132
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-kaiser
+    to: solyndra
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557057
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-kaiser
+    to: harvard-business-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557057
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-kaiser
+    to: central-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557057
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-kaiser
+    to: harvard-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557057
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-moore
+    to: intel
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q243969
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-moore
+    to: intel
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q243969
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-moore
+    to: international-science-and-engineering-fair
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q243969
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-moore
+    to: gordon-and-betty-moore-foundation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q243969
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-moore
+    to: university-of-california-berkeley
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q243969
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-moore
+    to: university-of-california-berkeley
+    type: alumni
+    label: Bachelor of Science
+    sources:
+      - url: https://www.wikidata.org/wiki/Q243969
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-moore
+    to: california-institute-of-technology
+    type: alumni
+    label: Doctor of Philosophy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q243969
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-moore
+    to: san-jose-state-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q243969
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: star-wars
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: lucasfilm-games
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: lucasfilm
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: industrial-light-and-magic
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: thx
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: lucasfilm-animation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: skywalker-sound
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: edutopia
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: lucas-museum-of-narrative-art
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: lucas-learning
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: george-lucas-educational-foundation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: edutopia-2
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: skywalker-ranch
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: university-of-southern-california
+    type: alumni
+    label: Bachelor of Fine Arts
+    since: "1967"
+    until: "1967"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-lucas
+    to: thomas-downey-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gabe-newell
+    to: valve-corporation
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q347418
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gabe-newell
+    to: valve-corporation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q347418
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gabe-newell
+    to: heart-of-racing-team
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q347418
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gabe-newell
+    to: oceanco
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q347418
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gabe-newell
+    to: dagon
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q347418
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gabe-newell
+    to: draak
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q347418
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gabe-newell
+    to: inkfish
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q347418
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gabe-newell
+    to: arctic-rays
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q347418
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gabe-newell
+    to: microsoft
+    type: position
+    label: 任职
+    since: 1983-11-01
+    until: 1996-06-01
+    sources:
+      - url: https://www.wikidata.org/wiki/Q347418
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gabe-newell
+    to: harvard-university
+    type: alumni
+    since: "1980"
+    until: "1983"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q347418
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-kurtz
+    to: crowdstrike
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50082669
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-kurtz
+    to: crowdstrike
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50082669
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-kurtz
+    to: seton-hall-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50082669
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-kurtz
+    to: parsippany-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50082669
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: open-society-foundations
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: soros-fund-management
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: central-european-university
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: open-society-foundations
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: data
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: stefan-batory-foundation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: international-renaissance-foundation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: open-society-foundation-for-south-africa
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: open-society-forum
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: open-society-institute
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: international-science-foundation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: torre-mayor
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: soros-fund-management
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: open-society-foundations
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: london-school-of-economics-and-political-science
+    type: alumni
+    label: Master of Science
+    until: "1954"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-soros
+    to: london-school-of-economics-and-political-science
+    type: alumni
+    label: Bachelor of Science
+    until: "1954"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-getty
+    to: plumpjack-estate-winery
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3110901
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-getty
+    to: ann-and-gordon-getty-collection
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3110901
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-getty
+    to: st-ignatius-college-preparatory
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3110901
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gordon-getty
+    to: university-of-san-francisco
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3110901
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-r-roberts
+    to: kohlberg-kravis-roberts
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1508188
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-r-roberts
+    to: kohlberg-kravis-roberts
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1508188
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-r-roberts
+    to: university-of-california-college-of-the-law-san-francisco
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1508188
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-r-roberts
+    to: claremont-mckenna-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1508188
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-r-roberts
+    to: culver-academies
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1508188
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-kildall
+    to: digital-research
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92627
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-kildall
+    to: digital-research
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92627
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-kildall
+    to: naval-postgraduate-school
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92627
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-kildall
+    to: intel
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92627
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-kildall
+    to: university-of-washington
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92627
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-j-mitchell
+    to: international-crisis-group
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q368920
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-j-mitchell
+    to: mitchell-institute
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q368920
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-j-mitchell
+    to: bowdoin-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q368920
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-j-mitchell
+    to: georgetown-university-law-center
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q368920
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-johnson
+    to: university-of-new-mexico
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q352123
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-johnson
+    to: sandia-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q352123
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: garrett-reisman
+    to: national-aeronautics-and-space-administration
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q358931
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: garrett-reisman
+    to: california-institute-of-technology
+    type: alumni
+    label: Doctor of Philosophy
+    until: "1997"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q358931
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: garrett-reisman
+    to: parsippany-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q358931
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: garrett-reisman
+    to: university-of-pennsylvania
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q358931
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gabby-giffords
+    to: americans-for-responsible-solutions
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193703
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gabby-giffords
+    to: giffords
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193703
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gregory-olsen
+    to: university-of-virginia
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q438844
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gregory-olsen
+    to: fairleigh-dickinson-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q438844
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guy-kawasaki
+    to: truemors
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q507469
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guy-kawasaki
+    to: apple-inc
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q507469
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guy-kawasaki
+    to: google
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q507469
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guy-kawasaki
+    to: university-of-california-los-angeles
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q507469
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: guy-kawasaki
+    to: stanford-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q507469
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-friedman
+    to: stratfor
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q928281
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-friedman
+    to: geopolitical-futures
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q928281
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-friedman
+    to: dickinson-college
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q928281
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-friedman
+    to: stratfor
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q928281
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-friedman
+    to: city-college-of-new-york
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q928281
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: george-friedman
+    to: cornell-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q928281
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gwynne-shotwell
+    to: spacex
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1557944
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gwynne-shotwell
+    to: spacex
+    type: position
+    label: 任职
+    since: "2002"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1557944
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gwynne-shotwell
+    to: robert-r-mccormick-school-of-engineering-and-applied-science
+    type: alumni
+    label: Bachelor of Science
+    since: "1982"
+    until: "1986"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1557944
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gwynne-shotwell
+    to: robert-r-mccormick-school-of-engineering-and-applied-science
+    type: alumni
+    label: Master of Science
+    since: "1986"
+    until: "1988"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1557944
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ghislaine-maxwell
+    to: the-terramar-project
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5556756
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ghislaine-maxwell
+    to: balliol-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5556756
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-brockman
+    to: openai
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100604534
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-brockman
+    to: openai
+    type: position
+    label: 任职
+    since: "2015"
+    until: 2023-11-17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100604534
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-brockman
+    to: massachusetts-institute-of-technology
+    type: alumni
+    since: "2009"
+    until: "2010"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100604534
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-brockman
+    to: university-of-north-dakota
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100604534
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: greg-brockman
+    to: harvard-university
+    type: alumni
+    since: "2008"
+    until: "2009"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100604534
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-gygax
+    to: tsr
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1379
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: gary-gygax
+    to: castle-and-crusade-society
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1379
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ginni-rometty
+    to: ibm
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49971
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ginni-rometty
+    to: jpmorgan-chase
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49971
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ginni-rometty
+    to: brookings-institution
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49971
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ginni-rometty
+    to: peterson-institute-for-international-economics
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49971
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ginni-rometty
+    to: kettering-university
+    type: position
+    label: 任职
+    since: "1979"
+    until: "1981"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49971
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ginni-rometty
+    to: ibm
+    type: position
+    label: 任职
+    since: "1981"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49971
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ginni-rometty
+    to: robert-r-mccormick-school-of-engineering-and-applied-science
+    type: alumni
+    label: bachelor's degree
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49971
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ginni-rometty
+    to: northwestern-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49971
+        publisher: Wikidata
+        accessed: 2026-10-11

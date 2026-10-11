@@ -1,0 +1,68 @@
+# 温家宝家族：精编档案（与 zhao 层同名档案合并；本文件优先）
+id: family-wen-jiabao
+kind: family
+name: 温家宝家族
+country: CN
+head: wen-jiabao
+summary: 纽时 2012 年 10 月调查《温家宝家族隐秘财富》（巴博萨，获普利策奖）：家族通过投资载体持有平安保险等巨额股权；涉及其母、妻、子、女、弟、内弟等。报道刊出后纽时中英文网站在中国被封锁。
+core:
+- wen-jiabao
+- zhang-peili
+- wen-yunsong
+- wen-ruchun
+- yang-zhiyun
+- wen-jiahong
+- liu-chunhang
+outer:
+- ping-an-bao-xian
+- new-horizon-capital
+- china-satcom
+tags:
+- family
+sources:
+- &id001
+  url: https://www.nytimes.com/2012/10/26/business/global/family-of-wen-jiabao-holds-a-hidden-fortune-in-china.html
+  title: Billions in Hidden Riches for Family of Chinese Leader (David Barboza)
+  publisher: The New York Times
+  date: '2012-10-26'
+- url: https://chinadigitaltimes.net/2012/10/family-of-wen-jiabao-holds-hidden-fortune/
+  title: Family of Wen Jiabao Holds Hidden Fortune（转载与摘要）
+  publisher: China Digital Times
+  date: '2012-10-26'
+- &id002
+  url: https://www.thewirechina.com/ping-an-and-the-wen-family
+  title: Ping An and the Wen Family
+  publisher: The Wire China
+relations:
+- - wen-jiabao
+  - spouse
+  - zhang-peili
+- - yang-zhiyun
+  - parent
+  - wen-jiabao
+  - 子
+- from: wen-yunsong
+  to: new-horizon-capital
+  type: founder
+  since: '2005'
+- from: wen-yunsong
+  to: china-satcom
+  type: position
+  label: 董事长
+  since: '2012'
+- from: yang-zhiyun
+  to: ping-an-bao-xian
+  type: owner
+  label: 名下股份约 1.2 亿美元（2007）
+  sources:
+  - *id001
+  - *id002
+- from: zhang-peili
+  to: ping-an-bao-xian
+  type: owner
+  label: 家族经投资载体（泰鸿等）持股
+  confidence: alleged
+  sources:
+  - *id001
+  - *id002
+updated: '2026-10-11'

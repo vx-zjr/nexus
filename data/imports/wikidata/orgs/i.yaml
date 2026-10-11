@@ -1,0 +1,1377 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: ibm
+    type: org
+    name: IBM
+    names:
+      en: IBM
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美国跨国科技公司
+    ids:
+      wikidata: Q37156
+    links:
+      - https://en.wikipedia.org/wiki/IBM
+    sources:
+      - url: https://www.wikidata.org/wiki/Q37156
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: icahn-enterprises
+    type: org
+    name: Icahn Enterprises
+    names:
+      zh: 艾康企业
+      en: Icahn Enterprises
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: diversified holding company
+    ids:
+      wikidata: Q5985017
+    links:
+      - https://en.wikipedia.org/wiki/Icahn_Enterprises
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5985017
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: icivics
+    type: org
+    name: iCivics
+    names:
+      en: iCivics
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American educational non-profit organization
+    ids:
+      wikidata: Q5969877
+    links:
+      - https://en.wikipedia.org/wiki/ICivics
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5969877
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: idaho-house-of-representatives
+    type: org
+    name: Idaho House of Representatives
+    names:
+      zh: 爱达荷州众议院
+      en: Idaho House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of U.S. state legislature
+    ids:
+      wikidata: Q1494870
+    links:
+      - https://en.wikipedia.org/wiki/Idaho_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494870
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: idaho-senate
+    type: org
+    name: Idaho Senate
+    names:
+      zh: 爱达荷州参议院
+      en: Idaho Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper state chamber of a state of the United-States of America
+    ids:
+      wikidata: Q1494863
+    links:
+      - https://en.wikipedia.org/wiki/Idaho_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494863
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ideanomics
+    type: org
+    name: Ideanomics
+    names:
+      en: Ideanomics
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Financial technology company (e. 2017)
+    ids:
+      wikidata: Q105062637
+    links:
+      - https://en.wikipedia.org/wiki/Ideanomics
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105062637
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ilitch-holdings
+    type: org
+    name: Ilitch Holdings
+    names:
+      zh: 伊利奇控股
+      en: Ilitch Holdings
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: holding company
+    ids:
+      wikidata: Q5998419
+    links:
+      - https://en.wikipedia.org/wiki/Ilitch_Holdings
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5998419
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: illinois-house-of-representatives
+    type: org
+    name: Illinois House of Representatives
+    names:
+      zh: 伊利诺伊州众议院
+      en: Illinois House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the Illinois General Assembly
+    ids:
+      wikidata: Q908954
+    links:
+      - https://en.wikipedia.org/wiki/Illinois_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q908954
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: illinois-institute-of-technology
+    type: org
+    name: Illinois Institute of Technology
+    names:
+      zh: 伊利諾理工學院
+      en: Illinois Institute of Technology
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: American university
+    ids:
+      wikidata: Q659706
+    links:
+      - https://en.wikipedia.org/wiki/Illinois_Institute_of_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q659706
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: illinois-senate
+    type: org
+    name: Illinois Senate
+    names:
+      zh: 伊利诺伊州参议院
+      en: Illinois Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: upper chamber of the Illinois General Assembly, the legislative branch of the government of the state of Illinois in the United States
+    ids:
+      wikidata: Q1517713
+    links:
+      - https://en.wikipedia.org/wiki/Illinois_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1517713
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: illinois-state-university
+    type: org
+    name: Illinois State University
+    names:
+      zh: 伊利诺伊州立大学
+      en: Illinois State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国大学
+    ids:
+      wikidata: Q558922
+    links:
+      - https://en.wikipedia.org/wiki/Illinois_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q558922
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ima-group
+    type: org
+    name: IMA Group
+    names:
+      en: IMA Group
+    orgType: company
+    country:
+      - JP
+    sectors:
+      - business
+    tier: 4
+    ids:
+      wikidata: Q117209727
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q117209727
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: imo-8982307
+    type: org
+    name: IMO 8982307
+    names:
+      en: IMO 8982307
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: motor yacht built by Lürssen
+    ids:
+      wikidata: Q1810787
+    links:
+      - https://en.wikipedia.org/wiki/Rising_Sun_(yacht)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1810787
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: imperial-college-london
+    type: org
+    name: Imperial College London
+    names:
+      zh: 伦敦帝国学院
+      en: Imperial College London
+    orgType: university
+    country:
+      - GB
+    sectors:
+      - academia
+    tier: 2
+    summary: 英国伦敦的大学
+    ids:
+      wikidata: Q189022
+    links:
+      - https://en.wikipedia.org/wiki/Imperial_College_London
+    sources:
+      - url: https://www.wikidata.org/wiki/Q189022
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: inc
+    type: org
+    name: Inc.
+    names:
+      zh: 公司杂志
+      en: Inc.
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國商業雜誌
+    ids:
+      wikidata: Q954455
+    links:
+      - https://en.wikipedia.org/wiki/Inc._(magazine)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q954455
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: india
+    type: org
+    name: India
+    names:
+      en: India
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: cat owned by USA presidential Bush family
+    ids:
+      wikidata: Q2060630
+    links:
+      - https://en.wikipedia.org/wiki/India_(cat)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2060630
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: indian-paintbrush
+    type: org
+    name: Indian Paintbrush
+    names:
+      zh: 印地安畫筆公司
+      en: Indian Paintbrush
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American film production company
+    ids:
+      wikidata: Q17415951
+    links:
+      - https://en.wikipedia.org/wiki/Indian_Paintbrush_(company)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17415951
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: indian-wells-open
+    type: org
+    name: Indian Wells Open
+    names:
+      zh: 印第安維爾斯大師賽
+      en: Indian Wells Open
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国加州网球赛事
+    ids:
+      wikidata: Q974505
+    links:
+      - https://en.wikipedia.org/wiki/Indian_Wells_Open
+    sources:
+      - url: https://www.wikidata.org/wiki/Q974505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: indian-wells-tennis-garden
+    type: org
+    name: Indian Wells Tennis Garden
+    names:
+      zh: 印第安威爾斯網球場
+      en: Indian Wells Tennis Garden
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: tennis venue in Indian Wells, California, USA
+    ids:
+      wikidata: Q1427761
+    links:
+      - https://en.wikipedia.org/wiki/Indian_Wells_Tennis_Garden
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1427761
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: indiana-fever
+    type: org
+    name: Indiana Fever
+    names:
+      zh: 印第安納狂熱
+      en: Indiana Fever
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國職業籃球隊
+    ids:
+      wikidata: Q1631017
+    links:
+      - https://en.wikipedia.org/wiki/Indiana_Fever
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1631017
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: indiana-house-of-representatives
+    type: org
+    name: Indiana House of Representatives
+    names:
+      zh: 印第安纳州众议院
+      en: Indiana House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American state legislature
+    ids:
+      wikidata: Q1392642
+    links:
+      - https://en.wikipedia.org/wiki/Indiana_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1392642
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: indiana-pacers
+    type: org
+    name: Indiana Pacers
+    names:
+      zh: 印第安纳步行者
+      en: Indiana Pacers
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國職業籃球隊
+    ids:
+      wikidata: Q170329
+    links:
+      - https://en.wikipedia.org/wiki/Indiana_Pacers
+    sources:
+      - url: https://www.wikidata.org/wiki/Q170329
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: indiana-senate
+    type: org
+    name: Indiana Senate
+    names:
+      zh: 印第安纳州参议院
+      en: Indiana Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the Indiana General Assembly
+    ids:
+      wikidata: Q1408760
+    links:
+      - https://en.wikipedia.org/wiki/Indiana_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1408760
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: indiana-university
+    type: org
+    name: Indiana University
+    names:
+      zh: 印第安纳大学
+      en: Indiana University
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國綜合研究型大學系統
+    ids:
+      wikidata: Q6608367
+    links:
+      - https://en.wikipedia.org/wiki/Indiana_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6608367
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: indiana-university-bloomington
+    type: org
+    name: Indiana University Bloomington
+    names:
+      zh: 印第安纳大学布卢明顿分校
+      en: Indiana University Bloomington
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 印第安纳大学系统旗舰校区
+    ids:
+      wikidata: Q1079140
+    links:
+      - https://en.wikipedia.org/wiki/Indiana_University_Bloomington
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1079140
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: indiana-university-kelley-school-of-business
+    type: org
+    name: Indiana University Kelley School of Business
+    names:
+      zh: 凯莱商学院
+      en: Indiana University Kelley School of Business
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: business school with campuses in Bloomington and Indianapolis
+    ids:
+      wikidata: Q6123576
+    links:
+      - https://en.wikipedia.org/wiki/Kelley_School_of_Business
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6123576
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: indiana-university-purdue-university-indianapolis
+    type: org
+    name: Indiana University – Purdue University Indianapolis
+    names:
+      zh: 印第安纳大学与普渡大学印第安纳波里斯联合分校
+      en: Indiana University – Purdue University Indianapolis
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: defunct Indianapolis campus of Indiana University which included two Purdue University schools
+    ids:
+      wikidata: Q1433199
+    links:
+      - https://en.wikipedia.org/wiki/Indiana_University%E2%80%93Purdue_University_Indianapolis
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1433199
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: indiana-university-robert-h-mckinney-school-of-law
+    type: org
+    name: Indiana University Robert H. McKinney School of Law
+    names:
+      zh: 印第安纳大学麦肯尼法学院
+      en: Indiana University Robert H. McKinney School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school in Indianapolis, Indiana
+    ids:
+      wikidata: Q14688472
+    links:
+      - https://en.wikipedia.org/wiki/Indiana_University_Robert_H._McKinney_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14688472
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: indigo
+    type: org
+    name: IndiGo
+    names:
+      zh: 靛蓝航空
+      en: IndiGo
+    orgType: company
+    country:
+      - IN
+    sectors:
+      - business
+    tier: 3
+    summary: Indian airline company
+    ids:
+      wikidata: Q1057110
+    links:
+      - https://en.wikipedia.org/wiki/IndiGo
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1057110
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: industrial-light-and-magic
+    type: org
+    name: Industrial Light & Magic
+    names:
+      zh: 光影魔幻工业
+      en: Industrial Light & Magic
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American visual effects and animation studio
+    ids:
+      wikidata: Q746676
+    links:
+      - https://en.wikipedia.org/wiki/Industrial_Light_%26_Magic
+    sources:
+      - url: https://www.wikidata.org/wiki/Q746676
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: inflection-ai
+    type: org
+    name: Inflection AI
+    names:
+      zh: Inflection AI
+      en: Inflection AI
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Artificial intelligence company
+    ids:
+      wikidata: Q113270365
+    links:
+      - https://en.wikipedia.org/wiki/Inflection_AI
+    sources:
+      - url: https://www.wikidata.org/wiki/Q113270365
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: inkfish
+    type: org
+    name: Inkfish
+    names:
+      en: Inkfish
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: marine research organization
+    ids:
+      wikidata: Q134738357
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q134738357
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: inner-mongolia-normal-university
+    type: org
+    name: 内蒙古师范大学
+    names:
+      zh: 内蒙古师范大学
+      en: Inner Mongolia Normal University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国内蒙古呼和浩特的大学
+    ids:
+      wikidata: Q10894785
+    links:
+      - https://en.wikipedia.org/wiki/Inner_Mongolia_Normal_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10894785
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: instacart
+    type: org
+    name: Instacart
+    names:
+      en: Instacart
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Internet-based grocery delivery service
+    ids:
+      wikidata: Q22909236
+    links:
+      - https://en.wikipedia.org/wiki/Instacart
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22909236
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: instagram
+    type: org
+    name: Instagram
+    names:
+      en: Instagram
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: Meta旗下的社交網絡平台
+    ids:
+      wikidata: Q209330
+    links:
+      - https://en.wikipedia.org/wiki/Instagram
+    sources:
+      - url: https://www.wikidata.org/wiki/Q209330
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: instagram-inc
+    type: org
+    name: Instagram, Inc.
+    names:
+      en: Instagram, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American technology company acquired by Facebook in 2012
+    ids:
+      wikidata: Q141112289
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q141112289
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: institute-for-energy-research
+    type: org
+    name: Institute for Energy Research
+    names:
+      zh: 能源研究协会
+      en: Institute for Energy Research
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 組織
+    ids:
+      wikidata: Q6039320
+    links:
+      - https://en.wikipedia.org/wiki/Institute_for_Energy_Research
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6039320
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: institute-for-justice
+    type: org
+    name: Institute for Justice
+    names:
+      zh: 正义研究所
+      en: Institute for Justice
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: libertarian non-profit public interest law firm in the USA
+    ids:
+      wikidata: Q6039446
+    links:
+      - https://en.wikipedia.org/wiki/Institute_for_Justice
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6039446
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: institute-for-new-economic-thinking
+    type: org
+    name: Institute for New Economic Thinking
+    names:
+      zh: 新经济思维研究所
+      en: Institute for New Economic Thinking
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: think tank
+    ids:
+      wikidata: Q1665142
+    links:
+      - https://en.wikipedia.org/wiki/Institute_for_New_Economic_Thinking
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1665142
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: institute-for-the-future
+    type: org
+    name: Institute for the Future
+    names:
+      en: Institute for the Future
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: non-profit thinktank
+    ids:
+      wikidata: Q6039758
+    links:
+      - https://en.wikipedia.org/wiki/Institute_for_the_Future
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6039758
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: institute-for-the-study-of-war
+    type: org
+    name: Institute for the Study of War
+    names:
+      zh: 战争研究所
+      en: Institute for the Study of War
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国智库
+    ids:
+      wikidata: Q6039802
+    links:
+      - https://en.wikipedia.org/wiki/Institute_for_the_Study_of_War
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6039802
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: institute-of-noetic-sciences
+    type: org
+    name: Institute of Noetic Sciences
+    names:
+      zh: 思维科学研究所
+      en: Institute of Noetic Sciences
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國非盈利組織
+    ids:
+      wikidata: Q1665170
+    links:
+      - https://en.wikipedia.org/wiki/Institute_of_Noetic_Sciences
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1665170
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: intel
+    type: org
+    name: Intel
+    names:
+      zh: 英特尔
+      en: Intel
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國跨國半導體生產公司
+    ids:
+      wikidata: Q248
+    links:
+      - https://en.wikipedia.org/wiki/Intel
+    sources:
+      - url: https://www.wikidata.org/wiki/Q248
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: intentional-software
+    type: org
+    name: Intentional Software
+    names:
+      en: Intentional Software
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American software company
+    ids:
+      wikidata: Q6044463
+    links:
+      - https://en.wikipedia.org/wiki/Intentional_Software
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6044463
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: interactive-brokers
+    type: org
+    name: Interactive Brokers
+    names:
+      zh: 盈透證券
+      en: Interactive Brokers
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國證券交易公司
+    ids:
+      wikidata: Q20011294
+    links:
+      - https://en.wikipedia.org/wiki/Interactive_Brokers
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20011294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: interchange
+    type: org
+    name: Interchange
+    names:
+      en: Interchange
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Willem de Kooning
+    ids:
+      wikidata: Q22951281
+    links:
+      - https://en.wikipedia.org/wiki/Interchange_(de_Kooning)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22951281
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: interior-ministry
+    type: org
+    name: interior ministry
+    names:
+      zh: 內政部
+      en: interior ministry
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 管理国家内部重要政务的政府机关
+    ids:
+      wikidata: Q6589202
+    links:
+      - https://en.wikipedia.org/wiki/Interior_ministry
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6589202
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: intermountain-airlines
+    type: org
+    name: Intermountain Airlines
+    names:
+      zh: 山際航空
+      en: Intermountain Airlines
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: defunct American airline of the CIA
+    ids:
+      wikidata: Q2886874
+    links:
+      - https://en.wikipedia.org/wiki/Intermountain_Aviation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2886874
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: international-association-of-economic-and-social-councils-and-similar-institutio
+    type: org
+    name: International Association of Economic and Social Councils and Similar Institutions
+    names:
+      en: International Association of Economic and Social Councils and Similar Institutions
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: organization
+    ids:
+      wikidata: Q2867818
+    links:
+      - https://en.wikipedia.org/wiki/International_Association_of_Economic_and_Social_Councils_and_Similar_Institutions
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2867818
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: international-bank-for-reconstruction-and-development
+    type: org
+    name: International Bank for Reconstruction and Development
+    names:
+      zh: 国际复兴开发银行
+      en: International Bank for Reconstruction and Development
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 世界银行集团的一个机构
+    ids:
+      wikidata: Q191384
+    links:
+      - https://en.wikipedia.org/wiki/International_Bank_for_Reconstruction_and_Development
+    sources:
+      - url: https://www.wikidata.org/wiki/Q191384
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: international-crisis-group
+    type: org
+    name: International Crisis Group
+    names:
+      zh: 国际危机组织
+      en: International Crisis Group
+    orgType: ngo
+    country:
+      - US
+      - BE
+    sectors:
+      - other
+    tier: 3
+    summary: 非營利的和平組織
+    ids:
+      wikidata: Q1072857
+    links:
+      - https://en.wikipedia.org/wiki/International_Crisis_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1072857
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: international-renaissance-foundation
+    type: org
+    name: International Renaissance Foundation
+    names:
+      zh: 國際復興基金會
+      en: International Renaissance Foundation
+    orgType: other
+    country:
+      - UA
+    sectors:
+      - other
+    tier: 4
+    summary: NGO created by George Soros in 1990 dans financed by US Congres, via the National Endowment for Democracy
+    ids:
+      wikidata: Q12131126
+    links:
+      - https://en.wikipedia.org/wiki/International_Renaissance_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12131126
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: international-republican-institute
+    type: org
+    name: International Republican Institute
+    names:
+      zh: 美国国际共和研究所
+      en: International Republican Institute
+    orgType: foundation
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: U.S. federal budget funded institution involved with national political parties around the world
+    ids:
+      wikidata: Q1976268
+    links:
+      - https://en.wikipedia.org/wiki/International_Republican_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1976268
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: international-school-bangkok
+    type: org
+    name: International School Bangkok
+    names:
+      zh: 曼谷国际学校
+      en: International School Bangkok
+    orgType: school
+    country:
+      - TH
+    sectors:
+      - other
+    tier: 4
+    summary: school in Nonthaburi province, Thailand
+    ids:
+      wikidata: Q1666866
+    links:
+      - https://en.wikipedia.org/wiki/International_School_Bangkok
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1666866
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: international-science-and-engineering-fair
+    type: org
+    name: International Science and Engineering Fair
+    names:
+      zh: 英特爾國際科技展覽會
+      en: International Science and Engineering Fair
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: science fair
+    ids:
+      wikidata: Q635185
+    links:
+      - https://en.wikipedia.org/wiki/International_Science_and_Engineering_Fair
+    sources:
+      - url: https://www.wikidata.org/wiki/Q635185
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: international-science-foundation
+    type: org
+    name: International Science Foundation
+    names:
+      en: International Science Foundation
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: organization that provided support for scientific research in the former Soviet Union
+    ids:
+      wikidata: Q107315272
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q107315272
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: international-steel-group
+    type: org
+    name: International Steel Group
+    names:
+      zh: 國際鋼鐵集團
+      en: International Steel Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: steel company headquartered in Cleveland, Ohio
+    ids:
+      wikidata: Q3153311
+    links:
+      - https://en.wikipedia.org/wiki/International_Steel_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3153311
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: internet-archive
+    type: org
+    name: Internet Archive
+    names:
+      zh: 互联网档案馆
+      en: Internet Archive
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國非營利組織
+    ids:
+      wikidata: Q461
+    links:
+      - https://en.wikipedia.org/wiki/Internet_Archive
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: internet-archive-federal-credit-union
+    type: org
+    name: Internet Archive Federal Credit Union
+    names:
+      en: Internet Archive Federal Credit Union
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American credit union operated from 2011 to 2015 affiliated with the Internet Archive
+    ids:
+      wikidata: Q141635620
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q141635620
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: intersystems
+    type: org
+    name: InterSystems
+    names:
+      en: InterSystems
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: company
+    ids:
+      wikidata: Q948399
+    links:
+      - https://en.wikipedia.org/wiki/InterSystems
+    sources:
+      - url: https://www.wikidata.org/wiki/Q948399
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: intuit
+    type: org
+    name: Intuit
+    names:
+      zh: Intuit
+      en: Intuit
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American business that specializes in financial software
+    ids:
+      wikidata: Q1318848
+    links:
+      - https://en.wikipedia.org/wiki/Intuit
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1318848
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: invictus-gaming
+    type: org
+    name: iG电子竞技俱乐部
+    names:
+      zh: iG电子竞技俱乐部
+      en: Invictus Gaming
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中國電子競技俱樂部
+    ids:
+      wikidata: Q17042379
+    links:
+      - https://en.wikipedia.org/wiki/Invictus_Gaming
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17042379
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: iowa-house-of-representatives
+    type: org
+    name: Iowa House of Representatives
+    names:
+      zh: 艾奥瓦州众议院
+      en: Iowa House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower chamber of the Iowa state legislature
+    ids:
+      wikidata: Q1494785
+    links:
+      - https://en.wikipedia.org/wiki/Iowa_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494785
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: iowa-senate
+    type: org
+    name: Iowa Senate
+    names:
+      zh: 艾奥瓦州参议院
+      en: Iowa Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper chamber of the Iowa state legislature
+    ids:
+      wikidata: Q1494790
+    links:
+      - https://en.wikipedia.org/wiki/Iowa_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494790
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: iowa-state-university
+    type: org
+    name: Iowa State University
+    names:
+      zh: 艾奥瓦州立大学
+      en: Iowa State University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國愛荷華州艾姆斯的公立研究型大學
+    ids:
+      wikidata: Q1136919
+    links:
+      - https://en.wikipedia.org/wiki/Iowa_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1136919
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: israel-hayom
+    type: org
+    name: Israel Hayom
+    names:
+      zh: 今日以色列
+      en: Israel Hayom
+    orgType: media
+    country:
+      - IL
+    sectors:
+      - media
+    tier: 3
+    summary: Israeli daily newspaper
+    ids:
+      wikidata: Q1632726
+    links:
+      - https://en.wikipedia.org/wiki/Israel_Hayom
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1632726
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: israeli
+    type: org
+    name: Israeli
+    names:
+      en: Israeli
+    orgType: media
+    country:
+      - IL
+    sectors:
+      - media
+    tier: 4
+    summary: newspaper
+    ids:
+      wikidata: Q496254
+    links:
+      - https://en.wikipedia.org/wiki/Israeli_(newspaper)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q496254
+        publisher: Wikidata
+        accessed: 2026-10-11

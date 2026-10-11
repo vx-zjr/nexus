@@ -1,0 +1,1660 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: rabbit
+    type: org
+    name: Rabbit
+    names:
+      en: Rabbit
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: sculpture by Jeff Koons
+    ids:
+      wikidata: Q65090699
+    links:
+      - https://en.wikipedia.org/wiki/Rabbit_(Koons)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65090699
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: radcliffe-college
+    type: org
+    name: Radcliffe College
+    names:
+      zh: 拉德克利夫学院
+      en: Radcliffe College
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: women's college in Cambridge, Massachusetts (1879-1999)
+    ids:
+      wikidata: Q49124
+    links:
+      - https://en.wikipedia.org/wiki/Radcliffe_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49124
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rainberry-inc
+    type: org
+    name: Rainberry ,Inc.
+    names:
+      zh: BitTorrent
+      en: Rainberry ,Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American company
+    ids:
+      wikidata: Q1959936
+    links:
+      - https://en.wikipedia.org/wiki/Rainberry%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1959936
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: raising-cane-s-chicken-fingers
+    type: org
+    name: Raising Cane's Chicken Fingers
+    names:
+      zh: Raising Cane's Chicken Fingers
+      en: Raising Cane's Chicken Fingers
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American restaurant chain
+    ids:
+      wikidata: Q7285144
+    links:
+      - https://en.wikipedia.org/wiki/Raising_Cane's_Chicken_Fingers
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7285144
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ralph-lauren-2
+    type: org
+    name: Ralph Lauren
+    names:
+      zh: 拉夫劳伦
+      en: Ralph Lauren
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: 拉夫劳伦公司旗下的时尚品牌
+    ids:
+      wikidata: Q125145302
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q125145302
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ralph-lauren-corporation
+    type: org
+    name: Ralph Lauren Corporation
+    names:
+      zh: 拉夫劳伦公司
+      en: Ralph Lauren Corporation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国服装和生活方式上市公司
+    ids:
+      wikidata: Q1641437
+    links:
+      - https://en.wikipedia.org/wiki/Ralph_Lauren_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1641437
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ramaz-school
+    type: org
+    name: Ramaz School
+    names:
+      en: Ramaz School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private school in New York City, United States
+    ids:
+      wikidata: Q7289144
+    links:
+      - https://en.wikipedia.org/wiki/Ramaz_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7289144
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rancho-de-san-rafael
+    type: org
+    name: Rancho de San Rafael
+    names:
+      en: Rancho de San Rafael
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: place in Santa Fe County, New Mexico, United States owned by the estate of Jeffrey Epstein until 2022
+    ids:
+      wikidata: Q133504290
+    links:
+      - https://en.wikipedia.org/wiki/Zorro_Ranch
+    sources:
+      - url: https://www.wikidata.org/wiki/Q133504290
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rand-corporation
+    type: org
+    name: RAND Corporation
+    names:
+      zh: 兰德公司
+      en: RAND Corporation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国智库
+    ids:
+      wikidata: Q861141
+    links:
+      - https://en.wikipedia.org/wiki/RAND_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q861141
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: range-fuels
+    type: org
+    name: Range Fuels
+    names:
+      en: Range Fuels
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    ids:
+      wikidata: Q16968266
+    links:
+      - https://en.wikipedia.org/wiki/Range_Fuels
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16968266
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ranger
+    type: org
+    name: Ranger
+    names:
+      en: Ranger
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: dog of President George H.W. Bush
+    ids:
+      wikidata: Q47668546
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47668546
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rap-pages
+    type: org
+    name: Rap Pages
+    names:
+      en: Rap Pages
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American hip hop magazine
+    ids:
+      wikidata: Q123232886
+    links:
+      - https://en.wikipedia.org/wiki/Rap_Pages
+    sources:
+      - url: https://www.wikidata.org/wiki/Q123232886
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: red-cross-society-of-china
+    type: org
+    name: 中国红十字会
+    names:
+      zh: 中国红十字会
+      en: Red Cross Society of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国慈善组织
+    ids:
+      wikidata: Q908277
+    links:
+      - https://en.wikipedia.org/wiki/Red_Cross_Society_of_China
+    sources:
+      - url: https://www.wikidata.org/wiki/Q908277
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: redactron-corporation
+    type: org
+    name: Redactron Corporation
+    names:
+      en: Redactron Corporation
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: former hardware and software company
+    ids:
+      wikidata: Q59627817
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q59627817
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: reddit
+    type: org
+    name: Reddit
+    names:
+      zh: Reddit
+      en: Reddit
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 社交化新闻和娱乐的网站
+    ids:
+      wikidata: Q1136
+    links:
+      - https://en.wikipedia.org/wiki/Reddit
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1136
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: reddit-inc
+    type: org
+    name: Reddit Inc.
+    names:
+      en: Reddit Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American company that operates Reddit
+    ids:
+      wikidata: Q111759432
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111759432
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: redswoosh
+    type: org
+    name: RedSwoosh
+    names:
+      zh: Red Swoosh
+      en: RedSwoosh
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: American file sharing company
+    ids:
+      wikidata: Q7303572
+    links:
+      - https://en.wikipedia.org/wiki/Red_Swoosh
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7303572
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: reed-college
+    type: org
+    name: Reed College
+    names:
+      zh: 里德学院
+      en: Reed College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国俄勒冈州文理学院
+    ids:
+      wikidata: Q1140775
+    links:
+      - https://en.wikipedia.org/wiki/Reed_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1140775
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: reform-party-of-the-united-states-of-america
+    type: org
+    name: Reform Party of the United States of America
+    names:
+      zh: 美利坚合众国改革党
+      en: Reform Party of the United States of America
+    orgType: party
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: American political party
+    ids:
+      wikidata: Q1893430
+    links:
+      - https://en.wikipedia.org/wiki/Reform_Party_of_the_United_States_of_America
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1893430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: regis-university
+    type: org
+    name: Regis University
+    names:
+      zh: 瑞吉斯大學
+      en: Regis University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private Jesuit university in Denver, Colorado, US
+    ids:
+      wikidata: Q649299
+    links:
+      - https://en.wikipedia.org/wiki/Regis_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q649299
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: relativity-space
+    type: org
+    name: Relativity Space
+    names:
+      zh: 相對論空間
+      en: Relativity Space
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国航空公司
+    ids:
+      wikidata: Q54263821
+    links:
+      - https://en.wikipedia.org/wiki/Relativity_Space
+    sources:
+      - url: https://www.wikidata.org/wiki/Q54263821
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: renaissance-technologies
+    type: org
+    name: Renaissance Technologies
+    names:
+      zh: 文艺复兴科技公司
+      en: Renaissance Technologies
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American hedge fund firm
+    ids:
+      wikidata: Q3424738
+    links:
+      - https://en.wikipedia.org/wiki/Renaissance_Technologies
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3424738
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: renco-group
+    type: org
+    name: Renco Group
+    names:
+      en: Renco Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American holding company
+    ids:
+      wikidata: Q7312762
+    links:
+      - https://en.wikipedia.org/wiki/Renco_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7312762
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: renmin-university-of-china
+    type: org
+    name: 中国人民大学
+    names:
+      zh: 中国人民大学
+      en: Renmin University of China
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 位于中国北京市的研究型大学
+    ids:
+      wikidata: Q1074117
+    links:
+      - https://en.wikipedia.org/wiki/Renmin_University_of_China
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1074117
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: reno-1868-fc
+    type: org
+    name: Reno 1868 FC
+    names:
+      zh: 雷諾1868足球俱樂部
+      en: Reno 1868 FC
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American soccer club
+    ids:
+      wikidata: Q21071146
+    links:
+      - https://en.wikipedia.org/wiki/Reno_1868_FC
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21071146
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: renren
+    type: org
+    name: 人人网
+    names:
+      zh: 人人网
+      en: Renren
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中国早期网络校园人脉社交网站
+    ids:
+      wikidata: Q784022
+    links:
+      - https://en.wikipedia.org/wiki/Renren
+    sources:
+      - url: https://www.wikidata.org/wiki/Q784022
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: republican-governors-association
+    type: org
+    name: Republican Governors Association
+    names:
+      zh: 共和党州长协会
+      en: Republican Governors Association
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: organization of U.S. Republican governors
+    ids:
+      wikidata: Q7314590
+    links:
+      - https://en.wikipedia.org/wiki/Republican_Governors_Association
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7314590
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: republican-national-committee
+    type: org
+    name: Republican National Committee
+    names:
+      zh: 共和党全国委员会
+      en: Republican National Committee
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國共和黨的統籌組織
+    ids:
+      wikidata: Q2145369
+    links:
+      - https://en.wikipedia.org/wiki/Republican_National_Committee
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2145369
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: resnick-art-collection
+    type: org
+    name: Resnick art collection
+    names:
+      en: Resnick art collection
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: art collection of Lynda & Stewart Resnick
+    ids:
+      wikidata: Q110763513
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110763513
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: revolutionary-committee-of-the-chinese-kuomintang
+    type: org
+    name: 中国国民党革命委员会
+    names:
+      zh: 中国国民党革命委员会
+      en: Revolutionary Committee of the Chinese Kuomintang
+    orgType: party
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中華人民共和國的民主黨派之一
+    ids:
+      wikidata: Q1202612
+    links:
+      - https://en.wikipedia.org/wiki/Revolutionary_Committee_of_the_Chinese_Kuomintang
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1202612
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rex
+    type: org
+    name: Rex
+    names:
+      en: Rex
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: Cavalier King Charles Spaniel owned by Ronald and Nancy Reagan
+    ids:
+      wikidata: Q7319126
+    links:
+      - https://en.wikipedia.org/wiki/Rex_(Ronald_Reagan's_dog)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7319126
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rfe-rl-inc
+    type: org
+    name: RFE/RL, Inc.
+    names:
+      en: RFE/RL, Inc.
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: US organization
+    ids:
+      wikidata: Q133289342
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q133289342
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rhode-island-college
+    type: org
+    name: Rhode Island College
+    names:
+      zh: 羅德島學院
+      en: Rhode Island College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: higher education institution
+    ids:
+      wikidata: Q1613236
+    links:
+      - https://en.wikipedia.org/wiki/Rhode_Island_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1613236
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rhode-island-house-of-representatives
+    type: org
+    name: Rhode Island House of Representatives
+    names:
+      zh: 羅得島州下議院
+      en: Rhode Island House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the Rhode Island General Assembly
+    ids:
+      wikidata: Q1734753
+    links:
+      - https://en.wikipedia.org/wiki/Rhode_Island_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1734753
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rhode-island-school-of-design
+    type: org
+    name: Rhode Island School of Design
+    names:
+      zh: 罗德岛设计学院
+      en: Rhode Island School of Design
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 罗德岛设计学院（RISD）是一个美术位于美国罗得岛州的首府普罗维登斯的设计学院。它被评为世界上最好的艺术与设计院校，和耶鲁大学并称为美国最顶级的艺术学校。
+    ids:
+      wikidata: Q49208
+    links:
+      - https://en.wikipedia.org/wiki/Rhode_Island_School_of_Design
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49208
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rhodes-college
+    type: org
+    name: Rhodes College
+    names:
+      zh: 罗德学院
+      en: Rhodes College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private, four-year liberal arts college in Memphis, Tennessee
+    ids:
+      wikidata: Q1321046
+    links:
+      - https://en.wikipedia.org/wiki/Rhodes_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1321046
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rhodes-preparatory-school
+    type: org
+    name: Rhodes Preparatory School
+    names:
+      en: Rhodes Preparatory School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: defunct high school in New York, United States
+    ids:
+      wikidata: Q7321029
+    links:
+      - https://en.wikipedia.org/wiki/Rhodes_Preparatory_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7321029
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rice-university
+    type: org
+    name: Rice University
+    names:
+      zh: 莱斯大学
+      en: Rice University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国得克萨斯州大学
+    ids:
+      wikidata: Q842909
+    links:
+      - https://en.wikipedia.org/wiki/Rice_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q842909
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rightnow-technologies
+    type: org
+    name: RightNow Technologies
+    names:
+      en: RightNow Technologies
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Customer service cloud software owned by Oracle
+    ids:
+      wikidata: Q7333470
+    links:
+      - https://en.wikipedia.org/wiki/RightNow_Technologies
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7333470
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ripple
+    type: org
+    name: Ripple
+    names:
+      en: Ripple
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: creator and a developer of the Ripple payment protocol and exchange network.
+    ids:
+      wikidata: Q16904931
+    links:
+      - https://en.wikipedia.org/wiki/Ripple_Labs
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16904931
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: riverdale-country-school
+    type: org
+    name: Riverdale Country School
+    names:
+      zh: 里弗代爾鄉村學校
+      en: Riverdale Country School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private school in the Bronx, New York, United States
+    ids:
+      wikidata: Q7338137
+    links:
+      - https://en.wikipedia.org/wiki/Riverdale_Country_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7338137
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robert-f-wagner-graduate-school-of-public-service
+    type: org
+    name: Robert F. Wagner Graduate School of Public Service
+    names:
+      en: Robert F. Wagner Graduate School of Public Service
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: school within New York University
+    ids:
+      wikidata: Q618001
+    links:
+      - https://en.wikipedia.org/wiki/Wagner_Graduate_School_of_Public_Service
+    sources:
+      - url: https://www.wikidata.org/wiki/Q618001
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robert-r-mccormick-school-of-engineering-and-applied-science
+    type: org
+    name: Robert R. McCormick School of Engineering and Applied Science
+    names:
+      zh: 罗伯特·R·麦考密克工程与应用科学学院
+      en: Robert R. McCormick School of Engineering and Applied Science
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: engineering school at Northwestern University
+    ids:
+      wikidata: Q7349106
+    links:
+      - https://en.wikipedia.org/wiki/McCormick_School_of_Engineering
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7349106
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robin-hood-foundation
+    type: org
+    name: Robin Hood Foundation
+    names:
+      zh: 罗宾汉基金会
+      en: Robin Hood Foundation
+    orgType: foundation
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: foundation
+    ids:
+      wikidata: Q174896
+    links:
+      - https://en.wikipedia.org/wiki/Robin_Hood_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q174896
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinhood
+    type: org
+    name: Robinhood
+    names:
+      zh: robinhood
+      en: Robinhood
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American financial services company
+    ids:
+      wikidata: Q18155123
+    links:
+      - https://en.wikipedia.org/wiki/Robinhood_Markets
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18155123
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinsons-cabanatuan
+    type: org
+    name: Robinsons Cabanatuan
+    names:
+      en: Robinsons Cabanatuan
+    orgType: other
+    country:
+      - PH
+    sectors:
+      - other
+    tier: 4
+    summary: Shopping mall in the Philippines
+    ids:
+      wikidata: Q7353117
+    links:
+      - https://en.wikipedia.org/wiki/Robinsons_Cabanatuan
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7353117
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinsons-galleria
+    type: org
+    name: Robinsons Galleria
+    names:
+      en: Robinsons Galleria
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: shopping mall in Quezon City, Philippines
+    ids:
+      wikidata: Q7353121
+    links:
+      - https://en.wikipedia.org/wiki/Robinsons_Galleria
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7353121
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinsons-magnolia
+    type: org
+    name: Robinsons Magnolia
+    names:
+      en: Robinsons Magnolia
+    orgType: other
+    country:
+      - PH
+    sectors:
+      - other
+    tier: 4
+    summary: shopping mall in Quezon City, Philippines
+    ids:
+      wikidata: Q7353123
+    links:
+      - https://en.wikipedia.org/wiki/Robinsons_Magnolia
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7353123
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinsons-malls
+    type: org
+    name: Robinsons Malls
+    names:
+      en: Robinsons Malls
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: shopping mall chain in the Philippines
+    ids:
+      wikidata: Q7353125
+    links:
+      - https://en.wikipedia.org/wiki/Robinsons_Malls
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7353125
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinsons-metro-east
+    type: org
+    name: Robinsons Metro East
+    names:
+      en: Robinsons Metro East
+    orgType: other
+    country:
+      - PH
+    sectors:
+      - other
+    tier: 4
+    summary: shopping mall in Pasig, Philippines
+    ids:
+      wikidata: Q7353135
+    links:
+      - https://en.wikipedia.org/wiki/Robinsons_Metro_East
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7353135
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinsons-novaliches
+    type: org
+    name: Robinsons Novaliches
+    names:
+      en: Robinsons Novaliches
+    orgType: other
+    country:
+      - PH
+    sectors:
+      - other
+    tier: 4
+    summary: shopping mall in Quezon City, Philippines
+    ids:
+      wikidata: Q18390827
+    links:
+      - https://en.wikipedia.org/wiki/Robinsons_Novaliches
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18390827
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinsons-place-bacolod
+    type: org
+    name: Robinsons Place Bacolod
+    names:
+      en: Robinsons Place Bacolod
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q7353127
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7353127
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinsons-place-butuan
+    type: org
+    name: Robinsons Place Butuan
+    names:
+      en: Robinsons Place Butuan
+    orgType: other
+    country:
+      - PH
+    sectors:
+      - other
+    tier: 4
+    summary: Shopping mall in the Philippines
+    ids:
+      wikidata: Q16899377
+    links:
+      - https://en.wikipedia.org/wiki/Robinsons_Butuan
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16899377
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinsons-place-calasiao
+    type: org
+    name: Robinsons Place Calasiao
+    names:
+      en: Robinsons Place Calasiao
+    orgType: other
+    country:
+      - PH
+    sectors:
+      - other
+    tier: 4
+    summary: shopping mall in Pangasinan, Philippines
+    ids:
+      wikidata: Q7353126
+    links:
+      - https://en.wikipedia.org/wiki/Robinsons_Pangasinan
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7353126
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinsons-place-dumaguete
+    type: org
+    name: Robinsons Place Dumaguete
+    names:
+      en: Robinsons Place Dumaguete
+    orgType: other
+    country:
+      - PH
+    sectors:
+      - other
+    tier: 4
+    summary: Shopping mall in Dumaguete City, the Philippines
+    ids:
+      wikidata: Q7353130
+    links:
+      - https://en.wikipedia.org/wiki/Robinsons_Dumaguete
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7353130
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinsons-place-general-santos
+    type: org
+    name: Robinsons Place General Santos
+    names:
+      en: Robinsons Place General Santos
+    orgType: other
+    country:
+      - PH
+    sectors:
+      - other
+    tier: 4
+    summary: Shopping mall in the Philippines
+    ids:
+      wikidata: Q7353131
+    links:
+      - https://en.wikipedia.org/wiki/Robinsons_GenSan
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7353131
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinsons-place-manila
+    type: org
+    name: Robinsons Place Manila
+    names:
+      zh: 羅賓遜廣場馬尼拉館
+      en: Robinsons Place Manila
+    orgType: other
+    country:
+      - PH
+    sectors:
+      - other
+    tier: 4
+    summary: shopping mall in Manila, Philippines
+    ids:
+      wikidata: Q7353133
+    links:
+      - https://en.wikipedia.org/wiki/Robinsons_Manila
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7353133
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinsons-place-palawan
+    type: org
+    name: Robinsons Place Palawan
+    names:
+      en: Robinsons Place Palawan
+    orgType: other
+    country:
+      - PH
+    sectors:
+      - other
+    tier: 4
+    summary: shopping mall in the Philippines
+    ids:
+      wikidata: Q7353137
+    links:
+      - https://en.wikipedia.org/wiki/Robinsons_Palawan
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7353137
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinsons-place-roxas
+    type: org
+    name: Robinsons Place Roxas
+    names:
+      en: Robinsons Place Roxas
+    orgType: other
+    country:
+      - PH
+    sectors:
+      - other
+    tier: 4
+    summary: shopping mall in Roxas City, The Philippines
+    ids:
+      wikidata: Q17059639
+    links:
+      - https://en.wikipedia.org/wiki/Robinsons_Roxas
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17059639
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinsons-place-santiago
+    type: org
+    name: Robinsons Place Santiago
+    names:
+      en: Robinsons Place Santiago
+    orgType: other
+    country:
+      - PH
+    sectors:
+      - other
+    tier: 4
+    summary: Shopping Mall in Santiago, Philippines
+    ids:
+      wikidata: Q17086680
+    links:
+      - https://en.wikipedia.org/wiki/Robinsons_Santiago
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17086680
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinsons-place-tacloban
+    type: org
+    name: Robinsons Place Tacloban
+    names:
+      en: Robinsons Place Tacloban
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: shopping mall in Tacloban City, Leyte
+    ids:
+      wikidata: Q7353140
+    links:
+      - https://en.wikipedia.org/wiki/Robinsons_Place_Tacloban
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7353140
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinsons-supermarket
+    type: org
+    name: Robinsons Supermarket
+    names:
+      en: Robinsons Supermarket
+    orgType: company
+    country:
+      - PH
+    sectors:
+      - business
+    tier: 4
+    summary: supermarket chain in the Philippines
+    ids:
+      wikidata: Q7353143
+    links:
+      - https://en.wikipedia.org/wiki/Robinsons_Supermarket
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7353143
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: robinsons-town-mall-malabon
+    type: org
+    name: Robinsons Town Mall Malabon
+    names:
+      en: Robinsons Town Mall Malabon
+    orgType: other
+    country:
+      - PH
+    sectors:
+      - other
+    tier: 4
+    summary: shopping centre in Malabon City, Philippines
+    ids:
+      wikidata: Q25042485
+    links:
+      - https://en.wikipedia.org/wiki/Robinsons_Malabon
+    sources:
+      - url: https://www.wikidata.org/wiki/Q25042485
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: roblox
+    type: org
+    name: Roblox
+    names:
+      zh: 罗布乐思
+      en: Roblox
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 線上創作及遊戲平台
+    ids:
+      wikidata: Q692989
+    links:
+      - https://en.wikipedia.org/wiki/Roblox
+    sources:
+      - url: https://www.wikidata.org/wiki/Q692989
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: roblox-corporation
+    type: org
+    name: Roblox Corporation
+    names:
+      zh: 艾瑞克·卡塞爾
+      en: Roblox Corporation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American video game developer
+    ids:
+      wikidata: Q67186598
+    links:
+      - https://en.wikipedia.org/wiki/Roblox_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q67186598
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rock-ventures
+    type: org
+    name: Rock Ventures
+    names:
+      en: Rock Ventures
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: holding company for businessman Dan Gilbert's portfolio of companies, investments, and real estate
+    ids:
+      wikidata: Q20895336
+    links:
+      - https://en.wikipedia.org/wiki/Rock_Ventures
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20895336
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rockbridge-network
+    type: org
+    name: Rockbridge Network
+    names:
+      en: Rockbridge Network
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: conservative political advocacy group
+    ids:
+      wikidata: Q127607664
+    links:
+      - https://en.wikipedia.org/wiki/Rockbridge_Network
+    sources:
+      - url: https://www.wikidata.org/wiki/Q127607664
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rocket-companies
+    type: org
+    name: Rocket Companies
+    names:
+      en: Rocket Companies
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Detroit-based, publicly-traded home ownership and fintech company focused on mortgages and financial freedom
+    ids:
+      wikidata: Q105887484
+    links:
+      - https://en.wikipedia.org/wiki/Rocket_Companies
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105887484
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rocket-mortgage
+    type: org
+    name: Rocket Mortgage
+    names:
+      zh: 火箭抵押贷款
+      en: Rocket Mortgage
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American mortgage lending company
+    ids:
+      wikidata: Q2123099
+    links:
+      - https://en.wikipedia.org/wiki/Rocket_Mortgage
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2123099
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rockhurst-high-school
+    type: org
+    name: Rockhurst High School
+    names:
+      en: Rockhurst High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Kansas City, Missouri, United States
+    ids:
+      wikidata: Q7355296
+    links:
+      - https://en.wikipedia.org/wiki/Rockhurst_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7355296
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rockstar-games
+    type: org
+    name: Rockstar Games
+    names:
+      en: Rockstar Games
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 跨國電子遊戲開發商和發行商
+    ids:
+      wikidata: Q94912
+    links:
+      - https://en.wikipedia.org/wiki/Rockstar_Games
+    sources:
+      - url: https://www.wikidata.org/wiki/Q94912
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rockstar-vancouver
+    type: org
+    name: Rockstar Vancouver
+    names:
+      zh: Rockstar Vancouver
+      en: Rockstar Vancouver
+    orgType: other
+    country:
+      - CA
+    sectors:
+      - other
+    tier: 3
+    summary: 已關閉的加拿大電子遊戲開發商
+    ids:
+      wikidata: Q2020713
+    links:
+      - https://en.wikipedia.org/wiki/Rockstar_Vancouver
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2020713
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: roivant
+    type: org
+    name: Roivant
+    names:
+      zh: Roivant Sciences 製藥
+      en: Roivant
+    orgType: company
+    country:
+      - BM
+    sectors:
+      - business
+    tier: 4
+    summary: American pharmaceuticals company
+    ids:
+      wikidata: Q53308720
+    links:
+      - https://en.wikipedia.org/wiki/Roivant_Sciences
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53308720
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ronald-reagan-presidential-foundation
+    type: org
+    name: Ronald Reagan Presidential Foundation
+    names:
+      en: Ronald Reagan Presidential Foundation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國非盈利組織
+    ids:
+      wikidata: Q54813891
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q54813891
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: roosevelt-university
+    type: org
+    name: Roosevelt University
+    names:
+      zh: 羅斯福大學
+      en: Roosevelt University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private university in Chicago, Illinois, United States
+    ids:
+      wikidata: Q2124886
+    links:
+      - https://en.wikipedia.org/wiki/Roosevelt_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2124886
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rosemont-seneca-partners
+    type: org
+    name: Rosemont Seneca Partners
+    names:
+      en: Rosemont Seneca Partners
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: investment fund firm based in the United States
+    ids:
+      wikidata: Q104858857
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104858857
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ross-school-of-business
+    type: org
+    name: Ross School of Business
+    names:
+      zh: 密歇根大学罗斯商学院
+      en: Ross School of Business
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: business school of the University of Michigan
+    ids:
+      wikidata: Q3029157
+    links:
+      - https://en.wikipedia.org/wiki/Ross_School_of_Business
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3029157
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rtx
+    type: org
+    name: RTX
+    names:
+      zh: 雷神技术公司
+      en: RTX
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American multinational aerospace and defense conglomerate
+    ids:
+      wikidata: Q89368734
+    links:
+      - https://en.wikipedia.org/wiki/RTX_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q89368734
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rutgers-law-school
+    type: org
+    name: Rutgers Law School
+    names:
+      zh: 羅格斯法學院
+      en: Rutgers Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 维基媒体消歧义页
+    ids:
+      wikidata: Q16882407
+    links:
+      - https://en.wikipedia.org/wiki/Rutgers_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16882407
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rutgers-school-of-law-newark
+    type: org
+    name: Rutgers School of Law–Newark
+    names:
+      zh: 罗格斯大学纽瓦克分校法学院
+      en: Rutgers School of Law–Newark
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q7382811
+    links:
+      - https://en.wikipedia.org/wiki/Rutgers_School_of_Law_%E2%80%93_Newark
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7382811
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: rutgers-university
+    type: org
+    name: Rutgers University
+    names:
+      zh: 罗格斯大学
+      en: Rutgers University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国公立研究型大学
+    ids:
+      wikidata: Q499451
+    links:
+      - https://en.wikipedia.org/wiki/Rutgers_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q499451
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ryanair
+    type: org
+    name: Ryanair
+    names:
+      zh: 瑞安航空
+      en: Ryanair
+    orgType: company
+    country:
+      - IE
+    sectors:
+      - business
+    tier: 2
+    summary: 爱尔兰廉价航空
+    ids:
+      wikidata: Q170614
+    links:
+      - https://en.wikipedia.org/wiki/Ryanair
+    sources:
+      - url: https://www.wikidata.org/wiki/Q170614
+        publisher: Wikidata
+        accessed: 2026-10-11

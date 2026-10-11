@@ -1,0 +1,41 @@
+id: li-xi
+type: person
+name: 李希
+names:
+  zh: 李希
+  en: Li Xi
+gender: M
+born: 1956-10
+country:
+- CN
+sectors:
+- politics
+tier: 1
+status: active
+summary: 中纪委书记（2022–），政治局常委第 7 位。甘肃出身，曾任陕西延安市委书记，前广东省委书记（2017–2022）。
+positions:
+- title: 中央纪委书记
+  org: ccp-ccdi
+  from: 2022-10
+  current: true
+- title: 政治局常委
+  org: ccp-politburo-standing-committee
+  from: 2022-10
+  current: true
+- title: 广东省委书记
+  from: 2017-10
+  to: 2022-10
+- title: 辽宁省委书记
+  from: 2015-05
+  to: 2017-10
+tags:
+- pbsc-20
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+updated: '2026-10-11'

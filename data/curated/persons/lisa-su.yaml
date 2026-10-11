@@ -1,0 +1,19 @@
+id: lisa-su
+type: person
+name: Lisa Su
+names:
+  en: Lisa Su
+  zh: 苏姿丰
+gender: F
+born: '1969-11-07'
+country:
+- US
+- TW
+sectors:
+- tech
+tier: 2
+summary: AMD 董事长兼 CEO，生于台湾台南。媒体报道其与黄仁勋为远亲（表亲关系）。
+sources:
+- url: https://en.wikipedia.org/wiki/Lisa_Su
+  publisher: Wikipedia
+updated: '2026-10-11'

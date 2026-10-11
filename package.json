@@ -1,0 +1,30 @@
+{
+  "name": "nexus",
+  "private": true,
+  "version": "0.1.0",
+  "description": "NEXUS — 个人人脉/权力关系情报中心（AGENTS.md 驱动，数据即文件）",
+  "type": "module",
+  "workspaces": [
+    "packages/*",
+    "tools/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev -w @nexus/web",
+    "build": "npm run ctos -- build && npm run build -w @nexus/web",
+    "preview": "npm run preview -w @nexus/web",
+    "ctos": "tsx tools/cli/src/main.ts",
+    "validate": "tsx tools/cli/src/main.ts validate",
+    "typecheck": "tsc -p packages/core && tsc -p tools/cli && tsc -p apps/web",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.23.15",
+    "typescript": "~5.9.3",
+    "vitest": "^5.0.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

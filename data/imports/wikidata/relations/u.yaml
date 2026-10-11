@@ -1,0 +1,49 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+relations:
+  - from: ursula-burns
+    to: exxonmobil
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q465663
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ursula-burns
+    to: uber
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q465663
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ursula-burns
+    to: xerox
+    type: position
+    label: 任职
+    since: "1980"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q465663
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ursula-burns
+    to: columbia-university
+    type: alumni
+    label: master's degree
+    sources:
+      - url: https://www.wikidata.org/wiki/Q465663
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ursula-burns
+    to: new-york-university-tandon-school-of-engineering
+    type: alumni
+    label: Bachelor of Science
+    sources:
+      - url: https://www.wikidata.org/wiki/Q465663
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ursula-burns
+    to: fu-foundation-school-of-engineering-and-applied-science
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q465663
+        publisher: Wikidata
+        accessed: 2026-10-11

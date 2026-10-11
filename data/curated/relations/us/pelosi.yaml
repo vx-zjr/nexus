@@ -1,0 +1,8 @@
+sources:
+- url: https://en.wikipedia.org/wiki/Nancy_Pelosi
+  publisher: Wikipedia
+relations:
+- from: nancy-pelosi
+  to: paul-pelosi
+  type: spouse
+  since: '1963'

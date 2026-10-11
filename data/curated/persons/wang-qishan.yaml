@@ -1,0 +1,32 @@
+id: wang-qishan
+type: person
+name: 王岐山
+names:
+  zh: 王岐山
+  en: Wang Qishan
+gender: M
+born: 1948-07
+country:
+- CN
+sectors:
+- politics
+- finance
+tier: 2
+status: retired
+summary: 前国家副主席（2018–2023）、中纪委书记（2012–2017），习近平反腐运动的操盘手。姚依林之女婿。与美国前财长保尔森有长期私交。
+positions:
+- title: 国家副主席
+  from: 2018-03
+  to: 2023-03
+- title: 中纪委书记
+  org: ccp-ccdi
+  from: 2012-11
+  to: 2017-10
+- title: 国务院副总理
+  org: state-council-prc
+  from: 2008-03
+  to: 2013-03
+sources:
+- url: https://en.wikipedia.org/wiki/Wang_Qishan
+  publisher: Wikipedia
+updated: '2026-10-11'

@@ -1,0 +1,19 @@
+id: jared-kushner
+type: person
+name: Jared Kushner
+names:
+  en: Jared Kushner
+  zh: 贾里德·库什纳
+gender: M
+born: '1981-01-10'
+country:
+- US
+sectors:
+- business
+- politics
+tier: 2
+summary: 特朗普女婿，第一任期白宫高级顾问（主导《亚伯拉罕协议》）。2021 年创办 Affinity Partners（沙特 PIF 出资约 20 亿美元）；第二任期以非正式身份参与中东谈判。2017 年其家族企业曾与安邦保险洽谈纽约第五大道 666 号项目。
+sources:
+- url: https://en.wikipedia.org/wiki/Jared_Kushner
+  publisher: Wikipedia
+updated: '2026-10-11'

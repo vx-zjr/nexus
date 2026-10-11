@@ -1,0 +1,351 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: 01-ai
+    type: org
+    name: 01.AI
+    names:
+      en: 01.AI
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: artificial intelligence company
+    ids:
+      wikidata: Q130692307
+    links:
+      - https://en.wikipedia.org/wiki/01.AI
+    sources:
+      - url: https://www.wikidata.org/wiki/Q130692307
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: 100-thieves
+    type: org
+    name: 100 Thieves
+    names:
+      zh: 100 Thieves
+      en: 100 Thieves
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American lifestyle brand and gaming organization based in Los Angeles, California
+    ids:
+      wikidata: Q24908552
+    links:
+      - https://en.wikipedia.org/wiki/100_Thieves
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24908552
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: 1776-commission
+    type: org
+    name: 1776 Commission
+    names:
+      zh: 1776委員會
+      en: 1776 Commission
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: advisory committee created by Donald Trump
+    ids:
+      wikidata: Q104857499
+    links:
+      - https://en.wikipedia.org/wiki/1776_Commission
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104857499
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: 2000-democratic-national-convention
+    type: org
+    name: 2000 Democratic National Convention
+    names:
+      zh: 2000年民主黨全國大會
+      en: 2000 Democratic National Convention
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: U.S. political event held in Los Angeles, California
+    ids:
+      wikidata: Q4597313
+    links:
+      - https://en.wikipedia.org/wiki/2000_Democratic_National_Convention
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4597313
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: 2004-democratic-national-convention
+    type: org
+    name: 2004 Democratic National Convention
+    names:
+      zh: 2004年民主党全国代表大会
+      en: 2004 Democratic National Convention
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: U.S. political event held in Boston, Massachusetts
+    ids:
+      wikidata: Q359657
+    links:
+      - https://en.wikipedia.org/wiki/2004_Democratic_National_Convention
+    sources:
+      - url: https://www.wikidata.org/wiki/Q359657
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: 2008-democratic-national-convention
+    type: org
+    name: 2008 Democratic National Convention
+    names:
+      zh: 2008年民主黨全國代表大會
+      en: 2008 Democratic National Convention
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: U.S. political event held in Denver, Colorado
+    ids:
+      wikidata: Q2034682
+    links:
+      - https://en.wikipedia.org/wiki/2008_Democratic_National_Convention
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2034682
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: 2013-washington-redskins-season
+    type: org
+    name: 2013 Washington Redskins season
+    names:
+      en: 2013 Washington Redskins season
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: NFL team season
+    ids:
+      wikidata: Q2657002
+    links:
+      - https://en.wikipedia.org/wiki/2013_Washington_Redskins_season
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2657002
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: 2015-met-gala
+    type: org
+    name: 2015 MET Gala
+    names:
+      en: 2015 MET Gala
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 2015 fundraising Gala at the Metropolitan Museum of Art in New York
+    ids:
+      wikidata: Q111961433
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111961433
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: 2016-democratic-national-convention
+    type: org
+    name: 2016 Democratic National Convention
+    names:
+      zh: 2016年美国民主党全国大会
+      en: 2016 Democratic National Convention
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: presidential nominating convention
+    ids:
+      wikidata: Q16156276
+    links:
+      - https://en.wikipedia.org/wiki/2016_Democratic_National_Convention
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16156276
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: 2020-democratic-national-convention
+    type: org
+    name: 2020 Democratic National Convention
+    names:
+      zh: 2020年民主党全国代表大会
+      en: 2020 Democratic National Convention
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: U.S. political event held in Milwaukee, Wisconsin and virtually online
+    ids:
+      wikidata: Q65090703
+    links:
+      - https://en.wikipedia.org/wiki/2020_Democratic_National_Convention
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65090703
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: 2024-republican-national-convention
+    type: org
+    name: 2024 Republican National Convention
+    names:
+      zh: 2024年共和黨全國代表大會
+      en: 2024 Republican National Convention
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 2024年共和黨全國代表提名美國總統和美國副總統候選人的活動
+    ids:
+      wikidata: Q104844263
+    links:
+      - https://en.wikipedia.org/wiki/2024_Republican_National_Convention
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104844263
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: 21st-century-fox
+    type: org
+    name: 21st Century Fox
+    names:
+      zh: 二十一世纪福克斯
+      en: 21st Century Fox
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國跨國大眾傳媒公司
+    ids:
+      wikidata: Q5476713
+    links:
+      - https://en.wikipedia.org/wiki/21st_Century_Fox
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5476713
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: 220-central-park-south
+    type: org
+    name: 220 Central Park South
+    names:
+      zh: 中央公园南220号
+      en: 220 Central Park South
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: New York City skyscraper
+    ids:
+      wikidata: Q15781036
+    links:
+      - https://en.wikipedia.org/wiki/220_Central_Park_South
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15781036
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: 23xi-racing
+    type: org
+    name: 23XI Racing
+    names:
+      en: 23XI Racing
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: NASCAR team
+    ids:
+      wikidata: Q101738216
+    links:
+      - https://en.wikipedia.org/wiki/23XI_Racing
+    sources:
+      - url: https://www.wikidata.org/wiki/Q101738216
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: 26north
+    type: org
+    name: 26North
+    names:
+      en: 26North
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 26North Partners LP is a next generation altrernatives platform founded by Josh Harris
+    ids:
+      wikidata: Q117746117
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q117746117
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: 30west
+    type: org
+    name: 30West
+    names:
+      en: 30West
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American film production company
+    ids:
+      wikidata: Q117481393
+    links:
+      - https://en.wikipedia.org/wiki/30West
+    sources:
+      - url: https://www.wikidata.org/wiki/Q117481393
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: 3com
+    type: org
+    name: 3Com
+    names:
+      zh: 3Com
+      en: 3Com
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: company
+    ids:
+      wikidata: Q229329
+    links:
+      - https://en.wikipedia.org/wiki/3Com
+    sources:
+      - url: https://www.wikidata.org/wiki/Q229329
+        publisher: Wikidata
+        accessed: 2026-10-11

@@ -1,0 +1,19 @@
+id: wang-lijun
+type: person
+name: 王立军
+names:
+  zh: 王立军
+  en: Wang Lijun
+gender: M
+born: 1959-12
+country:
+- CN
+sectors:
+- security
+tier: 3
+status: detained
+summary: 前重庆市公安局局长、副市长。2012-02 出逃美国驻成都总领事馆，引爆薄熙来案；2012-09 以叛逃、受贿等罪被判 15 年。
+sources:
+- url: https://en.wikipedia.org/wiki/Wang_Lijun
+  publisher: Wikipedia
+updated: '2026-10-11'

@@ -1,0 +1,18 @@
+id: qi-xin
+type: person
+name: 齐心
+names:
+  zh: 齐心
+  en: Qi Xin
+gender: F
+born: 1926-04
+country:
+- CN
+sectors:
+- politics
+tier: 3
+summary: 习仲勋之妻、习近平之母。1939 年参加革命。
+sources:
+- url: https://en.wikipedia.org/wiki/Qi_Xin
+  publisher: Wikipedia
+updated: '2026-10-11'

@@ -1,0 +1,23 @@
+id: mike-pompeo
+type: person
+name: Mike Pompeo
+names:
+  en: Mike Pompeo
+  zh: 迈克·蓬佩奥
+gender: M
+born: '1963-12-30'
+country:
+- US
+sectors:
+- politics
+- security
+tier: 2
+summary: 前国务卿（2018–2021）、前 CIA 局长。2021-01-20（拜登就职日）被中方列入 28 人制裁名单。
+sources:
+- url: https://en.wikipedia.org/wiki/Mike_Pompeo
+  publisher: Wikipedia
+- url: https://www.aljazeera.com/news/2021/1/20/china-sanctions-pompeo-trump-officials
+  title: China sanctions Pompeo, other Trump administration officials
+  publisher: Al Jazeera
+  date: '2021-01-20'
+updated: '2026-10-11'

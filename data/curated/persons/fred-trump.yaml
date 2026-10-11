@@ -1,0 +1,19 @@
+id: fred-trump
+type: person
+name: Fred Trump
+names:
+  en: Fred Trump
+  zh: 弗雷德·特朗普
+gender: M
+born: '1905-10-11'
+died: '1999-06-25'
+country:
+- US
+sectors:
+- business
+tier: 4
+summary: 纽约地产开发商，Donald Trump 之父。
+sources:
+- url: https://en.wikipedia.org/wiki/Family_of_Donald_Trump
+  publisher: Wikipedia
+updated: '2026-10-11'

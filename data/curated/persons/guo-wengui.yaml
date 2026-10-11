@@ -1,0 +1,21 @@
+id: guo-wengui
+type: person
+name: 郭文贵
+names:
+  en: 郭文贵
+  zh: Guo Wengui
+gender: M
+born: 1967-05
+country:
+- CN
+- US
+sectors:
+- business
+- media
+tier: 3
+status: detained
+summary: 流亡美国的中国商人（Miles Guo），与班农合作反共媒体；2024-07 在纽约被裁定欺诈、敲诈勒索等罪成立。
+sources:
+- url: https://en.wikipedia.org/wiki/Guo_Wengui
+  publisher: Wikipedia
+updated: '2026-10-11'

@@ -1,0 +1,2409 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: n628ts
+    type: org
+    name: N628TS
+    names:
+      en: N628TS
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private jet of Elon Musk
+    ids:
+      wikidata: Q115748408
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115748408
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nanjing-normal-university
+    type: org
+    name: 南京师范大学
+    names:
+      zh: 南京师范大学
+      en: Nanjing Normal University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 1902年创建的一所学校
+    ids:
+      wikidata: Q1477812
+    links:
+      - https://en.wikipedia.org/wiki/Nanjing_Normal_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1477812
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nanjing-university
+    type: org
+    name: 南京大学
+    names:
+      zh: 南京大学
+      en: Nanjing University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 中国江苏省南京市的综合性大学
+    ids:
+      wikidata: Q683580
+    links:
+      - https://en.wikipedia.org/wiki/Nanjing_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q683580
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nanjing-university-of-science-and-technology
+    type: org
+    name: 南京理工大学
+    names:
+      zh: 南京理工大学
+      en: Nanjing University of Science and Technology
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: public university in Nanjing, Jiangsu, China
+    ids:
+      wikidata: Q3953805
+    links:
+      - https://en.wikipedia.org/wiki/Nanjing_University_of_Science_and_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3953805
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nankai-university
+    type: org
+    name: 南开大学
+    names:
+      zh: 南开大学
+      en: Nankai University
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 中國天津的大學
+    ids:
+      wikidata: Q254204
+    links:
+      - https://en.wikipedia.org/wiki/Nankai_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q254204
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nanthealth
+    type: org
+    name: NantHealth
+    names:
+      en: NantHealth
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: software solutions company in the healthcare industry
+    ids:
+      wikidata: Q19598104
+    links:
+      - https://en.wikipedia.org/wiki/NantHealth
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19598104
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nantomics
+    type: org
+    name: NantOmics
+    names:
+      en: NantOmics
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: biotech company in Culver City, California
+    ids:
+      wikidata: Q54958738
+    links:
+      - https://en.wikipedia.org/wiki/NantOmics
+    sources:
+      - url: https://www.wikidata.org/wiki/Q54958738
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nanyang-model-high-school
+    type: org
+    name: 南洋模范中学
+    names:
+      zh: 南洋模范中学
+      en: Nanyang Model High School
+    orgType: school
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 位于中国上海的一所中学
+    ids:
+      wikidata: Q16951
+    links:
+      - https://en.wikipedia.org/wiki/Shanghai_Nanyang_Model_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16951
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: naperville-central-high-school
+    type: org
+    name: Naperville Central High School
+    names:
+      en: Naperville Central High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American public high school
+    ids:
+      wikidata: Q6964849
+    links:
+      - https://en.wikipedia.org/wiki/Naperville_Central_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6964849
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: narya
+    type: org
+    name: Narya
+    names:
+      en: Narya
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: venture capital firm
+    ids:
+      wikidata: Q128795986
+    links:
+      - https://en.wikipedia.org/wiki/Narya_Capital
+    sources:
+      - url: https://www.wikidata.org/wiki/Q128795986
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nash-holdings
+    type: org
+    name: Nash Holdings
+    names:
+      en: Nash Holdings
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American company founded by Jeff Bezos
+    ids:
+      wikidata: Q21680767
+    links:
+      - https://en.wikipedia.org/wiki/Nash_Holdings
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21680767
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-administration-of-financial-regulation
+    type: org
+    name: 国家金融监督管理总局
+    names:
+      zh: 国家金融监督管理总局
+      en: National Administration of Financial Regulation
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国国务院的正部级直属机构
+    ids:
+      wikidata: Q117006015
+    links:
+      - https://en.wikipedia.org/wiki/National_Financial_Regulatory_Administration
+    sources:
+      - url: https://www.wikidata.org/wiki/Q117006015
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-aeronautics-and-space-administration
+    type: org
+    name: National Aeronautics and Space Administration
+    names:
+      zh: 美国国家航空航天局
+      en: National Aeronautics and Space Administration
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國負責航空事業的政府機構
+    ids:
+      wikidata: Q23548
+    links:
+      - https://en.wikipedia.org/wiki/NASA
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23548
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-assembly
+    type: org
+    name: 国民大会
+    names:
+      zh: 国民大会
+      en: National Assembly
+    orgType: other
+    country:
+      - TW
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华民国立法机关
+    ids:
+      wikidata: Q712983
+    links:
+      - https://en.wikipedia.org/wiki/National_Assembly_(Republic_of_China)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q712983
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-basketball-association
+    type: org
+    name: National Basketball Association
+    names:
+      en: National Basketball Association
+    orgType: other
+    country:
+      - CA
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 北美職業籃球聯盟
+    ids:
+      wikidata: Q155223
+    links:
+      - https://en.wikipedia.org/wiki/National_Basketball_Association
+    sources:
+      - url: https://www.wikidata.org/wiki/Q155223
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-collegiate-athletic-association
+    type: org
+    name: National Collegiate Athletic Association
+    names:
+      zh: 全美大学体育协会
+      en: National Collegiate Athletic Association
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国体育机构
+    ids:
+      wikidata: Q271805
+    links:
+      - https://en.wikipedia.org/wiki/National_Collegiate_Athletic_Association
+    sources:
+      - url: https://www.wikidata.org/wiki/Q271805
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-constituent-assembly
+    type: org
+    name: 制宪国民大会
+    names:
+      zh: 制宪国民大会
+      en: National Constituent Assembly
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 1946年中華民國制憲會議
+    ids:
+      wikidata: Q10898473
+    links:
+      - https://en.wikipedia.org/wiki/National_Constituent_Assembly_(Republic_of_China)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10898473
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-counterterrorism-center
+    type: org
+    name: National Counterterrorism Center
+    names:
+      zh: 国家反恐中心
+      en: National Counterterrorism Center
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國政府負責統籌國內及國際反恐工作的核心機構
+    ids:
+      wikidata: Q1153779
+    links:
+      - https://en.wikipedia.org/wiki/National_Counterterrorism_Center
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1153779
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-defense-university
+    type: org
+    name: National Defense University
+    names:
+      zh: 美国国防大学
+      en: National Defense University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国华盛顿特区军事大学
+    ids:
+      wikidata: Q1967074
+    links:
+      - https://en.wikipedia.org/wiki/National_Defense_University_(United_States)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1967074
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-democratic-institute-for-international-affairs
+    type: org
+    name: National Democratic Institute for International Affairs
+    names:
+      zh: 國際事務全國民主研究所
+      en: National Democratic Institute for International Affairs
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国非营利组织
+    ids:
+      wikidata: Q2701197
+    links:
+      - https://en.wikipedia.org/wiki/National_Democratic_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2701197
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-development-and-reform-commission
+    type: org
+    name: 中华人民共和国国家发展和改革委员会
+    names:
+      zh: 中华人民共和国国家发展和改革委员会
+      en: National Development and Reform Commission
+    orgType: government
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 4
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q1186190
+    links:
+      - https://en.wikipedia.org/wiki/National_Development_and_Reform_Commission
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1186190
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-economic-council
+    type: org
+    name: National Economic Council
+    names:
+      zh: 美国国家经济委员会会长
+      en: National Economic Council
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: United States federal government body chaired by the president for consideration of economic issues
+    ids:
+      wikidata: Q2232634
+    links:
+      - https://en.wikipedia.org/wiki/National_Economic_Council_(United_States)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2232634
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-emergency-concerning-the-southern-border-of-the-united-states
+    type: org
+    name: National Emergency Concerning the Southern Border of the United States
+    names:
+      zh: 2019年美国南部边境国家紧急状态
+      en: National Emergency Concerning the Southern Border of the United States
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: National Emergency declared by Donald Trump
+    ids:
+      wikidata: Q61745906
+    links:
+      - https://en.wikipedia.org/wiki/National_Emergency_Concerning_the_Southern_Border_of_the_United_States
+    sources:
+      - url: https://www.wikidata.org/wiki/Q61745906
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-entrepreneurship-network
+    type: org
+    name: National Entrepreneurship Network
+    names:
+      en: National Entrepreneurship Network
+    orgType: other
+    country:
+      - IN
+    sectors:
+      - other
+    tier: 4
+    summary: organization
+    ids:
+      wikidata: Q19604468
+    links:
+      - https://en.wikipedia.org/wiki/National_Entrepreneurship_Network
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19604468
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-ethnic-affairs-commission
+    type: org
+    name: 中华人民共和国国家民族事务委员会
+    names:
+      zh: 中华人民共和国国家民族事务委员会
+      en: National Ethnic Affairs Commission
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q907158
+    links:
+      - https://en.wikipedia.org/wiki/National_Ethnic_Affairs_Commission
+    sources:
+      - url: https://www.wikidata.org/wiki/Q907158
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-health-commission-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国国家卫生健康委员会
+    names:
+      zh: 中华人民共和国国家卫生健康委员会
+      en: National Health Commission of the People's Republic of China
+    orgType: government
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q50839200
+    links:
+      - https://en.wikipedia.org/wiki/National_Health_Commission
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50839200
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-hispanic-leadership-agenda
+    type: org
+    name: National Hispanic Leadership Agenda
+    names:
+      en: National Hispanic Leadership Agenda
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: organization
+    ids:
+      wikidata: Q6973364
+    links:
+      - https://en.wikipedia.org/wiki/National_Hispanic_Leadership_Agenda
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6973364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-initiative
+    type: org
+    name: National initiative
+    names:
+      en: National initiative
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: organization
+    ids:
+      wikidata: Q17091285
+    links:
+      - https://en.wikipedia.org/wiki/National_initiative
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17091285
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-missing-children-s-day
+    type: org
+    name: National Missing Children's Day
+    names:
+      zh: 全国失踪儿童日
+      en: National Missing Children's Day
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: May 25 Designated by US President Ronald Reagan
+    ids:
+      wikidata: Q10844836
+    links:
+      - https://en.wikipedia.org/wiki/National_Missing_Children's_Day
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10844836
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-people-s-congress
+    type: org
+    name: 全国人民代表大会
+    names:
+      zh: 全国人民代表大会
+      en: National People's Congress
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 2
+    summary: 中华人民共和国最高国家权力机关
+    ids:
+      wikidata: Q19211
+    links:
+      - https://en.wikipedia.org/wiki/National_People's_Congress
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-political-assembly
+    type: org
+    name: 国民参政会
+    names:
+      zh: 国民参政会
+      en: National Political Assembly
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 组织
+    ids:
+      wikidata: Q10926132
+    links:
+      - https://en.wikipedia.org/wiki/National_Political_Consultative_Conference
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10926132
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-popular-vote-inc
+    type: org
+    name: National Popular Vote Inc.
+    names:
+      zh: 全國普選票公司
+      en: National Popular Vote Inc.
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: nonprofit organization advocating for a national popular vote for president of the US
+    ids:
+      wikidata: Q6975003
+    links:
+      - https://en.wikipedia.org/wiki/National_Popular_Vote_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6975003
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-space-council
+    type: org
+    name: National Space Council
+    names:
+      zh: 国家航天委员会
+      en: National Space Council
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: US federal government body chaired by the Vice President for considering space issues
+    ids:
+      wikidata: Q17061856
+    links:
+      - https://en.wikipedia.org/wiki/National_Space_Council
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17061856
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-supervisory-commission
+    type: org
+    name: 中华人民共和国国家监察委员会
+    names:
+      zh: 中华人民共和国国家监察委员会
+      en: National Supervisory Commission
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国最高国家监察机关
+    ids:
+      wikidata: Q30946410
+    links:
+      - https://en.wikipedia.org/wiki/National_Supervisory_Commission
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30946410
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-university
+    type: org
+    name: National University
+    names:
+      zh: 国立大学
+      en: National University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private university in San Diego, California
+    ids:
+      wikidata: Q1568237
+    links:
+      - https://en.wikipedia.org/wiki/National_University_(San_Diego%2C_California)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1568237
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-university-of-defense-technology
+    type: org
+    name: 中国人民解放军国防科技大学
+    names:
+      zh: 中国人民解放军国防科技大学
+      en: National University of Defense Technology
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国湖南省长沙市的大学
+    ids:
+      wikidata: Q831227
+    links:
+      - https://en.wikipedia.org/wiki/National_University_of_Defense_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q831227
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: national-war-college
+    type: org
+    name: National War College
+    names:
+      zh: 国家战争学院
+      en: National War College
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: postgraduate joint senior service school at Fort McNair, Washington, D.C., United States
+    ids:
+      wikidata: Q137269
+    links:
+      - https://en.wikipedia.org/wiki/National_War_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137269
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nato
+    type: org
+    name: NATO
+    names:
+      zh: 北大西洋公约组织
+      en: NATO
+    orgType: ngo
+    country:
+      - BE
+    sectors:
+      - other
+    tier: 2
+    summary: 歐洲及北美洲國家組成的政府間軍事聯盟
+    ids:
+      wikidata: Q7184
+    links:
+      - https://en.wikipedia.org/wiki/NATO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7184
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nato-parliamentary-assembly
+    type: org
+    name: NATO Parliamentary Assembly
+    names:
+      zh: 北大西洋公約組織議會大會
+      en: NATO Parliamentary Assembly
+    orgType: other
+    country:
+      - BE
+    sectors:
+      - other
+    tier: 4
+    summary: intergovernmental agency
+    ids:
+      wikidata: Q1756350
+    links:
+      - https://en.wikipedia.org/wiki/NATO_Parliamentary_Assembly
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1756350
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: naval-justice-school
+    type: org
+    name: Naval Justice School
+    names:
+      zh: 美国海军司法学校
+      en: Naval Justice School
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: educational institution of the United States Navy
+    ids:
+      wikidata: Q4551367
+    links:
+      - https://en.wikipedia.org/wiki/Naval_Justice_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4551367
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: naval-postgraduate-school
+    type: org
+    name: Naval Postgraduate School
+    names:
+      zh: 美国海军研究生院
+      en: Naval Postgraduate School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: military university in Monterey, California, USA
+    ids:
+      wikidata: Q1515048
+    links:
+      - https://en.wikipedia.org/wiki/Naval_Postgraduate_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1515048
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: naval-war-college
+    type: org
+    name: Naval War College
+    names:
+      zh: 美国海军战争学院
+      en: Naval War College
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: staff college of the United States Navy
+    ids:
+      wikidata: Q575662
+    links:
+      - https://en.wikipedia.org/wiki/Naval_War_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q575662
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nds-group
+    type: org
+    name: NDS Group
+    names:
+      zh: NDS集团
+      en: NDS Group
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: 科技公司
+    ids:
+      wikidata: Q961065
+    links:
+      - https://en.wikipedia.org/wiki/Cisco_Videoscape
+    sources:
+      - url: https://www.wikidata.org/wiki/Q961065
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: near-dorset-march-10-1949
+    type: org
+    name: Near Dorset, March 10, 1949
+    names:
+      en: Near Dorset, March 10, 1949
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Grandma Moses (1949)
+    ids:
+      wikidata: Q125265768
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q125265768
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nebraska-legislature
+    type: org
+    name: Nebraska Legislature
+    names:
+      zh: 內布拉斯加州議會
+      en: Nebraska Legislature
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: unicameral legislative body in Nebraska
+    ids:
+      wikidata: Q996610
+    links:
+      - https://en.wikipedia.org/wiki/Nebraska_Legislature
+    sources:
+      - url: https://www.wikidata.org/wiki/Q996610
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: needham-high-school
+    type: org
+    name: Needham High School
+    names:
+      zh: 尼达姆高中
+      en: Needham High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Massachusetts, United States
+    ids:
+      wikidata: Q14715755
+    links:
+      - https://en.wikipedia.org/wiki/Needham_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14715755
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: netease
+    type: org
+    name: 网易
+    names:
+      zh: 网易
+      en: NetEase
+    orgType: company
+    country:
+      - CN
+      - KY
+    sectors:
+      - business
+    tier: 3
+    summary: 中國門戶網站和網絡遊戲公司
+    ids:
+      wikidata: Q196259
+    links:
+      - https://en.wikipedia.org/wiki/NetEase
+    sources:
+      - url: https://www.wikidata.org/wiki/Q196259
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: netflix-inc
+    type: org
+    name: Netflix, Inc.
+    names:
+      zh: 網飛
+      en: Netflix, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American media company
+    ids:
+      wikidata: Q116452644
+    links:
+      - https://en.wikipedia.org/wiki/Netflix%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116452644
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: netfreedom-task-force
+    type: org
+    name: NetFreedom Task Force
+    names:
+      en: NetFreedom Task Force
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: U.S Department of State Initiative
+    ids:
+      wikidata: Q5570433
+    links:
+      - https://en.wikipedia.org/wiki/NetFreedom_Task_Force
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5570433
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: netscape
+    type: org
+    name: Netscape
+    names:
+      zh: 网景
+      en: Netscape
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國電腦服務公司
+    ids:
+      wikidata: Q210057
+    links:
+      - https://en.wikipedia.org/wiki/Netscape
+    sources:
+      - url: https://www.wikidata.org/wiki/Q210057
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: neue-galerie
+    type: org
+    name: Neue Galerie
+    names:
+      zh: 新藝廊
+      en: Neue Galerie
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: art museum in New York City, USA
+    ids:
+      wikidata: Q59468
+    links:
+      - https://en.wikipedia.org/wiki/Neue_Galerie_New_York
+    sources:
+      - url: https://www.wikidata.org/wiki/Q59468
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: neuralink
+    type: org
+    name: Neuralink
+    names:
+      zh: Neuralink
+      en: Neuralink
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國科技公司
+    ids:
+      wikidata: Q29043471
+    links:
+      - https://en.wikipedia.org/wiki/Neuralink
+    sources:
+      - url: https://www.wikidata.org/wiki/Q29043471
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nevada-senate
+    type: org
+    name: Nevada Senate
+    names:
+      zh: 内华达州参议院
+      en: Nevada Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the Nevada Legislature
+    ids:
+      wikidata: Q1494534
+    links:
+      - https://en.wikipedia.org/wiki/Nevada_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494534
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nevada-state-assembly
+    type: org
+    name: Nevada State Assembly
+    names:
+      zh: 内华达州众议院
+      en: Nevada State Assembly
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of U.S. state legislature
+    ids:
+      wikidata: Q1494527
+    links:
+      - https://en.wikipedia.org/wiki/Nevada_State_Assembly
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494527
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-college
+    type: org
+    name: New College
+    names:
+      zh: 牛津大学新学院
+      en: New College
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 3
+    summary: constituent college of the University of Oxford in the United Kingdom
+    ids:
+      wikidata: Q1376987
+    links:
+      - https://en.wikipedia.org/wiki/New_College%2C_Oxford
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1376987
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-democrats
+    type: org
+    name: New Democrats
+    names:
+      zh: 新民主党人
+      en: New Democrats
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: ideological faction within the Democratic Party
+    ids:
+      wikidata: Q3345101
+    links:
+      - https://en.wikipedia.org/wiki/New_Democrats_(United_States)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3345101
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-england-patriots
+    type: org
+    name: New England Patriots
+    names:
+      zh: 新英格兰爱国者
+      en: New England Patriots
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國馬薩諸塞州福克斯堡的國家橄欖球聯盟球隊
+    ids:
+      wikidata: Q193390
+    links:
+      - https://en.wikipedia.org/wiki/New_England_Patriots
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193390
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-england-revolution
+    type: org
+    name: New England Revolution
+    names:
+      zh: 新英格兰革命
+      en: New England Revolution
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国马萨诸萨州足球俱乐部
+    ids:
+      wikidata: Q309095
+    links:
+      - https://en.wikipedia.org/wiki/New_England_Revolution
+    sources:
+      - url: https://www.wikidata.org/wiki/Q309095
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-georgia-project
+    type: org
+    name: New Georgia Project
+    names:
+      en: New Georgia Project
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: voter registration campaign in Georgia, USA
+    ids:
+      wikidata: Q104450610
+    links:
+      - https://en.wikipedia.org/wiki/New_Georgia_Project
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104450610
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-hampshire-department-of-justice
+    type: org
+    name: New Hampshire Department of Justice
+    names:
+      en: New Hampshire Department of Justice
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government agency in the U.S. state of New Hampshire
+    ids:
+      wikidata: Q7008145
+    links:
+      - https://en.wikipedia.org/wiki/New_Hampshire_Department_of_Justice
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7008145
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-hampshire-house-of-representatives
+    type: org
+    name: New Hampshire House of Representatives
+    names:
+      zh: 新罕布什尔州众议院
+      en: New Hampshire House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of U.S. state legislature
+    ids:
+      wikidata: Q1525939
+    links:
+      - https://en.wikipedia.org/wiki/New_Hampshire_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1525939
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-hampshire-senate
+    type: org
+    name: New Hampshire Senate
+    names:
+      zh: 新罕布什尔州参议院
+      en: New Hampshire Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper state chamber of a state of the United-States of America
+    ids:
+      wikidata: Q1525949
+    links:
+      - https://en.wikipedia.org/wiki/New_Hampshire_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1525949
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-horizons-in-mathematics-prize
+    type: org
+    name: New Horizons in Mathematics Prize
+    names:
+      zh: 数学新视野奖
+      en: New Horizons in Mathematics Prize
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: Mathematics award for early-career researchers
+    ids:
+      wikidata: Q45310290
+    links:
+      - https://en.wikipedia.org/wiki/New_Horizons_in_Mathematics_Prize
+    sources:
+      - url: https://www.wikidata.org/wiki/Q45310290
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-jersey-devils
+    type: org
+    name: New Jersey Devils
+    names:
+      zh: 新泽西魔鬼
+      en: New Jersey Devils
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: National Hockey League team in Newark, New Jersey
+    ids:
+      wikidata: Q192081
+    links:
+      - https://en.wikipedia.org/wiki/New_Jersey_Devils
+    sources:
+      - url: https://www.wikidata.org/wiki/Q192081
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-jersey-general-assembly
+    type: org
+    name: New Jersey General Assembly
+    names:
+      zh: 新泽西州众议院
+      en: New Jersey General Assembly
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 新泽西州议会下院
+    ids:
+      wikidata: Q1455914
+    links:
+      - https://en.wikipedia.org/wiki/New_Jersey_General_Assembly
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1455914
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-jersey-senate
+    type: org
+    name: New Jersey Senate
+    names:
+      zh: 新泽西州参议院
+      en: New Jersey Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: senate of the state of New Jersey
+    ids:
+      wikidata: Q1480298
+    links:
+      - https://en.wikipedia.org/wiki/New_Jersey_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1480298
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-mexico-house-of-representatives
+    type: org
+    name: New Mexico House of Representatives
+    names:
+      zh: 新墨西哥州众议院
+      en: New Mexico House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of New Mexico's state legislature
+    ids:
+      wikidata: Q1746909
+    links:
+      - https://en.wikipedia.org/wiki/New_Mexico_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1746909
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-mexico-state-university
+    type: org
+    name: New Mexico State University
+    names:
+      zh: 新墨西哥州立大学
+      en: New Mexico State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国新墨西哥州公立大学
+    ids:
+      wikidata: Q1353248
+    links:
+      - https://en.wikipedia.org/wiki/New_Mexico_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1353248
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-york-city-council
+    type: org
+    name: New York City Council
+    names:
+      zh: 纽约市议会
+      en: New York City Council
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: city council; lawmaking body of the City of New York, USA
+    ids:
+      wikidata: Q645195
+    links:
+      - https://en.wikipedia.org/wiki/New_York_City_Council
+    sources:
+      - url: https://www.wikidata.org/wiki/Q645195
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-york-jets
+    type: org
+    name: New York Jets
+    names:
+      zh: 纽约喷气机
+      en: New York Jets
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國國家橄欖球聯盟球隊
+    ids:
+      wikidata: Q219602
+    links:
+      - https://en.wikipedia.org/wiki/New_York_Jets
+    sources:
+      - url: https://www.wikidata.org/wiki/Q219602
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-york-public-library
+    type: org
+    name: New York Public Library
+    names:
+      zh: 纽约公共图书馆
+      en: New York Public Library
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: public library system in New York City
+    ids:
+      wikidata: Q219555
+    links:
+      - https://en.wikipedia.org/wiki/New_York_Public_Library
+    sources:
+      - url: https://www.wikidata.org/wiki/Q219555
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-york-state-assembly
+    type: org
+    name: New York State Assembly
+    names:
+      zh: 纽约州众议院
+      en: New York State Assembly
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: lower house of the New York State Legislature
+    ids:
+      wikidata: Q1470702
+    links:
+      - https://en.wikipedia.org/wiki/New_York_State_Assembly
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1470702
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-york-state-senate
+    type: org
+    name: New York State Senate
+    names:
+      zh: 纽约州参议院
+      en: New York State Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: Upper state chamber of New York State
+    ids:
+      wikidata: Q1722258
+    links:
+      - https://en.wikipedia.org/wiki/New_York_State_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1722258
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-york-university
+    type: org
+    name: New York University
+    names:
+      zh: 纽约大学
+      en: New York University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 2
+    summary: 美国纽约州纽约市私立研究型大学
+    ids:
+      wikidata: Q49210
+    links:
+      - https://en.wikipedia.org/wiki/New_York_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49210
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-york-university-school-of-law
+    type: org
+    name: New York University School of Law
+    names:
+      zh: 纽约大学法学院
+      en: New York University School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國紐約大學下屬的法學院
+    ids:
+      wikidata: Q846173
+    links:
+      - https://en.wikipedia.org/wiki/New_York_University_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q846173
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: new-york-university-tandon-school-of-engineering
+    type: org
+    name: New York University Tandon School of Engineering
+    names:
+      zh: 纽约大学坦登工程学院
+      en: New York University Tandon School of Engineering
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 纽约大学的一个学院
+    ids:
+      wikidata: Q75478
+    links:
+      - https://en.wikipedia.org/wiki/New_York_University_Tandon_School_of_Engineering
+    sources:
+      - url: https://www.wikidata.org/wiki/Q75478
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: news-channel-nebraska
+    type: org
+    name: News Channel Nebraska
+    names:
+      en: News Channel Nebraska
+    orgType: media
+    country:
+      - US
+    sectors:
+      - media
+    tier: 4
+    summary: Network of television and radio stations in Nebraska, United States
+    ids:
+      wikidata: Q39055862
+    links:
+      - https://en.wikipedia.org/wiki/News_Channel_Nebraska
+    sources:
+      - url: https://www.wikidata.org/wiki/Q39055862
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: news-corp
+    type: org
+    name: News Corporation
+    names:
+      zh: 新闻集团
+      en: News Corporation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: multinational media corporation (1980–2013)
+    ids:
+      wikidata: Q185278
+    links:
+      - https://en.wikipedia.org/wiki/News_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q185278
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: news-corp
+    type: org
+    name: News Corp
+    names:
+      zh: 新闻集团
+      en: News Corp
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 總部位於美國紐約的跨國媒體集團
+    ids:
+      wikidata: Q14289857
+    links:
+      - https://en.wikipedia.org/wiki/News_Corp
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14289857
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: newsworld-international
+    type: org
+    name: Newsworld International
+    names:
+      zh: 國際新聞世界
+      en: Newsworld International
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American news television network
+    ids:
+      wikidata: Q3339156
+    links:
+      - https://en.wikipedia.org/wiki/Newsworld_International
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3339156
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: newton-north-high-school
+    type: org
+    name: Newton North High School
+    names:
+      zh: 北牛頓高中
+      en: Newton North High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school at Newton, Massachusetts, USA
+    ids:
+      wikidata: Q7020331
+    links:
+      - https://en.wikipedia.org/wiki/Newton_North_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7020331
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: next
+    type: org
+    name: NeXT
+    names:
+      zh: NeXT
+      en: NeXT
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国计算机公司
+    ids:
+      wikidata: Q308993
+    links:
+      - https://en.wikipedia.org/wiki/NeXT
+    sources:
+      - url: https://www.wikidata.org/wiki/Q308993
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: next-digital
+    type: org
+    name: 壹传媒
+    names:
+      zh: 壹传媒
+      en: Next Digital
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 香港傳媒公司
+    ids:
+      wikidata: Q7021083
+    links:
+      - https://en.wikipedia.org/wiki/Next_Digital
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7021083
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: next-tv
+    type: org
+    name: 壹电视
+    names:
+      zh: 壹电视
+      en: Next TV
+    orgType: other
+    country:
+      - TW
+    sectors:
+      - other
+    tier: 4
+    summary: 台灣電視台
+    ids:
+      wikidata: Q10931647
+    links:
+      - https://en.wikipedia.org/wiki/Next_TV
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10931647
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nike
+    type: org
+    name: Nike
+    names:
+      zh: 耐克
+      en: Nike
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國體育用品公司
+    ids:
+      wikidata: Q483915
+    links:
+      - https://en.wikipedia.org/wiki/Nike%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q483915
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ning
+    type: org
+    name: Ning
+    names:
+      zh: Ning
+      en: Ning
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: online platform for people and organizations to create custom social networks
+    ids:
+      wikidata: Q253889
+    links:
+      - https://en.wikipedia.org/wiki/Ning_(website)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q253889
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nio-inc
+    type: org
+    name: 蔚来汽车
+    names:
+      zh: 蔚来汽车
+      en: Nio Inc.
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中国電動汽车公司
+    ids:
+      wikidata: Q29921278
+    links:
+      - https://en.wikipedia.org/wiki/Nio_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q29921278
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: no-1-high-school-affiliated-to-east-china-normal-university
+    type: org
+    name: 华东师范大学第一附属中学
+    names:
+      zh: 华东师范大学第一附属中学
+      en: No.1 High School Affiliated to East China Normal University
+    orgType: school
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: public school in Shanghai, People's Republic of China
+    ids:
+      wikidata: Q7042811
+    links:
+      - https://en.wikipedia.org/wiki/No.1_High_School_Affiliated_to_East_China_Normal_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7042811
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: no-5-1948
+    type: org
+    name: No. 5, 1948
+    names:
+      zh: No.5,1948
+      en: No. 5, 1948
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: painting by Jackson Pollock
+    ids:
+      wikidata: Q1769529
+    links:
+      - https://en.wikipedia.org/wiki/No._5%2C_1948
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1769529
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nobel-peace-prize-medal-of-maria-corina-machado
+    type: org
+    name: Nobel Peace Prize medal of María Corina Machado
+    names:
+      en: Nobel Peace Prize medal of María Corina Machado
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: 2025 Nobel Peace Prize Medal awarded to Maria Corina Machado
+    ids:
+      wikidata: Q137796331
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137796331
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: non-governmental-organization
+    type: org
+    name: non-governmental organization
+    names:
+      zh: 非政府组织
+      en: non-governmental organization
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 獨立於任何政府，通常為幫助所需幫助對象而建立的組織
+    ids:
+      wikidata: Q79913
+    links:
+      - https://en.wikipedia.org/wiki/Non-governmental_organization
+    sources:
+      - url: https://www.wikidata.org/wiki/Q79913
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nongfu-spring
+    type: org
+    name: Nongfu Spring
+    names:
+      zh: 农夫山泉股份有限公司
+      en: Nongfu Spring
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: 中国浙江省的饮用水及饮料生产企业
+    ids:
+      wikidata: Q10895089
+    links:
+      - https://en.wikipedia.org/wiki/Nongfu_Spring
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10895089
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: north-carolina-agricultural-and-technical-state-university
+    type: org
+    name: North Carolina Agricultural and Technical State University
+    names:
+      zh: 北卡农业和技术大学
+      en: North Carolina Agricultural and Technical State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university
+    ids:
+      wikidata: Q1476484
+    links:
+      - https://en.wikipedia.org/wiki/North_Carolina_A%26T_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1476484
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: north-carolina-department-of-justice
+    type: org
+    name: North Carolina Department of Justice
+    names:
+      en: North Carolina Department of Justice
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: department charged with preventing crime and supporting law enforcement in North Carolina
+    ids:
+      wikidata: Q136460101
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136460101
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: north-carolina-house-of-representatives
+    type: org
+    name: North Carolina House of Representatives
+    names:
+      zh: 北卡罗来纳州众议院
+      en: North Carolina House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: house of the North Carolina General Assembly
+    ids:
+      wikidata: Q521389
+    links:
+      - https://en.wikipedia.org/wiki/North_Carolina_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q521389
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: north-carolina-senate
+    type: org
+    name: North Carolina Senate
+    names:
+      zh: 北卡罗来纳州参议院
+      en: North Carolina Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the bicameral North Carolina General Assembly
+    ids:
+      wikidata: Q2269863
+    links:
+      - https://en.wikipedia.org/wiki/North_Carolina_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2269863
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: north-carolina-state-university
+    type: org
+    name: North Carolina State University
+    names:
+      zh: 北卡罗来纳州立大学
+      en: North Carolina State University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 位於美國北卡羅萊納州羅利的公立研究型大學
+    ids:
+      wikidata: Q1132346
+    links:
+      - https://en.wikipedia.org/wiki/North_Carolina_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1132346
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: north-china-university-of-water-resources-and-electric-power
+    type: org
+    name: 华北水利水电大学
+    names:
+      zh: 华北水利水电大学
+      en: North China University of Water Resources and Electric Power
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: university in Zhengzhou, Henan province, China
+    ids:
+      wikidata: Q10905490
+    links:
+      - https://en.wikipedia.org/wiki/North_China_University_of_Water_Resources_and_Electric_Power
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10905490
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: north-dakota-senate
+    type: org
+    name: North Dakota Senate
+    names:
+      zh: 北达科他州参议院
+      en: North Dakota Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the North Dakota Legislative Assembly
+    ids:
+      wikidata: Q2269857
+    links:
+      - https://en.wikipedia.org/wiki/North_Dakota_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2269857
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: north-dakota-state-university
+    type: org
+    name: North Dakota State University
+    names:
+      zh: 北達科塔州立大學
+      en: North Dakota State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: public university in Fargo, North Dakota
+    ids:
+      wikidata: Q2000624
+    links:
+      - https://en.wikipedia.org/wiki/North_Dakota_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2000624
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: northeast-normal-university
+    type: org
+    name: 东北师范大学
+    names:
+      zh: 东北师范大学
+      en: Northeast Normal University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国公立大学
+    ids:
+      wikidata: Q4393424
+    links:
+      - https://en.wikipedia.org/wiki/Northeast_Normal_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4393424
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: northeastern-university
+    type: org
+    name: 东北大学
+    names:
+      zh: 东北大学
+      en: Northeastern University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国辽宁省沈阳市的大学
+    ids:
+      wikidata: Q1363559
+    links:
+      - https://en.wikipedia.org/wiki/Northeastern_University_(China)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1363559
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: northeastern-university-school-of-law
+    type: org
+    name: Northeastern University School of Law
+    names:
+      zh: 东北大学法学院
+      en: Northeastern University School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school in Boston, Massachusetts, United States
+    ids:
+      wikidata: Q7058068
+    links:
+      - https://en.wikipedia.org/wiki/Northeastern_University_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7058068
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: northern-illinois-university
+    type: org
+    name: Northern Illinois University
+    names:
+      zh: 北伊利诺伊大学
+      en: Northern Illinois University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public university in DeKalb, Illinois, United States
+    ids:
+      wikidata: Q1191344
+    links:
+      - https://en.wikipedia.org/wiki/Northern_Illinois_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1191344
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: northwest-normal-university
+    type: org
+    name: 西北师范大学
+    names:
+      zh: 西北师范大学
+      en: Northwest Normal University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国甘肃的一所大学
+    ids:
+      wikidata: Q2120270
+    links:
+      - https://en.wikipedia.org/wiki/Northwest_Normal_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2120270
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: northwest-stadium
+    type: org
+    name: Northwest Stadium
+    names:
+      zh: 联邦快递体育场
+      en: Northwest Stadium
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: stadium located in Maryland, U.S.
+    ids:
+      wikidata: Q583085
+    links:
+      - https://en.wikipedia.org/wiki/Northwest_Stadium
+    sources:
+      - url: https://www.wikidata.org/wiki/Q583085
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: northwestern-polytechnical-university
+    type: org
+    name: 西北工业大学
+    names:
+      zh: 西北工业大学
+      en: Northwestern Polytechnical University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国陕西的一所大学
+    ids:
+      wikidata: Q832550
+    links:
+      - https://en.wikipedia.org/wiki/Northwestern_Polytechnical_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q832550
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: northwestern-university
+    type: org
+    name: Northwestern University
+    names:
+      zh: 西北大学
+      en: Northwestern University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美國伊利諾伊州私立研究型大學
+    ids:
+      wikidata: Q309350
+    links:
+      - https://en.wikipedia.org/wiki/Northwestern_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q309350
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: northwestern-university-pritzker-school-of-law
+    type: org
+    name: Northwestern University Pritzker School of Law
+    names:
+      zh: 西北大学普利兹克法学院
+      en: Northwestern University Pritzker School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国芝加哥的法学院
+    ids:
+      wikidata: Q7060409
+    links:
+      - https://en.wikipedia.org/wiki/Pritzker_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7060409
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: northwestern-university-school-of-communication
+    type: org
+    name: Northwestern University School of Communication
+    names:
+      zh: 西北大學傳播學院
+      en: Northwestern University School of Communication
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: communication arts and sciences school of Northwestern University
+    ids:
+      wikidata: Q7060402
+    links:
+      - https://en.wikipedia.org/wiki/Northwestern_University_School_of_Communication
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7060402
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: notre-dame-law-school
+    type: org
+    name: Notre Dame Law School
+    names:
+      zh: 聖母大學法學院
+      en: Notre Dame Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American law school
+    ids:
+      wikidata: Q7063457
+    links:
+      - https://en.wikipedia.org/wiki/Notre_Dame_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7063457
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: npc-standing-committee
+    type: org
+    name: 全国人民代表大会常务委员会
+    names:
+      zh: 全国人民代表大会常务委员会
+      en: Standing Committee of the National People's Congress
+    orgType: legislature
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中華人民共和國全國人民代表大會的常設機構
+    ids:
+      wikidata: Q19214
+    links:
+      - https://en.wikipedia.org/wiki/Standing_Committee_of_the_National_People's_Congress
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19214
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nscale
+    type: org
+    name: Nscale
+    names:
+      en: Nscale
+    orgType: company
+    country:
+      - GB
+    sectors:
+      - business
+    tier: 4
+    summary: British AI infrastructure provider
+    ids:
+      wikidata: Q132721548
+    links:
+      - https://en.wikipedia.org/wiki/Nscale
+    sources:
+      - url: https://www.wikidata.org/wiki/Q132721548
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nucor
+    type: org
+    name: Nucor
+    names:
+      zh: 纽克钢铁
+      en: Nucor
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: steel production company
+    ids:
+      wikidata: Q1645081
+    links:
+      - https://en.wikipedia.org/wiki/Nucor
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1645081
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nupedia
+    type: org
+    name: Nupedia
+    names:
+      zh: Nupedia
+      en: Nupedia
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 计划
+    ids:
+      wikidata: Q17458
+    links:
+      - https://en.wikipedia.org/wiki/Nupedia
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17458
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: nvidia
+    type: org
+    name: Nvidia
+    names:
+      zh: 英伟达
+      en: Nvidia
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美国电子公司
+    ids:
+      wikidata: Q182477
+    links:
+      - https://en.wikipedia.org/wiki/Nvidia
+    sources:
+      - url: https://www.wikidata.org/wiki/Q182477
+        publisher: Wikidata
+        accessed: 2026-10-11

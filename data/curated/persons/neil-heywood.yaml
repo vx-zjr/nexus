@@ -1,0 +1,19 @@
+id: neil-heywood
+type: person
+name: 尼尔·伍德
+names:
+  zh: 尼尔·伍德
+  en: Neil Heywood
+gender: M
+born: '1970'
+died: '2011-11-14'
+country:
+- GB
+sectors:
+- business
+tier: 4
+summary: 英国商人，与薄家关系密切，2011-11 在重庆被谷开来毒杀。
+sources:
+- url: https://en.wikipedia.org/wiki/Neil_Heywood
+  publisher: Wikipedia
+updated: '2026-10-11'

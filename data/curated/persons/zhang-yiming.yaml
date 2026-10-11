@@ -1,0 +1,18 @@
+id: zhang-yiming
+type: person
+name: 张一鸣
+names:
+  en: 张一鸣
+  zh: Zhang Yiming
+gender: M
+born: '1983-04-01'
+country:
+- CN
+sectors:
+- tech
+tier: 1
+summary: 字节跳动创始人，2021 年卸任 CEO，仍为控股股东；常居新加坡。
+sources:
+- url: https://en.wikipedia.org/wiki/Zhang_Yiming
+  publisher: Wikipedia
+updated: '2026-10-11'

@@ -1,0 +1,19 @@
+id: wang-yang
+type: person
+name: 汪洋
+names:
+  zh: 汪洋
+  en: Wang Yang
+gender: M
+born: 1955-03
+country:
+- CN
+sectors:
+- politics
+tier: 2
+status: retired
+summary: 前全国政协主席（2018–2023）、政治局常委，团派。
+sources:
+- url: https://en.wikipedia.org/wiki/Wang_Yang
+  publisher: Wikipedia
+updated: '2026-10-11'

@@ -1,0 +1,37 @@
+id: yuan-jiajun
+type: person
+name: 袁家军
+names:
+  zh: 袁家军
+  en: Yuan Jiajun
+gender: M
+born: 1962-09
+country:
+- CN
+sectors:
+- politics
+tier: 2
+status: active
+summary: 重庆市委书记（2022–）。航天系出身（神舟飞船总指挥），前浙江省委书记。
+positions:
+- title: 重庆市委书记
+  from: 2022-12
+  current: true
+- title: 政治局委员
+  org: ccp-politburo
+  from: 2022-10
+  current: true
+- title: 浙江省委书记
+  from: 2020-08
+  to: 2022-12
+tags:
+- aerospace-clique
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+updated: '2026-10-11'

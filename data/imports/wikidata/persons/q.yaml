@@ -1,0 +1,904 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: qi-xin
+    type: person
+    name: 齐心
+    names:
+      zh: 齐心
+      en: Qi Xin
+    gender: F
+    born: 1926-11-03
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 4
+    summary: 中共革命元老习仲勋的第二任妻子和中共中央总书记习近平的母亲
+    ids:
+      wikidata: Q17499761
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BD%90%E5%BF%83
+      - https://en.wikipedia.org/wiki/Qi_Xin
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17499761
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: qi-xuchun
+    type: person
+    name: 齐续春
+    names:
+      zh: 齐续春
+      en: Qi Xuchun
+    gender: M
+    born: "1946"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: Chinese politician
+    ids:
+      wikidata: Q9026646
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BD%90%E7%BB%AD%E6%98%A5
+      - https://en.wikipedia.org/wiki/Qi_Xuchun
+    tags:
+      - cn-leaders
+      - party:Revolutionary Committee of the Chinese Kuomintang
+    attrs:
+      party: Revolutionary Committee of the Chinese Kuomintang
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9026646
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国人民政治协商会议全国委员会副主席
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+        from: 2013-03-11
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国人民代表大会常务委员会委员
+        org: npc-standing-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+  - id: qi-yu
+    type: person
+    name: 齐玉
+    names:
+      zh: 齐玉
+      en: Qi Yu
+    gender: M
+    born: "1961"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国外交部党委书记
+    ids:
+      wikidata: Q9026628
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BD%90%E7%8E%89
+      - https://en.wikipedia.org/wiki/Qi_Yu
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9026628
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: qian-haihao
+    type: person
+    name: 钱海皓
+    names:
+      zh: 钱海皓
+    gender: M
+    born: "1944"
+    died: 2023-12-31
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中国军人
+    ids:
+      wikidata: Q8317417
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%92%B1%E6%B5%B7%E7%9A%93
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317417
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+        from: 2008-03-01
+        to: 2013-03-01
+  - id: qian-min
+    type: person
+    name: 钱敏
+    names:
+      zh: 钱敏
+      en: Qian Min
+    gender: M
+    born: 1915-08-09
+    died: 2016-01-06
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: 政治人物（1915—2016）
+    ids:
+      wikidata: Q9360944
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%92%B1%E6%95%8F
+      - https://en.wikipedia.org/wiki/Qian_Min
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9360944
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国人民代表大会常务委员会委员
+        org: npc-standing-committee
+        from: 1983-06-01
+        to: 1993-03-01
+      - title: 重庆市市长
+        org: people-s-government-of-chongqing-municipality
+        from: 1978-05-01
+        to: 1978-08-01
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+        from: 1983-06-01
+        to: 1993-03-01
+  - id: qian-qichen
+    type: person
+    name: 钱其琛
+    names:
+      zh: 钱其琛
+      en: Qian Qichen
+    gender: M
+    born: 1928-01-05
+    died: 2017-05-09
+    country:
+      - CN
+    sectors:
+      - politics
+      - diplomacy
+    tier: 2
+    summary: 中国政治人物
+    ids:
+      wikidata: Q469516
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%92%B1%E5%85%B6%E7%90%9B
+      - https://en.wikipedia.org/wiki/Qian_Qichen
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 28
+    sources:
+      - url: https://www.wikidata.org/wiki/Q469516
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 大使
+        org: diplomatic-corps
+      - title: 国务委员
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+      - title: 中华人民共和国外交部部长
+        org: prc-mfa
+        from: 1988-04-01
+        to: 1998-03-01
+      - title: 中华人民共和国国务院副总理
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+      - title: 中国驻几内亚大使
+        from: 1974-08-01
+        to: 1976-11-01
+  - id: qian-zhengying
+    type: person
+    name: 钱正英
+    names:
+      zh: 钱正英
+      en: Qian Zhengying
+    gender: F
+    born: 1923-07-04
+    died: 2022-10-22
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中国土木工程师、政治人物（1923－2022）
+    ids:
+      wikidata: Q8248863
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%92%B1%E6%AD%A3%E8%8B%B1
+      - https://en.wikipedia.org/wiki/Qian_Zhengying
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8248863
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国人民政治协商会议全国委员会副主席
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+        from: 1988-04-01
+        to: 2003-03-01
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+        from: 1954-09-01
+        to: "1975"
+      - title: 中国红十字会会长
+        org: red-cross-society-of-china
+        from: "1994"
+        to: "1999"
+  - id: qiang-wei
+    type: person
+    name: 强卫
+    names:
+      zh: 强卫
+      en: Qiang Wei
+    gender: M
+    born: 1953-03-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q7267632
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BC%BA%E5%8D%AB
+      - https://en.wikipedia.org/wiki/Qiang_Wei
+    tags:
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7267632
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中国共产党青海省委员会书记
+        org: qinghai-provincial-committee-of-the-chinese-communist-party
+        from: 2007-03-26
+        to: 2013-03-19
+      - title: 中国共产党江西省委员会书记
+        org: cpc-jiangxi-province-committee
+        from: 2013-04-23
+        to: 2017-01-18
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国人民代表大会常务委员会委员
+        org: npc-standing-committee
+  - id: qiangba-puncog
+    type: person
+    name: 向巴平措
+    names:
+      zh: 向巴平措
+      en: Qiangba Puncog
+    gender: M
+    born: 1947-05-14
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: Chinese politician
+    ids:
+      wikidata: Q1335590
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%91%E5%B7%B4%E5%B9%B3%E6%8E%AA
+      - https://en.wikipedia.org/wiki/Qiangba_Puncog
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1335590
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 西藏自治区人民政府主席
+        from: 2003-04-01
+        to: "2010"
+      - title: 全国人民代表大会常务委员会副委员长
+        org: npc-standing-committee
+        from: 2013-03-14
+        to: 2018-03-17
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: qiao-qingchen
+    type: person
+    name: 乔清晨
+    names:
+      zh: 乔清晨
+      en: Qiao Qingchen
+    gender: M
+    born: 1939-10-01
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 2
+    summary: Chinese air force general
+    ids:
+      wikidata: Q6148061
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B8%85%E6%99%A8
+      - https://en.wikipedia.org/wiki/Qiao_Qingchen
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6148061
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: qiao-shi
+    type: person
+    name: 乔石
+    names:
+      zh: 乔石
+      en: Qiao Shi
+    gender: M
+    born: 1924-12-24
+    died: 2015-06-14
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 1
+    summary: 前中国共产党中央政治局常务委员会委员
+    ids:
+      wikidata: Q1326536
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%94%E7%9F%B3
+      - https://en.wikipedia.org/wiki/Qiao_Shi
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1326536
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国人民代表大会常务委员会委员长
+        org: npc-standing-committee
+        from: 1993-03-27
+        to: 1998-03-16
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中国共产党中央委员会政法委员会书记
+        org: ccp-central-political-legal-commission
+        from: "1985"
+        to: "1992"
+      - title: 中国共产党中央纪律检查委员会书记
+        org: ccp-ccdi
+        from: 1987-11-01
+        to: 1992-10-01
+      - title: 全国人民代表大会常务委员会委员
+        org: npc-standing-committee
+      - title: 中国共产党中央政治局常务委员会委员
+        org: ccp-politburo-standing-committee
+        from: 1987-11-02
+        to: 1997-09-18
+  - id: qin-gang
+    type: person
+    name: 秦刚
+    names:
+      zh: 秦刚
+      en: Qin Gang
+    gender: M
+    born: 1966-03-19
+    country:
+      - CN
+    sectors:
+      - politics
+      - diplomacy
+    tier: 2
+    summary: 中华人民共和国国务委员、第12任中华人民共和国外交部部长
+    ids:
+      wikidata: Q7216297
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%A7%A6%E5%88%9A
+      - https://en.wikipedia.org/wiki/Qin_Gang
+    tags:
+      - cn-leaders
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 31
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7216297
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 国务委员
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 2023-03-12
+        to: 2023-10-24
+      - title: 中华人民共和国外交部部长
+        org: prc-mfa
+        from: 2022-12-30
+        to: 2023-07-25
+      - title: 中華人民共和國外交部發言人
+        org: prc-mfa
+      - title: 中华人民共和国驻美国大使
+        org: embassy-of-the-people-s-republic-of-china-washington-d-c
+        from: 2021-07-01
+        to: 2022-12-30
+      - title: 中华人民共和国外交部副部长
+        from: 2018-09-01
+        to: 2021-07-26
+  - id: qin-shengxiang
+    type: person
+    name: 秦生祥
+    names:
+      zh: 秦生祥
+      en: Qin Shengxiang
+    gender: M
+    born: "1957"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 2
+    summary: 中国人民解放军海军原政治委员
+    ids:
+      wikidata: Q16906418
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%A7%A6%E7%94%9F%E7%A5%A5
+      - https://en.wikipedia.org/wiki/Qin_Shengxiang
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16906418
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: qin-shutong
+    type: person
+    name: Qin Shutong
+    names:
+      zh: 秦树桐
+      en: Qin Shutong
+    gender: M
+    born: 1963-11-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 3
+    summary: 中国人民解放军陆军原政治委员
+    ids:
+      wikidata: Q56570188
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%A7%A6%E6%A0%91%E6%A1%90
+      - https://en.wikipedia.org/wiki/Qin_Shutong
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56570188
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: qin-weijiang
+    type: person
+    name: 秦卫江
+    names:
+      zh: 秦卫江
+      en: Qin Weijiang
+    gender: M
+    born: "1955"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中国人民解放军陆军中将
+    ids:
+      wikidata: Q8316992
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%A7%A6%E5%8D%AB%E6%B1%9F
+      - https://en.wikipedia.org/wiki/Qin_Weijiang
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316992
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: qin-weizhong
+    type: person
+    name: 覃伟中
+    names:
+      zh: 覃伟中
+      en: Qin Weizhong
+    gender: M
+    born: 1971-07-03
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q97194002
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%A6%83%E4%BC%9F%E4%B8%AD
+      - https://en.wikipedia.org/wiki/Qin_Weizhong
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97194002
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: qin-yinglin
+    type: person
+    name: 秦英林
+    names:
+      zh: 秦英林
+      en: Qin Yinglin
+    gender: M
+    born: "1965"
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: Chinese billionaire, pig breeder
+    netWorth:
+      usd: 18600000000
+    ids:
+      wikidata: Q22100291
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E6%9E%97
+      - https://en.wikipedia.org/wiki/Qin_Yinglin
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22100291
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: qin-yinhe
+    type: person
+    name: 秦银河
+    names:
+      zh: 秦银河
+    gender: M
+    born: 1951-08-01
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8292024
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%A7%A6%E9%93%B6%E6%B2%B3
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292024
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: qiu-jinkai
+    type: person
+    name: 邱金凯
+    names:
+      zh: 邱金凯
+    gender: M
+    born: "1946"
+    died: 2025-05-21
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8317306
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%82%B1%E9%87%91%E5%87%AF
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317306
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: qiu-yanhan
+    type: person
+    name: 邱衍汉
+    names:
+      zh: 邱衍汉
+    gender: M
+    born: "1944"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8296247
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%82%B1%E8%A1%8D%E6%B1%89
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8296247
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+  - id: qiu-yong
+    type: person
+    name: 邱勇
+    names:
+      zh: 邱勇
+      en: Qiu Yong
+    gender: M
+    born: 1964-07-28
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 清华大学党委书记，中国科学院院士、有机光电材料科学家
+    ids:
+      wikidata: Q19692053
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%82%B1%E5%8B%87_(1964%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Qiu_Yong
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19692053
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 清华大学校长
+        org: tsinghua-university
+        from: 2015-03-26
+        to: 2022-02-01
+  - id: qu-fanghuan
+    type: person
+    name: 曲方桓
+    names:
+      zh: 曲方桓
+    gender: M
+    born: "1940"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8316014
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9B%B2%E6%96%B9%E6%A1%93
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316014
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: qu-qingshan
+    type: person
+    name: 曲青山
+    names:
+      zh: 曲青山
+      en: Qu Qingshan
+    gender: M
+    born: 1957-05-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共中央党史和文献研究院院长
+    ids:
+      wikidata: Q18653671
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9B%B2%E9%9D%92%E5%B1%B1
+      - https://en.wikipedia.org/wiki/Qu_Qingshan
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18653671
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: qu-quansheng
+    type: person
+    name: 屈全绳
+    names:
+      zh: 屈全绳
+    gender: M
+    born: "1944"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8315706
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B1%88%E5%85%A8%E7%BB%B3
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315706
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: qu-yingpu
+    type: person
+    name: Qu Yingpu
+    names:
+      zh: 曲莹璞
+      en: Qu Yingpu
+    gender: M
+    born: "1965"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国日报社社长兼总编辑
+    ids:
+      wikidata: Q112966281
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9B%B2%E8%8E%B9%E7%92%9E
+      - https://en.wikipedia.org/wiki/Qu_Yingpu
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q112966281
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: quinn-norton
+    type: person
+    name: Quinn Norton
+    names:
+      en: Quinn Norton
+    gender: F
+    born: 1973-05-23
+    country:
+      - US
+    sectors:
+      - media
+    tier: 5
+    summary: 美國記者
+    ids:
+      wikidata: Q7272280
+    links:
+      - https://en.wikipedia.org/wiki/Quinn_Norton
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7272280
+        publisher: Wikidata
+        accessed: 2026-10-11

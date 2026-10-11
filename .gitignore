@@ -1,0 +1,22 @@
+node_modules/
+dist/
+.cache/
+*.log
+.DS_Store
+# 构建产物（可由 `npm run ctos -- build` 再生）
+apps/web/public/data/
+exports/
+# 原始数据仓库（体量数十 GB，可由连接器重建；见 docs/warehouse.md）
+data/warehouse/
+# 本地密钥（FEC_API_KEY 等）
+.env
+# Python 工具环境
+tools/py/.venv/
+__pycache__/
+# 由原始仓库投影生成的大体量/许可受限图谱层：不进 git，用 `npm run ctos -- ingest <层>` 重建（见 docs/warehouse.md）
+#   opensanctions（CC BY-NC）、fec（捐款人信息使用受限）、littlesis（CC BY-SA）、icij（ODbL）、wikidata-xids（可快速重建）
+data/imports/opensanctions/
+data/imports/fec/
+data/imports/littlesis/
+data/imports/icij/
+data/imports/wikidata-xids/

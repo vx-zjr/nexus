@@ -1,0 +1,299 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: q10385636
+    type: org
+    name: Q10385636
+    names: {}
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    ids:
+      wikidata: Q10385636
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10385636
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: q115702769
+    type: org
+    name: Q115702769
+    names: {}
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Berthe Morisot
+    ids:
+      wikidata: Q115702769
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115702769
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: q115929286
+    type: org
+    name: Q115929286
+    names: {}
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting attributed to Nicolas Poussin
+    ids:
+      wikidata: Q115929286
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115929286
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: q116052071
+    type: org
+    name: Q116052071
+    names: {}
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q116052071
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116052071
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: q121433724
+    type: org
+    name: Q121433724
+    names: {}
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q121433724
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q121433724
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: q121433761
+    type: org
+    name: Q121433761
+    names: {}
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q121433761
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q121433761
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: q136713983
+    type: org
+    name: Q136713983
+    names: {}
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: drawing by Gustav Klimt
+    ids:
+      wikidata: Q136713983
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136713983
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: q136714002
+    type: org
+    name: Q136714002
+    names: {}
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: drawing by Gustav Klimt
+    ids:
+      wikidata: Q136714002
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136714002
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: q3506878
+    type: org
+    name: Q3506878
+    names: {}
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by René Magritte
+    ids:
+      wikidata: Q3506878
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3506878
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: qihoo-360
+    type: org
+    name: 奇虎360
+    names:
+      zh: 奇虎360
+      en: Qihoo 360
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中國大陸軟件公司
+    ids:
+      wikidata: Q7267707
+    links:
+      - https://en.wikipedia.org/wiki/Qihoo_360
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7267707
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: qingdao-no-1-high-school
+    type: org
+    name: 青岛第一中学
+    names:
+      zh: 青岛第一中学
+      en: Qingdao No. 1 High School
+    orgType: school
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: public high school
+    ids:
+      wikidata: Q14474223
+    links:
+      - https://en.wikipedia.org/wiki/Qingdao_No._1_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14474223
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: qinghai-normal-university
+    type: org
+    name: 青海师范大学
+    names:
+      zh: 青海师范大学
+      en: Qinghai Normal University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国青海省西宁市高等学校
+    ids:
+      wikidata: Q7267825
+    links:
+      - https://en.wikipedia.org/wiki/Qinghai_Normal_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7267825
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: qinghai-provincial-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党青海省委员会
+    names:
+      zh: 中国共产党青海省委员会
+      en: Qinghai Provincial Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国共产党在青海省的领导机关
+    ids:
+      wikidata: Q10873270
+    links:
+      - https://en.wikipedia.org/wiki/Qinghai_Provincial_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873270
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: queen-s-university
+    type: org
+    name: Queen's University
+    names:
+      zh: 皇后大学
+      en: Queen's University
+    orgType: other
+    country:
+      - CA
+    sectors:
+      - other
+    tier: 3
+    summary: university in Kingston, Ontario, Canada
+    ids:
+      wikidata: Q1420038
+    links:
+      - https://en.wikipedia.org/wiki/Queen's_University_at_Kingston
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1420038
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: quibi
+    type: org
+    name: Quibi
+    names:
+      zh: Quibi
+      en: Quibi
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: American video streaming service
+    ids:
+      wikidata: Q65073105
+    links:
+      - https://en.wikipedia.org/wiki/Quibi
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65073105
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: qwest
+    type: org
+    name: Qwest
+    names:
+      zh: Qwest公司
+      en: Qwest
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: former telecommunication company in the United States
+    ids:
+      wikidata: Q765680
+    links:
+      - https://en.wikipedia.org/wiki/Qwest
+    sources:
+      - url: https://www.wikidata.org/wiki/Q765680
+        publisher: Wikidata
+        accessed: 2026-10-11

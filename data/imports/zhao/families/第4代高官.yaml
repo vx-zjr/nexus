@@ -1,0 +1,882 @@
+# 自动生成：ingest zhao（2026-10-10，源 https://github.com/programthink/zhao @ e8eea46 2018-05-02 18:35:59 +0800）
+# 许可：GPL-3.0（原作者：编程随想）。请勿手工修改本目录——修订请写到 data/curated/ 覆盖。
+dossiers:
+  - id: family-ling-jihua
+    kind: family
+    name: 令计划家族
+    country:
+      - CN
+    head: ling-jihua
+    core:
+      - ling-jihua
+      - linghu-ye
+      - gu-liping
+      - ling-gu
+      - gu-yuanxu
+      - ling-fangzhen
+      - sun-shumin
+      - linghu-jian
+      - linghu-yan
+      - ling-zhengce
+      - ling-luxian
+      - wang-jiankang
+      - ling-wancheng
+      - li-ping-2
+      - li-jun
+      - xi-shan-hui
+    outer:
+      - li-you
+      - liu-tienan
+      - ding-shumiao
+      - chen-chuanping
+      - shen-weichen
+      - jin-daoming
+      - du-shanxue
+    tags:
+      - zhao
+      - 第4代高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E4%BB%A4%E8%AE%A1%E5%88%92.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: linghu-ye
+        to: ling-fangzhen
+        type: parent
+        label: 长子
+      - from: linghu-ye
+        to: ling-zhengce
+        type: parent
+        label: 次子
+      - from: linghu-ye
+        to: ling-luxian
+        type: parent
+        label: 独女
+      - from: linghu-ye
+        to: ling-jihua
+        type: parent
+        label: 三子
+      - from: linghu-ye
+        to: ling-wancheng
+        type: parent
+        label: 四子
+      - from: ling-jihua
+        to: gu-liping
+        type: spouse
+        label: 妻
+      - from: ling-jihua
+        to: ling-gu
+        type: parent
+        label: 子
+      - from: gu-liping
+        to: ling-gu
+        type: parent
+        label: 子
+      - from: gu-liping
+        to: gu-yuanxu
+        type: sibling
+        label: 弟
+      - from: ling-fangzhen
+        to: sun-shumin
+        type: spouse
+        label: 妻
+      - from: ling-fangzhen
+        to: linghu-jian
+        type: parent
+        label: 子
+      - from: ling-fangzhen
+        to: linghu-yan
+        type: parent
+        label: 女
+      - from: sun-shumin
+        to: linghu-jian
+        type: parent
+        label: 子
+      - from: sun-shumin
+        to: linghu-yan
+        type: parent
+        label: 女
+      - from: ling-luxian
+        to: wang-jiankang
+        type: spouse
+        label: 夫
+      - from: ling-wancheng
+        to: li-ping-2
+        type: spouse
+        label: 妻
+      - from: li-ping-2
+        to: li-jun
+        type: sibling
+        label: 弟
+      - from: ling-jihua
+        to: xi-shan-hui
+        type: position
+        label: 会长
+      - from: gu-liping
+        to: xi-shan-hui
+        type: position
+        label: 打理日常事务
+      - from: ling-zhengce
+        to: xi-shan-hui
+        type: member
+      - from: li-you
+        to: xi-shan-hui
+        type: member
+      - from: ding-shumiao
+        to: xi-shan-hui
+        type: member
+      - from: chen-chuanping
+        to: xi-shan-hui
+        type: member
+      - from: shen-weichen
+        to: xi-shan-hui
+        type: member
+      - from: liu-tienan
+        to: xi-shan-hui
+        type: member
+      - from: jin-daoming
+        to: xi-shan-hui
+        type: member
+      - from: du-shanxue
+        to: xi-shan-hui
+        type: member
+  - id: family-wu-bangguo
+    kind: family
+    name: 吴邦国家族
+    country:
+      - CN
+    head: wu-bangguo
+    core:
+      - wu-bangguo
+      - zhang-ruizhen
+      - wu-tao
+      - wu-lei
+      - feng-shaodong
+      - wu-bangjie
+      - wu-bangsheng
+    outer: []
+    tags:
+      - zhao
+      - 第4代高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E5%90%B4%E9%82%A6%E5%9B%BD.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: wu-bangguo
+        to: zhang-ruizhen
+        type: spouse
+        label: 妻
+      - from: wu-bangguo
+        to: wu-tao
+        type: parent
+        label: 子
+      - from: zhang-ruizhen
+        to: wu-tao
+        type: parent
+        label: 子
+      - from: wu-bangguo
+        to: wu-lei
+        type: parent
+        label: 子
+      - from: zhang-ruizhen
+        to: wu-lei
+        type: parent
+        label: 子
+      - from: wu-bangguo
+        to: feng-shaodong
+        type: in-law
+        label: 女婿
+      - from: wu-bangguo
+        to: wu-bangjie
+        type: sibling
+        label: 兄
+      - from: wu-bangguo
+        to: wu-bangsheng
+        type: sibling
+        label: 弟
+  - id: family-zhou-yongkang
+    kind: family
+    name: 周永康家族
+    country:
+      - CN
+    head: zhou-yongkang
+    core:
+      - zhou-yongkang
+      - wang-shuhua
+      - jia-xiaoye
+      - zhou-bin
+      - huang-wan
+      - huang-yusheng
+      - zhan-minli
+      - zhou-han
+      - zhou-yuanqing
+      - zhou-lingying
+      - zhou-feng
+      - zhou-yuanxing
+      - zhou-xiaohua
+      - zhou-hao
+      - jia-xiaoxia
+    outer:
+      - huang-yusheng
+      - huang-jiqing
+      - wang-yeping
+      - jiang-jiemin
+      - jiang-feng
+      - zhong-xu-neng-ke
+    tags:
+      - zhao
+      - 第4代高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E5%91%A8%E6%B0%B8%E5%BA%B7.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: zhou-yongkang
+        to: wang-shuhua
+        type: spouse
+        label: 妻
+      - from: wang-yeping
+        to: wang-shuhua
+        type: relative
+        label: 外甥女
+      - from: zhou-yongkang
+        to: jia-xiaoye
+        type: spouse
+        label: 妻
+      - from: zhou-yongkang
+        to: zhou-bin
+        type: parent
+        label: 长子
+      - from: wang-shuhua
+        to: zhou-bin
+        type: parent
+        label: 长子
+      - from: zhou-bin
+        to: huang-wan
+        type: spouse
+        label: 妻
+      - from: huang-yusheng
+        to: huang-wan
+        type: parent
+        label: 女
+      - from: zhan-minli
+        to: huang-wan
+        type: parent
+        label: 女
+      - from: huang-jiqing
+        to: huang-yusheng
+        type: parent
+        label: 子
+      - from: zhou-yongkang
+        to: zhou-yuanqing
+        type: sibling
+        label: 三弟
+      - from: zhou-yuanqing
+        to: zhou-lingying
+        type: spouse
+        label: 妻
+      - from: zhou-yuanqing
+        to: zhou-feng
+        type: parent
+        label: 子
+      - from: zhou-lingying
+        to: zhou-feng
+        type: parent
+        label: 子
+      - from: zhou-yongkang
+        to: zhou-yuanxing
+        type: sibling
+        label: 二弟
+      - from: zhou-yuanxing
+        to: zhou-xiaohua
+        type: parent
+        label: 子
+      - from: zhou-yongkang
+        to: zhou-hao
+        type: relative
+        label: 堂侄
+      - from: jia-xiaoye
+        to: jia-xiaoxia
+        type: sibling
+        label: 妹
+      - from: zhou-yongkang
+        to: zhou-han
+        type: parent
+        label: 次子
+      - from: wang-shuhua
+        to: zhou-han
+        type: parent
+        label: 次子
+      - from: jiang-jiemin
+        to: jiang-feng
+        type: parent
+        label: 子
+      - from: zhou-bin
+        to: jiang-feng
+        type: business-partner
+        label: 生意伙伴
+      - from: zhou-bin
+        to: zhong-xu-neng-ke
+        type: owner
+        label: 董事长、大股东
+      - from: huang-wan
+        to: zhong-xu-neng-ke
+        type: position
+        label: 董事长
+      - from: huang-yusheng
+        to: zhong-xu-neng-ke
+        type: owner
+        label: 股东
+      - from: zhan-minli
+        to: zhong-xu-neng-ke
+        type: owner
+        label: 股东
+  - id: family-li-zhaoxing
+    kind: family
+    name: 李肇星家族
+    country:
+      - CN
+    head: li-zhaoxing
+    core:
+      - li-zhaoxing
+      - li-hehe
+    outer:
+      - qin-xiaomei
+      - yan-jingjing
+    tags:
+      - zhao
+      - 第4代高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E6%9D%8E%E8%82%87%E6%98%9F.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: li-zhaoxing
+        to: qin-xiaomei
+        type: spouse
+        label: 妻
+      - from: li-zhaoxing
+        to: li-hehe
+        type: parent
+        label: 子
+      - from: qin-xiaomei
+        to: li-hehe
+        type: parent
+        label: 子
+      - from: li-hehe
+        to: yan-jingjing
+        type: spouse
+        label: 妻
+      - from: yan-weiwen
+        to: yan-jingjing
+        type: parent
+        label: 女
+  - id: family-li-changchun
+    kind: family
+    name: 李长春家族
+    country:
+      - CN
+    head: li-changchun
+    core:
+      - li-changchun
+      - li-huidi
+      - li-tong
+      - li-changji
+    outer: []
+    tags:
+      - zhao
+      - 第4代高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E6%9D%8E%E9%95%BF%E6%98%A5.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: li-changchun
+        to: li-huidi
+        type: parent
+        label: 子
+      - from: li-changchun
+        to: li-tong
+        type: parent
+        label: 女
+      - from: li-changchun
+        to: li-changji
+        type: sibling
+        label: 兄
+  - id: family-wen-jiabao
+    kind: family
+    name: 温家宝家族
+    country:
+      - CN
+    head: wen-jiabao
+    core:
+      - wen-jiabao
+      - zhang-peili
+      - yang-xiuan
+      - wen-yunsong
+      - yang-xiaomeng
+      - wen-ruchun
+      - liu-chunhang
+      - wen-jiahong
+    outer:
+      - ping-an-bao-xian
+      - wan-da-ji-tuan
+    tags:
+      - zhao
+      - 第4代高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E6%B8%A9%E5%AE%B6%E5%AE%9D.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: yang-xiuan
+        to: wen-jiabao
+        type: parent
+        label: 长子
+      - from: yang-xiuan
+        to: wen-jiahong
+        type: parent
+        label: 次子
+      - from: wen-jiabao
+        to: zhang-peili
+        type: spouse
+        label: 妻
+      - from: wen-jiabao
+        to: wen-yunsong
+        type: parent
+        label: 独子
+      - from: zhang-peili
+        to: wen-yunsong
+        type: parent
+        label: 独子
+      - from: wen-yunsong
+        to: yang-xiaomeng
+        type: spouse
+        label: 妻
+      - from: wen-jiabao
+        to: wen-ruchun
+        type: parent
+        label: 独女
+      - from: zhang-peili
+        to: wen-ruchun
+        type: parent
+        label: 独女
+      - from: wen-ruchun
+        to: liu-chunhang
+        type: spouse
+        label: 夫
+      - from: yang-xiuan
+        to: ping-an-bao-xian
+        type: owner
+        label: 股东
+      - from: wen-ruchun
+        to: wan-da-ji-tuan
+        type: owner
+        label: 早期股东
+      - from: wen-jiahong
+        to: ping-an-bao-xian
+        type: owner
+        label: 股东
+      - from: yang-xiaomeng
+        to: ping-an-bao-xian
+        type: owner
+        label: 股东
+  - id: family-wang-zhaoguo
+    kind: family
+    name: 王兆国家族
+    country:
+      - CN
+    head: wang-zhaoguo
+    core:
+      - wang-zhaoguo
+      - wang-xinyu
+      - yang-xin
+    outer:
+      - wan-da-ji-tuan
+    tags:
+      - zhao
+      - 第4代高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E7%8E%8B%E5%85%86%E5%9B%BD.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: wang-zhaoguo
+        to: wang-xinyu
+        type: parent
+        label: 子
+      - from: wang-zhaoguo
+        to: yang-xin
+        type: relative
+        label: 外甥女
+      - from: wang-xinyu
+        to: wan-da-ji-tuan
+        type: owner
+        label: 早期股东
+      - from: yang-xin
+        to: wan-da-ji-tuan
+        type: owner
+        label: 早期股东
+  - id: family-luo-gan
+    kind: family
+    name: 罗干家族
+    country:
+      - CN
+    head: luo-gan
+    core:
+      - luo-gan
+      - luo-shaoyu
+    outer: []
+    tags:
+      - zhao
+      - 第4代高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E7%BD%97%E5%B9%B2.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: luo-gan
+        to: luo-shaoyu
+        type: relative
+        label: 侄子
+  - id: family-hu-jintao
+    kind: family
+    name: 胡锦涛家族
+    country:
+      - CN
+    head: hu-jintao
+    core:
+      - hu-jintao
+      - liu-yongqing
+      - hu-haifeng
+      - hu-haiqing
+      - mao-daolin
+      - hu-jinrong
+      - hu-jinhua
+      - hu-yishi
+    outer:
+      - wan-da-ji-tuan
+      - chang-zhiqing
+      - liu-yongping
+      - wang-yanfeng
+    tags:
+      - zhao
+      - 第4代高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E8%83%A1%E9%94%A6%E6%B6%9B.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: hu-jintao
+        to: liu-yongqing
+        type: spouse
+        label: 妻
+      - from: hu-jintao
+        to: hu-jinrong
+        type: sibling
+        label: 妹
+      - from: hu-jintao
+        to: hu-haifeng
+        type: parent
+        label: 独子
+      - from: liu-yongqing
+        to: hu-haifeng
+        type: parent
+        label: 独子
+      - from: hu-jintao
+        to: hu-haiqing
+        type: parent
+        label: 独女
+      - from: liu-yongqing
+        to: hu-haiqing
+        type: parent
+        label: 独女
+      - from: hu-haiqing
+        to: mao-daolin
+        type: spouse
+        label: 夫
+      - from: hu-haifeng
+        to: wan-da-ji-tuan
+        type: investor
+        label: 投资人
+      - from: hu-jintao
+        to: hu-jinhua
+        type: relative
+        label: 堂兄
+      - from: hu-jintao
+        to: hu-yishi
+        type: relative
+        label: 堂侄
+      - from: chang-zhiqing
+        to: liu-yongqing
+        type: relative
+        label: 外甥女
+      - from: liu-yongqing
+        to: liu-yongping
+        type: sibling
+        label: 姐
+      - from: liu-yongping
+        to: wang-yanfeng
+        type: spouse
+        label: 夫
+  - id: family-he-guoqiang
+    kind: family
+    name: 贺国强家族
+    country:
+      - CN
+    head: he-guoqiang
+    core:
+      - he-guoqiang
+      - he-xiqiang
+      - he-jintao
+      - he-jinlei
+    outer: []
+    tags:
+      - zhao
+      - 第4代高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E8%B4%BA%E5%9B%BD%E5%BC%BA.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: he-guoqiang
+        to: he-jintao
+        type: parent
+        label: 长子
+      - from: he-guoqiang
+        to: he-jinlei
+        type: parent
+        label: 次子
+      - from: he-guoqiang
+        to: he-xiqiang
+        type: sibling
+        label: 弟
+  - id: family-jia-qinglin
+    kind: family
+    name: 贾庆林家族
+    country:
+      - CN
+    head: jia-qinglin
+    core:
+      - jia-qinglin
+      - lin-youfang
+      - jia-jianguo
+      - jia-weiguo
+      - jia-qiang
+      - li-botan
+      - li-zidan
+    outer:
+      - wan-da-ji-tuan
+    tags:
+      - zhao
+      - 第4代高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E8%B4%BE%E5%BA%86%E6%9E%97.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: jia-qinglin
+        to: lin-youfang
+        type: spouse
+        label: 妻
+      - from: jia-qinglin
+        to: jia-jianguo
+        type: parent
+        label: 长子
+      - from: lin-youfang
+        to: jia-jianguo
+        type: parent
+        label: 长子
+      - from: jia-qinglin
+        to: jia-weiguo
+        type: parent
+        label: 次子
+      - from: lin-youfang
+        to: jia-weiguo
+        type: parent
+        label: 次子
+      - from: jia-qinglin
+        to: jia-qiang
+        type: parent
+        label: 女
+      - from: lin-youfang
+        to: jia-qiang
+        type: parent
+        label: 女
+      - from: jia-qiang
+        to: li-botan
+        type: spouse
+        label: 夫
+      - from: jia-qiang
+        to: li-zidan
+        type: parent
+        label: 女
+      - from: li-botan
+        to: wan-da-ji-tuan
+        type: owner
+        label: 早期股东
+  - id: family-guo-boxiong
+    kind: family
+    name: 郭伯雄家族
+    country:
+      - CN
+    head: guo-boxiong
+    core:
+      - guo-boxiong
+      - guo-zhenggang
+      - wu-fangfang
+      - guo-boquan
+    outer: []
+    tags:
+      - zhao
+      - 第4代高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E9%83%AD%E4%BC%AF%E9%9B%84.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: guo-boxiong
+        to: guo-zhenggang
+        type: parent
+        label: 子
+      - from: guo-zhenggang
+        to: wu-fangfang
+        type: spouse
+        label: 妻
+      - from: guo-boxiong
+        to: guo-boquan
+        type: sibling
+        label: 弟
+  - id: family-chen-liangyu
+    kind: family
+    name: 陈良宇家族
+    country:
+      - CN
+    head: chen-liangyu
+    core:
+      - chen-liangyu
+      - huang-yiling
+      - chen-weili-2
+    outer:
+      - shang-hai-ci-shan-ji-jin-hui
+    tags:
+      - zhao
+      - 第4代高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E9%99%88%E8%89%AF%E5%AE%87.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: chen-liangyu
+        to: huang-yiling
+        type: spouse
+        label: 妻
+      - from: huang-yiling
+        to: shang-hai-ci-shan-ji-jin-hui
+        type: position
+        label: 理事
+      - from: chen-liangyu
+        to: chen-weili-2
+        type: parent
+        label: 子
+  - id: family-huang-ju
+    kind: family
+    name: 黄菊家族
+    country:
+      - CN
+    head: huang-ju
+    core:
+      - huang-ju
+      - yu-huiwen
+      - huang-fan
+      - fang-yiwei
+      - huang-xi
+    outer:
+      - fang-dachuan
+      - fang-libangqin
+      - shang-hai-ci-shan-ji-jin-hui
+    tags:
+      - zhao
+      - 第4代高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E9%BB%84%E8%8F%8A.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: huang-ju
+        to: yu-huiwen
+        type: spouse
+        label: 妻
+      - from: yu-huiwen
+        to: shang-hai-ci-shan-ji-jin-hui
+        type: position
+        label: 副会长
+      - from: huang-ju
+        to: huang-fan
+        type: parent
+        label: 女
+      - from: huang-fan
+        to: fang-yiwei
+        type: spouse
+        label: 夫
+      - from: fang-dachuan
+        to: fang-yiwei
+        type: parent
+        label: 子
+      - from: fang-dachuan
+        to: fang-libangqin
+        type: spouse
+        label: 妻
+      - from: huang-ju
+        to: huang-xi
+        type: sibling
+        label: 弟
+  - id: family-huang-zhen
+    kind: family
+    name: 黄镇家族
+    country:
+      - CN
+    head: huang-zhen
+    core:
+      - huang-zhen
+      - zhu-lin-1920
+      - huang-hao
+      - dai-bingguo
+    outer: []
+    tags:
+      - zhao
+      - 第4代高官
+      - 第1代二品高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E9%BB%84%E9%95%87.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: huang-zhen
+        to: zhu-lin-1920
+        type: spouse
+        label: 妻
+      - from: huang-zhen
+        to: huang-hao
+        type: parent
+        label: 女
+      - from: huang-hao
+        to: dai-bingguo
+        type: spouse
+        label: 夫

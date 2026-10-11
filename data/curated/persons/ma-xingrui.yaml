@@ -1,0 +1,46 @@
+id: ma-xingrui
+type: person
+name: 马兴瑞
+names:
+  zh: 马兴瑞
+  en: Ma Xingrui
+gender: M
+born: 1959-10
+country:
+- CN
+sectors:
+- politics
+tier: 2
+status: purged
+summary: 前政治局委员、新疆党委书记（2021–2025）。航天系出身。2025-07 离任新疆后再未公开露面；2026-04-03 中纪委宣布对其审查调查；2026-06-30 被开除党籍和公职，移送司法。
+positions:
+- title: 政治局委员
+  org: ccp-politburo
+  from: 2022-10
+  to: 2026-06
+- title: 新疆维吾尔自治区党委书记
+  from: 2021-12
+  to: 2025-07
+- title: 广东省长
+  from: 2017-01
+  to: 2021-12
+- title: 深圳市委书记
+  from: 2015-03
+  to: 2016-12
+tags:
+- aerospace-clique
+- purged-2026
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.internazionale.it/ultime-notizie-reuters/2026/04/03/chinese-politburo-member-ma-xingrui-under-investigation-by-anti-graft-watchdog
+  title: Chinese Politburo member Ma Xingrui under investigation by anti-graft watchdog
+  publisher: Reuters
+  date: '2026-04-03'
+- url: https://www.caixinglobal.com/2026-07-14/former-politburo-member-ma-xingrui-expelled-from-party-faces-criminal-prosecution-102464110.html
+  title: Former Politburo Member Ma Xingrui Expelled From Party, Faces Criminal Prosecution
+  publisher: Caixin Global
+  date: '2026-07-14'
+updated: '2026-10-11'

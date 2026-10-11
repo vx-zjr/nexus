@@ -1,0 +1,49 @@
+id: case-bo-xilai
+kind: case
+name: 薄熙来案（2012）
+country: CN
+head: bo-xilai
+summary: 2012 年王立军出逃美领馆，揭出谷开来毒杀英国商人尼尔·伍德；薄熙来随后被免去重庆市委书记、政治局委员职务，2013-09 以受贿、贪污、滥用职权罪被判无期徒刑。谷开来以故意杀人罪被判死缓。
+core:
+- bo-xilai
+- gu-kailai
+- bo-guagua
+- wang-lijun
+- neil-heywood
+- xu-ming
+outer:
+- bo-yibo
+sources:
+- url: https://en.wikipedia.org/wiki/Bo_Xilai
+  publisher: Wikipedia
+- url: https://en.wikipedia.org/wiki/Wang_Lijun_incident
+  publisher: Wikipedia
+relations:
+- - wang-lijun
+  - aide
+  - bo-xilai
+  - 重庆公安局长（亲信）
+- - gu-kailai
+  - related
+  - neil-heywood
+  - 2011-11 将其毒杀（2012-08 以故意杀人罪被判死缓）
+- - neil-heywood
+  - associate
+  - gu-kailai
+  - 生意伙伴/家族顾问
+- - xu-ming
+  - associate
+  - bo-xilai
+  - 行贿（法院认定）
+- - xu-ming
+  - associate
+  - bo-guagua
+  - 资助留学开销（法院认定）
+- - wang-lijun
+  - rival
+  - bo-xilai
+  - 2012 反目出逃
+tags:
+- case
+- purge
+updated: '2026-10-11'

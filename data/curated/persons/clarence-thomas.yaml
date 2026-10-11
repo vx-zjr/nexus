@@ -1,0 +1,31 @@
+id: clarence-thomas
+type: person
+name: Clarence Thomas
+names:
+  en: Clarence Thomas
+  zh: 克拉伦斯·托马斯
+gender: M
+born: '1948-06-23'
+country:
+- US
+sectors:
+- judiciary
+tier: 2
+summary: 最高法院大法官（1991–），现任资历最深的大法官。ProPublica 2023 调查：二十余年间多次接受达拉斯地产商 Harlan Crow 的豪华旅行等馈赠而未申报。
+positions:
+- title: 最高法院大法官
+  org: us-supreme-court
+  from: 1991-10
+  current: true
+sources:
+- url: https://en.wikipedia.org/wiki/Clarence_Thomas
+  publisher: Wikipedia
+- url: https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow
+  title: Clarence Thomas and the Billionaire
+  publisher: ProPublica
+  date: '2023-04-06'
+- url: https://www.texastribune.org/2023/04/06/texas-harlan-crow-clarence-thomas-gifts
+  title: Texas billionaire Harlan Crow treated Justice Clarence Thomas to luxury trips that weren’t disclosed
+  publisher: The Texas Tribune
+  date: '2023-04-06'
+updated: '2026-10-11'

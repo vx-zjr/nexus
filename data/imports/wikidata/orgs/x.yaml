@@ -1,0 +1,592 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: x
+    type: org
+    name: X
+    names:
+      en: X
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 2006年成立的美國社交網路服務
+    ids:
+      wikidata: Q918
+    links:
+      - https://en.wikipedia.org/wiki/X_(social_network)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q918
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: x-com
+    type: org
+    name: X.com
+    names:
+      zh: X.com
+      en: X.com
+    orgType: bank
+    country: []
+    sectors:
+      - finance
+    tier: 3
+    summary: defunct online bank
+    ids:
+      wikidata: Q30686532
+    links:
+      - https://en.wikipedia.org/wiki/X.com_(bank)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30686532
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: x-corp
+    type: org
+    name: X Corp.
+    names:
+      zh: X公司
+      en: X Corp.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国公司
+    ids:
+      wikidata: Q117617480
+    links:
+      - https://en.wikipedia.org/wiki/X_Corp.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q117617480
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: x-holdings
+    type: org
+    name: X Holdings
+    names:
+      en: X Holdings
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: series of holding companies owned by Elon Musk
+    ids:
+      wikidata: Q112626160
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q112626160
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: x-holdings-corp
+    type: org
+    name: X Holdings Corp
+    names:
+      en: X Holdings Corp
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Holding company
+    ids:
+      wikidata: Q117705742
+    links:
+      - https://en.wikipedia.org/wiki/X_Holdings_Corp.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q117705742
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: x-holdings-i-inc
+    type: org
+    name: X Holdings I, Inc.
+    names:
+      en: X Holdings I, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: holding company owned by Elon Musk
+    ids:
+      wikidata: Q112626243
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q112626243
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: x-holdings-ii-inc
+    type: org
+    name: X Holdings II, Inc.
+    names:
+      en: X Holdings II, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: holding company owned by Elon Musk
+    ids:
+      wikidata: Q112626244
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q112626244
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: x-holdings-iii-llc
+    type: org
+    name: X Holdings III, LLC
+    names:
+      en: X Holdings III, LLC
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: holding company owned by Elon Musk
+    ids:
+      wikidata: Q112626245
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q112626245
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xai-colossus
+    type: org
+    name: xAI Colossus
+    names:
+      zh: 巨像 (超级计算机)
+      en: xAI Colossus
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: xAI supercomputer for training the Grok LLM model family
+    ids:
+      wikidata: Q130614744
+    links:
+      - https://en.wikipedia.org/wiki/Colossus_(data_center)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q130614744
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xale-ai
+    type: org
+    name: Xale AI
+    names:
+      en: Xale AI
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    ids:
+      wikidata: Q138921124
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q138921124
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xamarin
+    type: org
+    name: Xamarin
+    names:
+      en: Xamarin
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 加州旧金山的软件公司
+    ids:
+      wikidata: Q3073996
+    links:
+      - https://en.wikipedia.org/wiki/Xamarin
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3073996
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xavier-high-school
+    type: org
+    name: Xavier High School
+    names:
+      en: Xavier High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Jesuit prep school in Manhattan
+    ids:
+      wikidata: Q8043254
+    links:
+      - https://en.wikipedia.org/wiki/Xavier_High_School_(New_York_City)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8043254
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xavier-university
+    type: org
+    name: Xavier University
+    names:
+      zh: 澤維爾大學
+      en: Xavier University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: Jesuit university located in Cincinnati, Ohio, United States
+    ids:
+      wikidata: Q1849843
+    links:
+      - https://en.wikipedia.org/wiki/Xavier_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1849843
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xavier-university-of-louisiana
+    type: org
+    name: Xavier University of Louisiana
+    names:
+      zh: 路易斯安那賽維爾大學
+      en: Xavier University of Louisiana
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: Catholic university in the U.S state of Louisiana
+    ids:
+      wikidata: Q390087
+    links:
+      - https://en.wikipedia.org/wiki/Xavier_University_of_Louisiana
+    sources:
+      - url: https://www.wikidata.org/wiki/Q390087
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xbox-game-studios
+    type: org
+    name: Xbox Game Studios
+    names:
+      zh: Xbox游戏工作室
+      en: Xbox Game Studios
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 微軟的電子遊戲開發部門
+    ids:
+      wikidata: Q73801
+    links:
+      - https://en.wikipedia.org/wiki/Xbox_Game_Studios
+    sources:
+      - url: https://www.wikidata.org/wiki/Q73801
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xerox
+    type: org
+    name: Xerox
+    names:
+      zh: 施乐
+      en: Xerox
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国计算机公司
+    ids:
+      wikidata: Q152433
+    links:
+      - https://en.wikipedia.org/wiki/Xerox
+    sources:
+      - url: https://www.wikidata.org/wiki/Q152433
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xfl
+    type: org
+    name: XFL
+    names:
+      zh: 極限美式足球聯賽
+      en: XFL
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: defunct American football league (2000–2001)
+    ids:
+      wikidata: Q1358492
+    links:
+      - https://en.wikipedia.org/wiki/XFL_(2001)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1358492
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xfl-2
+    type: org
+    name: XFL
+    names:
+      en: XFL
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: U.S.-based American football league (2020–2023)
+    ids:
+      wikidata: Q47496155
+    links:
+      - https://en.wikipedia.org/wiki/XFL_(2020%E2%80%932023)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47496155
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xi-an-jiaotong-university
+    type: org
+    name: 西安交通大学
+    names:
+      zh: 西安交通大学
+      en: Xi'an Jiaotong University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于中国陕西省西安市的大学
+    ids:
+      wikidata: Q981237
+    links:
+      - https://en.wikipedia.org/wiki/Xi'an_Jiaotong_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q981237
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xi-jinping-s-cult-of-personality
+    type: org
+    name: 习近平个人崇拜
+    names:
+      zh: 习近平个人崇拜
+      en: Xi Jinping's cult of personality
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 对中共中央总书记习近平的个人崇拜和政治宣传现象
+    ids:
+      wikidata: Q60833684
+    links:
+      - https://en.wikipedia.org/wiki/Xi_Jinping's_cult_of_personality
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60833684
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xiamen-university
+    type: org
+    name: 厦门大学
+    names:
+      zh: 厦门大学
+      en: Xiamen University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 创建于中国福建厦门的大学
+    ids:
+      wikidata: Q1153539
+    links:
+      - https://en.wikipedia.org/wiki/Xiamen_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1153539
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xiaomi
+    type: org
+    name: 小米集团
+    names:
+      zh: 小米集团
+      en: Xiaomi
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 2
+    summary: 中华人民共和国科技企业
+    ids:
+      wikidata: Q1636958
+    links:
+      - https://en.wikipedia.org/wiki/Xiaomi
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1636958
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xidian-university
+    type: org
+    name: 西安电子科技大学
+    names:
+      zh: 西安电子科技大学
+      en: Xidian University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国陕西省西安市的大学
+    ids:
+      wikidata: Q649906
+    links:
+      - https://en.wikipedia.org/wiki/Xidian_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q649906
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ximian
+    type: org
+    name: Ximian
+    names:
+      zh: Ximian
+      en: Ximian
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: company
+    ids:
+      wikidata: Q384744
+    links:
+      - https://en.wikipedia.org/wiki/Ximian
+    sources:
+      - url: https://www.wikidata.org/wiki/Q384744
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xinjiang-university
+    type: org
+    name: 新疆大学
+    names:
+      zh: 新疆大学
+      en: Xinjiang University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中國新疆烏魯木齊市的一所大學
+    ids:
+      wikidata: Q985578
+    links:
+      - https://en.wikipedia.org/wiki/Xinjiang_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q985578
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xinjiang-uygur-autonomous-regional-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党新疆维吾尔自治区委员会
+    names:
+      zh: 中国共产党新疆维吾尔自治区委员会
+      en: Xinjiang Uygur Autonomous Regional Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国共产党在新疆维吾尔自治区的领导机关
+    ids:
+      wikidata: Q10873206
+    links:
+      - https://en.wikipedia.org/wiki/Xinjiang_Uygur_Autonomous_Regional_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873206
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xpo-inc
+    type: org
+    name: XPO, Inc.
+    names:
+      zh: XPO物流
+      en: XPO, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American transportation company
+    ids:
+      wikidata: Q8042415
+    links:
+      - https://en.wikipedia.org/wiki/XPO%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8042415
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xq-institute
+    type: org
+    name: XQ Institute
+    names:
+      en: XQ Institute
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: California non-profit offering improvements for high school education
+    ids:
+      wikidata: Q111170551
+    links:
+      - https://en.wikipedia.org/wiki/XQ_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111170551
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: xyleco
+    type: org
+    name: Xyleco
+    names:
+      en: Xyleco
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Cellulose processing company
+    ids:
+      wikidata: Q60476050
+    links:
+      - https://en.wikipedia.org/wiki/Xyleco
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60476050
+        publisher: Wikidata
+        accessed: 2026-10-11

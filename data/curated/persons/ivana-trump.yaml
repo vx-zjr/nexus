@@ -1,0 +1,19 @@
+id: ivana-trump
+type: person
+name: Ivana Trump
+names:
+  en: Ivana Trump
+  zh: 伊万娜·特朗普
+gender: F
+born: '1949-02-20'
+died: '2022-07-14'
+country:
+- US
+sectors:
+- business
+tier: 4
+summary: Donald Trump 首任妻子（1977–1992），Don Jr.、Ivanka、Eric 之母。
+sources:
+- url: https://en.wikipedia.org/wiki/Family_of_Donald_Trump
+  publisher: Wikipedia
+updated: '2026-10-11'

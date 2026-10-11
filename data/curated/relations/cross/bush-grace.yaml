@@ -1,0 +1,25 @@
+sources:
+- url: https://www.nbcnews.com/news/amp/wbna4071824
+  title: President's brother Neil enmeshed in messy divorce
+  publisher: NBC News / AP
+  date: 2003-11
+- url: https://en.wikipedia.org/wiki/Jiang_Mianheng
+  publisher: Wikipedia
+relations:
+- from: jiang-mianheng
+  to: grace-semiconductor
+  type: founder
+  label: 支持/参与创办
+  confidence: reported
+- - winston-wong
+  - founder
+  - grace-semiconductor
+- from: neil-bush
+  to: grace-semiconductor
+  type: advisor
+  label: 2002 顾问合同（5 年 200 万美元股票）
+  since: '2002'
+- from: winston-wong
+  to: neil-bush
+  type: associate
+  label: 邀请其加入宏力董事会

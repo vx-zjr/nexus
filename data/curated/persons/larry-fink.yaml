@@ -1,0 +1,20 @@
+id: larry-fink
+type: person
+name: Larry Fink
+names:
+  en: Larry Fink
+  zh: 拉里·芬克
+gender: M
+born: '1952-11-02'
+country:
+- US
+sectors:
+- finance
+tier: 1
+summary: 贝莱德（BlackRock）联合创始人、董事长兼 CEO。
+ids:
+  wikidata: Q3218882
+sources:
+- url: https://en.wikipedia.org/wiki/Larry_Fink
+  publisher: Wikipedia
+updated: '2026-10-11'

@@ -1,0 +1,36 @@
+id: liu-guozhong
+type: person
+name: 刘国中
+names:
+  zh: 刘国中
+  en: Liu Guozhong
+gender: M
+born: 1962-07
+country:
+- CN
+sectors:
+- politics
+tier: 2
+status: active
+summary: 国务院副总理（2023–）。前陕西省委书记（2020–2022）、福建省长。
+positions:
+- title: 国务院副总理
+  org: state-council-prc
+  from: 2023-03
+  current: true
+- title: 政治局委员
+  org: ccp-politburo
+  from: 2022-10
+  current: true
+- title: 陕西省委书记
+  from: 2020-07
+  to: 2022-10
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+updated: '2026-10-11'

@@ -1,0 +1,18 @@
+id: kimbal-musk
+type: person
+name: Kimbal Musk
+names:
+  en: Kimbal Musk
+  zh: 金巴尔·马斯克
+gender: M
+born: '1972-09-20'
+country:
+- US
+sectors:
+- business
+tier: 4
+summary: Elon Musk 之弟，特斯拉董事。
+sources:
+- url: https://en.wikipedia.org/wiki/Kimbal_Musk
+  publisher: Wikipedia
+updated: '2026-10-11'

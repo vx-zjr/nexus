@@ -1,0 +1,2572 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: a-gay-time-march-27-1953
+    type: org
+    name: A Gay Time, March 27, 1953
+    names:
+      en: A Gay Time, March 27, 1953
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Grandma Moses (1953)
+    ids:
+      wikidata: Q125257143
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q125257143
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: a-satyr-holding-a-basket-of-grapes-and-quinces-with-a-nymph
+    type: org
+    name: A satyr holding a basket of grapes and quinces with a nymph
+    names:
+      en: A satyr holding a basket of grapes and quinces with a nymph
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Rubens
+    ids:
+      wikidata: Q111730374
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111730374
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: abc-family-worldwide
+    type: org
+    name: ABC Family Worldwide
+    names:
+      zh: ABC家庭国际公司
+      en: ABC Family Worldwide
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: television subsidiary responsible for Freeform
+    ids:
+      wikidata: Q3600483
+    links:
+      - https://en.wikipedia.org/wiki/ABC_Family_Worldwide
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3600483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: abeona
+    type: org
+    name: Abeona
+    names:
+      en: Abeona
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: yacht support vessel for Koru built in 2023
+    ids:
+      wikidata: Q124658488
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124658488
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: abington-senior-high-school
+    type: org
+    name: Abington Senior High School
+    names:
+      zh: 阿宾顿高中
+      en: Abington Senior High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public school in Abington, Montgomery County, Pennsylvania, United States
+    ids:
+      wikidata: Q4667874
+    links:
+      - https://en.wikipedia.org/wiki/Abington_Senior_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4667874
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: abraxis-bioscience
+    type: org
+    name: Abraxis BioScience
+    names:
+      en: Abraxis BioScience
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: wholly owned biopharmaceutical subsidiary of the biotechnology company Celgene
+    ids:
+      wikidata: Q4669505
+    links:
+      - https://en.wikipedia.org/wiki/Abraxis_BioScience
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4669505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: academi
+    type: org
+    name: Academi
+    names:
+      zh: 黑水国际
+      en: Academi
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國私人軍事、安全顧問公司
+    ids:
+      wikidata: Q337233
+    links:
+      - https://en.wikipedia.org/wiki/Blackwater_(company)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q337233
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: academy-of-our-lady-spalding-institute
+    type: org
+    name: Academy of Our Lady/Spalding Institute
+    names:
+      en: Academy of Our Lady/Spalding Institute
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: former high school in Peoria, Illinois, USA
+    ids:
+      wikidata: Q4671508
+    links:
+      - https://en.wikipedia.org/wiki/Academy_of_Our_Lady%2FSpalding_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4671508
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: access-industries
+    type: org
+    name: Access Industries
+    names:
+      zh: 艾克塞斯工业
+      en: Access Industries
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American conglomerate holding company
+    ids:
+      wikidata: Q338920
+    links:
+      - https://en.wikipedia.org/wiki/Access_Industries
+    sources:
+      - url: https://www.wikidata.org/wiki/Q338920
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: acf-fiorentina
+    type: org
+    name: ACF Fiorentina
+    names:
+      zh: 佛罗伦萨足球俱乐部
+      en: ACF Fiorentina
+    orgType: other
+    country:
+      - IT
+    sectors:
+      - other
+    tier: 2
+    summary: 意大利足球俱乐部
+    ids:
+      wikidata: Q2052
+    links:
+      - https://en.wikipedia.org/wiki/ACF_Fiorentina
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2052
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: adelphi-university
+    type: org
+    name: Adelphi University
+    names:
+      zh: 阿德菲大学
+      en: Adelphi University
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: university in Garden City, New York
+    ids:
+      wikidata: Q4682076
+    links:
+      - https://en.wikipedia.org/wiki/Adelphi_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4682076
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: adelson-foundation
+    type: org
+    name: Adelson Foundation
+    names:
+      en: Adelson Foundation
+    orgType: foundation
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: charitable foundation
+    ids:
+      wikidata: Q16974236
+    links:
+      - https://en.wikipedia.org/wiki/Adelson_Foundations
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16974236
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: administrative-conference-of-the-united-states
+    type: org
+    name: Administrative Conference of the United States
+    names:
+      zh: 美国行政会议
+      en: Administrative Conference of the United States
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: independent agency of the United States government dedicated to improving federal agency administrative processes and procedures
+    ids:
+      wikidata: Q4683456
+    links:
+      - https://en.wikipedia.org/wiki/Administrative_Conference_of_the_United_States
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4683456
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: adobe
+    type: org
+    name: Adobe
+    names:
+      zh: Adobe
+      en: Adobe
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國跨國電腦軟體公司
+    ids:
+      wikidata: Q11463
+    links:
+      - https://en.wikipedia.org/wiki/Adobe_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11463
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: advance-publications
+    type: org
+    name: Advance Publications
+    names:
+      zh: 先進出版公司
+      en: Advance Publications
+    orgType: media
+    country:
+      - US
+    sectors:
+      - media
+    tier: 4
+    summary: 美国公司
+    ids:
+      wikidata: Q379222
+    links:
+      - https://en.wikipedia.org/wiki/Advance_Publications
+    sources:
+      - url: https://www.wikidata.org/wiki/Q379222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: affinity-partners
+    type: org
+    name: Affinity Partners
+    names:
+      en: Affinity Partners
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Global investment firm formed by former presidential advisor Jared Kushner
+    ids:
+      wikidata: Q112683459
+    links:
+      - https://en.wikipedia.org/wiki/Affinity_Partners
+    sources:
+      - url: https://www.wikidata.org/wiki/Q112683459
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: agricultural-bank-of-china
+    type: org
+    name: 中国农业银行
+    names:
+      zh: 中国农业银行
+      en: Agricultural Bank of China
+    orgType: bank
+    country:
+      - CN
+    sectors:
+      - finance
+    tier: 3
+    summary: 中国大陆国有商业银行
+    ids:
+      wikidata: Q26298
+    links:
+      - https://en.wikipedia.org/wiki/Agricultural_Bank_of_China
+    sources:
+      - url: https://www.wikidata.org/wiki/Q26298
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: air-university
+    type: org
+    name: Air University
+    names:
+      zh: 美國空軍大學
+      en: Air University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: U.S. Air Force military education institution
+    ids:
+      wikidata: Q407875
+    links:
+      - https://en.wikipedia.org/wiki/Air_University_(United_States_Air_Force)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q407875
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: airbnb
+    type: org
+    name: Airbnb
+    names:
+      zh: 爱彼迎
+      en: Airbnb
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国民宿出租網站
+    ids:
+      wikidata: Q63327
+    links:
+      - https://en.wikipedia.org/wiki/Airbnb
+    sources:
+      - url: https://www.wikidata.org/wiki/Q63327
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: akin-gump-strauss-hauer-and-feld
+    type: org
+    name: Akin Gump Strauss Hauer & Feld
+    names:
+      en: Akin Gump Strauss Hauer & Feld
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: law firm
+    ids:
+      wikidata: Q4701049
+    links:
+      - https://en.wikipedia.org/wiki/Akin_Gump_Strauss_Hauer_%26_Feld
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4701049
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alabama-house-of-representatives
+    type: org
+    name: Alabama House of Representatives
+    names:
+      zh: 亚拉巴马州众议院
+      en: Alabama House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 立法机构
+    ids:
+      wikidata: Q909041
+    links:
+      - https://en.wikipedia.org/wiki/Alabama_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q909041
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alabama-senate
+    type: org
+    name: Alabama Senate
+    names:
+      zh: 亚拉巴马州参议院
+      en: Alabama Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the Alabama legislature
+    ids:
+      wikidata: Q1494573
+    links:
+      - https://en.wikipedia.org/wiki/Alabama_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494573
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alameda-research
+    type: org
+    name: Alameda Research
+    names:
+      en: Alameda Research
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: quantitative cryptocurrency trading firm
+    ids:
+      wikidata: Q115175564
+    links:
+      - https://en.wikipedia.org/wiki/Alameda_Research
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115175564
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alaska-house-of-representatives
+    type: org
+    name: Alaska House of Representatives
+    names:
+      zh: 阿拉斯加州众议院
+      en: Alaska House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house in the Alaska Legislature
+    ids:
+      wikidata: Q720324
+    links:
+      - https://en.wikipedia.org/wiki/Alaska_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q720324
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alaska-senate
+    type: org
+    name: Alaska Senate
+    names:
+      zh: 阿拉斯加州参议院
+      en: Alaska Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Upper house of the Alaska Legislature
+    ids:
+      wikidata: Q144574
+    links:
+      - https://en.wikipedia.org/wiki/Alaska_State_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q144574
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: albany-law-school
+    type: org
+    name: Albany Law School
+    names:
+      zh: 奥尔巴尼法学院
+      en: Albany Law School
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private law school in Albany, New York
+    ids:
+      wikidata: Q4709336
+    links:
+      - https://en.wikipedia.org/wiki/Albany_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4709336
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alexa-internet
+    type: org
+    name: Alexa Internet
+    names:
+      zh: Alexa Internet
+      en: Alexa Internet
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 亚马逊公司旗下網站排名服务
+    ids:
+      wikidata: Q230051
+    links:
+      - https://en.wikipedia.org/wiki/Alexa_Internet
+    sources:
+      - url: https://www.wikidata.org/wiki/Q230051
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alibaba-com
+    type: org
+    name: alibaba.com
+    names:
+      zh: 阿里巴巴网络
+      en: alibaba.com
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: 阿里巴巴集团旗下B2B电子商务公司
+    ids:
+      wikidata: Q513307
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q513307
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alibaba-group
+    type: org
+    name: 阿里巴巴集团
+    names:
+      zh: 阿里巴巴集团
+      en: Alibaba Group
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 2
+    summary: 电子商务集团
+    ids:
+      wikidata: Q1359568
+    links:
+      - https://en.wikipedia.org/wiki/Alibaba_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1359568
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alipay
+    type: org
+    name: Alipay
+    names:
+      zh: 支付宝
+      en: Alipay
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 阿里巴巴旗下第三方支付平台
+    ids:
+      wikidata: Q493556
+    links:
+      - https://en.wikipedia.org/wiki/Alipay
+    sources:
+      - url: https://www.wikidata.org/wiki/Q493556
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: all-china-women-s-federation
+    type: org
+    name: 中华全国妇女联合会
+    names:
+      zh: 中华全国妇女联合会
+      en: All-China Women’s Federation
+    orgType: ngo
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国全国性妇女组织
+    ids:
+      wikidata: Q843683
+    links:
+      - https://en.wikipedia.org/wiki/All-China_Women's_Federation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q843683
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: all-elite-wrestling
+    type: org
+    name: All Elite Wrestling
+    names:
+      zh: 全精英摔角
+      en: All Elite Wrestling
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国职业摔角联盟
+    ids:
+      wikidata: Q60324825
+    links:
+      - https://en.wikipedia.org/wiki/All_Elite_Wrestling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60324825
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: allen-stevenson-school
+    type: org
+    name: Allen-Stevenson School
+    names:
+      zh: 艾倫斯蒂文森學校
+      en: Allen-Stevenson School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private elementary for boys school in New York, New York, United States
+    ids:
+      wikidata: Q4731484
+    links:
+      - https://en.wikipedia.org/wiki/Allen-Stevenson_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4731484
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alliance-for-climate-protection
+    type: org
+    name: Alliance for Climate Protection
+    names:
+      zh: 气候保护同盟
+      en: Alliance for Climate Protection
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: non-profit organization involved in education and advocacy related to climate change
+    ids:
+      wikidata: Q118408
+    links:
+      - https://en.wikipedia.org/wiki/Alliance_for_Climate_Protection
+    sources:
+      - url: https://www.wikidata.org/wiki/Q118408
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alliance-for-lupus-research
+    type: org
+    name: Alliance for Lupus Research
+    names:
+      en: Alliance for Lupus Research
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: nonprofit organization
+    ids:
+      wikidata: Q4732379
+    links:
+      - https://en.wikipedia.org/wiki/Lupus_Research_Alliance
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4732379
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: alphabet-inc
+    type: org
+    name: Alphabet Inc.
+    names:
+      zh: Alphabet
+      en: Alphabet Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: Google創建的美國持股公司和企業集團
+    ids:
+      wikidata: Q20800404
+    links:
+      - https://en.wikipedia.org/wiki/Alphabet_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20800404
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: altaba
+    type: org
+    name: Altaba
+    names:
+      en: Altaba
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American investment company, formerly known as Yahoo Inc.
+    ids:
+      wikidata: Q30321616
+    links:
+      - https://en.wikipedia.org/wiki/Altaba
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30321616
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: altitude-sports-and-entertainment
+    type: org
+    name: Altitude Sports and Entertainment
+    names:
+      en: Altitude Sports and Entertainment
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: regional sports network in Colorado
+    ids:
+      wikidata: Q4736735
+    links:
+      - https://en.wikipedia.org/wiki/Altitude_Sports_and_Entertainment
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4736735
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amaru-entertainment
+    type: org
+    name: Amaru Entertainment
+    names:
+      en: Amaru Entertainment
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American record label
+    ids:
+      wikidata: Q2273516
+    links:
+      - https://en.wikipedia.org/wiki/Amaru_Entertainment
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2273516
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amazon
+    type: org
+    name: Amazon
+    names:
+      zh: 亚马逊
+      en: Amazon
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美国科技公司
+    ids:
+      wikidata: Q3884
+    links:
+      - https://en.wikipedia.org/wiki/Amazon_(company)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3884
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amblimation
+    type: org
+    name: Amblimation
+    names:
+      zh: 安培林動畫部門
+      en: Amblimation
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 4
+    summary: British animation production subsidiary of Amblin Entertainment
+    ids:
+      wikidata: Q1636748
+    links:
+      - https://en.wikipedia.org/wiki/Amblimation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1636748
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amblin-entertainment
+    type: org
+    name: Amblin Entertainment
+    names:
+      zh: 安伯林娱乐公司
+      en: Amblin Entertainment
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: American film production company
+    ids:
+      wikidata: Q457893
+    links:
+      - https://en.wikipedia.org/wiki/Amblin_Entertainment
+    sources:
+      - url: https://www.wikidata.org/wiki/Q457893
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amblin-partners
+    type: org
+    name: Amblin Partners
+    names:
+      zh: 安倍林集团
+      en: Amblin Partners
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American entertainment company
+    ids:
+      wikidata: Q22079339
+    links:
+      - https://en.wikipedia.org/wiki/Amblin_Partners
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22079339
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amblin-television
+    type: org
+    name: Amblin Television
+    names:
+      zh: 安培林娱乐
+      en: Amblin Television
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: TV production division of Amblin Partners
+    ids:
+      wikidata: Q24988339
+    links:
+      - https://en.wikipedia.org/wiki/Amblin_Television
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24988339
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amd
+    type: org
+    name: AMD
+    names:
+      zh: 超威半导体
+      en: AMD
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國半導體設計公司
+    ids:
+      wikidata: Q128896
+    links:
+      - https://en.wikipedia.org/wiki/AMD
+    sources:
+      - url: https://www.wikidata.org/wiki/Q128896
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amer-international-group-limited
+    type: org
+    name: Amer International Group Limited
+    names:
+      zh: 正威集團
+      en: Amer International Group Limited
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Chinese industrial conglomerate
+    ids:
+      wikidata: Q16926201
+    links:
+      - https://en.wikipedia.org/wiki/Amer_International_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16926201
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: america-first-policy-institute
+    type: org
+    name: America First Policy Institute
+    names:
+      zh: 美國優先政策
+      en: America First Policy Institute
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American nonprofit think tank
+    ids:
+      wikidata: Q30325237
+    links:
+      - https://en.wikipedia.org/wiki/America_First_Policy_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30325237
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: america-pac
+    type: org
+    name: America PAC
+    names:
+      en: America PAC
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: conservative political action committee linked to Elon Musk
+    ids:
+      wikidata: Q127790371
+    links:
+      - https://en.wikipedia.org/wiki/America_PAC
+    sources:
+      - url: https://www.wikidata.org/wiki/Q127790371
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: america-party
+    type: org
+    name: America Party
+    names:
+      zh: 美国党
+      en: America Party
+    orgType: party
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 埃隆·马斯克宣布创立的政党
+    ids:
+      wikidata: Q135219011
+    links:
+      - https://en.wikipedia.org/wiki/America_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q135219011
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: america-s-future
+    type: org
+    name: America's Future
+    names:
+      en: America's Future
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: US educational nonprofit organization
+    ids:
+      wikidata: Q117218208
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q117218208
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: american-broadcasting-company
+    type: org
+    name: American Broadcasting Company
+    names:
+      zh: 美国广播公司
+      en: American Broadcasting Company
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 華特迪士尼公司通過迪士尼美國廣播公司電視集團擁有的美國廣播電視網絡
+    ids:
+      wikidata: Q169889
+    links:
+      - https://en.wikipedia.org/wiki/American_Broadcasting_Company
+    sources:
+      - url: https://www.wikidata.org/wiki/Q169889
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: american-center-for-law-and-justice
+    type: org
+    name: American Center for Law & Justice
+    names:
+      zh: 美国法律正义中心
+      en: American Center for Law & Justice
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: far-right organization based in the United States
+    ids:
+      wikidata: Q463684
+    links:
+      - https://en.wikipedia.org/wiki/American_Center_for_Law_%26_Justice
+    sources:
+      - url: https://www.wikidata.org/wiki/Q463684
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: american-cornerstone-institute
+    type: org
+    name: American Cornerstone Institute
+    names:
+      en: American Cornerstone Institute
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American conservative think tank founded in 2021
+    ids:
+      wikidata: Q106298367
+    links:
+      - https://en.wikipedia.org/wiki/American_Cornerstone_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106298367
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: american-enterprise-institute
+    type: org
+    name: American Enterprise Institute
+    names:
+      zh: 美国企业公共政策研究所
+      en: American Enterprise Institute
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: American conservative think tank founded in 1938
+    ids:
+      wikidata: Q464135
+    links:
+      - https://en.wikipedia.org/wiki/American_Enterprise_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q464135
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: american-express
+    type: org
+    name: American Express
+    names:
+      zh: 美国运通
+      en: American Express
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国金融服务公司
+    ids:
+      wikidata: Q194360
+    links:
+      - https://en.wikipedia.org/wiki/American_Express
+    sources:
+      - url: https://www.wikidata.org/wiki/Q194360
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: american-international-college
+    type: org
+    name: American International College
+    names:
+      zh: 美國國際學院
+      en: American International College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: Liberal arts college in Massachusetts, U.S.
+    ids:
+      wikidata: Q3695722
+    links:
+      - https://en.wikipedia.org/wiki/American_International_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3695722
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: american-manufacturing-council
+    type: org
+    name: American Manufacturing Council
+    names:
+      en: American Manufacturing Council
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: group of chief executives advising U.S. President Donald Trump
+    ids:
+      wikidata: Q36749607
+    links:
+      - https://en.wikipedia.org/wiki/American_Manufacturing_Council
+    sources:
+      - url: https://www.wikidata.org/wiki/Q36749607
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: american-university
+    type: org
+    name: American University
+    names:
+      zh: 美利坚大学
+      en: American University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美國的一所私立大學 (American University)
+    ids:
+      wikidata: Q168000
+    links:
+      - https://en.wikipedia.org/wiki/American_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q168000
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: americans-for-responsible-solutions
+    type: org
+    name: Americans for Responsible Solutions
+    names:
+      en: Americans for Responsible Solutions
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: political action group
+    ids:
+      wikidata: Q16199083
+    links:
+      - https://en.wikipedia.org/wiki/Americans_for_Responsible_Solutions
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16199083
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amherst-college
+    type: org
+    name: Amherst College
+    names:
+      zh: 阿默斯特学院
+      en: Amherst College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国马萨诸萨州文理学院
+    ids:
+      wikidata: Q49165
+    links:
+      - https://en.wikipedia.org/wiki/Amherst_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49165
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: amtrak
+    type: org
+    name: Amtrak
+    names:
+      zh: 美铁
+      en: Amtrak
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國國家鐵路客運公司
+    ids:
+      wikidata: Q23239
+    links:
+      - https://en.wikipedia.org/wiki/Amtrak
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23239
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ancient-and-honorable-artillery-company-of-massachusetts
+    type: org
+    name: Ancient and Honorable Artillery Company of Massachusetts
+    names:
+      zh: 马萨诸塞炮兵团
+      en: Ancient and Honorable Artillery Company of Massachusetts
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: military unit
+    ids:
+      wikidata: Q4752939
+    links:
+      - https://en.wikipedia.org/wiki/Ancient_and_Honorable_Artillery_Company_of_Massachusetts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4752939
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: andreessen-horowitz
+    type: org
+    name: Andreessen Horowitz
+    names:
+      zh: 安德森·霍罗威茨
+      en: Andreessen Horowitz
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private American venture capital firm founded in 2009
+    ids:
+      wikidata: Q4034010
+    links:
+      - https://en.wikipedia.org/wiki/Andreessen_Horowitz
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4034010
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: android
+    type: org
+    name: Android
+    names:
+      en: Android
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 開源的行動作業系統
+    ids:
+      wikidata: Q94
+    links:
+      - https://en.wikipedia.org/wiki/Android_(operating_system)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q94
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anhui-normal-university
+    type: org
+    name: 安徽师范大学
+    names:
+      zh: 安徽师范大学
+      en: Anhui Normal University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于安徽省芜湖市的公立师范类高等院校
+    ids:
+      wikidata: Q614203
+    links:
+      - https://en.wikipedia.org/wiki/Anhui_Normal_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q614203
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anhui-provincial-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党安徽省委员会
+    names:
+      zh: 中国共产党安徽省委员会
+      en: Anhui Provincial Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 第十一届委员会（2021年至2026年）
+    ids:
+      wikidata: Q10873198
+    links:
+      - https://en.wikipedia.org/wiki/Anhui_Provincial_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873198
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: anhui-university
+    type: org
+    name: 安徽大学
+    names:
+      zh: 安徽大学
+      en: Anhui University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 1928年创建的一所学校
+    ids:
+      wikidata: Q545540
+    links:
+      - https://en.wikipedia.org/wiki/Anhui_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q545540
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ann-and-gordon-getty-collection
+    type: org
+    name: Ann & Gordon Getty Collection
+    names:
+      en: Ann & Gordon Getty Collection
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q114704176
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q114704176
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: annual-meeting-of-the-new-champions
+    type: org
+    name: 世界经济论坛新领军者年会
+    names:
+      zh: 世界经济论坛新领军者年会
+      en: Annual Meeting of the New Champions
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: Summer annual meeting of World Economic Forum
+    ids:
+      wikidata: Q10931956
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10931956
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ant-group
+    type: org
+    name: 蚂蚁集团
+    names:
+      zh: 蚂蚁集团
+      en: Ant Group
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中國互聯網金融服務公司
+    ids:
+      wikidata: Q21979415
+    links:
+      - https://en.wikipedia.org/wiki/Ant_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21979415
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: aon-plc
+    type: org
+    name: Aon plc
+    names:
+      zh: 怡安集团
+      en: Aon plc
+    orgType: company
+    country:
+      - GB
+    sectors:
+      - business
+    tier: 3
+    summary: British multinational corporation
+    ids:
+      wikidata: Q739518
+    links:
+      - https://en.wikipedia.org/wiki/Aon_plc
+    sources:
+      - url: https://www.wikidata.org/wiki/Q739518
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: apollo-global-management
+    type: org
+    name: Apollo Global Management
+    names:
+      zh: 阿波罗管理
+      en: Apollo Global Management
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American private equity firm
+    ids:
+      wikidata: Q619121
+    links:
+      - https://en.wikipedia.org/wiki/Apollo_Global_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q619121
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: appalachian-state-university
+    type: org
+    name: Appalachian State University
+    names:
+      zh: 阿帕拉契大學
+      en: Appalachian State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: public university in Boone, North Carolina
+    ids:
+      wikidata: Q620640
+    links:
+      - https://en.wikipedia.org/wiki/Appalachian_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q620640
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: appaloosa-management
+    type: org
+    name: Appaloosa Management
+    names:
+      zh: 阿帕盧薩資產管理公司
+      en: Appaloosa Management
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American hedge fund
+    ids:
+      wikidata: Q4780897
+    links:
+      - https://en.wikipedia.org/wiki/Appaloosa_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4780897
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: apple-inc
+    type: org
+    name: Apple Inc.
+    names:
+      zh: 苹果公司
+      en: Apple Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國的跨國科技公司
+    ids:
+      wikidata: Q312
+    links:
+      - https://en.wikipedia.org/wiki/Apple_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q312
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: aquarius
+    type: org
+    name: Aquarius
+    names:
+      en: Aquarius
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: luxury yacht built in 2016
+    ids:
+      wikidata: Q55099512
+    links:
+      - https://en.wikipedia.org/wiki/Aquarius_(yacht)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55099512
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arad-productions-inc
+    type: org
+    name: Arad Productions Inc.
+    names:
+      en: Arad Productions Inc.
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q17991752
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17991752
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arbusto-energy
+    type: org
+    name: Arbusto Energy
+    names:
+      en: Arbusto Energy
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: former oil and gas exploration company
+    ids:
+      wikidata: Q2700243
+    links:
+      - https://en.wikipedia.org/wiki/Arbusto_Energy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2700243
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: archbishop-rummel-high-school
+    type: org
+    name: Archbishop Rummel High School
+    names:
+      zh: 大主教拉美尔高中
+      en: Archbishop Rummel High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private school in Metairie, Louisiana, United States
+    ids:
+      wikidata: Q4785640
+    links:
+      - https://en.wikipedia.org/wiki/Archbishop_Rummel_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4785640
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: archimedes
+    type: org
+    name: Archimedes
+    names:
+      en: Archimedes
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: yacht built in 2008
+    ids:
+      wikidata: Q52289831
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q52289831
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: architecture-machine-group
+    type: org
+    name: Architecture Machine Group
+    names:
+      en: Architecture Machine Group
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q130480588
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q130480588
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: archmere-academy
+    type: org
+    name: Archmere Academy
+    names:
+      zh: 阿奇米尔学院
+      en: Archmere Academy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private, coeducational school in Claymont, , Delaware, USA
+    ids:
+      wikidata: Q2860580
+    links:
+      - https://en.wikipedia.org/wiki/Archmere_Academy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2860580
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: archy
+    type: org
+    name: Archy
+    names:
+      en: Archy
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: software system
+    ids:
+      wikidata: Q4787378
+    links:
+      - https://en.wikipedia.org/wiki/Archy_(software)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4787378
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arctic-rays
+    type: org
+    name: Arctic Rays
+    names:
+      en: Arctic Rays
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: deep-sea lighting and imaging systems provider
+    ids:
+      wikidata: Q134738373
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q134738373
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arcus-foundation
+    type: org
+    name: Arcus Foundation
+    names:
+      en: Arcus Foundation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: foundation focused on grantmaking related to LGBT rights, social justice, and ape conservation
+    ids:
+      wikidata: Q4787745
+    links:
+      - https://en.wikipedia.org/wiki/Arcus_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4787745
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arent-fox
+    type: org
+    name: Arent Fox
+    names:
+      zh: 阿伦特-福克斯-希夫
+      en: Arent Fox
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: American law firm and lobbying group
+    ids:
+      wikidata: Q4789036
+    links:
+      - https://en.wikipedia.org/wiki/ArentFox_Schiff
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4789036
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ares-management
+    type: org
+    name: Ares Management
+    names:
+      zh: 阿瑞斯投資
+      en: Ares Management
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: asset management company
+    ids:
+      wikidata: Q4789079
+    links:
+      - https://en.wikipedia.org/wiki/Ares_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4789079
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arizona-house-of-representatives
+    type: org
+    name: Arizona House of Representatives
+    names:
+      zh: 亚利桑那州众议院
+      en: Arizona House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of U.S. state legislature
+    ids:
+      wikidata: Q1444543
+    links:
+      - https://en.wikipedia.org/wiki/Arizona_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1444543
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arizona-senate
+    type: org
+    name: Arizona Senate
+    names:
+      zh: 亚利桑那州参议院
+      en: Arizona Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: part of the Arizona Legislature, the state legislature of the U.S. state of Arizona
+    ids:
+      wikidata: Q250949
+    links:
+      - https://en.wikipedia.org/wiki/Arizona_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q250949
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arizona-state-university
+    type: org
+    name: Arizona State University
+    names:
+      zh: 亚利桑那州立大学
+      en: Arizona State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 1885年创建的一所学校
+    ids:
+      wikidata: Q670897
+    links:
+      - https://en.wikipedia.org/wiki/Arizona_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q670897
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arkansas-advocates-for-children-and-families
+    type: org
+    name: Arkansas Advocates for Children and Families
+    names:
+      en: Arkansas Advocates for Children and Families
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Nonprofit organization
+    ids:
+      wikidata: Q4791728
+    links:
+      - https://en.wikipedia.org/wiki/Arkansas_Advocates_for_Children_and_Families
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4791728
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arkansas-house-of-representatives
+    type: org
+    name: Arkansas House of Representatives
+    names:
+      zh: 阿肯色州众议院
+      en: Arkansas House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the Arkansas General Assembly
+    ids:
+      wikidata: Q909027
+    links:
+      - https://en.wikipedia.org/wiki/Arkansas_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q909027
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arkansas-school-for-mathematics-sciences-and-the-arts
+    type: org
+    name: Arkansas School for Mathematics, Sciences, and the Arts
+    names:
+      en: Arkansas School for Mathematics, Sciences, and the Arts
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public residential high school in Hot Springs, Garland, Arkansas, United States
+    ids:
+      wikidata: Q4791862
+    links:
+      - https://en.wikipedia.org/wiki/Arkansas_School_for_Mathematics%2C_Sciences%2C_and_the_Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4791862
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arkansas-state-university
+    type: org
+    name: Arkansas State University
+    names:
+      zh: 阿肯色州立大学
+      en: Arkansas State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public university in Arkansas, United States
+    ids:
+      wikidata: Q500131
+    links:
+      - https://en.wikipedia.org/wiki/Arkansas_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q500131
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arkansas-tech-university
+    type: org
+    name: Arkansas Tech University
+    names:
+      zh: 阿肯色理工大學
+      en: Arkansas Tech University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: public university in Russellville, Arkansas
+    ids:
+      wikidata: Q673111
+    links:
+      - https://en.wikipedia.org/wiki/Arkansas_Tech_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q673111
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arlington-heights-high-school
+    type: org
+    name: Arlington Heights High School
+    names:
+      en: Arlington Heights High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public secondary school in Fort Worth, Texas, United States
+    ids:
+      wikidata: Q4792330
+    links:
+      - https://en.wikipedia.org/wiki/Arlington_Heights_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4792330
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: army-achievement-medal
+    type: org
+    name: Army Achievement Medal
+    names:
+      en: Army Achievement Medal
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: U.S. Army individual decoration for meritorious service or achievement of a lesser degree than required for award of the Army Commendation Medal
+    ids:
+      wikidata: Q11958982
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11958982
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arraycomm
+    type: org
+    name: ArrayComm
+    names:
+      en: ArrayComm
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    ids:
+      wikidata: Q4795873
+    links:
+      - https://en.wikipedia.org/wiki/ArrayComm
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4795873
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: arsenal-f-c
+    type: org
+    name: Arsenal F.C.
+    names:
+      zh: 阿森纳足球俱乐部
+      en: Arsenal F.C.
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 2
+    summary: 英格蘭足球俱樂部
+    ids:
+      wikidata: Q9617
+    links:
+      - https://en.wikipedia.org/wiki/Arsenal_F.C.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9617
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: artifact
+    type: org
+    name: Artifact
+    names:
+      en: Artifact
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American news application
+    ids:
+      wikidata: Q116626626
+    links:
+      - https://en.wikipedia.org/wiki/Artifact_(app)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116626626
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: artsy
+    type: org
+    name: Artsy
+    names:
+      zh: 裝飾主義網站
+      en: Artsy
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 旨在將收藏家與藝術品連接起來的在線平台
+    ids:
+      wikidata: Q4796642
+    links:
+      - https://en.wikipedia.org/wiki/Artsy_(website)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4796642
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: as-roma
+    type: org
+    name: AS Roma
+    names:
+      zh: 羅馬體育俱樂部
+      en: AS Roma
+    orgType: other
+    country:
+      - IT
+    sectors:
+      - other
+    tier: 2
+    summary: 意大利罗马的足球俱乐部
+    ids:
+      wikidata: Q2739
+    links:
+      - https://en.wikipedia.org/wiki/AS_Roma
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2739
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: asana-inc
+    type: org
+    name: Asana Inc.
+    names:
+      zh: Asana
+      en: Asana Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: commercial business enterprise; maker of Asana software
+    ids:
+      wikidata: Q111411592
+    links:
+      - https://en.wikipedia.org/wiki/Asana%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111411592
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: asia-brewery
+    type: org
+    name: Asia Brewery
+    names:
+      en: Asia Brewery
+    orgType: company
+    country:
+      - PH
+    sectors:
+      - business
+    tier: 4
+    summary: Philippine brewery
+    ids:
+      wikidata: Q2049508
+    links:
+      - https://en.wikipedia.org/wiki/Asia_Brewery
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2049508
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: asian-infrastructure-investment-bank
+    type: org
+    name: 亚洲基础设施投资银行
+    names:
+      zh: 亚洲基础设施投资银行
+      en: Asian Infrastructure Investment Bank
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 國際金融機構
+    ids:
+      wikidata: Q18109843
+    links:
+      - https://en.wikipedia.org/wiki/Asian_Infrastructure_Investment_Bank
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18109843
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: aspen-institute
+    type: org
+    name: Aspen Institute
+    names:
+      zh: 阿斯彭研究所
+      en: Aspen Institute
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: international nonprofit organization founded in 1950
+    ids:
+      wikidata: Q457528
+    links:
+      - https://en.wikipedia.org/wiki/Aspen_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q457528
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: assembly
+    type: org
+    name: assembly
+    names:
+      zh: 合议性团体
+      en: assembly
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 组织
+    ids:
+      wikidata: Q1752346
+    links:
+      - https://en.wikipedia.org/wiki/Deliberative_assembly
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1752346
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: assumption-university
+    type: org
+    name: Assumption University
+    names:
+      zh: 假设学院
+      en: Assumption University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: Roman Catholic liberal arts college in Worcester, Massachusetts, United States
+    ids:
+      wikidata: Q3445783
+    links:
+      - https://en.wikipedia.org/wiki/Assumption_University_(Worcester)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3445783
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: aston-villa-under-21s-and-academy
+    type: org
+    name: Aston Villa Under-21s and Academy
+    names:
+      zh: 阿士東維拉
+      en: Aston Villa Under-21s and Academy
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 4
+    summary: football club
+    ids:
+      wikidata: Q4811032
+    links:
+      - https://en.wikipedia.org/wiki/Aston_Villa_F.C._Under-21s_and_Academy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4811032
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: aston-villa-w-f-c
+    type: org
+    name: Aston Villa W.F.C.
+    names:
+      zh: 阿士東維拉足球會女子隊
+      en: Aston Villa W.F.C.
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 3
+    summary: women's football club from Birmingham, England
+    ids:
+      wikidata: Q4811037
+    links:
+      - https://en.wikipedia.org/wiki/Aston_Villa_W.F.C.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4811037
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: astra-nova-school
+    type: org
+    name: Astra Nova School
+    names:
+      en: Astra Nova School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private online school
+    ids:
+      wikidata: Q123376376
+    links:
+      - https://en.wikipedia.org/wiki/Astra_Nova_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q123376376
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: astronomers-without-borders
+    type: org
+    name: Astronomers Without Borders
+    names:
+      en: Astronomers Without Borders
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: United States organization founded by Mike Simmons and Anousheh Ansar
+    ids:
+      wikidata: Q28407119
+    links:
+      - https://en.wikipedia.org/wiki/Astronomers_Without_Borders
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28407119
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: asylum-records
+    type: org
+    name: Asylum Records
+    names:
+      zh: 庇护所唱片公司
+      en: Asylum Records
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: American record label
+    ids:
+      wikidata: Q1998195
+    links:
+      - https://en.wikipedia.org/wiki/Asylum_Records
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1998195
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: atari
+    type: org
+    name: Atari
+    names:
+      zh: 雅达利
+      en: Atari
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國企業
+    ids:
+      wikidata: Q207922
+    links:
+      - https://en.wikipedia.org/wiki/Atari
+    sources:
+      - url: https://www.wikidata.org/wiki/Q207922
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: atari-corporation
+    type: org
+    name: Atari Corporation
+    names:
+      zh: 雅达利公司
+      en: Atari Corporation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: computer and video game console manufacturer
+    ids:
+      wikidata: Q3627870
+    links:
+      - https://en.wikipedia.org/wiki/Atari_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3627870
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: atari-inc
+    type: org
+    name: Atari, Inc.
+    names:
+      zh: 雅达利有限公司
+      en: Atari, Inc.
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: defunct American video game and home computer company (1972–1984)
+    ids:
+      wikidata: Q13409231
+    links:
+      - https://en.wikipedia.org/wiki/Atari%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q13409231
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: athena
+    type: org
+    name: Athena
+    names:
+      en: Athena
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: clipper-bowed three masted gaff rigged schooner
+    ids:
+      wikidata: Q8256
+    links:
+      - https://en.wikipedia.org/wiki/Athena_(yacht)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8256
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: atlanta-city-fc
+    type: org
+    name: Atlanta City FC
+    names:
+      en: Atlanta City FC
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: women's soccer club based in Atlanta, Georgia
+    ids:
+      wikidata: Q136955774
+    links:
+      - https://en.wikipedia.org/wiki/Atlanta_City_FC
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136955774
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: atlanta-dream
+    type: org
+    name: Atlanta Dream
+    names:
+      zh: 亞特蘭大美夢
+      en: Atlanta Dream
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: American professional women's basketball team
+    ids:
+      wikidata: Q756160
+    links:
+      - https://en.wikipedia.org/wiki/Atlanta_Dream
+    sources:
+      - url: https://www.wikidata.org/wiki/Q756160
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: atlanta-falcons
+    type: org
+    name: Atlanta Falcons
+    names:
+      zh: 亚特兰大猎鹰
+      en: Atlanta Falcons
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: American football team
+    ids:
+      wikidata: Q272059
+    links:
+      - https://en.wikipedia.org/wiki/Atlanta_Falcons
+    sources:
+      - url: https://www.wikidata.org/wiki/Q272059
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: atlanta-united-2
+    type: org
+    name: Atlanta United 2
+    names:
+      zh: 阿特蘭大聯二隊
+      en: Atlanta United 2
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Atlanta United's professional reserve squad
+    ids:
+      wikidata: Q47175799
+    links:
+      - https://en.wikipedia.org/wiki/Atlanta_United_2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47175799
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: atlanta-united-fc
+    type: org
+    name: Atlanta United FC
+    names:
+      zh: 阿特蘭大聯足球會
+      en: Atlanta United FC
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 足球會
+    ids:
+      wikidata: Q16836317
+    links:
+      - https://en.wikipedia.org/wiki/Atlanta_United_FC
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16836317
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: atlantic-council
+    type: org
+    name: Atlantic Council
+    names:
+      zh: 大西洋理事会
+      en: Atlantic Council
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: American think tank
+    ids:
+      wikidata: Q756373
+    links:
+      - https://en.wikipedia.org/wiki/Atlantic_Council
+    sources:
+      - url: https://www.wikidata.org/wiki/Q756373
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: auburn-university
+    type: org
+    name: Auburn University
+    names:
+      zh: 奥本大学
+      en: Auburn University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国亚拉巴马州大学
+    ids:
+      wikidata: Q540672
+    links:
+      - https://en.wikipedia.org/wiki/Auburn_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q540672
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: axlon
+    type: org
+    name: Axlon
+    names:
+      en: Axlon
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: Video game company
+    ids:
+      wikidata: Q141448699
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q141448699
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: axovant-sciences
+    type: org
+    name: Axovant Sciences
+    names:
+      en: Axovant Sciences
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: clinical-stage biopharmaceutical company
+    ids:
+      wikidata: Q20311716
+    links:
+      - https://en.wikipedia.org/wiki/Sio_Gene_Therapies
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20311716
+        publisher: Wikidata
+        accessed: 2026-10-11

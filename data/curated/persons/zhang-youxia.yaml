@@ -1,0 +1,45 @@
+id: zhang-youxia
+type: person
+name: 张又侠
+names:
+  zh: 张又侠
+  en: Zhang Youxia
+gender: M
+born: 1950-07
+country:
+- CN
+sectors:
+- military
+tier: 2
+status: purged
+summary: 前中央军委第一副主席（2017–2026）、上将，开国上将张宗逊之子，曾被视为习近平在军中最亲密的盟友（两家父辈同属西北野战军）。2026-01 被立案审查，2026-08 被免去国家军委职务，2026-09-21 被开除党籍军籍并移送军事检察机关。
+positions:
+- title: 中央军委副主席
+  org: ccp-cmc
+  from: 2017-10
+  to: 2026-08
+- title: 政治局委员
+  org: ccp-politburo
+  from: 2017-10
+  to: 2026-09
+- title: 中央军委装备发展部部长
+  org: ccp-cmc
+  from: 2012-10
+  to: 2017-08
+tags:
+- princeling
+- purged-2026
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.internazionale.it/ultime-notizie-reuters/2026/09/21/china-expels-two-top-generals-from-party-and-military-alleging-disloyalty-corruption
+  title: China expels two top generals from party and military, alleging disloyalty, corruption
+  publisher: Reuters
+  date: '2026-09-21'
+- url: https://scmp.com/news/china/politics/article/3368287/former-top-pla-generals-expelled-communist-party-factionalism-and-disloyalty
+  title: Former top PLA generals expelled from Communist Party for factionalism and disloyalty
+  publisher: South China Morning Post
+  date: '2026-09-22'
+updated: '2026-10-11'

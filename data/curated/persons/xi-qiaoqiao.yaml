@@ -1,0 +1,23 @@
+id: xi-qiaoqiao
+type: person
+name: 齐桥桥
+names:
+  zh: 齐桥桥
+  en: Qi Qiaoqiao
+aliases:
+- 习桥桥
+gender: F
+born: '1949'
+country:
+- CN
+sectors:
+- business
+- family
+tier: 3
+summary: 习近平之姐，随母姓齐（zhao 记作“习桥桥”）。彭博 2012 年调查：习近平亲属控制资产至少 3.76 亿美元，主要由齐桥桥、邓家贵夫妇及其女张燕南持有，涉及矿产、房地产、通信设备。
+sources:
+- url: https://www.bloomberg.com/news/2012-06-29/xi-jinping-millionaire-relations-reveal-fortunes-of-elite.html
+  title: Xi Jinping Millionaire Relations Reveal Fortunes of Elite
+  publisher: Bloomberg
+  date: '2012-06-29'
+updated: '2026-10-11'

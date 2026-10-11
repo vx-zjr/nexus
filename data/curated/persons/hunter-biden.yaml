@@ -1,0 +1,21 @@
+id: hunter-biden
+type: person
+name: Hunter Biden
+names:
+  en: Hunter Biden
+  zh: 亨特·拜登
+gender: M
+born: '1970-02-04'
+country:
+- US
+sectors:
+- business
+- finance
+tier: 3
+summary: 拜登之子。2013 年参与创办中美合资私募渤海华美（BHR Partners）并任董事，2017–2020 年经 Skaneateles 持股 10%；2017 年与中国华信能源（叶简明）有商业往来。2024-12 获其父全面特赦。
+sources:
+- url: https://en.wikipedia.org/wiki/Hunter_Biden
+  publisher: Wikipedia
+- url: https://en.wikipedia.org/wiki/BHR_Partners
+  publisher: Wikipedia
+updated: '2026-10-11'

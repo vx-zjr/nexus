@@ -1,0 +1,19 @@
+id: zeng-qinghong
+type: person
+name: 曾庆红
+names:
+  zh: 曾庆红
+  en: Zeng Qinghong
+gender: M
+born: 1939-07
+country:
+- CN
+sectors:
+- politics
+tier: 2
+status: retired
+summary: 前国家副主席（2003–2008）、政治局常委，江泽民最重要的幕僚与“大管家”，红二代（父曾山）。将王沪宁从复旦引入中央政策研究室。
+sources:
+- url: https://en.wikipedia.org/wiki/Zeng_Qinghong
+  publisher: Wikipedia
+updated: '2026-10-11'

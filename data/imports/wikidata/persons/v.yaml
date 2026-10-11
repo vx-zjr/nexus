@@ -1,0 +1,1259 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: val-demings
+    type: person
+    name: Val Demings
+    names:
+      zh: 瓦尔戴明斯
+      en: Val Demings
+    gender: F
+    born: 1957-03-12
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美国原产地政策
+    ids:
+      wikidata: Q7909083
+    links:
+      - https://en.wikipedia.org/wiki/Val_Demings
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 29
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7909083
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+  - id: val-hoyle
+    type: person
+    name: Val Hoyle
+    names:
+      zh: 瓦尔·霍伊尔
+      en: Val Hoyle
+    gender: F
+    born: 1964-02-14
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q7909103
+    links:
+      - https://en.wikipedia.org/wiki/Val_Hoyle
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7909103
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+      - title: 俄勒岡州眾議員
+        org: oregon-house-of-representatives
+        from: 2009-01-12
+        to: 2017-01-09
+  - id: valerie-biden-owens
+    type: person
+    name: Valerie Biden Owens
+    names:
+      zh: 瓦萊麗·拜登·歐文斯
+      en: Valerie Biden Owens
+    gender: F
+    born: 1945-11-05
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American political strategist
+    ids:
+      wikidata: Q98854090
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%93%A6%E8%8E%B1%E4%B8%BD%C2%B7%E6%8B%9C%E7%99%BB%C2%B7%E6%AC%A7%E6%96%87%E6%96%AF
+      - https://en.wikipedia.org/wiki/Valerie_Biden_Owens
+    tags:
+      - relative
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q98854090
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: valerie-mars
+    type: person
+    name: Valerie Mars
+    names:
+      en: Valerie Mars
+    gender: F
+    born: 1959-01-20
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American heiress, billionaire, member of Mars family (Mars Inc.)
+    netWorth:
+      usd: 1000000000
+    ids:
+      wikidata: Q51278311
+    links:
+      - https://en.wikipedia.org/wiki/Valerie_Mars
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q51278311
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: valerie-sununu
+    type: person
+    name: Valerie Sununu
+    names:
+      en: Valerie Sununu
+    gender: F
+    born: 1976-06-15
+    country: []
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q29033513
+    links:
+      - https://en.wikipedia.org/wiki/Valerie_Sununu
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q29033513
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: van-taylor
+    type: person
+    name: Van Taylor
+    names:
+      zh: 范·泰勒
+      en: Van Taylor
+    gender: M
+    born: 1972-08-01
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+    tier: 4
+    summary: American businessman and politician
+    ids:
+      wikidata: Q7913689
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%8C%83%C2%B7%E6%B3%B0%E5%8B%92
+      - https://en.wikipedia.org/wiki/Van_Taylor
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7913689
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: member of the State Senate of Texas
+        org: texas-senate
+        from: 2015-01-13
+        to: 2019-01-03
+      - title: 德克薩斯州眾議員
+        org: texas-house-of-representatives
+        from: 2010-04-20
+        to: 2015-01-13
+  - id: vanessa-kerry
+    type: person
+    name: Vanessa Kerry
+    names:
+      zh: 凡妮莎·克里
+      en: Vanessa Kerry
+    gender: F
+    born: 1976-12-31
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American doctor
+    ids:
+      wikidata: Q7914670
+    links:
+      - https://en.wikipedia.org/wiki/Vanessa_Kerry
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7914670
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vanessa-trump
+    type: person
+    name: Vanessa Trump
+    names:
+      zh: 凡妮莎·特朗普
+      en: Vanessa Trump
+    gender: F
+    born: 1977-12-18
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: American socialite and model, ex-wife of Donald Trump Jr. (born 1977)
+    ids:
+      wikidata: Q4461939
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%A1%E5%A6%AE%E8%8E%8E%C2%B7%E7%89%B9%E6%9C%97%E6%99%AE
+      - https://en.wikipedia.org/wiki/Vanessa_Trump
+    tags:
+      - relative
+    attrs:
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4461939
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vanu-bose
+    type: person
+    name: Vanu Bose
+    names:
+      en: Vanu Bose
+    gender: M
+    born: 1965-10-04
+    died: 2017-11-11
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American electrical engineer and businessman
+    ids:
+      wikidata: Q7915226
+    links:
+      - https://en.wikipedia.org/wiki/Vanu_Bose
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7915226
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vera-wang
+    type: person
+    name: Vera Wang
+    names:
+      zh: 王薇薇
+      en: Vera Wang
+    gender: F
+    born: 1949-06-27
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 时尚设计师
+    ids:
+      wikidata: Q230728
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%96%87%E8%96%87
+      - https://en.wikipedia.org/wiki/Vera_Wang
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 44
+    sources:
+      - url: https://www.wikidata.org/wiki/Q230728
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vern-buchanan
+    type: person
+    name: Vern Buchanan
+    names:
+      zh: 范恩·布肯南
+      en: Vern Buchanan
+    gender: M
+    born: 1951-05-08
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: U.S. Representative from Florida
+    ids:
+      wikidata: Q2517229
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BC%97%E6%81%A9%C2%B7%E5%B8%83%E5%9D%8E%E5%8D%97
+      - https://en.wikipedia.org/wiki/Vern_Buchanan
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2517229
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+  - id: vernon-a-walters
+    type: person
+    name: Vernon A. Walters
+    names:
+      zh: 弗农·沃尔特斯
+      en: Vernon A. Walters
+    gender: M
+    born: 1917-01-03
+    died: 2002-02-10
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+      - diplomacy
+    tier: 2
+    summary: United States general (1917–2002)
+    ids:
+      wikidata: Q660629
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BC%97%E5%86%9C%C2%B7%E6%B2%83%E5%B0%94%E7%89%B9%E6%96%AF
+      - https://en.wikipedia.org/wiki/Vernon_A._Walters
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q660629
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 大使
+        org: diplomatic-corps
+      - title: 美国常驻联合国代表列表
+        org: united-states-mission-to-the-united-nations
+        from: 1985-05-22
+        to: 1989-03-15
+  - id: vernon-sykes
+    type: person
+    name: Vernon Sykes
+    names:
+      en: Vernon Sykes
+    gender: M
+    born: 1951-10-02
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q7922242
+    links:
+      - https://en.wikipedia.org/wiki/Vernon_Sykes
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7922242
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 俄亥俄州眾議員
+        org: ohio-house-of-representatives
+        from: 1983-03-16
+        to: 2000-12-31
+      - title: 俄亥俄州眾議員
+        org: ohio-house-of-representatives
+        from: 2007-01-02
+        to: 2014-12-31
+      - title: 俄亥俄州參議員
+        org: ohio-senate
+        from: 2017-01-03
+  - id: veronica-escobar
+    type: person
+    name: Veronica Escobar
+    names:
+      zh: 薇洛妮卡·埃斯科瓦爾
+      en: Veronica Escobar
+    gender: F
+    born: 1969-09-15
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: U.S. Representative from Texas
+    ids:
+      wikidata: Q52274267
+    links:
+      - https://en.wikipedia.org/wiki/Veronica_Escobar
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q52274267
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: vicente-gonzalez
+    type: person
+    name: Vicente Gonzalez
+    names:
+      zh: 比森特·岡薩雷斯
+      en: Vicente Gonzalez
+    gender: M
+    born: 1967-09-04
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q27924921
+    links:
+      - https://en.wikipedia.org/wiki/Vicente_Gonzalez_(American_politician)
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27924921
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+  - id: vicki-risch
+    type: person
+    name: Vicki Risch
+    names:
+      zh: 薇薇·里施
+      en: Vicki Risch
+    gender: F
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q7925439
+    links:
+      - https://en.wikipedia.org/wiki/Vicki_Risch
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7925439
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vicky-hartzler
+    type: person
+    name: Vicky Hartzler
+    names:
+      zh: 維琪·哈茨勒
+      en: Vicky Hartzler
+    gender: F
+    born: 1960-10-13
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: U.S. Representative from Missouri
+    ids:
+      wikidata: Q375389
+    links:
+      - https://en.wikipedia.org/wiki/Vicky_Hartzler
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q375389
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: member of the Missouri House of Representatives
+        org: missouri-house-of-representatives
+        from: "1995"
+        to: "2001"
+  - id: victor-fung
+    type: person
+    name: 冯国经
+    names:
+      zh: 冯国经
+      en: Victor Fung
+    gender: M
+    born: 1945-01-15
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: Hong Kong businessman
+    ids:
+      wikidata: Q557256
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%A6%AE%E5%9C%8B%E7%B6%93
+      - https://en.wikipedia.org/wiki/Victor_Fung_(businessman)
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557256
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: victor-koo
+    type: person
+    name: 古永锵
+    names:
+      zh: 古永锵
+      en: Victor Koo
+    gender: M
+    born: "1966"
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国实业家
+    ids:
+      wikidata: Q7926068
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8F%A4%E6%B0%B8%E9%8F%98
+      - https://en.wikipedia.org/wiki/Victor_Koo
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7926068
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: victor-li
+    type: person
+    name: Victor Li
+    names:
+      zh: 李泽钜
+      en: Victor Li
+    gender: M
+    born: 1964-08-01
+    country:
+      - CA
+    sectors:
+      - business
+      - politics
+    tier: 5
+    summary: 香港企業家
+    ids:
+      wikidata: Q700167
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%BE%A4%E9%89%85
+      - https://en.wikipedia.org/wiki/Victor_Li_Tzar-kuoi
+    tags:
+      - relative
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q700167
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+  - id: victoria-b-mars
+    type: person
+    name: Victoria B. Mars
+    names:
+      zh: 维多利亚·B·玛氏
+      en: Victoria B. Mars
+    gender: F
+    born: 1965-07-28
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American heiress (Mars Inc.) and billionaire
+    netWorth:
+      usd: 10500000000
+    ids:
+      wikidata: Q19893317
+    links: []
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19893317
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: victoria-osteen
+    type: person
+    name: Victoria Osteen
+    names:
+      zh: 維多利亞·歐斯汀
+      en: Victoria Osteen
+    gender: F
+    born: 1961-03-28
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 4
+    summary: American pastor, author
+    ids:
+      wikidata: Q437839
+    links:
+      - https://en.wikipedia.org/wiki/Victoria_Osteen
+    tags:
+      - relative
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q437839
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: victoria-spartz
+    type: person
+    name: Victoria Spartz
+    names:
+      zh: 维多利亚·斯巴兹
+      en: Victoria Spartz
+    gender: F
+    born: 1978-10-06
+    country:
+      - US
+      - UA
+      - RU
+    sectors:
+      - politics
+    tier: 4
+    summary: Ukrainian-American politician (born 1978)
+    ids:
+      wikidata: Q44059867
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%C2%B7%E6%96%AF%E5%B8%95%E8%8C%A8
+      - https://en.wikipedia.org/wiki/Victoria_Spartz
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44059867
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: vidal-sassoon
+    type: person
+    name: Vidal Sassoon
+    names:
+      zh: 维达·沙宣
+      en: Vidal Sassoon
+    gender: M
+    born: 1928-01-17
+    died: 2012-05-09
+    country:
+      - US
+      - GB
+    sectors:
+      - business
+    tier: 4
+    summary: British hairstylist (1928–2012)
+    ids:
+      wikidata: Q313550
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%B6%AD%E9%81%94%C2%B7%E6%B2%99%E5%AE%A3
+      - https://en.wikipedia.org/wiki/Vidal_Sassoon
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 33
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313550
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vince-fong
+    type: person
+    name: Vince Fong
+    names:
+      zh: 方文思
+      en: Vince Fong
+    gender: M
+    born: 1979-10-24
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美国华裔政治人物、加州第20选区众议院议员
+    ids:
+      wikidata: Q27916201
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%96%B9%E6%96%87%E6%80%9D
+      - https://en.wikipedia.org/wiki/Vince_Fong
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27916201
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2024-06-03
+        to: 2025-01-03
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: 2016-12-05
+        to: 2018-11-30
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: 2020-12-07
+        to: 2022-11-30
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: 2018-12-03
+        to: 2020-11-30
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: 2022-12-05
+        to: 2024-05-24
+  - id: vince-mcmahon
+    type: person
+    name: Vince McMahon
+    names:
+      zh: 文斯·麦克马洪
+      en: Vince McMahon
+    gender: M
+    born: 1945-08-24
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美國職業摔跤推動者
+    ids:
+      wikidata: Q44430
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%96%87%E6%96%AF%C2%B7%E9%BA%A5%E9%A6%AC%E6%BC%A2
+      - https://en.wikipedia.org/wiki/Vince_McMahon
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 54
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席执行官
+        from: 2009-09-16
+        to: "2022"
+  - id: vincent-j-mcmahon
+    type: person
+    name: Vincent J. McMahon
+    names:
+      zh: 文森特·詹姆斯·麦克马洪
+      en: Vincent J. McMahon
+    gender: M
+    born: 1914-07-06
+    died: 1984-05-27
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美国职业摔角的促进者
+    ids:
+      wikidata: Q708554
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%96%87%E6%A3%AE%C2%B7%E8%A9%B9%E5%A7%86%E5%A3%AB%C2%B7%E9%BA%A5%E9%A6%AC%E6%BC%A2
+      - https://en.wikipedia.org/wiki/Vincent_J._McMahon
+    tags:
+      - relative
+    attrs:
+      sitelinks: 22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q708554
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vinod-khosla
+    type: person
+    name: Vinod Khosla
+    names:
+      zh: 维诺德·科斯拉
+      en: Vinod Khosla
+    gender: M
+    born: 1955-01-28
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美籍印度企业家
+    netWorth:
+      usd: 9900000000
+    ids:
+      wikidata: Q738005
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%B6%AD%E8%AB%BE%E5%BE%B7%C2%B7%E6%9F%AF%E6%96%AF%E6%8B%89
+      - https://en.wikipedia.org/wiki/Vinod_Khosla
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q738005
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: virginia-clinton-kelley
+    type: person
+    name: Virginia Clinton Kelley
+    names:
+      en: Virginia Clinton Kelley
+    gender: F
+    born: 1923-06-06
+    died: 1994-01-06
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: mother of U.S. president Bill Clinton (1923–1994)
+    ids:
+      wikidata: Q4112334
+    links:
+      - https://en.wikipedia.org/wiki/Virginia_Clinton_Kelley
+    tags:
+      - relative
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4112334
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: virginia-foxx
+    type: person
+    name: Virginia Foxx
+    names:
+      zh: 弗吉尼亚·福克斯
+      en: Virginia Foxx
+    gender: F
+    born: 1943-06-29
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+    tier: 4
+    summary: United States Representative from North Carolina since 2005
+    ids:
+      wikidata: Q458453
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%90%89%E5%B0%BC%E4%BA%9E%C2%B7%E7%A6%8F%E5%85%8B%E6%96%AF
+      - https://en.wikipedia.org/wiki/Virginia_Foxx
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q458453
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 秘书
+      - title: 会长
+        org: organization
+        from: "1987"
+        to: "1994"
+      - title: 美國眾議院共和黨會議秘書
+        from: 2013-01-03
+      - title: 成员
+        org: membership-organization
+        from: "1976"
+        to: "1988"
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 北卡羅來納州參議員
+        org: north-carolina-senate
+        from: "1994"
+        to: "2004"
+  - id: virginia-neal-blue
+    type: person
+    name: Virginia Neal Blue
+    names:
+      en: Virginia Neal Blue
+    gender: F
+    born: "1910"
+    died: "1970"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American businesswoman and politician
+    ids:
+      wikidata: Q71011171
+    links:
+      - https://en.wikipedia.org/wiki/Virginia_Neal_Blue
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q71011171
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: virginia-thomas
+    type: person
+    name: Virginia Thomas
+    names:
+      zh: 弗吉尼亚·托马斯
+      en: Virginia Thomas
+    gender: F
+    born: 1957-02-23
+    country:
+      - US
+    sectors:
+      - culture
+      - judiciary
+    tier: 4
+    summary: American lawyer and conservative activist
+    ids:
+      wikidata: Q7934359
+    links:
+      - https://en.wikipedia.org/wiki/Ginni_Thomas
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7934359
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vivek-ramaswamy
+    type: person
+    name: Vivek Ramaswamy
+    names:
+      zh: 维韦克·拉马斯瓦米
+      en: Vivek Ramaswamy
+    gender: M
+    born: 1985-08-09
+    country:
+      - US
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: American presidential candidate and businessman (born 1985)
+    netWorth:
+      usd: 950000000
+    ids:
+      wikidata: Q27881473
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%BB%B4%E9%9F%A6%E5%85%8B%C2%B7%E6%8B%89%E9%A9%AC%E6%96%AF%E7%93%A6%E7%B1%B3
+      - https://en.wikipedia.org/wiki/Vivek_Ramaswamy
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 44
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27881473
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: member of the board of trustees
+        org: board-of-directors
+  - id: vivian-davis-figures
+    type: person
+    name: Vivian Davis Figures
+    names:
+      zh: 維維安·戴維斯·菲格斯
+      en: Vivian Davis Figures
+    gender: F
+    born: 1957-01-24
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q7937697
+    links:
+      - https://en.wikipedia.org/wiki/Vivian_Davis_Figures
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7937697
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 阿拉巴馬州參議員
+        org: alabama-senate
+        from: 1997-01-28
+  - id: vivian-wilson
+    type: person
+    name: Vivian Wilson
+    names:
+      zh: 薇薇安·威尔逊
+      en: Vivian Wilson
+    gender: F
+    born: 2004-04-17
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: American model
+    ids:
+      wikidata: Q101674980
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%96%87%E8%96%87%E5%AE%89%C2%B7%E5%A8%81%E5%B0%94%E9%80%8A
+      - https://en.wikipedia.org/wiki/Vivian_Wilson
+    tags:
+      - relative
+    attrs:
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q101674980
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vlad-tenev
+    type: person
+    name: Vlad Tenev
+    names:
+      zh: 弗拉基米爾·特內夫
+      en: Vlad Tenev
+    gender: M
+    born: 1987-02-13
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: Bulgarian-American entrepreneur and co-founder of Robinhood, a US-based financial services company
+    netWorth:
+      usd: 5800000000
+    ids:
+      wikidata: Q56248473
+    links:
+      - https://en.wikipedia.org/wiki/Vlad_Tenev
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56248473
+        publisher: Wikidata
+        accessed: 2026-10-11

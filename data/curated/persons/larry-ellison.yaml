@@ -1,0 +1,19 @@
+id: larry-ellison
+type: person
+name: Larry Ellison
+names:
+  en: Larry Ellison
+  zh: 拉里·埃里森
+gender: M
+born: '1944-08-17'
+country:
+- US
+sectors:
+- tech
+- business
+tier: 1
+summary: 甲骨文创始人兼 CTO，全球顶级富豪；特朗普盟友。甲骨文为 TikTok 美国合资公司三大投资方之一（15%）并承担数据安全托管；其子 David Ellison 掌控 Paramount Skydance。
+sources:
+- url: https://en.wikipedia.org/wiki/Larry_Ellison
+  publisher: Wikipedia
+updated: '2026-10-11'

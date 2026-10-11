@@ -1,0 +1,19 @@
+id: alex-karp
+type: person
+name: Alex Karp
+names:
+  en: Alex Karp
+  zh: 亚历克斯·卡普
+gender: M
+born: '1967-10-02'
+country:
+- US
+sectors:
+- tech
+- security
+tier: 2
+summary: Palantir 联合创始人兼 CEO，与 Thiel 为斯坦福法学院同学。
+sources:
+- url: https://en.wikipedia.org/wiki/Alex_Karp
+  publisher: Wikipedia
+updated: '2026-10-11'

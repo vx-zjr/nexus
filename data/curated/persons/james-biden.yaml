@@ -1,0 +1,18 @@
+id: james-biden
+type: person
+name: James Biden
+names:
+  en: James Biden
+  zh: 詹姆斯·拜登
+gender: M
+born: '1949'
+country:
+- US
+sectors:
+- business
+tier: 4
+summary: 拜登之弟，参与 Hunter 与华信能源的生意往来；2024-12 获特赦。
+sources:
+- url: https://en.wikipedia.org/wiki/James_Biden
+  publisher: Wikipedia
+updated: '2026-10-11'

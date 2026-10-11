@@ -1,0 +1,18 @@
+id: zach-witkoff
+type: person
+name: Zach Witkoff
+names:
+  en: Zach Witkoff
+  zh: 扎克·威特科夫
+gender: M
+country:
+- US
+sectors:
+- finance
+- tech
+tier: 3
+summary: Steve Witkoff 之子，World Liberty Financial 联合创始人兼 CEO。
+sources:
+- url: https://en.wikipedia.org/wiki/World_Liberty_Financial
+  publisher: Wikipedia
+updated: '2026-10-11'

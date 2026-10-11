@@ -1,0 +1,29 @@
+id: john-lee-ka-chiu
+type: person
+name: 李家超
+names:
+  zh: 李家超
+  en: John Lee Ka-chiu
+gender: M
+born: '1957-12-07'
+country:
+- HK
+sectors:
+- politics
+- security
+tier: 2
+summary: 香港特首（2022-07 起），前保安局局长、政务司司长。2020-08 被美国财政部制裁。
+positions:
+- title: 香港特别行政区行政长官
+  from: 2022-07
+  current: true
+ids:
+  wikidata: Q9051824
+sources:
+- url: https://en.wikipedia.org/wiki/John_Lee_Ka-chiu
+  publisher: Wikipedia
+- url: https://home.treasury.gov/news/press-releases/sm1088
+  title: Treasury Sanctions Individuals for Undermining Hong Kong's Autonomy
+  publisher: U.S. Department of the Treasury
+  date: '2020-08-07'
+updated: '2026-10-11'

@@ -1,0 +1,18 @@
+id: tiffany-trump
+type: person
+name: Tiffany Trump
+names:
+  en: Tiffany Trump
+  zh: 蒂芙尼·特朗普
+gender: F
+born: '1993-10-13'
+country:
+- US
+sectors:
+- family
+tier: 4
+summary: 特朗普与 Marla Maples 之女，2022 年嫁给 Michael Boulos。
+sources:
+- url: https://en.wikipedia.org/wiki/Tiffany_Trump
+  publisher: Wikipedia
+updated: '2026-10-11'

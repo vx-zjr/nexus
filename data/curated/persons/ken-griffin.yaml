@@ -1,0 +1,21 @@
+id: ken-griffin
+type: person
+name: Ken Griffin
+names:
+  en: Ken Griffin
+  zh: 肯·格里芬
+gender: M
+born: '1968-10-15'
+country:
+- US
+sectors:
+- finance
+tier: 2
+summary: Citadel 创始人兼 CEO，2024 周期捐款约 1.08 亿美元（共和党）。
+sources:
+- url: https://en.wikipedia.org/wiki/Kenneth_C._Griffin
+  publisher: Wikipedia
+- url: https://www.allsides.com/blog/elon-musk-tops-list-2024-political-donors-five-others-gave-more-100-million
+  title: Elon Musk tops list of 2024 political donors; five others gave more than $100 million (OpenSecrets data)
+  publisher: AllSides / OpenSecrets
+updated: '2026-10-11'

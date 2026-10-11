@@ -1,0 +1,2123 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+relations:
+  - from: pagbalha-geleg-namgyai
+    to: kamqoin-soinam-gyamco
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1733077
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peng-peiyun
+    to: wang-hanbin
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7162676
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pan-yue-1960
+    to: liu-chaoying
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q329841
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pauline-lafon-gore
+    to: al-gore
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19673
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: prescott-bush
+    to: george-h-w-bush
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23505
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-hegseth
+    to: phil-hegseth
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7172014
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-hegseth
+    to: jennifer-rauchet
+    type: spouse
+    since: 2019-08-16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7172014
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-summerall
+    to: susie-wiles
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q113560461
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-buttigieg
+    to: chasten-buttigieg
+    type: spouse
+    since: 2018-06-16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7173106
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: penny-pritzker
+    to: jb-pritzker
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q293365
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-cantwell
+    to: maria-cantwell
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22250
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patricia-m-collins
+    to: susan-collins
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22279
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-welch
+    to: margaret-cheney
+    type: spouse
+    since: 2009-01-02
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1112656
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-h-wyden
+    to: ron-wyden
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q529344
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: polly-l-herring
+    to: elizabeth-warren
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q434706
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-ricketts
+    to: laura-ricketts
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6106781
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-ricketts
+    to: thomas-s-ricketts
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6106781
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-ricketts
+    to: todd-ricketts
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6106781
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-gosar
+    to: pete-gosar
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2059832
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-sarbanes
+    to: john-sarbanes
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q984509
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-meijer
+    to: doug-meijer
+    type: relative
+    label: 伯（叔）父
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96419165
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-meijer
+    to: hendrik-meijer
+    type: relative
+    label: paternal grandfather's father
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96419165
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-meijer
+    to: frederik-meijer
+    type: relative
+    label: 爷爷
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96419165
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-morrisey
+    to: denise-morrisey
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147254
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-brown
+    to: jerry-brown
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q152451
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-murphy
+    to: tammy-murphy
+    type: spouse
+    since: "1993"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q260042
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: philip-wong
+    to: leung-fung-yee
+    type: spouse
+    since: "1995"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7184580
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-lam
+    to: lam-kin-ming
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7175338
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-lam
+    to: matthew-lam
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7175338
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-lam
+    to: lester-lam
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7175338
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-lam
+    to: emily-lam
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7175338
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pansy-ho
+    to: josie-ho
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8965221
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pansy-ho
+    to: laurinda-ho
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8965221
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pansy-ho
+    to: lawrence-ho
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8965221
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pansy-ho
+    to: julian-hsu
+    type: ex-spouse
+    since: 1991-01-08
+    until: "2000"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8965221
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: philip-anschutz
+    to: sue-anschutz-rodgers
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1133456
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-ruffin
+    to: oleksandra-nikolayenko
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7182361
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-brown
+    to: mike-brown
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6846151
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: perry-richardson-bass
+    to: sid-richardson-bass
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7507735
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pierre-omidyar
+    to: pam-omidyar
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q348483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: perry-richardson-bass
+    to: robert-bass
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q429075
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-soon-shiong
+    to: nika-soon-shiong
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147677
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-soon-shiong
+    to: michele-b-chan
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147677
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-thiel
+    to: matt-danzeisen
+    type: spouse
+    since: "2017"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-tudor-jones
+    to: caroline-jones
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7154092
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: philip-arthur-fisher
+    to: ken-fisher
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6390103
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-knight
+    to: travis-knight
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557305
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-wolfowitz
+    to: clare-selgin-wolfowitz
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q219861
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-robertson
+    to: gordon-p-robertson
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q364990
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-robertson
+    to: dede-robertson
+    type: spouse
+    since: "1954"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q364990
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-buchanan
+    to: bay-buchanan
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q149127
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pauline-epstein
+    to: jeffrey-epstein
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2904131
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-cesario-o-neill
+    to: christopher-o-neill
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2753075
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peng-peiyun
+    to: china-population-association
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7162676
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peng-peiyun
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7162676
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pan-gongsheng
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9309080
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pan-gongsheng
+    to: renmin-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9309080
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peng-qinghua
+    to: peking-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1391721
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peng-qinghua
+    to: sun-yat-sen-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1391721
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pan-yue-1960
+    to: central-china-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q329841
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pei-jinjia
+    to: xiamen-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22100202
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-geren
+    to: university-of-texas-school-of-law
+    type: alumni
+    label: Juris Doctor
+    until: "1978"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1170156
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-geren
+    to: primary-school
+    type: alumni
+    until: "1970"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1170156
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-geren
+    to: arlington-heights-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1170156
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-geren
+    to: georgia-tech
+    type: alumni
+    since: "1970"
+    until: "1973"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1170156
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-b-teets
+    to: university-of-colorado-boulder
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7172623
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-b-teets
+    to: massachusetts-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7172623
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-keisler
+    to: yale-law-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3376685
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pam-bondi
+    to: us-doj
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7128915
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pam-bondi
+    to: stetson-university-college-of-law
+    type: alumni
+    label: Juris Doctor
+    until: "1990"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7128915
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pam-bondi
+    to: university-of-florida
+    type: alumni
+    label: Bachelor of Arts
+    until: "1987"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7128915
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-gaynor
+    to: rhode-island-college
+    type: alumni
+    label: Bachelor of Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q82607085
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-gaynor
+    to: naval-war-college
+    type: alumni
+    label: Master of Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q82607085
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-clement
+    to: georgetown-university-law-center
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1356377
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-clement
+    to: georgetown-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1356377
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-clement
+    to: harvard-law-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1356377
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-clement
+    to: walsh-school-of-foreign-service
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1356377
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-hegseth
+    to: united-states-department-of-defense
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7172014
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-hegseth
+    to: fox-news
+    type: position
+    label: 任职
+    since: "2014"
+    until: "2024"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7172014
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-hegseth
+    to: john-f-kennedy-school-of-government
+    type: alumni
+    label: Master of Public Policy
+    since: "2009"
+    until: "2013"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7172014
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-hegseth
+    to: princeton-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "2003"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7172014
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-rouse
+    to: colby-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1290431
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-rouse
+    to: john-f-kennedy-school-of-government
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1290431
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-rouse
+    to: london-school-of-economics-and-political-science
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1290431
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-buttigieg
+    to: mckinsey-and-company
+    type: position
+    label: 任职
+    since: "2007"
+    until: "2010"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7173106
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-buttigieg
+    to: university-of-notre-dame
+    type: position
+    label: 任职
+    since: "2020"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7173106
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-buttigieg
+    to: the-cohen-group
+    type: position
+    label: 任职
+    since: "2004"
+    until: "2005"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7173106
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-buttigieg
+    to: united-states-department-of-transportation
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7173106
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-buttigieg
+    to: pembroke-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7173106
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-buttigieg
+    to: harvard-college
+    type: alumni
+    until: "2004"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7173106
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-pizzella
+    to: university-of-south-carolina
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30349466
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-rosenfelt
+    to: new-york-university-school-of-law
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28530100
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-rosenfelt
+    to: university-of-pennsylvania
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28530100
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-rosenfelt
+    to: columbia-law-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28530100
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-murphy
+    to: university-of-san-francisco
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5997832
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-murphy
+    to: widener-university
+    type: alumni
+    label: Juris Doctor
+    until: "1999"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5997832
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-o-rourke
+    to: university-of-tennessee
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55629652
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-r-donahoe
+    to: massachusetts-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147504
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-r-donahoe
+    to: sloan-fellows-program
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147504
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-r-donahoe
+    to: university-of-pittsburgh
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147504
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-r-donahoe
+    to: mit-sloan-school-of-management
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147504
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-burleigh
+    to: university-of-miami
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7173066
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-burleigh
+    to: colgate-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7173066
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: penny-pritzker
+    to: microsoft
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q293365
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: penny-pritzker
+    to: carnegie-endowment-for-international-peace
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q293365
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: penny-pritzker
+    to: president-and-fellows-of-harvard-college
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q293365
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: penny-pritzker
+    to: vi-senior-living-classic-residence
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q293365
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: penny-pritzker
+    to: stanford-graduate-school-of-business
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q293365
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: penny-pritzker
+    to: harvard-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q293365
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: penny-pritzker
+    to: stanford-law-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q293365
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-h-o-neill
+    to: united-states-department-of-the-treasury
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q456921
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-h-o-neill
+    to: california-state-university-fresno
+    type: alumni
+    label: Bachelor of Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q456921
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-h-o-neill
+    to: indiana-university-bloomington
+    type: alumni
+    label: Master in Public Administration
+    sources:
+      - url: https://www.wikidata.org/wiki/Q456921
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-h-o-neill
+    to: claremont-graduate-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q456921
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-h-o-neill
+    to: indiana-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q456921
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-saiki
+    to: hilo-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q458473
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-saiki
+    to: university-of-hawai-i-system
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q458473
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-ryan
+    to: center-for-strategic-and-international-studies
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q203966
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-ryan
+    to: miami-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1992"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q203966
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-ryan
+    to: joseph-a-craig-high-school
+    type: alumni
+    until: "1988"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q203966
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-ryan
+    to: american-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q203966
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-welch
+    to: university-of-california-berkeley-school-of-law
+    type: alumni
+    label: Juris Doctor
+    until: "1973"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1112656
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-welch
+    to: college-of-the-holy-cross
+    type: alumni
+    label: Bachelor of Arts
+    until: "1969"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1112656
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patty-murray
+    to: washington-state-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1972"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q258825
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-roberts
+    to: kansas-state-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1958"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q538375
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-roberts
+    to: primary-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q538375
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-roberts
+    to: university-of-kansas
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q538375
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-ricketts
+    to: chicago-cubs
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6106781
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-ricketts
+    to: american-enterprise-institute
+    type: position
+    label: 任职
+    since: "2007"
+    until: "2013"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6106781
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-ricketts
+    to: chicago-cubs
+    type: position
+    label: 任职
+    since: "2009"
+    until: "2019"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6106781
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-ricketts
+    to: td-ameritrade
+    type: position
+    label: 任职
+    since: "1993"
+    until: "2006"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6106781
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-ricketts
+    to: booth-school-of-business
+    type: alumni
+    label: Master of Business Administration
+    until: "1991"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6106781
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-ricketts
+    to: university-of-chicago
+    type: alumni
+    label: Bachelor of Arts
+    until: "1986"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6106781
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-leahy
+    to: georgetown-university-law-center
+    type: alumni
+    label: Juris Doctor
+    until: "1964"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q59315
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-leahy
+    to: georgetown-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q59315
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-toomey
+    to: harvard-college
+    type: alumni
+    label: Bachelor of Arts
+    until: "1984"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q971308
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-toomey
+    to: la-salle-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q971308
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-ryan
+    to: united-states-military-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q113587887
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-ryan
+    to: georgetown-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q113587887
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-tonko
+    to: clarkson-university
+    type: alumni
+    label: Bachelor of Science
+    until: "1971"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1373548
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pramila-jayapal
+    to: northwestern-university
+    type: alumni
+    label: Master of Business Administration
+    until: "1990"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18978140
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pramila-jayapal
+    to: georgetown-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1986"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18978140
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pramila-jayapal
+    to: jakarta-intercultural-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18978140
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-defazio
+    to: tufts-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1969"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1758507
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-defazio
+    to: university-of-oregon
+    type: alumni
+    label: Master of Arts
+    until: "1977"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1758507
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-defazio
+    to: needham-high-school
+    type: alumni
+    until: "1965"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1758507
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-mchenry
+    to: north-carolina-state-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2057809
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-gosar
+    to: creighton-university
+    type: alumni
+    label: Bachelor of Science
+    until: "1985"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2059832
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-gosar
+    to: creighton-university
+    type: alumni
+    label: Doctor of Dental Surgery
+    until: "1985"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2059832
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-sessions
+    to: delivering-outstanding-government-efficiency-caucus
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q437852
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-meijer
+    to: ilitch-holdings
+    type: position
+    label: 任职
+    since: 2018-04-01
+    until: "2019"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96419165
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-meijer
+    to: stern-school-of-business
+    type: alumni
+    label: Master of Business Administration
+    until: "2017"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96419165
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-meijer
+    to: columbia-university
+    type: alumni
+    label: Bachelor of Arts
+    since: "2008"
+    until: "2012"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96419165
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-fallon
+    to: university-of-notre-dame
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16196923
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-aguilar
+    to: university-of-redlands
+    type: alumni
+    label: Bachelor of Science
+    until: "2001"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7171821
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-bryant
+    to: university-of-southern-mississippi
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q887898
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-morrisey
+    to: rutgers-school-of-law-newark
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147254
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-lepage
+    to: baxter
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q881196
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-lepage
+    to: husson-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q881196
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-lepage
+    to: university-of-maine
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q881196
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-murphy
+    to: gotham-fc
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q260042
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-murphy
+    to: goldman-sachs
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q260042
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-murphy
+    to: harvard-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q260042
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-murphy
+    to: the-wharton-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q260042
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-murphy
+    to: needham-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q260042
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peng-jiaxue
+    to: wuhan-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47689413
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: purpu-tonchup
+    to: sichuan-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q51103461
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: purpu-tonchup
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q51103461
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: philip-wong
+    to: fairtex
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7184580
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: philip-wong
+    to: university-of-california-berkeley
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7184580
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-lam
+    to: media-asia-entertainment-group
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7175338
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-lam
+    to: east-asia-record-production-co-ltd
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7175338
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-lam
+    to: university-of-oregon
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7175338
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pansy-ho
+    to: santa-clara-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8965221
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pollyanna-chu
+    to: golden-gate-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9192806
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pollyanna-chu
+    to: louisiana-state-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9192806
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peng-lei
+    to: alibaba-group
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17013897
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-lau
+    to: oneplus
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19840329
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-lau
+    to: oneplus
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19840329
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pete-lau
+    to: zhejiang-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19840329
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: philip-anschutz
+    to: washington-examiner
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1133456
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: philip-anschutz
+    to: qwest
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1133456
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: philip-anschutz
+    to: the-anschutz-foundation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1133456
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: philip-anschutz
+    to: la-galaxy
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1133456
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: philip-anschutz
+    to: the-anschutz-corporation
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1133456
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: philip-anschutz
+    to: clarity-media-group
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1133456
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: philip-anschutz
+    to: wichita-east-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1133456
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: philip-anschutz
+    to: university-of-kansas
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1133456
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-cancro
+    to: jersey-mike-s-subs
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q133886765
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-george-ryan
+    to: aon-plc
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7143985
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-george-ryan
+    to: kellogg-school-of-management
+    type: alumni
+    label: Bachelor in Business Administration
+    until: "1959"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7143985
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pierre-omidyar
+    to: ebay
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q348483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pierre-omidyar
+    to: omidyar-network
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q348483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pierre-omidyar
+    to: first-look-media
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q348483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pierre-omidyar
+    to: ulupono-initiative
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q348483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pierre-omidyar
+    to: honolulu-civil-beat
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q348483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pierre-omidyar
+    to: democracy-fund
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q348483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pierre-omidyar
+    to: luminate-group
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q348483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pierre-omidyar
+    to: democracy-fund-voice
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q348483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pierre-omidyar
+    to: omidyar-network-fund
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q348483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pierre-omidyar
+    to: ebay
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q348483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pierre-omidyar
+    to: ulupono-initiative
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q348483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pierre-omidyar
+    to: st-andrew-s-episcopal-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q348483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pierre-omidyar
+    to: tufts-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q348483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pierre-omidyar
+    to: tufts-university-school-of-engineering
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q348483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-singer
+    to: elliott-management
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6511841
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-singer
+    to: elliott-international
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6511841
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-singer
+    to: university-of-rochester
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6511841
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-singer
+    to: harvard-law-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6511841
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phillip-ragon
+    to: intersystems
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7185789
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phillip-ragon
+    to: massachusetts-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7185789
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-stryker
+    to: university-of-northern-colorado
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7144047
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-soon-shiong
+    to: nanthealth
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147677
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-soon-shiong
+    to: abraxis-bioscience
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147677
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-soon-shiong
+    to: nanthealth
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147677
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-soon-shiong
+    to: nantomics
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147677
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-soon-shiong
+    to: los-angeles-times
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147677
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-soon-shiong
+    to: nanthealth
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147677
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: patrick-soon-shiong
+    to: university-of-california-los-angeles
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147677
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-thiel
+    to: meta-platforms
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-thiel
+    to: palantir
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-thiel
+    to: paypal
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-thiel
+    to: founders-fund
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-thiel
+    to: palantir
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-thiel
+    to: the-stanford-review
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-thiel
+    to: breakout-labs
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-thiel
+    to: clarium-capital
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-thiel
+    to: confinity
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-thiel
+    to: thiel-fellowship
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-thiel
+    to: mithril-capital
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-thiel
+    to: dialog
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-thiel
+    to: palantir
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-thiel
+    to: stanford-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-thiel
+    to: stanford-law-school
+    type: alumni
+    label: Juris Doctor
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-thiel
+    to: stanford-university
+    type: alumni
+    label: Bachelor of Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-tudor-jones
+    to: robin-hood-foundation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7154092
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-tudor-jones
+    to: tudor-investment-corporation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7154092
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-tudor-jones
+    to: university-of-virginia
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7154092
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-knight
+    to: nike
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557305
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-knight
+    to: laika
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557305
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-knight
+    to: knight-foundation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557305
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-knight
+    to: nike
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557305
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-knight
+    to: brookings-institution
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557305
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-knight
+    to: university-of-oregon
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557305
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-knight
+    to: cleveland-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557305
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-knight
+    to: oregon-state-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557305
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: phil-knight
+    to: stanford-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557305
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-baran
+    to: telebit
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92617
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-baran
+    to: institute-for-the-future
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92617
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-baran
+    to: rand-corporation
+    type: position
+    label: 任职
+    since: "1959"
+    until: "1970"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92617
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-baran
+    to: university-of-california-los-angeles
+    type: alumni
+    label: master's degree
+    until: "1959"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92617
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-wolfowitz
+    to: johns-hopkins-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q219861
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-wolfowitz
+    to: cornell-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q219861
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-wolfowitz
+    to: university-of-chicago
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q219861
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-robertson
+    to: american-center-for-law-and-justice
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q364990
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-robertson
+    to: christian-broadcasting-network
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q364990
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-robertson
+    to: christian-coalition-of-america
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q364990
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-robertson
+    to: abc-family-worldwide
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q364990
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-robertson
+    to: washington-and-lee-university
+    type: alumni
+    label: Bachelor of Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q364990
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-robertson
+    to: yale-law-school
+    type: alumni
+    label: Bachelor of Laws
+    sources:
+      - url: https://www.wikidata.org/wiki/Q364990
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-robertson
+    to: the-mccallie-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q364990
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-buchanan
+    to: the-american-conservative
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q149127
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-buchanan
+    to: georgetown-university
+    type: alumni
+    label: Bachelor of Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q149127
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: pat-buchanan
+    to: columbia-university
+    type: alumni
+    label: Master of Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q149127
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: philip-kotler
+    to: northwestern-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q164170
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: philip-kotler
+    to: depaul-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q164170
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: philip-kotler
+    to: university-of-chicago
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q164170
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: philip-kotler
+    to: harvard-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q164170
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: philip-kotler
+    to: massachusetts-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q164170
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-volcker
+    to: volcker-alliance
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q349785
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-volcker
+    to: teaneck-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q349785
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-volcker
+    to: john-f-kennedy-school-of-government
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q349785
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-volcker
+    to: princeton-school-of-public-and-international-affairs
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q349785
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-volcker
+    to: london-school-of-economics-and-political-science
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q349785
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: paul-volcker
+    to: princeton-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q349785
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: porter-goss
+    to: central-intelligence-agency
+    type: position
+    label: 任职
+    since: "1962"
+    until: "1972"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q455698
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: porter-goss
+    to: yale-university
+    type: alumni
+    until: "1960"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q455698
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: porter-goss
+    to: hotchkiss-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q455698
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: porter-goss
+    to: fessenden-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q455698
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-lynch
+    to: winn-dixie
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1156395
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-lynch
+    to: fidelity-investments
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1156395
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-lynch
+    to: the-wharton-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1156395
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: peter-lynch
+    to: boston-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1156395
+        publisher: Wikidata
+        accessed: 2026-10-11

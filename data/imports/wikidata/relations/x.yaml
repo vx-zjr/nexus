@@ -1,0 +1,626 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+relations:
+  - from: xi-zongde
+    to: xi-zhongxun
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q301282
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-zhongxun
+    to: xi-jinping
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q301282
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-zhongxun
+    to: xi-qiaoqiao
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q301282
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-zhongxun
+    to: xi-yuanping
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q301282
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-zhongxun
+    to: xi-zhengning
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q301282
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-zhongxun
+    to: xi-heping
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q301282
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-zhongxun
+    to: qi-xin
+    type: spouse
+    since: 1944-04-28
+    sources:
+      - url: https://www.wikidata.org/wiki/Q301282
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-zhongxun
+    to: hao-mingzhu
+    type: ex-spouse
+    since: 1935-12-01
+    until: "1944"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q301282
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-zhongxun
+    to: xi-jinping
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: xi-mingze
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: xi-qiaoqiao
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: xi-yuanping
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: xi-zhengning
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: xi-heping
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: ke-lingling
+    type: spouse
+    since: "1979"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: peng-liyuan
+    type: spouse
+    since: 1987-09-01
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: ke-hua-1915
+    type: in-law
+    label: 岳父
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: zhang-lanlan
+    type: in-law
+    label: 义姐妹
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: zhang-yannan
+    type: relative
+    label: 外甥女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: deng-jiagui
+    type: relative
+    label: 姐夫/妹夫
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-xiangqian
+    to: xu-xiaoyan
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315116
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xavier-becerra
+    to: carolina-reyes
+    type: spouse
+    since: "1989"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1855840
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: ccp
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: ccp-politburo-standing-committee
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: ccp-secretariat
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: central-military-commission-of-the-chinese-communist-party
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: ccp-politburo
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: general-secretaryship-of-xi-jinping
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: vesuve-de-brekka
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: xi-jinping-s-cult-of-personality
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: national-people-s-congress
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: tsinghua-university
+    type: alumni
+    label: bachelor's degree
+    since: "1975"
+    until: "1979"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: tsinghua-university
+    type: alumni
+    label: Doctor of Laws
+    since: "1998"
+    until: "2002"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xi-jinping
+    to: beijing-101-middle-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xiao-jie
+    to: renmin-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q999251
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xiao-yang
+    to: renmin-university-of-china
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q519871
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xiao-yang
+    to: renmin-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q519871
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-caihou
+    to: harbin-military-institute
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1335434
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-qiliang
+    to: pla-national-defence-university
+    type: alumni
+    since: "1993"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q276049
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xie-fuzhan
+    to: huazhong-university-of-science-and-technology
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2598185
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xie-fuzhan
+    to: tsinghua-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2598185
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xie-fuzhan
+    to: john-f-kennedy-school-of-government
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2598185
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xie-fuzhan
+    to: huazhong-university-of-science-and-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2598185
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xie-fuzhan
+    to: university-of-cambridge
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2598185
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xia-baolong
+    to: peking-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2516786
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-xiaoyan
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315116
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-genchu
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315983
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-hongmeng
+    to: pla-naval-command-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319162
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-yong
+    to: pla-national-defence-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15925368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xavier-becerra
+    to: stanford-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1980"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1855840
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xavier-becerra
+    to: stanford-law-school
+    type: alumni
+    label: Juris Doctor
+    until: "1984"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1855840
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xavier-becerra
+    to: c-k-mcclatchy-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1855840
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-qin
+    to: beijing-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8462580
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-qin
+    to: hong-kong-polytechnic-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8462580
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-qin
+    to: peking-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8462580
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xin-changxing
+    to: central-china-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16077986
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-lin
+    to: shanghai-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22100001
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xiao-pei
+    to: university-of-science-and-technology-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28410250
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xiao-pei
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28410250
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xiao-pei
+    to: beijing-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28410250
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xie-chuntao
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47688230
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xie-chuntao
+    to: shandong-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47688230
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xie-chuntao
+    to: zhejiang-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47688230
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xie-chuntao
+    to: renmin-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47688230
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xing-shanping
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47670452
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xia-linmao
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47546115
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-liuping
+    to: beijing-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q51106050
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-jiayin
+    to: evergrande
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1454895
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-jiayin
+    to: evergrande
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1454895
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-jiayin
+    to: evergrande-2
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1454895
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-jiayin
+    to: evergrande
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1454895
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-jiayin
+    to: wuhan-university-of-science-and-technology
+    type: alumni
+    label: bachelor's degree
+    since: "1978"
+    until: "1982"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1454895
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xiao-gang
+    to: renmin-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3271452
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-rongmao
+    to: shimao-property
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3373665
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-rongmao
+    to: shimao-property
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3373665
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-rongmao
+    to: landscape-map-of-the-silk-road
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3373665
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-ming
+    to: dongbei-university-of-finance-and-economics
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11070690
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xu-jiankang
+    to: powerlong
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16907073
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xia-jiantong
+    to: aston-villa-under-21s-and-academy
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24248302
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xia-jiantong
+    to: aston-villa-w-f-c
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24248302
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xia-jiantong
+    to: harvard-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24248302
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xia-jiantong
+    to: massachusetts-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24248302
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: xia-jiantong
+    to: harvard-graduate-school-of-design
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24248302
+        publisher: Wikidata
+        accessed: 2026-10-11

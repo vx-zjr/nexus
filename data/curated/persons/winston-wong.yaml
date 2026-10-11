@@ -1,0 +1,21 @@
+id: winston-wong
+type: person
+name: 王文洋
+names:
+  zh: 王文洋
+  en: Winston Wong
+gender: M
+born: '1951'
+country:
+- TW
+- CN
+sectors:
+- business
+tier: 3
+summary: 台塑集团创办人王永庆之子，宏力半导体联合创始人；邀请 Neil Bush 进入宏力董事会。
+sources:
+- url: https://www.nbcnews.com/news/amp/wbna4071824
+  title: President's brother Neil enmeshed in messy divorce
+  publisher: NBC News / AP
+  date: 2003-11
+updated: '2026-10-11'

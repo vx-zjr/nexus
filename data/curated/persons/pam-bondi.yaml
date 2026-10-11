@@ -1,0 +1,40 @@
+id: pam-bondi
+type: person
+name: Pam Bondi
+names:
+  en: Pam Bondi
+  zh: 帕姆·邦迪
+gender: F
+born: '1965-11-17'
+country:
+- US
+sectors:
+- politics
+- judiciary
+tier: 2
+status: retired
+summary: 前司法部长（2025-02–2026-04），2026-04 被特朗普解职。前佛罗里达州总检察长。
+positions:
+- title: 司法部长
+  org: us-cabinet
+  from: '2025-02-05'
+  to: '2026-04-02'
+- title: 佛罗里达州总检察长
+  from: '2011'
+  to: '2019'
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://en.wikipedia.org/wiki/List_of_dismissals_and_resignations_in_the_second_Trump_administration
+  title: List of dismissals and resignations in the second Trump administration
+  publisher: Wikipedia
+- url: https://theweek.com/politics/trump-firings-and-dismissals-second-term-noem-bondi-bovino-bongino
+  title: The high-ranking officials Trump has fired, forced to resign or moved elsewhere in his second term
+  publisher: The Week
+- url: https://19thnews.org/2026/04/women-trump-cabinet-bondi-noem-chavez-deremer/
+  title: Tulsi Gabbard is fourth woman Trump's Cabinet has lost in three months
+  publisher: The 19th
+  date: 2026-04
+updated: '2026-10-11'

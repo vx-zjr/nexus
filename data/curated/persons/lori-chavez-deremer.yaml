@@ -1,0 +1,33 @@
+id: lori-chavez-deremer
+type: person
+name: Lori Chavez-DeRemer
+names:
+  en: Lori Chavez-DeRemer
+  zh: 洛丽·查韦斯-德雷默
+gender: F
+born: '1968-04-07'
+country:
+- US
+sectors:
+- politics
+tier: 3
+status: retired
+summary: 前劳工部长（2025–2026），2026-04-20 辞职。
+positions:
+- title: 劳工部长
+  org: us-cabinet
+  from: 2025-03
+  to: '2026-04-20'
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://en.wikipedia.org/wiki/List_of_dismissals_and_resignations_in_the_second_Trump_administration
+  title: List of dismissals and resignations in the second Trump administration
+  publisher: Wikipedia
+- url: https://19thnews.org/2026/04/women-trump-cabinet-bondi-noem-chavez-deremer/
+  title: Tulsi Gabbard is fourth woman Trump's Cabinet has lost in three months
+  publisher: The 19th
+  date: 2026-04
+updated: '2026-10-11'

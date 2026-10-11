@@ -1,0 +1,18 @@
+id: barron-trump
+type: person
+name: Barron Trump
+names:
+  en: Barron Trump
+  zh: 巴伦·特朗普
+gender: M
+born: '2006-03-20'
+country:
+- US
+sectors:
+- family
+tier: 4
+summary: 特朗普与梅拉尼娅之子，World Liberty Financial 列名“DeFi 愿景家”。
+sources:
+- url: https://en.wikipedia.org/wiki/Barron_Trump
+  publisher: Wikipedia
+updated: '2026-10-11'

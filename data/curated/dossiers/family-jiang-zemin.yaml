@@ -1,0 +1,23 @@
+# 江泽民家族：精编档案（与 zhao 层同名档案合并；本文件优先）
+id: family-jiang-zemin
+kind: family
+name: 江泽民家族
+country: CN
+head: jiang-zemin
+summary: 江泽民（1926–2022）。长子江绵恒长期主导上海信息产业投资（上海联和投资），曾任中科院副院长、上海科技大学校长；孙江志成创办博裕资本。
+tags:
+- family
+sources:
+- url: https://en.wikipedia.org/wiki/Jiang_Mianheng
+  publisher: Wikipedia
+- url: https://en.wikipedia.org/wiki/Boyu_Capital
+  publisher: Wikipedia
+relations:
+- from: jiang-zhicheng
+  to: boyu-capital
+  type: founder
+  since: '2010'
+  sources:
+  - url: https://en.wikipedia.org/wiki/Boyu_Capital
+    publisher: Wikipedia
+updated: '2026-10-11'

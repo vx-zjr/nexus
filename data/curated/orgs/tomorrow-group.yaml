@@ -1,0 +1,36 @@
+entities:
+- id: tomorrow-group
+  type: org
+  name: 明天控股
+  names:
+    zh: 明天控股有限公司
+    en: Tomorrow Holdings
+  aliases:
+  - 明天系
+  orgType: company
+  country:
+  - CN
+  sectors:
+  - finance
+  tier: 3
+  summary: 肖建华控制的金融集团，曾控制多家银行、券商、信托与保险公司；2020 年起旗下 9 家金融机构被监管接管。
+  sources:
+  - url: https://www.thewirechina.com/2022/09/18/xiao-jianhua-lost-empire
+    title: Xiao Jianhua's Lost Empire
+    publisher: The Wire China
+    date: '2022-09-18'
+- id: shanghai-no1-intermediate-court
+  type: org
+  name: 上海市第一中级人民法院
+  names:
+    en: Shanghai No.1 Intermediate People's Court
+  orgType: court
+  country:
+  - CN
+  sectors:
+  - judiciary
+  tier: 4
+  sources:
+  - url: https://www.bangkokpost.com/world/2372538/china-jails-disappeared-tycoon-for-13-years
+    title: China jails 'disappeared' tycoon for 13 years
+    date: '2022-08-19'

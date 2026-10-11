@@ -1,0 +1,22 @@
+id: ted-cruz
+type: person
+name: Ted Cruz
+names:
+  en: Ted Cruz
+  zh: 特德·克鲁兹
+gender: M
+born: '1970-12-22'
+country:
+- US
+sectors:
+- politics
+tier: 3
+summary: 德州联邦参议员。2020-07 与卢比奥等被中方制裁。
+sources:
+- url: https://en.wikipedia.org/wiki/Ted_Cruz
+  publisher: Wikipedia
+- url: https://fortune.com/2020/07/13/china-sanctions-ted-cruz-marco-rubio
+  title: China sanctions Ted Cruz, Marco Rubio
+  publisher: Fortune
+  date: '2020-07-13'
+updated: '2026-10-11'

@@ -1,0 +1,19 @@
+id: steve-bannon
+type: person
+name: Steve Bannon
+names:
+  en: Steve Bannon
+  zh: 史蒂夫·班农
+gender: M
+born: '1953-11-27'
+country:
+- US
+sectors:
+- politics
+- media
+tier: 2
+summary: 特朗普 2016 竞选主管、前白宫首席策略师；2020-08 在郭文贵游艇上被捕（“建墙”募款欺诈案，2021 获特赦）。
+sources:
+- url: https://en.wikipedia.org/wiki/Steve_Bannon
+  publisher: Wikipedia
+updated: '2026-10-11'

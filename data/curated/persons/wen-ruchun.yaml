@@ -1,0 +1,22 @@
+id: wen-ruchun
+type: person
+name: 温如春
+names:
+  zh: 温如春
+  en: Lily Chang
+aliases:
+- Lily Chang
+gender: F
+country:
+- CN
+sectors:
+- business
+- family
+tier: 4
+summary: 温家宝之女，化名 Lily Chang。纽时报道其咨询公司曾收取摩根大通费用；摩根大通“子女项目”雇佣中国高官亲属案 2016 年与 SEC 等以 2.64 亿美元和解。
+sources:
+- url: https://www.nytimes.com/2012/10/26/business/global/family-of-wen-jiabao-holds-a-hidden-fortune-in-china.html
+  title: Billions in Hidden Riches for Family of Chinese Leader (David Barboza)
+  publisher: The New York Times
+  date: '2012-10-26'
+updated: '2026-10-11'

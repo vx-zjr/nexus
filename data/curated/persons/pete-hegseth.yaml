@@ -1,0 +1,27 @@
+id: pete-hegseth
+type: person
+name: Pete Hegseth
+names:
+  en: Pete Hegseth
+  zh: 皮特·赫格塞斯
+gender: M
+born: '1980-06-06'
+country:
+- US
+sectors:
+- politics
+- military
+tier: 1
+status: active
+summary: 国防部长（2025–；2025-09 起官方第二称谓“战争部长”）。前 Fox News 主持人、陆军国民警卫队军官。
+positions:
+- title: 国防部长 / 战争部长
+  org: us-cabinet
+  from: '2025-01-25'
+  current: true
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

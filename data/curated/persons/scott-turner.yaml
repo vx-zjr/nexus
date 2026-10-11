@@ -1,0 +1,26 @@
+id: scott-turner
+type: person
+name: Scott Turner
+names:
+  en: Scott Turner
+  zh: 斯科特·特纳
+gender: M
+born: '1972-02-26'
+country:
+- US
+sectors:
+- politics
+tier: 3
+status: active
+summary: 住房与城市发展部长（2025–）。前 NFL 球员。
+positions:
+- title: 住房与城市发展部长
+  org: us-cabinet
+  from: '2025-02-05'
+  current: true
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

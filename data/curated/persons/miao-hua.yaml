@@ -1,0 +1,41 @@
+id: miao-hua
+type: person
+name: 苗华
+names:
+  zh: 苗华
+  en: Miao Hua
+gender: M
+born: 1955-11
+country:
+- CN
+sectors:
+- military
+tier: 3
+status: purged
+summary: 前中央军委委员、政治工作部主任、海军上将。2024-11 停职检查，2025-06 被免去军委委员，2025-10 被开除党籍军籍。
+positions:
+- title: 中央军委委员
+  org: ccp-cmc
+  from: 2017-10
+  to: 2025-06
+- title: 中央军委政治工作部主任
+  org: ccp-cmc
+  from: 2017-08
+  to: 2024-11
+ids:
+  wikidata: Q8317097
+tags:
+- purged-2025
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://en.wikipedia.org/wiki/Fourth_plenary_session_of_the_20th_Central_Committee_of_the_Chinese_Communist_Party
+  title: Fourth plenary session of the 20th Central Committee
+  publisher: Wikipedia
+- url: https://www.stheadline.com/zh-hans/realtime-china/3511176/四中全会闭幕-增补张升民为中央军委副主席
+  title: 四中全会闭幕 增补张升民为中央军委副主席
+  publisher: 星岛日报
+  date: '2025-10-23'
+updated: '2026-10-11'

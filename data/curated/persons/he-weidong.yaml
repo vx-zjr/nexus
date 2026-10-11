@@ -1,0 +1,42 @@
+id: he-weidong
+type: person
+name: 何卫东
+names:
+  zh: 何卫东
+  en: He Weidong
+gender: M
+born: 1957-05
+country:
+- CN
+sectors:
+- military
+tier: 2
+status: purged
+summary: 前中央军委副主席（2022–2025）、上将。长期在南京军区/东部战区（福建、浙江）服役。2025 年起缺席公开活动，2025-10 被开除党籍军籍；二十届四中全会由张升民接任军委副主席。
+positions:
+- title: 中央军委副主席
+  org: ccp-cmc
+  from: 2022-10
+  to: 2025-10
+- title: 政治局委员
+  org: ccp-politburo
+  from: 2022-10
+  to: 2025-10
+- title: 东部战区司令员
+  from: 2019-12
+  to: 2022-01
+tags:
+- purged-2025
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://en.wikipedia.org/wiki/Fourth_plenary_session_of_the_20th_Central_Committee_of_the_Chinese_Communist_Party
+  title: Fourth plenary session of the 20th Central Committee
+  publisher: Wikipedia
+- url: https://www.stheadline.com/zh-hans/realtime-china/3511176/四中全会闭幕-增补张升民为中央军委副主席
+  title: 四中全会闭幕 增补张升民为中央军委副主席
+  publisher: 星岛日报
+  date: '2025-10-23'
+updated: '2026-10-11'

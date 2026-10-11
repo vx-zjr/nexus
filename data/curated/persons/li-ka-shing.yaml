@@ -1,0 +1,31 @@
+id: li-ka-shing
+type: person
+name: 李嘉诚
+names:
+  zh: 李嘉诚
+  en: Li Ka-shing
+gender: M
+born: '1928-07-29'
+country:
+- HK
+sectors:
+- business
+tier: 1
+summary: 长江和记实业创始人、香港首富。2025-03 长和宣布以约 228 亿美元向贝莱德—地中海航运（MSC）财团出售全球 43 个港口（含巴拿马运河两端港口）80% 权益，遭北京反对并要求中远海运入股；2026-01 巴拿马最高法院裁定其巴拿马港口特许经营违宪，政府接管。
+ids:
+  wikidata: Q20151
+sources:
+- url: https://en.wikipedia.org/wiki/Li_Ka-shing
+  publisher: Wikipedia
+- url: https://www.freightwaves.com/news/after-trump-pressure-china-sells-panama-port-terminals-to-us-private-equity-firm-msc
+  title: After Trump pressure, CK Hutchison to sell Panama port terminals to BlackRock, MSC
+  publisher: FreightWaves
+  date: 2025-03
+- url: https://www.dealstreetasia.com/?p=474562
+  title: BlackRock-backed group looks to close Hutchison ports deal without Panama assets
+  publisher: DealStreetAsia
+  date: '2026'
+- url: https://www.marineinsight.com/china-threatens-to-block-22-8-billion-panama-ports-deal-over-coscos-exclusion/
+  title: China threatens to block $22.8 billion Panama ports deal over Cosco exclusion
+  publisher: Marine Insight
+updated: '2026-10-11'

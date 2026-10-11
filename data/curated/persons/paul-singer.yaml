@@ -1,0 +1,21 @@
+id: paul-singer
+type: person
+name: Paul Singer
+names:
+  en: Paul Singer
+  zh: 保罗·辛格
+gender: M
+born: '1944-08-22'
+country:
+- US
+sectors:
+- finance
+tier: 2
+summary: Elliott Management 创始人，2024 周期捐款约 6680 万美元（共和党）。
+sources:
+- url: https://en.wikipedia.org/wiki/Paul_Singer_(businessman)
+  publisher: Wikipedia
+- url: https://www.allsides.com/blog/elon-musk-tops-list-2024-political-donors-five-others-gave-more-100-million
+  title: Elon Musk tops list of 2024 political donors; five others gave more than $100 million (OpenSecrets data)
+  publisher: AllSides / OpenSecrets
+updated: '2026-10-11'

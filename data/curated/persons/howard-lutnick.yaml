@@ -1,0 +1,30 @@
+id: howard-lutnick
+type: person
+name: Howard Lutnick
+names:
+  en: Howard Lutnick
+  zh: 霍华德·卢特尼克
+gender: M
+born: '1961-07-14'
+country:
+- US
+sectors:
+- politics
+- finance
+tier: 2
+status: active
+summary: 商务部长（2025–）、2024 年过渡团队联合主席。Cantor Fitzgerald 前 CEO，其子 Brandon、Kyle Lutnick 接掌家族生意。
+positions:
+- title: 商务部长
+  org: us-cabinet
+  from: '2025-02-21'
+  current: true
+- title: Cantor Fitzgerald 董事长兼 CEO
+  from: '1991'
+  to: '2025'
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

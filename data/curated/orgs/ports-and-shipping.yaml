@@ -1,0 +1,44 @@
+entities:
+- id: ck-hutchison
+  type: org
+  name: 长江和记实业
+  names:
+    zh: 长江和记实业
+    en: CK Hutchison Holdings
+  orgType: company
+  country:
+  - HK
+  sectors:
+  - business
+  tier: 2
+  ids:
+    wikidata: Q19548352
+- id: cosco-shipping
+  type: org
+  name: 中国远洋海运集团
+  names:
+    zh: 中国远洋海运集团
+    en: China COSCO Shipping
+  aliases:
+  - 中远海运
+  orgType: soe
+  country:
+  - CN
+  sectors:
+  - business
+  tier: 2
+  ids:
+    wikidata: Q26263180
+- id: msc
+  type: org
+  name: Mediterranean Shipping Company
+  names:
+    zh: 地中海航运
+  orgType: company
+  country:
+  - CH
+  sectors:
+  - business
+  tier: 2
+  ids:
+    wikidata: Q869570

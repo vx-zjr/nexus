@@ -1,0 +1,44 @@
+id: he-lifeng
+type: person
+name: 何立峰
+names:
+  zh: 何立峰
+  en: He Lifeng
+gender: M
+born: 1955-02
+country:
+- CN
+sectors:
+- politics
+- finance
+tier: 2
+status: active
+summary: 国务院副总理（2023–）、中央财办主任，主管经济金融并牵头中美经贸磋商。1980 年代在厦门与习近平共事，是习最早的福建旧部之一。
+positions:
+- title: 国务院副总理
+  org: state-council-prc
+  from: 2023-03
+  current: true
+- title: 中央财经委员会办公室主任
+  org: ccp-central-financial-economic-affairs-commission
+  from: '2023'
+  current: true
+- title: 政治局委员
+  org: ccp-politburo
+  from: 2022-10
+  current: true
+- title: 国家发展改革委主任
+  org: state-council-prc
+  from: 2017-02
+  to: 2023-03
+tags:
+- fujian-clique
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+updated: '2026-10-11'

@@ -1,0 +1,19 @@
+id: ren-zhengfei
+type: person
+name: 任正非
+names:
+  en: 任正非
+  zh: Ren Zhengfei
+gender: M
+born: '1944-10-25'
+country:
+- CN
+sectors:
+- tech
+- business
+tier: 1
+summary: 华为创始人兼 CEO，前解放军基建工程兵技术人员。
+sources:
+- url: https://en.wikipedia.org/wiki/Ren_Zhengfei
+  publisher: Wikipedia
+updated: '2026-10-11'

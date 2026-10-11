@@ -1,0 +1,2836 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+relations:
+  - from: tung-chao-yung
+    to: tung-chee-hwa
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15027
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tung-chee-hwa
+    to: tung-lieh-sing
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15027
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tung-chee-hwa
+    to: tung-chee-chen
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15027
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tung-chee-hwa
+    to: alice-king
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15027
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tung-chee-hwa
+    to: betty-tung
+    type: spouse
+    since: "1961"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15027
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-vilsack
+    to: christie-vilsack
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q353826
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tulsi-gabbard
+    to: caroline-sinavaiana-gabbard
+    type: relative
+    label: 姑母
+    sources:
+      - url: https://www.wikidata.org/wiki/Q32620
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-h-haines
+    to: avril-haines
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14525857
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-e-donilon
+    to: mike-donilon
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q618727
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-e-donilon
+    to: catherine-m-russell
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q618727
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-price
+    to: betty-price
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1415243
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-d-alesandro-jr
+    to: nancy-pelosi
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q170581
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: theodore-ted-blunt
+    to: lisa-blunt-rochester
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q26899141
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-cruz
+    to: heidi-cruz
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2036942
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-kaine
+    to: anne-holton
+    type: spouse
+    since: 1984-11-24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q359888
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-carper
+    to: diane-beverly-isaacs
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q457432
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tammy-baldwin
+    to: rowena-green-matthews
+    type: relative
+    label: 姨姑姆嬸妗
+    sources:
+      - url: https://www.wikidata.org/wiki/Q40628
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tammy-baldwin
+    to: david-e-green
+    type: relative
+    label: 外祖父
+    sources:
+      - url: https://www.wikidata.org/wiki/Q40628
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tammy-baldwin
+    to: andy-samberg
+    type: relative
+    label: third cousin
+    sources:
+      - url: https://www.wikidata.org/wiki/Q40628
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-udall
+    to: mo-udall
+    type: relative
+    label: 伯（叔）父
+    sources:
+      - url: https://www.wikidata.org/wiki/Q957690
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-udall
+    to: mark-udall
+    type: relative
+    label: 堂兄弟/表兄弟
+    sources:
+      - url: https://www.wikidata.org/wiki/Q957690
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-suozzi
+    to: joe-suozzi
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7794276
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-casten
+    to: sean-casten
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55386655
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tessa-newsom
+    to: gavin-newsom
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461391
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-walz
+    to: hope-walz
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2434360
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-walz
+    to: gus-walz
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2434360
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-walz
+    to: gwen-walz
+    type: spouse
+    since: 1994-06-04
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2434360
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-walz
+    to: lynne-walz
+    type: relative
+    label: 堂表親（包括远房堂表親）
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2434360
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-wolf
+    to: frances-wolf
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7794795
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: teddy-wang
+    to: kung-yan-sum
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7694109
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-fok
+    to: ian-fok
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7807201
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-fok
+    to: fok-tsun-yu
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7807201
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-fok
+    to: kenneth-fok
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7807201
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-fok
+    to: eric-fok
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7807201
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-fok
+    to: loletta-chu
+    type: spouse
+    since: "1978"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7807201
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: t-h-chan
+    to: ronnie-chan
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9366956
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-jorgensen
+    to: jeff-bezos
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q312556
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-f-frist-jr
+    to: bill-frist
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7789440
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-f-frist-jr
+    to: thomas-f-frist-iii
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7789440
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-f-frist-jr
+    to: william-r-frist
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7789440
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-f-frist-sr
+    to: thomas-f-frist-jr
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7789440
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-f-frist-jr
+    to: patricia-c-frist
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7789440
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-h-friedkin
+    to: dan-friedkin
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19879918
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tyler-winklevoss
+    to: cameron-winklevoss
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3066193
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tamara-gustavson
+    to: b-wayne-hughes-jr
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18686519
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terry-pegula
+    to: jessica-pegula
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381789
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terry-pegula
+    to: kim-pegula
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381789
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tivadar-soros
+    to: george-soros
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-golisano
+    to: monica-seles
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3297814
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-arison
+    to: micky-arison
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q920620
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-gores
+    to: alec-gores
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1253454
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-gores
+    to: sam-gores
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1253454
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-turner
+    to: jane-fonda
+    type: ex-spouse
+    since: "1991"
+    until: "2001"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-o-reilly
+    to: jennifer-pahlka
+    type: spouse
+    since: 2015-04-11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q347691
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tien-min-li
+    to: kai-fu-lee
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q699605
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tory-burch
+    to: lance-armstrong
+    type: partner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2945547
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tory-burch
+    to: lyor-cohen
+    type: partner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2945547
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tory-burch
+    to: j-christopher-burch
+    type: spouse
+    since: "1996"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2945547
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terry-mcauliffe
+    to: dorothy-mcauliffe
+    type: spouse
+    since: 1988-10-08
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3518911
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-f-frist-sr
+    to: bill-frist
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q31112
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tang-jiaxuan
+    to: fudan-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q463926
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tang-jiaxuan
+    to: peking-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q463926
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tung-chee-hwa
+    to: our-hong-kong-foundation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15027
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tung-chee-hwa
+    to: china-united-states-exchange-foundation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15027
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tung-chee-hwa
+    to: university-of-liverpool
+    type: alumni
+    label: Bachelor of Science
+    since: "1956"
+    until: "1960"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15027
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tao-siju
+    to: china-foreign-affairs-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2274922
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tang-renjian
+    to: southwestern-university-of-finance-and-economics
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20063077
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tang-dengjie
+    to: tongji-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47015950
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tang-dengjie
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47015950
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tong-shiping
+    to: pla-national-defence-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5943843
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-a-shannon-jr
+    to: university-of-oxford
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7786914
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-a-shannon-jr
+    to: college-of-william-and-mary
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7786914
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: todd-blanche
+    to: brooklyn-law-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q125628262
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: todd-blanche
+    to: beloit-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q125628262
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-ridge
+    to: exelon
+    type: position
+    label: 任职
+    since: "2006"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q559822
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-ridge
+    to: the-home-depot
+    type: position
+    label: 任职
+    since: "2005"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q559822
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-ridge
+    to: penn-state-dickinson-law
+    type: alumni
+    label: Juris Doctor
+    until: "1972"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q559822
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-ridge
+    to: harvard-college
+    type: alumni
+    label: Bachelor of Arts
+    until: "1967"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q559822
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-modly
+    to: harvard-business-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q41598755
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-modly
+    to: georgetown-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q41598755
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-modly
+    to: shaker-heights-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q41598755
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-modly
+    to: united-states-naval-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q41598755
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-perez
+    to: democratic-national-committee
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7793121
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-perez
+    to: university-of-maryland-francis-king-carey-school-of-law
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7793121
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-perez
+    to: us-doj
+    type: position
+    label: 任职
+    since: 2009-10-08
+    until: 2013-07-23
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7793121
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-perez
+    to: george-washington-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7793121
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-perez
+    to: harvard-law-school
+    type: alumni
+    label: Juris Doctor
+    until: "1987"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7793121
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-perez
+    to: john-f-kennedy-school-of-government
+    type: alumni
+    label: Master of Arts
+    until: "1987"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7793121
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-perez
+    to: john-f-kennedy-school-of-government
+    type: alumni
+    label: public policy degree
+    until: "1987"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7793121
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-perez
+    to: brown-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1983"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7793121
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-vilsack
+    to: feeding-america
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q353826
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-vilsack
+    to: hamilton-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q353826
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-vilsack
+    to: albany-law-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q353826
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-e-donilon
+    to: the-catholic-university-of-america
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q618727
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-e-donilon
+    to: university-of-virginia-school-of-law
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q618727
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-e-donilon
+    to: la-salle-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q618727
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: togo-d-west-jr
+    to: howard-university-school-of-law
+    type: alumni
+    label: Juris Doctor
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1406519
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-e-white
+    to: united-states-army-war-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2423569
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-e-white
+    to: cass-technical-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2423569
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-e-white
+    to: united-states-military-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2423569
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-e-white
+    to: naval-postgraduate-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2423569
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-r-pickering
+    to: bowdoin-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q968268
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-r-pickering
+    to: the-fletcher-school-of-law-and-diplomacy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q968268
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-r-pickering
+    to: tufts-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q968268
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-price
+    to: emory-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1415243
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-price
+    to: university-of-michigan-medical-school
+    type: alumni
+    label: Doctor of Medicine
+    until: "1979"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1415243
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-price
+    to: university-of-michigan
+    type: alumni
+    label: Bachelor of Arts
+    until: "1976"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1415243
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-price
+    to: emory-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1415243
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tommy-thompson
+    to: centene-corporation
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q732804
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tommy-thompson
+    to: university-of-wisconsin-law-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q732804
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-geithner
+    to: warburg-pincus
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-geithner
+    to: council-on-foreign-relations
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-geithner
+    to: federal-reserve-bank-of-new-york
+    type: position
+    label: 任职
+    since: "2003"
+    until: "2009"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-geithner
+    to: united-states-department-of-the-treasury
+    type: position
+    label: 任职
+    since: "1988"
+    until: "2001"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-geithner
+    to: warburg-pincus
+    type: position
+    label: 任职
+    since: "2014"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-geithner
+    to: kissinger-associates
+    type: position
+    label: 任职
+    since: "1985"
+    until: "1988"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-geithner
+    to: council-on-foreign-relations
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-geithner
+    to: peking-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-geithner
+    to: dartmouth-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-geithner
+    to: johns-hopkins-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-geithner
+    to: international-school-bangkok
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-geithner
+    to: paul-h-nitze-school-of-advanced-international-studies
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-geithner
+    to: beijing-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-cruz
+    to: harvard-law-school
+    type: alumni
+    label: Juris Doctor
+    until: "1995"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2036942
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-cruz
+    to: princeton-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1992"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2036942
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-cruz
+    to: princeton-school-of-public-and-international-affairs
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2036942
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-budd
+    to: wake-forest-university
+    type: alumni
+    label: Master of Business Administration
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27733792
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-budd
+    to: appalachian-state-university
+    type: alumni
+    label: Bachelor of Science
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27733792
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-budd
+    to: wake-forest-university-school-of-business
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27733792
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-sheehy
+    to: united-states-naval-academy
+    type: alumni
+    until: "2008"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124433916
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tammy-duckworth
+    to: princeton-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3036410
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tammy-duckworth
+    to: university-of-hawai-i-system
+    type: alumni
+    label: Bachelor of Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3036410
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tammy-duckworth
+    to: university-of-hawai-i-at-manoa
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3036410
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tammy-duckworth
+    to: jakarta-intercultural-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3036410
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tammy-duckworth
+    to: northern-illinois-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3036410
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tammy-duckworth
+    to: international-school-bangkok
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3036410
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-cotton
+    to: international-republican-institute
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3090307
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-cotton
+    to: harvard-law-school
+    type: alumni
+    label: Juris Doctor
+    until: "2002"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3090307
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-cotton
+    to: harvard-college
+    type: alumni
+    label: Bachelor of Arts
+    until: "1998"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3090307
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-cotton
+    to: claremont-graduate-university
+    type: alumni
+    since: "1998"
+    until: "1999"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3090307
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tina-smith
+    to: stanford-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1980"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18631509
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: todd-young
+    to: university-of-chicago
+    type: alumni
+    label: Master of Business Administration
+    until: "2000"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q25483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: todd-young
+    to: united-states-naval-academy
+    type: alumni
+    label: Bachelor of Science
+    until: "1995"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q25483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: todd-young
+    to: indiana-university-robert-h-mckinney-school-of-law
+    type: alumni
+    label: Juris Doctor
+    until: "2006"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q25483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: todd-young
+    to: university-of-london
+    type: alumni
+    label: Master of Arts
+    until: "2001"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q25483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: todd-young
+    to: booth-school-of-business
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q25483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: todd-young
+    to: indiana-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q25483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-kaine
+    to: university-of-richmond-school-of-law
+    type: position
+    label: 任职
+    since: "1987"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q359888
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-kaine
+    to: harvard-law-school
+    type: alumni
+    label: Juris Doctor
+    until: "1983"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q359888
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-kaine
+    to: university-of-missouri
+    type: alumni
+    label: Bachelor of Arts
+    until: "1979"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q359888
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-kaine
+    to: rockhurst-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q359888
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-carper
+    to: university-of-delaware
+    type: alumni
+    label: Master of Business Administration
+    until: "1975"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q457432
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-carper
+    to: ohio-state-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1968"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q457432
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-carper
+    to: primary-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q457432
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tammy-baldwin
+    to: university-of-wisconsin-law-school
+    type: alumni
+    label: Juris Doctor
+    until: "1989"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q40628
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tammy-baldwin
+    to: smith-college
+    type: alumni
+    label: Bachelor of Arts
+    until: "1984"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q40628
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tammy-baldwin
+    to: university-of-wisconsin-madison
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q40628
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-udall
+    to: university-of-new-mexico-school-of-law
+    type: alumni
+    label: Juris Doctor
+    until: "1977"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q957690
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-udall
+    to: university-of-cambridge
+    type: alumni
+    label: Bachelor of Laws
+    until: "1975"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q957690
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-udall
+    to: mclean-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q957690
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-scott
+    to: presbyterian-college
+    type: alumni
+    since: "1983"
+    until: "1984"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q561315
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thom-tillis
+    to: ibm
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7786750
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thom-tillis
+    to: university-of-maryland-global-campus
+    type: alumni
+    label: Bachelor of Arts
+    until: "1997"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7786750
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: troy-downing
+    to: courant-institute-school-of-mathematics-computing-and-data-science
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q103158011
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: troy-downing
+    to: new-york-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q103158011
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tony-gonzales
+    to: university-of-maryland
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104648170
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tony-gonzales
+    to: chaminade-university-of-honolulu
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104648170
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tony-gonzales
+    to: excelsior-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104648170
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-deutch
+    to: climate-solutions-caucus
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q245724
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-deutch
+    to: climate-solutions-caucus
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q245724
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-deutch
+    to: university-of-michigan-law-school
+    type: alumni
+    label: Juris Doctor
+    until: "1990"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q245724
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-deutch
+    to: university-of-michigan
+    type: alumni
+    label: Bachelor of Arts
+    until: "1988"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q245724
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trey-hollingsworth
+    to: georgetown-university
+    type: alumni
+    label: master's degree
+    until: "2014"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27804536
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trey-hollingsworth
+    to: webb-school-of-knoxville
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27804536
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trey-hollingsworth
+    to: the-wharton-school
+    type: alumni
+    until: "2004"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27804536
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: troy-balderson
+    to: ohio-state-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16194422
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trent-kelly
+    to: university-of-mississippi-school-of-law
+    type: alumni
+    label: Juris Doctor
+    until: "1994"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20204915
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trent-kelly
+    to: university-of-mississippi
+    type: alumni
+    label: Bachelor of Arts
+    until: "1989"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20204915
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trent-kelly
+    to: united-states-army-war-college
+    type: alumni
+    label: Master of Arts
+    until: "2010"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20204915
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-massie
+    to: second-amendment-caucus
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2426031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-cole
+    to: university-of-oklahoma
+    type: alumni
+    label: Doctor of Philosophy
+    until: "1984"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q173839
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-cole
+    to: grinnell-college
+    type: alumni
+    label: Bachelor of Arts
+    until: "1971"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q173839
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-cole
+    to: yale-university
+    type: alumni
+    label: Master of Arts
+    until: "1974"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q173839
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tracey-mann
+    to: kansas-state-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "2000"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48767554
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tony-cardenas
+    to: university-of-california-santa-barbara
+    type: alumni
+    label: Bachelor of Arts
+    until: "1986"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3620422
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tony-cardenas
+    to: san-fernando-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3620422
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-malinowski
+    to: rfe-rl-inc
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23772336
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-malinowski
+    to: united-states-department-of-state
+    type: position
+    label: 任职
+    since: 2014-04-03
+    until: 2017-01-20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23772336
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-malinowski
+    to: st-antony-s-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23772336
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-malinowski
+    to: university-of-california-berkeley
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23772336
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-ryan
+    to: bowling-green-state-university
+    type: alumni
+    label: Bachelor of Science
+    until: "1995"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q513960
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-ryan
+    to: university-of-new-hampshire-school-of-law
+    type: alumni
+    label: Juris Doctor
+    until: "2000"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q513960
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terri-sewell
+    to: davis-polk-and-wardwell
+    type: position
+    label: 任职
+    since: "1994"
+    until: "2005"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461621
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terri-sewell
+    to: harvard-law-school
+    type: alumni
+    label: Juris Doctor
+    until: "1992"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461621
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terri-sewell
+    to: princeton-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1986"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461621
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terri-sewell
+    to: princeton-school-of-public-and-international-affairs
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461621
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-mcclintock
+    to: university-of-california-los-angeles
+    type: alumni
+    label: Bachelor of Arts
+    until: "1988"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q535887
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-rice
+    to: university-of-south-carolina
+    type: alumni
+    label: Bachelor of Science
+    until: "1979"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3956858
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-rice
+    to: university-of-south-carolina
+    type: alumni
+    label: Juris Doctor
+    until: "1982"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3956858
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-rice
+    to: university-of-south-carolina
+    type: alumni
+    label: Master of Arts
+    until: "1982"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3956858
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: teresa-leger-fernandez
+    to: stanford-university
+    type: alumni
+    label: Juris Doctor
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96054905
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: teresa-leger-fernandez
+    to: yale-university
+    type: alumni
+    label: Bachelor of Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96054905
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: troy-carter
+    to: xavier-university-of-louisiana
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7846787
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: troy-carter
+    to: carnegie-mellon-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7846787
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-walberg
+    to: taylor-university
+    type: alumni
+    label: Bachelor of Science
+    since: "1975"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q978618
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-walberg
+    to: wheaton-college
+    type: alumni
+    label: Master of Arts
+    until: "1978"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q978618
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-walberg
+    to: primary-school
+    type: alumni
+    until: "1969"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q978618
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-lieu
+    to: stanford-university
+    type: alumni
+    label: Bachelor of Science
+    until: "1991"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7693450
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-lieu
+    to: georgetown-university-law-center
+    type: alumni
+    label: Juris Doctor
+    until: "1994"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7693450
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-lieu
+    to: stanford-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1991"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7693450
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-lieu
+    to: saint-ignatius-high-school
+    type: alumni
+    until: "1987"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7693450
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: troy-nehls
+    to: liberty-university
+    type: alumni
+    label: Bachelor of Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96741441
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-suozzi
+    to: optimum-communications
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7794276
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-suozzi
+    to: boston-college
+    type: alumni
+    label: Bachelor of Science
+    since: "1980"
+    until: "1984"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7794276
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-suozzi
+    to: fordham-university-school-of-law
+    type: alumni
+    label: Juris Doctor
+    since: "1986"
+    until: "1989"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7794276
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-burchett
+    to: university-of-tennessee
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7803244
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-emmer
+    to: william-mitchell-college-of-law
+    type: alumni
+    label: Juris Doctor
+    until: "1988"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7815723
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-emmer
+    to: university-of-alaska-fairbanks
+    type: alumni
+    label: Bachelor of Arts
+    until: "1984"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7815723
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-emmer
+    to: mitchell-hamline-school-of-law
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7815723
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-o-halleran
+    to: depaul-university
+    type: alumni
+    since: "1991"
+    until: "1992"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7817086
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-walz
+    to: saint-mary-s-university-of-minnesota
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2434360
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-wolf
+    to: dartmouth-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7794795
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-wolf
+    to: the-hill-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7794795
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-wolf
+    to: massachusetts-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7794795
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-wolf
+    to: university-of-london
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7794795
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tony-evers
+    to: university-of-wisconsin-madison
+    type: alumni
+    label: Doctor of Philosophy
+    until: "1986"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7822309
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tony-evers
+    to: university-of-wisconsin-madison
+    type: alumni
+    label: Master of Science
+    until: "1976"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7822309
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tony-evers
+    to: university-of-wisconsin-madison
+    type: alumni
+    label: Bachelor of Science
+    until: "1973"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7822309
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tie-ning
+    to: china-writers-association
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2466915
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tuo-zhen
+    to: people-s-daily-press
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2756182
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tuo-zhen
+    to: wuhan-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2756182
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tong-jianming
+    to: renmin-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47670365
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tong-jianming
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47670365
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tsering-thar
+    to: harbin-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105717812
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tsering-thar
+    to: qinghai-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105717812
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tang-guangfu
+    to: xi-an-jiaotong-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48936249
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tien-pei-chun-james
+    to: hope-for-hong-kong
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4368021
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tien-pei-chun-james
+    to: university-of-illinois-urbana-champaign
+    type: alumni
+    label: Bachelor of Science
+    until: "1968"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4368021
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tien-pei-chun-james
+    to: san-jose-state-university
+    type: alumni
+    label: Master of Science
+    until: "1970"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4368021
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tien-pei-chun-james
+    to: diocesan-boys-school
+    type: alumni
+    until: "1964"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4368021
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-lau
+    to: lifestyle-international-holdings
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7791723
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-lau
+    to: university-of-toronto
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7791723
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: timothy-fok
+    to: university-of-southern-california
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7807201
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tony-xu
+    to: meta-platforms
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105038817
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tony-xu
+    to: doordash
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105038817
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tony-xu
+    to: doordash
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105038817
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tony-xu
+    to: doordash
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105038817
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tony-xu
+    to: harvard-university
+    type: alumni
+    label: Master of Business Administration
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105038817
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tilman-j-fertitta
+    to: landry-s-inc
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7802933
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tilman-j-fertitta
+    to: landry-s-inc-2
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7802933
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tilman-j-fertitta
+    to: landry-s-seafood
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7802933
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tilman-j-fertitta
+    to: morton-s-the-steakhouse
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7802933
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tilman-j-fertitta
+    to: houston-rockets
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7802933
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tilman-j-fertitta
+    to: landry-s-inc-2
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7802933
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tilman-j-fertitta
+    to: the-post-oak
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7802933
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tilman-j-fertitta
+    to: university-of-houston
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7802933
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tilman-j-fertitta
+    to: texas-tech-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7802933
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tony-tamer
+    to: rutgers-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19564449
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tony-tamer
+    to: harvard-business-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19564449
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-f-frist-jr
+    to: vanderbilt-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7789440
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-f-frist-jr
+    to: washington-university-in-st-louis
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7789440
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-f-frist-jr
+    to: montgomery-bell-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7789440
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-leonsis
+    to: american-express
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381629
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-leonsis
+    to: monumental-sports-and-entertainment
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381629
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-leonsis
+    to: capital-one-arena
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381629
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-leonsis
+    to: washington-mystics
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381629
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-leonsis
+    to: lowell-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381629
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-leonsis
+    to: brooklyn-technical-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381629
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-leonsis
+    to: georgetown-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381629
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-peterffy
+    to: interactive-brokers
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7793127
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tyler-winklevoss
+    to: winklevoss-capital-management
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3066193
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tyler-winklevoss
+    to: gemini
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3066193
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tyler-winklevoss
+    to: harvard-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3066193
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tyler-winklevoss
+    to: brunswick-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3066193
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tyler-winklevoss
+    to: said-business-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3066193
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tyler-winklevoss
+    to: greenwich-country-day-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3066193
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tyler-winklevoss
+    to: christ-church
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3066193
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tyler-winklevoss
+    to: harvard-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3066193
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tamara-gustavson
+    to: university-of-southern-california
+    type: alumni
+    label: bachelor's degree
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18686519
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-cook
+    to: nike
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q265852
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-cook
+    to: ibm
+    type: position
+    label: 任职
+    since: "1982"
+    until: "1994"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q265852
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-cook
+    to: apple-inc
+    type: position
+    label: 任职
+    since: "1998"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q265852
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-cook
+    to: auburn-university
+    type: alumni
+    label: Bachelor of Science
+    until: "1982"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q265852
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-cook
+    to: duke-university
+    type: alumni
+    until: "1988"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q265852
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terry-pegula
+    to: east-resources
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381789
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terry-pegula
+    to: buffalo-bills
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381789
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terry-pegula
+    to: buffalo-bandits
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381789
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terry-pegula
+    to: east-resources
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381789
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terry-pegula
+    to: pegula-sports-and-entertainment
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381789
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terry-pegula
+    to: scranton-preparatory-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381789
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terry-pegula
+    to: pennsylvania-state-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381789
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: todd-boehly
+    to: chelsea-f-c
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56513174
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: todd-boehly
+    to: eldridge
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56513174
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: todd-boehly
+    to: eldridge-2
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56513174
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: todd-boehly
+    to: london-school-of-economics-and-political-science
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56513174
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: todd-boehly
+    to: college-of-william-and-mary
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56513174
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-tull
+    to: legendary-pictures
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16213294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-tull
+    to: brash-entertainment
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16213294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-tull
+    to: hamilton-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16213294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trevor-rees-jones
+    to: chief-oil-and-gas
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14616726
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trevor-rees-jones
+    to: chief-oil-and-gas
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14616726
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trevor-rees-jones
+    to: highland-park-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14616726
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trevor-rees-jones
+    to: southern-methodist-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14616726
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trevor-rees-jones
+    to: dedman-school-of-law
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14616726
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trevor-rees-jones
+    to: dartmouth-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14616726
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-golisano
+    to: national-popular-vote-inc
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3297814
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-golisano
+    to: paychex
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3297814
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-golisano
+    to: greenlight-networks
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3297814
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ty-warner
+    to: mers
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7859651
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ty-warner
+    to: mers
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7859651
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-siebel
+    to: c3-ai
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2427296
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-siebel
+    to: c3-ai
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2427296
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-siebel
+    to: siebel-systems
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2427296
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-siebel
+    to: c3-ai
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2427296
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-siebel
+    to: university-of-illinois-urbana-champaign
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2427296
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-siebel
+    to: shattuck-saint-mary-s-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2427296
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: todd-graves
+    to: raising-cane-s-chicken-fingers
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7812395
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-sweeney
+    to: epic-games
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q323671
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-sweeney
+    to: epic-games
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q323671
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-sweeney
+    to: university-of-maryland
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q323671
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-secunda
+    to: bloomberg-lp
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7793856
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thomas-secunda
+    to: binghamton-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7793856
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thai-lee
+    to: shi-international-corp
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21063142
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thai-lee
+    to: shi-international-corp
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21063142
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thai-lee
+    to: harvard-business-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21063142
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: thai-lee
+    to: amherst-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21063142
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tench-coxe
+    to: nvidia
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124879467
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-gores
+    to: platinum-equity
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1253454
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-gores
+    to: the-palace-of-auburn-hills
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1253454
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tom-gores
+    to: michigan-state-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1253454
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-turner
+    to: world-championship-wrestling
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-turner
+    to: cnn
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-turner
+    to: world-championship-wrestling
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-turner
+    to: turner-entertainment
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-turner
+    to: tv-6
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-turner
+    to: moscow-independent-broadcasting-corporation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-turner
+    to: turner-broadcasting-system-asia-pacific
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-turner
+    to: turner-broadcasting-system-europe
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-turner
+    to: warner-bros-discovery-americas
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-turner
+    to: turner-broadcasting-system
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-turner
+    to: warner-bros-discovery-argentina
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-turner
+    to: q10385636
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-turner
+    to: turner-foundation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-turner
+    to: warner-bros-discovery-international
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-turner
+    to: the-mccallie-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ted-turner
+    to: brown-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-o-reilly
+    to: open-source
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q347691
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-o-reilly
+    to: o-reilly-media
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q347691
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tim-o-reilly
+    to: harvard-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q347691
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trip-hawkins
+    to: electronic-arts
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q460459
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trip-hawkins
+    to: electronic-arts
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q460459
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trip-hawkins
+    to: digital-chocolate
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q460459
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trip-hawkins
+    to: the-3do-company
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q460459
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trip-hawkins
+    to: digital-chocolate
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q460459
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trip-hawkins
+    to: university-of-california-santa-barbara
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q460459
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trip-hawkins
+    to: stanford-graduate-school-of-business
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q460459
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: trip-hawkins
+    to: harvard-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q460459
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tory-burch
+    to: tory-burch-llc
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2945547
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tory-burch
+    to: ralph-lauren-corporation
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2945547
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: tory-burch
+    to: university-of-pennsylvania
+    type: alumni
+    label: Bachelor of Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2945547
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terry-mcauliffe
+    to: 2000-democratic-national-convention
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3518911
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terry-mcauliffe
+    to: democratic-national-committee
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3518911
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terry-mcauliffe
+    to: george-mason-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3518911
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terry-mcauliffe
+    to: the-catholic-university-of-america
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3518911
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terry-mcauliffe
+    to: georgetown-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3518911
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terry-mcauliffe
+    to: bishop-ludden-junior-senior-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3518911
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: terry-mcauliffe
+    to: georgetown-university-law-center
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3518911
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: travis-kalanick
+    to: uber
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7836291
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: travis-kalanick
+    to: redswoosh
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7836291
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: travis-kalanick
+    to: cloudkitchens
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7836291
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: travis-kalanick
+    to: university-of-california-los-angeles
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7836291
+        publisher: Wikidata
+        accessed: 2026-10-11

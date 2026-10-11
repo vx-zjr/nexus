@@ -1,0 +1,20 @@
+id: massad-boulos
+type: person
+name: Massad Boulos
+names:
+  en: Massad Boulos
+  zh: 马萨德·布洛斯
+gender: M
+born: '1971'
+country:
+- US
+- LB
+sectors:
+- business
+- diplomacy
+tier: 3
+summary: 黎巴嫩裔美国商人，Tiffany Trump 的公公。2024 年大选中联络阿拉伯裔选民；第二任期任美国非洲事务（及阿拉伯/中东事务）高级顾问。
+sources:
+- url: https://en.wikipedia.org/wiki/Massad_Boulos
+  publisher: Wikipedia
+updated: '2026-10-11'

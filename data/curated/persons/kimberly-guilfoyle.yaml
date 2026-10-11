@@ -1,0 +1,19 @@
+id: kimberly-guilfoyle
+type: person
+name: Kimberly Guilfoyle
+names:
+  en: Kimberly Guilfoyle
+  zh: 金伯利·吉尔福伊尔
+gender: F
+born: '1969-03-09'
+country:
+- US
+sectors:
+- politics
+- diplomacy
+tier: 3
+summary: 前 Fox News 主持人，Don Jr. 前未婚妻（2020–2024）。2025 年起任美国驻希腊大使。
+sources:
+- url: https://en.wikipedia.org/wiki/Kimberly_Guilfoyle
+  publisher: Wikipedia
+updated: '2026-10-11'

@@ -1,0 +1,1897 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: d-e-shaw
+    type: org
+    name: D.E. Shaw
+    names:
+      zh: 肖氏基金公司
+      en: D.E. Shaw
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: company
+    ids:
+      wikidata: Q1151402
+    links:
+      - https://en.wikipedia.org/wiki/D._E._Shaw_%26_Co.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1151402
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dagon
+    type: org
+    name: Dagon
+    names:
+      zh: 美國海軍不屈號
+      en: Dagon
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: 1985 Stalwart-class research vessel
+    ids:
+      wikidata: Q6954825
+    links:
+      - https://en.wikipedia.org/wiki/USNS_Indomitable
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6954825
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dalian-hexing
+    type: org
+    name: Dalian Hexing
+    names:
+      en: Dalian Hexing
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: Chinese holding company
+    ids:
+      wikidata: Q36340882
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q36340882
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dalian-university-of-technology
+    type: org
+    name: 大连理工大学
+    names:
+      zh: 大连理工大学
+      en: Dalian University of Technology
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 1949年创建的一所高等学校
+    ids:
+      wikidata: Q1477368
+    links:
+      - https://en.wikipedia.org/wiki/Dalian_University_of_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1477368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dalian-yuming-senior-high-school
+    type: org
+    name: 大连育明高级中学
+    names:
+      zh: 大连育明高级中学
+      en: Dalian Yuming Senior High School
+    orgType: school
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: school in Dalian, Liaoning
+    ids:
+      wikidata: Q11439343
+    links:
+      - https://en.wikipedia.org/wiki/Dalian_Yuming_Senior_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11439343
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dallas-cowboys
+    type: org
+    name: Dallas Cowboys
+    names:
+      zh: 达拉斯牛仔
+      en: Dallas Cowboys
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国橄榄球队
+    ids:
+      wikidata: Q204862
+    links:
+      - https://en.wikipedia.org/wiki/Dallas_Cowboys
+    sources:
+      - url: https://www.wikidata.org/wiki/Q204862
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dallas-mavericks
+    type: org
+    name: Dallas Mavericks
+    names:
+      zh: 达拉斯独行侠
+      en: Dallas Mavericks
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國職業籃球隊
+    ids:
+      wikidata: Q132893
+    links:
+      - https://en.wikipedia.org/wiki/Dallas_Mavericks
+    sources:
+      - url: https://www.wikidata.org/wiki/Q132893
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dalton-school
+    type: org
+    name: Dalton School
+    names:
+      zh: 道尔顿学校
+      en: Dalton School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private, co-ed prep school on Upper East Side, New York City
+    ids:
+      wikidata: Q3508986
+    links:
+      - https://en.wikipedia.org/wiki/Dalton_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3508986
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: danaher-corporation
+    type: org
+    name: Danaher Corporation
+    names:
+      zh: 丹纳赫
+      en: Danaher Corporation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American conglomerate
+    ids:
+      wikidata: Q1159256
+    links:
+      - https://en.wikipedia.org/wiki/Danaher_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1159256
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: danger-inc
+    type: org
+    name: Danger, Inc.
+    names:
+      en: Danger, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: mobile computing software and hardware company
+    ids:
+      wikidata: Q5215986
+    links:
+      - https://en.wikipedia.org/wiki/Danger%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5215986
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: daniel-mann-johnson-and-mendenhall
+    type: org
+    name: Daniel, Mann, Johnson and Mendenhall
+    names:
+      en: Daniel, Mann, Johnson and Mendenhall
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American office for architecture, active in Los Angeles
+    ids:
+      wikidata: Q123516508
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q123516508
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dartmouth-college
+    type: org
+    name: Dartmouth College
+    names:
+      zh: 达特茅斯学院
+      en: Dartmouth College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 2
+    summary: 美國新罕布什爾州漢諾威的大學和文理學院
+    ids:
+      wikidata: Q49116
+    links:
+      - https://en.wikipedia.org/wiki/Dartmouth_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49116
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: data
+    type: org
+    name: DATA
+    names:
+      en: DATA
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: organization
+    ids:
+      wikidata: Q1181663
+    links:
+      - https://en.wikipedia.org/wiki/DATA
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1181663
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: davenport-college
+    type: org
+    name: Davenport College
+    names:
+      zh: 达文波特学院
+      en: Davenport College
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: residential college at Yale University
+    ids:
+      wikidata: Q5230230
+    links:
+      - https://en.wikipedia.org/wiki/Davenport_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5230230
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: david-eccles-school-of-business
+    type: org
+    name: David Eccles School of Business
+    names:
+      en: David Eccles School of Business
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: business school in Utah
+    ids:
+      wikidata: Q5233254
+    links:
+      - https://en.wikipedia.org/wiki/David_Eccles_School_of_Business
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5233254
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: david-h-koch-foundation
+    type: org
+    name: David H. Koch Foundation
+    names:
+      en: David H. Koch Foundation
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: Philanthropic Organization
+    ids:
+      wikidata: Q104704454
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104704454
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: davidson-college
+    type: org
+    name: Davidson College
+    names:
+      zh: 戴维森学院
+      en: Davidson College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: American liberal arts college in Davidson, North Carolina, U.S.A.
+    ids:
+      wikidata: Q2902978
+    links:
+      - https://en.wikipedia.org/wiki/Davidson_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2902978
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: davis-polk-and-wardwell
+    type: org
+    name: Davis Polk & Wardwell
+    names:
+      zh: 达维律师事务所
+      en: Davis Polk & Wardwell
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: international law firm headquartered in New York City
+    ids:
+      wikidata: Q5241952
+    links:
+      - https://en.wikipedia.org/wiki/Davis_Polk
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5241952
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dc-enquirer
+    type: org
+    name: DC Enquirer
+    names:
+      en: DC Enquirer
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: news website
+    ids:
+      wikidata: Q124755422
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124755422
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dedman-school-of-law
+    type: org
+    name: Dedman School of Law
+    names:
+      zh: 南方卫理公会大学法学院
+      en: Dedman School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: graduate law school located in Dallas, Texas, United States
+    ids:
+      wikidata: Q85285
+    links:
+      - https://en.wikipedia.org/wiki/Dedman_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q85285
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: deeplearning-ai
+    type: org
+    name: DeepLearning.AI
+    names:
+      en: DeepLearning.AI
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: DeepLearning.AI is an education technology company that is empowering the global workforce to build an AI-powered future through world-class education, hands-on training, and a collaborative community.
+    ids:
+      wikidata: Q139973594
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q139973594
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: deepseek
+    type: org
+    name: 深度求索
+    names:
+      zh: 深度求索
+      en: DeepSeek
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 2
+    summary: 中国大陆浙江杭州的人工智能公司
+    ids:
+      wikidata: Q131577453
+    links:
+      - https://en.wikipedia.org/wiki/DeepSeek
+    sources:
+      - url: https://www.wikidata.org/wiki/Q131577453
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: deere-and-company
+    type: org
+    name: Deere & Company
+    names:
+      zh: 迪尔公司
+      en: Deere & Company
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国公司
+    ids:
+      wikidata: Q496302
+    links:
+      - https://en.wikipedia.org/wiki/John_Deere
+    sources:
+      - url: https://www.wikidata.org/wiki/Q496302
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: deerfield-academy
+    type: org
+    name: Deerfield Academy
+    names:
+      zh: 迪尔菲尔德学院
+      en: Deerfield Academy
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: independent, boarding and day school in Deerfield, Massachusetts, United States
+    ids:
+      wikidata: Q5250893
+    links:
+      - https://en.wikipedia.org/wiki/Deerfield_Academy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5250893
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: defence-ministry
+    type: org
+    name: defence ministry
+    names:
+      zh: 国防部
+      en: defence ministry
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 目前大部分国家最高军事行政部门的通称
+    ids:
+      wikidata: Q1788820
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_defence
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1788820
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: defense-information-school
+    type: org
+    name: Defense Information School
+    names:
+      en: Defense Information School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: DoD school located at Fort Meade, Maryland, US
+    ids:
+      wikidata: Q5251386
+    links:
+      - https://en.wikipedia.org/wiki/Defense_Information_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5251386
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: defense-innovation-advisory-board
+    type: org
+    name: Defense Innovation Advisory Board
+    names:
+      en: Defense Innovation Advisory Board
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: US entity
+    ids:
+      wikidata: Q25083449
+    links:
+      - https://en.wikipedia.org/wiki/Defense_Innovation_Board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q25083449
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: defense-legal-services-agency
+    type: org
+    name: Defense Legal Services Agency
+    names:
+      en: Defense Legal Services Agency
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q79243164
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q79243164
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: deka
+    type: org
+    name: DEKA
+    names:
+      en: DEKA
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: company in Manchester, United States
+    ids:
+      wikidata: Q5204824
+    links:
+      - https://en.wikipedia.org/wiki/DEKA_(company)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5204824
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: delaware-blue-coats
+    type: org
+    name: Delaware Blue Coats
+    names:
+      zh: 特拉华蓝衣
+      en: Delaware Blue Coats
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American professional basketball team of the NBA G League
+    ids:
+      wikidata: Q12415759
+    links:
+      - https://en.wikipedia.org/wiki/Delaware_Blue_Coats
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12415759
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: delaware-state-senate
+    type: org
+    name: Delaware State Senate
+    names:
+      zh: 特拉华州参议院
+      en: Delaware State Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the Delaware General Assembly
+    ids:
+      wikidata: Q909035
+    links:
+      - https://en.wikipedia.org/wiki/Delaware_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q909035
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: delivering-outstanding-government-efficiency-caucus
+    type: org
+    name: Delivering Outstanding Government Efficiency Caucus
+    names:
+      en: Delivering Outstanding Government Efficiency Caucus
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: US congressional caucus
+    ids:
+      wikidata: Q131339587
+    links:
+      - https://en.wikipedia.org/wiki/Delivering_Outstanding_Government_Efficiency_Caucus
+    sources:
+      - url: https://www.wikidata.org/wiki/Q131339587
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dell
+    type: org
+    name: Dell
+    names:
+      zh: 戴尔
+      en: Dell
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國電腦廠商
+    ids:
+      wikidata: Q30873
+    links:
+      - https://en.wikipedia.org/wiki/Dell
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30873
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dell-software
+    type: org
+    name: Dell Software
+    names:
+      en: Dell Software
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: former software division of Dell, Inc.
+    ids:
+      wikidata: Q16927833
+    links:
+      - https://en.wikipedia.org/wiki/Dell_Software
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16927833
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dell-technologies
+    type: org
+    name: Dell Technologies
+    names:
+      zh: 戴尔科技
+      en: Dell Technologies
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American multinational technology company
+    ids:
+      wikidata: Q27500963
+    links:
+      - https://en.wikipedia.org/wiki/Dell_Technologies
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27500963
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: delorean-motor-company
+    type: org
+    name: DeLorean Motor Company
+    names:
+      zh: 德羅寧汽車公司
+      en: DeLorean Motor Company
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: American former automobile manufacturer
+    ids:
+      wikidata: Q1241608
+    links:
+      - https://en.wikipedia.org/wiki/DeLorean_Motor_Company
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1241608
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: democracy-fund
+    type: org
+    name: Democracy Fund
+    names:
+      zh: 民主基金会
+      en: Democracy Fund
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: charitable foundation
+    ids:
+      wikidata: Q55316022
+    links:
+      - https://en.wikipedia.org/wiki/Democracy_Fund
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55316022
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: democracy-fund-voice
+    type: org
+    name: Democracy Fund Voice
+    names:
+      en: Democracy Fund Voice
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lobbying group
+    ids:
+      wikidata: Q127420226
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q127420226
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: democratic-majority-for-israel
+    type: org
+    name: Democratic Majority For Israel
+    names:
+      en: Democratic Majority For Israel
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lobbying group advocating pro-Israel policies in the United States
+    ids:
+      wikidata: Q65086853
+    links:
+      - https://en.wikipedia.org/wiki/Democratic_Majority_for_Israel
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65086853
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: democratic-national-committee
+    type: org
+    name: Democratic National Committee
+    names:
+      zh: 民主党全国委员会
+      en: Democratic National Committee
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國民主黨的最高機構
+    ids:
+      wikidata: Q1185863
+    links:
+      - https://en.wikipedia.org/wiki/Democratic_National_Committee
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1185863
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: democratic-party
+    type: org
+    name: Democratic Party
+    names:
+      zh: 民主党
+      en: Democratic Party
+    orgType: party
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: 美國政黨
+    ids:
+      wikidata: Q29552
+    links:
+      - https://en.wikipedia.org/wiki/Democratic_Party_(United_States)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q29552
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: denison-university
+    type: org
+    name: Denison University
+    names:
+      zh: 丹尼森大学
+      en: Denison University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国俄亥俄州的大学
+    ids:
+      wikidata: Q4493503
+    links:
+      - https://en.wikipedia.org/wiki/Denison_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4493503
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: denza
+    type: org
+    name: 腾势汽车
+    names:
+      zh: 腾势汽车
+      en: Denza
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 中國合資電動汽車製造商
+    ids:
+      wikidata: Q2381970
+    links:
+      - https://en.wikipedia.org/wiki/Denza
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2381970
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: department-of-justice-office-of-the-solicitor-general
+    type: org
+    name: Department of Justice Office of the Solicitor General
+    names:
+      en: Department of Justice Office of the Solicitor General
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    ids:
+      wikidata: Q79700853
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q79700853
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: depaul-university
+    type: org
+    name: DePaul University
+    names:
+      zh: 德保罗大学
+      en: DePaul University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国芝加哥私立天主教大学
+    ids:
+      wikidata: Q1179603
+    links:
+      - https://en.wikipedia.org/wiki/DePaul_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1179603
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: depauw-university
+    type: org
+    name: DePauw University
+    names:
+      zh: 迪堡大学
+      en: DePauw University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国印第安纳州私立文理学院
+    ids:
+      wikidata: Q1179599
+    links:
+      - https://en.wikipedia.org/wiki/DePauw_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1179599
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: desert-inn
+    type: org
+    name: Desert Inn
+    names:
+      zh: 沙漠旅館
+      en: Desert Inn
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: former hotel casino in Las Vegas, Nevada
+    ids:
+      wikidata: Q1200583
+    links:
+      - https://en.wikipedia.org/wiki/Desert_Inn
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1200583
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: destination-games
+    type: org
+    name: Destination Games
+    names:
+      en: Destination Games
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American video game development company
+    ids:
+      wikidata: Q1200947
+    links:
+      - https://en.wikipedia.org/wiki/Destination_Games
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1200947
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: development-gateway
+    type: org
+    name: Development Gateway
+    names:
+      en: Development Gateway
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: organization
+    ids:
+      wikidata: Q5266695
+    links:
+      - https://en.wikipedia.org/wiki/Development_Gateway
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5266695
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dewitt-clinton-high-school
+    type: org
+    name: DeWitt Clinton High School
+    names:
+      zh: 德威特克林顿高中
+      en: DeWitt Clinton High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public secondary school in New York City, USA
+    ids:
+      wikidata: Q5244175
+    links:
+      - https://en.wikipedia.org/wiki/DeWitt_Clinton_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5244175
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dfo-management
+    type: org
+    name: DFO Management
+    names:
+      en: DFO Management
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American private investment firm
+    ids:
+      wikidata: Q6717758
+    links:
+      - https://en.wikipedia.org/wiki/DFO_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6717758
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dgc-records
+    type: org
+    name: DGC Records
+    names:
+      zh: DGC唱片公司
+      en: DGC Records
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American record label; imprint of Geffen Records, Inc.
+    ids:
+      wikidata: Q2311775
+    links:
+      - https://en.wikipedia.org/wiki/DGC_Records
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2311775
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dialog
+    type: org
+    name: Dialog
+    names:
+      en: Dialog
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Private annual invite-only society gathering for elite and influential members
+    ids:
+      wikidata: Q136694973
+    links:
+      - https://en.wikipedia.org/wiki/Dialog_(organization)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136694973
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: diane-von-furstenberg-2
+    type: org
+    name: Diane von Furstenberg
+    names:
+      en: Diane von Furstenberg
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: fashion label
+    ids:
+      wikidata: Q47518021
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47518021
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: diapers-com
+    type: org
+    name: Diapers.com
+    names:
+      en: Diapers.com
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: online retailer
+    ids:
+      wikidata: Q5271745
+    links:
+      - https://en.wikipedia.org/wiki/Diapers.com
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5271745
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dickinson-college
+    type: org
+    name: Dickinson College
+    names:
+      zh: 迪金森学院
+      en: Dickinson College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: college in Pennsylvania
+    ids:
+      wikidata: Q1210045
+    links:
+      - https://en.wikipedia.org/wiki/Dickinson_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1210045
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: didi
+    type: org
+    name: 滴滴出行
+    names:
+      zh: 滴滴出行
+      en: DiDi
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 總部位於北京的交通网络公司
+    ids:
+      wikidata: Q21190510
+    links:
+      - https://en.wikipedia.org/wiki/DiDi
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21190510
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: didi-dache
+    type: org
+    name: Didi Dache
+    names:
+      zh: 滴滴打车
+      en: Didi Dache
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    ids:
+      wikidata: Q18636516
+    links:
+      - https://en.wikipedia.org/wiki/Didi_Dache
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18636516
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: didi-global
+    type: org
+    name: DiDi Global
+    names:
+      en: DiDi Global
+    orgType: company
+    country:
+      - CN
+      - KY
+    sectors:
+      - business
+    tier: 4
+    summary: Caymanese holding company
+    ids:
+      wikidata: Q113153195
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q113153195
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: digital-chocolate
+    type: org
+    name: Digital Chocolate
+    names:
+      zh: 數碼巧克力
+      en: Digital Chocolate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國電子遊戲開發商
+    ids:
+      wikidata: Q766278
+    links:
+      - https://en.wikipedia.org/wiki/Digital_Chocolate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q766278
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: digital-equipment-corporation
+    type: org
+    name: Digital Equipment Corporation
+    names:
+      zh: 迪吉多
+      en: Digital Equipment Corporation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国计算机制造商（1957—1998）
+    ids:
+      wikidata: Q690079
+    links:
+      - https://en.wikipedia.org/wiki/Digital_Equipment_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q690079
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: digital-research
+    type: org
+    name: Digital Research
+    names:
+      zh: 数字研究公司
+      en: Digital Research
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 3
+    summary: software company
+    ids:
+      wikidata: Q185608
+    links:
+      - https://en.wikipedia.org/wiki/Digital_Research
+    sources:
+      - url: https://www.wikidata.org/wiki/Q185608
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: diocesan-boys-school
+    type: org
+    name: 拔萃男书院
+    names:
+      zh: 拔萃男书院
+      en: Diocesan Boys' School
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 香港九龍城的基督教男子學校
+    ids:
+      wikidata: Q1226763
+    links:
+      - https://en.wikipedia.org/wiki/Diocesan_Boys'_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1226763
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: diplomatic-corps
+    type: org
+    name: diplomatic corps
+    names:
+      zh: 外交團
+      en: diplomatic corps
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 駐某國境內全體外國使館及館員所組成的團體
+    ids:
+      wikidata: Q938711
+    links:
+      - https://en.wikipedia.org/wiki/Diplomatic_corps
+    sources:
+      - url: https://www.wikidata.org/wiki/Q938711
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: directed-electronics
+    type: org
+    name: Directed Electronics
+    names:
+      en: Directed Electronics
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Inc., manufacturer of vehicular audio and security systems
+    ids:
+      wikidata: Q5280401
+    links:
+      - https://en.wikipedia.org/wiki/Directed_Electronics
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5280401
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dish
+    type: org
+    name: Dish
+    names:
+      zh: Dish Network
+      en: Dish
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: direct broadcast satellite & streaming TV company
+    ids:
+      wikidata: Q1199757
+    links:
+      - https://en.wikipedia.org/wiki/Dish_Network
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1199757
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: disney-character-voices-international
+    type: org
+    name: Disney Character Voices International
+    names:
+      zh: 迪士尼角色之聲國際公司
+      en: Disney Character Voices International
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: corporate divison of The Walt Disney Company
+    ids:
+      wikidata: Q5282435
+    links:
+      - https://en.wikipedia.org/wiki/Disney_Character_Voices_International
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5282435
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: disney-d23
+    type: org
+    name: Disney D23
+    names:
+      zh: D23博覽會
+      en: Disney D23
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: The Walt Disney Company's official fan club
+    ids:
+      wikidata: Q5282441
+    links:
+      - https://en.wikipedia.org/wiki/D23_(Disney)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5282441
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: disney-institute
+    type: org
+    name: Disney Institute
+    names:
+      en: Disney Institute
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: development and external training unit of The Walt Disney Company
+    ids:
+      wikidata: Q3030429
+    links:
+      - https://en.wikipedia.org/wiki/Disney_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3030429
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: disney-regional-entertainment
+    type: org
+    name: Disney Regional Entertainment
+    names:
+      en: Disney Regional Entertainment
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: former subsidiary of Walt Disney Parks and Resorts
+    ids:
+      wikidata: Q17177263
+    links:
+      - https://en.wikipedia.org/wiki/Disney_Regional_Entertainment
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17177263
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dnainfo
+    type: org
+    name: DNAinfo
+    names:
+      en: DNAinfo
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: online news service that focused on neighborhood news in New York City and Chicago
+    ids:
+      wikidata: Q21189308
+    links:
+      - https://en.wikipedia.org/wiki/DNAinfo
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21189308
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: doge
+    type: org
+    name: Department of Government Efficiency
+    names:
+      zh: 政府效率部
+      en: Department of Government Efficiency
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國政府臨時機構
+    ids:
+      wikidata: Q131158869
+    links:
+      - https://en.wikipedia.org/wiki/Department_of_Government_Efficiency
+    sources:
+      - url: https://www.wikidata.org/wiki/Q131158869
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dogwood-canyon-nature-park
+    type: org
+    name: Dogwood Canyon Nature Park
+    names:
+      en: Dogwood Canyon Nature Park
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: park in Stone County, Missouri
+    ids:
+      wikidata: Q124309745
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124309745
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: donald-j-trump-foundation
+    type: org
+    name: Donald J. Trump Foundation
+    names:
+      zh: 唐纳德·特朗普基金会
+      en: Donald J. Trump Foundation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: former US-based private foundation
+    ids:
+      wikidata: Q26840614
+    links:
+      - https://en.wikipedia.org/wiki/Donald_J._Trump_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q26840614
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: donald-trump-2016-presidential-campaign
+    type: org
+    name: Donald Trump 2016 presidential campaign
+    names:
+      zh: 2016年唐納德·川普競選美國總統
+      en: Donald Trump 2016 presidential campaign
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 黑天鹅事件
+    ids:
+      wikidata: Q20121517
+    links:
+      - https://en.wikipedia.org/wiki/Donald_Trump_2016_presidential_campaign
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20121517
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dongbei-university-of-finance-and-economics
+    type: org
+    name: 东北财经大学
+    names:
+      zh: 东北财经大学
+      en: Dongbei University of Finance and Economics
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 辽宁的一所大学
+    ids:
+      wikidata: Q836014
+    links:
+      - https://en.wikipedia.org/wiki/Dongbei_University_of_Finance_and_Economics
+    sources:
+      - url: https://www.wikidata.org/wiki/Q836014
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: doordash
+    type: org
+    name: DoorDash
+    names:
+      zh: DoorDash
+      en: DoorDash
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国网上订餐公司
+    ids:
+      wikidata: Q20714323
+    links:
+      - https://en.wikipedia.org/wiki/DoorDash
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20714323
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dow-chemical-company
+    type: org
+    name: Dow Chemical Company
+    names:
+      zh: 陶氏化工
+      en: Dow Chemical Company
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American chemical company
+    ids:
+      wikidata: Q855639
+    links:
+      - https://en.wikipedia.org/wiki/Dow_Chemical_Company
+    sources:
+      - url: https://www.wikidata.org/wiki/Q855639
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: draak
+    type: org
+    name: Draak
+    names:
+      zh: 平静号
+      en: Draak
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: motor yacht built in 2014
+    ids:
+      wikidata: Q26869087
+    links:
+      - https://en.wikipedia.org/wiki/Tranquility_(yacht)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q26869087
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dragonfly
+    type: org
+    name: Dragonfly
+    names:
+      en: Dragonfly
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: 2024 superyacht by Lürssen
+    ids:
+      wikidata: Q137710657
+    links:
+      - https://en.wikipedia.org/wiki/Dragonfly_(yacht)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137710657
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: draken-international
+    type: org
+    name: Draken International
+    names:
+      zh: 德拉肯國際
+      en: Draken International
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: company providing fighter aircraft for training purposes
+    ids:
+      wikidata: Q5305647
+    links:
+      - https://en.wikipedia.org/wiki/Draken_International
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5305647
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dreamworks
+    type: org
+    name: DreamWorks
+    names:
+      zh: 梦工厂
+      en: DreamWorks
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: American film studio
+    ids:
+      wikidata: Q192557
+    links:
+      - https://en.wikipedia.org/wiki/DreamWorks_Pictures
+    sources:
+      - url: https://www.wikidata.org/wiki/Q192557
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dreamworks-animation
+    type: org
+    name: DreamWorks Animation
+    names:
+      zh: 梦工厂动画
+      en: DreamWorks Animation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國動畫工作室
+    ids:
+      wikidata: Q500088
+    links:
+      - https://en.wikipedia.org/wiki/DreamWorks_Animation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q500088
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dreamworks-records
+    type: org
+    name: DreamWorks Records
+    names:
+      zh: 梦工厂唱片
+      en: DreamWorks Records
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: American record label
+    ids:
+      wikidata: Q1899781
+    links:
+      - https://en.wikipedia.org/wiki/DreamWorks_Records
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1899781
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dreamworks-television
+    type: org
+    name: DreamWorks Television
+    names:
+      zh: 梦工场电视
+      en: DreamWorks Television
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: organization
+    ids:
+      wikidata: Q13361863
+    links:
+      - https://en.wikipedia.org/wiki/DreamWorks_Television
+    sources:
+      - url: https://www.wikidata.org/wiki/Q13361863
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: drexel-burnham-lambert
+    type: org
+    name: Drexel Burnham Lambert
+    names:
+      zh: 德崇证券
+      en: Drexel Burnham Lambert
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: financial services company (1935 - 1994)
+    ids:
+      wikidata: Q177404
+    links:
+      - https://en.wikipedia.org/wiki/Drexel_Burnham_Lambert
+    sources:
+      - url: https://www.wikidata.org/wiki/Q177404
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: drury-university
+    type: org
+    name: Drury University
+    names:
+      zh: 杜利大學
+      en: Drury University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private college in Springfield Missouri, U.S.
+    ids:
+      wikidata: Q5309401
+    links:
+      - https://en.wikipedia.org/wiki/Drury_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5309401
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dttm-operations-llc
+    type: org
+    name: DTTM Operations LLC
+    names:
+      en: DTTM Operations LLC
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American company that manages Donald Trump's trade marks
+    ids:
+      wikidata: Q134958769
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q134958769
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: duke-university
+    type: org
+    name: Duke University
+    names:
+      zh: 杜克大学
+      en: Duke University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 2
+    summary: 美國北卡羅來納州達勒姆的私立大學
+    ids:
+      wikidata: Q168751
+    links:
+      - https://en.wikipedia.org/wiki/Duke_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q168751
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: duke-university-school-of-law
+    type: org
+    name: Duke University School of Law
+    names:
+      zh: 杜克大学法学院
+      en: Duke University School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 杜克大學的法學院和學術單位
+    ids:
+      wikidata: Q5312901
+    links:
+      - https://en.wikipedia.org/wiki/Duke_University_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5312901
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dunes
+    type: org
+    name: Dunes
+    names:
+      zh: 杜恩斯賭場
+      en: Dunes
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: hotel and casino in Las Vegas (1955-1993)
+    ids:
+      wikidata: Q1347033
+    links:
+      - https://en.wikipedia.org/wiki/Dunes_(hotel_and_casino)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1347033
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dupont-manual-high-school
+    type: org
+    name: duPont Manual High School
+    names:
+      en: duPont Manual High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Louisville, Jefferson County, Kentucky
+    ids:
+      wikidata: Q5310013
+    links:
+      - https://en.wikipedia.org/wiki/DuPont_Manual_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5310013
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: dyncorp
+    type: org
+    name: DynCorp
+    names:
+      zh: DynCorp公司
+      en: DynCorp
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: former American private military contractor
+    ids:
+      wikidata: Q1268837
+    links:
+      - https://en.wikipedia.org/wiki/DynCorp
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1268837
+        publisher: Wikidata
+        accessed: 2026-10-11

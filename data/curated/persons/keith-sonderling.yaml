@@ -1,0 +1,29 @@
+id: keith-sonderling
+type: person
+name: Keith Sonderling
+names:
+  en: Keith Sonderling
+  zh: 基思·桑德林
+gender: M
+born: '1983'
+country:
+- US
+sectors:
+- politics
+tier: 3
+status: active
+summary: 劳工部长（2026-10 起），此前任劳工部副部长。
+positions:
+- title: 劳工部长
+  org: us-cabinet
+  from: '2026-10-09'
+  current: true
+- title: 劳工部副部长
+  from: 2025-03
+  to: 2026-10
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

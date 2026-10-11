@@ -1,0 +1,2713 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: palantir
+    type: org
+    name: Palantir Technologies
+    names:
+      zh: Palantir科技
+      en: Palantir Technologies
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國科技企業
+    ids:
+      wikidata: Q2047336
+    links:
+      - https://en.wikipedia.org/wiki/Palantir
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2047336
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: palisades-charter-high-school
+    type: org
+    name: Palisades Charter High School
+    names:
+      zh: 帕利塞兹宪章高中
+      en: Palisades Charter High School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in California, United States
+    ids:
+      wikidata: Q7127596
+    links:
+      - https://en.wikipedia.org/wiki/Palisades_Charter_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7127596
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: palo-alto-research-center
+    type: org
+    name: Palo Alto Research Center
+    names:
+      zh: 帕罗奥多研究中心
+      en: Palo Alto Research Center
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American business (1970-)
+    ids:
+      wikidata: Q750428
+    links:
+      - https://en.wikipedia.org/wiki/PARC_(company)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q750428
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: panda-express
+    type: org
+    name: Panda Express
+    names:
+      zh: 熊猫快餐
+      en: Panda Express
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: American chain serving fast-food Chinese cuisine
+    ids:
+      wikidata: Q1358690
+    links:
+      - https://en.wikipedia.org/wiki/Panda_Express
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1358690
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: panda-inn
+    type: org
+    name: Panda Inn
+    names:
+      zh: 聚丰园 (美国)
+      en: Panda Inn
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Upscale Chinese-American restaurant
+    ids:
+      wikidata: Q7130438
+    links:
+      - https://en.wikipedia.org/wiki/Panda_Inn
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7130438
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: panda-restaurant-group
+    type: org
+    name: Panda Restaurant Group
+    names:
+      zh: 熊猫餐饮集团
+      en: Panda Restaurant Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American restaurant company
+    ids:
+      wikidata: Q7130444
+    links:
+      - https://en.wikipedia.org/wiki/Panda_Restaurant_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7130444
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: papahanaumokuakea-marine-national-monument
+    type: org
+    name: Papahānaumokuākea Marine National Monument
+    names:
+      zh: 地母天父海洋國家名勝
+      en: Papahānaumokuākea Marine National Monument
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: national monument in the United States
+    ids:
+      wikidata: Q787425
+    links:
+      - https://en.wikipedia.org/wiki/Papah%C4%81naumoku%C4%81kea_Marine_National_Monument
+    sources:
+      - url: https://www.wikidata.org/wiki/Q787425
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paramount-pictures
+    type: org
+    name: Paramount Pictures
+    names:
+      zh: 派拉蒙电影公司
+      en: Paramount Pictures
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美国影视公司
+    ids:
+      wikidata: Q159846
+    links:
+      - https://en.wikipedia.org/wiki/Paramount_Pictures
+    sources:
+      - url: https://www.wikidata.org/wiki/Q159846
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paris-being-admitted-to-the-bedchamber-of-helen
+    type: org
+    name: Paris Being Admitted to the Bedchamber of Helen
+    names:
+      en: Paris Being Admitted to the Bedchamber of Helen
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Jacob de Backer
+    ids:
+      wikidata: Q20183820
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20183820
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: parker-institute-for-cancer-immunotherapy
+    type: org
+    name: Parker Institute for Cancer Immunotherapy
+    names:
+      en: Parker Institute for Cancer Immunotherapy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: facility in San Francisco, United States
+    ids:
+      wikidata: Q50035640
+    links:
+      - https://en.wikipedia.org/wiki/Parker_Institute_for_Cancer_Immunotherapy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50035640
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: parsippany-high-school
+    type: org
+    name: Parsippany High School
+    names:
+      zh: 帕西帕尼高中
+      en: Parsippany High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in New Jersey, United States
+    ids:
+      wikidata: Q14705836
+    links:
+      - https://en.wikipedia.org/wiki/Parsippany_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14705836
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: parsons-xtreme-golf
+    type: org
+    name: Parsons Xtreme Golf
+    names:
+      en: Parsons Xtreme Golf
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: global sports equipment manufacturing company
+    ids:
+      wikidata: Q30646600
+    links:
+      - https://en.wikipedia.org/wiki/Parsons_Xtreme_Golf
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30646600
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pascal-pictures
+    type: org
+    name: Pascal Pictures
+    names:
+      en: Pascal Pictures
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American Film production company
+    ids:
+      wikidata: Q110545747
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110545747
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: patrick-henry-college
+    type: org
+    name: Patrick Henry College
+    names:
+      zh: 帕特里克·亨利学院
+      en: Patrick Henry College
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private Christian college in Purcellville, Virginia
+    ids:
+      wikidata: Q741892
+    links:
+      - https://en.wikipedia.org/wiki/Patrick_Henry_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q741892
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paul-h-nitze-school-of-advanced-international-studies
+    type: org
+    name: Paul H. Nitze School of Advanced International Studies
+    names:
+      zh: 保罗·H·尼采高级国际研究学院
+      en: Paul H. Nitze School of Advanced International Studies
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: division of The Johns Hopkins University based in Washington, D.C., United States
+    ids:
+      wikidata: Q1352632
+    links:
+      - https://en.wikipedia.org/wiki/School_of_Advanced_International_Studies
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1352632
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paul-m-hebert-law-center
+    type: org
+    name: Paul M. Hebert Law Center
+    names:
+      zh: 保罗·M·埃贝尔法律中心
+      en: Paul M. Hebert Law Center
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Law school affiliated with Louisiana State University
+    ids:
+      wikidata: Q7152118
+    links:
+      - https://en.wikipedia.org/wiki/Paul_M._Hebert_Law_Center
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7152118
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paul-weiss-rifkind-wharton-and-garrison
+    type: org
+    name: Paul, Weiss, Rifkind, Wharton & Garrison
+    names:
+      en: Paul, Weiss, Rifkind, Wharton & Garrison
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: New York-based international law firm
+    ids:
+      wikidata: Q7148900
+    links:
+      - https://en.wikipedia.org/wiki/Paul%2C_Weiss%2C_Rifkind%2C_Wharton_%26_Garrison
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7148900
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paulson-and-co
+    type: org
+    name: Paulson & Co.
+    names:
+      en: Paulson & Co.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American family office
+    ids:
+      wikidata: Q7155370
+    links:
+      - https://en.wikipedia.org/wiki/Paulson_%26_Co.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7155370
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paychex
+    type: org
+    name: Paychex
+    names:
+      zh: 沛齊
+      en: Paychex
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American company
+    ids:
+      wikidata: Q946080
+    links:
+      - https://en.wikipedia.org/wiki/Paychex
+    sources:
+      - url: https://www.wikidata.org/wiki/Q946080
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paypal
+    type: org
+    name: PayPal
+    names:
+      zh: PayPal
+      en: PayPal
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國網上支付系統服務商
+    ids:
+      wikidata: Q483959
+    links:
+      - https://en.wikipedia.org/wiki/PayPal
+    sources:
+      - url: https://www.wikidata.org/wiki/Q483959
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pboc
+    type: org
+    name: 中国人民银行
+    names:
+      zh: 中国人民银行
+      en: People's Bank of China
+    orgType: bank
+    country:
+      - CN
+    sectors:
+      - finance
+    tier: 3
+    summary: 中华人民共和国的中央银行
+    ids:
+      wikidata: Q249203
+    links:
+      - https://en.wikipedia.org/wiki/People's_Bank_of_China
+    sources:
+      - url: https://www.wikidata.org/wiki/Q249203
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pdd-holdings
+    type: org
+    name: PDD Holdings
+    names:
+      en: PDD Holdings
+    orgType: company
+    country:
+      - IE
+      - KY
+    sectors:
+      - business
+    tier: 4
+    summary: e-commerce company
+    ids:
+      wikidata: Q124461238
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124461238
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: peasant-woman-against-a-background-of-wheat
+    type: org
+    name: Peasant Woman Against a Background of Wheat
+    names:
+      en: Peasant Woman Against a Background of Wheat
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Vincent van Gogh
+    ids:
+      wikidata: Q594477
+    links:
+      - https://en.wikipedia.org/wiki/Peasant_Woman_Against_a_Background_of_Wheat
+    sources:
+      - url: https://www.wikidata.org/wiki/Q594477
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pegula-sports-and-entertainment
+    type: org
+    name: Pegula Sports and Entertainment
+    names:
+      zh: 佩古拉體育和娛樂
+      en: Pegula Sports and Entertainment
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American sports and entertainment holding company based in Buffalo, New York
+    ids:
+      wikidata: Q28229329
+    links:
+      - https://en.wikipedia.org/wiki/Pegula_Sports_%26_Entertainment
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28229329
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: peking-university
+    type: org
+    name: 北京大学
+    names:
+      zh: 北京大学
+      en: Peking University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 2
+    summary: 位於中國北京的綜合性大學
+    ids:
+      wikidata: Q16952
+    links:
+      - https://en.wikipedia.org/wiki/Peking_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16952
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pelli-clarke-pelli-architects
+    type: org
+    name: Pelli Clarke Pelli Architects
+    names:
+      en: Pelli Clarke Pelli Architects
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q11815494
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11815494
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pelorus
+    type: org
+    name: Pelorus
+    names:
+      en: Pelorus
+    orgType: other
+    country:
+      - DE
+    sectors:
+      - other
+    tier: 4
+    summary: motor yacht built by Lürssen
+    ids:
+      wikidata: Q2036118
+    links:
+      - https://en.wikipedia.org/wiki/Pelorus_(yacht)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2036118
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pembroke-college
+    type: org
+    name: Pembroke College
+    names:
+      zh: 牛津大学彭布罗克学院
+      en: Pembroke College
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 3
+    summary: constituent college of the University of Oxford
+    ids:
+      wikidata: Q82606
+    links:
+      - https://en.wikipedia.org/wiki/Pembroke_College%2C_Oxford
+    sources:
+      - url: https://www.wikidata.org/wiki/Q82606
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: penn-state-dickinson-law
+    type: org
+    name: Penn State Dickinson Law
+    names:
+      zh: 迪金森法学院
+      en: Penn State Dickinson Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school in Carlisle, Pennsylvania
+    ids:
+      wikidata: Q19159531
+    links:
+      - https://en.wikipedia.org/wiki/Penn_State_Dickinson_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19159531
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pennsylvania-house-of-representatives
+    type: org
+    name: Pennsylvania House of Representatives
+    names:
+      zh: 宾夕法尼亚州众议院
+      en: Pennsylvania House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Lower house of legislature of the U.S. state of Pennsylvania
+    ids:
+      wikidata: Q2145217
+    links:
+      - https://en.wikipedia.org/wiki/Pennsylvania_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2145217
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pennsylvania-state-senate
+    type: org
+    name: Pennsylvania State Senate
+    names:
+      zh: 宾夕法尼亚州参议院
+      en: Pennsylvania State Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the Pennsylvania state legislature
+    ids:
+      wikidata: Q2269864
+    links:
+      - https://en.wikipedia.org/wiki/Pennsylvania_State_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2269864
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pennsylvania-state-university
+    type: org
+    name: Pennsylvania State University
+    names:
+      zh: 宾夕法尼亚州立大学
+      en: Pennsylvania State University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 1855年创建的一所学校
+    ids:
+      wikidata: Q739627
+    links:
+      - https://en.wikipedia.org/wiki/Pennsylvania_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q739627
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: penske-automotive-group
+    type: org
+    name: Penske Automotive Group
+    names:
+      en: Penske Automotive Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: international transportation services company
+    ids:
+      wikidata: Q1975799
+    links:
+      - https://en.wikipedia.org/wiki/Penske_Automotive_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1975799
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: penske-corporation
+    type: org
+    name: Penske Corporation
+    names:
+      zh: 潘世奇集团
+      en: Penske Corporation
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American transportation company
+    ids:
+      wikidata: Q2225273
+    links:
+      - https://en.wikipedia.org/wiki/Penske_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2225273
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: people-s-daily-press
+    type: org
+    name: 人民日报社
+    names:
+      zh: 人民日报社
+      en: People's Daily Press
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 位于北京市朝阳区金台西路2号的中共中央直属事业单位
+    ids:
+      wikidata: Q97352398
+    links:
+      - https://en.wikipedia.org/wiki/People's_Daily_Press
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97352398
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: people-s-government-of-beijing-municipality
+    type: org
+    name: 北京市人民政府
+    names:
+      zh: 北京市人民政府
+      en: People's Government of Beijing Municipality
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国北京市地方行政机关
+    ids:
+      wikidata: Q10902215
+    links:
+      - https://en.wikipedia.org/wiki/Beijing_Municipal_People's_Government
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10902215
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: people-s-government-of-chongqing-municipality
+    type: org
+    name: 重庆市人民政府
+    names:
+      zh: 重庆市人民政府
+      en: People's Government of Chongqing Municipality
+    orgType: government
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 4
+    summary: 中华人民共和国重庆市的省级地方行政机关
+    ids:
+      wikidata: Q17061536
+    links:
+      - https://en.wikipedia.org/wiki/Chongqing_Municipal_People's_Government
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17061536
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: people-s-government-of-guangdong-province
+    type: org
+    name: 广东省人民政府
+    names:
+      zh: 广东省人民政府
+      en: People's Government of Guangdong Province
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国省级政府
+    ids:
+      wikidata: Q4120334
+    links:
+      - https://en.wikipedia.org/wiki/Guangdong_Provincial_People's_Government
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4120334
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: people-s-government-of-hebei-province
+    type: org
+    name: 河北省人民政府
+    names:
+      zh: 河北省人民政府
+      en: People's Government of Hebei Province
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: government of Hebei
+    ids:
+      wikidata: Q11141349
+    links:
+      - https://en.wikipedia.org/wiki/Hebei_Provincial_People's_Government
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11141349
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: people-s-government-of-henan-province
+    type: org
+    name: 河南省人民政府
+    names:
+      zh: 河南省人民政府
+      en: People's Government of Henan Province
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 地方政府
+    ids:
+      wikidata: Q11141635
+    links:
+      - https://en.wikipedia.org/wiki/Henan_Provincial_People's_Government
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11141635
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: people-s-government-of-hubei-province
+    type: org
+    name: 湖北省人民政府
+    names:
+      zh: 湖北省人民政府
+      en: People's Government of Hubei Province
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国湖北省行政机关
+    ids:
+      wikidata: Q15942052
+    links:
+      - https://en.wikipedia.org/wiki/Hubei_Provincial_People's_Government
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15942052
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: people-s-government-of-jilin-province
+    type: org
+    name: 吉林省人民政府
+    names:
+      zh: 吉林省人民政府
+      en: People's Government of Jilin Province
+    orgType: government
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 4
+    summary: government of Jilin province
+    ids:
+      wikidata: Q10917251
+    links:
+      - https://en.wikipedia.org/wiki/Jilin_Provincial_People's_Government
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10917251
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: people-s-government-of-liaoning-province
+    type: org
+    name: 辽宁省人民政府
+    names:
+      zh: 辽宁省人民政府
+      en: People's Government of Liaoning Province
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国辽宁省的省级地方行政机关
+    ids:
+      wikidata: Q15913205
+    links:
+      - https://en.wikipedia.org/wiki/Liaoning_Provincial_People's_Government
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15913205
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: people-s-government-of-shaanxi-province
+    type: org
+    name: 陕西省人民政府
+    names:
+      zh: 陕西省人民政府
+      en: People's Government of Shaanxi Province
+    orgType: government
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 4
+    summary: 中华人民共和国陕西省地方政府
+    ids:
+      wikidata: Q15907785
+    links:
+      - https://en.wikipedia.org/wiki/Shaanxi_Provincial_People's_Government
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15907785
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: people-s-government-of-tianjin-municipality
+    type: org
+    name: 天津市人民政府
+    names:
+      zh: 天津市人民政府
+      en: People's Government of Tianjin Municipality
+    orgType: government
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 4
+    summary: government organization in Tianjin, China
+    ids:
+      wikidata: Q10940073
+    links:
+      - https://en.wikipedia.org/wiki/Tianjin_Municipal_People's_Government
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10940073
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: people-s-liberation-army-general-political-department
+    type: org
+    name: 中国人民解放军总政治部
+    names:
+      zh: 中国人民解放军总政治部
+      en: People's Liberation Army General Political Department
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 已撤销部门
+    ids:
+      wikidata: Q6148135
+    links:
+      - https://en.wikipedia.org/wiki/General_Political_Department_of_the_People's_Liberation_Army
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6148135
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: people-s-public-security-university-of-china
+    type: org
+    name: 中国人民公安大学
+    names:
+      zh: 中国人民公安大学
+      en: People's Public Security University of China
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于中国北京市的公安高等院校
+    ids:
+      wikidata: Q5100590
+    links:
+      - https://en.wikipedia.org/wiki/People's_Public_Security_University_of_China
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5100590
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pepperdine-university
+    type: org
+    name: Pepperdine University
+    names:
+      zh: 佩珀代因大学
+      en: Pepperdine University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美國加利福尼亞州馬里布附近的私立大學
+    ids:
+      wikidata: Q117876
+    links:
+      - https://en.wikipedia.org/wiki/Pepperdine_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q117876
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pepperdine-university-school-of-law
+    type: org
+    name: Pepperdine University School of Law
+    names:
+      zh: 佩珀代因大學法學院
+      en: Pepperdine University School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 位於加利福尼亞州馬里布的佩珀代因大學專業法學院
+    ids:
+      wikidata: Q7166399
+    links:
+      - https://en.wikipedia.org/wiki/Pepperdine_University_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7166399
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pepsico
+    type: org
+    name: PepsiCo
+    names:
+      zh: 百事公司
+      en: PepsiCo
+    orgType: company
+    country:
+      - US
+      - BE
+    sectors:
+      - business
+    tier: 2
+    summary: 軟飲料公司
+    ids:
+      wikidata: Q334800
+    links:
+      - https://en.wikipedia.org/wiki/PepsiCo
+    sources:
+      - url: https://www.wikidata.org/wiki/Q334800
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: perelman-performing-arts-center
+    type: org
+    name: Perelman Performing Arts Center
+    names:
+      zh: 表演藝術中心（曼哈頓）
+      en: Perelman Performing Arts Center
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: performing arts center at the World Trade Center in New York City
+    ids:
+      wikidata: Q18152059
+    links:
+      - https://en.wikipedia.org/wiki/Perelman_Performing_Arts_Center
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18152059
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: perkins-coie
+    type: org
+    name: Perkins Coie
+    names:
+      en: Perkins Coie
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: international law firm based in Seattle, Washington
+    ids:
+      wikidata: Q7169037
+    links:
+      - https://en.wikipedia.org/wiki/Ashurst_Perkins_Coie
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7169037
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: perot-systems
+    type: org
+    name: Perot Systems
+    names:
+      en: Perot Systems
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: information technology company
+    ids:
+      wikidata: Q3375548
+    links:
+      - https://en.wikipedia.org/wiki/Perot_Systems
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3375548
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pershing-square-capital-management
+    type: org
+    name: Pershing Square Capital Management
+    names:
+      zh: 潘興廣場資本管理
+      en: Pershing Square Capital Management
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American hedge fund
+    ids:
+      wikidata: Q7170181
+    links:
+      - https://en.wikipedia.org/wiki/Pershing_Square_Capital_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7170181
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pershing-square-foundation
+    type: org
+    name: Pershing Square Foundation
+    names:
+      en: Pershing Square Foundation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: nonprofit organization in New York, United States
+    ids:
+      wikidata: Q21660371
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21660371
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pershing-square-tontine-holdings
+    type: org
+    name: Pershing Square Tontine Holdings
+    names:
+      en: Pershing Square Tontine Holdings
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: newly organized blank check company formed for the purpose of effecting a merger (SPAC)
+    ids:
+      wikidata: Q105853613
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105853613
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: peterson-institute-for-international-economics
+    type: org
+    name: Peterson Institute for International Economics
+    names:
+      zh: 彼得森国际经济研究所
+      en: Peterson Institute for International Economics
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: think tank based in Washington, DC, USA
+    ids:
+      wikidata: Q2981447
+    links:
+      - https://en.wikipedia.org/wiki/Peterson_Institute_for_International_Economics
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2981447
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: petrochina-company-limited
+    type: org
+    name: 中国石油
+    names:
+      zh: 中国石油
+      en: PetroChina Company Limited
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中國的石油和天然氣公司
+    ids:
+      wikidata: Q503182
+    links:
+      - https://en.wikipedia.org/wiki/PetroChina
+    sources:
+      - url: https://www.wikidata.org/wiki/Q503182
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: phaidon-press
+    type: org
+    name: Phaidon Press
+    names:
+      zh: 菲頓出版社
+      en: Phaidon Press
+    orgType: other
+    country:
+      - AT
+      - GB
+    sectors:
+      - other
+    tier: 4
+    summary: 英國圖書出版商
+    ids:
+      wikidata: Q928675
+    links:
+      - https://en.wikipedia.org/wiki/Phaidon_Press
+    sources:
+      - url: https://www.wikidata.org/wiki/Q928675
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: philadelphia-76ers
+    type: org
+    name: Philadelphia 76ers
+    names:
+      zh: 費城76人
+      en: Philadelphia 76ers
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國職業籃球隊
+    ids:
+      wikidata: Q138089
+    links:
+      - https://en.wikipedia.org/wiki/Philadelphia_76ers
+    sources:
+      - url: https://www.wikidata.org/wiki/Q138089
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: philadelphia-eagles
+    type: org
+    name: Philadelphia Eagles
+    names:
+      zh: 费城老鹰
+      en: Philadelphia Eagles
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美式橄欖球隊
+    ids:
+      wikidata: Q219714
+    links:
+      - https://en.wikipedia.org/wiki/Philadelphia_Eagles
+    sources:
+      - url: https://www.wikidata.org/wiki/Q219714
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: philippine-airlines
+    type: org
+    name: Philippine Airlines
+    names:
+      zh: 菲律宾航空
+      en: Philippine Airlines
+    orgType: other
+    country:
+      - PH
+    sectors:
+      - other
+    tier: 3
+    summary: 菲律賓的國家航空公司
+    ids:
+      wikidata: Q846910
+    links:
+      - https://en.wikipedia.org/wiki/Philippine_Airlines
+    sources:
+      - url: https://www.wikidata.org/wiki/Q846910
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: phillips-academy
+    type: org
+    name: Phillips Academy
+    names:
+      zh: 菲利普斯学院
+      en: Phillips Academy
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国马萨诸塞州中学
+    ids:
+      wikidata: Q1432645
+    links:
+      - https://en.wikipedia.org/wiki/Phillips_Academy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1432645
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: phillips-exeter-academy
+    type: org
+    name: Phillips Exeter Academy
+    names:
+      zh: 菲利普斯埃克塞特学院
+      en: Phillips Exeter Academy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国私立预科学校
+    ids:
+      wikidata: Q1426464
+    links:
+      - https://en.wikipedia.org/wiki/Phillips_Exeter_Academy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1426464
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pi
+    type: org
+    name: PI
+    names:
+      en: PI
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: ship built in 2019
+    ids:
+      wikidata: Q83651907
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q83651907
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pierre-1er
+    type: org
+    name: Pierre 1er
+    names:
+      en: Pierre 1er
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q48752701
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48752701
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pilot-flying-j
+    type: org
+    name: Pilot Flying J
+    names:
+      en: Pilot Flying J
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American truck stop company
+    ids:
+      wikidata: Q1434601
+    links:
+      - https://en.wikipedia.org/wiki/Pilot_Flying_J
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1434601
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pinduoduo
+    type: org
+    name: 拼多多
+    names:
+      zh: 拼多多
+      en: Pinduoduo
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 中国大陆网络购物平台
+    ids:
+      wikidata: Q47015652
+    links:
+      - https://en.wikipedia.org/wiki/Pinduoduo
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47015652
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pingry-school
+    type: org
+    name: Pingry School
+    names:
+      zh: 宾格利学校
+      en: Pingry School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private school in Somerset County, New Jersey, United States
+    ids:
+      wikidata: Q7195812
+    links:
+      - https://en.wikipedia.org/wiki/Pingry_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7195812
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pixar
+    type: org
+    name: Pixar
+    names:
+      zh: 皮克斯动画工作室
+      en: Pixar
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 華特迪士尼公司旗下的電腦動畫製片廠
+    ids:
+      wikidata: Q127552
+    links:
+      - https://en.wikipedia.org/wiki/Pixar
+    sources:
+      - url: https://www.wikidata.org/wiki/Q127552
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pla-dalian-naval-academy
+    type: org
+    name: 中国人民解放军海军大连舰艇学院
+    names:
+      zh: 中国人民解放军海军大连舰艇学院
+      en: PLA Dalian Naval Academy
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 学校
+    ids:
+      wikidata: Q1018771
+    links:
+      - https://en.wikipedia.org/wiki/Dalian_Naval_Academy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1018771
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pla-national-defence-university
+    type: org
+    name: 中国人民解放军国防大学
+    names:
+      zh: 中国人民解放军国防大学
+      en: PLA National Defence University
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国北京市军事院校
+    ids:
+      wikidata: Q6147859
+    links:
+      - https://en.wikipedia.org/wiki/People's_Liberation_Army_National_Defense_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6147859
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pla-naval-command-academy
+    type: org
+    name: PLA Naval Command Academy
+    names:
+      en: PLA Naval Command Academy
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: Chinese naval academy in the PLA
+    ids:
+      wikidata: Q136773590
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136773590
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: plaaf-xi-an-flying-college
+    type: org
+    name: 中国人民解放军空军西安飞行学院
+    names:
+      zh: 中国人民解放军空军西安飞行学院
+      en: PLAAF Xi'an Flying College
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 学校
+    ids:
+      wikidata: Q10873059
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873059
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: plagf-infantry-college
+    type: org
+    name: 中国人民解放军陆军步兵学院
+    names:
+      zh: 中国人民解放军陆军步兵学院
+      en: PLAGF Infantry College
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 学校
+    ids:
+      wikidata: Q10872957
+    links:
+      - https://en.wikipedia.org/wiki/Army_Infantry_College_of_the_PLA
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10872957
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: platinum-equity
+    type: org
+    name: Platinum Equity
+    names:
+      zh: 铂金资本
+      en: Platinum Equity
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: US private equity company
+    ids:
+      wikidata: Q787239
+    links:
+      - https://en.wikipedia.org/wiki/Platinum_Equity
+    sources:
+      - url: https://www.wikidata.org/wiki/Q787239
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: plaxo
+    type: org
+    name: Plaxo
+    names:
+      en: Plaxo
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: company
+    ids:
+      wikidata: Q946514
+    links:
+      - https://en.wikipedia.org/wiki/Plaxo
+    sources:
+      - url: https://www.wikidata.org/wiki/Q946514
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: plaza-hotel
+    type: org
+    name: Plaza Hotel
+    names:
+      zh: 广场饭店
+      en: Plaza Hotel
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: hotel in Midtown Manhattan, New York City
+    ids:
+      wikidata: Q1066676
+    links:
+      - https://en.wikipedia.org/wiki/Plaza_Hotel
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1066676
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: plumpjack-estate-winery
+    type: org
+    name: PlumpJack Estate Winery
+    names:
+      en: PlumpJack Estate Winery
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Winery
+    ids:
+      wikidata: Q7205454
+    links:
+      - https://en.wikipedia.org/wiki/PlumpJack_Winery
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7205454
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: plumpjack-group
+    type: org
+    name: PlumpJack Group
+    names:
+      en: PlumpJack Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American hospitality management company
+    ids:
+      wikidata: Q140775980
+    links:
+      - https://en.wikipedia.org/wiki/PlumpJack_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q140775980
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: plus-10
+    type: org
+    name: Plus 10
+    names:
+      en: Plus 10
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Kenneth Noland
+    ids:
+      wikidata: Q136714123
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136714123
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: podesta-group
+    type: org
+    name: Podesta Group
+    names:
+      zh: 波德斯塔集团
+      en: Podesta Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American lobbying firm
+    ids:
+      wikidata: Q7206708
+    links:
+      - https://en.wikipedia.org/wiki/Podesta_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7206708
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: point72-asset-management
+    type: org
+    name: Point72 Asset Management
+    names:
+      zh: 72点资产管理公司
+      en: Point72 Asset Management
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Hedge fund
+    ids:
+      wikidata: Q2204741
+    links:
+      - https://en.wikipedia.org/wiki/Point72_Asset_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2204741
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: points-of-light-institute
+    type: org
+    name: Points of Light Institute
+    names:
+      en: Points of Light Institute
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國非盈利組織
+    ids:
+      wikidata: Q4270138
+    links:
+      - https://en.wikipedia.org/wiki/Points_of_Light
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4270138
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: policy-planning-staff
+    type: org
+    name: Policy Planning Staff
+    names:
+      zh: 政策规划办公室
+      en: Policy Planning Staff
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美国国务院下属机构
+    ids:
+      wikidata: Q3367987
+    links:
+      - https://en.wikipedia.org/wiki/Policy_Planning_Staff_(United_States)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3367987
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: poly-prep-country-day-school
+    type: org
+    name: Poly Prep Country Day School
+    names:
+      zh: 保利國家日預科學院
+      en: Poly Prep Country Day School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: independent school with two campuses in Brooklyn, New York, United States
+    ids:
+      wikidata: Q7226112
+    links:
+      - https://en.wikipedia.org/wiki/Poly_Prep
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7226112
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: polybona-films
+    type: org
+    name: 保利博纳电影发行公司
+    names:
+      zh: 保利博纳电影发行公司
+      en: Polybona Films
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: Chinese film company
+    ids:
+      wikidata: Q7226171
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7226171
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pomona-college
+    type: org
+    name: Pomona College
+    names:
+      zh: 波莫那学院
+      en: Pomona College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 私立教育机构
+    ids:
+      wikidata: Q7227384
+    links:
+      - https://en.wikipedia.org/wiki/Pomona_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7227384
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: port-authority-of-new-york-and-new-jersey
+    type: org
+    name: Port Authority of New York and New Jersey
+    names:
+      zh: 纽约与新泽西港务局
+      en: Port Authority of New York and New Jersey
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: transportation facility agency around New York City & New Jersey
+    ids:
+      wikidata: Q908666
+    links:
+      - https://en.wikipedia.org/wiki/Port_Authority_of_New_York_and_New_Jersey
+    sources:
+      - url: https://www.wikidata.org/wiki/Q908666
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: portalarium
+    type: org
+    name: Portalarium
+    names:
+      en: Portalarium
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: defunct American video game developer
+    ids:
+      wikidata: Q7231501
+    links:
+      - https://en.wikipedia.org/wiki/Portalarium
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7231501
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: portrait-of-a-foreign-admiral
+    type: org
+    name: Portrait of a foreign admiral
+    names:
+      en: Portrait of a foreign admiral
+    orgType: other
+    country:
+      - CA
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Rembrandt
+    ids:
+      wikidata: Q1986539
+    links:
+      - https://en.wikipedia.org/wiki/Portrait_of_a_Man_with_Arms_Akimbo
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1986539
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: portrait-of-adele-bloch-bauer-i
+    type: org
+    name: Portrait of Adele Bloch-Bauer I
+    names:
+      zh: 艾蒂兒肖像一號
+      en: Portrait of Adele Bloch-Bauer I
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 画作
+    ids:
+      wikidata: Q354396
+    links:
+      - https://en.wikipedia.org/wiki/Portrait_of_Adele_Bloch-Bauer_I
+    sources:
+      - url: https://www.wikidata.org/wiki/Q354396
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: portrait-of-an-artist
+    type: org
+    name: Portrait of an Artist (Pool with Two Figures)
+    names:
+      zh: 藝術家肖像（泳池與兩個人像）
+      en: Portrait of an Artist (Pool with Two Figures)
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: 大衛·霍克尼作品
+    ids:
+      wikidata: Q58791744
+    links:
+      - https://en.wikipedia.org/wiki/Portrait_of_an_Artist_(Pool_with_Two_Figures)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58791744
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: portrait-of-chunying-prince-rui
+    type: org
+    name: Portrait of Chunying, Prince Rui (1761 - 1800)
+    names:
+      zh: 睿親王淳穎像
+      en: Portrait of Chunying, Prince Rui (1761 - 1800)
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: Prince Rui of Qing Dynasty portrait
+    ids:
+      wikidata: Q107781236
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q107781236
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: portrait-of-daisan
+    type: org
+    name: Portrait of Daisan
+    names:
+      zh: 代善像
+      en: Portrait of Daisan
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Chinese ancestor portrait
+    ids:
+      wikidata: Q107650956
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q107650956
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: portrait-of-elisabeth-lederer
+    type: org
+    name: Portrait of Elisabeth Lederer
+    names:
+      zh: 伊莉莎白·萊德勒肖像
+      en: Portrait of Elisabeth Lederer
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Gustav Klimt
+    ids:
+      wikidata: Q136433749
+    links:
+      - https://en.wikipedia.org/wiki/Portrait_of_Elisabeth_Lederer
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136433749
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: portrait-of-hongyan-prince-guo
+    type: org
+    name: Portrait of Hongyan, Prince Guo (1733-1765)
+    names:
+      zh: 果郡王弘曕像
+      en: Portrait of Hongyan, Prince Guo (1733-1765)
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: Chinese ancestor portrait
+    ids:
+      wikidata: Q108274241
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q108274241
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: portrait-of-lirongbao-s-wife
+    type: org
+    name: Portrait of Lirongbao’s Wife (fl. 17th century)
+    names:
+      zh: 李榮保之妻畫像
+      en: Portrait of Lirongbao’s Wife (fl. 17th century)
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: Chinese ancestor portrait, Qing Dynasty historical painting, (Freer Sackler S1991.129)
+    ids:
+      wikidata: Q108040728
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q108040728
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: portrait-of-professor-benjamin-h-rand
+    type: org
+    name: Portrait of Professor Benjamin H. Rand
+    names:
+      en: Portrait of Professor Benjamin H. Rand
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Thomas Eakins
+    ids:
+      wikidata: Q2855146
+    links:
+      - https://en.wikipedia.org/wiki/Portrait_of_Professor_Benjamin_H._Rand
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2855146
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: portrait-of-shang-kexi
+    type: org
+    name: Portrait of Shang Kexi
+    names:
+      zh: 尚可喜像
+      en: Portrait of Shang Kexi
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Chinese ancestor portrait
+    ids:
+      wikidata: Q108369035
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q108369035
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: portrait-of-tsereng
+    type: org
+    name: Portrait of Tsereng
+    names:
+      zh: 策凌畫像
+      en: Portrait of Tsereng
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: Chinese ancestor portrait, Qing Dynasty historical painting
+    ids:
+      wikidata: Q108297092
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q108297092
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: portsmouth-f-c
+    type: org
+    name: Portsmouth F.C.
+    names:
+      zh: 朴茨茅斯足球俱乐部
+      en: Portsmouth F.C.
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 2
+    summary: 英國足球俱樂部
+    ids:
+      wikidata: Q19604
+    links:
+      - https://en.wikipedia.org/wiki/Portsmouth_F.C.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19604
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: powder-haven
+    type: org
+    name: Powder Haven
+    names:
+      en: Powder Haven
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Official private ski-in, ski-out residential community for Powder Mountain Resort.
+    ids:
+      wikidata: Q137049480
+    links:
+      - https://en.wikipedia.org/wiki/Powder_Haven
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137049480
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: powerlong
+    type: org
+    name: Powerlong
+    names:
+      zh: 寶龍地產
+      en: Powerlong
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Chinese real estate company
+    ids:
+      wikidata: Q10956455
+    links:
+      - https://en.wikipedia.org/wiki/Powerlong
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10956455
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: prairie-chapel-ranch
+    type: org
+    name: Prairie Chapel Ranch
+    names:
+      en: Prairie Chapel Ranch
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: human settlement in Texas, United States of America
+    ids:
+      wikidata: Q3280406
+    links:
+      - https://en.wikipedia.org/wiki/Prairie_Chapel_Ranch
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3280406
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: prc-mfa
+    type: org
+    name: 中华人民共和国外交部
+    names:
+      zh: 中华人民共和国外交部
+      en: Ministry of Foreign Affairs of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 中华人民共和国政府部门
+    ids:
+      wikidata: Q1155502
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs_(China)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1155502
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: presbyterian-college
+    type: org
+    name: Presbyterian College
+    names:
+      zh: 長老會學院
+      en: Presbyterian College
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private liberal arts college in Clinton, South Carolina, United States
+    ids:
+      wikidata: Q7240768
+    links:
+      - https://en.wikipedia.org/wiki/Presbyterian_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7240768
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: prescriptives
+    type: org
+    name: Prescriptives
+    names:
+      en: Prescriptives
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American cosmetics company owned by Estée Lauder Companies
+    ids:
+      wikidata: Q139667832
+    links:
+      - https://en.wikipedia.org/wiki/Prescriptives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q139667832
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: president-and-fellows-of-harvard-college
+    type: org
+    name: President and Fellows of Harvard College
+    names:
+      zh: 哈佛大学校级教授
+      en: President and Fellows of Harvard College
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Governing board of Harvard University
+    ids:
+      wikidata: Q7241254
+    links:
+      - https://en.wikipedia.org/wiki/President_and_Fellows_of_Harvard_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7241254
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: president-s-commission-on-aviation-security-and-terrorism
+    type: org
+    name: President's commission on aviation security and terrorism
+    names:
+      en: President's commission on aviation security and terrorism
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q7241196
+    links:
+      - https://en.wikipedia.org/wiki/President's_commission_on_aviation_security_and_terrorism
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7241196
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: president-s-commission-on-the-hiv-epidemic
+    type: org
+    name: President's Commission on the HIV Epidemic
+    names:
+      en: President's Commission on the HIV Epidemic
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: body established by Ronald Reagan to advise U.S. governmental response to the AIDS Crisis (1987–88), ignored by the federal government
+    ids:
+      wikidata: Q7241138
+    links:
+      - https://en.wikipedia.org/wiki/President's_Commission_on_the_HIV_Epidemic
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7241138
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: presidential-advisory-council-on-hiv-aids
+    type: org
+    name: Presidential Advisory Council on HIV/AIDS
+    names:
+      en: Presidential Advisory Council on HIV/AIDS
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: body established by Bill Clinton to advise U.S. governmental response to the AIDS Crisis (1995– )
+    ids:
+      wikidata: Q7241411
+    links:
+      - https://en.wikipedia.org/wiki/Presidential_Advisory_Council_on_HIV%2FAIDS
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7241411
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: presidential-election
+    type: org
+    name: presidential election
+    names:
+      zh: 总统选举
+      en: presidential election
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 政治選舉型態
+    ids:
+      wikidata: Q858439
+    links:
+      - https://en.wikipedia.org/wiki/Presidential_election
+    sources:
+      - url: https://www.wikidata.org/wiki/Q858439
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: primary-school
+    type: org
+    name: primary school
+    names:
+      zh: 小学
+      en: primary school
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 5至12歲孩童接受小學教育之學校
+    ids:
+      wikidata: Q9842
+    links:
+      - https://en.wikipedia.org/wiki/Primary_school
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9842
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: prince-foundation
+    type: org
+    name: Prince Foundation
+    names:
+      en: Prince Foundation
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Charitable foundation based in the United States
+    ids:
+      wikidata: Q29641874
+    links:
+      - https://en.wikipedia.org/wiki/Prince_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q29641874
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: prince-george-s-county-government
+    type: org
+    name: Prince George's County Government
+    names:
+      en: Prince George's County Government
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of Prince George's County, Maryland, United States
+    ids:
+      wikidata: Q139814937
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q139814937
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: princeton-school-of-public-and-international-affairs
+    type: org
+    name: Princeton School of Public and International Affairs
+    names:
+      zh: 伍德罗·威尔逊公共与国际事务学院
+      en: Princeton School of Public and International Affairs
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: professional public policy school at Princeton University
+    ids:
+      wikidata: Q2349578
+    links:
+      - https://en.wikipedia.org/wiki/Princeton_School_of_Public_and_International_Affairs
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2349578
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: princeton-university
+    type: org
+    name: Princeton University
+    names:
+      zh: 普林斯顿大学
+      en: Princeton University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 2
+    summary: 在美國新澤西普林斯頓的私立常春藤聯盟研究型大學
+    ids:
+      wikidata: Q21578
+    links:
+      - https://en.wikipedia.org/wiki/Princeton_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21578
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pro-tv
+    type: org
+    name: PRO TV
+    names:
+      zh: Pro电视台
+      en: PRO TV
+    orgType: other
+    country:
+      - MD
+      - RO
+    sectors:
+      - other
+    tier: 4
+    summary: Romanian free-to-air Television network
+    ids:
+      wikidata: Q386873
+    links:
+      - https://en.wikipedia.org/wiki/Pro_TV
+    sources:
+      - url: https://www.wikidata.org/wiki/Q386873
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pro-tv-srl
+    type: org
+    name: PRO TV SRL
+    names:
+      en: PRO TV SRL
+    orgType: media
+    country:
+      - RO
+    sectors:
+      - media
+    tier: 4
+    summary: Romanian media company
+    ids:
+      wikidata: Q12738562
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12738562
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: procter-and-gamble
+    type: org
+    name: Procter & Gamble
+    names:
+      zh: 宝洁公司
+      en: Procter & Gamble
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國日用品公司
+    ids:
+      wikidata: Q212405
+    links:
+      - https://en.wikipedia.org/wiki/Procter_%26_Gamble
+    sources:
+      - url: https://www.wikidata.org/wiki/Q212405
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: project-gutenberg
+    type: org
+    name: Project Gutenberg
+    names:
+      zh: 古腾堡计划
+      en: Project Gutenberg
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美国作家迈克尔·哈特在1971年发起的一项志愿行动，致力于将公有领域的纸质作品数字化并存储在互联网上
+    ids:
+      wikidata: Q22673
+    links:
+      - https://en.wikipedia.org/wiki/Project_Gutenberg
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22673
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: proposed-los-angeles-nfl-stadiums
+    type: org
+    name: Proposed Los Angeles NFL Stadiums
+    names:
+      en: Proposed Los Angeles NFL Stadiums
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: National Football League stadiums proposed for Los Angeles between 1995 and 2016
+    ids:
+      wikidata: Q47335855
+    links:
+      - https://en.wikipedia.org/wiki/Proposed_Los_Angeles_NFL_stadiums
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47335855
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: prostate-cancer-foundation
+    type: org
+    name: Prostate Cancer Foundation
+    names:
+      en: Prostate Cancer Foundation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國非盈利組織
+    ids:
+      wikidata: Q7250974
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7250974
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: provisional-legislative-council
+    type: org
+    name: 临时立法会
+    names:
+      zh: 临时立法会
+      en: Provisional Legislative Council
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 香港臨時立法機關
+    ids:
+      wikidata: Q7252745
+    links:
+      - https://en.wikipedia.org/wiki/Provisional_Legislative_Council
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7252745
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: prudential-center
+    type: org
+    name: Prudential Center
+    names:
+      zh: 保诚中心
+      en: Prudential Center
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: multi-purpose arena in Newark, New Jersey, USA
+    ids:
+      wikidata: Q849027
+    links:
+      - https://en.wikipedia.org/wiki/Prudential_Center
+    sources:
+      - url: https://www.wikidata.org/wiki/Q849027
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: public-knowledge
+    type: org
+    name: Public Knowledge
+    names:
+      zh: 公共知识
+      en: Public Knowledge
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: US nonprofit organization
+    ids:
+      wikidata: Q3072969
+    links:
+      - https://en.wikipedia.org/wiki/Public_Knowledge
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3072969
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: public-prosecutor-s-office
+    type: org
+    name: public prosecutor's office
+    names:
+      zh: 检察机关
+      en: public prosecutor's office
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 行使检察权的国家机关
+    ids:
+      wikidata: Q1092499
+    links:
+      - https://en.wikipedia.org/wiki/Public_prosecutor's_office
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1092499
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: punahou-school
+    type: org
+    name: Punahou School
+    names:
+      zh: 普纳荷学校
+      en: Punahou School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: school located in Honolulu CDP, Hawaii
+    ids:
+      wikidata: Q3273124
+    links:
+      - https://en.wikipedia.org/wiki/Punahou_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3273124
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: purdue-university
+    type: org
+    name: Purdue University
+    names:
+      zh: 普渡大学
+      en: Purdue University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國的一所公立研究型大學，主校區位於印第安納州西拉法葉
+    ids:
+      wikidata: Q217741
+    links:
+      - https://en.wikipedia.org/wiki/Purdue_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q217741
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pure-software
+    type: org
+    name: Pure Software
+    names:
+      en: Pure Software
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Software tool company founded 1991
+    ids:
+      wikidata: Q7261130
+    links:
+      - https://en.wikipedia.org/wiki/Pure_Software
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7261130
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: purkinje-incorporated
+    type: org
+    name: Purkinje Incorporated
+    names:
+      en: Purkinje Incorporated
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: develops healthcare information technology software and services
+    ids:
+      wikidata: Q7261307
+    links:
+      - https://en.wikipedia.org/wiki/Purkinje_Incorporated
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7261307
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pyra-labs
+    type: org
+    name: Pyra Labs
+    names:
+      zh: Pyra Labs
+      en: Pyra Labs
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American company
+    ids:
+      wikidata: Q2737647
+    links:
+      - https://en.wikipedia.org/wiki/Pyra_Labs
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2737647
+        publisher: Wikidata
+        accessed: 2026-10-11

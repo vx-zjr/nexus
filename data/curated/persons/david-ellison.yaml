@@ -1,0 +1,19 @@
+id: david-ellison
+type: person
+name: David Ellison
+names:
+  en: David Ellison
+  zh: 大卫·埃里森
+gender: M
+born: '1983-01-24'
+country:
+- US
+sectors:
+- media
+- business
+tier: 2
+summary: Skydance Media 创始人，2025-08 起任 Paramount Skydance 董事长兼 CEO（Ellison 家族控股 CBS/派拉蒙）。
+sources:
+- url: https://en.wikipedia.org/wiki/David_Ellison
+  publisher: Wikipedia
+updated: '2026-10-11'

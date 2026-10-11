@@ -1,0 +1,21 @@
+id: timothy-mellon
+type: person
+name: Timothy Mellon
+names:
+  en: Timothy Mellon
+  zh: 蒂莫西·梅隆
+gender: M
+born: '1942'
+country:
+- US
+sectors:
+- finance
+tier: 2
+summary: 梅隆银行家族继承人，2024 周期向支持特朗普的 MAGA Inc. 等捐款近 2 亿美元，为第二大个人金主。
+sources:
+- url: https://en.wikipedia.org/wiki/Timothy_Mellon
+  publisher: Wikipedia
+- url: https://www.allsides.com/blog/elon-musk-tops-list-2024-political-donors-five-others-gave-more-100-million
+  title: Elon Musk tops list of 2024 political donors; five others gave more than $100 million (OpenSecrets data)
+  publisher: AllSides / OpenSecrets
+updated: '2026-10-11'

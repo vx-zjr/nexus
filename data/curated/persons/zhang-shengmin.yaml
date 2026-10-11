@@ -1,0 +1,45 @@
+id: zhang-shengmin
+type: person
+name: 张升民
+names:
+  zh: 张升民
+  en: Zhang Shengmin
+gender: M
+born: 1958-08
+country:
+- CN
+sectors:
+- military
+tier: 2
+status: active
+summary: 中央军委副主席（2025-10 二十届四中全会增补）、军委纪委书记、上将（火箭军）。第二十届军委原 7 人中，至 2026-09 除习近平外唯一未落马者，主导军内反腐。
+positions:
+- title: 中央军委副主席
+  org: ccp-cmc
+  from: 2025-10
+  current: true
+- title: 中央军委纪委书记
+  org: ccp-cmc
+  from: '2017'
+  current: true
+- title: 中央军委委员
+  org: ccp-cmc
+  from: 2022-10
+  current: true
+ids:
+  wikidata: Q19825604
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://en.wikipedia.org/wiki/Zhang_Shengmin
+  publisher: Wikipedia
+- url: https://en.wikipedia.org/wiki/Fourth_plenary_session_of_the_20th_Central_Committee_of_the_Chinese_Communist_Party
+  title: Fourth plenary session of the 20th Central Committee
+  publisher: Wikipedia
+- url: https://www.stheadline.com/zh-hans/realtime-china/3511176/四中全会闭幕-增补张升民为中央军委副主席
+  title: 四中全会闭幕 增补张升民为中央军委副主席
+  publisher: 星岛日报
+  date: '2025-10-23'
+updated: '2026-10-11'

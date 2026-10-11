@@ -1,0 +1,32 @@
+id: yi-huiman
+type: person
+name: 易会满
+names:
+  zh: 易会满
+  en: Yi Huiman
+gender: M
+born: 1964-12
+country:
+- CN
+sectors:
+- finance
+- politics
+tier: 3
+status: purged
+summary: 前中国证监会主席（2019–2024）、前工商银行董事长。2026-04-30 中纪委通报其被开除党籍和公职。
+positions:
+- title: 中国证监会主席
+  from: 2019-01
+  to: 2024-02
+- title: 中国工商银行董事长
+  from: '2016'
+  to: '2019'
+ids:
+  wikidata: Q28501074
+tags:
+- purged-2026
+sources:
+- url: https://www.mondaq.com/china/corporate-crime/1822852/china-compliance-update-anti-corruption-summer-2026
+  title: 'China Compliance Update: Anti-Corruption — Summer 2026'
+  publisher: Mondaq
+updated: '2026-10-11'

@@ -1,0 +1,18 @@
+id: mitch-mcconnell
+type: person
+name: Mitch McConnell
+names:
+  en: Mitch McConnell
+  zh: 米奇·麦康奈尔
+gender: M
+born: '1942-02-20'
+country:
+- US
+sectors:
+- politics
+tier: 2
+summary: 肯塔基州联邦参议员（1985–），共和党参院领袖（2007–2025，史上任期最长）。1993 年与赵小兰结婚。
+sources:
+- url: https://en.wikipedia.org/wiki/Mitch_McConnell
+  publisher: Wikipedia
+updated: '2026-10-11'

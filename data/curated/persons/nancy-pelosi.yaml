@@ -1,0 +1,18 @@
+id: nancy-pelosi
+type: person
+name: Nancy Pelosi
+names:
+  en: Nancy Pelosi
+  zh: 南希·佩洛西
+gender: F
+born: '1940-03-26'
+country:
+- US
+sectors:
+- politics
+tier: 2
+summary: 前众议院议长（2007–2011；2019–2023），加州众议员。其丈夫 Paul Pelosi 的股票与期权交易（依《STOCK 法案》披露）长期受舆论关注。
+sources:
+- url: https://en.wikipedia.org/wiki/Nancy_Pelosi
+  publisher: Wikipedia
+updated: '2026-10-11'

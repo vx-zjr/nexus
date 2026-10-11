@@ -1,0 +1,20 @@
+id: david-sacks
+type: person
+name: David Sacks
+names:
+  en: David Sacks
+  zh: 大卫·萨克斯
+gender: M
+born: '1972-05-25'
+country:
+- US
+sectors:
+- tech
+- finance
+- politics
+tier: 2
+summary: 白宫人工智能与加密货币事务主管（“AI & Crypto Czar”，2025–）。PayPal 早期高管（“PayPal 黑帮”成员）、Craft Ventures 创始人。
+sources:
+- url: https://en.wikipedia.org/wiki/David_O._Sacks
+  publisher: Wikipedia
+updated: '2026-10-11'

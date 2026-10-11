@@ -1,0 +1,61 @@
+id: case-scotus-gifts
+kind: case
+name: 最高法院大法官与亿万富翁的馈赠关系
+names:
+  en: SCOTUS undisclosed gifts
+country: US
+summary: ProPublica 2023 年系列调查（获 2024 普利策公共服务奖）：托马斯大法官多年接受 Harlan Crow 的豪华旅行、房产交易与学费资助未申报；阿利托大法官 2008 年接受对冲基金富豪 Paul Singer 安排的阿拉斯加钓鱼之旅。调查推动最高法院 2023-11 首次发布行为准则。
+core:
+- clarence-thomas
+- harlan-crow
+- samuel-alito
+- paul-singer
+outer:
+- ginni-thomas
+- us-supreme-court
+- crow-holdings
+- elliott-management
+sources:
+- &id001
+  url: https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow
+  title: Clarence Thomas and the Billionaire
+  publisher: ProPublica
+  date: '2023-04-06'
+- &id003
+  url: https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court
+  title: Justice Samuel Alito Took Luxury Fishing Vacation With GOP Billionaire Who Later Had Cases Before the Court
+  publisher: ProPublica
+  date: '2023-06-20'
+- &id002
+  url: https://www.texastribune.org/2023/04/06/texas-harlan-crow-clarence-thomas-gifts
+  title: Texas billionaire Harlan Crow treated Justice Clarence Thomas to luxury trips that weren’t disclosed
+  publisher: The Texas Tribune
+  date: '2023-04-06'
+confidence: confirmed
+relations:
+- - clarence-thomas
+  - spouse
+  - ginni-thomas
+- - harlan-crow
+  - position
+  - crow-holdings
+  - 董事长
+- from: harlan-crow
+  to: clarence-thomas
+  type: friend
+  label: 二十余年豪华旅行等馈赠（未申报）
+  sources:
+  - *id001
+  - *id002
+- from: paul-singer
+  to: samuel-alito
+  type: associate
+  label: 2008 年阿拉斯加钓鱼之旅（私人飞机，未申报）
+  since: 2008-07
+  sources:
+  - *id003
+tags:
+- case
+- judiciary
+- money
+updated: '2026-10-11'

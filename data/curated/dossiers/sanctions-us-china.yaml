@@ -1,0 +1,134 @@
+id: sanctions-us-china
+kind: case
+name: 中美互相制裁（官员层面）
+names:
+  en: US–China official sanctions
+country:
+- US
+- CN
+summary: |-
+  美方：2020-07 依《全球马格尼茨基法》制裁新疆官员（陈全国等）；2020-08 依第 13936 号行政令制裁林郑月娥、李家超、夏宝龙、骆惠宁、张晓明等 11 人。
+  中方：2020-07 反制卢比奥、克鲁兹等；2020-08 再反制卢比奥等 11 名美国人；2021-01-20 制裁蓬佩奥、纳瓦罗、奥布莱恩、博尔顿、班农等 28 名特朗普政府官员（本人及家属禁止入境、关联企业禁止与华往来）。
+  值得注意：被中方制裁的卢比奥 2025 年起出任国务卿；被美方制裁的李家超 2022 年起任香港特首。
+core:
+- marco-rubio
+- ted-cruz
+- mike-pompeo
+- peter-navarro
+- john-bolton
+- steve-bannon
+- carrie-lam
+- john-lee-ka-chiu
+- xia-baolong
+- chen-quanguo
+outer:
+- us-treasury-ofac
+- prc-mfa
+sources:
+- &id001
+  url: https://home.treasury.gov/news/press-releases/sm1088
+  title: Treasury Sanctions Individuals for Undermining Hong Kong's Autonomy
+  publisher: U.S. Department of the Treasury
+  date: '2020-08-07'
+- &id002
+  url: https://fortune.com/2020/07/13/china-sanctions-ted-cruz-marco-rubio
+  title: China sanctions Ted Cruz, Marco Rubio
+  publisher: Fortune
+  date: '2020-07-13'
+- &id003
+  url: https://www.aljazeera.com/news/2020/8/10/hong-kong-china-imposes-tit-for-tat-sanctions-on-us-legislators
+  title: 'Hong Kong: China imposes tit-for-tat sanctions on US legislators'
+  publisher: Al Jazeera
+  date: '2020-08-10'
+- &id004
+  url: https://www.aljazeera.com/news/2021/1/20/china-sanctions-pompeo-trump-officials
+  title: China sanctions Pompeo, other Trump administration officials
+  publisher: Al Jazeera
+  date: '2021-01-20'
+confidence: confirmed
+relations:
+- from: us-treasury-ofac
+  to: carrie-lam
+  type: legal
+  label: 制裁（EO 13936）
+  since: '2020-08-07'
+  sources:
+  - *id001
+- from: us-treasury-ofac
+  to: john-lee-ka-chiu
+  type: legal
+  label: 制裁（EO 13936）
+  since: '2020-08-07'
+  sources:
+  - *id001
+- from: us-treasury-ofac
+  to: xia-baolong
+  type: legal
+  label: 制裁（EO 13936）
+  since: '2020-08-07'
+  sources:
+  - *id001
+- from: us-treasury-ofac
+  to: chen-quanguo
+  type: legal
+  label: 制裁（全球马格尼茨基法，新疆）
+  since: '2020-07-09'
+  sources:
+  - url: https://en.wikipedia.org/wiki/Chen_Quanguo
+    publisher: Wikipedia
+- from: prc-mfa
+  to: marco-rubio
+  type: legal
+  label: 反制裁（新疆、香港）
+  since: '2020-07-13'
+  sources:
+  - *id002
+  - *id003
+- from: prc-mfa
+  to: ted-cruz
+  type: legal
+  label: 反制裁
+  since: '2020-07-13'
+  sources:
+  - *id002
+- from: prc-mfa
+  to: mike-pompeo
+  type: legal
+  label: 制裁（28 人名单）
+  since: '2021-01-20'
+  sources:
+  - *id004
+- from: prc-mfa
+  to: peter-navarro
+  type: legal
+  label: 制裁（28 人名单）
+  since: '2021-01-20'
+  sources:
+  - *id004
+- from: prc-mfa
+  to: john-bolton
+  type: legal
+  label: 制裁（28 人名单）
+  since: '2021-01-20'
+  sources:
+  - *id004
+- from: prc-mfa
+  to: steve-bannon
+  type: legal
+  label: 制裁（28 人名单）
+  since: '2021-01-20'
+  sources:
+  - *id004
+- from: xi-jinping
+  to: xia-baolong
+  type: patron
+  label: 浙江旧部（省长/省委副书记）
+  confidence: reported
+  sources:
+  - url: https://en.wikipedia.org/wiki/Xia_Baolong
+    publisher: Wikipedia
+tags:
+- case
+- cross-border
+- sanctions
+updated: '2026-10-11'

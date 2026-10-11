@@ -1,0 +1,21 @@
+id: dustin-moskovitz
+type: person
+name: Dustin Moskovitz
+names:
+  en: Dustin Moskovitz
+  zh: 达斯汀·莫斯科维茨
+gender: M
+born: '1984-05-22'
+country:
+- US
+sectors:
+- tech
+tier: 2
+summary: Facebook 联合创始人、Asana 创始人，2024 周期民主党方大金主（约 5100 万美元）。
+sources:
+- url: https://en.wikipedia.org/wiki/Dustin_Moskovitz
+  publisher: Wikipedia
+- url: https://www.allsides.com/blog/elon-musk-tops-list-2024-political-donors-five-others-gave-more-100-million
+  title: Elon Musk tops list of 2024 political donors; five others gave more than $100 million (OpenSecrets data)
+  publisher: AllSides / OpenSecrets
+updated: '2026-10-11'

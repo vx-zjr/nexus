@@ -1,0 +1,39 @@
+id: kristi-noem
+type: person
+name: Kristi Noem
+names:
+  en: Kristi Noem
+  zh: 克里斯蒂·诺姆
+gender: F
+born: '1971-11-30'
+country:
+- US
+sectors:
+- politics
+tier: 2
+status: retired
+summary: 前国土安全部长（2025-01–2026-03），2026-03-05 被特朗普解职。前南达科他州州长。
+positions:
+- title: 国土安全部长
+  org: us-cabinet
+  from: '2025-01-25'
+  to: '2026-03-05'
+- title: 南达科他州州长
+  from: 2019-01
+  to: 2025-01
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://en.wikipedia.org/wiki/List_of_dismissals_and_resignations_in_the_second_Trump_administration
+  title: List of dismissals and resignations in the second Trump administration
+  publisher: Wikipedia
+- url: https://theweek.com/politics/trump-firings-and-dismissals-second-term-noem-bondi-bovino-bongino
+  title: The high-ranking officials Trump has fired, forced to resign or moved elsewhere in his second term
+  publisher: The Week
+- url: https://19thnews.org/2026/04/women-trump-cabinet-bondi-noem-chavez-deremer/
+  title: Tulsi Gabbard is fourth woman Trump's Cabinet has lost in three months
+  publisher: The 19th
+  date: 2026-04
+updated: '2026-10-11'

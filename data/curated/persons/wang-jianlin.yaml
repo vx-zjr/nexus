@@ -1,0 +1,18 @@
+id: wang-jianlin
+type: person
+name: 王健林
+names:
+  en: 王健林
+  zh: Wang Jianlin
+gender: M
+born: '1954-10-24'
+country:
+- CN
+sectors:
+- business
+tier: 2
+summary: 大连万达集团创始人。纽时等报道多名高官亲属（含习近平姐姐齐桥桥、温家宝之弟温家宏等）曾为万达早期股东。2023 年后万达大规模出售资产偿债。
+sources:
+- url: https://en.wikipedia.org/wiki/Wang_Jianlin
+  publisher: Wikipedia
+updated: '2026-10-11'

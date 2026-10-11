@@ -1,0 +1,36 @@
+note: “白手套”：为权贵家族代持、处置资产的商人（来源：权威调查报道）
+sources:
+- url: https://foreignpolicy.com/2017/02/06/the-mysterious-disappearance-and-reported-reappearance-of-a-chinese-billionaire
+  title: The Mysterious Disappearance and Reported Reappearance of a Chinese Billionaire
+  publisher: Foreign Policy
+  date: '2017-02-06'
+- url: https://www.thewirechina.com/2022/09/18/xiao-jianhua-lost-empire
+  title: Xiao Jianhua's Lost Empire
+  publisher: The Wire China
+  date: '2022-09-18'
+relations:
+- - xiao-jianhua
+  - founder
+  - tomorrow-group
+- from: xiao-jianhua
+  to: xi-qiaoqiao
+  type: associate
+  label: 2014 年前后收购其夫妇所持投资公司股份（纽时报道，肖本人证实）
+  since: '2014'
+  confidence: reported
+- from: xiao-jianhua
+  to: deng-jiagui
+  type: associate
+  label: 同上
+  since: '2014'
+  confidence: reported
+- from: shanghai-no1-intermediate-court
+  to: xiao-jianhua
+  type: legal
+  label: 2017-01 自香港被带走；2022-08 判刑 13 年
+  since: 2017-01
+  sources:
+  - url: https://www.bangkokpost.com/world/2372538/china-jails-disappeared-tycoon-for-13-years
+    title: China jails 'disappeared' tycoon for 13 years
+    publisher: Bangkok Post / AFP
+    date: '2022-08-19'

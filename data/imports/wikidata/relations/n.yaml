@@ -1,0 +1,907 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+relations:
+  - from: nelle-wilson-reagan
+    to: ronald-reagan
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9960
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nikki-haley
+    to: nalin-haley
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11668
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nikki-haley
+    to: michael-haley
+    type: spouse
+    since: 1996-09-01
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11668
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nancy-pelosi
+    to: alexandra-pelosi
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q170581
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nancy-pelosi
+    to: christine-pelosi
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q170581
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nancy-pelosi
+    to: thomas-l-j-d-alesandro-iii
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q170581
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nancy-pelosi
+    to: paul-pelosi
+    type: spouse
+    since: 1963-09-07
+    sources:
+      - url: https://www.wikidata.org/wiki/Q170581
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nick-begich-iii
+    to: mark-begich
+    type: relative
+    label: 伯（叔）父
+    sources:
+      - url: https://www.wikidata.org/wiki/Q113676482
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nick-begich-iii
+    to: tom-begich
+    type: relative
+    label: 伯（叔）父
+    sources:
+      - url: https://www.wikidata.org/wiki/Q113676482
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nick-begich-iii
+    to: nick-begich
+    type: relative
+    label: 爷爷
+    sources:
+      - url: https://www.wikidata.org/wiki/Q113676482
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nur-omar-mohamed
+    to: ilhan-omar
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q26436159
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nathan-deal
+    to: sandra-deal
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q179732
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ned-lamont
+    to: ann-lamont
+    type: spouse
+    since: 1983-09-10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1973878
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ned-lamont
+    to: thomas-w-lamont
+    type: relative
+    label: 曾祖父
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1973878
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ned-lamont
+    to: corliss-lamont
+    type: relative
+    label: 叔公
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1973878
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ng-teng-fong
+    to: robert-ng
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q126488
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nina-wang
+    to: kung-yan-sum
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q455685
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nina-wang
+    to: teddy-wang
+    type: spouse
+    since: "1955"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q455685
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nancy-walton-laurie
+    to: ann-walton-kroenke
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6963060
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nancy-walton-laurie
+    to: bill-laurie
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6963060
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nancy-lee-bass
+    to: sid-richardson-bass
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7507735
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nancy-lee-bass
+    to: robert-bass
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q429075
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neal-blue
+    to: linden-blue
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16096870
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neal-blue
+    to: linden-p-blue
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16096870
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nicholas-negroponte
+    to: deborah-porter
+    type: spouse
+    since: 2012-08-01
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92601
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neil-simon
+    to: danny-simon
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q315808
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neil-simon
+    to: marsha-mason
+    type: spouse
+    since: 1973-10-25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q315808
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neil-simon
+    to: elaine-joyce
+    type: spouse
+    since: 1999-09-11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q315808
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nick-begich
+    to: mark-begich
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q454133
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neilia-hunter
+    to: hunter-biden
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5944264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nils-torvalds
+    to: linus-torvalds
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q34253
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: norman-mineta
+    to: mineta-transportation-institute
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q553502
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: norman-mineta
+    to: university-of-california-berkeley
+    type: alumni
+    label: Bachelor of Science
+    until: "1953"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q553502
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: norman-mineta
+    to: haas-school-of-business
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q553502
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nikki-haley
+    to: clemson-university
+    type: alumni
+    label: Bachelor of Science
+    until: "1994"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11668
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: norris-cochran
+    to: university-of-california-santa-barbara
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28530101
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: norris-cochran
+    to: university-of-texas-at-austin
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28530101
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neal-s-wolin
+    to: united-states-department-of-the-treasury
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1302611
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neal-s-wolin
+    to: yale-law-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1302611
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neal-s-wolin
+    to: balliol-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1302611
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nicholas-f-brady
+    to: united-states-department-of-the-treasury
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q723444
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nicholas-f-brady
+    to: yale-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q723444
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nicholas-f-brady
+    to: st-mark-s-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q723444
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nicholas-f-brady
+    to: harvard-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q723444
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nicholas-f-brady
+    to: harvard-business-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q723444
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nicholas-f-brady
+    to: far-hills-country-day-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q723444
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nicholas-f-brady
+    to: jonathan-edwards-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q723444
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nancy-pelosi
+    to: 2008-democratic-national-convention
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q170581
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nancy-pelosi
+    to: trinity-washington-university
+    type: alumni
+    label: Bachelor of Arts
+    since: "1958"
+    until: "1962"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q170581
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nathaniel-moran
+    to: texas-tech-university
+    type: alumni
+    label: Master of Business Administration
+    since: "1997"
+    until: "1998"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115137468
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nathaniel-moran
+    to: texas-tech-university
+    type: alumni
+    label: Juris Doctor
+    since: "1999"
+    until: "2002"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115137468
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nathaniel-moran
+    to: texas-tech-university
+    type: alumni
+    label: Bachelor of Arts
+    since: "1996"
+    until: "1997"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115137468
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nathaniel-moran
+    to: united-states-military-academy
+    type: alumni
+    since: "1993"
+    until: "1995"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115137468
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nick-lalota
+    to: hofstra-university
+    type: alumni
+    label: Master of Business Administration
+    until: "2012"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115168182
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nick-lalota
+    to: united-states-naval-academy
+    type: alumni
+    label: Bachelor of Science
+    until: "2000"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115168182
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nick-lalota
+    to: maurice-a-deane-school-of-law
+    type: alumni
+    label: Juris Doctor
+    since: "2020"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115168182
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nick-begich-iii
+    to: indiana-university-bloomington
+    type: alumni
+    label: Master of Business Administration
+    until: "2002"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q113676482
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nick-begich-iii
+    to: baylor-university
+    type: alumni
+    label: Bachelor in Business Administration
+    until: "1999"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q113676482
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neal-dunn
+    to: washington-and-lee-university
+    type: alumni
+    label: Bachelor of Science
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27733851
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neal-dunn
+    to: george-washington-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27733851
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nanette-barragan
+    to: office-of-public-liaison
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21662745
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nanette-barragan
+    to: university-of-california-los-angeles
+    type: alumni
+    label: Bachelor of Arts
+    until: "2000"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21662745
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nydia-m-velazquez
+    to: new-york-university
+    type: alumni
+    label: Master of Arts
+    until: "1976"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q434890
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nicole-malliotakis
+    to: seton-hall-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "2001"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7030112
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nellie-pou
+    to: university-of-virginia
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6990132
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nellie-pou
+    to: kean-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6990132
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nellie-pou
+    to: rutgers-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6990132
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neil-gorsuch
+    to: us-doj
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15488345
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neil-gorsuch
+    to: us-supreme-court
+    type: position
+    label: 任职
+    since: "1993"
+    until: "1994"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15488345
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neil-gorsuch
+    to: united-states-court-of-appeals-for-the-district-of-columbia-circuit
+    type: position
+    label: 任职
+    since: "1991"
+    until: "1992"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15488345
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neil-gorsuch
+    to: university-of-colorado-boulder
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15488345
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neil-gorsuch
+    to: university-college-oxford
+    type: alumni
+    label: Doctor of Philosophy
+    until: "2004"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15488345
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neil-gorsuch
+    to: harvard-law-school
+    type: alumni
+    label: Juris Doctor
+    until: "1991"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15488345
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neil-gorsuch
+    to: columbia-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1988"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15488345
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neil-gorsuch
+    to: harvard-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15488345
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neil-gorsuch
+    to: georgetown-preparatory-school
+    type: alumni
+    until: "1985"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15488345
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nathan-deal
+    to: mercer-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1964"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q179732
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ned-lamont
+    to: central-connecticut-state-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1973878
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ned-lamont
+    to: optimum-communications
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1973878
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ned-lamont
+    to: yale-school-of-management
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1973878
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ned-lamont
+    to: harvard-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1973878
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ned-lamont
+    to: yale-school-of-management
+    type: alumni
+    label: Master of Business Administration
+    since: "1978"
+    until: "1980"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1973878
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ned-lamont
+    to: harvard-college
+    type: alumni
+    label: Bachelor of Arts
+    since: "1972"
+    until: "1976"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1973878
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ned-lamont
+    to: phillips-exeter-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1973878
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nurlan-abilmazhinuly
+    to: xinjiang-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292950
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ni-yuefeng
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292622
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ni-hong
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97175537
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ni-hong
+    to: harbin-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97175537
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nong-shengwen
+    to: central-china-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110148912
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nong-shengwen
+    to: chinese-academy-of-sciences
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110148912
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nina-wang
+    to: nanyang-model-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q455685
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nina-wang
+    to: shanghai-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q455685
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nancy-walton-laurie
+    to: university-of-memphis
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6963060
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neil-bluhm
+    to: university-of-illinois-urbana-champaign
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6988304
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neil-bluhm
+    to: northwestern-university-pritzker-school-of-law
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6988304
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nathan-blecharczyk
+    to: airbnb
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19538950
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nathan-blecharczyk
+    to: airbnb
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19538950
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nathan-blecharczyk
+    to: airbnb
+    type: position
+    label: 任职
+    since: "2008"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19538950
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nathan-blecharczyk
+    to: harvard-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19538950
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neal-blue
+    to: yale-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16096870
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nicholas-negroponte
+    to: one-laptop-per-child
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92601
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nicholas-negroponte
+    to: mit-media-lab
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92601
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nicholas-negroponte
+    to: architecture-machine-group
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92601
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nicholas-negroponte
+    to: greece-2021
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92601
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nicholas-negroponte
+    to: massachusetts-institute-of-technology
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92601
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nicholas-negroponte
+    to: buckley-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92601
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nicholas-negroponte
+    to: massachusetts-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92601
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nicholas-negroponte
+    to: choate-rosemary-hall
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92601
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neil-simon
+    to: university-of-denver
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q315808
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: neil-simon
+    to: dewitt-clinton-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q315808
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nolan-bushnell
+    to: atari
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q335039
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nolan-bushnell
+    to: chuck-e-cheese
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q335039
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nolan-bushnell
+    to: uwink
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q335039
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nolan-bushnell
+    to: atari-inc
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q335039
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nolan-bushnell
+    to: axlon
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q335039
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nolan-bushnell
+    to: utah-state-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q335039
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: nolan-bushnell
+    to: university-of-utah
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q335039
+        publisher: Wikidata
+        accessed: 2026-10-11

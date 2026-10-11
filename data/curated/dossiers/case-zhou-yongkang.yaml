@@ -1,0 +1,26 @@
+id: case-zhou-yongkang
+kind: case
+name: 周永康案（2014–2015）
+country: CN
+head: zhou-yongkang
+summary: 前政治局常委、政法委书记周永康 2014-07 被立案审查，2015-06 以受贿、滥用职权、故意泄露国家秘密罪被判无期徒刑——中共建政后首位受审的前政治局常委。其子周滨、妻贾晓烨，以及“石油帮”“四川帮”“政法系”旧部多人获刑。
+core:
+- zhou-yongkang
+- jia-xiaoye
+- zhou-bin
+- jiang-jiemin
+sources:
+- url: https://en.wikipedia.org/wiki/Zhou_Yongkang
+  publisher: Wikipedia
+relations:
+- - zhou-yongkang
+  - patron
+  - jiang-jiemin
+  - 石油系统旧部
+- - zhou-yongkang
+  - spouse
+  - jia-xiaoye
+tags:
+- case
+- purge
+updated: '2026-10-11'

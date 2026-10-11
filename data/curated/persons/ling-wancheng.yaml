@@ -1,0 +1,20 @@
+id: ling-wancheng
+type: person
+name: 令完成
+names:
+  zh: 令完成
+  en: Ling Wancheng
+gender: M
+born: '1960'
+country:
+- CN
+- US
+sectors:
+- business
+tier: 4
+status: exiled
+summary: 令计划之弟，2014 年携大量机密资料出走美国。
+sources:
+- url: https://en.wikipedia.org/wiki/Ling_Wancheng
+  publisher: Wikipedia
+updated: '2026-10-11'

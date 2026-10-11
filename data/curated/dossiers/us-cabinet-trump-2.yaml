@@ -1,0 +1,57 @@
+id: us-cabinet-trump-2
+kind: institution
+name: 特朗普第二任期内阁
+names:
+  en: Second cabinet of Donald Trump
+country: US
+head: donald-trump
+core:
+- donald-trump
+- jd-vance
+- marco-rubio
+- scott-bessent
+- pete-hegseth
+- todd-blanche
+- doug-burgum
+- brooke-rollins
+- howard-lutnick
+- keith-sonderling
+- robert-f-kennedy-jr
+- scott-turner
+- sean-duffy
+- chris-wright
+- linda-mcmahon
+- doug-collins
+- markwayne-mullin
+- susie-wiles
+- lee-zeldin
+- russell-vought
+- jay-clayton
+- john-ratcliffe
+- jamieson-greer
+- kelly-loeffler
+outer:
+- pam-bondi
+- kristi-noem
+- lori-chavez-deremer
+- tulsi-gabbard
+- kevin-warsh
+- steve-witkoff
+summary: |-
+  截至 2026-10 的内阁及内阁级官员（core）与 2026 年离任者（outer）。
+  2026 年人事：Noem（3 月解职）→ Mullin；Bondi（4 月解职）→ Blanche（8 月确认）；Chavez-DeRemer（4 月辞职）→ Sonderling（10 月）；Gabbard（6 月辞职）→ Clayton（8 月）。
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://ballotpedia.org/Donald_Trump's_Cabinet,_2025-2026
+  title: Donald Trump's Cabinet, 2025-2026
+  publisher: Ballotpedia
+- url: https://en.wikipedia.org/wiki/List_of_dismissals_and_resignations_in_the_second_Trump_administration
+  title: List of dismissals and resignations in the second Trump administration
+  publisher: Wikipedia
+tags:
+- institution
+- us-top
+updated: '2026-10-11'

@@ -1,0 +1,19 @@
+id: richard-li
+type: person
+name: 李泽楷
+names:
+  zh: 李泽楷
+  en: Richard Li
+gender: M
+born: '1966-11-08'
+country:
+- HK
+sectors:
+- business
+- tech
+tier: 2
+summary: 李嘉诚次子，电讯盈科主席、盈科拓展创始人。
+sources:
+- url: https://en.wikipedia.org/wiki/Richard_Li
+  publisher: Wikipedia
+updated: '2026-10-11'

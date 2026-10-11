@@ -1,0 +1,1671 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: la-galaxy
+    type: org
+    name: LA Galaxy
+    names:
+      zh: 洛杉矶银河
+      en: LA Galaxy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美国职业足球队
+    ids:
+      wikidata: Q204357
+    links:
+      - https://en.wikipedia.org/wiki/LA_Galaxy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q204357
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: la-salle-academy
+    type: org
+    name: La Salle Academy
+    names:
+      en: La Salle Academy
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: school in Providence, Rhode Island, United States
+    ids:
+      wikidata: Q6465085
+    links:
+      - https://en.wikipedia.org/wiki/La_Salle_Academy_(Rhode_Island)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6465085
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: la-salle-university
+    type: org
+    name: La Salle University
+    names:
+      zh: 拉萨尔大学
+      en: La Salle University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国宾夕法尼亚州费城天主教大学
+    ids:
+      wikidata: Q3106542
+    links:
+      - https://en.wikipedia.org/wiki/La_Salle_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3106542
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: laika
+    type: org
+    name: Laika
+    names:
+      zh: 萊卡 (動畫公司)
+      en: Laika
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国定格动画制片公司
+    ids:
+      wikidata: Q1314323
+    links:
+      - https://en.wikipedia.org/wiki/Laika%2C_LLC
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1314323
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lakeland-senior-high-school
+    type: org
+    name: Lakeland Senior High School
+    names:
+      en: Lakeland Senior High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public high school in Lakeland, Florida
+    ids:
+      wikidata: Q6478829
+    links:
+      - https://en.wikipedia.org/wiki/Lakeland_Senior_High_School_(Florida)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6478829
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lanai
+    type: org
+    name: Lanai
+    names:
+      zh: 拉奈岛
+      en: Lanai
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国夏威夷岛屿
+    ids:
+      wikidata: Q187063
+    links:
+      - https://en.wikipedia.org/wiki/L%C4%81na%CA%BBi
+    sources:
+      - url: https://www.wikidata.org/wiki/Q187063
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: landry-s-inc
+    type: org
+    name: Landry's Inc.
+    names:
+      en: Landry's Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American restaurant company
+    ids:
+      wikidata: Q107211050
+    links:
+      - https://en.wikipedia.org/wiki/Landry's
+    sources:
+      - url: https://www.wikidata.org/wiki/Q107211050
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: landry-s-inc-2
+    type: org
+    name: Landry's, Inc.
+    names:
+      en: Landry's, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American restaurant company
+    ids:
+      wikidata: Q3217105
+    links:
+      - https://en.wikipedia.org/wiki/Landry's%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3217105
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: landry-s-seafood
+    type: org
+    name: Landry's Seafood
+    names:
+      en: Landry's Seafood
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    ids:
+      wikidata: Q17016187
+    links:
+      - https://en.wikipedia.org/wiki/Landry's_Seafood
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17016187
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: landscape-map-of-the-silk-road
+    type: org
+    name: Landscape Map of the Silk Road
+    names:
+      zh: 蒙古山水地圖
+      en: Landscape Map of the Silk Road
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q15921373
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15921373
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lane-bryant
+    type: org
+    name: Lane Bryant
+    names:
+      zh: 莱恩·布赖恩特
+      en: Lane Bryant
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American plus-size clothing retailer
+    ids:
+      wikidata: Q6485350
+    links:
+      - https://en.wikipedia.org/wiki/Lane_Bryant
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6485350
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lanzhou-university
+    type: org
+    name: 兰州大学
+    names:
+      zh: 兰州大学
+      en: Lanzhou University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于甘肃兰州的综合性大学
+    ids:
+      wikidata: Q4475799
+    links:
+      - https://en.wikipedia.org/wiki/Lanzhou_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4475799
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: larry-flynt-publications
+    type: org
+    name: Larry Flynt Publications
+    names:
+      zh: 拉瑞·弗莱恩特出版集团
+      en: Larry Flynt Publications
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American adult entertainment businesses
+    ids:
+      wikidata: Q6490321
+    links:
+      - https://en.wikipedia.org/wiki/Larry_Flynt_Publications
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6490321
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: larson-o-brien
+    type: org
+    name: Larson O'Brien
+    names:
+      en: Larson O'Brien
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: trial and appellate boutique law firm based in Los Angeles, California
+    ids:
+      wikidata: Q38805995
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38805995
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: las-vegas-review-journal
+    type: org
+    name: Las Vegas Review-Journal
+    names:
+      zh: 拉斯维加斯评论报
+      en: Las Vegas Review-Journal
+    orgType: media
+    country:
+      - US
+    sectors:
+      - media
+    tier: 4
+    summary: 美国报纸
+    ids:
+      wikidata: Q3632498
+    links:
+      - https://en.wikipedia.org/wiki/Las_Vegas_Review-Journal
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3632498
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: las-vegas-sands
+    type: org
+    name: Las Vegas Sands
+    names:
+      zh: 拉斯维加斯金沙集团
+      en: Las Vegas Sands
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国娱乐公司
+    ids:
+      wikidata: Q1506045
+    links:
+      - https://en.wikipedia.org/wiki/Las_Vegas_Sands
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1506045
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: launchpad
+    type: org
+    name: Launchpad
+    names:
+      en: Launchpad
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: superyacht built in 2024
+    ids:
+      wikidata: Q125017190
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q125017190
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lawrence-ellison-foundation
+    type: org
+    name: Lawrence Ellison Foundation
+    names:
+      en: Lawrence Ellison Foundation
+    orgType: foundation
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: foundation in United States of America
+    ids:
+      wikidata: Q45135220
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q45135220
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lawrence-technological-university
+    type: org
+    name: Lawrence Technological University
+    names:
+      zh: 勞倫斯理工大學
+      en: Lawrence Technological University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private university in Southfield, Michigan, United States
+    ids:
+      wikidata: Q6504630
+    links:
+      - https://en.wikipedia.org/wiki/Lawrence_Technological_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6504630
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: le-com
+    type: org
+    name: 乐视网
+    names:
+      zh: 乐视网
+      en: Le.com
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国科技公司
+    ids:
+      wikidata: Q27808154
+    links:
+      - https://en.wikipedia.org/wiki/Le.com
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27808154
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: le-reve
+    type: org
+    name: Le Rêve
+    names:
+      zh: 夢
+      en: Le Rêve
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: oil painting by Pablo Picasso from 1932
+    ids:
+      wikidata: Q1810165
+    links:
+      - https://en.wikipedia.org/wiki/Le_R%C3%AAve_(Picasso)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1810165
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lean-in
+    type: org
+    name: Lean In
+    names:
+      en: Lean In
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: non-fiction work by Sheryl Sandberg
+    ids:
+      wikidata: Q16927702
+    links:
+      - https://en.wikipedia.org/wiki/Lean_In
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16927702
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: leanin-org
+    type: org
+    name: LeanIn.Org
+    names:
+      en: LeanIn.Org
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American nonprofit organization co-founded by Sheryl Sandberg in 2013 dedicated to empowering   women and girls through community, education, and leadership programs. Lean In's mission is to inspire and equip women to lead.
+    ids:
+      wikidata: Q24911806
+    links:
+      - https://en.wikipedia.org/wiki/LeanIn.Org
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24911806
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lee-company
+    type: org
+    name: Lee Company
+    names:
+      en: Lee Company
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    ids:
+      wikidata: Q64952007
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q64952007
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: leeco
+    type: org
+    name: 乐视
+    names:
+      zh: 乐视
+      en: LeEco
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 互联网集团
+    ids:
+      wikidata: Q6506480
+    links:
+      - https://en.wikipedia.org/wiki/LeEco
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6506480
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: leeds-united-f-c
+    type: org
+    name: Leeds United F.C.
+    names:
+      zh: 利兹联足球俱乐部
+      en: Leeds United F.C.
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 2
+    summary: 英國足球俱樂部
+    ids:
+      wikidata: Q1128631
+    links:
+      - https://en.wikipedia.org/wiki/Leeds_United_F.C.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1128631
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: legend-holdings
+    type: org
+    name: 聯想控股
+    names:
+      zh: 聯想控股
+      en: Legend Holdings
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中國投資控股公司
+    ids:
+      wikidata: Q6517739
+    links:
+      - https://en.wikipedia.org/wiki/Legend_Holdings
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6517739
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: legendary-pictures
+    type: org
+    name: Legendary Pictures
+    names:
+      zh: 传奇电影公司
+      en: Legendary Pictures
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 公司
+    ids:
+      wikidata: Q621364
+    links:
+      - https://en.wikipedia.org/wiki/Legendary_Entertainment
+    sources:
+      - url: https://www.wikidata.org/wiki/Q621364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: legends-hospitality
+    type: org
+    name: Legends Hospitality
+    names:
+      zh: 傳奇酒店
+      en: Legends Hospitality
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American venue management company
+    ids:
+      wikidata: Q63091300
+    links:
+      - https://en.wikipedia.org/wiki/Legends_Hospitality
+    sources:
+      - url: https://www.wikidata.org/wiki/Q63091300
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: legislative-assembly-of-macau
+    type: org
+    name: 澳门特别行政区立法会
+    names:
+      zh: 澳门特别行政区立法会
+      en: Legislative Assembly of Macau
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中華人民共和國澳門特別行政區的立法機構
+    ids:
+      wikidata: Q550133
+    links:
+      - https://en.wikipedia.org/wiki/Legislative_Assembly_of_Macau
+    sources:
+      - url: https://www.wikidata.org/wiki/Q550133
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: legislative-council-of-hong-kong
+    type: org
+    name: 香港立法会
+    names:
+      zh: 香港立法会
+      en: Legislative Council of Hong Kong
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 香港特別行政區的最高立法機關
+    ids:
+      wikidata: Q19208
+    links:
+      - https://en.wikipedia.org/wiki/Legislative_Council_of_Hong_Kong
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19208
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: legislative-yuan
+    type: org
+    name: 中华民国立法院
+    names:
+      zh: 中华民国立法院
+      en: Legislative Yuan
+    orgType: other
+    country:
+      - TW
+    sectors:
+      - other
+    tier: 3
+    summary: 中華民國最高立法機關
+    ids:
+      wikidata: Q715869
+    links:
+      - https://en.wikipedia.org/wiki/Legislative_Yuan
+    sources:
+      - url: https://www.wikidata.org/wiki/Q715869
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: legislature
+    type: org
+    name: legislature
+    names:
+      zh: 立法机构
+      en: legislature
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 能夠通過、修改及廢除法律的合議性團體
+    ids:
+      wikidata: Q11204
+    links:
+      - https://en.wikipedia.org/wiki/Legislature
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11204
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lemall
+    type: org
+    name: Lemall
+    names:
+      en: Lemall
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    ids:
+      wikidata: Q22906323
+    links:
+      - https://en.wikipedia.org/wiki/LeMall
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22906323
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lenovo
+    type: org
+    name: 联想集团
+    names:
+      zh: 联想集团
+      en: Lenovo
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 2
+    summary: 1984年建立的中國跨國科技公司
+    ids:
+      wikidata: Q14799
+    links:
+      - https://en.wikipedia.org/wiki/Lenovo
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14799
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lens-technology
+    type: org
+    name: 蓝思科技
+    names:
+      zh: 蓝思科技
+      en: Lens Technology
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: Chinese technology company
+    ids:
+      wikidata: Q19855135
+    links:
+      - https://en.wikipedia.org/wiki/Lens_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19855135
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lewis-and-clark-college
+    type: org
+    name: Lewis & Clark College
+    names:
+      zh: 刘易斯-克拉克学院
+      en: Lewis & Clark College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private liberal arts college in Portland, Oregon, United States
+    ids:
+      wikidata: Q4227955
+    links:
+      - https://en.wikipedia.org/wiki/Lewis_%26_Clark_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4227955
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lewis-and-clark-law-school
+    type: org
+    name: Lewis & Clark Law School
+    names:
+      zh: 刘易斯和克拉克法学院
+      en: Lewis & Clark Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school
+    ids:
+      wikidata: Q6536214
+    links:
+      - https://en.wikipedia.org/wiki/Lewis_%26_Clark_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6536214
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: li-ka-shing-foundation
+    type: org
+    name: 李嘉誠基金會
+    names:
+      zh: 李嘉誠基金會
+      en: Li Ka Shing Foundation
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 基金會
+    ids:
+      wikidata: Q6538902
+    links:
+      - https://en.wikipedia.org/wiki/Li_Ka_Shing_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6538902
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: li-ning-company-limited
+    type: org
+    name: 李宁公司
+    names:
+      zh: 李宁公司
+      en: Li-Ning Company Limited
+    orgType: company
+    country:
+      - CN
+      - KY
+    sectors:
+      - business
+    tier: 3
+    summary: 中国公司
+    ids:
+      wikidata: Q1272525
+    links:
+      - https://en.wikipedia.org/wiki/Li-Ning
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1272525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: liaoning-university
+    type: org
+    name: 辽宁大学
+    names:
+      zh: 辽宁大学
+      en: Liaoning University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国辽宁省沈阳市大学
+    ids:
+      wikidata: Q6132246
+    links:
+      - https://en.wikipedia.org/wiki/Liaoning_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6132246
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: liberty-media
+    type: org
+    name: Liberty Media
+    names:
+      zh: 自由传媒公司
+      en: Liberty Media
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American mass media company
+    ids:
+      wikidata: Q1516562
+    links:
+      - https://en.wikipedia.org/wiki/Liberty_Media
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1516562
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: liberty-university
+    type: org
+    name: Liberty University
+    names:
+      zh: 自由大學
+      en: Liberty University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美國基督教私立大學
+    ids:
+      wikidata: Q1468607
+    links:
+      - https://en.wikipedia.org/wiki/Liberty_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1468607
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lifestyle-international-holdings
+    type: org
+    name: 利福國際
+    names:
+      zh: 利福國際
+      en: Lifestyle International Holdings
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: listed company in Hong Kong
+    ids:
+      wikidata: Q10898409
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10898409
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: light-and-wonder
+    type: org
+    name: Light & Wonder
+    names:
+      en: Light & Wonder
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American electronic gaming and gambling company
+    ids:
+      wikidata: Q7433758
+    links:
+      - https://en.wikipedia.org/wiki/Light_%26_Wonder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7433758
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lightbank
+    type: org
+    name: Lightbank
+    names:
+      en: Lightbank
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American venture capital investments firm
+    ids:
+      wikidata: Q6546250
+    links:
+      - https://en.wikipedia.org/wiki/Lightbank
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6546250
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lighter-than-air-research
+    type: org
+    name: Lighter Than Air Research
+    names:
+      en: Lighter Than Air Research
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: aerospace research and development company
+    ids:
+      wikidata: Q112958228
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q112958228
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: limitless
+    type: org
+    name: Limitless
+    names:
+      en: Limitless
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: largest private superyacht
+    ids:
+      wikidata: Q1825503
+    links:
+      - https://en.wikipedia.org/wiki/Limitless_(luxury_yacht)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1825503
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lincoln-university
+    type: org
+    name: Lincoln University
+    names:
+      en: Lincoln University
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: university in Missouri
+    ids:
+      wikidata: Q1126179
+    links:
+      - https://en.wikipedia.org/wiki/Lincoln_University_(Missouri)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1126179
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: linkedin
+    type: org
+    name: LinkedIn
+    names:
+      zh: 领英
+      en: LinkedIn
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 專業人士職業社交網站
+    ids:
+      wikidata: Q213660
+    links:
+      - https://en.wikipedia.org/wiki/LinkedIn
+    sources:
+      - url: https://www.wikidata.org/wiki/Q213660
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: linux-kernel
+    type: org
+    name: Linux kernel
+    names:
+      zh: Linux内核
+      en: Linux kernel
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 類Unix操作系統內核
+    ids:
+      wikidata: Q14579
+    links:
+      - https://en.wikipedia.org/wiki/Linux_kernel
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14579
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: liquid-funding-ltd
+    type: org
+    name: Liquid Funding Ltd.
+    names:
+      en: Liquid Funding Ltd.
+    orgType: company
+    country:
+      - BM
+    sectors:
+      - business
+    tier: 4
+    summary: Jeffrey Epstein Bermuda company
+    ids:
+      wikidata: Q137163817
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137163817
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: little-caesars
+    type: org
+    name: Little Caesars
+    names:
+      zh: 小凱薩
+      en: Little Caesars
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: American multinational pizza chain based in Detroit
+    ids:
+      wikidata: Q1393809
+    links:
+      - https://en.wikipedia.org/wiki/Little_Caesars
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1393809
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: little-saint-james
+    type: org
+    name: Little Saint James
+    names:
+      zh: 小圣托马斯岛
+      en: Little Saint James
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 加勒比海的一个岛屿
+    ids:
+      wikidata: Q6651815
+    links:
+      - https://en.wikipedia.org/wiki/Little_Saint_James
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6651815
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: llama-company
+    type: org
+    name: Llama Company
+    names:
+      en: Llama Company
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: former American investment bank founded by Alice Walton
+    ids:
+      wikidata: Q23777930
+    links:
+      - https://en.wikipedia.org/wiki/Llama_Company
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23777930
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: local-initiatives-support-corporation
+    type: org
+    name: Local Initiatives Support Corporation
+    names:
+      en: Local Initiatives Support Corporation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國非盈利組織
+    ids:
+      wikidata: Q16933992
+    links:
+      - https://en.wikipedia.org/wiki/Local_Initiatives_Support_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16933992
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lockheed-martin
+    type: org
+    name: Lockheed Martin
+    names:
+      zh: 洛克希德·马丁
+      en: Lockheed Martin
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國航空航天和國防製造商，全球最大的國防承包商
+    ids:
+      wikidata: Q7240
+    links:
+      - https://en.wikipedia.org/wiki/Lockheed_Martin
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7240
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lolita-express
+    type: org
+    name: Lolita Express
+    names:
+      zh: 蘿莉塔快線
+      en: Lolita Express
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: 謝菲·愛潑斯坦名下的波音727–100型私人飛機
+    ids:
+      wikidata: Q135643381
+    links:
+      - https://en.wikipedia.org/wiki/Lolita_Express
+    sources:
+      - url: https://www.wikidata.org/wiki/Q135643381
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: london-school-of-economics-and-political-science
+    type: org
+    name: London School of Economics and Political Science
+    names:
+      zh: 伦敦政治经济学院
+      en: London School of Economics and Political Science
+    orgType: university
+    country:
+      - GB
+    sectors:
+      - academia
+    tier: 2
+    summary: 英國倫敦的公立研究型大學
+    ids:
+      wikidata: Q174570
+    links:
+      - https://en.wikipedia.org/wiki/London_School_of_Economics
+    sources:
+      - url: https://www.wikidata.org/wiki/Q174570
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lone-pine-capital
+    type: org
+    name: Lone Pine Capital
+    names:
+      zh: 孤松资本
+      en: Lone Pine Capital
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American hedge fund
+    ids:
+      wikidata: Q22023125
+    links:
+      - https://en.wikipedia.org/wiki/Lone_Pine_Capital
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22023125
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: loopt
+    type: org
+    name: Loopt
+    names:
+      en: Loopt
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: social network website
+    ids:
+      wikidata: Q6675901
+    links:
+      - https://en.wikipedia.org/wiki/Loopt
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6675901
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: los-angeles-clippers
+    type: org
+    name: Los Angeles Clippers
+    names:
+      zh: 洛杉矶快船
+      en: Los Angeles Clippers
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國職業籃球隊
+    ids:
+      wikidata: Q976396
+    links:
+      - https://en.wikipedia.org/wiki/Los_Angeles_Clippers
+    sources:
+      - url: https://www.wikidata.org/wiki/Q976396
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: los-angeles-dodgers
+    type: org
+    name: Los Angeles Dodgers
+    names:
+      zh: 洛杉矶道奇
+      en: Los Angeles Dodgers
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國職業棒球隊
+    ids:
+      wikidata: Q334634
+    links:
+      - https://en.wikipedia.org/wiki/Los_Angeles_Dodgers
+    sources:
+      - url: https://www.wikidata.org/wiki/Q334634
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: los-angeles-stadium
+    type: org
+    name: Los Angeles Stadium
+    names:
+      en: Los Angeles Stadium
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q6682340
+    links:
+      - https://en.wikipedia.org/wiki/Los_Angeles_Stadium_(Industry)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6682340
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: los-angeles-times
+    type: org
+    name: Los Angeles Times
+    names:
+      zh: 洛杉矶时报
+      en: Los Angeles Times
+    orgType: media
+    country:
+      - US
+    sectors:
+      - media
+    tier: 2
+    summary: 美国报纸
+    ids:
+      wikidata: Q188515
+    links:
+      - https://en.wikipedia.org/wiki/Los_Angeles_Times
+    sources:
+      - url: https://www.wikidata.org/wiki/Q188515
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lost-on-the-grand-banks
+    type: org
+    name: Lost on the Grand Banks
+    names:
+      en: Lost on the Grand Banks
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Winslow Homer
+    ids:
+      wikidata: Q18350462
+    links:
+      - https://en.wikipedia.org/wiki/Lost_on_the_Grand_Banks
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18350462
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lotus-infrastructure-partners
+    type: org
+    name: Lotus Infrastructure Partners
+    names:
+      en: Lotus Infrastructure Partners
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American energy company and investment firm
+    ids:
+      wikidata: Q95981565
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q95981565
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: louisiana-house-of-representatives
+    type: org
+    name: Louisiana House of Representatives
+    names:
+      zh: 路易斯安那州众议院
+      en: Louisiana House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the legislature of the U.S. state of Louisiana
+    ids:
+      wikidata: Q1494581
+    links:
+      - https://en.wikipedia.org/wiki/Louisiana_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494581
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: louisiana-state-senate
+    type: org
+    name: Louisiana State Senate
+    names:
+      zh: 路易斯安那州参议院
+      en: Louisiana State Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the state legislature of Louisiana
+    ids:
+      wikidata: Q1494541
+    links:
+      - https://en.wikipedia.org/wiki/Louisiana_State_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494541
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: louisiana-state-university
+    type: org
+    name: Louisiana State University
+    names:
+      zh: 路易斯安那州立大學
+      en: Louisiana State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美國路易斯安那州巴吞魯日大學
+    ids:
+      wikidata: Q1521725
+    links:
+      - https://en.wikipedia.org/wiki/Louisiana_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1521725
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lowell-high-school
+    type: org
+    name: Lowell High School
+    names:
+      en: Lowell High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Massachusetts, United States
+    ids:
+      wikidata: Q6693217
+    links:
+      - https://en.wikipedia.org/wiki/Lowell_High_School_(Massachusetts)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6693217
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: loyola-marymount-university
+    type: org
+    name: Loyola Marymount University
+    names:
+      zh: 洛约拉马利蒙特大学
+      en: Loyola Marymount University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国加利福尼亚州私立天主教大学
+    ids:
+      wikidata: Q1786078
+    links:
+      - https://en.wikipedia.org/wiki/Loyola_Marymount_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1786078
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: loyola-university-chicago
+    type: org
+    name: Loyola University Chicago
+    names:
+      zh: 芝加哥洛約拉大學
+      en: Loyola University Chicago
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美國芝加哥的一所私立研究型大學
+    ids:
+      wikidata: Q1537759
+    links:
+      - https://en.wikipedia.org/wiki/Loyola_University_Chicago
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1537759
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: loyola-university-new-orleans
+    type: org
+    name: Loyola University New Orleans
+    names:
+      zh: 新奧爾良洛約拉大學
+      en: Loyola University New Orleans
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美國路易斯安那州新奧爾良的私立大學
+    ids:
+      wikidata: Q172430
+    links:
+      - https://en.wikipedia.org/wiki/Loyola_University_New_Orleans
+    sources:
+      - url: https://www.wikidata.org/wiki/Q172430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lt-group
+    type: org
+    name: LT Group
+    names:
+      zh: LT集團
+      en: LT Group
+    orgType: company
+    country:
+      - PH
+    sectors:
+      - business
+    tier: 4
+    summary: 菲律賓綜合企業公司
+    ids:
+      wikidata: Q21338598
+    links:
+      - https://en.wikipedia.org/wiki/LT_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21338598
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lucas-learning
+    type: org
+    name: Lucas Learning
+    names:
+      en: Lucas Learning
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American educational software company
+    ids:
+      wikidata: Q30592347
+    links:
+      - https://en.wikipedia.org/wiki/Lucas_Learning
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30592347
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lucas-museum-of-narrative-art
+    type: org
+    name: Lucas Museum of Narrative Art
+    names:
+      zh: 盧卡斯敘事藝術博物館
+      en: Lucas Museum of Narrative Art
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: planned museum in Los Angeles
+    ids:
+      wikidata: Q20711578
+    links:
+      - https://en.wikipedia.org/wiki/Lucas_Museum_of_Narrative_Art
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20711578
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lucasfilm
+    type: org
+    name: Lucasfilm
+    names:
+      zh: 卢卡斯影业
+      en: Lucasfilm
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國導演喬治·盧卡斯於1971年在加州舊金山建立的美國電影公司。盧卡斯本人擔任公司主席和首席執行官
+    ids:
+      wikidata: Q242446
+    links:
+      - https://en.wikipedia.org/wiki/Lucasfilm
+    sources:
+      - url: https://www.wikidata.org/wiki/Q242446
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lucasfilm-animation
+    type: org
+    name: Lucasfilm Animation
+    names:
+      zh: 卢卡斯影业动画公司
+      en: Lucasfilm Animation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American animation studio
+    ids:
+      wikidata: Q1169075
+    links:
+      - https://en.wikipedia.org/wiki/Lucasfilm_Animation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1169075
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lucasfilm-games
+    type: org
+    name: Lucasfilm Games
+    names:
+      zh: 卢卡斯艺术
+      en: Lucasfilm Games
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國電子遊戲發行商
+    ids:
+      wikidata: Q216611
+    links:
+      - https://en.wikipedia.org/wiki/Lucasfilm_Games
+    sources:
+      - url: https://www.wikidata.org/wiki/Q216611
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: lucky
+    type: org
+    name: Lucky
+    names:
+      en: Lucky
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: dog of President Ronald Reagan
+    ids:
+      wikidata: Q47670871
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47670871
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: luminate-group
+    type: org
+    name: Luminate Group
+    names:
+      en: Luminate Group
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: philantropic organization
+    ids:
+      wikidata: Q71054251
+    links:
+      - https://en.wikipedia.org/wiki/Luminate_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q71054251
+        publisher: Wikidata
+        accessed: 2026-10-11

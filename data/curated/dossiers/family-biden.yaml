@@ -1,0 +1,70 @@
+id: family-biden
+kind: family
+name: 拜登家族与中国生意
+country:
+- US
+- CN
+head: joe-biden
+summary: 亨特·拜登与中国资本的两条线：渤海华美（BHR，中美合资私募，2013）与中国华信能源（叶简明，2017）。叶简明 2018 年在中国被调查后消失；华信智库负责人何志平在美国因行贿被定罪。2024-12 拜登特赦亨特及多名家人。
+core:
+- joe-biden
+- hunter-biden
+- james-biden
+outer:
+- bhr-partners
+- cefc-china-energy
+- ye-jianming
+- patrick-ho
+sources:
+- url: https://en.wikipedia.org/wiki/Hunter_Biden
+  publisher: Wikipedia
+- url: https://en.wikipedia.org/wiki/BHR_Partners
+  publisher: Wikipedia
+- url: https://en.wikipedia.org/wiki/CEFC_China_Energy
+  publisher: Wikipedia
+relations:
+- - joe-biden
+  - parent
+  - hunter-biden
+  - 子
+- - joe-biden
+  - sibling
+  - james-biden
+  - 弟
+- from: hunter-biden
+  to: bhr-partners
+  type: board
+  since: '2013'
+  until: '2020'
+- from: hunter-biden
+  to: bhr-partners
+  type: owner
+  label: 10%（经 Skaneateles LLC）
+  since: '2017'
+  until: '2020'
+- from: hunter-biden
+  to: cefc-china-energy
+  type: business-partner
+  label: 2017 合作与咨询费
+  confidence: reported
+- from: hunter-biden
+  to: ye-jianming
+  type: associate
+  label: 2017 商业往来
+  confidence: reported
+- - ye-jianming
+  - founder
+  - cefc-china-energy
+- - patrick-ho
+  - position
+  - cefc-china-energy
+  - 旗下中国能源基金委员会秘书长
+- from: joe-biden
+  to: hunter-biden
+  type: legal
+  label: 2024-12 总统特赦
+  since: 2024-12
+tags:
+- family
+- cross-border
+updated: '2026-10-11'

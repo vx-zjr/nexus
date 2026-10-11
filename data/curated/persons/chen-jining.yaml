@@ -1,0 +1,38 @@
+id: chen-jining
+type: person
+name: 陈吉宁
+names:
+  zh: 陈吉宁
+  en: Chen Jining
+gender: M
+born: 1964-02
+country:
+- CN
+sectors:
+- politics
+tier: 2
+status: active
+summary: 上海市委书记（2022–）。前清华大学校长、环保部长、北京市长。
+positions:
+- title: 上海市委书记
+  from: 2022-10
+  current: true
+- title: 政治局委员
+  org: ccp-politburo
+  from: 2022-10
+  current: true
+- title: 北京市长
+  from: 2017-05
+  to: 2022-10
+- title: 清华大学校长
+  from: 2012-02
+  to: 2015-02
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+updated: '2026-10-11'

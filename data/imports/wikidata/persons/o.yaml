@@ -1,0 +1,561 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: ole-torvalds
+    type: person
+    name: Ole Torvalds
+    names:
+      zh: 奥勒·托瓦兹
+      en: Ole Torvalds
+    gender: M
+    born: 1916-08-04
+    died: 1995-02-08
+    country:
+      - FI
+      - SE
+    sectors:
+      - media
+    tier: 4
+    summary: 芬兰记者和诗人
+    ids:
+      wikidata: Q1367643
+    links:
+      - https://en.wikipedia.org/wiki/Ole_Torvalds
+    tags:
+      - relative
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1367643
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: oleksandra-nikolayenko
+    type: person
+    name: Oleksandra Nikolayenko
+    names:
+      en: Oleksandra Nikolayenko
+    gender: F
+    born: 1981-07-03
+    country:
+      - UA
+    sectors:
+      - family
+    tier: 5
+    summary: Ukrainian model
+    ids:
+      wikidata: Q3881589
+    links:
+      - https://en.wikipedia.org/wiki/Oleksandra_Nikolayenko
+    tags:
+      - relative
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3881589
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: olivier-sarkozy
+    type: person
+    name: Olivier Sarkozy
+    names:
+      zh: 奧利維耶·薩科齊
+      en: Olivier Sarkozy
+    gender: M
+    born: 1969-05-26
+    country:
+      - FR
+    sectors:
+      - business
+      - finance
+    tier: 5
+    summary: French-American businessman
+    ids:
+      wikidata: Q3351364
+    links:
+      - https://en.wikipedia.org/wiki/Olivier_Sarkozy
+    tags:
+      - relative
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3351364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: olympia-snowe
+    type: person
+    name: Olympia Snowe
+    names:
+      zh: 奧林匹亞·史諾
+      en: Olympia Snowe
+    gender: F
+    born: 1947-02-21
+    country:
+      - US
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: 美国缅因州参议员
+    ids:
+      wikidata: Q22290
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%C2%B7%E5%8F%B2%E8%AB%BE
+      - https://en.wikipedia.org/wiki/Olympia_Snowe
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 32
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22290
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 會議代表
+        to: "1976"
+      - title: 美國參議員
+        org: us-senate
+        from: 1997-01-03
+        to: 1999-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1999-01-03
+        to: 2001-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2003-01-03
+        to: 2005-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1995-01-03
+        to: 1997-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2011-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2005-01-03
+        to: 2007-01-03
+      - title: 緬因州參議員
+        org: maine-senate
+        from: "1977"
+        to: "1979"
+      - title: 缅因州众议员
+        org: maine-house-of-representatives
+        from: "1975"
+        to: "1977"
+      - title: 美国众议员
+        org: us-house
+        from: 1979-01-03
+        to: 1981-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1981-01-03
+        to: 1983-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1983-01-03
+        to: 1985-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1985-01-03
+        to: 1987-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+  - id: oriales-rubio
+    type: person
+    name: Oriales Rubio
+    names:
+      en: Oriales Rubio
+    gender: F
+    born: 1930-11-02
+    died: 2019-09-27
+    country:
+      - US
+      - CU
+    sectors:
+      - family
+    tier: 5
+    summary: (died 2019)
+    ids:
+      wikidata: Q22952514
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22952514
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: orrin-h-ingram-ii
+    type: person
+    name: Orrin H. Ingram II
+    names:
+      en: Orrin H. Ingram II
+    gender: M
+    born: 1960-07-05
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessperson
+    ids:
+      wikidata: Q7104085
+    links:
+      - https://en.wikipedia.org/wiki/Orrin_H._Ingram_II
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7104085
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: orrin-hatch
+    type: person
+    name: Orrin Hatch
+    names:
+      zh: 奧林·哈奇
+      en: Orrin Hatch
+    gender: M
+    born: 1934-03-22
+    died: 2022-04-23
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+      - media
+    tier: 3
+    summary: 美國政治人物 (1934–2022)
+    ids:
+      wikidata: Q381157
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A5%A7%E6%9E%97%C2%B7%E5%93%88%E5%A5%87
+      - https://en.wikipedia.org/wiki/Orrin_Hatch
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 41
+    sources:
+      - url: https://www.wikidata.org/wiki/Q381157
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議院臨時議長
+        org: us-senate
+        from: 2015-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2003-01-03
+        to: 2005-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1983-01-03
+        to: 1985-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2005-01-03
+        to: 2007-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1997-01-03
+        to: 1999-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1985-01-03
+        to: 1987-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1981-01-03
+        to: 1983-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1995-01-03
+        to: 1997-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1993-01-03
+        to: 1995-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1979-01-03
+        to: 1981-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2011-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1999-01-03
+        to: 2001-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1977-01-03
+        to: 1979-01-03
+      - title: 参议员
+        org: senate
+  - id: otis-r-bowen
+    type: person
+    name: Otis R. Bowen
+    names:
+      zh: 奥蒂斯·鲍恩
+      en: Otis R. Bowen
+    gender: M
+    born: 1918-02-26
+    died: 2013-05-04
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American politician (1918-2013)
+    ids:
+      wikidata: Q887335
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A5%A5%E8%92%82%E6%96%AF%C2%B7%E9%B2%8D%E6%81%A9
+      - https://en.wikipedia.org/wiki/Otis_Bowen
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q887335
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國衛生與公共服務部長
+        org: united-states-department-of-health-and-human-services
+        from: 1985-12-13
+        to: 1989-01-20
+      - title: 印第安納州州長
+        org: state-of-indiana
+        from: 1973-01-08
+        to: 1981-01-12
+      - title: 印第安納州眾議員
+        org: indiana-house-of-representatives
+  - id: otto-beatty-jr
+    type: person
+    name: Otto Beatty, Jr.
+    names:
+      en: Otto Beatty, Jr.
+    gender: M
+    born: 1940-01-26
+    died: 2021-05-14
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q7109517
+    links:
+      - https://en.wikipedia.org/wiki/Otto_Beatty_Jr.
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7109517
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 俄亥俄州眾議員
+        org: ohio-house-of-representatives
+        from: "1980"
+        to: "1998"
+  - id: otto-j-wolff
+    type: person
+    name: Otto J. Wolff
+    names:
+      en: Otto J. Wolff
+    gender: M
+    born: "1950"
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+    tier: 2
+    summary: United States secretary of Commerce
+    ids:
+      wikidata: Q7109662
+    links:
+      - https://en.wikipedia.org/wiki/Otto_J._Wolff
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7109662
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國商務部長
+        org: united-states-department-of-commerce
+        to: 2009-03-26
+  - id: ou-jingu
+    type: person
+    name: 欧金谷
+    names:
+      zh: 欧金谷
+    gender: M
+    born: "1944"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8316714
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AC%A7%E9%87%91%E8%B0%B7
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316714
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: ou-xiaobai
+    type: person
+    name: 欧小白
+    names:
+      zh: 欧小白
+      en: Ou Xiaobai
+    gender: F
+    born: "1985"
+    country:
+      - CN
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: 中国设计师
+    ids:
+      wikidata: Q28027961
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AC%A7%E5%B0%8F%E7%99%BD
+      - https://en.wikipedia.org/wiki/Ou_Xiaobai
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28027961
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: owen-k-garriott
+    type: person
+    name: Owen K. Garriott
+    names:
+      zh: 欧文·加里欧特
+      en: Owen K. Garriott
+    gender: M
+    born: 1930-11-22
+    died: 2019-04-15
+    country:
+      - US
+    sectors:
+      - tech
+      - military
+    tier: 3
+    summary: 美国航天员
+    ids:
+      wikidata: Q507046
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AC%A7%E6%96%87%C2%B7%E5%8A%A0%E9%87%8C%E6%AC%A7%E7%89%B9
+      - https://en.wikipedia.org/wiki/Owen_Garriott
+    tags:
+      - relative
+    attrs:
+      sitelinks: 32
+    sources:
+      - url: https://www.wikidata.org/wiki/Q507046
+        publisher: Wikidata
+        accessed: 2026-10-11

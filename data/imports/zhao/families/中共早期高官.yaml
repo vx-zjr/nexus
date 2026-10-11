@@ -1,0 +1,296 @@
+# 自动生成：ingest zhao（2026-10-10，源 https://github.com/programthink/zhao @ e8eea46 2018-05-02 18:35:59 +0800）
+# 许可：GPL-3.0（原作者：编程随想）。请勿手工修改本目录——修订请写到 data/curated/ 覆盖。
+dossiers:
+  - id: family-liu-bojian
+    kind: family
+    name: 刘伯坚家族
+    country:
+      - CN
+    head: liu-bojian
+    core:
+      - liu-bojian
+      - liu-husheng
+      - liu-zhiyuan
+    outer:
+      - li-xiaolin-1961
+    tags:
+      - zhao
+      - 中共早期高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E5%88%98%E4%BC%AF%E5%9D%9A.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: liu-bojian
+        to: liu-husheng
+        type: parent
+        label: 子
+      - from: liu-husheng
+        to: liu-zhiyuan
+        type: parent
+        label: 子
+      - from: liu-zhiyuan
+        to: li-xiaolin-1961
+        type: spouse
+        label: 妻
+  - id: family-bo-gu
+    kind: family
+    name: 博古家族
+    country:
+      - CN
+    head: bo-gu
+    core:
+      - bo-gu
+      - qin-tie
+      - qin-xinhua
+    outer:
+      - li-tieying
+    tags:
+      - zhao
+      - 中共早期高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E5%8D%9A%E5%8F%A4.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: bo-gu
+        to: qin-xinhua
+        type: parent
+        label: 女
+      - from: bo-gu
+        to: qin-tie
+        type: parent
+        label: 子
+  - id: family-ye-ting
+    kind: family
+    name: 叶挺家族
+    country:
+      - CN
+    head: ye-ting
+    core:
+      - ye-ting
+      - ye-zhengda
+      - ye-daying
+      - ye-zhengming
+      - ye-xiaoyan
+      - ye-huaming
+      - ye-zhengguang
+      - ye-tiejun
+      - ye-qiguang
+    outer:
+      - li-xiaoyong
+    tags:
+      - zhao
+      - 中共早期高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E5%8F%B6%E6%8C%BA.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: ye-ting
+        to: ye-zhengda
+        type: parent
+        label: 长子
+      - from: ye-zhengda
+        to: ye-daying
+        type: parent
+        label: 子
+      - from: ye-ting
+        to: ye-zhengming
+        type: parent
+        label: 次子
+      - from: ye-zhengming
+        to: ye-xiaoyan
+        type: parent
+        label: 女
+      - from: ye-ting
+        to: ye-huaming
+        type: parent
+        label: 三子
+      - from: ye-ting
+        to: ye-zhengguang
+        type: parent
+        label: 四子
+      - from: ye-zhengguang
+        to: ye-tiejun
+        type: parent
+        label: 子
+      - from: ye-ting
+        to: ye-qiguang
+        type: parent
+        label: 子
+  - id: family-peng-xuefeng
+    kind: family
+    name: 彭雪枫家族
+    country:
+      - CN
+    head: peng-xuefeng
+    core:
+      - peng-xuefeng
+      - peng-xiaofeng
+    outer: []
+    tags:
+      - zhao
+      - 中共早期高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E5%BD%AD%E9%9B%AA%E6%9E%AB.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: peng-xuefeng
+        to: peng-xiaofeng
+        type: parent
+        label: 遗腹子
+  - id: family-zeng-zhongsheng
+    kind: family
+    name: 曾中生家族
+    country:
+      - CN
+    head: zeng-zhongsheng
+    core:
+      - zeng-zhongsheng
+      - huang-jie
+      - zeng-xisheng
+    outer:
+      - xu-xiangqian
+    tags:
+      - zhao
+      - 中共早期高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E6%9B%BE%E4%B8%AD%E7%94%9F.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: zeng-zhongsheng
+        to: zeng-xisheng
+        type: sibling
+        label: 弟
+      - from: zeng-zhongsheng
+        to: huang-jie
+        type: spouse
+        label: 妻
+  - id: family-li-dazhao
+    kind: family
+    name: 李大钊家族
+    country:
+      - CN
+    head: li-dazhao
+    core:
+      - li-dazhao
+      - li-baohua
+      - li-hongta
+      - li-qing
+      - li-guanghua
+    outer: []
+    tags:
+      - zhao
+      - 中共早期高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E6%9D%8E%E5%A4%A7%E9%92%8A.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: li-dazhao
+        to: li-baohua
+        type: parent
+        label: 子
+      - from: li-baohua
+        to: li-hongta
+        type: parent
+        label: 子
+      - from: li-baohua
+        to: li-qing
+        type: parent
+        label: 子
+      - from: li-dazhao
+        to: li-guanghua
+        type: parent
+        label: 子
+  - id: family-lin-yuying
+    kind: family
+    name: 林育英家族
+    country:
+      - CN
+    head: lin-yuying
+    core:
+      - lin-yuying
+      - lin-hanxiong
+    outer:
+      - lin-biao
+      - xiang-suyun
+      - xiang-ying
+    tags:
+      - zhao
+      - 中共早期高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E6%9E%97%E8%82%B2%E8%8B%B1.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: lin-yuying
+        to: lin-hanxiong
+        type: parent
+        label: 子
+      - from: lin-yuying
+        to: lin-biao
+        type: sibling
+        label: 弟
+      - from: lin-hanxiong
+        to: xiang-suyun
+        type: spouse
+        label: 妻
+  - id: family-xiang-ying
+    kind: family
+    name: 项英家族
+    country:
+      - CN
+    head: xiang-ying
+    core:
+      - xiang-ying
+      - zhang-liang
+      - li-youlan
+      - xiang-xuecheng
+      - xiang-suyun
+    outer:
+      - zhang-aiping
+      - lin-hanxiong
+    tags:
+      - zhao
+      - 中共早期高官
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E9%A1%B9%E8%8B%B1.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: xiang-ying
+        to: zhang-liang
+        type: spouse
+        label: 妻
+      - from: xiang-ying
+        to: li-youlan
+        type: spouse
+        label: 妻
+      - from: xiang-ying
+        to: xiang-xuecheng
+        type: parent
+        label: 子
+      - from: xiang-ying
+        to: xiang-suyun
+        type: parent
+        label: 女
+      - from: zhang-liang
+        to: xiang-xuecheng
+        type: parent
+        label: 子
+      - from: zhang-liang
+        to: xiang-suyun
+        type: parent
+        label: 女

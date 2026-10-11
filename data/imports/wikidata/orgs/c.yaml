@@ -1,0 +1,5231 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: c-k-mcclatchy-high-school
+    type: org
+    name: C. K. McClatchy High School
+    names:
+      en: C. K. McClatchy High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in California, United States
+    ids:
+      wikidata: Q5006618
+    links:
+      - https://en.wikipedia.org/wiki/C._K._McClatchy_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5006618
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: c2
+    type: org
+    name: C2
+    names:
+      en: C2
+    orgType: other
+    country:
+      - KY
+    sectors:
+      - other
+    tier: 4
+    summary: motor yacht built in 2008
+    ids:
+      wikidata: Q18888440
+    links:
+      - https://en.wikipedia.org/wiki/HBC_(yacht)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18888440
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: c3-ai
+    type: org
+    name: C3.ai
+    names:
+      en: C3.ai
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: business
+    ids:
+      wikidata: Q104081972
+    links:
+      - https://en.wikipedia.org/wiki/C3_AI
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104081972
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cabela-s
+    type: org
+    name: Cabela's
+    names:
+      zh: 坎贝拉
+      en: Cabela's
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American outdoor recreational equipment retail chain
+    ids:
+      wikidata: Q2793714
+    links:
+      - https://en.wikipedia.org/wiki/Cabela's
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2793714
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cadre
+    type: org
+    name: Cadre
+    names:
+      en: Cadre
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: New York-based technology company that provides individuals and institutions direct access to large commercial real-estate properties
+    ids:
+      wikidata: Q30602742
+    links:
+      - https://en.wikipedia.org/wiki/Cadre_(company)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30602742
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cainiao
+    type: org
+    name: Cainiao
+    names:
+      zh: 菜鸟网络
+      en: Cainiao
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: 中国公司
+    ids:
+      wikidata: Q16947973
+    links:
+      - https://en.wikipedia.org/wiki/Cainiao
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16947973
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: california-governor-s-office
+    type: org
+    name: California Governor's Office
+    names:
+      en: California Governor's Office
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: office in the government of the U.S. state of California
+    ids:
+      wikidata: Q139551831
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q139551831
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: california-institute-of-technology
+    type: org
+    name: California Institute of Technology
+    names:
+      zh: 加州理工学院
+      en: California Institute of Technology
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 2
+    summary: 美國私立研究型大學
+    ids:
+      wikidata: Q161562
+    links:
+      - https://en.wikipedia.org/wiki/California_Institute_of_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q161562
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: california-polytechnic-state-university
+    type: org
+    name: California Polytechnic State University
+    names:
+      zh: 加州理工州立大學
+      en: California Polytechnic State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 位于加利福尼亚州圣路易斯奥比斯波的大学
+    ids:
+      wikidata: Q1026846
+    links:
+      - https://en.wikipedia.org/wiki/California_Polytechnic_State_University%2C_San_Luis_Obispo
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1026846
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: california-state-assembly
+    type: org
+    name: California State Assembly
+    names:
+      zh: 加利福尼亚州众议院
+      en: California State Assembly
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: lower house of the California State Legislature
+    ids:
+      wikidata: Q1026858
+    links:
+      - https://en.wikipedia.org/wiki/California_State_Assembly
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1026858
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: california-state-polytechnic-university-pomona
+    type: org
+    name: California State Polytechnic University, Pomona
+    names:
+      zh: 波莫纳加州州立理工大学
+      en: California State Polytechnic University, Pomona
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国大学
+    ids:
+      wikidata: Q1026868
+    links:
+      - https://en.wikipedia.org/wiki/California_State_Polytechnic_University%2C_Pomona
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1026868
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: california-state-senate
+    type: org
+    name: California State Senate
+    names:
+      zh: 加利福尼亚州参议院
+      en: California State Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the California State Legislature
+    ids:
+      wikidata: Q1526814
+    links:
+      - https://en.wikipedia.org/wiki/California_State_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1526814
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: california-state-university
+    type: org
+    name: California State University
+    names:
+      zh: 加利福尼亚州立大学
+      en: California State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美國加利福尼亞州的公立大學系統
+    ids:
+      wikidata: Q815352
+    links:
+      - https://en.wikipedia.org/wiki/California_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q815352
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: california-state-university-fresno
+    type: org
+    name: California State University, Fresno
+    names:
+      zh: 加州州立大学，弗雷斯諾
+      en: California State University, Fresno
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美國大學
+    ids:
+      wikidata: Q1026919
+    links:
+      - https://en.wikipedia.org/wiki/California_State_University%2C_Fresno
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1026919
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: california-state-university-long-beach
+    type: org
+    name: California State University, Long Beach
+    names:
+      zh: 加州州立大學長堤分校
+      en: California State University, Long Beach
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 1949年創建的一所學校
+    ids:
+      wikidata: Q1026926
+    links:
+      - https://en.wikipedia.org/wiki/California_State_University%2C_Long_Beach
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1026926
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: california-state-university-los-angeles
+    type: org
+    name: California State University, Los Angeles
+    names:
+      zh: 加州州立大学，洛杉矶
+      en: California State University, Los Angeles
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 学校
+    ids:
+      wikidata: Q1026932
+    links:
+      - https://en.wikipedia.org/wiki/California_State_University%2C_Los_Angeles
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1026932
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: calvin-university
+    type: org
+    name: Calvin University
+    names:
+      zh: 加爾文學院
+      en: Calvin University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private Christian university in Grand Rapids, Michigan, USA
+    ids:
+      wikidata: Q2698482
+    links:
+      - https://en.wikipedia.org/wiki/Calvin_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2698482
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: canadian-national-railway
+    type: org
+    name: Canadian National Railway
+    names:
+      zh: 加拿大国家铁路
+      en: Canadian National Railway
+    orgType: company
+    country:
+      - CA
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 加拿大的貨運鐵路公司
+    ids:
+      wikidata: Q624798
+    links:
+      - https://en.wikipedia.org/wiki/Canadian_National_Railway
+    sources:
+      - url: https://www.wikidata.org/wiki/Q624798
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: capital-normal-university
+    type: org
+    name: 首都师范大学
+    names:
+      zh: 首都师范大学
+      en: Capital Normal University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 北京市公立大学
+    ids:
+      wikidata: Q3551814
+    links:
+      - https://en.wikipedia.org/wiki/Capital_Normal_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3551814
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: capital-one-arena
+    type: org
+    name: Capital One Arena
+    names:
+      zh: 第一資本競技館
+      en: Capital One Arena
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国华盛顿哥伦比亚特区的体育馆
+    ids:
+      wikidata: Q223240
+    links:
+      - https://en.wikipedia.org/wiki/Capital_One_Arena
+    sources:
+      - url: https://www.wikidata.org/wiki/Q223240
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: carafe-and-candlestick
+    type: org
+    name: Carafe and Candlestick
+    names:
+      en: Carafe and Candlestick
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Picasso (1909)
+    ids:
+      wikidata: Q112121177
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q112121177
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cardinal-mooney-high-school
+    type: org
+    name: Cardinal Mooney High School
+    names:
+      en: Cardinal Mooney High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Youngstown, Ohio, USA
+    ids:
+      wikidata: Q5038578
+    links:
+      - https://en.wikipedia.org/wiki/Cardinal_Mooney_High_School_(Ohio)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5038578
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cardinal-spellman-high-school
+    type: org
+    name: Cardinal Spellman High School
+    names:
+      en: Cardinal Spellman High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in New York, United States
+    ids:
+      wikidata: Q5038612
+    links:
+      - https://en.wikipedia.org/wiki/Cardinal_Spellman_High_School_(New_York_City)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5038612
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: carleton-college
+    type: org
+    name: Carleton College
+    names:
+      zh: 卡尔顿学院
+      en: Carleton College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国明尼苏达州私立文理学院
+    ids:
+      wikidata: Q1041671
+    links:
+      - https://en.wikipedia.org/wiki/Carleton_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1041671
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: carlyle-group
+    type: org
+    name: Carlyle Group
+    names:
+      zh: 凯雷集团
+      en: Carlyle Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American alternative asset management company
+    ids:
+      wikidata: Q926806
+    links:
+      - https://en.wikipedia.org/wiki/The_Carlyle_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q926806
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: carnegie-endowment-for-international-peace
+    type: org
+    name: Carnegie Endowment for International Peace
+    names:
+      zh: 卡内基国际和平基金会
+      en: Carnegie Endowment for International Peace
+    orgType: foundation
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: Washington-based American think tank
+    ids:
+      wikidata: Q1153595
+    links:
+      - https://en.wikipedia.org/wiki/Carnegie_Endowment_for_International_Peace
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1153595
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: carnegie-mellon-university
+    type: org
+    name: Carnegie Mellon University
+    names:
+      zh: 卡内基梅隆大学
+      en: Carnegie Mellon University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国宾夕法尼亚州匹兹堡的研究型私立大学
+    ids:
+      wikidata: Q190080
+    links:
+      - https://en.wikipedia.org/wiki/Carnegie_Mellon_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q190080
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: carolina-herrera-2
+    type: org
+    name: Carolina Herrera
+    names:
+      en: Carolina Herrera
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: New York-based fashion house
+    ids:
+      wikidata: Q29017366
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q29017366
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: carolina-panthers
+    type: org
+    name: Carolina Panthers
+    names:
+      zh: 卡罗来纳黑豹
+      en: Carolina Panthers
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: National Football League franchise in Charlotte, North Carolina
+    ids:
+      wikidata: Q330120
+    links:
+      - https://en.wikipedia.org/wiki/Carolina_Panthers
+    sources:
+      - url: https://www.wikidata.org/wiki/Q330120
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: carson-high-school
+    type: org
+    name: Carson High School
+    names:
+      en: Carson High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Nevada, United States
+    ids:
+      wikidata: Q5046938
+    links:
+      - https://en.wikipedia.org/wiki/Carson_High_School_(Carson_City%2C_Nevada)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5046938
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: carson-scholars-fund
+    type: org
+    name: Carson Scholars Fund
+    names:
+      en: Carson Scholars Fund
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國非盈利組織
+    ids:
+      wikidata: Q54826490
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q54826490
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: caruso
+    type: org
+    name: Caruso
+    names:
+      en: Caruso
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American real estate company
+    ids:
+      wikidata: Q5047492
+    links:
+      - https://en.wikipedia.org/wiki/Caruso_(company)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5047492
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: carvana
+    type: org
+    name: Carvana
+    names:
+      en: Carvana
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: online used car dealer based in Arizona
+    ids:
+      wikidata: Q16247191
+    links:
+      - https://en.wikipedia.org/wiki/Carvana
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16247191
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cascade-investment
+    type: org
+    name: Cascade Investment
+    names:
+      zh: 級聯投資
+      en: Cascade Investment
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American holding and investment company
+    ids:
+      wikidata: Q4206709
+    links:
+      - https://en.wikipedia.org/wiki/Cascade_Investment
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4206709
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: case-western-reserve-university
+    type: org
+    name: Case Western Reserve University
+    names:
+      zh: 凱斯西儲大學
+      en: Case Western Reserve University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国俄亥俄州私立研究型大学
+    ids:
+      wikidata: Q1047060
+    links:
+      - https://en.wikipedia.org/wiki/Case_Western_Reserve_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1047060
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cass-technical-high-school
+    type: org
+    name: Cass Technical High School
+    names:
+      zh: 卡斯技术高中
+      en: Cass Technical High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public high school in Detroit, Michigan, United States
+    ids:
+      wikidata: Q5049183
+    links:
+      - https://en.wikipedia.org/wiki/Cass_Technical_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5049183
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: castle-and-crusade-society
+    type: org
+    name: Castle & Crusade Society
+    names:
+      en: Castle & Crusade Society
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Miniature wargaming club
+    ids:
+      wikidata: Q5049968
+    links:
+      - https://en.wikipedia.org/wiki/Castle_%26_Crusade_Society
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5049968
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: castletown-cox
+    type: org
+    name: Castletown Cox
+    names:
+      en: Castletown Cox
+    orgType: other
+    country:
+      - IE
+    sectors:
+      - other
+    tier: 4
+    summary: Palladian house in County Kilkenny, Ireland
+    ids:
+      wikidata: Q65063902
+    links:
+      - https://en.wikipedia.org/wiki/Castletown_Cox
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65063902
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: caterpillar-inc
+    type: org
+    name: Caterpillar Inc.
+    names:
+      zh: 卡特彼勒
+      en: Caterpillar Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 设计、制造、销售和销售机械和发动机的美国公司。
+    ids:
+      wikidata: Q459965
+    links:
+      - https://en.wikipedia.org/wiki/Caterpillar_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q459965
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: catholic-high-school
+    type: org
+    name: Catholic High School
+    names:
+      en: Catholic High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: college-prep high school in Baton Rouge, Louisiana
+    ids:
+      wikidata: Q5053173
+    links:
+      - https://en.wikipedia.org/wiki/Catholic_High_School_(Baton_Rouge%2C_Louisiana)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5053173
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cato-institute
+    type: org
+    name: Cato Institute
+    names:
+      zh: 卡托研究所
+      en: Cato Institute
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國自由意志主义智庫
+    ids:
+      wikidata: Q1051256
+    links:
+      - https://en.wikipedia.org/wiki/Cato_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1051256
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: causes
+    type: org
+    name: Causes
+    names:
+      en: Causes
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: organization
+    ids:
+      wikidata: Q5054612
+    links:
+      - https://en.wikipedia.org/wiki/Causes_(company)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5054612
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: caxton-associates
+    type: org
+    name: Caxton Associates
+    names:
+      en: Caxton Associates
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: London-based hedge fund
+    ids:
+      wikidata: Q5055260
+    links:
+      - https://en.wikipedia.org/wiki/Caxton_Associates
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5055260
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ccp
+    type: org
+    name: 中国共产党
+    names:
+      zh: 中国共产党
+      en: Chinese Communist Party
+    orgType: party
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中华人民共和国执政党
+    ids:
+      wikidata: Q17427
+    links:
+      - https://en.wikipedia.org/wiki/Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17427
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ccp-ccdi
+    type: org
+    name: 中国共产党中央纪律检查委员会
+    names:
+      zh: 中国共产党中央纪律检查委员会
+      en: Central Commission for Discipline Inspection of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 中国共产党最高纪律检查机关
+    ids:
+      wikidata: Q1192996
+    links:
+      - https://en.wikipedia.org/wiki/Central_Commission_for_Discipline_Inspection
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1192996
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ccp-central-committee
+    type: org
+    name: 中国共产党中央委员会
+    names:
+      zh: 中国共产党中央委员会
+      en: Central Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 中國共產黨全國代表大會閉會期間行使中共中央職權的領導機構
+    ids:
+      wikidata: Q50963
+    links:
+      - https://en.wikipedia.org/wiki/Central_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50963
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ccp-central-political-legal-commission
+    type: org
+    name: 中国共产党中央委员会政法委员会
+    names:
+      zh: 中国共产党中央委员会政法委员会
+      en: Central Political and Legal Affairs Commission
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中共中央职能部门
+    ids:
+      wikidata: Q912139
+    links:
+      - https://en.wikipedia.org/wiki/Central_Political_and_Legal_Affairs_Commission
+    sources:
+      - url: https://www.wikidata.org/wiki/Q912139
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ccp-cmc
+    type: org
+    name: 中央军事委员会
+    names:
+      zh: 中央军事委员会
+      en: Central Military Commission
+    orgType: government
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国共产党和中华人民共和国最高军事指挥机关
+    ids:
+      wikidata: Q190338
+    links:
+      - https://en.wikipedia.org/wiki/Central_Military_Commission_(China)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q190338
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ccp-general-office
+    type: org
+    name: 中国共产党中央委员会办公厅
+    names:
+      zh: 中国共产党中央委员会办公厅
+      en: General Office of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中共中央综合部门
+    ids:
+      wikidata: Q1056046
+    links:
+      - https://en.wikipedia.org/wiki/General_Office_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1056046
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ccp-organization-department
+    type: org
+    name: 中国共产党中央委员会组织部
+    names:
+      zh: 中国共产党中央委员会组织部
+      en: Organization Department of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中共中央主管组织和人事工作的职能部门
+    ids:
+      wikidata: Q1074635
+    links:
+      - https://en.wikipedia.org/wiki/Organization_Department_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1074635
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ccp-politburo
+    type: org
+    name: 中国共产党中央委员会政治局
+    names:
+      zh: 中国共产党中央委员会政治局
+      en: Politburo of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 中国共产党中央委员会闭会期间行使中共中央职权的领导机构
+    ids:
+      wikidata: Q1076970
+    links:
+      - https://en.wikipedia.org/wiki/Politburo_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1076970
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ccp-politburo-standing-committee
+    type: org
+    name: 中国共产党中央政治局常务委员会
+    names:
+      zh: 中国共产党中央政治局常务委员会
+      en: Politburo Standing Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 中国共产党日常决策的最高权力机关
+    ids:
+      wikidata: Q197542
+    links:
+      - https://en.wikipedia.org/wiki/Politburo_Standing_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q197542
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ccp-publicity-department
+    type: org
+    name: 中国共产党中央委员会宣传部
+    names:
+      zh: 中国共产党中央委员会宣传部
+      en: Publicity Department of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中共中央职能部门
+    ids:
+      wikidata: Q1153569
+    links:
+      - https://en.wikipedia.org/wiki/Publicity_Department_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1153569
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ccp-secretariat
+    type: org
+    name: 中国共产党中央书记处
+    names:
+      zh: 中国共产党中央书记处
+      en: Central Secretariat of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 中国共产党中央政治局及其常务委员会的办事机构
+    ids:
+      wikidata: Q508283
+    links:
+      - https://en.wikipedia.org/wiki/Secretariat_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q508283
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ccp-united-front-work-department
+    type: org
+    name: 中国共产党中央委员会统一战线工作部
+    names:
+      zh: 中国共产党中央委员会统一战线工作部
+      en: United Front Work Department
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国共产党部门
+    ids:
+      wikidata: Q3274087
+    links:
+      - https://en.wikipedia.org/wiki/United_Front_Work_Department
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3274087
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cebu-pacific
+    type: org
+    name: Cebu Pacific
+    names:
+      zh: 宿务太平洋航空
+      en: Cebu Pacific
+    orgType: company
+    country:
+      - PH
+    sectors:
+      - business
+    tier: 3
+    summary: 菲律賓的一家航空公司
+    ids:
+      wikidata: Q995151
+    links:
+      - https://en.wikipedia.org/wiki/Cebu_Pacific
+    sources:
+      - url: https://www.wikidata.org/wiki/Q995151
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cecil-c-humphreys-school-of-law
+    type: org
+    name: Cecil C. Humphreys School of Law
+    names:
+      zh: 塞西爾·C·漢弗萊斯法學院
+      en: Cecil C. Humphreys School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American law school in Memphis (1962-)
+    ids:
+      wikidata: Q5055985
+    links:
+      - https://en.wikipedia.org/wiki/Cecil_C._Humphreys_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5055985
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: celera-corporation
+    type: org
+    name: Celera Corporation
+    names:
+      zh: 塞雷拉基因組公司
+      en: Celera Corporation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美國生技公司
+    ids:
+      wikidata: Q643341
+    links:
+      - https://en.wikipedia.org/wiki/Celera_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q643341
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: centene-corporation
+    type: org
+    name: Centene Corporation
+    names:
+      en: Centene Corporation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American multinational healthcare company
+    ids:
+      wikidata: Q5059102
+    links:
+      - https://en.wikipedia.org/wiki/Centene_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5059102
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: center-for-american-progress
+    type: org
+    name: Center for American Progress
+    names:
+      zh: 美国进步中心
+      en: Center for American Progress
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国智库
+    ids:
+      wikidata: Q368035
+    links:
+      - https://en.wikipedia.org/wiki/Center_for_American_Progress
+    sources:
+      - url: https://www.wikidata.org/wiki/Q368035
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: center-for-popular-democracy
+    type: org
+    name: Center for Popular Democracy
+    names:
+      en: Center for Popular Democracy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: US organization
+    ids:
+      wikidata: Q20857858
+    links:
+      - https://en.wikipedia.org/wiki/Center_for_Popular_Democracy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20857858
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: center-for-strategic-and-international-studies
+    type: org
+    name: Center for Strategic and International Studies
+    names:
+      zh: 战略与国际研究中心
+      en: Center for Strategic and International Studies
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国智库
+    ids:
+      wikidata: Q1053614
+    links:
+      - https://en.wikipedia.org/wiki/Center_for_Strategic_and_International_Studies
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1053614
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: central-china-normal-university
+    type: org
+    name: 华中师范大学
+    names:
+      zh: 华中师范大学
+      en: Central China Normal University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于中国武汉市的一所综合性大学
+    ids:
+      wikidata: Q1397589
+    links:
+      - https://en.wikipedia.org/wiki/Central_China_Normal_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1397589
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: central-connecticut-state-university
+    type: org
+    name: Central Connecticut State University
+    names:
+      zh: 康州州立大學
+      en: Central Connecticut State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university in New Britain, Connecticut
+    ids:
+      wikidata: Q1053764
+    links:
+      - https://en.wikipedia.org/wiki/Central_Connecticut_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1053764
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: central-european-media-enterprises
+    type: org
+    name: Central European Media Enterprises
+    names:
+      en: Central European Media Enterprises
+    orgType: company
+    country:
+      - BM
+    sectors:
+      - business
+    tier: 4
+    summary: media and entertainment company
+    ids:
+      wikidata: Q1053787
+    links:
+      - https://en.wikipedia.org/wiki/Central_European_Media_Enterprises
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1053787
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: central-european-university
+    type: org
+    name: Central European University
+    names:
+      zh: 中欧大学
+      en: Central European University
+    orgType: university
+    country:
+      - AT
+    sectors:
+      - academia
+    tier: 2
+    summary: 人文社科研究型大学
+    ids:
+      wikidata: Q757391
+    links:
+      - https://en.wikipedia.org/wiki/Central_European_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q757391
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: central-financial-commission
+    type: org
+    name: 中央金融委员会
+    names:
+      zh: 中央金融委员会
+      en: Central Financial Commission
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中共中央决策议事协调机构
+    ids:
+      wikidata: Q117192775
+    links:
+      - https://en.wikipedia.org/wiki/Central_Financial_Commission
+    sources:
+      - url: https://www.wikidata.org/wiki/Q117192775
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: central-guidance-commission-on-building-spiritual-civilization
+    type: org
+    name: 中央精神文明建设指导委员会
+    names:
+      zh: 中央精神文明建设指导委员会
+      en: Central Guidance Commission on Building Spiritual Civilization
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中共中央已撤销的全国意识形态指导管控机构
+    ids:
+      wikidata: Q5061149
+    links:
+      - https://en.wikipedia.org/wiki/Central_Guidance_Commission_on_Building_Spiritual_Civilization
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5061149
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: central-high-school
+    type: org
+    name: Central High School
+    names:
+      zh: 中央高中
+      en: Central High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Tulsa, Oklahoma, United States
+    ids:
+      wikidata: Q5061205
+    links:
+      - https://en.wikipedia.org/wiki/Central_High_School_(Tulsa%2C_Oklahoma)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5061205
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: central-intelligence-agency
+    type: org
+    name: Central Intelligence Agency
+    names:
+      zh: 中央情报局
+      en: Central Intelligence Agency
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國情報機構
+    ids:
+      wikidata: Q37230
+    links:
+      - https://en.wikipedia.org/wiki/Central_Intelligence_Agency
+    sources:
+      - url: https://www.wikidata.org/wiki/Q37230
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: central-michigan-university
+    type: org
+    name: Central Michigan University
+    names:
+      zh: 中密歇根大学
+      en: Central Michigan University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: public research university in Mount Pleasant, Michigan, United States
+    ids:
+      wikidata: Q250205
+    links:
+      - https://en.wikipedia.org/wiki/Central_Michigan_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q250205
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: central-military-commission-of-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国中央军事委员会
+    names:
+      zh: 中华人民共和国中央军事委员会
+      en: Central Military Commission of People's Republic of China
+    orgType: government
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 4
+    summary: 中华人民共和国最高军事机关
+    ids:
+      wikidata: Q20791794
+    links:
+      - https://en.wikipedia.org/wiki/Central_Military_Commission_of_the_People's_Republic_of_China
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20791794
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: central-military-commission-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党中央军事委员会
+    names:
+      zh: 中国共产党中央军事委员会
+      en: Central Military Commission of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国共产党最高军事机关
+    ids:
+      wikidata: Q1067152
+    links:
+      - https://en.wikipedia.org/wiki/Central_Military_Commission_of_the_Communist_Party_of_China
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1067152
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: central-party-school
+    type: org
+    name: 中共中央党校
+    names:
+      zh: 中共中央党校
+      en: Central Party School
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 正部级中共中央直属事业单位，中共中央培训党干部的最高学府
+    ids:
+      wikidata: Q190343
+    links:
+      - https://en.wikipedia.org/wiki/Central_Party_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q190343
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: central-south-university
+    type: org
+    name: 中南大学
+    names:
+      zh: 中南大学
+      en: Central South University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于湖南省长沙市的一所公立综合性大学
+    ids:
+      wikidata: Q5061828
+    links:
+      - https://en.wikipedia.org/wiki/Central_South_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5061828
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: central-university-of-finance-and-economics
+    type: org
+    name: 中央财经大学
+    names:
+      zh: 中央财经大学
+      en: Central University of Finance and Economics
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中华人民共和国北京市的大学
+    ids:
+      wikidata: Q5061957
+    links:
+      - https://en.wikipedia.org/wiki/Central_University_of_Finance_and_Economics
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5061957
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cerberus-capital-management
+    type: org
+    name: Cerberus Capital Management
+    names:
+      zh: 博龙资产管理有限公司
+      en: Cerberus Capital Management
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: U.S. investment management company
+    ids:
+      wikidata: Q289362
+    links:
+      - https://en.wikipedia.org/wiki/Cerberus_Capital_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q289362
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cesar-pelli-and-associates
+    type: org
+    name: Cesar Pelli & Associates
+    names:
+      en: Cesar Pelli & Associates
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: architectural firm
+    ids:
+      wikidata: Q133730802
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q133730802
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chaminade-college-preparatory-school
+    type: org
+    name: Chaminade College Preparatory School
+    names:
+      zh: 查米纳德大學预备学校
+      en: Chaminade College Preparatory School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private, all-boys school in Creve Coeur, Missouri, United States
+    ids:
+      wikidata: Q5069793
+    links:
+      - https://en.wikipedia.org/wiki/Chaminade_College_Preparatory_School_(Missouri)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5069793
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chaminade-university-of-honolulu
+    type: org
+    name: Chaminade University of Honolulu
+    names:
+      zh: 檀香山夏曼納德大學
+      en: Chaminade University of Honolulu
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: Marianist university in Hawaii, U.S.
+    ids:
+      wikidata: Q1725405
+    links:
+      - https://en.wikipedia.org/wiki/Chaminade_University_of_Honolulu
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1725405
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chan-zuckerberg-initiative
+    type: org
+    name: Chan Zuckerberg Initiative
+    names:
+      zh: 陳·祖克柏倡議
+      en: Chan Zuckerberg Initiative
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: company founded by Marc Zuckerberg and Priscilla Chan
+    ids:
+      wikidata: Q21623039
+    links:
+      - https://en.wikipedia.org/wiki/Chan_Zuckerberg_Initiative
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21623039
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chang-an-university
+    type: org
+    name: 长安大学
+    names:
+      zh: 长安大学
+      en: Chang'an University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于中国陕西省西安市的大学
+    ids:
+      wikidata: Q5071561
+    links:
+      - https://en.wikipedia.org/wiki/Chang'an_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5071561
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chapin-school
+    type: org
+    name: Chapin School
+    names:
+      zh: 沙潘學校
+      en: Chapin School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: all-girls independent day school in Manhattan, New York, United States
+    ids:
+      wikidata: Q5073177
+    links:
+      - https://en.wikipedia.org/wiki/Chapin_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5073177
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: charles-and-lynn-schusterman-family-philanthropies
+    type: org
+    name: Charles and Lynn Schusterman Family Philanthropies
+    names:
+      en: Charles and Lynn Schusterman Family Philanthropies
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Philanthropic organization focused on pursuing more just and inclusive societies.
+    ids:
+      wikidata: Q110287206
+    links:
+      - https://en.wikipedia.org/wiki/Charles_and_Lynn_Schusterman_Family_Philanthropies
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110287206
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: charles-koch-foundation
+    type: org
+    name: Charles Koch Foundation
+    names:
+      en: Charles Koch Foundation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: nonprofit organization in Arlington, United States
+    ids:
+      wikidata: Q30271264
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30271264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: charles-koch-institute
+    type: org
+    name: Charles Koch Institute
+    names:
+      en: Charles Koch Institute
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: libertarian-oriented public policy research organization
+    ids:
+      wikidata: Q26234446
+    links:
+      - https://en.wikipedia.org/wiki/Stand_Together_Fellowship
+    sources:
+      - url: https://www.wikidata.org/wiki/Q26234446
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: charles-schwab-corporation
+    type: org
+    name: Charles Schwab Corporation
+    names:
+      zh: 嘉信理財集團
+      en: Charles Schwab Corporation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American financial services company
+    ids:
+      wikidata: Q1066028
+    links:
+      - https://en.wikipedia.org/wiki/Charles_Schwab_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1066028
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: charlotte-fc
+    type: org
+    name: Charlotte FC
+    names:
+      zh: FC夏洛特
+      en: Charlotte FC
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國足球會
+    ids:
+      wikidata: Q78944434
+    links:
+      - https://en.wikipedia.org/wiki/Charlotte_FC
+    sources:
+      - url: https://www.wikidata.org/wiki/Q78944434
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: charlotte-hornets
+    type: org
+    name: Charlotte Hornets
+    names:
+      zh: 夏洛特黄蜂
+      en: Charlotte Hornets
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國職業籃球隊
+    ids:
+      wikidata: Q163480
+    links:
+      - https://en.wikipedia.org/wiki/Charlotte_Hornets
+    sources:
+      - url: https://www.wikidata.org/wiki/Q163480
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: charter-communications
+    type: org
+    name: Charter Communications
+    names:
+      zh: Charter有线电视
+      en: Charter Communications
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American cable services provider
+    ids:
+      wikidata: Q2961234
+    links:
+      - https://en.wikipedia.org/wiki/Charter_Communications
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2961234
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chelsea-f-c
+    type: org
+    name: Chelsea F.C.
+    names:
+      zh: 切尔西足球俱乐部
+      en: Chelsea F.C.
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 2
+    summary: 英格蘭足球俱樂部
+    ids:
+      wikidata: Q9616
+    links:
+      - https://en.wikipedia.org/wiki/Chelsea_F.C.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9616
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cheung-kong-graduate-school-of-business
+    type: org
+    name: 长江商学院
+    names:
+      zh: 长江商学院
+      en: Cheung Kong Graduate School of Business
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国北京民办商学院
+    ids:
+      wikidata: Q673841
+    links:
+      - https://en.wikipedia.org/wiki/Cheung_Kong_Graduate_School_of_Business
+    sources:
+      - url: https://www.wikidata.org/wiki/Q673841
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cheung-kong-holdings
+    type: org
+    name: 长江实业
+    names:
+      zh: 长江实业
+      en: Cheung Kong Holdings
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 長江和記實業的附屬公司
+    ids:
+      wikidata: Q709535
+    links:
+      - https://en.wikipedia.org/wiki/Cheung_Kong_Holdings
+    sources:
+      - url: https://www.wikidata.org/wiki/Q709535
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chia
+    type: org
+    name: Chia
+    names:
+      zh: Chia
+      en: Chia
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: blockchain-based cryptocurrency using proof-of-space-time
+    ids:
+      wikidata: Q105508272
+    links:
+      - https://en.wikipedia.org/wiki/Chia_(cryptocurrency)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105508272
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chia-network
+    type: org
+    name: Chia Network
+    names:
+      en: Chia Network
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: blockchain company
+    ids:
+      wikidata: Q63425822
+    links:
+      - https://en.wikipedia.org/wiki/Chia_Network
+    sources:
+      - url: https://www.wikidata.org/wiki/Q63425822
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chicago-cubs
+    type: org
+    name: Chicago Cubs
+    names:
+      zh: 芝加哥小熊
+      en: Chicago Cubs
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國職業棒球隊
+    ids:
+      wikidata: Q246782
+    links:
+      - https://en.wikipedia.org/wiki/Chicago_Cubs
+    sources:
+      - url: https://www.wikidata.org/wiki/Q246782
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chicago-fire-fc
+    type: org
+    name: Chicago Fire FC
+    names:
+      zh: 芝加哥火焰
+      en: Chicago Fire FC
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: soccer club in Chicago, Illinois, USA
+    ids:
+      wikidata: Q308683
+    links:
+      - https://en.wikipedia.org/wiki/Chicago_Fire_FC
+    sources:
+      - url: https://www.wikidata.org/wiki/Q308683
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chicago-state-university
+    type: org
+    name: Chicago State University
+    names:
+      zh: 芝加哥州立大學
+      en: Chicago State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university
+    ids:
+      wikidata: Q915866
+    links:
+      - https://en.wikipedia.org/wiki/Chicago_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q915866
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chief-oil-and-gas
+    type: org
+    name: Chief Oil & Gas
+    names:
+      en: Chief Oil & Gas
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: US hydrocarbon exploration company
+    ids:
+      wikidata: Q5096873
+    links:
+      - https://en.wikipedia.org/wiki/Chief_Oil_%26_Gas
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5096873
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: china-agricultural-university
+    type: org
+    name: 中国农业大学
+    names:
+      zh: 中国农业大学
+      en: China Agricultural University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国北京公立大学
+    ids:
+      wikidata: Q257655
+    links:
+      - https://en.wikipedia.org/wiki/China_Agricultural_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q257655
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: china-association-for-international-friendly-contact
+    type: org
+    name: 中國國際友好聯絡會
+    names:
+      zh: 中國國際友好聯絡會
+      en: China Association for International Friendly Contact
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: Foreign intelligence and influence organization of the People's Republic of China
+    ids:
+      wikidata: Q85850345
+    links:
+      - https://en.wikipedia.org/wiki/China_Association_for_International_Friendly_Contact
+    sources:
+      - url: https://www.wikidata.org/wiki/Q85850345
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: china-europe-international-business-school
+    type: org
+    name: 中欧国际工商学院
+    names:
+      zh: 中欧国际工商学院
+      en: China Europe International Business School
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 商學院
+    ids:
+      wikidata: Q1073268
+    links:
+      - https://en.wikipedia.org/wiki/China_Europe_International_Business_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1073268
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: china-foreign-affairs-university
+    type: org
+    name: 外交学院
+    names:
+      zh: 外交学院
+      en: China Foreign Affairs University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国北京市大学
+    ids:
+      wikidata: Q2492920
+    links:
+      - https://en.wikipedia.org/wiki/China_Foreign_Affairs_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2492920
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: china-internet-plus
+    type: org
+    name: China Internet Plus
+    names:
+      en: China Internet Plus
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: private company
+    ids:
+      wikidata: Q97486418
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97486418
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: china-media-group
+    type: org
+    name: 中央广播电视总台
+    names:
+      zh: 中央广播电视总台
+      en: China Media Group
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中華人民共和國的國營廣播電視媒體
+    ids:
+      wikidata: Q51675998
+    links:
+      - https://en.wikipedia.org/wiki/China_Media_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q51675998
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: china-national-petroleum-corporation
+    type: org
+    name: 中国石油天然气集团有限公司
+    names:
+      zh: 中国石油天然气集团有限公司
+      en: China National Petroleum Corporation
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 1998年在中国石油天然气总公司的基础上组建的中央企业
+    ids:
+      wikidata: Q588786
+    links:
+      - https://en.wikipedia.org/wiki/China_National_Petroleum_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q588786
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: china-population-association
+    type: org
+    name: 中国人口学会
+    names:
+      zh: 中国人口学会
+      en: China Population Association
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: learned society in China
+    ids:
+      wikidata: Q109343238
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q109343238
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: china-tang
+    type: org
+    name: China Tang
+    names:
+      en: China Tang
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 4
+    summary: Chinese restaurant located at 53 Park Lane in London
+    ids:
+      wikidata: Q14955148
+    links:
+      - https://en.wikipedia.org/wiki/China_Tang
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14955148
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: china-united-states-exchange-foundation
+    type: org
+    name: China–United States Exchange Foundation
+    names:
+      en: China–United States Exchange Foundation
+    orgType: ngo
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: Hong Kong-based lobbying organization
+    ids:
+      wikidata: Q104858006
+    links:
+      - https://en.wikipedia.org/wiki/China-United_States_Exchange_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104858006
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: china-university-of-geosciences
+    type: org
+    name: 中国地质大学
+    names:
+      zh: 中国地质大学
+      en: China University of Geosciences
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 高等教育机构
+    ids:
+      wikidata: Q1074097
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1074097
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: china-university-of-petroleum
+    type: org
+    name: 中国石油大学（北京）
+    names:
+      zh: 中国石油大学（北京）
+      en: China University of Petroleum (Beijing)
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 北京昌平一所高校
+    ids:
+      wikidata: Q3274786
+    links:
+      - https://en.wikipedia.org/wiki/China_University_of_Petroleum_(Beijing)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3274786
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: china-university-of-political-science-and-law
+    type: org
+    name: 中国政法大学
+    names:
+      zh: 中国政法大学
+      en: China University of Political Science and Law
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于北京的政法类大学
+    ids:
+      wikidata: Q833961
+    links:
+      - https://en.wikipedia.org/wiki/China_University_of_Political_Science_and_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q833961
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: china-writers-association
+    type: org
+    name: 中国作家协会
+    names:
+      zh: 中国作家协会
+      en: China Writers Association
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 作家团体
+    ids:
+      wikidata: Q3371163
+    links:
+      - https://en.wikipedia.org/wiki/China_Writers_Association
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3371163
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chinese-academy-of-sciences
+    type: org
+    name: 中国科学院
+    names:
+      zh: 中国科学院
+      en: Chinese Academy of Sciences
+    orgType: fund
+    country:
+      - CN
+    sectors:
+      - finance
+    tier: 3
+    summary: 中華人民共和國最高科研機構
+    ids:
+      wikidata: Q530471
+    links:
+      - https://en.wikipedia.org/wiki/Chinese_Academy_of_Sciences
+    sources:
+      - url: https://www.wikidata.org/wiki/Q530471
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chinese-academy-of-social-sciences
+    type: org
+    name: 中国社会科学院
+    names:
+      zh: 中国社会科学院
+      en: Chinese Academy of Social Sciences
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 中华人民共和国国务院正部级直属事业单位
+    ids:
+      wikidata: Q1073828
+    links:
+      - https://en.wikipedia.org/wiki/Chinese_Academy_of_Social_Sciences
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1073828
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chinese-people-s-political-consultative-conference
+    type: org
+    name: 中国人民政治协商会议
+    names:
+      zh: 中国人民政治协商会议
+      en: Chinese People's Political Consultative Conference
+    orgType: legislature
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国共产党领导的统一战线组织
+    ids:
+      wikidata: Q19215
+    links:
+      - https://en.wikipedia.org/wiki/Chinese_People's_Political_Consultative_Conference
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19215
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: choate-rosemary-hall
+    type: org
+    name: Choate Rosemary Hall
+    names:
+      zh: 乔特罗斯玛丽中学
+      en: Choate Rosemary Hall
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private, college-preparatory, coeducational, boarding school
+    ids:
+      wikidata: Q5103452
+    links:
+      - https://en.wikipedia.org/wiki/Choate_Rosemary_Hall
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5103452
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chongqing-gang-trials
+    type: org
+    name: 重庆打黑除恶专项行动
+    names:
+      zh: 重庆打黑除恶专项行动
+      en: Chongqing gang trials
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 薄熙来及王立军主导的行动
+    ids:
+      wikidata: Q5104680
+    links:
+      - https://en.wikipedia.org/wiki/Chongqing_gang_trials
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5104680
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chongqing-municipal-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党重庆市委员会
+    names:
+      zh: 中国共产党重庆市委员会
+      en: Chongqing Municipal Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中國共產黨在重慶市的領導機關
+    ids:
+      wikidata: Q10873269
+    links:
+      - https://en.wikipedia.org/wiki/Chongqing_Municipal_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873269
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chongqing-university
+    type: org
+    name: 重庆大学
+    names:
+      zh: 重庆大学
+      en: Chongqing University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国重庆市的研究型大学
+    ids:
+      wikidata: Q834857
+    links:
+      - https://en.wikipedia.org/wiki/Chongqing_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q834857
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: christ-church
+    type: org
+    name: Christ Church
+    names:
+      zh: 牛津大学基督堂学院
+      en: Christ Church
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 3
+    summary: 1546年创建的一所学校
+    ids:
+      wikidata: Q745967
+    links:
+      - https://en.wikipedia.org/wiki/Christ_Church%2C_Oxford
+    sources:
+      - url: https://www.wikidata.org/wiki/Q745967
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: christian-broadcasting-network
+    type: org
+    name: Christian Broadcasting Network
+    names:
+      zh: 视博恩
+      en: Christian Broadcasting Network
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国基督教福音组织
+    ids:
+      wikidata: Q1079074
+    links:
+      - https://en.wikipedia.org/wiki/Christian_Broadcasting_Network
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1079074
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: christian-coalition-of-america
+    type: org
+    name: Christian Coalition of America
+    names:
+      zh: 美国基督徒联盟
+      en: Christian Coalition of America
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: organization
+    ids:
+      wikidata: Q1079206
+    links:
+      - https://en.wikipedia.org/wiki/Christian_Coalition_of_America
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1079206
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chuck-e-cheese
+    type: org
+    name: Chuck E. Cheese
+    names:
+      zh: 出奇老鼠
+      en: Chuck E. Cheese
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American pizza restaurant chain
+    ids:
+      wikidata: Q2438391
+    links:
+      - https://en.wikipedia.org/wiki/Chuck_E._Cheese
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2438391
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: chuckwalla-national-monument
+    type: org
+    name: Chuckwalla National Monument
+    names:
+      zh: 黑叩壁蜥國家名勝
+      en: Chuckwalla National Monument
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: announced U.S. national monument in California
+    ids:
+      wikidata: Q125745870
+    links:
+      - https://en.wikipedia.org/wiki/Chuckwalla_National_Monument
+    sources:
+      - url: https://www.wikidata.org/wiki/Q125745870
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cic-digital-llc
+    type: org
+    name: CIC Digital LLC
+    names:
+      en: CIC Digital LLC
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American corporation
+    ids:
+      wikidata: Q131832255
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q131832255
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cincinnati-bengals
+    type: org
+    name: Cincinnati Bengals
+    names:
+      zh: 辛辛那提孟加拉虎
+      en: Cincinnati Bengals
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: National Football League franchise in Cincinnati, Ohio
+    ids:
+      wikidata: Q223511
+    links:
+      - https://en.wikipedia.org/wiki/Cincinnati_Bengals
+    sources:
+      - url: https://www.wikidata.org/wiki/Q223511
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cincinnati-city-council
+    type: org
+    name: Cincinnati City Council
+    names:
+      en: Cincinnati City Council
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lawmaking body of Cincinnati, Ohio, United States
+    ids:
+      wikidata: Q5123133
+    links:
+      - https://en.wikipedia.org/wiki/Cincinnati_City_Council
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5123133
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: circle-7-animation
+    type: org
+    name: Circle 7 Animation
+    names:
+      zh: 7号马戏团制作公司
+      en: Circle 7 Animation
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國動畫工作室
+    ids:
+      wikidata: Q2973320
+    links:
+      - https://en.wikipedia.org/wiki/Circle_Seven_Animation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2973320
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cisco
+    type: org
+    name: Cisco
+    names:
+      zh: 思科系统
+      en: Cisco
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國跨國科技公司
+    ids:
+      wikidata: Q173395
+    links:
+      - https://en.wikipedia.org/wiki/Cisco
+    sources:
+      - url: https://www.wikidata.org/wiki/Q173395
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: citadel
+    type: org
+    name: Citadel LLC
+    names:
+      zh: 城堡有限責任公司
+      en: Citadel LLC
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American hedge fund and financial services provider
+    ids:
+      wikidata: Q2974366
+    links:
+      - https://en.wikipedia.org/wiki/Citadel_LLC
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2974366
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: citadel-securities
+    type: org
+    name: Citadel Securities
+    names:
+      en: Citadel Securities
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American capital markets firm
+    ids:
+      wikidata: Q93355369
+    links:
+      - https://en.wikipedia.org/wiki/Citadel_Securities
+    sources:
+      - url: https://www.wikidata.org/wiki/Q93355369
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: citibank
+    type: org
+    name: Citibank
+    names:
+      zh: 花旗银行
+      en: Citibank
+    orgType: bank
+    country:
+      - US
+    sectors:
+      - finance
+    tier: 3
+    summary: 美国的一家银行
+    ids:
+      wikidata: Q857063
+    links:
+      - https://en.wikipedia.org/wiki/Citibank
+    sources:
+      - url: https://www.wikidata.org/wiki/Q857063
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: citigroup
+    type: org
+    name: Citigroup
+    names:
+      zh: 花旗集团
+      en: Citigroup
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 總部位於美國紐約的金融投資集團
+    ids:
+      wikidata: Q219508
+    links:
+      - https://en.wikipedia.org/wiki/Citigroup
+    sources:
+      - url: https://www.wikidata.org/wiki/Q219508
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: citizendium
+    type: org
+    name: Citizendium
+    names:
+      zh: 大众百科
+      en: Citizendium
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 网络百科全书
+    ids:
+      wikidata: Q187801
+    links:
+      - https://en.wikipedia.org/wiki/Citizendium
+    sources:
+      - url: https://www.wikidata.org/wiki/Q187801
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: city-and-county-of-san-francisco
+    type: org
+    name: City and County of San Francisco
+    names:
+      zh: 舊金山政府
+      en: City and County of San Francisco
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the consolidated city–county of San Francisco, California, United States
+    ids:
+      wikidata: Q5413764
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_San_Francisco
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5413764
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: city-college-of-new-york
+    type: org
+    name: City College of New York
+    names:
+      zh: 纽约市立学院
+      en: City College of New York
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: senior college of the City University of New York
+    ids:
+      wikidata: Q1093910
+    links:
+      - https://en.wikipedia.org/wiki/City_College_of_New_York
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1093910
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: city-council
+    type: org
+    name: city council
+    names:
+      zh: 市议会
+      en: city council
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: legislative body that governs a city, municipality or local government area
+    ids:
+      wikidata: Q3154693
+    links:
+      - https://en.wikipedia.org/wiki/Stadtrat
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3154693
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: city-of-chicago
+    type: org
+    name: City of Chicago
+    names:
+      zh: 芝加哥政府
+      en: City of Chicago
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: municipal government of Chicago, Illinois, United States
+    ids:
+      wikidata: Q3112539
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Chicago
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3112539
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: city-of-new-york
+    type: org
+    name: City of New York
+    names:
+      zh: 紐約市政府
+      en: City of New York
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: municipal government of New York City, New York, United States
+    ids:
+      wikidata: Q3112559
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_New_York_City
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3112559
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: city-of-oakland
+    type: org
+    name: City of Oakland
+    names:
+      en: City of Oakland
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: municipal government of Oakland, California, United States
+    ids:
+      wikidata: Q125553175
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q125553175
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: city-of-san-jose
+    type: org
+    name: City of San José
+    names:
+      en: City of San José
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: municipal government of San Jose, California, United States
+    ids:
+      wikidata: Q60788603
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_San_Jose%2C_California
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60788603
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: city-university-of-new-york
+    type: org
+    name: City University of New York
+    names:
+      zh: 纽约市立大学
+      en: City University of New York
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国纽约市的公立大学系统
+    ids:
+      wikidata: Q762266
+    links:
+      - https://en.wikipedia.org/wiki/City_University_of_New_York
+    sources:
+      - url: https://www.wikidata.org/wiki/Q762266
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: civil-aviation-administration-of-china
+    type: org
+    name: 中国民用航空局
+    names:
+      zh: 中国民用航空局
+      en: Civil Aviation Administration of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 中华人民共和国交通运输部管理的国家局
+    ids:
+      wikidata: Q1329619
+    links:
+      - https://en.wikipedia.org/wiki/Civil_Aviation_Administration_of_China
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1329619
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: civil-aviation-university-of-china
+    type: org
+    name: 中国民航大学
+    names:
+      zh: 中国民航大学
+      en: Civil Aviation University of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 位于天津的一所大学
+    ids:
+      wikidata: Q3133583
+    links:
+      - https://en.wikipedia.org/wiki/Civil_Aviation_University_of_China
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3133583
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ck-hutchison
+    type: org
+    name: 长江和记实业
+    names:
+      zh: 长江和记实业
+      en: CK Hutchison Holdings
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 香港上市公司
+    ids:
+      wikidata: Q19548352
+    links:
+      - https://en.wikipedia.org/wiki/CK_Hutchison_Holdings
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19548352
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: claremont-graduate-university
+    type: org
+    name: Claremont Graduate University
+    names:
+      zh: 克莱蒙研究大学
+      en: Claremont Graduate University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university located in Claremont, California, United States
+    ids:
+      wikidata: Q50015
+    links:
+      - https://en.wikipedia.org/wiki/Claremont_Graduate_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50015
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: claremont-mckenna-college
+    type: org
+    name: Claremont McKenna College
+    names:
+      zh: 克莱尔蒙特麦克纳学院
+      en: Claremont McKenna College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 加州克萊蒙特的保守派文理學院，課程重點是經濟學，金融學和公共事務
+    ids:
+      wikidata: Q5126318
+    links:
+      - https://en.wikipedia.org/wiki/Claremont_McKenna_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5126318
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: clarity-media-group
+    type: org
+    name: Clarity Media Group
+    names:
+      en: Clarity Media Group
+    orgType: media
+    country:
+      - US
+    sectors:
+      - media
+    tier: 4
+    summary: media company
+    ids:
+      wikidata: Q116814157
+    links:
+      - https://en.wikipedia.org/wiki/Clarity_Media_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116814157
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: clarium-capital
+    type: org
+    name: Clarium Capital
+    names:
+      en: Clarium Capital
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American investment management and hedge fund company
+    ids:
+      wikidata: Q5127098
+    links:
+      - https://en.wikipedia.org/wiki/Clarium_Capital
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5127098
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: clark-atlanta-university
+    type: org
+    name: Clark Atlanta University
+    names:
+      zh: 亚特兰大大学
+      en: Clark Atlanta University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university in Atlanta, Georgia, United States
+    ids:
+      wikidata: Q4572296
+    links:
+      - https://en.wikipedia.org/wiki/Clark_Atlanta_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4572296
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: clarkson-university
+    type: org
+    name: Clarkson University
+    names:
+      zh: 克拉克森大學
+      en: Clarkson University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private research university with its main campus in Potsdam, New York, United States
+    ids:
+      wikidata: Q931865
+    links:
+      - https://en.wikipedia.org/wiki/Clarkson_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q931865
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: claws-foundation
+    type: org
+    name: CLAWS Foundation
+    names:
+      en: CLAWS Foundation
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: nonprofit organization
+    ids:
+      wikidata: Q135695813
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q135695813
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: clemson-university
+    type: org
+    name: Clemson University
+    names:
+      zh: 克莱门森大学
+      en: Clemson University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国大学
+    ids:
+      wikidata: Q631066
+    links:
+      - https://en.wikipedia.org/wiki/Clemson_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q631066
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cleveland-browns
+    type: org
+    name: Cleveland Browns
+    names:
+      zh: 克里夫兰布朗
+      en: Cleveland Browns
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国橄榄球队
+    ids:
+      wikidata: Q223527
+    links:
+      - https://en.wikipedia.org/wiki/Cleveland_Browns
+    sources:
+      - url: https://www.wikidata.org/wiki/Q223527
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cleveland-cavaliers
+    type: org
+    name: Cleveland Cavaliers
+    names:
+      zh: 克里夫兰骑士
+      en: Cleveland Cavaliers
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國職業籃球隊
+    ids:
+      wikidata: Q162990
+    links:
+      - https://en.wikipedia.org/wiki/Cleveland_Cavaliers
+    sources:
+      - url: https://www.wikidata.org/wiki/Q162990
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cleveland-high-school
+    type: org
+    name: Cleveland High School
+    names:
+      en: Cleveland High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Oregon, United States
+    ids:
+      wikidata: Q5132154
+    links:
+      - https://en.wikipedia.org/wiki/Cleveland_High_School_(Portland%2C_Oregon)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5132154
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cleveland-sirens
+    type: org
+    name: Cleveland Sirens
+    names:
+      zh: 克里夫蘭海妖
+      en: Cleveland Sirens
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: planned professional women's basketball team in Ohio, United States
+    ids:
+      wikidata: Q135195444
+    links:
+      - https://en.wikipedia.org/wiki/Cleveland_Sirens
+    sources:
+      - url: https://www.wikidata.org/wiki/Q135195444
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: climate-reality-project
+    type: org
+    name: Climate Reality Project
+    names:
+      zh: 气候保护同盟
+      en: Climate Reality Project
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: organization
+    ids:
+      wikidata: Q5133444
+    links:
+      - https://en.wikipedia.org/wiki/The_Climate_Reality_Project
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5133444
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: climate-solutions-caucus
+    type: org
+    name: Climate Solutions Caucus
+    names:
+      en: Climate Solutions Caucus
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: bipartisan caucus of U.S. legislators addressing issues related to climate change
+    ids:
+      wikidata: Q30595868
+    links:
+      - https://en.wikipedia.org/wiki/Climate_Solutions_Caucus
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30595868
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: clinton-bush-haiti-fund
+    type: org
+    name: Clinton Bush Haiti Fund
+    names:
+      en: Clinton Bush Haiti Fund
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Founded by former US Presidents Bill Clinton and George W. Bush, to aid the victims of the 2010 Haiti earthquak
+    ids:
+      wikidata: Q5134079
+    links:
+      - https://en.wikipedia.org/wiki/Clinton_Bush_Haiti_Fund
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5134079
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: clinton-foundation
+    type: org
+    name: Clinton Foundation
+    names:
+      zh: 克林顿基金会
+      en: Clinton Foundation
+    orgType: foundation
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國非盈利組織
+    ids:
+      wikidata: Q1974620
+    links:
+      - https://en.wikipedia.org/wiki/Clinton_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1974620
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: closer-media
+    type: org
+    name: Closer Media
+    names:
+      en: Closer Media
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American film production company
+    ids:
+      wikidata: Q133093594
+    links:
+      - https://en.wikipedia.org/wiki/Closer_Media
+    sources:
+      - url: https://www.wikidata.org/wiki/Q133093594
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cloudflare
+    type: org
+    name: Cloudflare
+    names:
+      en: Cloudflare
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 總部位於美國加州舊金山的跨國資訊科技企業
+    ids:
+      wikidata: Q4778915
+    links:
+      - https://en.wikipedia.org/wiki/Cloudflare
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4778915
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cloudkitchens
+    type: org
+    name: CloudKitchens
+    names:
+      en: CloudKitchens
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: ghost kitchen and virtual restaurant company
+    ids:
+      wikidata: Q107261197
+    links:
+      - https://en.wikipedia.org/wiki/CloudKitchens
+    sources:
+      - url: https://www.wikidata.org/wiki/Q107261197
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: club
+    type: org
+    name: club
+    names:
+      zh: 俱乐部
+      en: club
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 以共同利益或目標團結的人民協會
+    ids:
+      wikidata: Q988108
+    links:
+      - https://en.wikipedia.org/wiki/Club_(organization)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q988108
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cnn
+    type: org
+    name: CNN
+    names:
+      zh: 有线电视新闻网
+      en: CNN
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國新聞電視頻道
+    ids:
+      wikidata: Q48340
+    links:
+      - https://en.wikipedia.org/wiki/CNN
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48340
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: coal-caucus
+    type: org
+    name: Coal Caucus
+    names:
+      en: Coal Caucus
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: US congressional caucus regarding coal
+    ids:
+      wikidata: Q83693499
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q83693499
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: codex-leicester
+    type: org
+    name: Codex Leicester
+    names:
+      zh: 萊斯特手稿
+      en: Codex Leicester
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: scientific manuscript by Leonardo da Vinci
+    ids:
+      wikidata: Q683814
+    links:
+      - https://en.wikipedia.org/wiki/Codex_Leicester
+    sources:
+      - url: https://www.wikidata.org/wiki/Q683814
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: coefficient-giving
+    type: org
+    name: Coefficient Giving
+    names:
+      zh: 開放慈善計畫
+      en: Coefficient Giving
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American grantmaking foundation
+    ids:
+      wikidata: Q25345685
+    links:
+      - https://en.wikipedia.org/wiki/Coefficient_Giving
+    sources:
+      - url: https://www.wikidata.org/wiki/Q25345685
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cohmad-securities
+    type: org
+    name: Cohmad Securities
+    names:
+      en: Cohmad Securities
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    ids:
+      wikidata: Q5141372
+    links:
+      - https://en.wikipedia.org/wiki/Cohmad_Securities
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5141372
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: coinbase
+    type: org
+    name: Coinbase
+    names:
+      zh: Coinbase
+      en: Coinbase
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American company that operates a cryptocurrency exchange platform
+    ids:
+      wikidata: Q16972754
+    links:
+      - https://en.wikipedia.org/wiki/Coinbase
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16972754
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: colby-college
+    type: org
+    name: Colby College
+    names:
+      zh: 寇比學院
+      en: Colby College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国缅因州私立文理学院
+    ids:
+      wikidata: Q1075116
+    links:
+      - https://en.wikipedia.org/wiki/Colby_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1075116
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: colfax-corporation
+    type: org
+    name: Colfax Corporation
+    names:
+      en: Colfax Corporation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: organization
+    ids:
+      wikidata: Q2579502
+    links:
+      - https://en.wikipedia.org/wiki/Enovis
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2579502
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: colgate-university
+    type: org
+    name: Colgate University
+    names:
+      zh: 科尔盖特大学
+      en: Colgate University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国私立文理学院
+    ids:
+      wikidata: Q1191335
+    links:
+      - https://en.wikipedia.org/wiki/Colgate_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1191335
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: collection-of-melinda-and-william-h-gates
+    type: org
+    name: Collection of Melinda and William H. Gates
+    names:
+      en: Collection of Melinda and William H. Gates
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: private collection
+    ids:
+      wikidata: Q131613048
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q131613048
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: collective-leadership
+    type: org
+    name: collective leadership
+    names:
+      zh: 集体领导
+      en: collective leadership
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: 政治运作模式
+    ids:
+      wikidata: Q5146169
+    links:
+      - https://en.wikipedia.org/wiki/Collective_leadership
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5146169
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: college-of-san-mateo
+    type: org
+    name: College of San Mateo
+    names:
+      zh: 圣马特奥学院
+      en: College of San Mateo
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: community college in San Mateo, California, United States
+    ids:
+      wikidata: Q18409139
+    links:
+      - https://en.wikipedia.org/wiki/College_of_San_Mateo
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18409139
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: college-of-the-holy-cross
+    type: org
+    name: College of the Holy Cross
+    names:
+      zh: 聖十字學院
+      en: College of the Holy Cross
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private liberal arts college in Worcester, Massachusetts, U.S.
+    ids:
+      wikidata: Q2620177
+    links:
+      - https://en.wikipedia.org/wiki/College_of_the_Holy_Cross
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2620177
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: college-of-the-sequoias
+    type: org
+    name: College of the Sequoias
+    names:
+      zh: 红杉学院
+      en: College of the Sequoias
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public two-year community college in Visalia, California, USA
+    ids:
+      wikidata: Q5146897
+    links:
+      - https://en.wikipedia.org/wiki/College_of_the_Sequoias
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5146897
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: college-of-william-and-mary
+    type: org
+    name: College of William & Mary
+    names:
+      zh: 威廉与玛丽学院
+      en: College of William & Mary
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國威廉斯堡的公立研究型大學
+    ids:
+      wikidata: Q875637
+    links:
+      - https://en.wikipedia.org/wiki/College_of_William_%26_Mary
+    sources:
+      - url: https://www.wikidata.org/wiki/Q875637
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: collegiate-school
+    type: org
+    name: Collegiate School
+    names:
+      en: Collegiate School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private, preparatory school in Richmond, Virginia, United States
+    ids:
+      wikidata: Q5146979
+    links:
+      - https://en.wikipedia.org/wiki/Collegiate_School_(Richmond%2C_Virginia)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5146979
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: colorado-college
+    type: org
+    name: Colorado College
+    names:
+      zh: 科罗拉多学院
+      en: Colorado College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private liberal arts college in Colorado Springs, Colorado, United States
+    ids:
+      wikidata: Q1111261
+    links:
+      - https://en.wikipedia.org/wiki/Colorado_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1111261
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: colorado-house-of-representatives
+    type: org
+    name: Colorado House of Representatives
+    names:
+      zh: 科罗拉多州众议院
+      en: Colorado House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the state legislature of Colorado, US
+    ids:
+      wikidata: Q1494548
+    links:
+      - https://en.wikipedia.org/wiki/Colorado_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494548
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: colorado-senate
+    type: org
+    name: Colorado Senate
+    names:
+      zh: 科罗拉多州参议院
+      en: Colorado Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of Colorado General Assembly
+    ids:
+      wikidata: Q1494453
+    links:
+      - https://en.wikipedia.org/wiki/Colorado_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494453
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: colorado-state-university
+    type: org
+    name: Colorado State University
+    names:
+      zh: 科罗拉多州立大学
+      en: Colorado State University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: public land-grant research university in Fort Collins, Colorado, United States
+    ids:
+      wikidata: Q1111640
+    links:
+      - https://en.wikipedia.org/wiki/Colorado_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1111640
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: columbia-business-school
+    type: org
+    name: Columbia Business School
+    names:
+      zh: 哥伦比亚商学院
+      en: Columbia Business School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: business school
+    ids:
+      wikidata: Q907481
+    links:
+      - https://en.wikipedia.org/wiki/Columbia_Business_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q907481
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: columbia-graduate-school-of-architecture-planning-and-preservation
+    type: org
+    name: Columbia Graduate School of Architecture, Planning and Preservation
+    names:
+      zh: 哥伦比亚建筑、规划与保护研究生院
+      en: Columbia Graduate School of Architecture, Planning and Preservation
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: architecture school
+    ids:
+      wikidata: Q5149701
+    links:
+      - https://en.wikipedia.org/wiki/Columbia_University_Graduate_School_of_Architecture%2C_Planning_and_Preservation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5149701
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: columbia-law-school
+    type: org
+    name: Columbia Law School
+    names:
+      zh: 哥伦比亚法学院
+      en: Columbia Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 学校
+    ids:
+      wikidata: Q1149089
+    links:
+      - https://en.wikipedia.org/wiki/Columbia_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1149089
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: columbia-university
+    type: org
+    name: Columbia University
+    names:
+      zh: 哥伦比亚大学
+      en: Columbia University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 2
+    summary: 美国纽约的一所私立大学
+    ids:
+      wikidata: Q49088
+    links:
+      - https://en.wikipedia.org/wiki/Columbia_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49088
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: commander
+    type: org
+    name: Commander
+    names:
+      en: Commander
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: pet dog of the Biden family (born 2021)
+    ids:
+      wikidata: Q110238062
+    links:
+      - https://en.wikipedia.org/wiki/Commander_(dog)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110238062
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: commission
+    type: org
+    name: commission
+    names:
+      zh: 委员会
+      en: commission
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: group of appointed persons given a mandate to perform some duty
+    ids:
+      wikidata: Q55657615
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55657615
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: commission-for-art-recovery
+    type: org
+    name: Commission for Art Recovery
+    names:
+      en: Commission for Art Recovery
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: The Commission's principle aim is to lobby European governments for the identification and restitution of Holocaust-era looted art and, if necessary, to bring litigation against any government or institution.
+    ids:
+      wikidata: Q107411100
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q107411100
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: commission-on-legal-empowerment-of-the-poor
+    type: org
+    name: Commission on Legal Empowerment of the Poor
+    names:
+      zh: 贫穷人口法律权益委员会
+      en: Commission on Legal Empowerment of the Poor
+    orgType: ngo
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: UN-backed group promoting legal rights for the poor
+    ids:
+      wikidata: Q5152725
+    links:
+      - https://en.wikipedia.org/wiki/Commission_on_Legal_Empowerment_of_the_Poor
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5152725
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: commission-on-the-measurement-of-economic-performance-and-social-progress
+    type: org
+    name: Commission on the Measurement of Economic Performance and Social Progress
+    names:
+      en: Commission on the Measurement of Economic Performance and Social Progress
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: convened by the French Government
+    ids:
+      wikidata: Q2349395
+    links:
+      - https://en.wikipedia.org/wiki/Commission_on_the_Measurement_of_Economic_Performance_and_Social_Progress
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2349395
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: committee
+    type: org
+    name: committee
+    names:
+      zh: 委员会
+      en: committee
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 組織形式
+    ids:
+      wikidata: Q865588
+    links:
+      - https://en.wikipedia.org/wiki/Committee
+    sources:
+      - url: https://www.wikidata.org/wiki/Q865588
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: committee-for-safeguarding-national-security-of-the-macao-special-administrative
+    type: org
+    name: 澳门特别行政区维护国家安全委员会
+    names:
+      zh: 澳门特别行政区维护国家安全委员会
+      en: Committee for Safeguarding National Security of the Macao Special Administrative Region
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q97348212
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97348212
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: committee-on-the-present-danger-third-iteration
+    type: org
+    name: Committee on the Present Danger - third iteration
+    names:
+      en: Committee on the Present Danger - third iteration
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American advocacy group (2004-2008)
+    ids:
+      wikidata: Q133307172
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q133307172
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: commodore-international
+    type: org
+    name: Commodore International
+    names:
+      zh: Commodore国际
+      en: Commodore International
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 家用电脑与电子元件生产商
+    ids:
+      wikidata: Q208305
+    links:
+      - https://en.wikipedia.org/wiki/Commodore_International
+    sources:
+      - url: https://www.wikidata.org/wiki/Q208305
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: commonwealth-of-kentucky
+    type: org
+    name: Commonwealth of Kentucky
+    names:
+      zh: 肯塔基州政府
+      en: Commonwealth of Kentucky
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Kentucky
+    ids:
+      wikidata: Q53709986
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Kentucky
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53709986
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: commonwealth-of-pennsylvania
+    type: org
+    name: Commonwealth of Pennsylvania
+    names:
+      zh: 賓夕法尼亞州政府
+      en: Commonwealth of Pennsylvania
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Pennsylvania
+    ids:
+      wikidata: Q5589288
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Pennsylvania
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589288
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: commonwealth-of-virginia
+    type: org
+    name: Commonwealth of Virginia
+    names:
+      zh: 弗吉尼亚州政府
+      en: Commonwealth of Virginia
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government of the U.S. state of Virginia
+    ids:
+      wikidata: Q5589334
+    links:
+      - https://en.wikipedia.org/wiki/Government_of_Virginia
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5589334
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: communist-youth-league-of-china
+    type: org
+    name: 中国共产主义青年团
+    names:
+      zh: 中国共产主义青年团
+      en: Communist Youth League of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 中国共产党领导的青年组织
+    ids:
+      wikidata: Q1071253
+    links:
+      - https://en.wikipedia.org/wiki/Communist_Youth_League_of_China
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1071253
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: community-central
+    type: org
+    name: Community Central
+    names:
+      zh: 英語社群中心
+      en: Community Central
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: central wiki of the English-speaking community on Fandom
+    ids:
+      wikidata: Q53576555
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53576555
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: composition
+    type: org
+    name: Composition (Study for "Nude Model in the Studio")
+    names:
+      en: Composition (Study for "Nude Model in the Studio")
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Fernand Léger (MET, 2016.237.17)
+    ids:
+      wikidata: Q83540991
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q83540991
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: composition-2
+    type: org
+    name: Composition (The Typographer)
+    names:
+      en: Composition (The Typographer)
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Fernand Léger (Met)
+    ids:
+      wikidata: Q137723135
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137723135
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: composition-with-large-blue-plane-red-black-yellow-and-gray
+    type: org
+    name: Composition with Large Blue Plane, Red, Black, Yellow, and Gray
+    names:
+      en: Composition with Large Blue Plane, Red, Black, Yellow, and Gray
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Piet Mondrian
+    ids:
+      wikidata: Q18667211
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18667211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: confinity
+    type: org
+    name: Confinity
+    names:
+      en: Confinity
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: former American software company
+    ids:
+      wikidata: Q5160123
+    links:
+      - https://en.wikipedia.org/wiki/Confinity
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5160123
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: congressional-black-caucus
+    type: org
+    name: Congressional Black Caucus
+    names:
+      zh: 国会黑人党团会议
+      en: Congressional Black Caucus
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: caucus comprising most black members of the United States Congress
+    ids:
+      wikidata: Q2015366
+    links:
+      - https://en.wikipedia.org/wiki/Congressional_Black_Caucus
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2015366
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: congressional-friends-of-denmark
+    type: org
+    name: Congressional Friends of Denmark
+    names:
+      en: Congressional Friends of Denmark
+    orgType: other
+    country:
+      - DK
+    sectors:
+      - other
+    tier: 4
+    summary: US congressional caucus
+    ids:
+      wikidata: Q5160936
+    links:
+      - https://en.wikipedia.org/wiki/Congressional_Friends_of_Denmark
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5160936
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: congressional-ukrainian-caucus
+    type: org
+    name: Congressional Ukrainian Caucus
+    names:
+      en: Congressional Ukrainian Caucus
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: political caucus in United States
+    ids:
+      wikidata: Q28231222
+    links:
+      - https://en.wikipedia.org/wiki/Congressional_Ukraine_Caucus
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28231222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: connecticut-house-of-representatives
+    type: org
+    name: Connecticut House of Representatives
+    names:
+      zh: 康涅狄格州众议院
+      en: Connecticut House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the Connecticut General Assembly
+    ids:
+      wikidata: Q1494467
+    links:
+      - https://en.wikipedia.org/wiki/Connecticut_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494467
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: connecticut-senate
+    type: org
+    name: Connecticut Senate
+    names:
+      zh: 康涅狄格州参议院
+      en: Connecticut Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the Connecticut General Assembly
+    ids:
+      wikidata: Q1494554
+    links:
+      - https://en.wikipedia.org/wiki/Connecticut_State_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494554
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: conservation-international
+    type: org
+    name: Conservation International
+    names:
+      zh: 保护国际
+      en: Conservation International
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: nonprofit environmental organization
+    ids:
+      wikidata: Q1127365
+    links:
+      - https://en.wikipedia.org/wiki/Conservation_International
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1127365
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: conservative-partnership-institute
+    type: org
+    name: Conservative Partnership Institute
+    names:
+      en: Conservative Partnership Institute
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: political education and advocacy organization
+    ids:
+      wikidata: Q117189972
+    links:
+      - https://en.wikipedia.org/wiki/Conservative_Partnership_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q117189972
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: contemporary-amperex-technology-co-limited
+    type: org
+    name: 宁德时代
+    names:
+      zh: 宁德时代
+      en: Contemporary Amperex Technology Co. Limited
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中國電池公司
+    ids:
+      wikidata: Q18653563
+    links:
+      - https://en.wikipedia.org/wiki/CATL
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18653563
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: continental-resources
+    type: org
+    name: Continental Resources
+    names:
+      en: Continental Resources
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American oil and natural gas company
+    ids:
+      wikidata: Q5165314
+    links:
+      - https://en.wikipedia.org/wiki/Continental_Resources
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5165314
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: coopers-and-lybrand
+    type: org
+    name: Coopers & Lybrand
+    names:
+      zh: 永道会计师事务所
+      en: Coopers & Lybrand
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: international accounting firm, 1854-1998
+    ids:
+      wikidata: Q10458974
+    links:
+      - https://en.wikipedia.org/wiki/Coopers_%26_Lybrand
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10458974
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: coral-gables-senior-high-school
+    type: org
+    name: Coral Gables Senior High School
+    names:
+      zh: 珊瑚墙高级中学
+      en: Coral Gables Senior High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public secondary school in Coral Gables, Florida, USA
+    ids:
+      wikidata: Q5169462
+    links:
+      - https://en.wikipedia.org/wiki/Coral_Gables_Senior_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5169462
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cornell-law-school
+    type: org
+    name: Cornell Law School
+    names:
+      zh: 康奈尔法学院
+      en: Cornell Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Law school of Cornell University
+    ids:
+      wikidata: Q845768
+    links:
+      - https://en.wikipedia.org/wiki/Cornell_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q845768
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cornell-university
+    type: org
+    name: Cornell University
+    names:
+      zh: 康奈尔大学
+      en: Cornell University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 2
+    summary: 美國紐約州的私立研究型大學
+    ids:
+      wikidata: Q49115
+    links:
+      - https://en.wikipedia.org/wiki/Cornell_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49115
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cornell-university-college-of-engineering
+    type: org
+    name: Cornell University College of Engineering
+    names:
+      zh: 康乃爾大學工學院
+      en: Cornell University College of Engineering
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: engineering school in Ithaca, New York, USA
+    ids:
+      wikidata: Q5171564
+    links:
+      - https://en.wikipedia.org/wiki/Cornell_University_College_of_Engineering
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5171564
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cornell-university-school-of-industrial-and-labor-relations
+    type: org
+    name: Cornell University School of Industrial and Labor Relations
+    names:
+      zh: 康奈尔大学劳工关系学院
+      en: Cornell University School of Industrial and Labor Relations
+    orgType: fund
+    country:
+      - US
+    sectors:
+      - finance
+    tier: 4
+    summary: school within Cornell University
+    ids:
+      wikidata: Q5171574
+    links:
+      - https://en.wikipedia.org/wiki/New_York_State_School_of_Industrial_and_Labor_Relations_at_Cornell_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5171574
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cornerstone-academy-for-social-action-middle-school
+    type: org
+    name: Cornerstone Academy for Social Action Middle School
+    names:
+      en: Cornerstone Academy for Social Action Middle School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: middle school located in the Eastchester neighborhood of The Bronx
+    ids:
+      wikidata: Q103813769
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q103813769
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cory-booker-s-book-of-life
+    type: org
+    name: Cory Booker's book of life
+    names:
+      en: Cory Booker's book of life
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: genealogical document given to Cory Booker by Henry Louis Gates, Jr. as part of Finding Your Roots
+    ids:
+      wikidata: Q137908944
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137908944
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: costco
+    type: org
+    name: Costco
+    names:
+      zh: 好市多
+      en: Costco
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國跨國量販企業，經營連鎖會員倉儲俱樂部
+    ids:
+      wikidata: Q715583
+    links:
+      - https://en.wikipedia.org/wiki/Costco
+    sources:
+      - url: https://www.wikidata.org/wiki/Q715583
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: council-of-chairpersons-of-the-standing-committee-of-the-national-people-s-congr
+    type: org
+    name: 全国人民代表大会常务委员会委员长会议
+    names:
+      zh: 全国人民代表大会常务委员会委员长会议
+      en: Council of Chairpersons of the Standing Committee of the National People's Congress
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 处理全国人民代表大会常务委员会的重要日常工作的机构
+    ids:
+      wikidata: Q15913803
+    links:
+      - https://en.wikipedia.org/wiki/Council_of_Chairpersons_of_the_Standing_Committee_of_the_National_People's_Congress
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15913803
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: council-of-economic-advisers
+    type: org
+    name: Council of Economic Advisers
+    names:
+      zh: 美国总统经济顾问委员会
+      en: Council of Economic Advisers
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: U.S. presidential advisory committee on economic policy
+    ids:
+      wikidata: Q1137023
+    links:
+      - https://en.wikipedia.org/wiki/Council_of_Economic_Advisers
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1137023
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: council-on-foreign-relations
+    type: org
+    name: Council on Foreign Relations
+    names:
+      zh: 美国外交关系协会
+      en: Council on Foreign Relations
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国智库
+    ids:
+      wikidata: Q594712
+    links:
+      - https://en.wikipedia.org/wiki/Council_on_Foreign_Relations
+    sources:
+      - url: https://www.wikidata.org/wiki/Q594712
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: country-garden
+    type: org
+    name: 碧桂园
+    names:
+      zh: 碧桂园
+      en: Country Garden
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中國房地產企業
+    ids:
+      wikidata: Q5177291
+    links:
+      - https://en.wikipedia.org/wiki/Country_Garden
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5177291
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: county-commission
+    type: org
+    name: county commission
+    names:
+      zh: 县管理官
+      en: county commission
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: group of elected officials collectively charged with administering the county government in some U.S. states
+    ids:
+      wikidata: Q665826
+    links:
+      - https://en.wikipedia.org/wiki/County_commission
+    sources:
+      - url: https://www.wikidata.org/wiki/Q665826
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: county-of-hamilton
+    type: org
+    name: County of Hamilton
+    names:
+      en: County of Hamilton
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: county government of Hamilton County, Ohio, United States
+    ids:
+      wikidata: Q110394478
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110394478
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: coupang
+    type: org
+    name: Coupang
+    names:
+      zh: 酷澎
+      en: Coupang
+    orgType: company
+    country:
+      - KR
+    sectors:
+      - business
+    tier: 4
+    summary: eCommerce website and enterprise in Seoul, South Korea
+    ids:
+      wikidata: Q12620655
+    links:
+      - https://en.wikipedia.org/wiki/Coupang
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12620655
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: courage-to-change
+    type: org
+    name: Courage to Change
+    names:
+      en: Courage to Change
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: political action committee
+    ids:
+      wikidata: Q108444383
+    links:
+      - https://en.wikipedia.org/wiki/Courage_to_Change_(political_action_committee)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q108444383
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: courant-institute-school-of-mathematics-computing-and-data-science
+    type: org
+    name: Courant Institute School of Mathematics, Computing, and Data Science
+    names:
+      zh: 科朗数学研究所
+      en: Courant Institute School of Mathematics, Computing, and Data Science
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: academic institute of New York University
+    ids:
+      wikidata: Q946028
+    links:
+      - https://en.wikipedia.org/wiki/Courant_Institute_School_of_Mathematics%2C_Computing%2C_and_Data_Science
+    sources:
+      - url: https://www.wikidata.org/wiki/Q946028
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: coursera
+    type: org
+    name: Coursera
+    names:
+      zh: Coursera
+      en: Coursera
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 線上教育科技公司
+    ids:
+      wikidata: Q499962
+    links:
+      - https://en.wikipedia.org/wiki/Coursera
+    sources:
+      - url: https://www.wikidata.org/wiki/Q499962
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: covington-and-burling
+    type: org
+    name: Covington & Burling
+    names:
+      en: Covington & Burling
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: U.S. law firm based in Washington D.C.
+    ids:
+      wikidata: Q564223
+    links:
+      - https://en.wikipedia.org/wiki/Covington_%26_Burling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q564223
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cowboy-space-corporation
+    type: org
+    name: Cowboy Space Corporation
+    names:
+      en: Cowboy Space Corporation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: renewable energy company
+    ids:
+      wikidata: Q131514971
+    links:
+      - https://en.wikipedia.org/wiki/Cowboy_Space_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q131514971
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cox-enterprises
+    type: org
+    name: Cox Enterprises
+    names:
+      zh: 考克斯企业
+      en: Cox Enterprises
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American conglomerate
+    ids:
+      wikidata: Q1138249
+    links:
+      - https://en.wikipedia.org/wiki/Cox_Enterprises
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1138249
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cpc-hubei-provincial-committee
+    type: org
+    name: 中国共产党湖北省委员会
+    names:
+      zh: 中国共产党湖北省委员会
+      en: CPC Hubei Provincial Committee
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 第十二届（2022年6月至今）
+    ids:
+      wikidata: Q10873215
+    links:
+      - https://en.wikipedia.org/wiki/Hubei_Provincial_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873215
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cpc-jiangxi-province-committee
+    type: org
+    name: 中国共产党江西省委员会
+    names:
+      zh: 中国共产党江西省委员会
+      en: CPC Jiangxi Province Committee
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 第十五届委员会（2021年11月至今）
+    ids:
+      wikidata: Q10873208
+    links:
+      - https://en.wikipedia.org/wiki/Jiangxi_Provincial_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873208
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cppcc-national-committee
+    type: org
+    name: 中国人民政治协商会议全国委员会
+    names:
+      zh: 中国人民政治协商会议全国委员会
+      en: National Committee of the Chinese People's Political Consultative Conference
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 在中華人民共和國地位僅次於中共中央、全國人大常委會、國務院的機構
+    ids:
+      wikidata: Q10872857
+    links:
+      - https://en.wikipedia.org/wiki/National_Committee_of_the_Chinese_People's_Political_Consultative_Conference
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10872857
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cranbrook-schools
+    type: org
+    name: Cranbrook Schools
+    names:
+      en: Cranbrook Schools
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private, boarding school in Bloomfield Hills, MI, USA
+    ids:
+      wikidata: Q5181958
+    links:
+      - https://en.wikipedia.org/wiki/Cranbrook_Schools
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5181958
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cray
+    type: org
+    name: Cray
+    names:
+      zh: 克雷公司
+      en: Cray
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American supercomputer manufacturer
+    ids:
+      wikidata: Q144060
+    links:
+      - https://en.wikipedia.org/wiki/Cray
+    sources:
+      - url: https://www.wikidata.org/wiki/Q144060
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: creator-economy-caucus
+    type: org
+    name: Creator Economy Caucus
+    names:
+      en: Creator Economy Caucus
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: caucus of the United States Congress
+    ids:
+      wikidata: Q134881033
+    links:
+      - https://en.wikipedia.org/wiki/Creator_Economy_Caucus
+    sources:
+      - url: https://www.wikidata.org/wiki/Q134881033
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: creighton-university
+    type: org
+    name: Creighton University
+    names:
+      zh: 克雷顿大学
+      en: Creighton University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国私立大学
+    ids:
+      wikidata: Q770544
+    links:
+      - https://en.wikipedia.org/wiki/Creighton_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q770544
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: creston-high-school
+    type: org
+    name: Creston High School
+    names:
+      en: Creston High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Michigan, United States
+    ids:
+      wikidata: Q5184614
+    links:
+      - https://en.wikipedia.org/wiki/Creston_High_School_(Michigan)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5184614
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: crossroads-school-for-arts-and-sciences
+    type: org
+    name: Crossroads School for Arts & Sciences
+    names:
+      zh: 十字路中學
+      en: Crossroads School for Arts & Sciences
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: university-preparatory school in Santa Monica, California, USA
+    ids:
+      wikidata: Q5188850
+    links:
+      - https://en.wikipedia.org/wiki/Crossroads_School_(Santa_Monica%2C_California)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5188850
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: crowdstrike
+    type: org
+    name: CrowdStrike
+    names:
+      zh: CrowdStrike
+      en: CrowdStrike
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American cybersecurity technology company
+    ids:
+      wikidata: Q24890758
+    links:
+      - https://en.wikipedia.org/wiki/CrowdStrike
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24890758
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: crystal-bridges-museum-of-american-art
+    type: org
+    name: Crystal Bridges Museum of American Art
+    names:
+      zh: 水晶桥美国艺术博物馆
+      en: Crystal Bridges Museum of American Art
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: art museum in Bentonville, Arkansas
+    ids:
+      wikidata: Q1142334
+    links:
+      - https://en.wikipedia.org/wiki/Crystal_Bridges_Museum_of_American_Art
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1142334
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: crystal-palace-f-c
+    type: org
+    name: Crystal Palace F.C.
+    names:
+      zh: 水晶宫足球俱乐部
+      en: Crystal Palace F.C.
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 2
+    summary: 位于英格兰伦敦南部的职业足球队
+    ids:
+      wikidata: Q19467
+    links:
+      - https://en.wikipedia.org/wiki/Crystal_Palace_F.C.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19467
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: culver-academies
+    type: org
+    name: Culver Academies
+    names:
+      zh: 卡爾弗學院
+      en: Culver Academies
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: college preparatory boarding school and summer camp in northern Indiana
+    ids:
+      wikidata: Q3007488
+    links:
+      - https://en.wikipedia.org/wiki/Culver_Academies
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3007488
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cumberland-school-of-law
+    type: org
+    name: Cumberland School of Law
+    names:
+      zh: 康伯兰法学院
+      en: Cumberland School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: in Birmingham, Alabama
+    ids:
+      wikidata: Q5193960
+    links:
+      - https://en.wikipedia.org/wiki/Cumberland_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5193960
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: current-tv
+    type: org
+    name: Current TV
+    names:
+      zh: 時事電視
+      en: Current TV
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: former media company
+    ids:
+      wikidata: Q19666
+    links:
+      - https://en.wikipedia.org/wiki/Current_TV
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19666
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: cygnus-entertainment
+    type: org
+    name: Cygnus Entertainment
+    names:
+      en: Cygnus Entertainment
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: video game developer
+    ids:
+      wikidata: Q116260888
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116260888
+        publisher: Wikidata
+        accessed: 2026-10-11

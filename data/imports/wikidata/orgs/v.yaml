@@ -1,0 +1,593 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: valley-forge-military-academy-and-college
+    type: org
+    name: Valley Forge Military Academy and College
+    names:
+      zh: 弗吉谷军事学院
+      en: Valley Forge Military Academy and College
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private boarding school in the United States
+    ids:
+      wikidata: Q4008225
+    links:
+      - https://en.wikipedia.org/wiki/Valley_Forge_Military_Academy_and_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4008225
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: valley-high-school
+    type: org
+    name: Valley High School
+    names:
+      zh: 西德梅因山谷高中
+      en: Valley High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in West Des Moines, Iowa, United States
+    ids:
+      wikidata: Q7912100
+    links:
+      - https://en.wikipedia.org/wiki/Valley_High_School_(West_Des_Moines%2C_Iowa)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7912100
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: valve-corporation
+    type: org
+    name: Valve Corporation
+    names:
+      zh: 活閥
+      en: Valve Corporation
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國電子遊戲開發・數位發行公司
+    ids:
+      wikidata: Q193559
+    links:
+      - https://en.wikipedia.org/wiki/Valve_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193559
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vanderbilt-project-on-unity-and-american-democracy
+    type: org
+    name: Vanderbilt Project on Unity and American Democracy
+    names:
+      en: Vanderbilt Project on Unity and American Democracy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Vanderbilt University research center
+    ids:
+      wikidata: Q114782148
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q114782148
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vanderbilt-university
+    type: org
+    name: Vanderbilt University
+    names:
+      zh: 范德比尔特大学
+      en: Vanderbilt University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 田纳西州的一所大学
+    ids:
+      wikidata: Q29052
+    links:
+      - https://en.wikipedia.org/wiki/Vanderbilt_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q29052
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vanderbilt-university-law-school
+    type: org
+    name: Vanderbilt University Law School
+    names:
+      zh: 范德比尔特大学法学院
+      en: Vanderbilt University Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school in Nashville
+    ids:
+      wikidata: Q7914456
+    links:
+      - https://en.wikipedia.org/wiki/Vanderbilt_University_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7914456
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vassar-college
+    type: org
+    name: Vassar College
+    names:
+      zh: 瓦瑟学院
+      en: Vassar College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: private, coeducational liberal arts college in the Town of Poughkeepsie, New York, in the United States
+    ids:
+      wikidata: Q2093794
+    links:
+      - https://en.wikipedia.org/wiki/Vassar_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2093794
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: venture-for-america
+    type: org
+    name: Venture for America
+    names:
+      zh: 为美国创业
+      en: Venture for America
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: non-profit organization for entrepreneurship
+    ids:
+      wikidata: Q28228177
+    links:
+      - https://en.wikipedia.org/wiki/Venture_for_America
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28228177
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: venus
+    type: org
+    name: Venus
+    names:
+      en: Venus
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: super yacht built in 2012
+    ids:
+      wikidata: Q7920563
+    links:
+      - https://en.wikipedia.org/wiki/Venus_(yacht)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7920563
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: venus-ordering-arms-from-vulcan-for-aeneas
+    type: org
+    name: Venus Ordering Arms from Vulcan for Aeneas
+    names:
+      en: Venus Ordering Arms from Vulcan for Aeneas
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Jean Restout
+    ids:
+      wikidata: Q20880847
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20880847
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: verizon
+    type: org
+    name: Verizon
+    names:
+      zh: 威瑞森通信
+      en: Verizon
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American broadband and telecommunications company
+    ids:
+      wikidata: Q467752
+    links:
+      - https://en.wikipedia.org/wiki/Verizon
+    sources:
+      - url: https://www.wikidata.org/wiki/Q467752
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vermont-house-of-representatives
+    type: org
+    name: Vermont House of Representatives
+    names:
+      zh: 佛蒙特州眾議院
+      en: Vermont House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Lower House of the Vermont State Legislature
+    ids:
+      wikidata: Q910543
+    links:
+      - https://en.wikipedia.org/wiki/Vermont_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q910543
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vermont-senate
+    type: org
+    name: Vermont Senate
+    names:
+      zh: 佛蒙特州參議院
+      en: Vermont Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Vermont upper legislative body
+    ids:
+      wikidata: Q1539609
+    links:
+      - https://en.wikipedia.org/wiki/Vermont_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1539609
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vesuve-de-brekka
+    type: org
+    name: Vésuve de Brekka
+    names:
+      zh: Vésuve de Brekka
+      en: Vésuve de Brekka
+    orgType: other
+    country:
+      - FR
+    sectors:
+      - other
+    tier: 4
+    summary: 习近平的一匹塞拉法·兰西马
+    ids:
+      wikidata: Q47156476
+    links:
+      - https://en.wikipedia.org/wiki/V%C3%A9suve_de_Brekka
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47156476
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vi-senior-living-classic-residence
+    type: org
+    name: Vi Senior Living, Classic Residence
+    names:
+      en: Vi Senior Living, Classic Residence
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: continuing care retirement communities in the U.S.
+    ids:
+      wikidata: Q7924330
+    links:
+      - https://en.wikipedia.org/wiki/Vi_Senior_Living
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7924330
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: victoria-s-secret
+    type: org
+    name: Victoria’s Secret
+    names:
+      zh: 维多利亚的秘密
+      en: Victoria’s Secret
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国零售商的内衣
+    ids:
+      wikidata: Q332477
+    links:
+      - https://en.wikipedia.org/wiki/Victoria's_Secret
+    sources:
+      - url: https://www.wikidata.org/wiki/Q332477
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: villanova-university
+    type: org
+    name: Villanova University
+    names:
+      zh: 维拉诺瓦大学
+      en: Villanova University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 賓夕法尼亞州費城附近的天主教大學
+    ids:
+      wikidata: Q1466001
+    links:
+      - https://en.wikipedia.org/wiki/Villanova_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1466001
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: viome
+    type: org
+    name: Viome
+    names:
+      en: Viome
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: microbiome testing and analysis company
+    ids:
+      wikidata: Q98446729
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q98446729
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: virgin-galactic
+    type: org
+    name: Virgin Galactic
+    names:
+      zh: 維珍銀河
+      en: Virgin Galactic
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American spaceflight company
+    ids:
+      wikidata: Q373225
+    links:
+      - https://en.wikipedia.org/wiki/Virgin_Galactic
+    sources:
+      - url: https://www.wikidata.org/wiki/Q373225
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: virginia-episcopal-school
+    type: org
+    name: Virginia Episcopal School
+    names:
+      en: Virginia Episcopal School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: school in Lynchburg, Virginia, United States
+    ids:
+      wikidata: Q7934263
+    links:
+      - https://en.wikipedia.org/wiki/Virginia_Episcopal_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7934263
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: virginia-house-of-delegates
+    type: org
+    name: Virginia House of Delegates
+    names:
+      zh: 弗吉尼亚众议院
+      en: Virginia House of Delegates
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the Virginia General Assembly
+    ids:
+      wikidata: Q320275
+    links:
+      - https://en.wikipedia.org/wiki/Virginia_House_of_Delegates
+    sources:
+      - url: https://www.wikidata.org/wiki/Q320275
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: virginia-military-institute
+    type: org
+    name: Virginia Military Institute
+    names:
+      zh: 維吉尼亞軍事學校
+      en: Virginia Military Institute
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: state-supported military college in Lexington, Virginia, USA
+    ids:
+      wikidata: Q785357
+    links:
+      - https://en.wikipedia.org/wiki/Virginia_Military_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q785357
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: virginia-tech
+    type: org
+    name: Virginia Tech
+    names:
+      zh: 弗吉尼亚理工学院暨州立大学
+      en: Virginia Tech
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 主校区位于弗吉尼亚州布莱克斯堡的公立大学
+    ids:
+      wikidata: Q65379
+    links:
+      - https://en.wikipedia.org/wiki/Virginia_Tech
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65379
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vista-equity-partners
+    type: org
+    name: Vista Equity Partners
+    names:
+      en: Vista Equity Partners
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American private equity and venture capital firm
+    ids:
+      wikidata: Q7936440
+    links:
+      - https://en.wikipedia.org/wiki/Vista_Equity_Partners
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7936440
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vivo
+    type: org
+    name: vivo
+    names:
+      zh: vivo
+      en: vivo
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中国科技公司
+    ids:
+      wikidata: Q18301787
+    links:
+      - https://en.wikipedia.org/wiki/Vivo_(technology_company)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18301787
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: volcker-alliance
+    type: org
+    name: Volcker Alliance
+    names:
+      en: Volcker Alliance
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: US 501(c)3 nonprofit organization
+    ids:
+      wikidata: Q122341779
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q122341779
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: volvo-cars
+    type: org
+    name: Volvo Cars
+    names:
+      zh: 沃尔沃汽车
+      en: Volvo Cars
+    orgType: company
+    country:
+      - SE
+    sectors:
+      - business
+    tier: 3
+    summary: Swedish automobile manufacturer
+    ids:
+      wikidata: Q215293
+    links:
+      - https://en.wikipedia.org/wiki/Volvo_Cars
+    sources:
+      - url: https://www.wikidata.org/wiki/Q215293
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vote-smart
+    type: org
+    name: Vote Smart
+    names:
+      zh: 智能項目表決
+      en: Vote Smart
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: non-profit, non-partisan research organization in the US
+    ids:
+      wikidata: Q7249368
+    links:
+      - https://en.wikipedia.org/wiki/Vote_Smart
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7249368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: vuguru
+    type: org
+    name: Vuguru
+    names:
+      en: Vuguru
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American Multi-platform Studio
+    ids:
+      wikidata: Q7943349
+    links:
+      - https://en.wikipedia.org/wiki/Vuguru
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7943349
+        publisher: Wikidata
+        accessed: 2026-10-11

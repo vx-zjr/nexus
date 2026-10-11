@@ -1,0 +1,23 @@
+id: john-bolton
+type: person
+name: John Bolton
+names:
+  en: John Bolton
+  zh: 约翰·博尔顿
+gender: M
+born: '1948-11-20'
+country:
+- US
+sectors:
+- politics
+- security
+tier: 3
+summary: 前国家安全顾问（2018–2019）；2021-01 被中方制裁。2025 年因涉嫌不当处理机密信息被联邦起诉。
+sources:
+- url: https://en.wikipedia.org/wiki/John_Bolton
+  publisher: Wikipedia
+- url: https://www.aljazeera.com/news/2021/1/20/china-sanctions-pompeo-trump-officials
+  title: China sanctions Pompeo, other Trump administration officials
+  publisher: Al Jazeera
+  date: '2021-01-20'
+updated: '2026-10-11'

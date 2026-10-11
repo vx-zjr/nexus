@@ -1,0 +1,680 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+relations:
+  - from: virginia-clinton-kelley
+    to: bill-clinton
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1124
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vernon-sykes
+    to: emilia-sykes
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18637943
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vern-buchanan
+    to: james-buchanan
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2517229
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vivian-davis-figures
+    to: shomari-figures
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q129431158
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: val-demings
+    to: jerry-demings
+    type: spouse
+    since: "1988"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7909083
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victor-fung
+    to: william-fung
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557256
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vinod-khosla
+    to: neeru-khosla
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q738005
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victoria-b-mars
+    to: pamela-mars-wright
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19893317
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victoria-b-mars
+    to: marijke-mars
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19893317
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victoria-b-mars
+    to: valerie-mars
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19893317
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: virginia-neal-blue
+    to: neal-blue
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16096870
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vidal-sassoon
+    to: catya-sassoon
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313550
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vidal-sassoon
+    to: eden-sassoon
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313550
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vidal-sassoon
+    to: judy-carne
+    type: partner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313550
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vidal-sassoon
+    to: beverly-adams
+    type: spouse
+    since: "1967"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q313550
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-mcmahon
+    to: shane-mcmahon
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q861110
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vivek-ramaswamy
+    to: apoorva-t-ramaswamy
+    type: spouse
+    since: "2015"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27881473
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vincent-j-mcmahon
+    to: vince-mcmahon
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-mcmahon
+    to: stephanie-mcmahon
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-mcmahon
+    to: shane-mcmahon
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-mcmahon
+    to: linda-mcmahon
+    type: spouse
+    since: 1966-08-26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-mcmahon
+    to: andrew-martin
+    type: in-law
+    label: 婿
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vernon-a-walters
+    to: central-intelligence-agency
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q660629
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vern-buchanan
+    to: university-of-detroit-mercy
+    type: alumni
+    label: Master of Business Administration
+    until: "1986"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2517229
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-fong
+    to: university-of-california-los-angeles
+    type: alumni
+    label: Bachelor of Arts
+    until: "2001"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27916201
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-fong
+    to: princeton-school-of-public-and-international-affairs
+    type: alumni
+    label: Master in Public Administration
+    until: "2003"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27916201
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vicente-gonzalez
+    to: embry-riddle-aeronautical-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1992"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27924921
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vicky-hartzler
+    to: university-of-missouri
+    type: alumni
+    label: Bachelor of Science
+    until: "1983"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q375389
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vicky-hartzler
+    to: university-of-central-missouri
+    type: alumni
+    label: Master of Science
+    until: "1992"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q375389
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victoria-spartz
+    to: indiana-university-kelley-school-of-business
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44059867
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victoria-spartz
+    to: indiana-university-purdue-university-indianapolis
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44059867
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: virginia-foxx
+    to: appalachian-state-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q458453
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: virginia-foxx
+    to: university-of-north-carolina-at-chapel-hill
+    type: alumni
+    label: Bachelor of Arts
+    until: "1968"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q458453
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: virginia-foxx
+    to: university-of-north-carolina-at-chapel-hill
+    type: alumni
+    until: "1972"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q458453
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: veronica-escobar
+    to: university-of-texas-at-el-paso
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q52274267
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: veronica-escobar
+    to: new-york-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q52274267
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: veronica-escobar
+    to: university-of-texas-at-el-paso
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q52274267
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: val-demings
+    to: florida-state-university
+    type: alumni
+    label: Bachelor of Science
+    since: "1976"
+    until: "1979"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7909083
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: val-demings
+    to: webster-university
+    type: alumni
+    label: Master in Public Administration
+    until: "1996"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7909083
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: van-taylor
+    to: mckinsey-and-company
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7913689
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: van-taylor
+    to: harvard-business-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7913689
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: van-taylor
+    to: st-paul-s-school
+    type: alumni
+    until: "1991"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7913689
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: van-taylor
+    to: harvard-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7913689
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victor-fung
+    to: china-united-states-exchange-foundation
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557256
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victor-fung
+    to: harvard-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557256
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victor-fung
+    to: harvard-business-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557256
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victor-fung
+    to: harvard-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557256
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victor-fung
+    to: massachusetts-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557256
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victor-koo
+    to: youku
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7926068
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victor-koo
+    to: youku-tudou
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7926068
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victor-koo
+    to: university-of-california-berkeley
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7926068
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victor-koo
+    to: stanford-graduate-school-of-business
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7926068
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victor-koo
+    to: stanford-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7926068
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vlad-tenev
+    to: robinhood
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56248473
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vlad-tenev
+    to: robinhood
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56248473
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vlad-tenev
+    to: thomas-jefferson-high-school-for-science-and-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56248473
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vlad-tenev
+    to: stanford-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56248473
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vinod-khosla
+    to: sun-microsystems
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q738005
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vinod-khosla
+    to: khosla-ventures
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q738005
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vinod-khosla
+    to: range-fuels
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q738005
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vinod-khosla
+    to: carnegie-mellon-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q738005
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vinod-khosla
+    to: stanford-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q738005
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vinod-khosla
+    to: stanford-graduate-school-of-business
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q738005
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victoria-b-mars
+    to: yale-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19893317
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victoria-b-mars
+    to: the-wharton-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19893317
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: victoria-b-mars
+    to: foxcroft-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19893317
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vera-wang
+    to: chapin-school
+    type: alumni
+    until: "1967"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q230728
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vera-wang
+    to: sarah-lawrence-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q230728
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vera-wang
+    to: university-of-paris
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q230728
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vivek-ramaswamy
+    to: st-xavier-high-school
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27881473
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vivek-ramaswamy
+    to: axovant-sciences
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27881473
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vivek-ramaswamy
+    to: roivant
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27881473
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vivek-ramaswamy
+    to: roivant
+    type: position
+    label: 任职
+    since: "2014"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27881473
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vivek-ramaswamy
+    to: yale-law-school
+    type: alumni
+    label: Juris Doctor
+    until: "2013"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27881473
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vivek-ramaswamy
+    to: harvard-college
+    type: alumni
+    label: Bachelor of Arts
+    until: "2007"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27881473
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vivek-ramaswamy
+    to: st-xavier-high-school
+    type: alumni
+    until: "2003"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27881473
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-mcmahon
+    to: tko-group-holdings
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-mcmahon
+    to: world-bodybuilding-federation
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-mcmahon
+    to: wwe-studios
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-mcmahon
+    to: xfl
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-mcmahon
+    to: wwe-music-group
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-mcmahon
+    to: xfl-2
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-mcmahon
+    to: tko-group-holdings
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-mcmahon
+    to: extreme-championship-wrestling
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-mcmahon
+    to: georgia-championship-wrestling
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-mcmahon
+    to: wwe
+    type: position
+    label: 任职
+    since: "2003"
+    until: "2022"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-mcmahon
+    to: world-championship-wrestling
+    type: position
+    label: 任职
+    since: "2001"
+    until: "2017"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-mcmahon
+    to: east-carolina-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1968"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: vince-mcmahon
+    to: fishburne-military-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44430
+        publisher: Wikidata
+        accessed: 2026-10-11

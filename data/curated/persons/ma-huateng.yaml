@@ -1,0 +1,21 @@
+id: ma-huateng
+type: person
+name: 马化腾
+names:
+  en: 马化腾
+  zh: Ma Huateng
+aliases:
+- Pony Ma
+gender: M
+born: '1971-10-29'
+country:
+- CN
+sectors:
+- tech
+- business
+tier: 1
+summary: 腾讯创始人、董事会主席兼 CEO，全国人大代表。
+sources:
+- url: https://en.wikipedia.org/wiki/Ma_Huateng
+  publisher: Wikipedia
+updated: '2026-10-11'

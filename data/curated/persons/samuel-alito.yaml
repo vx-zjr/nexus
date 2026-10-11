@@ -1,0 +1,27 @@
+id: samuel-alito
+type: person
+name: Samuel Alito
+names:
+  en: Samuel Alito
+  zh: 塞缪尔·阿利托
+gender: M
+born: '1950-04-01'
+country:
+- US
+sectors:
+- judiciary
+tier: 2
+summary: 最高法院大法官（2006–）。ProPublica 2023：2008 年乘 Paul Singer 私人飞机赴阿拉斯加豪华钓鱼之旅未申报，Singer 此后多次在最高法院有案件。
+positions:
+- title: 最高法院大法官
+  org: us-supreme-court
+  from: 2006-01
+  current: true
+sources:
+- url: https://en.wikipedia.org/wiki/Samuel_Alito
+  publisher: Wikipedia
+- url: https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court
+  title: Justice Samuel Alito Took Luxury Fishing Vacation With GOP Billionaire Who Later Had Cases Before the Court
+  publisher: ProPublica
+  date: '2023-06-20'
+updated: '2026-10-11'

@@ -1,0 +1,4853 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: k-gary-sebelius
+    type: person
+    name: K. Gary Sebelius
+    names:
+      zh: 基思·蓋瑞·西貝利厄斯
+      en: K. Gary Sebelius
+    gender: M
+    born: 1949-11-08
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American judge
+    ids:
+      wikidata: Q6323362
+    links:
+      - https://en.wikipedia.org/wiki/K._Gary_Sebelius
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6323362
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kai-fu-lee
+    type: person
+    name: 李开复
+    names:
+      zh: 李开复
+      en: Kai-Fu Lee
+    gender: M
+    born: 1961-12-03
+    country:
+      - US
+      - TW
+    sectors:
+      - business
+      - culture
+      - tech
+    tier: 4
+    summary: 台湾企业家
+    ids:
+      wikidata: Q699605
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%BC%80%E5%A4%8D
+      - https://en.wikipedia.org/wiki/Kai-Fu_Lee
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q699605
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kai-musk
+    type: person
+    name: Kai Musk
+    names:
+      en: Kai Musk
+    gender: M
+    born: "2006"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: son of Elon Musk
+    ids:
+      wikidata: Q97572429
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97572429
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kai-trump
+    type: person
+    name: Kai Trump
+    names:
+      zh: 凱伊·特朗普
+      en: Kai Trump
+    gender: F
+    born: 2007-05-12
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: American social media personality and granddaughter of Donald Trump (born 2007)
+    ids:
+      wikidata: Q23000822
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%B1%E4%BC%8A%C2%B7%E7%89%B9%E6%9C%97%E6%99%AE
+      - https://en.wikipedia.org/wiki/Kai_Trump
+    tags:
+      - relative
+    attrs:
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23000822
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kaiali-i-kahele
+    type: person
+    name: Kaiali‘i Kahele
+    names:
+      zh: 卡伊·卡赫勒
+      en: Kaiali‘i Kahele
+    gender: M
+    born: 1974-03-28
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician and aviator (born 1974)
+    ids:
+      wikidata: Q28861508
+    links:
+      - https://en.wikipedia.org/wiki/Kai_Kahele
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28861508
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 夏威夷州参议员
+        org: hawaii-senate
+        from: 2016-02-17
+        to: 2020-12-16
+  - id: kamala-harris
+    type: person
+    name: Kamala Harris
+    names:
+      zh: 卡玛拉·哈里斯
+      en: Kamala Harris
+    gender: F
+    born: 1964-10-20
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - judiciary
+    tier: 1
+    summary: 第49任美国副总统、参议院议长
+    ids:
+      wikidata: Q10853588
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B3%80%E9%8C%A6%E9%BA%97
+      - https://en.wikipedia.org/wiki/Kamala_Harris
+    tags:
+      - us-executive
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 193
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10853588
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國副總統
+        org: us-senate
+        from: 2021-01-20
+        to: 2025-01-20
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2021-01-18
+      - title: 加利福尼亞州司法部長
+        from: 2011-01-03
+        to: 2017-01-03
+      - title: 司法部长
+        org: justice-ministry
+      - title: 当选副总统
+        from: 2020-11-07
+        to: 2021-01-20
+      - title: deputy district attorney
+        from: "1990"
+        to: "1998"
+      - title: San Francisco District Attorney
+        from: 2004-01-08
+        to: 2011-01-03
+  - id: kamqoin-soinam-gyamco
+    type: person
+    name: 索朗降措
+    names:
+      zh: 索朗降措
+      en: Kamqoin Soinam Gyamco
+    gender: M
+    died: 1959-03-10
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q15940989
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%B4%A2%E6%9C%97%E9%99%8D%E6%8E%AA
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15940989
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kang-chengyuan
+    type: person
+    name: 康成元
+    names:
+      zh: 康成元
+      en: Kang Chengyuan
+    gender: M
+    born: "1941"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: 中国人民解放军海军中将
+    ids:
+      wikidata: Q8319052
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BA%B7%E6%88%90%E5%85%83
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319052
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: kang-yi
+    type: person
+    name: 康义
+    names:
+      zh: 康义
+      en: Kang Yi
+    gender: M
+    born: 1966-08-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - finance
+    tier: 3
+    summary: 中华人民共和国国家统计局局长
+    ids:
+      wikidata: Q97300459
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BA%B7%E4%B9%89_(1966%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Kang_Yi_(politician%2C_born_1966)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97300459
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 国家统计局局长
+        from: 2022-03-01
+  - id: kao-chun-hsiang
+    type: person
+    name: Kao Chun-Hsiang
+    names:
+      zh: 高君湘
+      en: Kao Chun-Hsiang
+    gender: M
+    country: []
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q8153759
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AB%98%E5%90%9B%E6%B9%98
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8153759
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kao-ping-tse
+    type: person
+    name: 高平子
+    names:
+      zh: 高平子
+      en: Kao Ping-tse
+    gender: M
+    born: 1888-12-23
+    died: 1970-03-23
+    country:
+      - CN
+    sectors:
+      - culture
+    tier: 5
+    summary: Chinese astronomer
+    ids:
+      wikidata: Q11197028
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AB%98%E5%B9%B3%E5%AD%90
+      - https://en.wikipedia.org/wiki/Kao_Ping-tse
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11197028
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kara-ross
+    type: person
+    name: Kara Ross
+    names:
+      en: Kara Ross
+    gender: F
+    born: "1966"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American jewelry designer (born 1966)
+    ids:
+      wikidata: Q13560784
+    links:
+      - https://en.wikipedia.org/wiki/Kara_Ross
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q13560784
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kara-young
+    type: person
+    name: Kara Young
+    names:
+      en: Kara Young
+    gender: F
+    born: 1969-12-10
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American model and actress
+    ids:
+      wikidata: Q6367560
+    links:
+      - https://en.wikipedia.org/wiki/Kara_Young_(model)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6367560
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: karen-mcdonald
+    type: person
+    name: Karen McDonald
+    names:
+      en: Karen McDonald
+    gender: F
+    born: 1970-07-11
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 5
+    summary: American politician in Michigan (born 1970)
+    ids:
+      wikidata: Q105100517
+    links:
+      - https://en.wikipedia.org/wiki/Karen_McDonald_(politician)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105100517
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: karen-mills
+    type: person
+    name: Karen Mills
+    names:
+      en: Karen Mills
+    gender: F
+    born: 1953-09-14
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: Administrator of the Small Business Administration
+    ids:
+      wikidata: Q2853764
+    links:
+      - https://en.wikipedia.org/wiki/Karen_Mills
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2853764
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 小型企業管理署署長
+        org: small-business-administration
+        to: 2013-09-01
+  - id: karen-pence
+    type: person
+    name: Karen Pence
+    names:
+      zh: 凯伦·彭斯
+      en: Karen Pence
+    gender: F
+    born: "1957"
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 前美國第二夫人・前印第安納州第一夫人
+    ids:
+      wikidata: Q25894869
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%B1%E5%80%AB%C2%B7%E5%BD%AD%E6%96%AF
+      - https://en.wikipedia.org/wiki/Karen_Pence
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 34
+    sources:
+      - url: https://www.wikidata.org/wiki/Q25894869
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 第一夫人
+        org: first-family
+        from: 2013-01-14
+        to: 2017-01-09
+      - title: 美國副總統配偶
+        from: 2017-01-20
+        to: 2021-01-20
+  - id: karen-waldbillig-kasich
+    type: person
+    name: Karen Waldbillig Kasich
+    names:
+      zh: 卡伦·瓦尔德比利希·凯西克
+      en: Karen Waldbillig Kasich
+    gender: F
+    born: 1963-12-26
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: American business executive and wife of Government of Ohio
+    ids:
+      wikidata: Q20176678
+    links:
+      - https://en.wikipedia.org/wiki/Karen_Waldbillig_Kasich
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20176678
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: First Lady of Ohio
+        org: family-of-the-governor-of-ohio
+        from: 2011-01-10
+        to: 2019-01-14
+  - id: karenna-gore-schiff
+    type: person
+    name: Karenna Gore Schiff
+    names:
+      zh: 卡蕾娜·戈尔
+      en: Karenna Gore Schiff
+    gender: F
+    born: 1973-08-06
+    country:
+      - US
+    sectors:
+      - judiciary
+      - media
+    tier: 5
+    summary: American author, journalist, and attorney; daughter of Al and Tipper Gore
+    ids:
+      wikidata: Q6370170
+    links:
+      - https://en.wikipedia.org/wiki/Karenna_Gore
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6370170
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: karl-cook
+    type: person
+    name: Karl Cook
+    names:
+      zh: 卡尔·库克
+      en: Karl Cook
+    gender: M
+    born: 1990-12-25
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: American equestrian
+    ids:
+      wikidata: Q55476818
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E5%BA%93%E5%85%8B
+      - https://en.wikipedia.org/wiki/Karl_Cook
+    tags:
+      - relative
+    attrs:
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55476818
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: karlie-kloss
+    type: person
+    name: Karlie Kloss
+    names:
+      zh: 卡莉·克劳斯
+      en: Karlie Kloss
+    gender: F
+    born: 1992-08-03
+    country:
+      - US
+    sectors:
+      - business
+      - media
+    tier: 3
+    summary: 美国模特
+    ids:
+      wikidata: Q292749
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8D%A1%E8%8E%89%C2%B7%E5%85%8B%E5%8A%B3%E6%96%AF
+      - https://en.wikipedia.org/wiki/Karlie_Kloss
+    tags:
+      - relative
+    attrs:
+      sitelinks: 44
+    sources:
+      - url: https://www.wikidata.org/wiki/Q292749
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: karoly-simonyi
+    type: person
+    name: Károly Simonyi
+    names:
+      en: Károly Simonyi
+    gender: M
+    born: 1916-10-18
+    died: 2001-10-09
+    country:
+      - HU
+    sectors:
+      - academia
+    tier: 4
+    summary: Hungarian physicist and writer (1916-2001)
+    ids:
+      wikidata: Q460202
+    links:
+      - https://en.wikipedia.org/wiki/K%C3%A1roly_Simonyi
+    tags:
+      - relative
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q460202
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kat-cammack
+    type: person
+    name: Kat Cammack
+    names:
+      zh: 凯特·坎马克
+      en: Kat Cammack
+    gender: F
+    born: 1988-02-16
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美国政治人物
+    ids:
+      wikidata: Q98523243
+    links:
+      - https://en.wikipedia.org/wiki/Kat_Cammack
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q98523243
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+  - id: kate-capshaw
+    type: person
+    name: Kate Capshaw
+    names:
+      zh: 凯特·卡普肖
+      en: Kate Capshaw
+    gender: F
+    born: 1953-11-03
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 3
+    summary: American actress who converted to Judaism
+    ids:
+      wikidata: Q40162
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%AF%E7%89%B9%C2%B7%E5%8D%A1%E6%99%AE%E8%82%96
+      - https://en.wikipedia.org/wiki/Kate_Capshaw
+    tags:
+      - relative
+    attrs:
+      sitelinks: 45
+    sources:
+      - url: https://www.wikidata.org/wiki/Q40162
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kate-friedlander
+    type: person
+    name: Kate Friedländer
+    names:
+      en: Kate Friedländer
+    gender: F
+    born: 1902-09-14
+    died: 1949-02-20
+    country:
+      - AT
+      - GB
+    sectors:
+      - family
+    tier: 5
+    summary: British psychoanalyst
+    ids:
+      wikidata: Q12282886
+    links:
+      - https://en.wikipedia.org/wiki/Kate_Friedlander
+    tags:
+      - relative
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12282886
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kate-gallego
+    type: person
+    name: Kate Gallego
+    names:
+      zh: 凱特·加萊戈
+      en: Kate Gallego
+    gender: F
+    born: 1981-10-21
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 62nd Mayor of Phoenix, Arizona
+    ids:
+      wikidata: Q62050652
+    links:
+      - https://en.wikipedia.org/wiki/Kate_Gallego
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q62050652
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 成员
+        org: membership-organization
+        from: 2014-01-02
+        to: 2018-08-07
+      - title: Mayor of Phoenix
+        from: 2019-03-21
+  - id: kate-garvey
+    type: person
+    name: Kate Garvey
+    names:
+      zh: Kate Garvey
+      en: Kate Garvey
+    gender: F
+    born: "1971"
+    country:
+      - GB
+    sectors:
+      - business
+    tier: 5
+    summary: British public relations executive
+    ids:
+      wikidata: Q13564310
+    links:
+      - https://en.wikipedia.org/wiki/Kate_Garvey
+    tags:
+      - relative
+      - party:Labour Party
+    attrs:
+      party: Labour Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q13564310
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: Ministerial Diary Secretary
+  - id: kate-spade
+    type: person
+    name: Kate Spade
+    names:
+      zh: 凯特·丝蓓
+      en: Kate Spade
+    gender: F
+    born: 1962-12-24
+    died: 2018-06-05
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美国时尚设计师
+    ids:
+      wikidata: Q275094
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%B1%E7%89%B9%C2%B7%E7%B5%B2%E8%93%93
+      - https://en.wikipedia.org/wiki/Kate_Spade
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 31
+    sources:
+      - url: https://www.wikidata.org/wiki/Q275094
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: katharine-rayner
+    type: person
+    name: Katharine Rayner
+    names:
+      en: Katharine Rayner
+    gender: F
+    born: "1945"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: American heiress (Cox Enterprises), billionaire, philanthropist
+    netWorth:
+      usd: 6300000000
+    ids:
+      wikidata: Q23134146
+    links:
+      - https://en.wikipedia.org/wiki/Katharine_Rayner
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23134146
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: katherine-center
+    type: person
+    name: Katherine Center
+    names:
+      zh: 凱瑟琳·康特
+      en: Katherine Center
+    gender: F
+    born: 1972-03-04
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American author
+    ids:
+      wikidata: Q6376324
+    links:
+      - https://en.wikipedia.org/wiki/Katherine_Center
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6376324
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: katherine-clark
+    type: person
+    name: Katherine Clark
+    names:
+      zh: 凯瑟琳·克拉克
+      en: Katherine Clark
+    gender: F
+    born: 1963-07-17
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1963)
+    ids:
+      wikidata: Q6376330
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%B1%E7%91%9F%E7%90%B3%C2%B7%E5%85%8B%E6%8B%89%E5%85%8B
+      - https://en.wikipedia.org/wiki/Katherine_Clark
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 23
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6376330
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 成员
+        org: membership-organization
+        from: "2001"
+        to: "2007"
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-12-10
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 麻薩諸塞州眾議員
+        org: massachusetts-house-of-representatives
+        from: "2008"
+        to: "2010"
+      - title: 麻薩諸塞州參議員
+        org: massachusetts-senate
+        from: "2010"
+        to: "2013"
+  - id: katherine-tai
+    type: person
+    name: Katherine Tai
+    names:
+      zh: 戴琪
+      en: Katherine Tai
+    gender: F
+    born: 1974-03-18
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: 美国贸易代表
+    ids:
+      wikidata: Q104076331
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%88%B4%E7%90%AA
+      - https://en.wikipedia.org/wiki/Katherine_Tai
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104076331
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国贸易代表
+        org: office-of-the-united-states-trade-representative
+        from: 2021-03-18
+        to: 2025-01-20
+  - id: kathleen-biden
+    type: person
+    name: Kathleen Biden
+    names:
+      en: Kathleen Biden
+    gender: F
+    born: "1970"
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: former wife of Hunter Biden
+    ids:
+      wikidata: Q100598223
+    links:
+      - https://en.wikipedia.org/wiki/Kathleen_Buhle
+    tags:
+      - relative
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100598223
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kathleen-brown
+    type: person
+    name: Kathleen Brown
+    names:
+      zh: 凯瑟琳·布朗
+      en: Kathleen Brown
+    gender: F
+    born: 1945-09-25
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q6376665
+    links:
+      - https://en.wikipedia.org/wiki/Kathleen_Brown
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6376665
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 加利福尼亞州財政部長
+        from: 1991-01-07
+        to: 1995-01-02
+  - id: kathleen-kennedy-townsend
+    type: person
+    name: Kathleen Kennedy Townsend
+    names:
+      zh: 凯瑟琳·肯尼迪·汤森德
+      en: Kathleen Kennedy Townsend
+    gender: F
+    born: 1951-07-04
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 4
+    summary: Lieutenant Governor of Maryland from 1995 to 2003
+    ids:
+      wikidata: Q467861
+    links:
+      - https://en.wikipedia.org/wiki/Kathleen_Kennedy_Townsend
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q467861
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 馬里蘭州副州長
+        from: 1995-01-18
+        to: 2003-01-15
+  - id: kathleen-rice
+    type: person
+    name: Kathleen Rice
+    names:
+      zh: 凯瑟琳·赖斯
+      en: Kathleen Rice
+    gender: F
+    born: 1965-02-15
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American politician & lawyer (born 1965)
+    ids:
+      wikidata: Q6376887
+    links:
+      - https://en.wikipedia.org/wiki/Kathleen_Rice
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6376887
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 區域檢察長
+        from: "2005"
+        to: "2014"
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: kathleen-sebelius
+    type: person
+    name: Kathleen Sebelius
+    names:
+      zh: 凯瑟琳·西贝利厄斯
+      en: Kathleen Sebelius
+    gender: F
+    born: 1948-05-15
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: United States Secretary of Health and Human Services
+    ids:
+      wikidata: Q27677
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%AF%E7%91%9F%E7%90%B3%C2%B7%E8%A5%BF%E8%B4%9D%E5%88%A9%E5%8E%84%E6%96%AF
+      - https://en.wikipedia.org/wiki/Kathleen_Sebelius
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 34
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27677
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國衛生與公共服務部長
+        org: united-states-department-of-health-and-human-services
+        from: 2009-04-28
+        to: 2014-06-09
+      - title: 堪薩斯州州長
+        org: state-of-kansas
+        from: 2003-01-13
+        to: 2009-04-28
+      - title: 堪薩斯州眾議員
+        org: kansas-house-of-representatives
+      - title: Kansas Insurance Commissioner
+        from: 1995-01-09
+        to: 2003-01-13
+  - id: kathryn-burgum
+    type: person
+    name: Kathryn Burgum
+    names:
+      en: Kathryn Burgum
+    gender: F
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: First Lady of North Dakota
+    ids:
+      wikidata: Q97673554
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97673554
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kathy-castor
+    type: person
+    name: Kathy Castor
+    names:
+      zh: 凱西·卡斯特
+      en: Kathy Castor
+    gender: F
+    born: 1966-08-20
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American lawyer & politician (born 1966)
+    ids:
+      wikidata: Q458492
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%B1%E8%A5%BF%C2%B7%E5%8D%A1%E6%96%AF%E7%89%B9
+      - https://en.wikipedia.org/wiki/Kathy_Castor
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q458492
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 專員
+        org: commission
+        from: "2002"
+        to: "2006"
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+  - id: kathy-hochul
+    type: person
+    name: Kathy Hochul
+    names:
+      zh: 凯茜·霍楚尔
+      en: Kathy Hochul
+    gender: F
+    born: 1958-08-27
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: 美国律师和政治家
+    ids:
+      wikidata: Q45956
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%B1%E8%A5%BF%C2%B7%E9%9C%8D%E8%B5%AB%E7%88%BE
+      - https://en.wikipedia.org/wiki/Kathy_Hochul
+    tags:
+      - us-governors
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 39
+    sources:
+      - url: https://www.wikidata.org/wiki/Q45956
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 市政職員
+        from: "2003"
+        to: 2006-12-31
+      - title: 纽约州州长
+        org: state-of-new-york
+        from: 2021-08-24
+      - title: 紐約州副州長
+        org: new-york-state-senate
+        from: "2015"
+        to: 2021-08-23
+      - title: 美国众议员
+        org: us-house
+        from: 2011-06-01
+        to: 2013-01-03
+  - id: kathy-manning
+    type: person
+    name: Kathy Manning
+    names:
+      zh: 凱西·曼寧
+      en: Kathy Manning
+    gender: F
+    born: 1956-12-03
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q101136890
+    links:
+      - https://en.wikipedia.org/wiki/Kathy_Manning
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q101136890
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: kati-marton
+    type: person
+    name: Kati Marton
+    names:
+      zh: 凯蒂·马顿
+      en: Kati Marton
+    gender: F
+    born: 1949-04-03
+    country:
+      - US
+    sectors:
+      - culture
+      - media
+    tier: 4
+    summary: 美國作家
+    ids:
+      wikidata: Q454987
+    links:
+      - https://en.wikipedia.org/wiki/Kati_Marton
+    tags:
+      - relative
+    attrs:
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q454987
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: katie-blackburn
+    type: person
+    name: Katie Blackburn
+    names:
+      en: Katie Blackburn
+    gender: F
+    born: 1965-09-25
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American football executive
+    ids:
+      wikidata: Q6377400
+    links:
+      - https://en.wikipedia.org/wiki/Katie_Blackburn
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6377400
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: katie-britt
+    type: person
+    name: Katie Britt
+    names:
+      zh: 凯蒂·布里特
+      en: Katie Britt
+    gender: F
+    born: 1982-02-02
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: United States Senator from Alabama since 2023
+    ids:
+      wikidata: Q111285444
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%AF%E8%92%82%C2%B7%E5%B8%83%E9%87%8C%E7%89%B9
+      - https://en.wikipedia.org/wiki/Katie_Britt
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111285444
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+        to: 2025-01-03
+  - id: katie-hobbs
+    type: person
+    name: Katie Hobbs
+    names:
+      zh: 郝愷悌
+      en: Katie Hobbs
+    gender: F
+    born: 1969-12-28
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 亞利桑那州長
+    ids:
+      wikidata: Q16226012
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%AF%E8%92%82%C2%B7%E9%9C%8D%E5%B8%83%E6%96%AF
+      - https://en.wikipedia.org/wiki/Katie_Hobbs
+    tags:
+      - us-governors
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16226012
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 亞利桑那州州務卿
+        from: 2019-01-07
+        to: 2023-01-02
+      - title: 亞利桑那州眾議員
+        org: arizona-house-of-representatives
+        from: 2011-01-03
+        to: 2013-01-07
+      - title: 亞利桑那州參議員
+        org: arizona-senate
+        from: 2013-01-07
+        to: 2019-01-07
+      - title: 亞利桑那州州長
+        org: state-of-arizona
+        from: 2023-01-02
+  - id: katie-lucas
+    type: person
+    name: Katie Lucas
+    names:
+      zh: 凱蒂·盧卡斯
+      en: Katie Lucas
+    gender: F
+    born: 1988-04-13
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 5
+    summary: American actress
+    ids:
+      wikidata: Q6377498
+    links:
+      - https://en.wikipedia.org/wiki/Katie_Lucas
+    tags:
+      - relative
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6377498
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: katie-porter
+    type: person
+    name: Katie Porter
+    names:
+      zh: 凯蒂·波特
+      en: Katie Porter
+    gender: F
+    born: 1974-01-03
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國加州代表
+    ids:
+      wikidata: Q58754391
+    links:
+      - https://en.wikipedia.org/wiki/Katie_Porter
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58754391
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: kay-bailey-hutchison
+    type: person
+    name: Kay Bailey Hutchison
+    names:
+      zh: 凱·貝莉·哈奇森
+      en: Kay Bailey Hutchison
+    gender: F
+    born: 1943-07-22
+    country:
+      - US
+    sectors:
+      - business
+      - judiciary
+      - politics
+    tier: 4
+    summary: American politician (born 1943)
+    ids:
+      wikidata: Q239928
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%AF%C2%B7%E8%B4%9D%E5%88%A9%C2%B7%E5%93%88%E5%A5%87%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Kay_Bailey_Hutchison
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 33
+    sources:
+      - url: https://www.wikidata.org/wiki/Q239928
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        to: "1992"
+      - title: 副主席
+        from: "1976"
+        to: "1978"
+      - title: 德克萨斯州财政部长
+        from: 1991-01-15
+        to: 1993-06-14
+      - title: 美国驻北大西洋公约组织代表
+        org: nato
+        from: 2017-08-15
+        to: 2021-01-20
+      - title: 美國參議員
+        org: us-senate
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1999-01-03
+        to: 2001-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1995-01-03
+        to: 1997-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1997-01-03
+        to: 1999-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2005-01-03
+        to: 2007-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1993-06-14
+        to: 1995-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2011-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2003-01-03
+        to: 2005-01-03
+      - title: 德克薩斯州眾議員
+        org: texas-house-of-representatives
+        from: "1972"
+        to: "1976"
+  - id: kay-granger
+    type: person
+    name: Kay Granger
+    names:
+      zh: 凯·格兰杰
+      en: Kay Granger
+    gender: F
+    born: 1943-01-18
+    died: 2026-08-02
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q468807
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%B1%C2%B7%E6%A0%BC%E8%98%AD%E5%82%91
+      - https://en.wikipedia.org/wiki/Kay_Granger
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q468807
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 成员
+        org: membership-organization
+        from: "1989"
+        to: "1991"
+      - title: 成员
+        org: membership-organization
+        from: "1981"
+        to: "1989"
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: Mayor of Fort Worth, Texas
+        from: "1991"
+        to: "1995"
+  - id: kay-hagan
+    type: person
+    name: Kay Hagan
+    names:
+      zh: 凯·黑根
+      en: Kay Hagan
+    gender: F
+    born: 1953-05-26
+    died: 2019-10-28
+    country:
+      - US
+    sectors:
+      - business
+      - judiciary
+      - politics
+    tier: 4
+    summary: American politician (1953-2019)
+    ids:
+      wikidata: Q261003
+    links:
+      - https://en.wikipedia.org/wiki/Kay_Hagan
+    tags:
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q261003
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2011-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 北卡羅來納州參議員
+        org: north-carolina-senate
+        from: 1999-01-27
+        to: 2003-01-29
+      - title: 北卡羅來納州參議員
+        org: north-carolina-senate
+        from: 2003-01-29
+        to: 2009-01-03
+  - id: kay-ivey
+    type: person
+    name: Kay Ivey
+    names:
+      zh: 凱·艾維
+      en: Kay Ivey
+    gender: F
+    born: 1944-10-15
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: Governor of Alabama since 2017
+    ids:
+      wikidata: Q6380211
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%AF%C2%B7%E8%89%BE%E7%BB%B4
+      - https://en.wikipedia.org/wiki/Kay_Ivey
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 39
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6380211
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 阿拉巴馬州財政部長
+        from: 2003-01-20
+        to: 2011-01-17
+      - title: 亚拉巴马州州长
+        org: state-of-alabama
+        from: 2017-04-10
+  - id: ke-hua-1915
+    type: person
+    name: 柯华
+    names:
+      zh: 柯华
+      en: Ke Hua
+    gender: M
+    born: 1915-12-19
+    died: "2019"
+    country:
+      - CN
+    sectors:
+      - diplomacy
+    tier: 5
+    summary: 中国外交官
+    ids:
+      wikidata: Q9295825
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9F%AF%E5%8D%8E_(1915%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Ke_Hua
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9295825
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+  - id: ke-lingling
+    type: person
+    name: 柯玲玲
+    names:
+      zh: 柯玲玲
+      en: Ke Lingling
+    gender: F
+    born: "1951"
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    summary: 中国前驻英国大使柯华的女儿，习近平前妻
+    ids:
+      wikidata: Q97352031
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9F%AF%E7%8E%B2%E7%8E%B2
+      - https://en.wikipedia.org/wiki/Ke_Lingling
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97352031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: keith-kellogg
+    type: person
+    name: Keith Kellogg
+    names:
+      zh: 基思·凱洛格
+      en: Keith Kellogg
+    gender: M
+    born: 1944-05-12
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+    tier: 2
+    summary: 美国军人
+    ids:
+      wikidata: Q27916194
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%BA%E6%80%9D%C2%B7%E5%87%B1%E6%B4%9B%E6%A0%BC
+      - https://en.wikipedia.org/wiki/Keith_Kellogg
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27916194
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 总统国家安全事务助理
+        org: united-states-national-security-council
+        from: 2017-02-13
+        to: 2017-02-20
+  - id: keith-murdoch
+    type: person
+    name: Keith Murdoch
+    names:
+      zh: 基思·默多克
+      en: Keith Murdoch
+    gender: M
+    born: 1885-08-12
+    died: 1952-10-04
+    country:
+      - AU
+    sectors:
+      - business
+      - media
+    tier: 4
+    summary: 澳大利亚记者（1885－1952）
+    ids:
+      wikidata: Q3132687
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%BA%E6%80%9D%C2%B7%E9%BB%98%E5%A4%9A%E5%85%8B
+      - https://en.wikipedia.org/wiki/Keith_Murdoch
+    tags:
+      - relative
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3132687
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: keith-self
+    type: person
+    name: Keith Self
+    names:
+      zh: 基思·塞尔夫
+      en: Keith Self
+    gender: M
+    born: 1953-03-20
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q115137462
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%BA%E6%80%9D%C2%B7%E5%A1%9E%E5%B0%94%E5%A4%AB
+      - https://en.wikipedia.org/wiki/Keith_Self
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115137462
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+  - id: keith-sonderling
+    type: person
+    name: Keith Sonderling
+    names:
+      zh: 基思·桑德林
+      en: Keith Sonderling
+    gender: M
+    born: 1982-11-25
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: American lawyer (born 1982)
+    ids:
+      wikidata: Q73030183
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%BA%E6%80%9D%C2%B7%E6%A1%91%E5%BE%B7%E6%9E%97
+      - https://en.wikipedia.org/wiki/Keith_Sonderling
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q73030183
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国劳工部长
+        org: united-states-department-of-labor
+        from: 2026-04-20
+      - title: 美国劳工副部长
+        from: 2025-03-14
+      - title: acting director
+        from: "2025"
+  - id: kelcy-warren
+    type: person
+    name: Kelcy Warren
+    names:
+      zh: 科尔茨·沃伦
+      en: Kelcy Warren
+    gender: M
+    born: 1955-11-09
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American businessperson and board member, Chairman and CEO of Energy Transfer
+    netWorth:
+      usd: 7500000000
+    ids:
+      wikidata: Q6385527
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%A7%91%E5%B0%94%E8%8C%A8%C2%B7%E6%B2%83%E4%BC%A6
+      - https://en.wikipedia.org/wiki/Kelcy_Warren
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6385527
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kelley-paul
+    type: person
+    name: Kelley Paul
+    names:
+      zh: 凱利·保罗
+      en: Kelley Paul
+    gender: F
+    born: 1963-09-03
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American political consultant (born 1963)
+    ids:
+      wikidata: Q19893979
+    links:
+      - https://en.wikipedia.org/wiki/Kelley_Paul
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19893979
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kelly-ayotte
+    type: person
+    name: Kelly Ayotte
+    names:
+      zh: 凯利•阿约特
+      en: Kelly Ayotte
+    gender: F
+    born: 1968-06-27
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: 美國政治人物
+    ids:
+      wikidata: Q22354
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%AF%E8%8E%89%C2%B7%E9%98%BF%E7%BA%A6%E7%89%B9
+      - https://en.wikipedia.org/wiki/Kelly_Ayotte
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 33
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22354
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 新罕布什爾州州長
+        org: state-of-new-hampshire
+        from: 2025-01-09
+      - title: 新罕布什爾州檢察長
+        org: new-hampshire-department-of-justice
+        from: 2004-06-15
+        to: 2009-07-17
+      - title: deputy attorney general
+        from: "2004"
+        to: "2009"
+  - id: kelly-craft
+    type: person
+    name: Kelly Craft
+    names:
+      zh: 凯莉·克拉夫特
+      en: Kelly Craft
+    gender: F
+    born: 1962-02-24
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+      - diplomacy
+    tier: 2
+    summary: American businesswoman and diplomat (born 1962)
+    ids:
+      wikidata: Q28871485
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%B1%E8%8E%89%C2%B7%E5%85%8B%E6%8B%89%E5%A4%AB%E7%89%B9
+      - https://en.wikipedia.org/wiki/Kelly_Craft
+    tags:
+      - us-executive
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28871485
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国常驻联合国代表列表
+        org: united-states-mission-to-the-united-nations
+        from: 2019-09-12
+        to: 2021-01-20
+      - title: 美國駐加拿大大使
+        from: 2017-10-23
+        to: 2019-08-23
+  - id: kelly-harmon
+    type: person
+    name: Kelly Harmon
+    names:
+      en: Kelly Harmon
+    gender: F
+    born: 1948-11-09
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 5
+    summary: 美国女演员
+    ids:
+      wikidata: Q3194892
+    links:
+      - https://en.wikipedia.org/wiki/Kelly_Harmon
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3194892
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kelly-loeffler
+    type: person
+    name: Kelly Loeffler
+    names:
+      zh: 凯利·洛夫勒
+      en: Kelly Loeffler
+    gender: F
+    born: 1970-11-27
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 2
+    summary: American businesswoman and politician (born 1970)
+    netWorth:
+      usd: 165000000
+    ids:
+      wikidata: Q76570207
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%B1%E8%8E%89%C2%B7%E8%90%8A%E5%A4%AB%E5%8B%92
+      - https://en.wikipedia.org/wiki/Kelly_Loeffler
+    tags:
+      - us-executive
+      - us-congress
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 35
+    sources:
+      - url: https://www.wikidata.org/wiki/Q76570207
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席执行官
+        from: "2018"
+        to: "2020"
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2021-01-20
+      - title: 美國參議員
+        org: us-senate
+        from: 2020-01-06
+        to: 2021-01-03
+      - title: 小型企業管理署署長
+        org: small-business-administration
+        from: 2025-02-20
+  - id: kelly-m-armstrong
+    type: person
+    name: Kelly M. Armstrong
+    names:
+      zh: 凯莉·阿姆斯特朗
+      en: Kelly M. Armstrong
+    gender: M
+    born: 1976-10-08
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: Governor of North Dakota since 2024
+    ids:
+      wikidata: Q50362353
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%AF%E5%88%A9%C2%B7%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E6%9C%97
+      - https://en.wikipedia.org/wiki/Kelly_Armstrong
+    tags:
+      - us-congress
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50362353
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 北達科他州州長
+        org: state-of-north-dakota
+        from: 2024-12-15
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2024-12-14
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: member of the State Senate of North Dakota
+        org: north-dakota-senate
+        from: 2012-12-01
+        to: 2018-11-08
+  - id: kelly-zong
+    type: person
+    name: 宗馥莉
+    names:
+      zh: 宗馥莉
+      en: Kelly Zong
+    gender: F
+    born: 1982-01-15
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 5
+    summary: Chinese businesswoman
+    ids:
+      wikidata: Q6386349
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AE%97%E9%A6%A5%E8%8E%89
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6386349
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ken-buck
+    type: person
+    name: Ken Buck
+    names:
+      zh: 肯·巴克
+      en: Ken Buck
+    gender: M
+    born: 1959-02-16
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+      - business
+    tier: 4
+    summary: American politician (born 1959)
+    ids:
+      wikidata: Q1439421
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%82%AF%C2%B7%E5%B7%B4%E5%85%8B
+      - https://en.wikipedia.org/wiki/Ken_Buck
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1439421
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 檢察官
+        org: public-prosecutor-s-office
+        from: "1987"
+        to: "1990"
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2024-03-22
+  - id: ken-calvert
+    type: person
+    name: Ken Calvert
+    names:
+      zh: 肯·卡爾沃特
+      en: Ken Calvert
+    gender: M
+    born: 1953-06-08
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: U.S. Representative from California
+    ids:
+      wikidata: Q538978
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%82%AF%C2%B7%E5%8D%A1%E7%88%BE%E5%BC%97%E7%89%B9
+      - https://en.wikipedia.org/wiki/Ken_Calvert
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q538978
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: "1984"
+        to: "1988"
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+  - id: ken-fisher
+    type: person
+    name: Ken Fisher
+    names:
+      zh: 肯尼斯·L.费希尔
+      en: Ken Fisher
+    gender: M
+    born: 1950-11-29
+    country:
+      - US
+    sectors:
+      - business
+      - media
+    tier: 3
+    summary: American investment adviser & analyst
+    netWorth:
+      usd: 11200000000
+    ids:
+      wikidata: Q6390103
+    links:
+      - https://en.wikipedia.org/wiki/Kenneth_Fisher
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6390103
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ken-griffin
+    type: person
+    name: Kenneth C. Griffin
+    names:
+      zh: 肯·格里芬
+      en: Kenneth C. Griffin
+    gender: M
+    born: 1968-10-15
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美国基金管理人
+    netWorth:
+      usd: 22700000000
+    ids:
+      wikidata: Q3195170
+    links:
+      - https://en.wikipedia.org/wiki/Ken_Griffin
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3195170
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ken-hendricks
+    type: person
+    name: Ken Hendricks
+    names:
+      en: Ken Hendricks
+    gender: M
+    born: 1941-12-08
+    died: 2007-12-21
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman (1941–2007)
+    ids:
+      wikidata: Q4497226
+    links:
+      - https://en.wikipedia.org/wiki/Ken_Hendricks
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4497226
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ken-olsen
+    type: person
+    name: Ken Olsen
+    names:
+      zh: 肯尼思·奧爾森
+      en: Ken Olsen
+    gender: M
+    born: 1926-02-20
+    died: 2011-02-06
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: American engineer and businessman (1926–2011)
+    ids:
+      wikidata: Q454315
+    links:
+      - https://en.wikipedia.org/wiki/Ken_Olsen
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 31
+    sources:
+      - url: https://www.wikidata.org/wiki/Q454315
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ken-salazar
+    type: person
+    name: Ken Salazar
+    names:
+      zh: 肯·萨拉查
+      en: Ken Salazar
+    gender: M
+    born: 1955-03-02
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: United States Ambassador to Mexico from 2021 to 2025
+    ids:
+      wikidata: Q342586
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%82%AF%C2%B7%E8%96%A9%E6%8B%89%E6%9F%A5
+      - https://en.wikipedia.org/wiki/Ken_Salazar
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q342586
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國內政部長
+        org: united-states-department-of-the-interior
+        from: 2009-01-20
+        to: 2013-04-12
+      - title: 美國參議員
+        org: us-senate
+        from: 2005-01-03
+        to: 2007-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2009-01-20
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美國駐墨西哥大使列表
+        org: embassy-of-the-united-states-mexico-city
+        from: 2021-09-14
+      - title: Colorado Attorney General
+        from: "1999"
+        to: "2005"
+  - id: ken-williams
+    type: person
+    name: Ken Williams
+    names:
+      zh: 肯·威廉士
+      en: Ken Williams
+    gender: M
+    born: 1954-10-30
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: 美国电子游戏程序师、企业家
+    ids:
+      wikidata: Q956112
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%82%AF%C2%B7%E5%A8%81%E5%BB%89%E6%96%AF_(%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E8%80%85)
+      - https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q956112
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ken-xie
+    type: person
+    name: Ken Xie
+    names:
+      zh: 謝青
+      en: Ken Xie
+    gender: M
+    born: "1963"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国华人企业家
+    netWorth:
+      usd: 5600000000
+    ids:
+      wikidata: Q16924425
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%AC%9D%E9%9D%92
+      - https://en.wikipedia.org/wiki/Ken_Xie
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16924425
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kendalle-getty
+    type: person
+    name: Kendalle Getty
+    names:
+      en: Kendalle Getty
+    gender: F
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 5
+    summary: American artist
+    ids:
+      wikidata: Q131278902
+    links:
+      - https://en.wikipedia.org/wiki/Kendalle_Getty
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q131278902
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kenneth-braithwaite
+    type: person
+    name: Kenneth Braithwaite
+    names:
+      zh: 肯尼斯·布雷斯韋特
+      en: Kenneth Braithwaite
+    gender: M
+    born: "1960"
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+      - diplomacy
+    tier: 2
+    summary: 美国政治人物
+    ids:
+      wikidata: Q42316397
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%82%AF%E5%B0%BC%E6%80%9D%C2%B7%E5%B8%83%E9%9B%B7%E6%80%9D%E9%9F%A6%E7%89%B9
+      - https://en.wikipedia.org/wiki/Kenneth_Braithwaite
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q42316397
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国海军部长
+        org: united-states-department-of-the-navy
+        from: 2020-05-29
+        to: 2021-01-20
+      - title: 美国驻挪威大使
+        org: embassy-of-the-united-states-oslo
+        from: 2018-02-08
+        to: 2020-05-29
+  - id: kenneth-c-edelin
+    type: person
+    name: Kenneth C. Edelin
+    names:
+      en: Kenneth C. Edelin
+    gender: M
+    born: 1939-03-31
+    died: 2013-12-30
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American gynecologists and supporter of abortion rights
+    ids:
+      wikidata: Q15992936
+    links:
+      - https://en.wikipedia.org/wiki/Kenneth_C._Edelin
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15992936
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kenneth-duberstein
+    type: person
+    name: Kenneth Duberstein
+    names:
+      zh: 肯尼斯·杜波斯坦
+      en: Kenneth Duberstein
+    gender: M
+    born: 1944-04-21
+    died: 2022-03-02
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American lobbyist and businessman (1944–2022)
+    ids:
+      wikidata: Q924842
+    links:
+      - https://en.wikipedia.org/wiki/Kenneth_Duberstein
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q924842
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 白宮幕僚長
+        org: executive-office-of-the-president-of-the-united-states
+        from: 1988-07-01
+        to: 1989-01-20
+      - title: 白宮副幕僚長
+        from: 1987-02-27
+        to: 1988-07-01
+  - id: kenneth-fok
+    type: person
+    name: 霍启刚
+    names:
+      zh: 霍启刚
+      en: Kenneth Fok
+    gender: M
+    born: 1979-07-02
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 5
+    summary: 香港商人
+    ids:
+      wikidata: Q8958593
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9C%8D%E5%95%9F%E5%89%9B
+      - https://en.wikipedia.org/wiki/Kenneth_Fok
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8958593
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 香港立法會議員
+        org: legislative-council-of-hong-kong
+        from: "2022"
+        to: 2025-12-31
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: kenneth-hsu
+    type: person
+    name: 许靖华
+    names:
+      zh: 许靖华
+      en: Kenneth Hsu
+    gender: M
+    born: 1929-06-28
+    country:
+      - CN
+    sectors:
+      - business
+      - culture
+    tier: 4
+    summary: professor, Swiss Federal Institute of Technology, Zuerich, Switzerland
+    ids:
+      wikidata: Q707230
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%AE%B8%E9%9D%96%E5%8D%8E
+      - https://en.wikipedia.org/wiki/Kenneth_Hsu
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q707230
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kenneth-langone
+    type: person
+    name: Kenneth Langone
+    names:
+      en: Kenneth Langone
+    gender: M
+    born: 1935-09-16
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 9300000000
+    ids:
+      wikidata: Q6390362
+    links:
+      - https://en.wikipedia.org/wiki/Ken_Langone
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6390362
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kerry-kennedy
+    type: person
+    name: Kerry Kennedy
+    names:
+      zh: 凯莉·肯尼迪
+      en: Kerry Kennedy
+    gender: F
+    born: 1959-09-08
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 4
+    summary: American human rights activist (born 1959)
+    ids:
+      wikidata: Q467912
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%AF%E8%8E%89%C2%B7%E8%82%AF%E5%B0%BC%E8%BF%AA
+      - https://en.wikipedia.org/wiki/Kerry_Kennedy
+    tags:
+      - relative
+    attrs:
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q467912
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ketanji-brown-jackson
+    type: person
+    name: Ketanji Brown Jackson
+    names:
+      zh: 凯坦吉·布朗·杰克逊
+      en: Ketanji Brown Jackson
+    gender: F
+    born: 1970-09-14
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 2
+    summary: 美国最高法院大法官
+    ids:
+      wikidata: Q6395324
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%AF%E5%9D%A6%E5%90%89%C2%B7%E5%B8%83%E6%9C%97%C2%B7%E6%9D%B0%E5%85%8B%E9%80%8A
+      - https://en.wikipedia.org/wiki/Ketanji_Brown_Jackson
+    tags:
+      - us-judiciary
+    attrs:
+      sitelinks: 43
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6395324
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國最高法院大法官
+        org: us-supreme-court
+        from: 2022-06-30
+      - title: 美国哥伦比亚特区联邦巡回上诉法院法官
+        from: 2021-06-17
+        to: 2022-06-30
+      - title: 美国联邦法官
+        from: 2013-03-26
+        to: 2021-06-17
+  - id: kevin-boyce
+    type: person
+    name: Kevin Boyce
+    names:
+      en: Kevin Boyce
+    gender: M
+    born: "1971"
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: American politician of the Democratic Party
+    ids:
+      wikidata: Q6395867
+    links:
+      - https://en.wikipedia.org/wiki/Kevin_Boyce
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6395867
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 俄亥俄州司庫
+        from: "2009"
+        to: "2011"
+      - title: 俄亥俄州眾議員
+        org: ohio-house-of-representatives
+        from: 2012-05-06
+        to: 2016-12-31
+  - id: kevin-brady
+    type: person
+    name: Kevin Brady
+    names:
+      zh: 凱文·布拉迪
+      en: Kevin Brady
+    gender: M
+    born: 1955-04-11
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician
+    ids:
+      wikidata: Q472241
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%B1%E6%96%87%C2%B7%E5%B8%83%E9%9B%B7%E8%BF%AA
+      - https://en.wikipedia.org/wiki/Kevin_Brady
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q472241
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 德克薩斯州眾議員
+        org: texas-house-of-representatives
+        from: 1991-01-10
+        to: 1997-01-14
+  - id: kevin-cramer
+    type: person
+    name: Kevin Cramer
+    names:
+      zh: 凱文·克拉默
+      en: Kevin Cramer
+    gender: M
+    born: 1961-01-21
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 美国政治人物
+    ids:
+      wikidata: Q3957020
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%B1%E6%96%87%C2%B7%E5%85%8B%E6%8B%89%E9%BB%98
+      - https://en.wikipedia.org/wiki/Kevin_Cramer
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3957020
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+  - id: kevin-hassett
+    type: person
+    name: Kevin Hassett
+    names:
+      zh: 凱文·哈塞特
+      en: Kevin Hassett
+    gender: M
+    born: 1962-03-20
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+    tier: 2
+    summary: American economist (born 1962)
+    ids:
+      wikidata: Q6396461
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E5%93%88%E8%A5%BF%E7%89%B9
+      - https://en.wikipedia.org/wiki/Kevin_Hassett
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6396461
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國總統資深顧問
+        org: white-house-office
+        from: 2020-04-15
+        to: 2020-07-01
+      - title: Chair of the Council of Economic Advisers
+        org: council-of-economic-advisers
+        from: 2017-09-13
+        to: 2019-06-28
+  - id: kevin-hern
+    type: person
+    name: Kevin Hern
+    names:
+      zh: 凯文·赫恩
+      en: Kevin Hern
+    gender: M
+    born: 1961-12-04
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: American politician (born 1961)
+    ids:
+      wikidata: Q58333614
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%B1%E6%96%87%C2%B7%E8%B5%AB%E6%81%A9
+      - https://en.wikipedia.org/wiki/Kevin_Hern
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58333614
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2018-11-13
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: kevin-j-boyle
+    type: person
+    name: Kevin J. Boyle
+    names:
+      en: Kevin J. Boyle
+    gender: M
+    born: 1980-02-07
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q6396563
+    links:
+      - https://en.wikipedia.org/wiki/Kevin_J._Boyle
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6396563
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 賓夕法尼亞州眾議員
+        org: pennsylvania-house-of-representatives
+        from: "2010"
+  - id: kevin-kiley
+    type: person
+    name: Kevin Kiley
+    names:
+      zh: 凯文·基利
+      en: Kevin Kiley
+    gender: M
+    born: 1985-01-30
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q27987136
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%B1%E6%96%87%C2%B7%E5%9F%BA%E5%88%A9_(%E6%94%BF%E6%B2%BB%E5%AE%B6)
+      - https://en.wikipedia.org/wiki/Kevin_Kiley_(politician)
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27987136
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: 2016-12-05
+        to: 2022-11-30
+  - id: kevin-maxwell
+    type: person
+    name: Kevin Maxwell
+    names:
+      zh: 凯文·麦克斯韦
+      en: Kevin Maxwell
+    gender: M
+    born: "1959"
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: British businessman
+    ids:
+      wikidata: Q6396877
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%B1%E6%96%87%C2%B7%E9%BA%A5%E5%85%8B%E6%96%AF%E9%9F%8B
+      - https://en.wikipedia.org/wiki/Kevin_Maxwell
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6396877
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kevin-mcaleenan
+    type: person
+    name: Kevin McAleenan
+    names:
+      zh: 凯文·麦卡伦南
+      en: Kevin McAleenan
+    gender: M
+    born: 1971-09-05
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: former Acting Secretary of Homeland Security
+    ids:
+      wikidata: Q30122656
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E9%BA%A6%E5%8D%A1%E5%88%A9%E5%8D%97
+      - https://en.wikipedia.org/wiki/Kevin_McAleenan
+    tags:
+      - us-executive
+      - party:independent politician
+    attrs:
+      party: independent politician
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30122656
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國國土安全部長
+        org: united-states-department-of-homeland-security
+        from: 2019-04-11
+        to: 2019-10-11
+  - id: kevin-mccarthy
+    type: person
+    name: Kevin McCarthy
+    names:
+      zh: 凯文·麦卡锡
+      en: Kevin McCarthy
+    gender: M
+    born: 1965-01-26
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: 美国政治人物
+    ids:
+      wikidata: Q766866
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%B1%E6%96%87%C2%B7%E9%BA%A5%E5%8D%A1%E9%8C%AB
+      - https://en.wikipedia.org/wiki/Kevin_McCarthy
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 53
+    sources:
+      - url: https://www.wikidata.org/wiki/Q766866
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國眾議院議長
+        org: us-house
+        from: 2023-01-07
+        to: 2023-10-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2023-12-31
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国国会职员
+        from: "1987"
+        to: "2002"
+      - title: 少数党领袖
+        org: new-york-state-assembly
+        from: "2004"
+        to: "2006"
+      - title: 少数党领袖
+        org: new-york-state-assembly
+        from: 2019-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: 2002-12-02
+        to: 2006-11-30
+      - title: Majority Leader of the United States House of Representatives
+        from: 2014-08-01
+        to: 2019-01-03
+  - id: kevin-mullin
+    type: person
+    name: Kevin Mullin
+    names:
+      zh: 凯文·穆林
+      en: Kevin Mullin
+    gender: M
+    born: 1970-06-15
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q6397046
+    links:
+      - https://en.wikipedia.org/wiki/Kevin_Mullin
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6397046
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: 2012-12-03
+        to: 2022-12-05
+  - id: kevin-stitt
+    type: person
+    name: Kevin Stitt
+    names:
+      zh: 凱文·史基特
+      en: Kevin Stitt
+    gender: M
+    born: 1972-12-28
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 第28任俄克拉荷马州州长
+    ids:
+      wikidata: Q58322517
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E6%96%AF%E8%92%82%E7%89%B9
+      - https://en.wikipedia.org/wiki/Kevin_Stitt
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58322517
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 奧克拉荷馬州長
+        org: state-of-oklahoma
+        from: 2019-01-14
+  - id: kevin-systrom
+    type: person
+    name: Kevin Systrom
+    names:
+      zh: 凱文·斯特羅姆
+      en: Kevin Systrom
+    gender: M
+    born: 1983-12-30
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: American computer programmer and entrepreneur (born 1983)
+    ids:
+      wikidata: Q10314243
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%B1%E6%96%87%C2%B7%E6%96%AF%E7%89%B9%E7%BE%85%E5%A7%86
+      - https://en.wikipedia.org/wiki/Kevin_Systrom
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 36
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10314243
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kevin-warsh
+    type: person
+    name: Kevin Warsh
+    names:
+      zh: 凱文·沃許
+      en: Kevin Warsh
+    gender: M
+    born: 1970-04-13
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+      - finance
+    tier: 2
+    summary: 美国金融家
+    ids:
+      wikidata: Q6397725
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%87%AF%E6%96%87%C2%B7%E6%B2%83%E4%BB%80
+      - https://en.wikipedia.org/wiki/Kevin_Warsh
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6397725
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美联储主席
+        org: federal-reserve
+        from: 2026-05-22
+  - id: keyu-jin
+    type: person
+    name: 金刻羽
+    names:
+      zh: 金刻羽
+      en: Keyu Jin
+    gender: F
+    born: "1982"
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 5
+    summary: 经济学家
+    ids:
+      wikidata: Q76713918
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%87%91%E5%88%BB%E7%BE%BD
+      - https://en.wikipedia.org/wiki/Keyu_Jin
+    tags:
+      - relative
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q76713918
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: khloe-kardashian
+    type: person
+    name: Khloé Kardashian
+    names:
+      zh: 赫洛·卡戴珊
+      en: Khloé Kardashian
+    gender: F
+    born: 1984-06-27
+    country:
+      - US
+    sectors:
+      - culture
+      - business
+    tier: 3
+    summary: American media personality, influencer, and businesswoman
+    ids:
+      wikidata: Q231270
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%85%8B%E7%BE%85%E4%BC%8A%C2%B7%E5%8D%A1%E6%88%B4%E7%8F%8A
+      - https://en.wikipedia.org/wiki/Khlo%C3%A9_Kardashian
+    tags:
+      - relative
+    attrs:
+      sitelinks: 58
+    sources:
+      - url: https://www.wikidata.org/wiki/Q231270
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kim-kardashian
+    type: person
+    name: Kim Kardashian
+    names:
+      zh: 金·卡戴珊
+      en: Kim Kardashian
+    gender: F
+    born: 1980-10-21
+    country:
+      - US
+    sectors:
+      - culture
+      - business
+      - media
+    tier: 3
+    summary: 美国艺人
+    netWorth:
+      usd: 85000000
+    ids:
+      wikidata: Q186304
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%87%91%C2%B7%E5%8D%A1%E6%88%B4%E7%8F%8A
+      - https://en.wikipedia.org/wiki/Kim_Kardashian
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 113
+    sources:
+      - url: https://www.wikidata.org/wiki/Q186304
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kim-kiyosaki
+    type: person
+    name: Kim Kiyosaki
+    names:
+      zh: 金·清崎
+      en: Kim Kiyosaki
+    gender: F
+    born: "1957"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: (born 1957)
+    ids:
+      wikidata: Q61109203
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q61109203
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kim-pegula
+    type: person
+    name: Kim Pegula
+    names:
+      zh: 金·佩古拉
+      en: Kim Pegula
+    gender: F
+    born: 1969-06-07
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American businesswoman
+    ids:
+      wikidata: Q24049012
+    links:
+      - https://en.wikipedia.org/wiki/Kim_Pegula
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24049012
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 会长
+        org: organization
+  - id: kim-reynolds
+    type: person
+    name: Kim Reynolds
+    names:
+      zh: 金·雷诺兹
+      en: Kim Reynolds
+    gender: F
+    born: 1959-08-04
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: Governor of Iowa since 2017
+    ids:
+      wikidata: Q6409269
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%87%91%C2%B7%E9%9B%B7%E8%AF%BA%E5%85%B9
+      - https://en.wikipedia.org/wiki/Kim_Reynolds
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 33
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6409269
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 艾奥瓦州州长
+        org: state-of-iowa
+        from: 2017-05-24
+      - title: 艾奧瓦州參議員
+        org: iowa-senate
+  - id: kim-schrier
+    type: person
+    name: Kim Schrier
+    names:
+      zh: 基姆·施里爾
+      en: Kim Schrier
+    gender: F
+    born: 1968-08-23
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician
+    ids:
+      wikidata: Q58333616
+    links:
+      - https://en.wikipedia.org/wiki/Kim_Schrier
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58333616
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: kimani-vidal
+    type: person
+    name: Kimani Vidal
+    names:
+      en: Kimani Vidal
+    gender: M
+    born: 2001-08-28
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American football player (born 2001)
+    ids:
+      wikidata: Q123001109
+    links:
+      - https://en.wikipedia.org/wiki/Kimani_Vidal
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q123001109
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kimbal-musk
+    type: person
+    name: Kimbal Musk
+    names:
+      zh: 金巴尔·马斯克
+      en: Kimbal Musk
+    gender: M
+    born: 1972-09-20
+    country:
+      - CA
+      - US
+      - ZA
+    sectors:
+      - business
+    tier: 4
+    summary: 南非裔企業家
+    netWorth:
+      usd: 2500000000
+    ids:
+      wikidata: Q6409751
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%87%91%E5%B7%B4%E7%88%BE%C2%B7%E9%A6%AC%E6%96%AF%E5%85%8B
+      - https://en.wikipedia.org/wiki/Kimbal_Musk
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6409751
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kimberly-guilfoyle
+    type: person
+    name: Kimberly Guilfoyle
+    names:
+      zh: 金柏莉·吉爾福伊爾
+      en: Kimberly Guilfoyle
+    gender: F
+    born: 1969-03-09
+    country:
+      - US
+    sectors:
+      - judiciary
+      - media
+    tier: 4
+    summary: 美國駐希臘大使
+    ids:
+      wikidata: Q13560902
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%87%91%E4%BC%AF%E8%8E%89%C2%B7%E5%90%89%E5%B0%94%E7%A6%8F%E4%BC%8A%E5%B0%94
+      - https://en.wikipedia.org/wiki/Kimberly_Guilfoyle
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 23
+    sources:
+      - url: https://www.wikidata.org/wiki/Q13560902
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 第一夫人
+        org: first-family
+        from: 2004-01-08
+        to: 2006-02-28
+      - title: 美國駐希臘大使列表
+        org: embassy-of-the-united-states-athens
+        from: 2025-09-29
+  - id: kirsten-gillibrand
+    type: person
+    name: Kirsten Gillibrand
+    names:
+      zh: 陆天娜
+      en: Kirsten Gillibrand
+    gender: F
+    born: 1966-12-09
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - judiciary
+    tier: 3
+    summary: 來自紐約的美國參議員
+    ids:
+      wikidata: Q22222
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%99%86%E5%A4%A9%E5%A8%9C
+      - https://en.wikipedia.org/wiki/Kirsten_Gillibrand
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 49
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22222
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-26
+        to: 2011-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-03
+        to: 2009-01-26
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-03
+        to: 2009-01-03
+  - id: kirstjen-nielsen
+    type: person
+    name: Kirstjen Nielsen
+    names:
+      zh: 克斯珍·尼尔森
+      en: Kirstjen Nielsen
+    gender: F
+    born: 1972-05-14
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: 美國政府官員和國家安全專家
+    ids:
+      wikidata: Q38858352
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9F%BA%E5%B0%94%E4%B8%9D%E6%BB%95%C2%B7%E5%B0%BC%E5%B0%94%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Kirstjen_Nielsen
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 32
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38858352
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國國土安全部長
+        org: united-states-department-of-homeland-security
+        from: 2017-12-06
+        to: 2019-04-05
+      - title: 白宮副幕僚長
+        from: 2017-09-06
+        to: 2017-12-06
+  - id: klaus-friedrich-thiel
+    type: person
+    name: Klaus Friedrich Thiel
+    names:
+      en: Klaus Friedrich Thiel
+    gender: M
+    born: "1938"
+    died: "2022"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q135873314
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q135873314
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kong-dongmei
+    type: person
+    name: 孔东梅
+    names:
+      zh: 孔东梅
+      en: Kong Dongmei
+    gender: F
+    born: "1972"
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国企业家
+    ids:
+      wikidata: Q15910734
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AD%94%E4%B8%9C%E6%A2%85
+      - https://en.wikipedia.org/wiki/Kong_Dongmei
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15910734
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kong-jining
+    type: person
+    name: 孔继宁
+    names:
+      zh: 孔继宁
+      en: Kong Jining
+    gender: M
+    born: 1962-10-27
+    country:
+      - CN
+    sectors:
+      - diplomacy
+    tier: 5
+    summary: 中国企业家
+    ids:
+      wikidata: Q30944759
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AD%94%E7%B9%BC%E5%AF%A7
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30944759
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kong-jun
+    type: person
+    name: 孔军
+    names:
+      zh: 孔军
+      en: Kong Jun
+    gender: M
+    born: "1964"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q55696222
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AD%94%E5%86%9B
+      - https://en.wikipedia.org/wiki/Kong_Jun
+    tags:
+      - cn-military
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55696222
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: kong-linghua
+    type: person
+    name: 孔令华
+    names:
+      zh: 孔令华
+      en: Kong Linghua
+    gender: M
+    born: "1935"
+    died: "1999"
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 5
+    summary: 中国企业家
+    ids:
+      wikidata: Q15921491
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AD%94%E4%BB%A4%E5%8D%8E
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15921491
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kong-ying
+    type: person
+    name: 孔瑛
+    names:
+      zh: 孔瑛
+    gender: M
+    born: "1945"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8315653
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AD%94%E7%91%9B
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315653
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: kou-xianxiang
+    type: person
+    name: 寇宪祥
+    names:
+      zh: 寇宪祥
+    gender: M
+    born: "1944"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8315700
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AF%87%E5%AE%AA%E7%A5%A5
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315700
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: kourtney-kardashian
+    type: person
+    name: Kourtney Kardashian
+    names:
+      zh: 考特妮·卡戴珊
+      en: Kourtney Kardashian
+    gender: F
+    born: 1979-04-18
+    country:
+      - US
+    sectors:
+      - culture
+      - business
+    tier: 3
+    summary: American media personality, model and businesswoman (born 1979)
+    ids:
+      wikidata: Q575689
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AF%87%E7%89%B9%E5%A6%AE%C2%B7%E5%8D%A1%E6%88%B4%E7%8F%8A
+      - https://en.wikipedia.org/wiki/Kourtney_Kardashian
+    tags:
+      - relative
+    attrs:
+      sitelinks: 57
+    sources:
+      - url: https://www.wikidata.org/wiki/Q575689
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kris-jenner
+    type: person
+    name: Kris Jenner
+    names:
+      zh: 克丽丝·詹纳
+      en: Kris Jenner
+    gender: F
+    born: 1955-11-05
+    country:
+      - US
+    sectors:
+      - family
+    tier: 3
+    summary: American media personality, socialite, and businesswoman
+    ids:
+      wikidata: Q1138235
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%85%8B%E8%8E%89%E7%B5%B2%C2%B7%E8%A9%B9%E7%B4%8D
+      - https://en.wikipedia.org/wiki/Kris_Jenner
+    tags:
+      - relative
+    attrs:
+      sitelinks: 50
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1138235
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: krisjanis-karins
+    type: person
+    name: Krišjānis Kariņš
+    names:
+      zh: 艾特爾斯·克里斯亞尼斯·卡林斯
+      en: Krišjānis Kariņš
+    gender: M
+    born: 1964-12-13
+    country:
+      - US
+      - LV
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: 拉脱维亚政治人物
+    ids:
+      wikidata: Q3736499
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%85%8B%E9%87%8C%E4%BB%80%E4%BA%9E%E5%B0%BC%E6%96%AF%C2%B7%E5%8D%A1%E6%9E%97%E4%BB%80
+      - https://en.wikipedia.org/wiki/Kri%C5%A1j%C4%81nis_Kari%C5%86%C5%A1
+    tags:
+      - us-business
+      - party:Unity
+    attrs:
+      party: Unity
+      sitelinks: 49
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3736499
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 歐洲議會議員
+        org: european-parliament
+        from: 2009-07-14
+        to: 2014-06-30
+      - title: 歐洲議會議員
+        org: european-parliament
+        from: 2014-07-01
+        to: 2019-01-22
+      - title: 拉脫維亞總理
+        from: 2019-01-23
+        to: 2023-09-15
+      - title: 拉脱维亚议会议员
+      - title: 拉脱维亚议会议员
+        from: 2006-11-07
+        to: 2009-07-16
+  - id: kristen-mcdonald-rivet
+    type: person
+    name: Kristen McDonald Rivet
+    names:
+      en: Kristen McDonald Rivet
+    gender: F
+    born: 1970-07-11
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q115227000
+    links:
+      - https://en.wikipedia.org/wiki/Kristen_McDonald_Rivet
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115227000
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 密歇根州參議員
+        org: michigan-senate
+        from: "2023"
+        to: "2025"
+  - id: kristi-noem
+    type: person
+    name: Kristi Noem
+    names:
+      zh: 克里斯蒂·诺恩姆
+      en: Kristi Noem
+    gender: F
+    born: 1971-11-30
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+    tier: 2
+    summary: 美國政治人物
+    ids:
+      wikidata: Q465749
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%85%8B%E4%B8%BD%E4%B8%9D%E8%92%82%C2%B7%E8%AF%BA%E5%A7%86
+      - https://en.wikipedia.org/wiki/Kristi_Noem
+    tags:
+      - us-executive
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 50
+    sources:
+      - url: https://www.wikidata.org/wiki/Q465749
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國國土安全部長
+        org: united-states-department-of-homeland-security
+        from: 2025-01-25
+        to: 2026-03-24
+      - title: 南達科他州州長
+        org: state-of-south-dakota
+        from: 2019-01-05
+        to: 2025-01-25
+      - title: 南達科他州眾議員
+        org: south-dakota-house-of-representatives
+        from: 2007-01-09
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+  - id: kristin-cooper
+    type: person
+    name: Kristin Cooper
+    names:
+      zh: 克里斯汀·库珀
+      en: Kristin Cooper
+    gender: F
+    born: 1956-07-19
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American lawyer
+    ids:
+      wikidata: Q56192167
+    links:
+      - https://en.wikipedia.org/wiki/Kristin_Cooper
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56192167
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kristin-gore
+    type: person
+    name: Kristin Gore
+    names:
+      zh: 克里斯汀·戈尔
+      en: Kristin Gore
+    gender: F
+    born: 1977-06-05
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 5
+    summary: American writer; daughter of Al and Tipper Gore
+    ids:
+      wikidata: Q600415
+    links:
+      - https://en.wikipedia.org/wiki/Kristin_Gore
+    tags:
+      - relative
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q600415
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kristy-hinze
+    type: person
+    name: Kristy Hinze
+    names:
+      en: Kristy Hinze
+    gender: F
+    born: 1979-10-16
+    country:
+      - AU
+    sectors:
+      - family
+    tier: 5
+    summary: Australian model, actress and television host
+    ids:
+      wikidata: Q15831689
+    links:
+      - https://en.wikipedia.org/wiki/Kristy_Hinze
+    tags:
+      - relative
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15831689
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kung-yan-sum
+    type: person
+    name: 龚仁心
+    names:
+      zh: 龚仁心
+      en: Kung Yan-sum
+    gender: M
+    born: "1943"
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    summary: Hong Kong businessman
+    ids:
+      wikidata: Q6444503
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BE%94%E4%BB%81%E5%BF%83
+      - https://en.wikipedia.org/wiki/Kung_Yan-sum
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6444503
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kurt-delbene
+    type: person
+    name: Kurt DelBene
+    names:
+      en: Kurt DelBene
+    gender: M
+    born: "1960"
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: American technology official
+    ids:
+      wikidata: Q56222161
+    links:
+      - https://en.wikipedia.org/wiki/Kurt_DelBene
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56222161
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 会长
+        org: organization
+        from: 2010-10-01
+        to: 2013-07-11
+  - id: kurt-schrader
+    type: person
+    name: Kurt Schrader
+    names:
+      zh: 庫爾特·史瑞德
+      en: Kurt Schrader
+    gender: M
+    born: 1951-10-19
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: U.S. Representative from Oregon
+    ids:
+      wikidata: Q1387868
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BA%AB%E7%88%BE%E7%89%B9%C2%B7%E5%8F%B2%E7%91%9E%E5%BE%B7
+      - https://en.wikipedia.org/wiki/Kurt_Schrader
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1387868
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-10
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 俄勒岡州眾議員
+        org: oregon-house-of-representatives
+        from: "1997"
+        to: "2003"
+      - title: 俄勒岡州參議員
+        org: oregon-state-senate
+        from: "2003"
+        to: "2008"
+  - id: kweisi-mfume
+    type: person
+    name: Kweisi Mfume
+    names:
+      zh: 奎西·姆费姆
+      en: Kweisi Mfume
+    gender: M
+    born: 1948-10-24
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q519504
+    links:
+      - https://en.wikipedia.org/wiki/Kweisi_Mfume
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q519504
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席执行官
+        from: "1996"
+        to: "2004"
+      - title: 地方議會議員
+        org: city-council
+        from: "1979"
+        to: "1986"
+      - title: 美国众议员
+        org: us-house
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1996-02-15
+      - title: 美国众议员
+        org: us-house
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2020-04-28
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: Chair of the Congressional Black Caucus
+        org: congressional-black-caucus
+        from: "1991"
+        to: "1993"
+  - id: kwok-ping-sheung-walter
+    type: person
+    name: 郭炳湘
+    names:
+      zh: 郭炳湘
+      en: Kwok Ping Sheung Walter
+    gender: M
+    born: 1950-08-25
+    died: 2018-10-20
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: Hong Kong businessman (1950-2018)
+    ids:
+      wikidata: Q380602
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E7%82%B3%E6%B9%98
+      - https://en.wikipedia.org/wiki/Walter_Kwok
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q380602
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+  - id: kwok-sau-ping
+    type: person
+    name: Kwok Sau Ping
+    names:
+      zh: 郭秀萍
+      en: Kwok Sau Ping
+    gender: F
+    born: "1948"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: 香港商人胡应湘之妻
+    ids:
+      wikidata: Q8980292
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E7%A7%80%E8%90%8D
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8980292
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kwok-tak-seng
+    type: person
+    name: 郭得胜
+    names:
+      zh: 郭得胜
+      en: Kwok Tak-Seng
+    gender: M
+    born: 1911-03-12
+    died: 1990-10-30
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 5
+    summary: Hong Kong businessman
+    ids:
+      wikidata: Q6450499
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E5%BE%97%E5%8B%9D
+      - https://en.wikipedia.org/wiki/Kwok_Tak-seng
+    tags:
+      - relative
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6450499
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kwong-siu-hing
+    type: person
+    name: 邝肖卿
+    names:
+      zh: 邝肖卿
+      en: Kwong Siu-hing
+    gender: F
+    born: 1929-12-02
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: Hong Kong businessman
+    netWorth:
+      usd: 15100000000
+    ids:
+      wikidata: Q1012622
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%84%BA%E8%82%96%E5%8D%BF
+      - https://en.wikipedia.org/wiki/Kwong_Siu-hing
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1012622
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kyra-kennedy
+    type: person
+    name: Kyra Kennedy
+    names:
+      en: Kyra Kennedy
+    gender: F
+    born: 1995-08-22
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American socialite and model (born 1995)
+    ids:
+      wikidata: Q61440298
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q61440298
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: kyrsten-sinema
+    type: person
+    name: Kyrsten Sinema
+    names:
+      zh: 克里斯滕·希尼玛
+      en: Kyrsten Sinema
+    gender: F
+    born: 1976-07-12
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: American politician (born 1976)
+    ids:
+      wikidata: Q1556541
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9F%AF%E5%B0%94%E4%B8%9D%E6%BB%95%C2%B7%E8%A5%BF%E5%86%85%E9%A9%AC
+      - https://en.wikipedia.org/wiki/Kyrsten_Sinema
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 40
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1556541
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 亞利桑那州眾議員
+        org: arizona-house-of-representatives
+        from: 2005-01-10
+        to: 2011-01-10
+      - title: 亞利桑那州參議員
+        org: arizona-senate
+        from: 2011-01-10
+        to: 2012-01-03

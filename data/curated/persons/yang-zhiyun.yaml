@@ -1,0 +1,20 @@
+id: yang-zhiyun
+type: person
+name: 杨志云
+names:
+  zh: 杨志云
+  en: Yang Zhiyun
+gender: F
+born: '1921'
+country:
+- CN
+sectors:
+- family
+tier: 5
+summary: 温家宝之母。纽时 2012 调查称其名下曾持有价值约 1.2 亿美元的平安保险股份。
+sources:
+- url: https://www.nytimes.com/2012/10/26/business/global/family-of-wen-jiabao-holds-a-hidden-fortune-in-china.html
+  title: Billions in Hidden Riches for Family of Chinese Leader (David Barboza)
+  publisher: The New York Times
+  date: '2012-10-26'
+updated: '2026-10-11'

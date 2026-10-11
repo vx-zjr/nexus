@@ -1,0 +1,1307 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+relations:
+  - from: zhu-kuanshu
+    to: zhu-rongji
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18285
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhu-rongji
+    to: zhu-yunlai
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18285
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhu-rongji
+    to: lao-an-1929
+    type: spouse
+    since: "1956"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18285
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhu-rongji
+    to: zhu-pian
+    type: relative
+    label: 祖先
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18285
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zou-taofen
+    to: zou-jiahua
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8294190
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zou-jiahua
+    to: zou-jingmeng
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8294190
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zou-jiahua
+    to: ye-chumei
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8294190
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zeng-shan
+    to: zeng-qinghong
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q189519
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-yongkang
+    to: zhou-bin-1972
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q198042
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-yongkang
+    to: zhou-han
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q198042
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-yongkang
+    to: jia-xiaoye
+    type: spouse
+    since: "2001"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q198042
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-yongkang
+    to: wang-shuhua
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q198042
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhao-juntao
+    to: li-peng
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18301
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-jiannan
+    to: zhou-xiaochuan
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q198026
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-zongxun
+    to: zhang-youxia
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705140
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-jinan
+    to: zhang-xiaonan
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15935318
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zuo-ying
+    to: liu-sheng
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292488
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-aiping-1908
+    to: zhang-xiang
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11066354
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zuo-ying
+    to: liu-xiaorong
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q108504093
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zalmay-khalilzad
+    to: cheryl-benard
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q145193
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-jindong
+    to: zhang-kangyang
+    type: parent
+    label: 子
+    sources:
+      - url: https://www.wikidata.org/wiki/Q197216
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zong-qinghou
+    to: kelly-zong
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q219928
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhu-lin-1930
+    to: li-xiaopeng
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q698688
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhu-lin-1930
+    to: li-xiaolin-1961
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q709111
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhuo-lin
+    to: deng-rong
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4121541
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhao-congyan
+    to: cecil-chao
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7209851
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-xin
+    to: pan-shiyi
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8070360
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-jindong
+    to: zhang-kangyang
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28415575
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhong-huijuan
+    to: sun-piaoyang
+    type: spouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105338400
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhu-rongji
+    to: tsinghua-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18285
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhu-rongji
+    to: tsinghua-university
+    type: alumni
+    until: "1951"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18285
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zeng-peiyan
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q189517
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zeng-peiyan
+    to: shanghai-datong-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q189517
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-gaoli
+    to: xiamen-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q197180
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-guoqing
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292210
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-guoqing
+    to: nanjing-university-of-science-and-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292210
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-guoqing
+    to: harvard-business-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292210
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zou-jiahua
+    to: harbin-institute-of-technology
+    type: alumni
+    since: 1948-05-01
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8294190
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zeng-qinghong
+    to: beijing-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q189519
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zeng-qinghong
+    to: beijing-101-middle-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q189519
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zeng-qinghong
+    to: shanghai-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q189519
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhao-kezhi
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q197445
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-yongkang
+    to: china-university-of-petroleum
+    type: alumni
+    since: "1961"
+    until: "1966"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q198042
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhao-leji
+    to: national-people-s-congress
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q127295
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhao-leji
+    to: peking-university
+    type: alumni
+    since: "1977"
+    until: "1980"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q127295
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-xiaochuan
+    to: beijing-no-8-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q198026
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-xiaochuan
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q198026
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-xiaochuan
+    to: beijing-university-of-chemical-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q198026
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-guangzhao
+    to: peking-university
+    type: position
+    label: 任职
+    since: 1954-08-01
+    sources:
+      - url: https://www.wikidata.org/wiki/Q197964
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-guangzhao
+    to: peking-university
+    type: alumni
+    label: master's degree
+    since: 1952-09-01
+    until: "1954"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q197964
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-guangzhao
+    to: tsinghua-university
+    type: alumni
+    label: master's degree
+    since: 1951-08-01
+    until: 1952-09-01
+    sources:
+      - url: https://www.wikidata.org/wiki/Q197964
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-guangzhao
+    to: tsinghua-university
+    type: alumni
+    since: "1947"
+    until: 1951-08-01
+    sources:
+      - url: https://www.wikidata.org/wiki/Q197964
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zheng-jianbang
+    to: northeast-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16907466
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-baowen
+    to: university-of-minnesota
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9085615
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-qiang
+    to: southwest-university-of-political-science-and-law
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q198003
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-jun
+    to: renmin-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8340349
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-jun
+    to: jilin-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8340349
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-jun
+    to: wuhan-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8340349
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-chunxian
+    to: harbin-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q715988
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhao-zhengyong
+    to: central-south-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4356267
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-qingwei
+    to: northwestern-polytechnical-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q197272
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhao-hongzhu
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q701785
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zheng-shanjie
+    to: xiamen-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24836207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-jinan
+    to: nankai-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15935318
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-jinan
+    to: wuhan-university-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15935318
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-zuyi
+    to: tongji-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19849368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-zuyi
+    to: zhejiang-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19849368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-zuyi
+    to: tongji-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19849368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-shibo
+    to: shandong-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292174
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-yulin
+    to: tsinghua-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8070418
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-yulin
+    to: national-university-of-defense-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8070418
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-yulin
+    to: zhejiang-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8070418
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-zhannan
+    to: pla-national-defence-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319064
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-zhannan
+    to: pla-dalian-naval-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319064
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-yongyi
+    to: capital-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319093
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhao-yingfu-1938
+    to: pla-national-defence-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319410
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zheng-shenxia
+    to: pla-national-defence-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11643929
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zheng-xuan
+    to: pla-national-defence-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30943917
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zalmay-khalilzad
+    to: columbia-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q145193
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zalmay-khalilzad
+    to: university-of-chicago
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q145193
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zalmay-khalilzad
+    to: columbia-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q145193
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zoe-lofgren
+    to: santa-clara-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q218217
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zoe-lofgren
+    to: santa-clara-university-school-of-law
+    type: position
+    label: 任职
+    since: "1978"
+    until: "1980"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q218217
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zoe-lofgren
+    to: santa-clara-university-school-of-law
+    type: alumni
+    label: Juris Doctor
+    until: "1975"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q218217
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zoe-lofgren
+    to: stanford-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "1970"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q218217
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zoe-lofgren
+    to: gunn-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q218217
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zach-nunn
+    to: university-of-cambridge
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q84719792
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-yuzhuo
+    to: university-of-science-and-technology-beijing
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9202142
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhao-xiaozhe
+    to: dalian-university-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9348288
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-naixiang
+    to: southeast-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8590208
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhao-yide
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9095293
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-yupu
+    to: harbin-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9137573
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-gong
+    to: beijing-university-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16905025
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-shengmin
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19825604
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhong-shaojun
+    to: zhejiang-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22098996
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhong-shaojun
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22098996
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zou-jiayi
+    to: chinese-academy-of-social-sciences
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55695669
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhuang-rongwen
+    to: hohai-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55694631
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhao-gang-1968
+    to: beijing-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97300511
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zulhayat-ismail
+    to: peking-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q114816912
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-guohua
+    to: nanjing-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9090612
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-guohua
+    to: soochow-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9090612
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-anshun
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9090681
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-anshun
+    to: jilin-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9090681
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-zheng
+    to: renmin-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11067148
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhu-hexin
+    to: state-administration-of-foreign-exchange
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24836424
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhu-hexin
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24836424
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhu-hexin
+    to: shanghai-university-of-finance-and-economics
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24836424
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhu-hexin
+    to: nanjing-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24836424
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-chunlin
+    to: xinjiang-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48936912
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-chunlin
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48936912
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-wenbing
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q98764267
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-wenbing
+    to: renmin-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q98764267
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-wenbing
+    to: anhui-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q98764267
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-zhongyang
+    to: national-university-of-defense-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q114978854
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-wei
+    to: china-national-petroleum-corporation
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115574579
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-wei
+    to: tsinghua-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115574579
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-wei
+    to: china-europe-international-business-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115574579
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-changkui
+    to: peking-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8463707
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhuge-yujie
+    to: shanghai-jiao-tong-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30832747
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-zhixin
+    to: harbin-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q46150901
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhu-zhisong
+    to: harbin-institute-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q51102905
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhu-guoxian
+    to: zhejiang-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60994233
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhu-tianshu
+    to: central-party-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97176327
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhu-tianshu
+    to: jilin-university-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97176327
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-jinliang
+    to: xiamen-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105717775
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhu-wenxiang
+    to: fujian-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110405326
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhao-dong
+    to: china-university-of-petroleum
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q114816834
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-jindong
+    to: suning-holdings-group
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q197216
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-jindong
+    to: suning-appliance-group
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q197216
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-jindong
+    to: suning-com
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q197216
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-jindong
+    to: suning-holdings-group
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q197216
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-jindong
+    to: suning-appliance-group
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q197216
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-jindong
+    to: suning-real-estate
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q197216
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-jindong
+    to: nanjing-normal-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q197216
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zong-qinghou
+    to: hangzhou-wahaha-group
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q219928
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-ruimin
+    to: haier
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q701830
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-ruimin
+    to: qingdao-no-1-high-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q701830
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-ruimin
+    to: university-of-science-and-technology-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q701830
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhu-jun
+    to: shanghai-jiao-tong-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q843885
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-xin
+    to: soho-china
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8070360
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-xin
+    to: soho-china
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8070360
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-xin
+    to: closer-media
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8070360
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-xin
+    to: goldman-sachs
+    type: position
+    label: 任职
+    until: "1994"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8070360
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-xin
+    to: citigroup
+    type: position
+    label: 任职
+    since: "1994"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8070360
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-xin
+    to: university-of-cambridge
+    type: alumni
+    label: master's degree
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8070360
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-hongyi
+    to: qihoo-360
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9089970
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-hongyi
+    to: xi-an-jiaotong-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9089970
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-jiping
+    to: china-national-petroleum-corporation
+    type: position
+    label: 董事长/主席
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9631179
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-jiping
+    to: petrochina-company-limited
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9631179
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-jiping
+    to: china-university-of-petroleum
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9631179
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-zhidong
+    to: tencent
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15934341
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-zhidong
+    to: south-china-university-of-technology
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15934341
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-zhidong
+    to: shenzhen-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15934341
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-yong
+    to: haidilao
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18234033
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-yong
+    to: haidilao
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18234033
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-lei-1972
+    to: hillhouse-capital
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19664437
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-lei-1972
+    to: hillhouse-capital
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19664437
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-lei-1972
+    to: yale-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19664437
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-lei-1972
+    to: renmin-university-of-china
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19664437
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-lei-1972
+    to: yale-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19664437
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-lei-1972
+    to: yale-school-of-management
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19664437
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhou-qunfei
+    to: lens-technology
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19841142
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-kangyang
+    to: the-wharton-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28415575
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-kangyang
+    to: university-of-pennsylvania
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28415575
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-kangyang
+    to: mercersburg-academy
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28415575
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-yiming
+    to: bytedance
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q63306804
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-yiming
+    to: bytedance-limited
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q63306804
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-yiming
+    to: bytedance
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q63306804
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhang-yiming
+    to: nankai-university
+    type: alumni
+    since: "1919"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q63306804
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhong-shanshan
+    to: nongfu-spring
+    type: position
+    label: CEO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q99312028
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhong-shanshan
+    to: nongfu-spring
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q99312028
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zhong-huijuan
+    to: nanjing-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105338400
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zell-miller
+    to: emory-university
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q187516
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zell-miller
+    to: university-of-georgia
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q187516
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zell-miller
+    to: university-of-georgia
+    type: alumni
+    label: Bachelor of Arts
+    until: "1957"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q187516
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zell-miller
+    to: university-of-georgia
+    type: alumni
+    label: Master of Arts
+    until: "1958"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q187516
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: zell-miller
+    to: young-harris-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q187516
+        publisher: Wikidata
+        accessed: 2026-10-11

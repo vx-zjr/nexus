@@ -1,0 +1,18 @@
+id: paul-pelosi
+type: person
+name: Paul Pelosi
+names:
+  en: Paul Pelosi
+  zh: 保罗·佩洛西
+gender: M
+born: '1940-04-15'
+country:
+- US
+sectors:
+- finance
+tier: 3
+summary: 风投/地产投资人，Nancy Pelosi 之夫；其交易记录通过国会财产申报公开。
+sources:
+- url: https://en.wikipedia.org/wiki/Paul_Pelosi
+  publisher: Wikipedia
+updated: '2026-10-11'

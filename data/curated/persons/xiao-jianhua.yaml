@@ -1,0 +1,33 @@
+id: xiao-jianhua
+type: person
+name: 肖建华
+names:
+  zh: 肖建华
+  en: Xiao Jianhua
+gender: M
+born: '1971'
+country:
+- CN
+- CA
+sectors:
+- finance
+- business
+tier: 3
+status: detained
+summary: 明天系（明天控股）创始人，被视为为多个权贵家族打理资产的“白手套”。纽时 2014 年报道：彭博披露习家财富后，齐桥桥、邓家贵夫妇将一家投资公司的股份出售给肖建华创办的公司（肖本人对纽时承认曾帮习家“处置资产”，并称习家亲属未从中获利）。2017-01 在香港四季酒店被带回内地，2022-08 以非法吸收公众存款、操纵证券期货市场等罪被判 13 年，明天集团被罚 550 亿元。
+sources:
+- url: https://foreignpolicy.com/2017/02/06/the-mysterious-disappearance-and-reported-reappearance-of-a-chinese-billionaire
+  title: The Mysterious Disappearance and Reported Reappearance of a Chinese Billionaire
+  publisher: Foreign Policy
+  date: '2017-02-06'
+- url: https://www.thewirechina.com/2022/09/18/xiao-jianhua-lost-empire
+  title: Xiao Jianhua's Lost Empire
+  publisher: The Wire China
+  date: '2022-09-18'
+- url: https://www.bangkokpost.com/world/2372538/china-jails-disappeared-tycoon-for-13-years
+  title: China jails 'disappeared' tycoon for 13 years
+  publisher: Bangkok Post / AFP
+  date: '2022-08-19'
+- url: https://en.wikipedia.org/wiki/Xiao_Jianhua
+  publisher: Wikipedia
+updated: '2026-10-11'

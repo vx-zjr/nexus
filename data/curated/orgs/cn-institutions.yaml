@@ -1,0 +1,246 @@
+# 中国核心权力机构（党、政、军、人大、政协、纪检）
+# 说明：机构是“权力坐标”，人物通过 positions[].org 或 position/member 关系挂到机构上。
+sources:
+  - https://zh.wikipedia.org/wiki/中国共产党中央政治局
+  - https://en.wikipedia.org/wiki/Politburo_of_the_Chinese_Communist_Party
+entities:
+  - id: ccp
+    type: org
+    name: 中国共产党
+    names: { zh: 中国共产党, en: Chinese Communist Party }
+    aliases: [中共, CCP, CPC]
+    orgType: party
+    country: CN
+    sectors: [politics]
+    tier: 1
+    founded: 1921
+    ids: { wikidata: Q17427 }
+    links: [https://zh.wikipedia.org/wiki/中国共产党]
+
+  - id: ccp-central-committee
+    type: org
+    name: 中共中央委员会
+    names: { zh: 中国共产党中央委员会, en: Central Committee of the Chinese Communist Party }
+    aliases: [中央委员会, 中共中央]
+    orgType: committee
+    country: CN
+    sectors: [politics]
+    tier: 2
+    parent: ccp
+    summary: 第二十届中央委员会由 2022 年 10 月中共二十大选出（205 名委员、171 名候补委员）。
+    ids: { wikidata: Q50963 }
+    links: [https://en.wikipedia.org/wiki/20th_Central_Committee_of_the_Chinese_Communist_Party]
+
+  - id: ccp-politburo
+    type: org
+    name: 中共中央政治局
+    names: { zh: 中国共产党中央政治局, en: Politburo of the Chinese Communist Party }
+    aliases: [政治局]
+    orgType: committee
+    country: CN
+    sectors: [politics]
+    tier: 1
+    parent: ccp-central-committee
+    summary: |
+      第二十届政治局 2022 年 10 月产生，原 24 人。截至 2026-10：何卫东（2025-10 开除党籍）、
+      马兴瑞（2026-06 开除党籍）、张又侠（2026-09 开除党籍）先后落马，为文革后单届政治局被清洗人数最多。
+    ids: { wikidata: Q1076970 }
+    links:
+      - https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+      - https://zh.wikipedia.org/wiki/中国共产党第二十届中央政治局
+
+  - id: ccp-politburo-standing-committee
+    type: org
+    name: 中共中央政治局常务委员会
+    names: { zh: 中国共产党中央政治局常务委员会, en: Politburo Standing Committee of the Chinese Communist Party }
+    aliases: [政治局常委会, PBSC]
+    orgType: committee
+    country: CN
+    sectors: [politics]
+    tier: 1
+    parent: ccp-politburo
+    summary: 第二十届常委（按排序）：习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希。
+    ids: { wikidata: Q197542 }
+    links: [https://en.wikipedia.org/wiki/20th_Politburo_Standing_Committee_of_the_Chinese_Communist_Party]
+
+  - id: ccp-secretariat
+    type: org
+    name: 中共中央书记处
+    names: { zh: 中国共产党中央书记处, en: Secretariat of the Chinese Communist Party }
+    orgType: committee
+    country: CN
+    sectors: [politics]
+    tier: 2
+    parent: ccp-central-committee
+    links: [https://zh.wikipedia.org/wiki/中国共产党中央书记处]
+
+  - id: ccp-cmc
+    type: org
+    name: 中央军事委员会
+    names: { zh: 中央军事委员会, en: Central Military Commission }
+    aliases: [中央军委, 军委, CMC]
+    orgType: military
+    country: CN
+    sectors: [military]
+    tier: 1
+    summary: |
+      第二十届中央军委原 7 人：习近平（主席）、张又侠、何卫东（副主席）、李尚福、刘振立、苗华、张升民（委员）。
+      截至 2026-09，除习近平与张升民（2025-10 四中全会增补为副主席）外，其余 5 人均已落马。
+    ids: { wikidata: Q190338 }
+    links: [https://zh.wikipedia.org/wiki/中央军事委员会]
+
+  - id: ccp-ccdi
+    type: org
+    name: 中央纪律检查委员会
+    names: { zh: 中国共产党中央纪律检查委员会, en: Central Commission for Discipline Inspection }
+    aliases: [中纪委, CCDI, 国家监委]
+    orgType: committee
+    country: CN
+    sectors: [politics, security]
+    tier: 1
+    parent: ccp
+    ids: { wikidata: Q1192996 }
+    links: [https://www.ccdi.gov.cn/]
+
+  - id: ccp-central-political-legal-commission
+    type: org
+    name: 中央政法委员会
+    names: { zh: 中国共产党中央政法委员会, en: Central Political and Legal Affairs Commission }
+    aliases: [中央政法委]
+    orgType: committee
+    country: CN
+    sectors: [security, judiciary]
+    tier: 2
+    parent: ccp-central-committee
+    links: [https://zh.wikipedia.org/wiki/中国共产党中央政法委员会]
+
+  - id: ccp-organization-department
+    type: org
+    name: 中共中央组织部
+    names: { zh: 中国共产党中央委员会组织部, en: Organization Department of the CCP }
+    aliases: [中组部]
+    orgType: government
+    country: CN
+    sectors: [politics]
+    tier: 2
+    parent: ccp-central-committee
+    links: [https://zh.wikipedia.org/wiki/中国共产党中央委员会组织部]
+
+  - id: ccp-publicity-department
+    type: org
+    name: 中共中央宣传部
+    names: { zh: 中国共产党中央委员会宣传部, en: Publicity Department of the CCP }
+    aliases: [中宣部]
+    orgType: government
+    country: CN
+    sectors: [politics, media]
+    tier: 2
+    parent: ccp-central-committee
+    links: [https://zh.wikipedia.org/wiki/中国共产党中央委员会宣传部]
+
+  - id: ccp-united-front-work-department
+    type: org
+    name: 中共中央统一战线工作部
+    names: { zh: 中国共产党中央委员会统一战线工作部, en: United Front Work Department }
+    aliases: [中央统战部, UFWD]
+    orgType: government
+    country: CN
+    sectors: [politics]
+    tier: 2
+    parent: ccp-central-committee
+    links: [https://zh.wikipedia.org/wiki/中国共产党中央委员会统一战线工作部]
+
+  - id: ccp-general-office
+    type: org
+    name: 中共中央办公厅
+    names: { zh: 中国共产党中央委员会办公厅, en: General Office of the CCP }
+    aliases: [中办]
+    orgType: government
+    country: CN
+    sectors: [politics]
+    tier: 2
+    parent: ccp-central-committee
+    links: [https://zh.wikipedia.org/wiki/中国共产党中央委员会办公厅]
+
+  - id: ccp-central-financial-economic-affairs-commission
+    type: org
+    name: 中央财经委员会
+    names: { zh: 中央财经委员会, en: Central Financial and Economic Affairs Commission }
+    aliases: [中财委]
+    orgType: committee
+    country: CN
+    sectors: [politics, finance]
+    tier: 2
+    parent: ccp-central-committee
+    links: [https://zh.wikipedia.org/wiki/中国共产党中央财经委员会]
+
+  - id: ccp-central-foreign-affairs-commission
+    type: org
+    name: 中央外事工作委员会
+    names: { zh: 中央外事工作委员会, en: Central Foreign Affairs Commission }
+    aliases: [中央外事委]
+    orgType: committee
+    country: CN
+    sectors: [politics, diplomacy]
+    tier: 2
+    parent: ccp-central-committee
+    links: [https://zh.wikipedia.org/wiki/中国共产党中央外事工作委员会]
+
+  - id: state-council-prc
+    type: org
+    name: 国务院
+    names: { zh: 中华人民共和国国务院, en: State Council of the People's Republic of China }
+    orgType: government
+    country: CN
+    sectors: [politics]
+    tier: 1
+    ids: { wikidata: Q59261 }
+    links: [https://www.gov.cn/]
+
+  - id: npc-standing-committee
+    type: org
+    name: 全国人大常委会
+    names: { zh: 全国人民代表大会常务委员会, en: Standing Committee of the National People's Congress }
+    aliases: [人大常委会, NPCSC]
+    orgType: legislature
+    country: CN
+    sectors: [politics]
+    tier: 2
+    links: [https://zh.wikipedia.org/wiki/全国人民代表大会常务委员会]
+
+  - id: cppcc-national-committee
+    type: org
+    name: 全国政协
+    names: { zh: 中国人民政治协商会议全国委员会, en: National Committee of the CPPCC }
+    aliases: [政协, CPPCC]
+    orgType: committee
+    country: CN
+    sectors: [politics]
+    tier: 2
+    links: [https://zh.wikipedia.org/wiki/中国人民政治协商会议全国委员会]
+
+  - id: pboc
+    type: org
+    name: 中国人民银行
+    names: { zh: 中国人民银行, en: People's Bank of China }
+    aliases: [央行, PBOC]
+    orgType: bank
+    country: CN
+    sectors: [finance]
+    tier: 2
+    parent: state-council-prc
+    ids: { wikidata: Q249203 }
+    links: [https://www.pbc.gov.cn/]
+
+  - id: pla
+    type: org
+    name: 中国人民解放军
+    names: { zh: 中国人民解放军, en: People's Liberation Army }
+    aliases: [解放军, PLA]
+    orgType: military
+    country: CN
+    sectors: [military]
+    tier: 2
+    parent: ccp-cmc
+    ids: { wikidata: Q200106 }
+    links: [https://zh.wikipedia.org/wiki/中国人民解放军]

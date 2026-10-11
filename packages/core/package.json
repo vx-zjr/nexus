@@ -1,0 +1,26 @@
+{
+  "name": "@nexus/core",
+  "version": "0.1.0",
+  "description": "NEXUS 数据内核：数据模式(zod)、词表、编译/合并、图算法、导出器。纯 TS，无 UI 依赖，可在 Node 与浏览器中复用。",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./schema": "./src/schema.ts",
+    "./vocab": "./src/vocab.ts",
+    "./types": "./src/types.ts",
+    "./algo": "./src/algo/index.ts",
+    "./export": "./src/export/index.ts",
+    "./compile": "./src/compile.ts"
+  },
+  "dependencies": {
+    "graphology": "^0.26.0",
+    "graphology-communities-louvain": "^2.0.2",
+    "graphology-layout-forceatlas2": "^0.10.1",
+    "graphology-metrics": "^2.4.2",
+    "pinyin-pro": "^3.29.5",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "graphology-types": "^0.24.8"
+  }
+}

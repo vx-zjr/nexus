@@ -1,0 +1,25 @@
+id: li-keqiang
+type: person
+name: 李克强
+names:
+  zh: 李克强
+  en: Li Keqiang
+gender: M
+born: '1955-07-01'
+died: '2023-10-27'
+country:
+- CN
+sectors:
+- politics
+tier: 2
+status: deceased
+summary: 前国务院总理（2013–2023），团派核心人物。2023-10-27 在上海因心脏病突发去世。
+positions:
+- title: 国务院总理
+  org: state-council-prc
+  from: 2013-03
+  to: 2023-03
+sources:
+- url: https://en.wikipedia.org/wiki/Li_Keqiang
+  publisher: Wikipedia
+updated: '2026-10-11'

@@ -1,0 +1,19 @@
+id: donald-trump-jr
+type: person
+name: Donald Trump Jr.
+names:
+  en: Donald Trump Jr.
+  zh: 小唐纳德·特朗普
+gender: M
+born: '1977-12-31'
+country:
+- US
+sectors:
+- business
+- politics
+tier: 2
+summary: Trump Organization 执行副总裁；Trump Media 董事；World Liberty Financial 联合创始人之一；风投 1789 Capital 合伙人。
+sources:
+- url: https://en.wikipedia.org/wiki/Donald_Trump_Jr.
+  publisher: Wikipedia
+updated: '2026-10-11'

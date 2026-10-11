@@ -1,0 +1,26 @@
+id: sean-duffy
+type: person
+name: Sean Duffy
+names:
+  en: Sean Duffy
+  zh: 肖恩·达菲
+gender: M
+born: '1971-10-03'
+country:
+- US
+sectors:
+- politics
+tier: 2
+status: active
+summary: 交通部长（2025–），曾兼代理 NASA 局长。前 Fox Business 主持人、威斯康星众议员。
+positions:
+- title: 交通部长
+  org: us-cabinet
+  from: '2025-01-28'
+  current: true
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

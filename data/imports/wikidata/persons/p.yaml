@@ -1,0 +1,5197 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: pagbalha-geleg-namgyai
+    type: person
+    name: 帕巴拉·格列朗杰
+    names:
+      zh: 帕巴拉·格列朗杰
+      en: Pagbalha Geleg Namgyai
+    gender: M
+    born: "1939"
+    country:
+      - CN
+    sectors:
+      - politics
+      - culture
+    tier: 2
+    summary: 全国政协副主席、西藏自治区政协主席，帕巴拉活佛
+    ids:
+      wikidata: Q1733077
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%95%E5%B7%B4%E6%8B%89%C2%B7%E6%A0%BC%E5%88%97%E6%9C%97%E6%9D%B0
+      - https://en.wikipedia.org/wiki/Pagbalha_Geleg_Namgyai
+    tags:
+      - cn-leaders
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1733077
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 帕巴拉活佛
+        from: "1942"
+      - title: 中国人民政治协商会议全国委员会副主席
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+        from: 2003-03-05
+      - title: 中国人民政治协商会议全国委员会副主席
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+        from: 1959-10-09
+        to: 1993-03-15
+      - title: 全国人民代表大会常务委员会副委员长
+        org: npc-standing-committee
+        from: 1993-03-15
+        to: 2003-03-05
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: palmer-luckey
+    type: person
+    name: Palmer Luckey
+    names:
+      zh: 帕尔默·勒基
+      en: Palmer Luckey
+    gender: M
+    born: 1992-09-19
+    country:
+      - US
+    sectors:
+      - business
+      - media
+    tier: 4
+    summary: American founder of Oculus VR and inventor of the Oculus Rift
+    netWorth:
+      usd: 700000000
+    ids:
+      wikidata: Q16269109
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%95%E7%88%BE%E9%BB%98%C2%B7%E6%8B%89%E5%A5%87
+      - https://en.wikipedia.org/wiki/Palmer_Luckey
+    tags:
+      - relative
+      - party:California Republican Party
+    attrs:
+      party: California Republican Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16269109
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pam-bondi
+    type: person
+    name: Pam Bondi
+    names:
+      zh: 潘姆·邦迪
+      en: Pam Bondi
+    gender: F
+    born: 1965-11-17
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: 现任美国司法部长
+    ids:
+      wikidata: Q7128915
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%95%E5%A7%86%C2%B7%E9%82%A6%E8%BF%AA
+      - https://en.wikipedia.org/wiki/Pam_Bondi
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 39
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7128915
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國司法部長
+        org: us-doj
+        from: 2025-02-05
+        to: 2026-04-02
+      - title: 佛罗里达州检察长
+        from: 2011-01-04
+        to: 2019-01-08
+  - id: pam-omidyar
+    type: person
+    name: Pam Omidyar
+    names:
+      en: Pam Omidyar
+    gender: F
+    born: "1968"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American philanthropist
+    ids:
+      wikidata: Q109732688
+    links:
+      - https://en.wikipedia.org/wiki/Pam_Omidyar
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q109732688
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pamela-mars-wright
+    type: person
+    name: Pamela Mars-Wright
+    names:
+      en: Pamela Mars-Wright
+    gender: F
+    born: "1960"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American heiress, billionaire and businesswoman, member of Mars family (Mars Inc.)
+    netWorth:
+      usd: 1000000000
+    ids:
+      wikidata: Q51078187
+    links:
+      - https://en.wikipedia.org/wiki/Pamela_Mars-Wright
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q51078187
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pan-gongsheng
+    type: person
+    name: 潘功胜
+    names:
+      zh: 潘功胜
+      en: Pan Gongsheng
+    gender: M
+    born: 1963-07-08
+    country:
+      - CN
+    sectors:
+      - politics
+      - finance
+    tier: 2
+    summary: 中国人民银行第13任行长
+    ids:
+      wikidata: Q9309080
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%BD%98%E5%8A%9F%E5%8B%9D
+      - https://en.wikipedia.org/wiki/Pan_Gongsheng
+    tags:
+      - cn-leaders
+      - cn-business
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9309080
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国人民银行行长
+        org: pboc
+        from: 2023-07-25
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: pan-ruiji
+    type: person
+    name: 潘瑞吉
+    names:
+      zh: 潘瑞吉
+    gender: M
+    born: "1945"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8316771
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%BD%98%E7%91%9E%E5%90%89
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316771
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: pan-shiyi
+    type: person
+    name: 潘石屹
+    names:
+      zh: 潘石屹
+      en: Pan Shiyi
+    gender: M
+    born: 1963-11-14
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 5
+    summary: 中國商人
+    ids:
+      wikidata: Q7129681
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%BD%98%E7%9F%B3%E5%B1%B9
+      - https://en.wikipedia.org/wiki/Pan_Shiyi
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7129681
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pan-yue-1960
+    type: person
+    name: 潘岳
+    names:
+      zh: 潘岳
+      en: Pan Yue
+    gender: M
+    born: 1960-04-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - media
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q329841
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%BD%98%E5%B2%B3_(1960%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Pan_Yue_(politician)
+    tags:
+      - cn-ministers
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q329841
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国国家民族事务委员会主任
+        org: national-ethnic-affairs-commission
+        from: 2022-06-18
+        to: 2025-09-12
+  - id: pansy-ho
+    type: person
+    name: 何超琼
+    names:
+      zh: 何超琼
+      en: Pansy Ho
+    gender: F
+    born: 1962-08-26
+    country:
+      - CA
+      - PT
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 香港商人
+    ids:
+      wikidata: Q8965221
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BD%95%E8%B6%85%E7%93%8A
+      - https://en.wikipedia.org/wiki/Pansy_Ho
+    tags:
+      - cn-business
+      - party:Liberal Party
+    attrs:
+      party: Liberal Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8965221
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pat-brown
+    type: person
+    name: Pat Brown
+    names:
+      zh: 帕特·布朗
+      en: Pat Brown
+    gender: M
+    born: 1905-04-21
+    died: 1996-02-16
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 4
+    summary: 第32任加利福尼亚州州长
+    ids:
+      wikidata: Q724121
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B4%BE%E7%89%B9%C2%B7%E5%B8%83%E6%9C%97
+      - https://en.wikipedia.org/wiki/Pat_Brown
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 23
+    sources:
+      - url: https://www.wikidata.org/wiki/Q724121
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 加利福尼亞州州長
+        org: state-of-california
+        from: 1959-01-05
+        to: 1967-01-02
+      - title: 加利福尼亞州司法部長
+        from: 1951-01-08
+        to: 1959-01-05
+  - id: pat-buchanan
+    type: person
+    name: Pat Buchanan
+    names:
+      zh: 帕特·布坎南
+      en: Pat Buchanan
+    gender: M
+    born: 1938-11-02
+    country:
+      - US
+    sectors:
+      - business
+      - politics
+      - media
+    tier: 4
+    summary: American politician and commentator
+    ids:
+      wikidata: Q149127
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%95%E7%89%B9%C2%B7%E5%B8%83%E5%9D%8E%E5%8D%97
+      - https://en.wikipedia.org/wiki/Pat_Buchanan
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 47
+    sources:
+      - url: https://www.wikidata.org/wiki/Q149127
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 通訊辦公室
+        org: white-house-office-of-communications
+        from: 1985-02-01
+        to: 1987-03-01
+  - id: pat-dewine
+    type: person
+    name: Pat DeWine
+    names:
+      en: Pat DeWine
+    gender: M
+    born: 1968-02-22
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 5
+    summary: American jurist
+    ids:
+      wikidata: Q7143357
+    links:
+      - https://en.wikipedia.org/wiki/Pat_DeWine
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7143357
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: Justice of the Ohio Supreme Court
+        from: 2017-01-02
+      - title: Cincinnati City Council member
+        org: cincinnati-city-council
+        from: "1999"
+        to: "2001"
+      - title: Cincinnati City Council member
+        org: cincinnati-city-council
+        from: "2003"
+      - title: Cincinnati City Council member
+        org: cincinnati-city-council
+        from: "2001"
+        to: "2003"
+      - title: Hamilton County Commissioner
+        org: county-of-hamilton
+  - id: pat-fallon
+    type: person
+    name: Pat Fallon
+    names:
+      zh: 帕特·法倫
+      en: Pat Fallon
+    gender: M
+    born: 1967-12-19
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American businessman and politician (born 1967)
+    ids:
+      wikidata: Q16196923
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%95%E7%89%B9%C2%B7%E6%B3%95%E5%80%AB
+      - https://en.wikipedia.org/wiki/Pat_Fallon
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16196923
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 德克薩斯州眾議員
+        org: texas-house-of-representatives
+        from: 2013-01-08
+        to: 2019-01-08
+      - title: member of the State Senate of Texas
+        org: texas-senate
+        from: 2019-01-08
+        to: 2021-01-03
+  - id: pat-roberts
+    type: person
+    name: Pat Roberts
+    names:
+      zh: 派特·羅伯茲
+      en: Pat Roberts
+    gender: M
+    born: 1936-04-20
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+      - media
+    tier: 3
+    summary: United States Senator from Kansas
+    ids:
+      wikidata: Q538375
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B4%BE%E7%89%B9%C2%B7%E7%BE%85%E4%BC%AF%E8%8C%B2
+      - https://en.wikipedia.org/wiki/Pat_Roberts
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q538375
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2003-01-03
+        to: 2005-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2005-01-03
+        to: 2007-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2011-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1999-01-03
+        to: 2001-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1997-01-03
+        to: 1999-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1983-01-03
+        to: 1985-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1985-01-03
+        to: 1987-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1981-01-03
+        to: 1997-01-03
+  - id: pat-robertson
+    type: person
+    name: Pat Robertson
+    names:
+      zh: 帕特·罗伯逊
+      en: Pat Robertson
+    gender: M
+    born: 1930-03-22
+    died: 2023-06-08
+    country:
+      - US
+    sectors:
+      - business
+      - culture
+      - politics
+    tier: 4
+    summary: 美国媒体大亨（1930—2023）
+    ids:
+      wikidata: Q364990
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%95%E7%89%B9%C2%B7%E7%BE%85%E4%BC%AF%E9%81%9C
+      - https://en.wikipedia.org/wiki/Pat_Robertson
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 37
+    sources:
+      - url: https://www.wikidata.org/wiki/Q364990
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: Founder of the Christian Coalition of America
+        org: christian-coalition-of-america
+        from: "1989"
+        to: "2023"
+  - id: pat-ryan
+    type: person
+    name: Pat Ryan
+    names:
+      zh: 帕特·瑞恩
+      en: Pat Ryan
+    gender: M
+    born: 1982-03-28
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: American politician and businessman of the Democratic Party
+    ids:
+      wikidata: Q113587887
+    links:
+      - https://en.wikipedia.org/wiki/Pat_Ryan_(politician)
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q113587887
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2022-09-13
+  - id: pat-saiki
+    type: person
+    name: Pat Saiki
+    names:
+      zh: 帕特·佐伯
+      en: Pat Saiki
+    gender: F
+    born: 1930-05-28
+    died: 2026-09-30
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: 美國政治人物
+    ids:
+      wikidata: Q458473
+    links:
+      - https://en.wikipedia.org/wiki/Pat_Saiki
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q458473
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 小型企業管理署署長
+        org: small-business-administration
+        from: 1991-04-16
+        to: 1993-01-20
+      - title: 美国众议员
+        org: us-house
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 夏威夷州参议员
+        org: hawaii-senate
+      - title: member of the Hawaii House of Representatives
+        org: hawaii-house-of-representatives
+  - id: pat-stryker
+    type: person
+    name: Pat Stryker
+    names:
+      en: Pat Stryker
+    gender: F
+    born: "1956"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American billionaire, philanthropist
+    netWorth:
+      usd: 4100000000
+    ids:
+      wikidata: Q7144047
+    links:
+      - https://en.wikipedia.org/wiki/Pat_Stryker
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7144047
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pat-summerall
+    type: person
+    name: Pat Summerall
+    names:
+      zh: 帕特·薩默羅爾
+      en: Pat Summerall
+    gender: M
+    born: 1930-05-10
+    died: 2013-04-16
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American football player and television sportscaster (1930-2013)
+    ids:
+      wikidata: Q3247792
+    links:
+      - https://en.wikipedia.org/wiki/Pat_Summerall
+    tags:
+      - relative
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3247792
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pat-toomey
+    type: person
+    name: Pat Toomey
+    names:
+      zh: 帕特·圖米
+      en: Pat Toomey
+    gender: M
+    born: 1961-11-17
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 美國共和黨政治人物
+    ids:
+      wikidata: Q971308
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%95%E7%89%B9%C2%B7%E5%9B%BE%E7%B1%B3
+      - https://en.wikipedia.org/wiki/Pat_Toomey
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 33
+    sources:
+      - url: https://www.wikidata.org/wiki/Q971308
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-03
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+  - id: patricia-booker
+    type: person
+    name: Patricia Booker
+    names:
+      en: Patricia Booker
+    gender: F
+    died: "2000"
+    country:
+      - AU
+    sectors:
+      - family
+    tier: 5
+    summary: former flight attendant
+    ids:
+      wikidata: Q23002984
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23002984
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: patricia-c-frist
+    type: person
+    name: Patricia C. Frist
+    names:
+      en: Patricia C. Frist
+    gender: F
+    born: 1939-09-28
+    died: 2021-01-05
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 5
+    summary: American businesswoman and philanthropist (1939-2021)
+    ids:
+      wikidata: Q20740701
+    links:
+      - https://en.wikipedia.org/wiki/Patricia_C._Frist
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20740701
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: patricia-disney
+    type: person
+    name: Patricia Disney
+    names:
+      en: Patricia Disney
+    gender: F
+    born: 1935-01-11
+    died: 2012-02-03
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: ex-wife of Roy E. Disney
+    ids:
+      wikidata: Q18113577
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18113577
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: patricia-duff
+    type: person
+    name: Patricia Duff
+    names:
+      en: Patricia Duff
+    gender: F
+    born: 1954-04-12
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American political fundraiser
+    ids:
+      wikidata: Q7145560
+    links:
+      - https://en.wikipedia.org/wiki/Patricia_Duff
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7145560
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: patricia-kempthorne
+    type: person
+    name: Patricia Kempthorne
+    names:
+      zh: 派克翠亞·肯普索恩
+      en: Patricia Kempthorne
+    gender: F
+    born: 1950-06-03
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q7145668
+    links:
+      - https://en.wikipedia.org/wiki/Patricia_Kempthorne
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7145668
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: patricia-m-collins
+    type: person
+    name: Patricia M. Collins
+    names:
+      en: Patricia M. Collins
+    gender: F
+    born: 1927-04-14
+    died: 2024-03-05
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q22059332
+    links:
+      - https://en.wikipedia.org/wiki/Patricia_M._Collins
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22059332
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: patrick-cunnane
+    type: person
+    name: Patrick Cunnane
+    names:
+      en: Patrick Cunnane
+    gender: M
+    born: 1958-06-26
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: 美國商人
+    ids:
+      wikidata: Q115481909
+    links:
+      - https://en.wikipedia.org/wiki/Patrick_Cunnane
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115481909
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: patrick-george-ryan
+    type: person
+    name: Patrick George Ryan
+    names:
+      zh: 帕特·瑞安
+      en: Patrick George Ryan
+    gender: M
+    born: 1937-05-15
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 10000000000
+    ids:
+      wikidata: Q7143985
+    links:
+      - https://en.wikipedia.org/wiki/Pat_Ryan_(executive)
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7143985
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: patrick-leahy
+    type: person
+    name: Patrick Leahy
+    names:
+      zh: 派屈克·萊希
+      en: Patrick Leahy
+    gender: M
+    born: 1940-03-31
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: 美国政治人物
+    ids:
+      wikidata: Q59315
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B4%BE%E5%B1%88%E5%85%8B%C2%B7%E8%90%8A%E5%B8%8C
+      - https://en.wikipedia.org/wiki/Patrick_Leahy
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 44
+    sources:
+      - url: https://www.wikidata.org/wiki/Q59315
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議院臨時議長
+        org: us-senate
+        from: 2021-01-20
+        to: 2023-01-03
+      - title: 美國參議院臨時議長
+        org: us-senate
+        from: 2012-12-17
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1975-01-03
+        to: 1977-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1983-01-03
+        to: 1985-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1981-01-03
+        to: 1983-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1995-01-03
+        to: 1997-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1979-01-03
+        to: 1981-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2003-01-03
+        to: 2005-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2005-01-03
+        to: 2007-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2011-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1993-01-03
+        to: 1995-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1977-01-03
+        to: 1979-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1999-01-03
+        to: 2001-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1997-01-03
+        to: 1999-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1985-01-03
+        to: 1987-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 参议员
+        org: senate
+      - title: http://www.wikidata.org/.well-known/genid/77ae3f1a15b4bf0f9405f309ee017623
+        from: 2015-01-03
+  - id: patrick-mchenry
+    type: person
+    name: Patrick McHenry
+    names:
+      zh: 派翠克·麥克亨利
+      en: Patrick McHenry
+    gender: M
+    born: 1975-10-22
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物・前美國眾議院臨時議長
+    ids:
+      wikidata: Q2057809
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B4%BE%E7%BF%A0%E5%85%8B%C2%B7%E9%BA%A5%E5%85%8B%E4%BA%A8%E5%88%A9
+      - https://en.wikipedia.org/wiki/Patrick_McHenry
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2057809
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: Speaker pro tempore of the United States House of Representatives
+        from: 2023-10-03
+        to: 2023-10-25
+      - title: 北卡羅來納州眾議員
+        org: north-carolina-house-of-representatives
+        from: "2003"
+        to: "2005"
+  - id: patrick-morrisey
+    type: person
+    name: Patrick Morrisey
+    names:
+      zh: 帕特里克·莫里西
+      en: Patrick Morrisey
+    gender: M
+    born: 1967-12-21
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: American politician and lawyer (born 1967)
+    ids:
+      wikidata: Q7147254
+    links:
+      - https://en.wikipedia.org/wiki/Patrick_Morrisey
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147254
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 西弗吉尼亚州州长
+        org: state-of-west-virginia
+        from: 2025-01-13
+      - title: West Virginia Attorney General
+        from: 2013-01-14
+        to: 2025-01-12
+  - id: patrick-murphy
+    type: person
+    name: Patrick Murphy
+    names:
+      zh: 帕特里克·墨菲
+      en: Patrick Murphy
+    gender: M
+    born: 1973-10-19
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: 美国政治人物（1973—）
+    ids:
+      wikidata: Q5997832
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B4%BE%E7%BF%A0%E5%85%8B%C2%B7%E5%A2%A8%E8%8F%B2_(%E8%B3%93%E8%A5%BF%E6%B3%95%E5%B0%BC%E4%BA%9E%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)
+      - https://en.wikipedia.org/wiki/Patrick_Murphy_(Pennsylvania_politician)
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5997832
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国陆军部长
+        org: united-states-department-of-the-army
+        from: 2016-01-11
+        to: 2016-05-17
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+  - id: patrick-n-hogan
+    type: person
+    name: Patrick N. Hogan
+    names:
+      zh: 帕特里克·霍根
+      en: Patrick N. Hogan
+    gender: M
+    born: 1979-02-15
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: American politician (born 1979)
+    ids:
+      wikidata: Q7147309
+    links:
+      - https://en.wikipedia.org/wiki/Patrick_N._Hogan
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147309
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 馬里蘭州眾議員
+        org: maryland-house-of-delegates
+        from: 2003-06-01
+        to: "2011"
+  - id: patrick-pizzella
+    type: person
+    name: Patrick Pizzella
+    names:
+      zh: 帕特里克·皮泽拉
+      en: Patrick Pizzella
+    gender: M
+    born: 1954-05-19
+    country:
+      - FR
+    sectors:
+      - politics
+    tier: 2
+    summary: American politician
+    ids:
+      wikidata: Q30349466
+    links:
+      - https://en.wikipedia.org/wiki/Patrick_Pizzella
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30349466
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国劳工部长
+        org: united-states-department-of-labor
+        from: 2019-07-20
+        to: 2019-09-30
+      - title: 美国劳工副部长
+        from: 2018-04-17
+        to: 2021-01-20
+      - title: Mayor of Pinehurst, North Carolina
+        from: 2023-12-12
+  - id: patrick-r-donahoe
+    type: person
+    name: Patrick R. Donahoe
+    names:
+      en: Patrick R. Donahoe
+    gender: M
+    born: "1955"
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: 73rd United States Postmaster General
+    ids:
+      wikidata: Q7147504
+    links:
+      - https://en.wikipedia.org/wiki/Patrick_R._Donahoe
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147504
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 郵政總長
+        org: united-states-postal-service
+        from: 2010-12-06
+        to: 2015-02-01
+  - id: patrick-soon-shiong
+    type: person
+    name: Patrick Soon-Shiong
+    names:
+      zh: 黄馨祥
+      en: Patrick Soon-Shiong
+    gender: M
+    born: 1952-07-29
+    country:
+      - US
+      - ZA
+    sectors:
+      - business
+      - academia
+    tier: 3
+    summary: 华裔企业家、医生
+    netWorth:
+      usd: 5600000000
+    ids:
+      wikidata: Q7147677
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%83%E9%A6%A8%E7%A5%A5
+      - https://en.wikipedia.org/wiki/Patrick_Soon-Shiong
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7147677
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: patrick-volkerding
+    type: person
+    name: Patrick Volkerding
+    names:
+      en: Patrick Volkerding
+    gender: M
+    born: 1966-10-20
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: American software engineer
+    ids:
+      wikidata: Q44808
+    links:
+      - https://en.wikipedia.org/wiki/Patrick_Volkerding
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44808
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: patti-davis
+    type: person
+    name: Patti Davis
+    names:
+      zh: 帕蒂·戴维斯
+      en: Patti Davis
+    gender: F
+    born: 1952-10-21
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 4
+    summary: American actress and author
+    ids:
+      wikidata: Q469302
+    links:
+      - https://en.wikipedia.org/wiki/Patti_Davis
+    tags:
+      - relative
+    attrs:
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q469302
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: patty-murray
+    type: person
+    name: Patty Murray
+    names:
+      zh: 派蒂·莫瑞
+      en: Patty Murray
+    gender: F
+    born: 1950-10-11
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 美国政治
+    ids:
+      wikidata: Q258825
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B4%BE%E8%92%82%C2%B7%E8%8E%AB%E7%91%9E
+      - https://en.wikipedia.org/wiki/Patty_Murray
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 40
+    sources:
+      - url: https://www.wikidata.org/wiki/Q258825
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議院臨時議長
+        org: us-senate
+        from: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2011-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1995-01-03
+        to: 1997-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2003-01-03
+        to: 2005-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1993-01-03
+        to: 1995-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2005-01-03
+        to: 2007-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1997-01-03
+        to: 1999-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1999-01-03
+        to: 2001-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美國參議院民主黨會議秘書
+        from: 2007-01-03
+      - title: 成员
+        org: membership-organization
+        from: "1985"
+        to: "1989"
+      - title: 華盛頓州參議員
+        org: washington-state-senate
+        from: 1989-01-09
+        to: 1993-01-11
+  - id: paul-baran
+    type: person
+    name: Paul Baran
+    names:
+      zh: 保罗·巴兰
+      en: Paul Baran
+    gender: M
+    born: 1926-04-29
+    died: 2011-03-26
+    country:
+      - US
+      - PL
+    sectors:
+      - business
+      - tech
+      - academia
+    tier: 4
+    summary: American engineer (1926–2011)
+    ids:
+      wikidata: Q92617
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E5%B7%B4%E8%98%AD
+      - https://en.wikipedia.org/wiki/Paul_Baran
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 38
+    sources:
+      - url: https://www.wikidata.org/wiki/Q92617
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paul-brown
+    type: person
+    name: Paul Brown
+    names:
+      zh: 保羅·布朗
+      en: Paul Brown
+    gender: M
+    born: 1908-09-07
+    died: 1991-08-05
+    country:
+      - US
+    sectors:
+      - media
+    tier: 4
+    summary: American football coach (1908–1991)
+    ids:
+      wikidata: Q968798
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E5%B8%83%E6%9C%97
+      - https://en.wikipedia.org/wiki/Paul_Brown
+    tags:
+      - relative
+    attrs:
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q968798
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paul-cantwell
+    type: person
+    name: Paul Cantwell
+    names:
+      en: Paul Cantwell
+    gender: M
+    born: 1927-09-15
+    died: "1997"
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q104902885
+    links:
+      - https://en.wikipedia.org/wiki/Paul_Cantwell
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104902885
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 印第安納州眾議員
+        org: indiana-house-of-representatives
+  - id: paul-cesario-o-neill
+    type: person
+    name: Paul Cesario O'Neill
+    names:
+      en: Paul Cesario O'Neill
+    gender: M
+    born: 1926-03-13
+    died: 2004-12-24
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American investment banker (1926-2004)
+    ids:
+      wikidata: Q76206340
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q76206340
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paul-clement
+    type: person
+    name: Paul Clement
+    names:
+      zh: 保罗·克莱门特
+      en: Paul Clement
+    gender: M
+    born: 1966-06-24
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+      - academia
+    tier: 2
+    summary: United States Solicitor General
+    ids:
+      wikidata: Q1356377
+    links:
+      - https://en.wikipedia.org/wiki/Paul_Clement
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1356377
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國司法部長
+        org: us-doj
+        from: 2007-09-17
+        to: 2007-09-18
+      - title: 美國聯邦總律師
+        org: department-of-justice-office-of-the-solicitor-general
+        from: 2005-06-13
+        to: 2008-06-02
+      - title: 美國聯邦總律師
+        org: department-of-justice-office-of-the-solicitor-general
+        from: 2004-07-13
+        to: 2005-06-13
+  - id: paul-dalio
+    type: person
+    name: Paul Dalio
+    names:
+      en: Paul Dalio
+    gender: M
+    born: 1979-12-08
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American filmmaker
+    ids:
+      wikidata: Q26691923
+    links:
+      - https://en.wikipedia.org/wiki/Paul_Dalio
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q26691923
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paul-e-jacobs
+    type: person
+    name: Paul E. Jacobs
+    names:
+      zh: 保罗·雅各布
+      en: Paul E. Jacobs
+    gender: M
+    born: 1962-10-30
+    country:
+      - US
+    sectors:
+      - sports
+    tier: 5
+    summary: American chief executive
+    ids:
+      wikidata: Q4805143
+    links:
+      - https://en.wikipedia.org/wiki/Paul_E._Jacobs
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4805143
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paul-gosar
+    type: person
+    name: Paul Gosar
+    names:
+      zh: 保羅·戈薩拉
+      en: Paul Gosar
+    gender: M
+    born: 1958-11-22
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1958)
+    ids:
+      wikidata: Q2059832
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%88%88%E8%90%A8%E5%B0%94
+      - https://en.wikipedia.org/wiki/Paul_Gosar
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2059832
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: paul-h-o-neill
+    type: person
+    name: Paul H. O'Neill
+    names:
+      zh: 保罗·奥尼尔
+      en: Paul H. O'Neill
+    gender: M
+    born: 1935-12-04
+    died: 2020-04-18
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 2
+    summary: 第72任美國財政部部長
+    ids:
+      wikidata: Q456921
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E5%A5%A7%E5%B0%BC%E7%88%BE_(%E7%BE%8E%E5%9C%8B%E8%B2%A1%E6%94%BF%E9%83%A8%E9%95%B7)
+      - https://en.wikipedia.org/wiki/Paul_H._O'Neill
+    tags:
+      - us-executive
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q456921
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国财政部长
+        org: united-states-department-of-the-treasury
+        from: 2001-01-20
+        to: 2002-12-31
+  - id: paul-jobs
+    type: person
+    name: Paul Jobs
+    names:
+      zh: 保罗·乔布斯
+      en: Paul Jobs
+    gender: M
+    born: 1922-11-22
+    died: 1993-03-05
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: Steve Jobs adoptive father (1922-1993)
+    ids:
+      wikidata: Q28941300
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28941300
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paul-lepage
+    type: person
+    name: Paul LePage
+    names:
+      zh: 保羅·勒佩吉
+      en: Paul LePage
+    gender: M
+    born: 1948-10-09
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 3
+    summary: 74th Governor of Maine
+    ids:
+      wikidata: Q881196
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E5%8B%92%E4%BD%A9%E5%90%89
+      - https://en.wikipedia.org/wiki/Paul_LePage
+    tags:
+      - us-governors
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q881196
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 緬因州州長
+        org: state-of-maine
+        from: 2011-01-05
+        to: 2019-01-02
+  - id: paul-menard
+    type: person
+    name: Paul Menard
+    names:
+      en: Paul Menard
+    gender: M
+    born: 1980-08-21
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American racing driver
+    ids:
+      wikidata: Q2879369
+    links:
+      - https://en.wikipedia.org/wiki/Paul_Menard
+    tags:
+      - relative
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2879369
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paul-pelosi
+    type: person
+    name: Paul Pelosi
+    names:
+      zh: 保羅·佩洛西
+      en: Paul Pelosi
+    gender: M
+    born: 1940-04-15
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美国商人
+    ids:
+      wikidata: Q7152909
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E4%BD%A9%E6%B4%9B%E8%A5%BF
+      - https://en.wikipedia.org/wiki/Paul_Pelosi
+    tags:
+      - relative
+    attrs:
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7152909
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paul-ryan
+    type: person
+    name: Paul Ryan
+    names:
+      zh: 保罗·莱恩
+      en: Paul Ryan
+    gender: M
+    born: 1970-01-29
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: 美国政治人物
+    ids:
+      wikidata: Q203966
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%90%8A%E6%81%A9
+      - https://en.wikipedia.org/wiki/Paul_Ryan
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 59
+    sources:
+      - url: https://www.wikidata.org/wiki/Q203966
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國眾議院議長
+        org: us-house
+        from: 2015-10-29
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+  - id: paul-sarbanes
+    type: person
+    name: Paul Sarbanes
+    names:
+      zh: 保罗·萨班斯
+      en: Paul Sarbanes
+    gender: M
+    born: 1933-02-03
+    died: 2020-12-06
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q1895804
+    links:
+      - https://en.wikipedia.org/wiki/Paul_Sarbanes
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1895804
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2005-01-03
+        to: 2007-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1985-01-03
+        to: 1987-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1997-01-03
+        to: 1999-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1995-01-03
+        to: 1997-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2003-01-03
+        to: 2005-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1993-01-03
+        to: 1995-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1999-01-03
+        to: 2001-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1981-01-03
+        to: 1983-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1977-01-03
+        to: 1979-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1979-01-03
+        to: 1981-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1983-01-03
+        to: 1985-01-03
+      - title: 馬里蘭州眾議員
+        org: maryland-house-of-delegates
+        from: "1967"
+        to: "1971"
+      - title: 美国众议员
+        org: us-house
+        from: 1973-01-03
+        to: 1975-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1975-01-03
+        to: 1977-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1971-01-03
+        to: 1973-01-03
+      - title: 美国众议员
+        org: us-house
+  - id: paul-singer
+    type: person
+    name: Paul Singer
+    names:
+      zh: 保罗·辛格
+      en: Paul Singer
+    gender: M
+    born: 1944-08-22
+    country:
+      - US
+    sectors:
+      - business
+      - judiciary
+      - media
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 6700000000
+    ids:
+      wikidata: Q6511841
+    links:
+      - https://en.wikipedia.org/wiki/Paul_Singer
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6511841
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paul-soros
+    type: person
+    name: Paul Soros
+    names:
+      en: Paul Soros
+    gender: M
+    born: 1926-06-05
+    died: 2013-06-15
+    country:
+      - US
+    sectors:
+      - finance
+    tier: 4
+    summary: 美國商人
+    ids:
+      wikidata: Q15062789
+    links:
+      - https://en.wikipedia.org/wiki/Paul_Soros
+    tags:
+      - relative
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15062789
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paul-tonko
+    type: person
+    name: Paul Tonko
+    names:
+      zh: 保羅·D·東科
+      en: Paul Tonko
+    gender: M
+    born: 1949-06-18
+    country:
+      - US
+    sectors:
+      - politics
+      - tech
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q1373548
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7D%C2%B7%E6%9D%B1%E7%A7%91
+      - https://en.wikipedia.org/wiki/Paul_Tonko
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1373548
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 地方議會議員
+        org: city-council
+        from: "1976"
+        to: "1983"
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 纽约州众议院议员
+        org: new-york-state-assembly
+        from: "1983"
+        to: "2007"
+  - id: paul-tudor-jones
+    type: person
+    name: Paul Tudor Jones
+    names:
+      zh: Paul Tudor Jones
+      en: Paul Tudor Jones
+    gender: M
+    born: 1954-09-28
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国对冲基金经理和投资者
+    netWorth:
+      usd: 8100000000
+    ids:
+      wikidata: Q7154092
+    links:
+      - https://en.wikipedia.org/wiki/Paul_Tudor_Jones
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7154092
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: paul-volcker
+    type: person
+    name: Paul Volcker
+    names:
+      zh: 保罗·沃尔克
+      en: Paul Volcker
+    gender: M
+    born: 1927-09-05
+    died: 2019-12-08
+    country:
+      - US
+    sectors:
+      - business
+      - politics
+      - academia
+    tier: 4
+    summary: American economist (1927-2019)
+    ids:
+      wikidata: Q349785
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E6%B2%83%E5%85%8B_(%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%AE%B6)
+      - https://en.wikipedia.org/wiki/Paul_Volcker
+    tags:
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 33
+    sources:
+      - url: https://www.wikidata.org/wiki/Q349785
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美联储主席
+        org: federal-reserve
+        from: 1979-08-06
+        to: 1987-08-11
+      - title: 負責國際事務的次長
+        from: "1969"
+        to: "1974"
+      - title: president of the Federal Reserve Bank of New York
+        org: federal-reserve-bank-of-new-york
+        from: 1975-05-02
+        to: 1979-08-05
+  - id: paul-wolfowitz
+    type: person
+    name: Paul Wolfowitz
+    names:
+      zh: 保罗·沃尔福威茨
+      en: Paul Wolfowitz
+    gender: M
+    born: 1943-12-22
+    country:
+      - US
+    sectors:
+      - business
+      - politics
+      - academia
+    tier: 4
+    summary: 美国政治家
+    ids:
+      wikidata: Q219861
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%B2%83%E5%B0%94%E7%A6%8F%E5%A8%81%E8%8C%A8
+      - https://en.wikipedia.org/wiki/Paul_Wolfowitz
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 50
+    sources:
+      - url: https://www.wikidata.org/wiki/Q219861
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國國務院政策規劃主任
+        org: policy-planning-staff
+        from: 1981-01-22
+        to: 1982-12-22
+      - title: 美国国防部副部长
+        org: united-states-department-of-defense
+        from: 2001-01-20
+        to: 2005-06-01
+      - title: 美國東亞及太平洋事務助理國務卿
+        org: bureau-of-east-asian-and-pacific-affairs
+        from: 1982-12-22
+        to: 1986-03-12
+      - title: 美国国防部政策次长
+        org: office-of-the-under-secretary-of-defense-for-policy
+        from: 1989-05-15
+        to: 1993-01-19
+      - title: 世界银行行长
+        org: world-bank-group
+        from: 2005-06-01
+        to: 2007-06-30
+      - title: United States Ambassador to Indonesia
+        from: 1986-04-11
+        to: 1989-05-12
+  - id: pauline-epstein
+    type: person
+    name: Pauline Epstein
+    names:
+      en: Pauline Epstein
+    gender: F
+    born: "1918"
+    died: "2004"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: (1918-2004)
+    ids:
+      wikidata: Q96176674
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96176674
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pauline-lafon-gore
+    type: person
+    name: Pauline LaFon Gore
+    names:
+      zh: 戈尔
+      en: Pauline LaFon Gore
+    gender: F
+    born: 1912-10-06
+    died: 2004-12-15
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q7155048
+    links:
+      - https://en.wikipedia.org/wiki/Pauline_LaFon_Gore
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7155048
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pauline-phillips
+    type: person
+    name: Pauline Phillips
+    names:
+      zh: 波莱恩·菲利普斯
+      en: Pauline Phillips
+    gender: F
+    born: 1918-07-04
+    died: 2013-01-16
+    country:
+      - US
+    sectors:
+      - media
+    tier: 4
+    summary: American advice columnist (1918-2013)
+    ids:
+      wikidata: Q3272243
+    links:
+      - https://en.wikipedia.org/wiki/Pauline_Phillips
+    tags:
+      - relative
+    attrs:
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3272243
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pavlos-crown-prince-of-greece
+    type: person
+    name: Pavlos, Crown Prince of Greece
+    names:
+      zh: 帕夫诺斯
+      en: Pavlos, Crown Prince of Greece
+    gender: M
+    born: 1967-05-20
+    country:
+      - GR
+    sectors:
+      - business
+      - military
+    tier: 3
+    summary: former Crown Prince of Greece
+    ids:
+      wikidata: Q381700
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85_(%E5%B8%8C%E8%87%98%E7%8E%8B%E5%84%B2)
+      - https://en.wikipedia.org/wiki/Pavlos%2C_Crown_Prince_of_Greece
+    tags:
+      - relative
+    attrs:
+      sitelinks: 36
+    sources:
+      - url: https://www.wikidata.org/wiki/Q381700
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pei-jinjia
+    type: person
+    name: 裴金佳
+    names:
+      zh: 裴金佳
+      en: Pei Jinjia
+    gender: M
+    born: 1963-08-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国退役军人事务部部长
+    ids:
+      wikidata: Q22100202
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%A3%B4%E9%87%91%E4%BD%B3
+      - https://en.wikipedia.org/wiki/Pei_Jinjia
+    tags:
+      - cn-ministers
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22100202
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中共中央台湾工作办公室副主任
+        from: 2018-12-06
+        to: 2022-05-31
+      - title: 中华人民共和国退役军人事务部部长
+        org: ministry-of-veterans-affairs-of-the-people-s-republic-of-china
+        from: 2022-06-25
+  - id: pell-cooper
+    type: person
+    name: Pell Cooper
+    names:
+      en: Pell Cooper
+    gender: M
+    born: "1959"
+    country: []
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American judge and attorney
+    ids:
+      wikidata: Q135520364
+    links:
+      - https://en.wikipedia.org/wiki/Pell_Cooper
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q135520364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: peng-jiaxue
+    type: person
+    name: 彭佳学
+    names:
+      zh: 彭佳学
+      en: Peng Jiaxue
+    gender: M
+    born: 1965-05-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - finance
+    tier: 3
+    summary: 浙江省人大常委会党组副书记、副主任
+    ids:
+      wikidata: Q47689413
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BD%AD%E4%BD%B3%E5%AD%A6
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47689413
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: peng-lei
+    type: person
+    name: 彭蕾
+    names:
+      zh: 彭蕾
+      en: Peng Lei
+    gender: F
+    born: "1970"
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中國商人
+    ids:
+      wikidata: Q17013897
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BD%AD%E8%95%BE
+      - https://en.wikipedia.org/wiki/Peng_Lei
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17013897
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席执行官
+        from: "2010"
+        to: 2013-02-01
+  - id: peng-liyuan
+    type: person
+    name: 彭丽媛
+    names:
+      zh: 彭丽媛
+      en: Peng Liyuan
+    gender: F
+    born: 1962-11-20
+    country:
+      - CN
+    sectors:
+      - culture
+      - military
+      - politics
+    tier: 3
+    summary: 中国女高音歌唱家，中共中央总书记习近平的第二任妻子
+    ids:
+      wikidata: Q430911
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BD%AD%E4%B8%BD%E5%AA%9B
+      - https://en.wikipedia.org/wiki/Peng_Liyuan
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 49
+    sources:
+      - url: https://www.wikidata.org/wiki/Q430911
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国主席夫人
+        from: 2013-03-14
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 中华人民共和国第一夫人
+        from: 2012-11-15
+  - id: peng-peiyun
+    type: person
+    name: 彭珮云
+    names:
+      zh: 彭珮云
+      en: Peng Peiyun
+    gender: F
+    born: 1929-12-01
+    died: 2025-12-21
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 第九届全国人大常委会副委员长，中华全国妇女联合会原主席，中国红十字会原会长
+    ids:
+      wikidata: Q7162676
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BD%AD%E7%8F%AE%E4%BA%91
+      - https://en.wikipedia.org/wiki/Peng_Peiyun
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7162676
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国人民代表大会常务委员会副委员长
+        org: npc-standing-committee
+        from: 1998-03-19
+        to: 2003-03-05
+      - title: 清华大学校长
+        org: tsinghua-university
+        from: 1949-03-01
+        to: 1950-03-01
+      - title: 中国红十字会会长
+        org: red-cross-society-of-china
+        from: 1999-10-01
+        to: 2009-10-01
+      - title: 中华全国妇女联合会主席
+        org: all-china-women-s-federation
+        from: 1998-09-01
+        to: 2003-08-01
+      - title: 中华人民共和国国家计划生育委员会主任
+        from: 1988-04-01
+        to: 1998-03-01
+  - id: peng-qinghua
+    type: person
+    name: 彭清华
+    names:
+      zh: 彭清华
+      en: Peng Qinghua
+    gender: M
+    born: 1957-04-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 十四届全国人大常委会副委员长
+    ids:
+      wikidata: Q1391721
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BD%AD%E6%B8%85%E5%8D%8E
+      - https://en.wikipedia.org/wiki/Peng_Qinghua
+    tags:
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1391721
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国人民代表大会常务委员会副委员长
+        org: npc-standing-committee
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中国共产党广西壮族自治区委员会书记
+        org: guangxi-zhuang-autonomous-regional-committee-of-the-chinese-communist-party
+        from: 2012-12-19
+        to: 2018-03-21
+      - title: 中国共产党四川省委员会书记
+        org: sichuan-provincial-committee-of-the-chinese-communist-party
+        from: 2018-03-21
+      - title: 中央人民政府驻香港特别行政区联络办公室主任
+        from: 2009-05-24
+  - id: peng-yong
+    type: person
+    name: 彭勇
+    names:
+      zh: 彭勇
+      en: Peng Yong
+    gender: M
+    born: "1954"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese general
+    ids:
+      wikidata: Q8293918
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BD%AD%E5%8B%87_(1954%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Peng_Yong
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8293918
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: penny-pritzker
+    type: person
+    name: Penny Pritzker
+    names:
+      zh: 潘妮·普利茨克
+      en: Penny Pritzker
+    gender: F
+    born: 1959-05-02
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 2
+    summary: American billionaire businesswoman (born 1959)
+    netWorth:
+      usd: 4200000000
+    ids:
+      wikidata: Q293365
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BD%AD%E5%A6%AE%C2%B7%E6%99%AE%E9%87%8C%E8%8C%A8%E5%85%8B
+      - https://en.wikipedia.org/wiki/Penny_Pritzker
+    tags:
+      - us-executive
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q293365
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國商務部長
+        org: united-states-department-of-commerce
+        from: 2013-06-26
+        to: 2017-01-20
+  - id: perry-buck
+    type: person
+    name: Perry Buck
+    names:
+      zh: 派芮·巴克
+      en: Perry Buck
+    gender: F
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q16201178
+    links:
+      - https://en.wikipedia.org/wiki/Perry_Buck
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16201178
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 科羅拉多州眾議員
+        org: colorado-house-of-representatives
+  - id: perry-richardson-bass
+    type: person
+    name: Perry Richardson Bass
+    names:
+      en: Perry Richardson Bass
+    gender: M
+    born: 1914-11-11
+    died: 2006-06-01
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: 美國商人
+    ids:
+      wikidata: Q18631396
+    links:
+      - https://en.wikipedia.org/wiki/Perry_Richardson_Bass
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18631396
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pete-aguilar
+    type: person
+    name: Pete Aguilar
+    names:
+      zh: 皮特·阿圭拉
+      en: Pete Aguilar
+    gender: M
+    born: 1979-06-19
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: American politician (born 1979)
+    ids:
+      wikidata: Q7171821
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%9A%AE%E7%89%B9%C2%B7%E9%98%BF%E5%90%89%E6%8B%89%E7%88%BE
+      - https://en.wikipedia.org/wiki/Pete_Aguilar
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7171821
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 成员
+        org: membership-organization
+        from: "2006"
+        to: "2014"
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: Mayor of Redlands, California
+        from: 2010-12-07
+        to: 2014-12-02
+  - id: pete-buttigieg
+    type: person
+    name: Pete Buttigieg
+    names:
+      zh: 皮特·布蒂吉格
+      en: Pete Buttigieg
+    gender: M
+    born: 1982-01-19
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+    tier: 2
+    summary: 美国第19任运输部长
+    ids:
+      wikidata: Q7173106
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%9A%AE%E7%89%B9%C2%B7%E5%B8%83%E8%92%82%E5%90%89%E6%A0%BC
+      - https://en.wikipedia.org/wiki/Pete_Buttigieg
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 60
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7173106
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国运输部长
+        org: united-states-department-of-transportation
+        from: 2021-02-03
+        to: 2025-01-20
+      - title: Mayor of South Bend, Indiana
+        from: "2012"
+        to: "2020"
+  - id: pete-gaynor
+    type: person
+    name: Pete Gaynor
+    names:
+      zh: 彼得·T·盖诺
+      en: Pete Gaynor
+    gender: M
+    born: "1958"
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American emergency manager
+    ids:
+      wikidata: Q82607085
+    links:
+      - https://en.wikipedia.org/wiki/Pete_Gaynor
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q82607085
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國國土安全部長
+        org: united-states-department-of-homeland-security
+        from: 2021-01-11
+        to: 2021-01-20
+  - id: pete-geren
+    type: person
+    name: Pete Geren
+    names:
+      zh: 皮特·格伦
+      en: Pete Geren
+    gender: M
+    born: 1952-01-29
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: United States Secretary of the Army and former congressman
+    ids:
+      wikidata: Q1170156
+    links:
+      - https://en.wikipedia.org/wiki/Pete_Geren
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1170156
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國空軍部長
+        org: united-states-department-of-the-air-force
+        from: 2005-06-29
+        to: 2005-11-04
+      - title: 美国陆军部长
+        org: united-states-department-of-the-army
+        from: 2007-03-09
+        to: 2009-09-16
+      - title: 美國陸軍部副部長
+        from: 2006-02-01
+        to: 2007-07-01
+      - title: 成员
+        org: membership-organization
+        from: "1999"
+        to: "2001"
+      - title: 美国众议员
+        org: us-house
+        from: 1989-09-12
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+  - id: pete-gosar
+    type: person
+    name: Pete Gosar
+    names:
+      en: Pete Gosar
+    gender: M
+    born: 1967-12-29
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q47718480
+    links:
+      - https://en.wikipedia.org/wiki/Pete_Gosar
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47718480
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pete-hegseth
+    type: person
+    name: Pete Hegseth
+    names:
+      zh: 皮特·赫格塞思
+      en: Pete Hegseth
+    gender: M
+    born: 1980-06-06
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - military
+    tier: 2
+    summary: 现任美国国防部长
+    ids:
+      wikidata: Q7172014
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%9A%AE%E7%89%B9%C2%B7%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%96%AF
+      - https://en.wikipedia.org/wiki/Pete_Hegseth
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 57
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7172014
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国国防部长
+        org: united-states-department-of-defense
+        from: 2025-09-05
+  - id: pete-lau
+    type: person
+    name: 刘作虎
+    names:
+      zh: 刘作虎
+      en: Pete Lau
+    gender: M
+    born: 1975-05-05
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国实业家
+    ids:
+      wikidata: Q19840329
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%88%98%E4%BD%9C%E8%99%8E
+      - https://en.wikipedia.org/wiki/Pete_Lau
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19840329
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pete-ricketts
+    type: person
+    name: Pete Ricketts
+    names:
+      zh: 皮特·里克茨
+      en: Pete Ricketts
+    gender: M
+    born: 1964-08-19
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 3
+    summary: United States Senator from Nebraska since 2023
+    ids:
+      wikidata: Q6106781
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E9%87%8C%E5%9F%BA%E8%8C%A8
+      - https://en.wikipedia.org/wiki/Pete_Ricketts
+    tags:
+      - us-congress
+      - us-governors
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6106781
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-12
+        to: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-03
+      - title: 內布拉斯加州州長
+        org: state-of-nebraska
+        from: 2015-01-08
+        to: 2023-01-05
+  - id: pete-rouse
+    type: person
+    name: Pete Rouse
+    names:
+      zh: 皮特·劳斯
+      en: Pete Rouse
+    gender: M
+    born: 1946-04-15
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: Political operative
+    ids:
+      wikidata: Q1290431
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BD%BC%E7%89%B9%C2%B7%E9%A5%92%E6%80%9D
+      - https://en.wikipedia.org/wiki/Pete_Rouse
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1290431
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國總統顧問
+        org: executive-office-of-the-president-of-the-united-states
+        from: 2011-01-13
+        to: "2014"
+      - title: 白宮幕僚長
+        org: executive-office-of-the-president-of-the-united-states
+        from: 2010-10-01
+        to: 2011-01-13
+      - title: 美國總統資深顧問
+        org: white-house-office
+        from: 2009-01-20
+        to: 2010-10-01
+  - id: pete-sessions
+    type: person
+    name: Pete Sessions
+    names:
+      zh: 皮特·塞申斯
+      en: Pete Sessions
+    gender: M
+    born: 1955-03-22
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: 美国政治人物
+    ids:
+      wikidata: Q437852
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%9A%AE%E7%89%B9%C2%B7%E5%A1%9E%E7%94%B3%E6%96%AF
+      - https://en.wikipedia.org/wiki/Pete_Sessions
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q437852
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+  - id: pete-stauber
+    type: person
+    name: Pete Stauber
+    names:
+      zh: 皮特·施陶泊
+      en: Pete Stauber
+    gender: M
+    born: 1966-05-10
+    country:
+      - US
+    sectors:
+      - politics
+      - sports
+    tier: 4
+    summary: American hockey player and politician
+    ids:
+      wikidata: Q55955746
+    links:
+      - https://en.wikipedia.org/wiki/Pete_Stauber
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55955746
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: peter-b-teets
+    type: person
+    name: Peter B. Teets
+    names:
+      zh: 彼得·B·泰茨
+      en: Peter B. Teets
+    gender: M
+    born: 1942-02-12
+    died: 2020-11-29
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: Director of the National Reconnaissance Office
+    ids:
+      wikidata: Q7172623
+    links:
+      - https://en.wikipedia.org/wiki/Peter_B._Teets
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7172623
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國空軍部長
+        org: united-states-department-of-the-air-force
+      - title: 美國空軍部長
+        org: united-states-department-of-the-air-force
+        from: 2005-01-20
+        to: 2005-03-25
+  - id: peter-buffett
+    type: person
+    name: Peter Buffett
+    names:
+      en: Peter Buffett
+    gender: M
+    born: 1958-05-04
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 5
+    summary: American musician and writer
+    ids:
+      wikidata: Q7173047
+    links:
+      - https://en.wikipedia.org/wiki/Peter_Buffett
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7173047
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: peter-burleigh
+    type: person
+    name: Peter Burleigh
+    names:
+      en: Peter Burleigh
+    gender: M
+    born: 1942-03-07
+    country:
+      - US
+    sectors:
+      - politics
+      - diplomacy
+    tier: 2
+    summary: American diplomat
+    ids:
+      wikidata: Q7173066
+    links:
+      - https://en.wikipedia.org/wiki/Peter_Burleigh
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7173066
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国常驻联合国代表列表
+        org: united-states-mission-to-the-united-nations
+        from: 1998-08-18
+        to: 1999-09-07
+      - title: 聯合國安全理事會主席
+        org: united-nations-security-council
+  - id: peter-cancro
+    type: person
+    name: Peter Cancro
+    names:
+      en: Peter Cancro
+    gender: M
+    born: 1957-05-13
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American business executive
+    netWorth:
+      usd: 4900000000
+    ids:
+      wikidata: Q133886765
+    links: []
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q133886765
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: peter-defazio
+    type: person
+    name: Peter DeFazio
+    names:
+      zh: 彼得·德法齐奥
+      en: Peter DeFazio
+    gender: M
+    born: 1947-05-27
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1947)
+    ids:
+      wikidata: Q1758507
+    links:
+      - https://en.wikipedia.org/wiki/Peter_DeFazio
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1758507
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+      - title: 成员
+        org: membership-organization
+        from: "1983"
+        to: "1986"
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1991-01-03
+        to: 1993-01-03
+  - id: peter-h-wyden
+    type: person
+    name: Peter H. Wyden
+    names:
+      zh: 彼得·H·懷登
+      en: Peter H. Wyden
+    gender: M
+    born: 1923-10-02
+    died: 1998-06-15
+    country:
+      - US
+    sectors:
+      - culture
+      - media
+    tier: 5
+    summary: American journalist (1923–1998)
+    ids:
+      wikidata: Q129364
+    links:
+      - https://en.wikipedia.org/wiki/Peter_H._Wyden
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q129364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: peter-keisler
+    type: person
+    name: Peter Keisler
+    names:
+      zh: 皮特·基斯勒
+      en: Peter Keisler
+    gender: M
+    born: 1960-10-13
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American lawyer
+    ids:
+      wikidata: Q3376685
+    links:
+      - https://en.wikipedia.org/wiki/Peter_Keisler
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3376685
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國司法部長
+        org: us-doj
+        from: 2007-09-18
+        to: 2007-11-09
+  - id: peter-lam
+    type: person
+    name: 林建岳
+    names:
+      zh: 林建岳
+      en: Peter Lam
+    gender: M
+    born: 1957-08-07
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: 香港政治人物
+    ids:
+      wikidata: Q7175338
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9E%97%E5%BB%BA%E5%B2%B3
+      - https://en.wikipedia.org/wiki/Peter_Lam
+    tags:
+      - cn-business
+      - party:Business and Professionals Alliance for Hong Kong
+    attrs:
+      party: Business and Professionals Alliance for Hong Kong
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7175338
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: peter-lee-ka-kit
+    type: person
+    name: 李家傑
+    names:
+      zh: 李家傑
+      en: Peter Lee Ka-kit
+    gender: M
+    born: 1963-05-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: 香港企業家
+    ids:
+      wikidata: Q7175408
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%AE%B6%E5%82%91
+      - https://en.wikipedia.org/wiki/Peter_Lee_Ka-kit
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7175408
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+  - id: peter-lynch
+    type: person
+    name: Peter Lynch
+    names:
+      zh: 彼得·林奇
+      en: Peter Lynch
+    gender: M
+    born: 1944-01-19
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 4
+    summary: 美國投資者
+    ids:
+      wikidata: Q1156395
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E6%9E%97%E5%A5%87
+      - https://en.wikipedia.org/wiki/Peter_Lynch
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1156395
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: peter-meijer
+    type: person
+    name: Peter Meijer
+    names:
+      zh: 彼得·邁耶
+      en: Peter Meijer
+    gender: M
+    born: 1988-01-10
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+    tier: 4
+    summary: U.S. Representative from Michigan
+    ids:
+      wikidata: Q96419165
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E9%82%81%E8%80%B6
+      - https://en.wikipedia.org/wiki/Peter_Meijer
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96419165
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+  - id: peter-mills
+    type: person
+    name: Peter Mills
+    names:
+      en: Peter Mills
+    gender: M
+    born: 1943-06-03
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: American politician from Maine
+    ids:
+      wikidata: Q7175896
+    links:
+      - https://en.wikipedia.org/wiki/Peter_Mills_(American_politician)
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7175896
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 緬因州參議員
+        org: maine-senate
+  - id: peter-o-rourke
+    type: person
+    name: Peter O'Rourke
+    names:
+      zh: 彼得·奥罗克
+      en: Peter O'Rourke
+    gender: M
+    born: 1966-01-03
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American government official
+    ids:
+      wikidata: Q55629652
+    links:
+      - https://en.wikipedia.org/wiki/Peter_O'Rourke_(U.S._government_official)
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55629652
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国退伍军人事务部长
+        org: united-states-department-of-veterans-affairs
+        from: 2018-05-29
+        to: 2018-07-30
+  - id: peter-t-snowe
+    type: person
+    name: Peter T. Snowe
+    names:
+      en: Peter T. Snowe
+    gender: M
+    born: 1943-01-16
+    died: 1973-04-10
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q23020894
+    links:
+      - https://en.wikipedia.org/wiki/Peter_Snowe
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23020894
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 缅因州众议员
+        org: maine-house-of-representatives
+  - id: peter-thiel
+    type: person
+    name: Peter Thiel
+    names:
+      zh: 彼得·蒂尔
+      en: Peter Thiel
+    gender: M
+    born: 1967-10-11
+    country:
+      - US
+      - DE
+      - NZ
+    sectors:
+      - business
+      - culture
+      - tech
+    tier: 2
+    summary: 美國企業家、風險投資家和對沖基金經理
+    netWorth:
+      usd: 23900000000
+    ids:
+      wikidata: Q705525
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E6%B3%B0%E7%88%BE
+      - https://en.wikipedia.org/wiki/Peter_Thiel
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 52
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705525
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 理事会成员
+        org: board-of-directors
+        from: 2005-04-01
+        to: 2022-05-25
+      - title: 理事会成员
+        org: board-of-directors
+        from: "2003"
+  - id: peter-welch
+    type: person
+    name: Peter Welch
+    names:
+      zh: 彼得·韋爾奇
+      en: Peter Welch
+    gender: M
+    born: 1947-05-02
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: 美国政治家
+    ids:
+      wikidata: Q1112656
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E9%9F%8B%E7%88%BE%E5%A5%87
+      - https://en.wikipedia.org/wiki/Peter_Welch
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 28
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1112656
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 少数党领袖
+        org: new-york-state-assembly
+        from: "1983"
+        to: "1985"
+      - title: 临时主席
+        from: "1985"
+        to: "1989"
+      - title: 临时主席
+        from: "2003"
+        to: "1989"
+      - title: member of the State Senate of Vermont
+        org: vermont-senate
+        from: "1981"
+        to: "1989"
+      - title: member of the State Senate of Vermont
+        org: vermont-senate
+        from: "2002"
+        to: "1989"
+  - id: phil-bryant
+    type: person
+    name: Phil Bryant
+    names:
+      zh: 菲尔·布莱恩特
+      en: Phil Bryant
+    gender: M
+    born: 1954-12-09
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 美國政治人物
+    ids:
+      wikidata: Q887898
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%B0%94%C2%B7%E5%B8%83%E8%8E%B1%E6%81%A9%E7%89%B9
+      - https://en.wikipedia.org/wiki/Phil_Bryant
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q887898
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 密西西比州州长
+        org: state-of-mississippi
+        from: 2012-01-10
+        to: 2020-01-14
+      - title: 密西西比州眾議員
+        org: mississippi-house-of-representatives
+  - id: phil-hegseth
+    type: person
+    name: Phil Hegseth
+    names:
+      en: Phil Hegseth
+    gender: M
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American political figure
+    ids:
+      wikidata: Q137261177
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137261177
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 聯絡官
+      - title: 資政
+  - id: phil-knight
+    type: person
+    name: Phil Knight
+    names:
+      zh: 菲爾·奈特
+      en: Phil Knight
+    gender: M
+    born: 1938-02-24
+    country:
+      - US
+    sectors:
+      - business
+      - culture
+    tier: 2
+    summary: American billionaire and co-founder of Nike
+    netWorth:
+      usd: 40800000000
+    ids:
+      wikidata: Q557305
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%8F%B2%E7%88%BE%C2%B7%E5%A5%88%E7%89%B9
+      - https://en.wikipedia.org/wiki/Phil_Knight
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 36
+    sources:
+      - url: https://www.wikidata.org/wiki/Q557305
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: phil-murphy
+    type: person
+    name: Phil Murphy
+    names:
+      zh: 菲尔·墨菲
+      en: Phil Murphy
+    gender: M
+    born: 1957-08-16
+    country:
+      - US
+    sectors:
+      - politics
+      - diplomacy
+      - finance
+    tier: 3
+    summary: 美国政治家
+    ids:
+      wikidata: Q260042
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%8F%B2%E7%88%BE%C2%B7%E5%A2%A8%E8%8F%B2
+      - https://en.wikipedia.org/wiki/Phil_Murphy
+    tags:
+      - us-governors
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q260042
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國駐德大使
+        org: embassy-of-the-united-states-berlin
+        from: 2009-08-21
+        to: 2013-05-29
+      - title: 新澤西州州長
+        org: state-of-new-jersey
+        from: 2018-01-16
+        to: 2026-01-20
+  - id: phil-rosenfelt
+    type: person
+    name: Phil Rosenfelt
+    names:
+      zh: 菲爾·羅森菲爾特
+      en: Phil Rosenfelt
+    gender: M
+    born: "1944"
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American civil servant
+    ids:
+      wikidata: Q28530100
+    links:
+      - https://en.wikipedia.org/wiki/Phil_Rosenfelt
+    tags:
+      - us-executive
+      - party:independent politician
+    attrs:
+      party: independent politician
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28530100
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國教育部長
+        org: united-states-department-of-education
+        from: 2021-01-20
+        to: 2021-03-02
+      - title: 美國教育部長
+        org: united-states-department-of-education
+        from: 2017-01-20
+        to: 2017-02-07
+  - id: phil-ruffin
+    type: person
+    name: Phil Ruffin
+    names:
+      zh: 菲尔·拉芬
+      en: Phil Ruffin
+    gender: M
+    born: "1935"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美國商人
+    netWorth:
+      usd: 4700000000
+    ids:
+      wikidata: Q7182361
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%B0%94%C2%B7%E6%8B%89%E8%8A%AC
+      - https://en.wikipedia.org/wiki/Phil_Ruffin
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7182361
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: phil-scott
+    type: person
+    name: Phil Scott
+    names:
+      zh: 菲利普·斯戈特
+      en: Phil Scott
+    gender: M
+    born: 1958-08-04
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: Governor of Vermont since 2017
+    ids:
+      wikidata: Q7185808
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%8F%B2%E7%88%BE%C2%B7%E6%96%AF%E7%A7%91%E7%89%B9
+      - https://en.wikipedia.org/wiki/Phil_Scott
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7185808
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 佛蒙特州州长
+        from: 2017-01-05
+      - title: member of the State Senate of Vermont
+        org: vermont-senate
+        from: 2001-01-05
+        to: 2011-01-05
+      - title: Lieutenant Governor of Vermont
+        from: 2011-01-06
+        to: 2017-01-05
+  - id: philip-anschutz
+    type: person
+    name: Philip Anschutz
+    names:
+      zh: 菲利普·安舒茨
+      en: Philip Anschutz
+    gender: M
+    born: 1939-12-28
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American billionaire businessman
+    netWorth:
+      usd: 10900000000
+    ids:
+      wikidata: Q1133456
+    links:
+      - https://en.wikipedia.org/wiki/Philip_Anschutz
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1133456
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: philip-arthur-fisher
+    type: person
+    name: Philip Arthur Fisher
+    names:
+      zh: 菲利普·费雪
+      en: Philip Arthur Fisher
+    gender: M
+    born: 1907-09-08
+    died: 2004-03-11
+    country:
+      - US
+    sectors:
+      - culture
+      - academia
+      - finance
+    tier: 4
+    summary: American businessman (1907–2004)
+    ids:
+      wikidata: Q1376151
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E8%B4%B9%E9%9B%AA
+      - https://en.wikipedia.org/wiki/Philip_Arthur_Fisher
+    tags:
+      - relative
+    attrs:
+      sitelinks: 22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1376151
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: philip-kotler
+    type: person
+    name: Philip Kotler
+    names:
+      zh: 菲利普·科特勒
+      en: Philip Kotler
+    gender: M
+    born: 1931-05-27
+    country:
+      - US
+    sectors:
+      - business
+      - culture
+      - academia
+    tier: 4
+    summary: American marketing author, consultant, and professor
+    ids:
+      wikidata: Q164170
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E7%A7%91%E7%89%B9%E5%8B%92
+      - https://en.wikipedia.org/wiki/Philip_Kotler
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 48
+    sources:
+      - url: https://www.wikidata.org/wiki/Q164170
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: philip-perry
+    type: person
+    name: Philip Perry
+    names:
+      zh: 菲利普·佩里
+      en: Philip Perry
+    gender: M
+    born: 1964-10-16
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American attorney and government official (born 1964)
+    ids:
+      wikidata: Q7184207
+    links:
+      - https://en.wikipedia.org/wiki/Philip_Perry
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7184207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: philip-smith
+    type: person
+    name: Philip Smith
+    names:
+      en: Philip Smith
+    gender: M
+    born: 1899-05-10
+    died: "1961"
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: American theater owner
+    ids:
+      wikidata: Q41757031
+    links:
+      - https://en.wikipedia.org/wiki/Philip_Smith_(theater_owner)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q41757031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: philip-wong
+    type: person
+    name: 黃宜弘
+    names:
+      zh: 黃宜弘
+      en: Philip Wong
+    gender: M
+    born: 1938-12-23
+    died: 2021-06-06
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: 香港商人、政治人物
+    ids:
+      wikidata: Q7184580
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%83%E5%AE%9C%E5%BC%98
+      - https://en.wikipedia.org/wiki/Philip_Wong
+    tags:
+      - cn-business
+      - party:New Hong Kong Alliance
+    attrs:
+      party: New Hong Kong Alliance
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7184580
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 臨時立法會議員
+        org: provisional-legislative-council
+        from: 1996-12-21
+        to: 1998-06-30
+      - title: 香港立法會議員
+        org: legislative-council-of-hong-kong
+        from: 1998-07-01
+        to: 2012-09-30
+  - id: phillip-ragon
+    type: person
+    name: Phillip Ragon
+    names:
+      en: Phillip Ragon
+    gender: M
+    born: "1949"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美國商人
+    netWorth:
+      usd: 4200000000
+    ids:
+      wikidata: Q7185789
+    links:
+      - https://en.wikipedia.org/wiki/Phillip_Ragon
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7185789
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: phoebe-adele-gates
+    type: person
+    name: Phoebe Adele Gates
+    names:
+      en: Phoebe Adele Gates
+    gender: F
+    born: 2002-09-14
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: daughter of Bill and Melinda Gates
+    ids:
+      wikidata: Q23011256
+    links:
+      - https://en.wikipedia.org/wiki/Phoebe_Gates
+    tags:
+      - relative
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23011256
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pia-getty
+    type: person
+    name: Pia Getty
+    names:
+      zh: 皮娅·米勒
+      en: Pia Getty
+    gender: F
+    born: "1966"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: American filmmaker
+    ids:
+      wikidata: Q7189990
+    links:
+      - https://en.wikipedia.org/wiki/Pia_Getty
+    tags:
+      - relative
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7189990
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pierre-omidyar
+    type: person
+    name: Pierre Omidyar
+    names:
+      zh: 皮埃爾·歐米迪亞
+      en: Pierre Omidyar
+    gender: M
+    born: 1967-06-21
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+      - academia
+    tier: 3
+    summary: American entrepreneur and philanthropist; founder of eBay
+    netWorth:
+      usd: 11400000000
+    ids:
+      wikidata: Q348483
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%9A%AE%E5%9F%83%E5%B0%94%C2%B7%E5%A5%A5%E7%B1%B3%E6%88%B4%E5%B0%94
+      - https://en.wikipedia.org/wiki/Pierre_Omidyar
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 34
+    sources:
+      - url: https://www.wikidata.org/wiki/Q348483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: polly-l-herring
+    type: person
+    name: Polly L. Herring (Reed)
+    names:
+      en: Polly L. Herring (Reed)
+    gender: F
+    born: 1912-02-14
+    died: 1995-07-18
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: 14 Feb 1912 - 18 Jul 1995
+    ids:
+      wikidata: Q107292596
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q107292596
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pollyanna-chu
+    type: person
+    name: 朱李月華
+    names:
+      zh: 朱李月華
+      en: Pollyanna Chu
+    gender: F
+    born: 1958-08-03
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: Hong Konger businesswoman, billionaire
+    ids:
+      wikidata: Q9192806
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9C%B1%E6%9D%8E%E6%9C%88%E8%8F%AF
+      - https://en.wikipedia.org/wiki/Pollyanna_Chu
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9192806
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: porter-goss
+    type: person
+    name: Porter Goss
+    names:
+      zh: 波特·戈斯
+      en: Porter Goss
+    gender: M
+    born: 1938-11-26
+    country:
+      - US
+    sectors:
+      - business
+      - politics
+      - finance
+    tier: 4
+    summary: American politician and first Director of the Central Intelligence Agency
+    ids:
+      wikidata: Q455698
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B3%A2%E7%89%B9%C2%B7%E6%88%88%E6%96%AF
+      - https://en.wikipedia.org/wiki/Porter_Goss
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q455698
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中央情報局局長
+        org: central-intelligence-agency
+        from: 2005-04-21
+        to: 2006-05-05
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2004-09-23
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: Mayor of Sanibel, Florida
+  - id: pramila-jayapal
+    type: person
+    name: Pramila Jayapal
+    names:
+      zh: 普拉米拉·賈亞帕爾
+      en: Pramila Jayapal
+    gender: F
+    born: 1965-09-21
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1965)
+    ids:
+      wikidata: Q18978140
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%99%AE%E6%8B%89%E7%B1%B3%E6%8B%89%C2%B7%E8%B4%BE%E4%BA%9A%E5%B8%95%E5%B0%94
+      - https://en.wikipedia.org/wiki/Pramila_Jayapal
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18978140
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 華盛頓州參議員
+        org: washington-state-senate
+        from: 2015-01-12
+        to: "2016"
+  - id: prescott-bush
+    type: person
+    name: Prescott Bush
+    names:
+      zh: 普雷斯科特·布什
+      en: Prescott Bush
+    gender: M
+    born: 1895-05-15
+    died: 1972-10-08
+    country:
+      - US
+    sectors:
+      - politics
+      - finance
+    tier: 3
+    summary: 美国政治人物
+    ids:
+      wikidata: Q324742
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%99%AE%E9%9B%B7%E6%96%AF%E7%A7%91%E7%89%B9%C2%B7%E5%B8%83%E5%B8%8C
+      - https://en.wikipedia.org/wiki/Prescott_Bush
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 35
+    sources:
+      - url: https://www.wikidata.org/wiki/Q324742
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 1959-01-03
+        to: 1961-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1953-01-03
+        to: 1955-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1957-01-03
+        to: 1959-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1952-11-04
+        to: 1953-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1955-01-03
+        to: 1957-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1961-01-03
+        to: 1963-01-03
+  - id: prescott-s-bush-jr
+    type: person
+    name: Prescott S. Bush, Jr.
+    names:
+      en: Prescott S. Bush, Jr.
+    gender: M
+    born: "1922"
+    died: 2010-06-23
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: brother of George H.W. Bush
+    ids:
+      wikidata: Q21552502
+    links:
+      - https://en.wikipedia.org/wiki/Prescott_S._Bush%2C_Jr.
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21552502
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: prince-achileas-andreas-of-greece-and-denmark
+    type: person
+    name: Prince Achileas-Andreas of Greece and Denmark
+    names:
+      zh: 希臘和丹麥的阿希利-安德烈王子
+      en: Prince Achileas-Andreas of Greece and Denmark
+    gender: M
+    born: 2000-08-12
+    country:
+      - US
+      - GR
+    sectors:
+      - culture
+    tier: 4
+    summary: member of the former Greek royal family
+    ids:
+      wikidata: Q11282796
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%8C%E8%87%98%E5%92%8C%E4%B8%B9%E9%BA%A5%E7%9A%84%E9%98%BF%E5%B8%8C%E5%88%A9-%E5%AE%89%E5%BE%B7%E7%83%88%E4%BA%9E%E6%96%AF%E7%8E%8B%E5%AD%90
+      - https://en.wikipedia.org/wiki/Prince_Achileas-Andreas_of_Greece_and_Denmark
+    tags:
+      - relative
+    attrs:
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11282796
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: prince-alexander-von-furstenberg
+    type: person
+    name: Prince Alexander von Fürstenberg
+    names:
+      en: Prince Alexander von Fürstenberg
+    gender: M
+    born: 1970-01-25
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: 美國商人
+    ids:
+      wikidata: Q4720526
+    links:
+      - https://en.wikipedia.org/wiki/Prince_Alexander_von_F%C3%BCrstenberg
+    tags:
+      - relative
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4720526
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: prince-aristidis-stavros-of-greece-and-denmark
+    type: person
+    name: Prince Aristidis-Stavros of Greece and Denmark
+    names:
+      en: Prince Aristidis-Stavros of Greece and Denmark
+    gender: M
+    born: 2008-06-29
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: member of the former Greek royal family
+    ids:
+      wikidata: Q16263839
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16263839
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: prince-constantine-alexios-of-greece-and-denmark
+    type: person
+    name: Prince Constantine Alexios of Greece and Denmark
+    names:
+      zh: 康斯坦丁·亚历修斯 (希腊)
+      en: Prince Constantine Alexios of Greece and Denmark
+    gender: M
+    born: 1998-10-29
+    country:
+      - US
+      - GR
+    sectors:
+      - family
+    tier: 4
+    summary: member of the former Greek royal family
+    ids:
+      wikidata: Q2793486
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%8C%E8%87%98%E5%92%8C%E4%B8%B9%E9%BA%A5%E7%9A%84%E5%BA%B7%E6%96%AF%E5%9D%A6%E4%B8%81-%E8%89%BE%E5%8A%9B%E8%A5%BF%E5%A5%A7%E7%8E%8B%E5%AD%90
+      - https://en.wikipedia.org/wiki/Prince_Constantine-Alexios_of_Greece_and_Denmark
+    tags:
+      - relative
+    attrs:
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2793486
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: prince-egon-von-furstenberg
+    type: person
+    name: Prince Egon von Fürstenberg
+    names:
+      zh: 埃貢·馮·菲斯滕貝格
+      en: Prince Egon von Fürstenberg
+    gender: M
+    born: 1946-06-29
+    died: 2004-06-11
+    country:
+      - CH
+    sectors:
+      - family
+    tier: 4
+    summary: socialite, banker, fashion and interior designer (1946-2004)
+    ids:
+      wikidata: Q117329
+    links:
+      - https://en.wikipedia.org/wiki/Prince_Egon_von_F%C3%BCrstenberg
+    tags:
+      - relative
+    attrs:
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q117329
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: prince-odysseus-kimon-of-greece-and-denmark
+    type: person
+    name: Prince Odysseus-Kimon of Greece and Denmark
+    names:
+      en: Prince Odysseus-Kimon of Greece and Denmark
+    gender: M
+    born: 2004-09-17
+    country:
+      - GB
+    sectors:
+      - family
+    tier: 5
+    summary: member of the former Greek royal family
+    ids:
+      wikidata: Q11292055
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11292055
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: princess-madeleine-duchess-of-halsingland-and-gastrikland
+    type: person
+    name: Princess Madeleine, Duchess of Hälsingland and Gästrikland
+    names:
+      zh: 马德琳公主
+      en: Princess Madeleine, Duchess of Hälsingland and Gästrikland
+    gender: F
+    born: 1982-06-10
+    country:
+      - SE
+    sectors:
+      - diplomacy
+    tier: 3
+    summary: youngest child of King Carl XVI Gustaf and Queen Silvia of Sweden
+    ids:
+      wikidata: Q212035
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B5%B7%E7%88%BE%E8%BE%9B%E8%98%AD%E5%8F%8A%E8%80%B6%E6%96%AF%E7%89%B9%E9%87%8C%E5%85%8B%E8%98%AD%E5%A5%B3%E5%85%AC%E7%88%B5%E7%91%AA%E5%BE%B7%E7%90%B3%E5%85%AC%E4%B8%BB
+      - https://en.wikipedia.org/wiki/Princess_Madeleine%2C_Duchess_of_H%C3%A4lsingland_and_G%C3%A4strikland
+    tags:
+      - relative
+    attrs:
+      sitelinks: 53
+    sources:
+      - url: https://www.wikidata.org/wiki/Q212035
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: princess-maria-olympia-of-greece-and-denmark
+    type: person
+    name: Princess Maria-Olympia of Greece and Denmark
+    names:
+      zh: 玛丽亚-奥林匹亚
+      en: Princess Maria-Olympia of Greece and Denmark
+    gender: F
+    born: 1996-07-25
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: daughter of Pavlos, Crown Prince of Greece, and Marie-Chantal, Crown Princess of Greece
+    ids:
+      wikidata: Q11341012
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%8C%E8%87%98%E5%92%8C%E4%B8%B9%E9%BA%A5%E7%9A%84%E7%91%AA%E9%BA%97%E4%BA%9E-%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E5%85%AC%E4%B8%BB
+      - https://en.wikipedia.org/wiki/Princess_Maria-Olympia_of_Greece_and_Denmark
+    tags:
+      - relative
+    attrs:
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11341012
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: priscilla-chan
+    type: person
+    name: Priscilla Chan
+    names:
+      zh: 普莉希拉·陳
+      en: Priscilla Chan
+    gender: F
+    born: 1985-02-24
+    country:
+      - US
+    sectors:
+      - family
+    tier: 3
+    summary: 美国儿科医生和慈善家
+    ids:
+      wikidata: Q20900227
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%99%AE%E8%8E%89%E5%B8%8C%E6%8B%89%C2%B7%E9%99%B3
+      - https://en.wikipedia.org/wiki/Priscilla_Chan
+    tags:
+      - relative
+    attrs:
+      sitelinks: 36
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20900227
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: prudence-murdoch
+    type: person
+    name: Prudence Murdoch
+    names:
+      zh: 普鲁登斯·默多克
+      en: Prudence Murdoch
+    gender: F
+    born: "1958"
+    country:
+      - AU
+    sectors:
+      - family
+    tier: 5
+    summary: daughter of Rupert Murdoch
+    ids:
+      wikidata: Q26924403
+    links:
+      - https://en.wikipedia.org/wiki/Prudence_MacLeod
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q26924403
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: pu-rongxiang
+    type: person
+    name: 蒲荣祥
+    names:
+      zh: 蒲荣祥
+    gender: M
+    born: "1940"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8320427
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%92%B2%E8%8D%A3%E7%A5%A5
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8320427
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: purpu-tonchup
+    type: person
+    name: 普布顿珠
+    names:
+      zh: 普布顿珠
+      en: Purpu Tonchup
+    gender: M
+    born: 1972-11-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共四川省委常委、统战部部长
+    ids:
+      wikidata: Q51103461
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%99%AE%E5%B8%83%E9%A1%BF%E7%8F%A0
+      - https://en.wikipedia.org/wiki/Purpu_Tonchup
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q51103461
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress

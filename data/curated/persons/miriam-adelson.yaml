@@ -1,0 +1,19 @@
+id: miriam-adelson
+type: person
+name: Miriam Adelson
+names:
+  en: Miriam Adelson
+  zh: 米丽娅姆·阿德尔森
+gender: F
+born: '1945-10-10'
+country:
+- US
+- IL
+sectors:
+- business
+tier: 2
+summary: 金沙集团控股股东（澳门金沙中国母公司），2024 年为特朗普投入约 1 亿美元的最大金主之一。
+sources:
+- url: https://en.wikipedia.org/wiki/Miriam_Adelson
+  publisher: Wikipedia
+updated: '2026-10-11'

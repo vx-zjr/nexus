@@ -1,0 +1,36 @@
+id: zhang-guoqing
+type: person
+name: 张国清
+names:
+  zh: 张国清
+  en: Zhang Guoqing
+gender: M
+born: 1964-08
+country:
+- CN
+sectors:
+- politics
+tier: 2
+status: active
+summary: 国务院副总理（2023–）。兵器工业系统出身，前辽宁省委书记、天津市长。
+positions:
+- title: 国务院副总理
+  org: state-council-prc
+  from: 2023-03
+  current: true
+- title: 政治局委员
+  org: ccp-politburo
+  from: 2022-10
+  current: true
+- title: 辽宁省委书记
+  from: 2020-10
+  to: 2022-10
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+updated: '2026-10-11'

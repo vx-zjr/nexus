@@ -1,0 +1,59 @@
+# 身份裁决：处理导入层之间的重复实体与“疑似重复”误报。
+#   sameAs       → 声明同一实体，编译时强制合并（规范 id 取本文件中的 id）
+#   distinctFrom → 声明不是同一人，消除 possible-duplicate 警告
+# 新增裁决前请先用 `npm run ctos -- show <id>` 对比两边的生年、简介与外部 ID。
+sources:
+  - https://www.wikidata.org/
+entities:
+  - id: gu-liping
+    type: person
+    name: 谷丽萍
+    names: { en: Gu Liping }
+    sameAs: gu-liping-1959
+    summary: 令计划之妻，曾任中国青年创业就业基金会秘书长；2016 年因受贿罪被判刑。
+    sources: [https://en.wikipedia.org/wiki/Ling_Jihua]
+
+  - id: zhang-aiping
+    type: person
+    name: 张爱萍
+    names: { en: Zhang Aiping }
+    sameAs: zhang-aiping-1908
+    born: 1910-01-09
+    died: 2003-07-05
+    summary: 开国上将，前国防部长（1982–1988）、国务院副总理。zhao 记生年 1910，Wikidata 记 1908，此处以维基百科为准。
+    sources: [https://en.wikipedia.org/wiki/Zhang_Aiping]
+
+  - id: john-morris
+    type: person
+    name: Johnny Morris
+    names: { en: Johnny Morris }
+    sameAs: john-morris-1948
+    summary: Bass Pro Shops 创始人（Wikidata 存在两个重复条目 Q19276793 / Q131539109）。
+    sources: [https://en.wikipedia.org/wiki/Johnny_Morris_(businessman)]
+
+  - id: daniel-zhang
+    type: person
+    name: 张勇
+    names: { en: Daniel Zhang }
+    ids: { wikidata: Q33134685 }
+    distinctFrom: [zhang-yong]
+    summary: 前阿里巴巴集团董事会主席兼 CEO（2015–2023）。与海底捞创始人张勇（zhang-yong）为不同人。
+    sources: [https://en.wikipedia.org/wiki/Daniel_Zhang]
+
+  - id: huang-ming
+    type: person
+    name: 黄明
+    names: { en: Huang Ming }
+    ids: { wikidata: Q9462347 }
+    distinctFrom: [huang-ming-1958]
+    summary: 前应急管理部部长（2018–2022）。与皇明太阳能创始人黄鸣（huang-ming-1958）为不同人。
+    sources: [https://en.wikipedia.org/wiki/Huang_Ming_(politician)]
+
+  - id: wang-kai
+    type: person
+    name: 王凯
+    names: { en: Wang Kai }
+    ids: { wikidata: Q28414954 }
+    distinctFrom: [wang-kai-1963]
+    summary: 中国政治人物（1962 年生，曾任河南省长）。与解放军中将王凯（wang-kai-1963）为不同人。
+    sources: [https://www.wikidata.org/wiki/Q28414954]

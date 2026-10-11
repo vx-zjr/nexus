@@ -1,0 +1,31 @@
+id: steve-witkoff
+type: person
+name: Steve Witkoff
+names:
+  en: Steve Witkoff
+  zh: 史蒂夫·威特科夫
+gender: M
+born: '1957-03-15'
+country:
+- US
+sectors:
+- politics
+- business
+- diplomacy
+tier: 2
+status: active
+summary: 美国中东问题特使（2025–），并承担对俄等多条谈判线。纽约地产商、特朗普数十年老友；World Liberty Financial “荣誉联合创始人”，其子 Zach Witkoff 任 WLF CEO。
+positions:
+- title: 中东问题特使
+  org: us-white-house
+  from: '2025-01-20'
+  current: true
+- title: Witkoff Group 创始人
+  from: '1997'
+  current: true
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

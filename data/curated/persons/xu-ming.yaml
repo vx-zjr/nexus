@@ -1,0 +1,19 @@
+id: xu-ming
+type: person
+name: 徐明
+names:
+  zh: 徐明
+  en: Xu Ming
+gender: M
+born: '1971'
+died: '2015-12-04'
+country:
+- CN
+sectors:
+- business
+tier: 4
+summary: 大连实德集团创始人，被认定向薄熙来家族行贿；2015-12 在狱中死亡。
+sources:
+- url: https://en.wikipedia.org/wiki/Xu_Ming_(businessman)
+  publisher: Wikipedia
+updated: '2026-10-11'

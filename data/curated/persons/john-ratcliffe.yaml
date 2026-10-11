@@ -1,0 +1,30 @@
+id: john-ratcliffe
+type: person
+name: John Ratcliffe
+names:
+  en: John Ratcliffe
+  zh: 约翰·拉特克利夫
+gender: M
+born: '1965-10-20'
+country:
+- US
+sectors:
+- politics
+- security
+tier: 2
+status: active
+summary: 中央情报局（CIA）局长（2025–）；第一任期内任国家情报总监。
+positions:
+- title: CIA 局长
+  org: us-cabinet
+  from: '2025-01-23'
+  current: true
+- title: 国家情报总监
+  from: 2020-05
+  to: 2021-01
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

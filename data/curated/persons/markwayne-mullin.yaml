@@ -1,0 +1,33 @@
+id: markwayne-mullin
+type: person
+name: Markwayne Mullin
+names:
+  en: Markwayne Mullin
+  zh: 马克韦恩·穆林
+gender: M
+born: '1977-07-26'
+country:
+- US
+sectors:
+- politics
+tier: 2
+status: active
+summary: 国土安全部长（2026-03-24 起）。前俄克拉荷马州联邦参议员（2023–2026），切罗基族。
+positions:
+- title: 国土安全部长
+  org: us-cabinet
+  from: '2026-03-24'
+  current: true
+- title: 联邦参议员（俄克拉荷马）
+  org: us-senate
+  from: 2023-01
+  to: 2026-03
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://en.wikipedia.org/wiki/List_of_dismissals_and_resignations_in_the_second_Trump_administration
+  title: List of dismissals and resignations in the second Trump administration
+  publisher: Wikipedia
+updated: '2026-10-11'

@@ -1,0 +1,6392 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: t-h-chan
+    type: person
+    name: 陳曾熙
+    names:
+      zh: 陳曾熙
+      en: T.H. Chan
+    gender: M
+    born: "1923"
+    died: 1986-03-08
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 5
+    summary: Chinese entrepreneur
+    ids:
+      wikidata: Q15929946
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%99%B3%E6%9B%BE%E7%86%99
+      - https://en.wikipedia.org/wiki/Chan_Tseng-hsi
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15929946
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tagg-romney
+    type: person
+    name: Tagg Romney
+    names:
+      en: Tagg Romney
+    gender: M
+    born: 1970-03-21
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman, son of Mitt Romney
+    ids:
+      wikidata: Q7675210
+    links:
+      - https://en.wikipedia.org/wiki/Tagg_Romney
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7675210
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: talulah-riley
+    type: person
+    name: Talulah Riley
+    names:
+      zh: 妲露拉·莱莉
+      en: Talulah Riley
+    gender: F
+    born: 1985-09-26
+    country:
+      - GB
+    sectors:
+      - culture
+    tier: 3
+    summary: 英国女演员
+    ids:
+      wikidata: Q269309
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A6%B2%E9%9C%B2%E6%8B%89%C2%B7%E8%8E%B1%E8%8E%89
+      - https://en.wikipedia.org/wiki/Talulah_Riley
+    tags:
+      - relative
+    attrs:
+      sitelinks: 42
+    sources:
+      - url: https://www.wikidata.org/wiki/Q269309
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tamara-gustavson
+    type: person
+    name: Tamara Gustavson
+    names:
+      en: Tamara Gustavson
+    gender: F
+    born: "1961"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American business executive, heiress, billionaire
+    netWorth:
+      usd: 8500000000
+    ids:
+      wikidata: Q18686519
+    links:
+      - https://en.wikipedia.org/wiki/Tamara_Gustavson
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18686519
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tammy-baldwin
+    type: person
+    name: Tammy Baldwin
+    names:
+      zh: 塔米·鲍德温
+      en: Tammy Baldwin
+    gender: F
+    born: 1962-02-11
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: 美国政治人物
+    ids:
+      wikidata: Q40628
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A1%94%E7%B1%B3%C2%B7%E9%AE%91%E5%BE%B7%E6%BA%AB
+      - https://en.wikipedia.org/wiki/Tammy_Baldwin
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 36
+    sources:
+      - url: https://www.wikidata.org/wiki/Q40628
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-03
+        to: 2001-01-03
+      - title: 美國參議院民主黨會議秘書
+        from: 2017-01-03
+      - title: member of the Wisconsin State Assembly
+        org: wisconsin-state-assembly
+        from: 1993-01-03
+        to: 1999-01-03
+      - title: Dane County Commissioner
+        from: "1986"
+        to: "1994"
+  - id: tammy-duckworth
+    type: person
+    name: Tammy Duckworth
+    names:
+      zh: 塔米·达克沃思
+      en: Tammy Duckworth
+    gender: F
+    born: 1968-03-12
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 美國政治人物
+    ids:
+      wikidata: Q3036410
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A1%94%E7%B1%B3%C2%B7%E8%BE%BE%E5%85%8B%E6%B2%83%E6%80%9D
+      - https://en.wikipedia.org/wiki/Tammy_Duckworth
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 44
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3036410
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主管
+        from: 2006-11-21
+        to: 2009-02-08
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 助理部长
+        from: 2009-04-24
+        to: 2011-06-30
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+  - id: tammy-murphy
+    type: person
+    name: Tammy Murphy
+    names:
+      zh: 塔米·墨菲
+      en: Tammy Murphy
+    gender: F
+    born: 1965-08-05
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American banker
+    ids:
+      wikidata: Q42948064
+    links:
+      - https://en.wikipedia.org/wiki/Tammy_Murphy
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q42948064
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tan-dongsheng
+    type: person
+    name: 谭冬生
+    names:
+      zh: 谭冬生
+      en: Tan Dongsheng
+    gender: M
+    born: "1940"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: 中国人民解放军将领
+    ids:
+      wikidata: Q8317180
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B0%AD%E5%86%AC%E7%94%9F
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317180
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: tan-naida
+    type: person
+    name: 谭乃达
+    names:
+      zh: 谭乃达
+    gender: M
+    born: "1938"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8317177
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B0%AD%E4%B9%83%E8%BE%BE
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317177
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tan-yuexin
+    type: person
+    name: 谭悦新
+    names:
+      zh: 谭悦新
+    gender: M
+    born: "1941"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8317181
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B0%AD%E6%82%A6%E6%96%B0
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317181
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tang-dengjie
+    type: person
+    name: 唐登杰
+    names:
+      zh: 唐登杰
+      en: Tang Dengjie
+    gender: M
+    born: 1964-06-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共山西省委书记、山西省人大常委会主任
+    ids:
+      wikidata: Q47015950
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%94%90%E7%99%BB%E6%9D%B0
+      - https://en.wikipedia.org/wiki/Tang_Dengjie
+    tags:
+      - cn-ministers
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47015950
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 福建省省长
+        org: fujian-provincial-people-s-government
+        from: 2018-01-02
+        to: 2020-07-02
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 国家航天局局长
+        from: 2017-05-29
+        to: 2018-01-10
+      - title: 中华人民共和国民政部部长
+        org: ministry-of-civil-affairs-of-the-people-s-republic-of-china
+        from: 2022-02-28
+        to: 2023-12-29
+  - id: tang-guangfu
+    type: person
+    name: 汤广福
+    names:
+      zh: 汤广福
+      en: Tang Guangfu
+    gender: M
+    born: 1966-08-09
+    country:
+      - CN
+    sectors:
+      - politics
+      - tech
+    tier: 3
+    summary: 中国工程师
+    ids:
+      wikidata: Q48936249
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B1%A4%E5%B9%BF%E7%A6%8F
+      - https://en.wikipedia.org/wiki/Tang_Guangfu
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48936249
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tang-jiaxuan
+    type: person
+    name: 唐家璇
+    names:
+      zh: 唐家璇
+      en: Tang Jiaxuan
+    gender: M
+    born: 1938-01-17
+    country:
+      - CN
+    sectors:
+      - politics
+      - diplomacy
+    tier: 2
+    summary: 中华人民共和国外交部原部长
+    ids:
+      wikidata: Q463926
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%94%90%E5%AE%B6%E7%92%87
+      - https://en.wikipedia.org/wiki/Tang_Jiaxuan
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 23
+    sources:
+      - url: https://www.wikidata.org/wiki/Q463926
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 国务委员
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+      - title: 中华人民共和国外交部部长
+        org: prc-mfa
+        from: 1998-03-18
+        to: 2003-03-17
+  - id: tang-renjian
+    type: person
+    name: 唐仁健
+    names:
+      zh: 唐仁健
+      en: Tang Renjian
+    gender: M
+    born: 1962-08-04
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国农业农村部原部长，甘肃省原省长
+    ids:
+      wikidata: Q20063077
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%94%90%E4%BB%81%E5%81%A5
+      - https://en.wikipedia.org/wiki/Tang_Renjian
+    tags:
+      - cn-ministers
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20063077
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国农业农村部部长
+        org: ministry-of-agriculture-and-rural-affairs-of-the-people-s-republic-of-china
+        from: 2020-12-01
+        to: 2024-09-13
+  - id: tao-fanggui
+    type: person
+    name: 陶方桂
+    names:
+      zh: 陶方桂
+    gender: M
+    born: "1943"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8317493
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%99%B6%E6%96%B9%E6%A1%82
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317493
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: tao-siju
+    type: person
+    name: 陶驷驹
+    names:
+      zh: 陶驷驹
+      en: Tao Siju
+    gender: M
+    born: 1935-04-01
+    died: 2016-04-18
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中国政治人物
+    ids:
+      wikidata: Q2274922
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%99%B6%E9%A9%B7%E9%A9%B9
+      - https://en.wikipedia.org/wiki/Tao_Siju
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2274922
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国公安部部长
+        org: ministry-of-public-security
+        from: "1990"
+        to: "1998"
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 全国人民代表大会常务委员会委员
+        org: npc-standing-committee
+  - id: taren-stinebrickner-kauffman
+    type: person
+    name: Taren Stinebrickner-Kauffman
+    names:
+      en: Taren Stinebrickner-Kauffman
+    gender: F
+    born: 1981-11-14
+    country:
+      - AU
+    sectors:
+      - family
+    tier: 5
+    summary: Australian activist
+    ids:
+      wikidata: Q7685788
+    links:
+      - https://en.wikipedia.org/wiki/Taren_Stinebrickner-Kauffman
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7685788
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tate-reeves
+    type: person
+    name: Tate Reeves
+    names:
+      zh: 泰特·雷韋斯
+      en: Tate Reeves
+    gender: M
+    born: 1974-06-05
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 65th governor of Mississippi
+    ids:
+      wikidata: Q7687964
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B3%B0%E7%89%B9%C2%B7%E9%87%8C%E5%A4%AB%E6%96%AF
+      - https://en.wikipedia.org/wiki/Tate_Reeves
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 23
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7687964
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 密西西比州州长
+        org: state-of-mississippi
+        from: 2020-01-14
+      - title: 密西西比州副州長
+      - title: Mississippi State Treasurer
+  - id: tatiana-von-furstenberg
+    type: person
+    name: Tatiana von Fürstenberg
+    names:
+      en: Tatiana von Fürstenberg
+    gender: F
+    born: 1971-02-16
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 5
+    summary: 美國音樂家
+    ids:
+      wikidata: Q7688127
+    links:
+      - https://en.wikipedia.org/wiki/Tatiana_von_F%C3%BCrstenberg
+    tags:
+      - relative
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7688127
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ted-arison
+    type: person
+    name: Ted Arison
+    names:
+      zh: 泰德·阿里森
+      en: Ted Arison
+    gender: M
+    born: 1924-02-24
+    died: 1999-10-01
+    country:
+      - US
+      - IL
+    sectors:
+      - business
+      - finance
+    tier: 4
+    summary: Israeli billionaire businessman and philanthropist (1924-1999)
+    ids:
+      wikidata: Q2605460
+    links:
+      - https://en.wikipedia.org/wiki/Ted_Arison
+    tags:
+      - relative
+    attrs:
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2605460
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ted-budd
+    type: person
+    name: Ted Budd
+    names:
+      zh: 泰德·巴德
+      en: Ted Budd
+    gender: M
+    born: 1971-10-21
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 3
+    summary: United States Senator from North Carolina since 2023
+    ids:
+      wikidata: Q27733792
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%BE%B7%C2%B7%E5%B7%B4%E5%BE%B7
+      - https://en.wikipedia.org/wiki/Ted_Budd
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27733792
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: ted-cruz
+    type: person
+    name: Ted Cruz
+    names:
+      zh: 泰德·科鲁兹
+      en: Ted Cruz
+    gender: M
+    born: 1970-12-22
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: 美國參議院議員
+    ids:
+      wikidata: Q2036942
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%BE%B7%C2%B7%E5%85%8B%E9%B2%81%E5%85%B9
+      - https://en.wikipedia.org/wiki/Ted_Cruz
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 70
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2036942
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主管
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 参议员
+        org: senate
+      - title: 德克薩斯州民事檢察總長
+        from: 2003-01-09
+        to: 2008-05-12
+      - title: Associate Deputy Attorney General
+  - id: ted-daughety
+    type: person
+    name: Ted Daughety
+    names:
+      zh: 特德·道蒂
+      en: Ted Daughety
+    gender: M
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American pulmonologist-immunologist
+    ids:
+      wikidata: Q115860753
+    links:
+      - https://en.wikipedia.org/wiki/Ted_Daughety
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115860753
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ted-deutch
+    type: person
+    name: Ted Deutch
+    names:
+      zh: 泰德·德克
+      en: Ted Deutch
+    gender: M
+    born: 1966-05-07
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American politician and attorney (born 1966)
+    ids:
+      wikidata: Q245724
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%89%B9%E5%BE%B7%C2%B7%E5%A4%9A%E4%BC%8A%E5%A5%87
+      - https://en.wikipedia.org/wiki/Ted_Deutch
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q245724
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2010-04-13
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 佛羅里達州參議員
+        org: florida-senate
+        from: "2007"
+        to: "2010"
+  - id: ted-jorgensen
+    type: person
+    name: Ted Jorgensen
+    names:
+      en: Ted Jorgensen
+    gender: M
+    born: 1944-10-10
+    died: 2015-03-16
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American unicycle hockey player & biological father of Jeff Bezos (1944-2015)
+    ids:
+      wikidata: Q97749941
+    links:
+      - https://en.wikipedia.org/wiki/Ted_Jorgensen
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97749941
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 会长
+        org: organization
+        from: "1962"
+  - id: ted-leonsis
+    type: person
+    name: Ted Leonsis
+    names:
+      zh: 泰德·李昂西斯
+      en: Ted Leonsis
+    gender: M
+    born: 1957-01-08
+    country:
+      - US
+    sectors:
+      - business
+      - media
+    tier: 4
+    summary: American businessman
+    netWorth:
+      usd: 3900000000
+    ids:
+      wikidata: Q6381629
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%BE%B7%C2%B7%E8%8E%B1%E6%98%82%E8%A5%BF%E6%96%AF
+      - https://en.wikipedia.org/wiki/Ted_Leonsis
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381629
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ted-lieu
+    type: person
+    name: Ted Lieu
+    names:
+      zh: 刘云平
+      en: Ted Lieu
+    gender: M
+    born: 1969-03-29
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 民主黨籍臺裔美國聯邦眾議員
+    ids:
+      wikidata: Q7693450
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8A%89%E9%9B%B2%E5%B9%B3
+      - https://en.wikipedia.org/wiki/Ted_Lieu
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7693450
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 法官助理
+      - title: 成员
+        org: membership-organization
+        from: "2002"
+        to: "2005"
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: "2005"
+        to: "2010"
+      - title: 加利福尼亞州參議員
+        org: california-state-senate
+        from: "2011"
+        to: "2014"
+  - id: ted-turner
+    type: person
+    name: Ted Turner
+    names:
+      zh: 特德·特纳
+      en: Ted Turner
+    gender: M
+    born: 1938-11-19
+    died: 2026-05-06
+    country:
+      - US
+    sectors:
+      - business
+      - media
+    tier: 3
+    summary: 美国媒体大亨
+    ids:
+      wikidata: Q193368
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%BE%B7%C2%B7%E9%80%8F%E7%B4%8D
+      - https://en.wikipedia.org/wiki/Ted_Turner
+    tags:
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 74
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: teddy-schwarzman
+    type: person
+    name: Teddy Schwarzman
+    names:
+      zh: 特迪·施瓦斯曼
+      en: Teddy Schwarzman
+    gender: M
+    born: 1979-05-29
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American film producer and former lawyer
+    ids:
+      wikidata: Q19309867
+    links:
+      - https://en.wikipedia.org/wiki/Teddy_Schwarzman
+    tags:
+      - relative
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19309867
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: teddy-wang
+    type: person
+    name: 王德辉
+    names:
+      zh: 王德辉
+      en: Teddy Wang
+    gender: M
+    born: 1933-01-11
+    died: 1999-09-09
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 香港商人
+    ids:
+      wikidata: Q7694109
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%BE%B7%E8%BC%9D_(1934%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Teddy_Wang
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7694109
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tench-coxe
+    type: person
+    name: Tench Coxe
+    names:
+      en: Tench Coxe
+    gender: M
+    born: "1958"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American venture capitalist
+    netWorth:
+      usd: 7500000000
+    ids:
+      wikidata: Q124879467
+    links: []
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124879467
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 理事会成员
+        org: board-of-directors
+        from: "1993"
+  - id: teresa-heinz-kerry
+    type: person
+    name: Teresa Heinz Kerry
+    names:
+      zh: 特雷莎·海因茨·克里
+      en: Teresa Heinz Kerry
+    gender: F
+    born: 1938-10-05
+    country:
+      - US
+      - PT
+    sectors:
+      - business
+    tier: 4
+    summary: Businessperson
+    ids:
+      wikidata: Q288503
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%89%B9%E9%9B%B7%E8%8E%8E%C2%B7%E6%B5%B7%E5%9B%A0%E8%8C%A8%C2%B7%E5%85%8B%E9%87%8C
+      - https://en.wikipedia.org/wiki/Teresa_Heinz
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q288503
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: teresa-leger-fernandez
+    type: person
+    name: Teresa Leger Fernandez
+    names:
+      zh: 特蕾莎·莱杰·费尔南德斯
+      en: Teresa Leger Fernandez
+    gender: F
+    born: 1959-07-01
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American attorney and politician
+    ids:
+      wikidata: Q96054905
+    links:
+      - https://en.wikipedia.org/wiki/Teresa_Leger_Fern%C3%A1ndez
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96054905
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: teresa-little
+    type: person
+    name: Teresa Little
+    names:
+      zh: 特蕾莎·利特尔
+      en: Teresa Little
+    gender: F
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: American educator and first lady of Idaho
+    ids:
+      wikidata: Q91140063
+    links:
+      - https://en.wikipedia.org/wiki/Teresa_Little
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q91140063
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: teresa-po-wing-kam
+    type: person
+    name: Teresa Po Wing-kam
+    names:
+      zh: 寶詠琴
+      en: Teresa Po Wing-kam
+    gender: F
+    born: 1954-01-24
+    died: 2003-04-20
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: Hong Kong billionaire (1954-2003)
+    ids:
+      wikidata: Q10956401
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%AF%B6%E8%A9%A0%E7%90%B4
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10956401
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: terri-sewell
+    type: person
+    name: Terri Sewell
+    names:
+      zh: 特麗·塞維爾
+      en: Terri Sewell
+    gender: F
+    born: "1965"
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American politician (born 1965)
+    ids:
+      wikidata: Q461621
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%89%B9%E9%BA%97%C2%B7%E4%BF%AE%E8%80%B6%E7%88%BE
+      - https://en.wikipedia.org/wiki/Terri_Sewell
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461621
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: terry-mcauliffe
+    type: person
+    name: Terry McAuliffe
+    names:
+      zh: 泰瑞·麥考夫
+      en: Terry McAuliffe
+    gender: M
+    born: 1957-02-09
+    country:
+      - US
+    sectors:
+      - business
+      - judiciary
+      - politics
+    tier: 4
+    summary: 美国商人和政治家
+    ids:
+      wikidata: Q3518911
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B3%B0%E7%91%9E%C2%B7%E9%BA%A5%E8%80%83%E7%90%86%E5%A4%AB
+      - https://en.wikipedia.org/wiki/Terry_McAuliffe
+    tags:
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3518911
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 弗吉尼亞州州長
+        org: commonwealth-of-virginia
+        from: 2014-01-11
+        to: 2018-01-13
+  - id: terry-pegula
+    type: person
+    name: Terry Pegula
+    names:
+      zh: 特倫斯·佩古拉
+      en: Terry Pegula
+    gender: M
+    born: 1951-03-27
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American businessman (born 1951)
+    netWorth:
+      usd: 9300000000
+    ids:
+      wikidata: Q6381789
+    links:
+      - https://en.wikipedia.org/wiki/Terry_Pegula
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6381789
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tessa-newsom
+    type: person
+    name: Tessa Newsom
+    names:
+      en: Tessa Newsom
+    gender: F
+    born: 1946-11-28
+    died: 2002-05-09
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: mother of Gavin Newsom
+    ids:
+      wikidata: Q27139386
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27139386
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thai-lee
+    type: person
+    name: Thai Lee
+    names:
+      zh: 李泰 (商人)
+      en: Thai Lee
+    gender: F
+    born: "1958"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: Korean American billionaire businesswoman
+    netWorth:
+      usd: 7500000000
+    ids:
+      wikidata: Q21063142
+    links:
+      - https://en.wikipedia.org/wiki/Thai_Lee
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21063142
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: theodore-ted-blunt
+    type: person
+    name: Theodore "Ted" Blunt
+    names:
+      en: Theodore "Ted" Blunt
+    gender: M
+    born: 1943-03-22
+    died: 2024-01-11
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q7781659
+    links:
+      - https://en.wikipedia.org/wiki/Ted_Blunt
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7781659
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thierry-de-ganay
+    type: person
+    name: Thierry de Ganay
+    names:
+      en: Thierry de Ganay
+    gender: M
+    born: 1946-07-30
+    died: 2015-01-05
+    country:
+      - FR
+    sectors:
+      - family
+    tier: 5
+    summary: French film producer (1946–2015)
+    ids:
+      wikidata: Q3524578
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3524578
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 会长
+        org: organization
+  - id: thom-tillis
+    type: person
+    name: Thom Tillis
+    names:
+      zh: 汤姆·蒂利斯
+      en: Thom Tillis
+    gender: M
+    born: 1960-08-30
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 美国政治人物
+    ids:
+      wikidata: Q7786750
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B1%A4%E5%A7%86%C2%B7%E8%92%82%E5%88%A9%E6%96%AF
+      - https://en.wikipedia.org/wiki/Thom_Tillis
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 31
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7786750
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 北卡羅萊納州眾議院議長
+        org: north-carolina-house-of-representatives
+        from: 2011-01-26
+        to: 2015-01-03
+      - title: 北卡羅來納州眾議員
+        org: north-carolina-house-of-representatives
+        from: "2007"
+        to: "2015"
+      - title: county commissioner
+        org: county-commission
+  - id: thomas-a-shannon-jr
+    type: person
+    name: Thomas A. Shannon, Jr.
+    names:
+      zh: 托馬斯·香農
+      en: Thomas A. Shannon, Jr.
+    gender: M
+    born: "1958"
+    country:
+      - US
+    sectors:
+      - politics
+      - diplomacy
+    tier: 2
+    summary: 美國外交官
+    ids:
+      wikidata: Q7786914
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%98%E9%A6%AC%E6%96%AF%C2%B7%E9%A6%99%E8%BE%B2
+      - https://en.wikipedia.org/wiki/Thomas_A._Shannon_Jr.
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7786914
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国国务卿
+        org: united-states-department-of-state
+        from: 2017-01-20
+        to: 2017-02-01
+      - title: 美国副国务卿
+        from: 2017-02-01
+        to: 2017-05-24
+      - title: 美國國務院西半球事務助理國務卿
+        from: 2005-10-17
+        to: 2009-11-10
+      - title: 美國國務院顧問
+        from: 2013-12-24
+        to: 2016-02-12
+      - title: 美國政治事務國務次卿
+        from: 2016-02-12
+        to: 2018-06-04
+      - title: 美國政治事務國務次卿
+        from: 2011-07-28
+        to: 2011-09-21
+      - title: United States Ambassador to Brazil
+        from: 2010-02-04
+        to: 2013-09-06
+  - id: thomas-d-alesandro-jr
+    type: person
+    name: Thomas D'Alesandro, Jr.
+    names:
+      zh: 小托马斯·达历山德罗
+      en: Thomas D'Alesandro, Jr.
+    gender: M
+    born: 1903-08-01
+    died: 1987-08-23
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物 (1903–1987)
+    ids:
+      wikidata: Q1156152
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_D'Alesandro_Jr.
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1156152
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 會議代表
+        from: "1944"
+        to: "1968"
+      - title: 成员
+        org: membership-organization
+        from: "1935"
+        to: "1938"
+      - title: 美国众议员
+        org: us-house
+        from: 1939-01-03
+        to: 1947-05-16
+      - title: 馬里蘭州眾議員
+        org: maryland-house-of-delegates
+        from: "1926"
+        to: "1933"
+      - title: 巴尔的摩市长
+        from: 1947-05-16
+        to: 1959-05-16
+  - id: thomas-e-donilon
+    type: person
+    name: Thomas E. Donilon
+    names:
+      zh: 汤姆·多尼隆
+      en: Thomas E. Donilon
+    gender: M
+    born: 1955-05-14
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: American National Security Advisor
+    ids:
+      wikidata: Q618727
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E5%94%90%E5%B0%BC%E9%9A%86
+      - https://en.wikipedia.org/wiki/Thomas_E._Donilon
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q618727
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 总统国家安全事务助理
+        org: united-states-national-security-council
+        from: 2010-10-08
+        to: 2013-07-01
+  - id: thomas-e-white
+    type: person
+    name: Thomas E. White
+    names:
+      zh: 湯瑪斯·E·懷特
+      en: Thomas E. White
+    gender: M
+    born: 1943-12-14
+    died: 2024-12-10
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American Army General
+    ids:
+      wikidata: Q2423569
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_E._White
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2423569
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国陆军部长
+        org: united-states-department-of-the-army
+        from: 2001-05-31
+        to: 2003-04-25
+  - id: thomas-f-frist-iii
+    type: person
+    name: Thomas F. Frist, III
+    names:
+      en: Thomas F. Frist, III
+    gender: M
+    born: "1968"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessperson and board member, founder and managing principal of Frist Capital, LLC, and Chairman of the HCA board
+    ids:
+      wikidata: Q20740865
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_F._Frist_III
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20740865
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thomas-f-frist-jr
+    type: person
+    name: Thomas F. Frist, Jr.
+    names:
+      en: Thomas F. Frist, Jr.
+    gender: M
+    born: 1938-08-12
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 12400000000
+    ids:
+      wikidata: Q7789440
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_F._Frist_Jr.
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7789440
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thomas-f-frist-sr
+    type: person
+    name: Thomas F. Frist, Sr.
+    names:
+      en: Thomas F. Frist, Sr.
+    gender: M
+    born: 1910-12-15
+    died: 1998-01-04
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman (1910-1998)
+    ids:
+      wikidata: Q7789441
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_F._Frist_Sr.
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7789441
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thomas-f-lamb
+    type: person
+    name: Thomas F. Lamb
+    names:
+      en: Thomas F. Lamb
+    gender: M
+    born: 1922-10-22
+    died: 2015-05-07
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: American politician (1922-2015)
+    ids:
+      wikidata: Q7789460
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_F._Lamb
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7789460
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 宾夕法尼亚州参议员
+        org: pennsylvania-state-senate
+      - title: 賓夕法尼亞州眾議員
+        org: pennsylvania-house-of-representatives
+  - id: thomas-figures
+    type: person
+    name: Thomas Figures
+    names:
+      en: Thomas Figures
+    gender: M
+    born: "1945"
+    died: "2015"
+    country: []
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American attorney and judge (1944–2015)
+    ids:
+      wikidata: Q125446470
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_Figures
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q125446470
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thomas-h-friedkin
+    type: person
+    name: Thomas H. Friedkin
+    names:
+      en: Thomas H. Friedkin
+    gender: M
+    born: 1935-08-29
+    died: 2017-03-14
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: businessman, philanthropist, pilot (1935–2017)
+    ids:
+      wikidata: Q7790283
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_H._Friedkin
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7790283
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thomas-h-haines
+    type: person
+    name: Thomas H. Haines
+    names:
+      zh: 托马斯·海恩斯
+      en: Thomas H. Haines
+    gender: M
+    born: 1933-08-09
+    died: 2023-12-17
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 5
+    summary: American author, biochemist and academic (born 1933)
+    ids:
+      wikidata: Q56280048
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_H._Haines
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56280048
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thomas-hassan
+    type: person
+    name: Thomas Hassan
+    names:
+      zh: 托馬斯·哈桑
+      en: Thomas Hassan
+    gender: M
+    born: "1958"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: First Gentleman of New Hampshire
+    ids:
+      wikidata: Q7790485
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_Hassan
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7790485
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 校长
+  - id: thomas-kwok
+    type: person
+    name: Thomas Kwok
+    names:
+      zh: 郭炳江
+      en: Thomas Kwok
+    gender: M
+    born: 1951-10-06
+    country:
+      - GB
+    sectors:
+      - politics
+      - business
+    tier: 5
+    summary: Hong Kong businessman (born 1951)
+    ids:
+      wikidata: Q7791618
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%AD%E7%82%B3%E6%B1%9F
+      - https://en.wikipedia.org/wiki/Thomas_Kwok
+    tags:
+      - relative
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7791618
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thomas-l-j-d-alesandro-iii
+    type: person
+    name: Thomas L. J. D'Alesandro III
+    names:
+      zh: 湯馬斯·達歷山德羅三世
+      en: Thomas L. J. D'Alesandro III
+    gender: M
+    born: 1929-07-24
+    died: 2019-10-20
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q7791637
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_D'Alesandro_III
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7791637
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 巴尔的摩市长
+        from: "1968"
+        to: "1971"
+  - id: thomas-lau
+    type: person
+    name: 劉鑾鴻
+    names:
+      zh: 劉鑾鴻
+      en: Thomas Lau
+    gender: M
+    born: "1953"
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 香港著名企業家
+    ids:
+      wikidata: Q7791723
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8A%89%E9%91%BE%E9%B4%BB
+      - https://en.wikipedia.org/wiki/Thomas_Lau
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7791723
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thomas-massie
+    type: person
+    name: Thomas Massie
+    names:
+      zh: 托马斯·马斯
+      en: Thomas Massie
+    gender: M
+    born: 1971-01-13
+    country:
+      - US
+    sectors:
+      - politics
+      - tech
+      - business
+    tier: 3
+    summary: 美國政治人物
+    ids:
+      wikidata: Q2426031
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%98%E9%A6%AC%E6%96%AF%C2%B7%E9%A6%AC%E8%A5%BF
+      - https://en.wikipedia.org/wiki/Thomas_Massie
+    tags:
+      - us-congress
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2426031
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2012-11-06
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: County Judge/Executive
+        from: 2011-01-03
+        to: 2012-06-30
+  - id: thomas-modly
+    type: person
+    name: Thomas Modly
+    names:
+      zh: 托马斯·莫迪
+      en: Thomas Modly
+    gender: M
+    born: 1960-12-15
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American businessman and former acting Secretary of the United States Navy
+    ids:
+      wikidata: Q41598755
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E8%8E%AB%E5%BE%B7%E5%88%A9
+      - https://en.wikipedia.org/wiki/Thomas_Modly
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q41598755
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国海军部长
+        org: united-states-department-of-the-navy
+        from: 2019-07-15
+        to: 2019-07-31
+      - title: 美国海军部长
+        org: united-states-department-of-the-navy
+        from: 2019-11-24
+        to: 2020-04-07
+      - title: 美國海軍部次長
+        from: 2017-12-04
+        to: 2019-11-24
+  - id: thomas-perez
+    type: person
+    name: Thomas Perez
+    names:
+      zh: 托马斯·佩雷斯
+      en: Thomas Perez
+    gender: M
+    born: 1961-10-07
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: American politician and attorney (born 1961)
+    ids:
+      wikidata: Q7793121
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E4%BD%A9%E9%9B%B7%E6%96%AF
+      - https://en.wikipedia.org/wiki/Tom_Perez
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7793121
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 教授
+      - title: 美国劳工部长
+        org: united-states-department-of-labor
+        from: 2013-07-23
+        to: 2017-01-20
+      - title: 副教授
+        from: "2001"
+        to: "2007"
+      - title: Chairman of the Democratic National Committee
+        org: democratic-party
+        from: 2017-02-25
+        to: 2021-01-21
+      - title: member of the Montgomery County Council
+        from: "2002"
+        to: "2006"
+  - id: thomas-peterffy
+    type: person
+    name: Thomas Peterffy
+    names:
+      en: Thomas Peterffy
+    gender: M
+    born: 1944-09-30
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 17100000000
+    ids:
+      wikidata: Q7793127
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_Peterffy
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7793127
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thomas-r-pickering
+    type: person
+    name: Thomas R. Pickering
+    names:
+      zh: 托马斯·皮克林
+      en: Thomas R. Pickering
+    gender: M
+    born: 1931-05-11
+    country:
+      - US
+    sectors:
+      - politics
+      - diplomacy
+    tier: 2
+    summary: American diplomat
+    ids:
+      wikidata: Q968268
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E7%9A%AE%E5%85%8B%E6%9E%97
+      - https://en.wikipedia.org/wiki/Thomas_R._Pickering
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q968268
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國駐以色列大使
+        org: embassy-of-the-united-states-jerusalem
+        from: 1985-08-06
+        to: 1988-12-28
+      - title: 美国常驻联合国代表列表
+        org: united-states-mission-to-the-united-nations
+        from: 1989-03-20
+        to: 1992-05-07
+      - title: 美國駐俄羅斯大使
+        org: embassy-of-the-united-states-moscow
+        from: 1993-05-12
+        to: 1996-11-01
+      - title: 美國駐印度大使
+        org: embassy-of-the-united-states-new-delhi
+        from: 1992-08-14
+        to: 1993-03-23
+      - title: 美國政治事務國務次卿
+        from: 1997-05-27
+        to: 2000-12-31
+      - title: 美國駐約旦大使
+        org: embassy-of-the-united-states-amman
+        from: 1974-03-02
+        to: 1978-07-13
+      - title: Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs
+        from: 1978-10-10
+        to: 1981-02-24
+      - title: United States Ambassador to El Salvador
+        from: 1983-09-05
+        to: 1985-06-07
+      - title: United States Ambassador to Nigeria
+        from: 1981-11-30
+        to: 1983-07-09
+  - id: thomas-rex-lee
+    type: person
+    name: Thomas Rex Lee
+    names:
+      en: Thomas Rex Lee
+    gender: M
+    born: "1964"
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: Utah Supreme Court justice
+    ids:
+      wikidata: Q16195644
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_Rex_Lee
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16195644
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 法官
+        from: 2010-07-01
+  - id: thomas-s-ricketts
+    type: person
+    name: Thomas S. Ricketts
+    names:
+      zh: 托馬斯·里基茨
+      en: Thomas S. Ricketts
+    gender: M
+    born: 1963-05-23
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: Chairman of the Chicago Cubs
+    ids:
+      wikidata: Q7793737
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_S._Ricketts
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7793737
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thomas-secunda
+    type: person
+    name: Thomas Secunda
+    names:
+      en: Thomas Secunda
+    gender: M
+    born: "1954"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 5700000000
+    ids:
+      wikidata: Q7793856
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_Secunda
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7793856
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thomas-siebel
+    type: person
+    name: Thomas Siebel
+    names:
+      zh: 托馬斯·西貝爾
+      en: Thomas Siebel
+    gender: M
+    born: 1952-11-20
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: 美國商人
+    netWorth:
+      usd: 4100000000
+    ids:
+      wikidata: Q2427296
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_Siebel
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2427296
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thomas-suozzi
+    type: person
+    name: Thomas Suozzi
+    names:
+      zh: 托馬斯·蘇奧齊
+      en: Thomas Suozzi
+    gender: M
+    born: 1962-08-31
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American politician & attorney (born 1962)
+    ids:
+      wikidata: Q7794276
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%98%E9%A6%AC%E6%96%AF%C2%B7%E8%98%87%E5%A5%A7%E9%BD%8A
+      - https://en.wikipedia.org/wiki/Tom_Suozzi
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7794276
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 市长
+        from: "1994"
+        to: 2001-12-31
+      - title: 美国县长
+        from: "2002"
+        to: 2009-12-30
+      - title: 美国众议员
+        org: us-house
+        from: 2024-02-28
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: thomas-tull
+    type: person
+    name: Thomas Tull
+    names:
+      zh: 托马斯·图尔
+      en: Thomas Tull
+    gender: M
+    born: 1970-06-09
+    country:
+      - US
+    sectors:
+      - business
+      - culture
+    tier: 3
+    summary: American film producer
+    netWorth:
+      usd: 5300000000
+    ids:
+      wikidata: Q16213294
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E5%9B%BE%E5%B0%94
+      - https://en.wikipedia.org/wiki/Thomas_Tull
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16213294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thomas-w-lamont
+    type: person
+    name: Thomas W. Lamont
+    names:
+      zh: 托马斯·拉蒙特
+      en: Thomas W. Lamont
+    gender: M
+    born: 1870-09-30
+    died: 1948-02-02
+    country:
+      - US
+    sectors:
+      - politics
+      - finance
+    tier: 5
+    summary: American banker (1870-1948)
+    ids:
+      wikidata: Q3073519
+    links:
+      - https://en.wikipedia.org/wiki/Thomas_W._Lamont
+    tags:
+      - relative
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3073519
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: thomas-wu
+    type: person
+    name: 胡文新
+    names:
+      zh: 胡文新
+      en: Thomas Wu
+    gender: M
+    born: 1972-08-01
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 5
+    summary: 香港商人
+    ids:
+      wikidata: Q8970837
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E6%96%87%E6%96%B0
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8970837
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: tian-shugen
+    type: person
+    name: 田书根
+    names:
+      zh: 田书根
+    gender: M
+    born: "1940"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8316967
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%94%B0%E4%B9%A6%E6%A0%B9
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316967
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: tian-yigong
+    type: person
+    name: 田义功
+    names:
+      zh: 田义功
+    gender: M
+    born: "1951"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8337837
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%94%B0%E4%B9%89%E5%8A%9F
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8337837
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tian-zhong
+    type: person
+    name: 田中 (中将)
+    names:
+      zh: 田中 (中将)
+      en: Tian Zhong
+    gender: M
+    born: "1956"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8293958
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD_(%E4%B8%AD%E5%B0%86)
+      - https://en.wikipedia.org/wiki/Tian_Zhong
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8293958
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tie-ning
+    type: person
+    name: 铁凝
+    names:
+      zh: 铁凝
+      en: Tie Ning
+    gender: F
+    born: 1957-09-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - culture
+    tier: 3
+    summary: 第二十届中共中央委员，第十四届全国人大常委会副委员长，中国文学艺术界联合会主席
+    ids:
+      wikidata: Q2466915
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%93%81%E5%87%9D
+      - https://en.wikipedia.org/wiki/Tie_Ning
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2466915
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国人民代表大会常务委员会副委员长
+        org: npc-standing-committee
+  - id: tien-min-li
+    type: person
+    name: 李天民
+    names:
+      zh: 李天民
+      en: Tien-Min Li
+    gender: M
+    born: "1909"
+    died: 1993-06-24
+    country:
+      - TW
+      - CN
+    sectors:
+      - politics
+      - media
+    tier: 5
+    summary: 中國政治人物
+    ids:
+      wikidata: Q7801024
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%A4%A9%E6%B0%91_(%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1)
+      - https://en.wikipedia.org/wiki/Li_Tianmin
+    tags:
+      - relative
+      - party:Kuomintang
+    attrs:
+      party: Kuomintang
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7801024
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 制憲國民大會代表
+        org: national-constituent-assembly
+      - title: 立法委員
+        org: legislative-yuan
+  - id: tien-pei-chun-james
+    type: person
+    name: 田北俊
+    names:
+      zh: 田北俊
+      en: Tien Pei Chun James
+    gender: M
+    born: 1947-01-08
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: 香港政治人物
+    ids:
+      wikidata: Q4368021
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%94%B0%E5%8C%97%E4%BF%8A
+      - https://en.wikipedia.org/wiki/James_Tien_(politician)
+    tags:
+      - cn-business
+      - party:Liberal Party
+    attrs:
+      party: Liberal Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4368021
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 臨時立法會議員
+        org: provisional-legislative-council
+        from: 1996-12-21
+        to: 1998-06-30
+      - title: 香港立法會議員
+        org: legislative-council-of-hong-kong
+        from: 2004-10-01
+        to: 2008-09-30
+      - title: 香港立法會議員
+        org: legislative-council-of-hong-kong
+        from: 1998-07-01
+        to: 2004-09-30
+      - title: 香港立法會議員
+        org: legislative-council-of-hong-kong
+        from: 2012-10-01
+        to: 2016-09-30
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: tiffany-trump
+    type: person
+    name: Tiffany Trump
+    names:
+      zh: 蒂凡妮·特朗普
+      en: Tiffany Trump
+    gender: F
+    born: 1993-10-13
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 3
+    summary: 唐纳德·特朗普的次女
+    ids:
+      wikidata: Q12071552
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%92%82%E8%8A%99%E5%B0%BC%C2%B7%E7%89%B9%E6%9C%97%E6%99%AE
+      - https://en.wikipedia.org/wiki/Tiffany_Trump
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 55
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12071552
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tilman-j-fertitta
+    type: person
+    name: Tilman J. Fertitta
+    names:
+      zh: 菲尔蒂塔
+      en: Tilman J. Fertitta
+    gender: M
+    born: 1957-06-25
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 11000000000
+    ids:
+      wikidata: Q7802933
+    links:
+      - https://en.wikipedia.org/wiki/Tilman_Fertitta
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7802933
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國駐義大利大使
+        from: 2025-05-06
+  - id: tim-burchett
+    type: person
+    name: Tim Burchett
+    names:
+      zh: 提姆·布歇特
+      en: Tim Burchett
+    gender: M
+    born: 1964-08-25
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q7803244
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%8F%90%E5%A7%86%C2%B7%E4%BC%AF%E5%88%87%E7%89%B9
+      - https://en.wikipedia.org/wiki/Tim_Burchett
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7803244
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 市长
+        from: 2010-09-01
+        to: 2018-09-01
+      - title: 田纳西州参议员
+        org: tennessee-senate
+      - title: 田纳西州众议员
+        org: tennessee-house-of-representatives
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: tim-cook
+    type: person
+    name: Tim Cook
+    names:
+      zh: 蒂姆·库克
+      en: Tim Cook
+    gender: M
+    born: 1960-11-01
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 3
+    summary: 美国商业经理
+    netWorth:
+      usd: 2800000000
+    ids:
+      wikidata: Q265852
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%8F%90%E5%A7%86%C2%B7%E5%BA%AB%E5%85%8B
+      - https://en.wikipedia.org/wiki/Tim_Cook
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 80
+    sources:
+      - url: https://www.wikidata.org/wiki/Q265852
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席执行官
+        from: 2011-08-24
+        to: 2026-08-31
+  - id: tim-hutchinson
+    type: person
+    name: Tim Hutchinson
+    names:
+      zh: 蒂姆·哈钦森
+      en: Tim Hutchinson
+    gender: M
+    born: 1949-08-11
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+      - media
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q454439
+    links:
+      - https://en.wikipedia.org/wiki/Tim_Hutchinson
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q454439
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 参议员
+        org: senate
+      - title: 美國參議員
+        org: us-senate
+        from: 1997-01-03
+        to: 1999-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1999-01-03
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-03
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-03
+        to: 1997-01-03
+      - title: member of the Arkansas House of Representatives
+        org: arkansas-house-of-representatives
+        from: "1985"
+        to: "1992"
+  - id: tim-kaine
+    type: person
+    name: Tim Kaine
+    names:
+      zh: 蒂姆·凯恩
+      en: Tim Kaine
+    gender: M
+    born: 1958-02-26
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - judiciary
+    tier: 3
+    summary: American lawyer and politician (born 1958)
+    ids:
+      wikidata: Q359888
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%92%82%E5%A7%86%C2%B7%E5%87%AF%E6%81%A9
+      - https://en.wikipedia.org/wiki/Tim_Kaine
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 49
+    sources:
+      - url: https://www.wikidata.org/wiki/Q359888
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: 2009-01-21
+        to: 2011-04-05
+      - title: 弗吉尼亚里士满市市长
+        from: 1998-07-01
+        to: 2001-09-10
+      - title: 地方議會議員
+        org: city-council
+        from: 1994-07-01
+        to: 2001-09-10
+      - title: 弗吉尼亞州州長
+        org: commonwealth-of-virginia
+        from: 2006-01-14
+        to: 2010-01-16
+      - title: 維吉尼亞州副州長
+        from: 2002-01-12
+        to: 2006-01-14
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 参议员
+        org: senate
+  - id: tim-o-reilly
+    type: person
+    name: Tim O'Reilly
+    names:
+      zh: 提姆·奥莱理
+      en: Tim O'Reilly
+    gender: M
+    born: 1954-06-06
+    country:
+      - US
+    sectors:
+      - business
+      - culture
+      - tech
+    tier: 4
+    summary: Irish-American author and publisher
+    ids:
+      wikidata: Q347691
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%8F%90%E5%A7%86%C2%B7%E5%A5%A5%E8%8E%B1%E7%90%86
+      - https://en.wikipedia.org/wiki/Tim_O'Reilly
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q347691
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tim-ryan
+    type: person
+    name: Tim Ryan
+    names:
+      zh: 提姆·瑞安
+      en: Tim Ryan
+    gender: M
+    born: 1973-07-16
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - judiciary
+    tier: 4
+    summary: 美国政治家
+    ids:
+      wikidata: Q513960
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%92%82%E5%A7%86%C2%B7%E7%91%9E%E5%AE%89
+      - https://en.wikipedia.org/wiki/Tim_Ryan_(Ohio_politician)
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q513960
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 俄亥俄州參議員
+        org: ohio-senate
+        from: "2000"
+        to: "2002"
+  - id: tim-scott
+    type: person
+    name: Tim Scott
+    names:
+      zh: 蒂姆·斯科特
+      en: Tim Scott
+    gender: M
+    born: 1965-09-19
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 3
+    summary: United States Senator from South Carolina since 2013
+    ids:
+      wikidata: Q561315
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%92%82%E5%A7%86%C2%B7%E6%96%AF%E7%A7%91%E7%89%B9
+      - https://en.wikipedia.org/wiki/Tim_Scott
+    tags:
+      - us-congress
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 36
+    sources:
+      - url: https://www.wikidata.org/wiki/Q561315
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 地方議會議員
+        org: city-council
+        from: 1995-02-08
+        to: 2009-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-02
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-03
+        to: 2013-01-02
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-02
+      - title: 参议员
+        org: senate
+      - title: 南卡羅來納州眾議員
+        org: south-carolina-house-of-representatives
+        from: 2009-01-03
+        to: 2011-01-03
+  - id: tim-sheehy
+    type: person
+    name: Tim Sheehy
+    names:
+      zh: 蒂姆·希伊 (政治人物)
+      en: Tim Sheehy
+    gender: M
+    born: 1985-11-18
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 3
+    summary: United States Senator from Montana
+    ids:
+      wikidata: Q124433916
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%92%82%E5%A7%86%C2%B7%E5%B8%8C%E4%BC%8A_(%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)
+      - https://en.wikipedia.org/wiki/Tim_Sheehy
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124433916
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-03
+  - id: tim-sweeney
+    type: person
+    name: Tim Sweeney
+    names:
+      zh: 蒂姆·斯维尼
+      en: Tim Sweeney
+    gender: M
+    born: "1970"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American game developer (born 1970)
+    netWorth:
+      usd: 5100000000
+    ids:
+      wikidata: Q323671
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%92%82%E5%A7%86%C2%B7%E6%96%AF%E7%B6%AD%E5%B0%BC
+      - https://en.wikipedia.org/wiki/Tim_Sweeney
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q323671
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席执行官
+  - id: tim-walberg
+    type: person
+    name: Tim Walberg
+    names:
+      zh: 提姆·沃伯格
+      en: Tim Walberg
+    gender: M
+    born: 1951-04-12
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1951)
+    ids:
+      wikidata: Q978618
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%8F%90%E5%A7%86%C2%B7%E6%B2%83%E4%BC%AF%E6%A0%BC
+      - https://en.wikipedia.org/wiki/Tim_Walberg
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q978618
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: "2007"
+        to: "2009"
+      - title: 美国众议员
+        org: us-house
+        from: "2011"
+        to: "2009"
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 密歇根州眾議員
+        org: michigan-house-of-representatives
+        from: "1983"
+        to: "1998"
+  - id: tim-walz
+    type: person
+    name: Tim Walz
+    names:
+      zh: 提姆·華茲
+      en: Tim Walz
+    gender: M
+    born: 1964-04-06
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 美国政治家
+    ids:
+      wikidata: Q2434360
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%8F%90%E5%A7%86%C2%B7%E8%8F%AF%E8%8C%B2
+      - https://en.wikipedia.org/wiki/Tim_Walz
+    tags:
+      - us-governors
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 74
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2434360
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 明尼蘇達州州長
+        org: state-of-minnesota
+        from: 2019-01-07
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-03
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+  - id: timothy-fok
+    type: person
+    name: 霍震霆
+    names:
+      zh: 霍震霆
+      en: Timothy Fok
+    gender: M
+    born: 1946-02-14
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: 香港商人，霍英东长子
+    ids:
+      wikidata: Q7807201
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9C%8D%E9%9C%87%E9%9C%86
+      - https://en.wikipedia.org/wiki/Timothy_Fok
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7807201
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 臨時立法會議員
+        org: provisional-legislative-council
+        from: 1996-12-21
+        to: 1998-06-30
+      - title: 香港立法會議員
+        org: legislative-council-of-hong-kong
+        from: 1998-07-01
+        to: 2012-09-30
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: timothy-geithner
+    type: person
+    name: Timothy Geithner
+    names:
+      zh: 蒂莫西·F·盖特纳
+      en: Timothy Geithner
+    gender: M
+    born: 1961-08-18
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+      - finance
+    tier: 2
+    summary: American central banker and politician
+    ids:
+      wikidata: Q311211
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%92%82%E8%8E%AB%E8%A5%BF%C2%B7F%C2%B7%E8%93%8B%E7%89%B9%E7%B4%8D
+      - https://en.wikipedia.org/wiki/Timothy_Geithner
+    tags:
+      - us-executive
+      - us-business
+    attrs:
+      sitelinks: 36
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311211
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国财政部长
+        org: united-states-department-of-the-treasury
+        from: 2009-01-26
+        to: 2013-01-25
+      - title: 負責國際事務的次長
+        from: "1998"
+        to: "2001"
+  - id: timothy-m-kennedy
+    type: person
+    name: Timothy M. Kennedy
+    names:
+      en: Timothy M. Kennedy
+    gender: M
+    born: 1976-10-20
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1976)
+    ids:
+      wikidata: Q7807373
+    links:
+      - https://en.wikipedia.org/wiki/Tim_Kennedy_(politician)
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7807373
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2024-05-06
+      - title: 紐約州參議員
+        org: new-york-state-senate
+        from: "2015"
+        to: 2016-12-31
+      - title: 紐約州參議員
+        org: new-york-state-senate
+        from: "2013"
+        to: 2014-12-31
+      - title: 紐約州參議員
+        org: new-york-state-senate
+        from: "2023"
+        to: 2024-05-06
+      - title: 紐約州參議員
+        org: new-york-state-senate
+        from: "2021"
+        to: 2022-12-31
+      - title: 紐約州參議員
+        org: new-york-state-senate
+        from: "2011"
+        to: 2012-12-31
+      - title: 紐約州參議員
+        org: new-york-state-senate
+        from: "2019"
+        to: 2020-12-31
+      - title: 紐約州參議員
+        org: new-york-state-senate
+        from: "2017"
+        to: 2018-12-31
+      - title: county commissioner
+        org: county-commission
+        from: "2004"
+        to: "2010"
+  - id: tina-smith
+    type: person
+    name: Tina Smith
+    names:
+      zh: 蒂娜·史密斯
+      en: Tina Smith
+    gender: F
+    born: 1958-03-04
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: United States Senator from Minnesota
+    ids:
+      wikidata: Q18631509
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%92%82%E5%A8%9C%C2%B7%E5%8F%B2%E5%AF%86%E6%96%AF
+      - https://en.wikipedia.org/wiki/Tina_Smith
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18631509
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 明尼苏达州副州长
+        from: 2015-01-05
+        to: 2018-01-02
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2018-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+        to: 2025-01-03
+  - id: tipper-gore
+    type: person
+    name: Tipper Gore
+    names:
+      zh: 蒂珀·戈尔
+      en: Tipper Gore
+    gender: F
+    born: 1948-08-19
+    country:
+      - US
+    sectors:
+      - culture
+      - politics
+    tier: 4
+    summary: Second Lady of the United States from 1993 to 2001
+    ids:
+      wikidata: Q241609
+    links:
+      - https://en.wikipedia.org/wiki/Tipper_Gore
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 28
+    sources:
+      - url: https://www.wikidata.org/wiki/Q241609
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國副總統配偶
+        from: 1993-01-20
+        to: 2001-01-20
+  - id: tivadar-soros
+    type: person
+    name: Tivadar Soros
+    names:
+      en: Tivadar Soros
+    gender: M
+    born: 1893-04-07
+    died: 1968-02-22
+    country:
+      - HU
+      - US
+    sectors:
+      - culture
+      - judiciary
+    tier: 4
+    summary: Hungarian lawyer, author and editor (1894–1968)
+    ids:
+      wikidata: Q13020
+    links:
+      - https://en.wikipedia.org/wiki/Tivadar_Soros
+    tags:
+      - relative
+    attrs:
+      sitelinks: 23
+    sources:
+      - url: https://www.wikidata.org/wiki/Q13020
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: todd-blanche
+    type: person
+    name: Todd Blanche
+    names:
+      zh: 托德·布兰奇
+      en: Todd Blanche
+    gender: M
+    born: 1974-08-06
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: American attorney (born 1974)
+    ids:
+      wikidata: Q125628262
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%98%E5%BE%B7%C2%B7%E5%B8%83%E5%85%B0%E5%A5%87
+      - https://en.wikipedia.org/wiki/Todd_Blanche
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q125628262
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國副司法部長
+        from: 2025-03-06
+        to: 2026-08-08
+      - title: 美國司法部長
+        org: us-doj
+        from: 2026-08-08
+  - id: todd-boehly
+    type: person
+    name: Todd Boehly
+    names:
+      zh: 托德·波利
+      en: Todd Boehly
+    gender: M
+    born: 1973-09-20
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 3
+    summary: American businessman and investor
+    netWorth:
+      usd: 9300000000
+    ids:
+      wikidata: Q56513174
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%98%E5%BE%B7%C2%B7%E4%BC%AF%E5%88%A9
+      - https://en.wikipedia.org/wiki/Todd_Boehly
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56513174
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 会长
+        org: organization
+        from: 2022-06-20
+      - title: 会长
+        org: organization
+        from: "2015"
+  - id: todd-graves
+    type: person
+    name: Todd Graves
+    names:
+      en: Todd Graves
+    gender: M
+    born: 1972-02-20
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國商人
+    netWorth:
+      usd: 22000000000
+    ids:
+      wikidata: Q7812395
+    links:
+      - https://en.wikipedia.org/wiki/Todd_Graves_(entrepreneur)
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7812395
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: todd-graves-2
+    type: person
+    name: Todd Graves
+    names:
+      en: Todd Graves
+    gender: M
+    country: []
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American lawyer
+    ids:
+      wikidata: Q7812394
+    links:
+      - https://en.wikipedia.org/wiki/Todd_Graves_(attorney)
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7812394
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: todd-ricketts
+    type: person
+    name: Todd Ricketts
+    names:
+      zh: 托德·里基茨
+      en: Todd Ricketts
+    gender: M
+    born: 1969-09-23
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman, politician, and sports team owner (born 1969)
+    ids:
+      wikidata: Q20685306
+    links:
+      - https://en.wikipedia.org/wiki/Todd_Ricketts
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20685306
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: todd-young
+    type: person
+    name: Todd Young
+    names:
+      zh: 托德·扬
+      en: Todd Young
+    gender: M
+    born: 1972-08-24
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+      - military
+    tier: 3
+    summary: 美国政治人物
+    ids:
+      wikidata: Q25483
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%98%E5%BE%B7%C2%B7%E6%8F%9A
+      - https://en.wikipedia.org/wiki/Todd_Young
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 28
+    sources:
+      - url: https://www.wikidata.org/wiki/Q25483
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 檢察官
+        org: public-prosecutor-s-office
+        from: "2007"
+        to: "2010"
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-03
+        to: 2017-01-03
+  - id: togo-d-west-jr
+    type: person
+    name: Togo D. West, Jr.
+    names:
+      zh: 多哥·韋斯特
+      en: Togo D. West, Jr.
+    gender: M
+    born: 1942-06-21
+    died: 2018-03-08
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+    tier: 2
+    summary: Member of the United States Cabinet (1942-2018)
+    ids:
+      wikidata: Q1406519
+    links:
+      - https://en.wikipedia.org/wiki/Togo_D._West_Jr.
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1406519
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国退伍军人事务部长
+        org: united-states-department-of-veterans-affairs
+        from: 1998-05-04
+        to: 2000-07-25
+      - title: 美国退伍军人事务部长
+        org: united-states-department-of-veterans-affairs
+        from: 1998-01-02
+        to: 1998-05-04
+      - title: 美国陆军部长
+        org: united-states-department-of-the-army
+        from: 1993-11-22
+        to: 1998-05-04
+      - title: 國防部總法律顧問
+        org: defense-legal-services-agency
+        from: 1980-02-01
+        to: 1981-01-20
+      - title: 美國海軍部法務長
+        from: 1977-04-22
+        to: 1979-01-13
+  - id: tom-athans
+    type: person
+    name: Tom Athans
+    names:
+      zh: 湯姆·亞詹斯
+      en: Tom Athans
+    gender: M
+    born: "1961"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q7814814
+    links:
+      - https://en.wikipedia.org/wiki/Tom_Athans
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7814814
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tom-barrett
+    type: person
+    name: Tom Barrett
+    names:
+      en: Tom Barrett
+    gender: M
+    born: 1981-04-30
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1981)
+    ids:
+      wikidata: Q18684588
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B1%A4%E5%A7%86%C2%B7%E5%B7%B4%E9%9B%B7%E7%89%B9_(%E5%AF%86%E6%AD%87%E6%A0%B9%E5%B7%9E%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)
+      - https://en.wikipedia.org/wiki/Tom_Barrett_(Michigan_politician)
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18684588
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 密歇根州眾議員
+        org: michigan-house-of-representatives
+        from: "2015"
+        to: "2019"
+      - title: 密歇根州參議員
+        org: michigan-senate
+        from: "2019"
+        to: "2023"
+  - id: tom-begich
+    type: person
+    name: Tom Begich
+    names:
+      zh: 湯姆·貝吉奇
+      en: Tom Begich
+    gender: M
+    born: 1960-10-31
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q28861402
+    links:
+      - https://en.wikipedia.org/wiki/Tom_Begich
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28861402
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 阿拉斯加州參議員
+        org: alaska-senate
+      - title: 阿拉斯加州參議員
+        org: alaska-senate
+        from: 2017-01-17
+  - id: tom-c-korologos
+    type: person
+    name: Tom C. Korologos
+    names:
+      zh: 汤姆·克罗洛戈斯
+      en: Tom C. Korologos
+    gender: M
+    born: 1933-04-06
+    died: 2024-07-26
+    country:
+      - US
+    sectors:
+      - diplomacy
+      - media
+    tier: 5
+    summary: American diplomat
+    ids:
+      wikidata: Q3530677
+    links:
+      - https://en.wikipedia.org/wiki/Tom_C._Korologos
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3530677
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tom-carper
+    type: person
+    name: Tom Carper
+    names:
+      zh: 汤玛斯·卡波
+      en: Tom Carper
+    gender: M
+    born: 1947-01-23
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+      - military
+    tier: 3
+    summary: American politician (born 1947)
+    ids:
+      wikidata: Q457432
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B9%AF%E5%A7%86%C2%B7%E5%8D%A1%E7%8F%80
+      - https://en.wikipedia.org/wiki/Tom_Carper
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 31
+    sources:
+      - url: https://www.wikidata.org/wiki/Q457432
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: "1998"
+        to: "1999"
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2005-01-03
+        to: 2007-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2011-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2003-01-03
+        to: 2005-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1985-01-03
+        to: 1987-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1983-01-03
+        to: 1993-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 德拉瓦州州長
+        org: state-of-delaware
+        from: 1993-01-19
+        to: 2001-01-03
+      - title: Delaware State Treasurer
+        from: "1976"
+        to: "1983"
+  - id: tom-casten
+    type: person
+    name: Tom Casten
+    names:
+      en: Tom Casten
+    gender: M
+    born: "1942"
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman
+    ids:
+      wikidata: Q7815238
+    links:
+      - https://en.wikipedia.org/wiki/Tom_Casten
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7815238
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tom-cole
+    type: person
+    name: Tom Cole
+    names:
+      zh: 湯姆·科爾
+      en: Tom Cole
+    gender: M
+    born: 1949-04-28
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q173839
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B9%AF%E5%A7%86%C2%B7%E7%A7%91%E7%88%BE
+      - https://en.wikipedia.org/wiki/Tom_Cole
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q173839
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 执行董事
+        from: "1991"
+        to: "1993"
+      - title: 參謀長
+        org: military-staff
+        from: "1999"
+        to: "2001"
+      - title: 党主席
+        from: "1985"
+        to: "1989"
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: Oklahoma Secretary of State
+        from: "1995"
+        to: "1999"
+      - title: 奧克拉荷馬州參議員
+        org: oklahoma-senate
+        from: "1988"
+        to: "1991"
+  - id: tom-cotton
+    type: person
+    name: Tom Cotton
+    names:
+      zh: 湯姆·卡頓
+      en: Tom Cotton
+    gender: M
+    born: 1977-05-13
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: 來自阿肯色州的美國參議員
+    ids:
+      wikidata: Q3090307
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B1%A4%E5%A7%86%C2%B7%E7%A7%91%E9%A1%BF
+      - https://en.wikipedia.org/wiki/Tom_Cotton
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 39
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3090307
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 法官助理
+        from: "2002"
+        to: "2003"
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 参议员
+        org: senate
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+  - id: tom-emmer
+    type: person
+    name: Tom Emmer
+    names:
+      zh: 湯姆·埃默
+      en: Tom Emmer
+    gender: M
+    born: 1961-03-03
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: U.S. Representative from Minnesota
+    ids:
+      wikidata: Q7815723
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B9%AF%E5%A7%86%C2%B7%E5%9F%83%E9%BB%98
+      - https://en.wikipedia.org/wiki/Tom_Emmer
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7815723
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 成员
+        org: membership-organization
+        from: "1995"
+        to: "2002"
+      - title: 成员
+        org: membership-organization
+        from: "2003"
+        to: "2004"
+      - title: 明尼蘇達州眾議員
+        org: minnesota-house-of-representatives
+        from: 2005-01-04
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+  - id: tom-golisano
+    type: person
+    name: Tom Golisano
+    names:
+      zh: 湯姆・葛利沙諾
+      en: Tom Golisano
+    gender: M
+    born: 1941-11-14
+    country:
+      - US
+    sectors:
+      - business
+      - politics
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 6500000000
+    ids:
+      wikidata: Q3297814
+    links:
+      - https://en.wikipedia.org/wiki/Tom_Golisano
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3297814
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tom-gores
+    type: person
+    name: Tom Gores
+    names:
+      zh: 湯姆·葛爾斯
+      en: Tom Gores
+    gender: M
+    born: 1964-07-31
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 3
+    summary: American businessman and investor
+    netWorth:
+      usd: 10100000000
+    ids:
+      wikidata: Q1253454
+    links:
+      - https://en.wikipedia.org/wiki/Tom_Gores
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1253454
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tom-lee
+    type: person
+    name: Tom Lee
+    names:
+      en: Tom Lee
+    gender: M
+    born: 1962-01-21
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q7816555
+    links:
+      - https://en.wikipedia.org/wiki/Tom_Lee_(Florida_politician)
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7816555
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 佛羅里達州參議員
+        org: florida-senate
+  - id: tom-malinowski
+    type: person
+    name: Tom Malinowski
+    names:
+      zh: 汤姆•马利诺夫斯基
+      en: Tom Malinowski
+    gender: M
+    born: 1965-09-15
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 前任美國眾議院議員
+    ids:
+      wikidata: Q23772336
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B9%AF%E5%A7%86%C2%B7%E9%A6%AC%E5%88%A9%E8%AB%BE%E5%A4%AB%E6%96%AF%E5%9F%BA
+      - https://en.wikipedia.org/wiki/Tom_Malinowski
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23772336
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: tom-mcclintock
+    type: person
+    name: Tom McClintock
+    names:
+      zh: 湯姆·麥克林托克
+      en: Tom McClintock
+    gender: M
+    born: 1956-07-10
+    country:
+      - US
+    sectors:
+      - politics
+      - media
+    tier: 4
+    summary: U.S. Representative from California
+    ids:
+      wikidata: Q535887
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B9%AF%E5%A7%86%C2%B7%E9%BA%A5%E5%85%8B%E6%9E%97%E6%89%98%E5%85%8B
+      - https://en.wikipedia.org/wiki/Tom_McClintock
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q535887
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: 1996-12-01
+        to: 2000-12-04
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: 1982-12-01
+        to: 1992-12-01
+      - title: 加利福尼亞州參議員
+        org: california-state-senate
+        from: 2000-12-04
+        to: 2008-12-01
+  - id: tom-o-halleran
+    type: person
+    name: Tom O'Halleran
+    names:
+      zh: 汤姆·奥哈勒兰
+      en: Tom O'Halleran
+    gender: M
+    born: 1946-01-24
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: U.S. Representative from Arizona
+    ids:
+      wikidata: Q7817086
+    links:
+      - https://en.wikipedia.org/wiki/Tom_O'Halleran
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7817086
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 亞利桑那州參議員
+        org: arizona-senate
+        from: "2007"
+        to: "2009"
+      - title: 亞利桑那州眾議員
+        org: arizona-house-of-representatives
+        from: "2001"
+        to: "2007"
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: tom-price
+    type: person
+    name: Tom Price
+    names:
+      zh: 湯姆·普萊斯
+      en: Tom Price
+    gender: M
+    born: 1954-10-08
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+    tier: 2
+    summary: former United States Secretary of Health and Human Services; former Congressman of Georgia
+    ids:
+      wikidata: Q1415243
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B9%AF%E5%A7%86%C2%B7%E6%99%AE%E8%90%8A%E6%96%AF
+      - https://en.wikipedia.org/wiki/Tom_Price_(American_politician)
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 29
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1415243
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國衛生與公共服務部長
+        org: united-states-department-of-health-and-human-services
+        from: 2017-02-10
+        to: 2017-09-29
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2017-02-10
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 喬治亞州參議員
+        org: georgia-state-senate
+        from: "1997"
+        to: "2004"
+  - id: tom-rice
+    type: person
+    name: Tom Rice
+    names:
+      zh: 湯姆·賴斯
+      en: Tom Rice
+    gender: M
+    born: 1957-08-04
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: US politician
+    ids:
+      wikidata: Q3956858
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B9%AF%E5%A7%86%C2%B7%E8%B3%B4%E6%96%AF
+      - https://en.wikipedia.org/wiki/Tom_Rice
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3956858
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: "2010"
+        to: "2012"
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 南卡羅來納州眾議員
+        org: south-carolina-house-of-representatives
+  - id: tom-ridge
+    type: person
+    name: Tom Ridge
+    names:
+      zh: 汤姆·里奇
+      en: Tom Ridge
+    gender: M
+    born: 1945-08-26
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: 43rd Governor of Pennsylvania, first United States Secretary of Homeland Security
+    ids:
+      wikidata: Q559822
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B1%A4%E5%A7%86%C2%B7%E9%87%8C%E5%A5%87
+      - https://en.wikipedia.org/wiki/Tom_Ridge
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q559822
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國國土安全部長
+        org: united-states-department-of-homeland-security
+        from: 2003-01-24
+        to: 2005-02-01
+      - title: 賓夕法尼亞州州長
+        org: commonwealth-of-pennsylvania
+        from: 1995-01-17
+        to: 2001-10-05
+      - title: 美国众议员
+        org: us-house
+        from: 1983-01-03
+        to: 1985-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-03
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美国总统国土安全和反恐助理
+        from: 2001-10-08
+        to: 2003-01-24
+      - title: 美国众议员
+        org: us-house
+        from: 1985-01-03
+        to: 1987-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1989-01-03
+        to: 1991-01-03
+  - id: tom-tiffany
+    type: person
+    name: Tom Tiffany
+    names:
+      zh: 汤姆·蒂凡尼
+      en: Tom Tiffany
+    gender: M
+    born: 1957-12-30
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: American politician (born 1957)
+    ids:
+      wikidata: Q7817838
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B1%A4%E5%A7%86%C2%B7%E8%92%82%E5%87%A1%E5%B0%BC
+      - https://en.wikipedia.org/wiki/Tom_Tiffany
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7817838
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2020-05-19
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 威斯康星州参议员
+        org: wisconsin-state-senate
+        from: 2013-01-07
+        to: 2020-05-18
+      - title: member of the Wisconsin State Assembly
+        org: wisconsin-state-assembly
+        from: 2011-01-03
+        to: 2013-01-07
+  - id: tom-udall
+    type: person
+    name: Tom Udall
+    names:
+      zh: 湯姆·尤德爾
+      en: Tom Udall
+    gender: M
+    born: 1948-05-18
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+      - diplomacy
+    tier: 3
+    summary: American politician and diplomat (born 1948)
+    ids:
+      wikidata: Q957690
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B9%AF%E5%A7%86%C2%B7%E5%B0%A4%E5%BE%B7%E7%88%BE
+      - https://en.wikipedia.org/wiki/Tom_Udall
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q957690
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国驻新西兰大使
+        from: 2021-12-02
+        to: 2025-01-14
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2011-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 新墨西哥州總檢察長
+        from: "1991"
+        to: "1999"
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-03
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-03
+        to: 2007-01-03
+  - id: tom-vilsack
+    type: person
+    name: Tom Vilsack
+    names:
+      zh: 汤姆·维尔萨克
+      en: Tom Vilsack
+    gender: M
+    born: 1950-12-13
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: 40th Governor of Iowa; 30th and 32nd United States Secretary of Agriculture (2021–2025)
+    ids:
+      wikidata: Q353826
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B1%A4%E5%A7%86%C2%B7%E7%BB%B4%E5%B0%94%E8%90%A8%E5%85%8B
+      - https://en.wikipedia.org/wiki/Tom_Vilsack
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q353826
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國農業部長
+        org: united-states-department-of-agriculture
+        from: 2009-01-21
+        to: 2017-01-13
+      - title: 美國農業部長
+        org: united-states-department-of-agriculture
+        from: 2021-02-24
+        to: 2025-01-20
+      - title: 艾奥瓦州州长
+        org: state-of-iowa
+        from: 1999-01-15
+        to: 2007-01-12
+      - title: 艾奧瓦州參議員
+        org: iowa-senate
+        from: 1993-01-11
+        to: 1999-01-11
+  - id: tom-wolf
+    type: person
+    name: Tom Wolf
+    names:
+      zh: 湯姆·沃爾夫
+      en: Tom Wolf
+    gender: M
+    born: 1948-11-17
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 3
+    summary: 美国宾西法尼亚州长
+    ids:
+      wikidata: Q7794795
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B9%AF%E5%A7%86%C2%B7%E6%B2%83%E7%88%BE%E5%A4%AB_(%E6%94%BF%E6%B2%BB%E5%AE%B6)
+      - https://en.wikipedia.org/wiki/Tom_Wolf
+    tags:
+      - us-governors
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7794795
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 賓夕法尼亞州州長
+        org: commonwealth-of-pennsylvania
+        from: 2015-01-20
+        to: 2023-01-17
+  - id: tomas-j-philipson
+    type: person
+    name: Tomas J. Philipson
+    names:
+      zh: 托马斯·J·菲利普森
+      en: Tomas J. Philipson
+    gender: M
+    born: "1962"
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+    tier: 2
+    summary: American economist
+    ids:
+      wikidata: Q7818305
+    links:
+      - https://en.wikipedia.org/wiki/Tomas_J._Philipson
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7818305
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: Chair of the Council of Economic Advisers
+        org: council-of-economic-advisers
+        from: 2019-06-28
+        to: 2020-06-23
+  - id: tommy-thompson
+    type: person
+    name: Tommy Thompson
+    names:
+      zh: 汤米·汤普森
+      en: Tommy Thompson
+    gender: M
+    born: 1941-11-19
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: 19th United States Secretary of Health and Human Services; 42nd Governor of Wisconsin (born 1941)
+    ids:
+      wikidata: Q732804
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B1%A4%E7%B1%B3%C2%B7%E6%B1%A4%E6%99%AE%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Tommy_Thompson
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 23
+    sources:
+      - url: https://www.wikidata.org/wiki/Q732804
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國衛生與公共服務部長
+        org: united-states-department-of-health-and-human-services
+        from: 2001-02-02
+        to: 2005-01-26
+      - title: 州长
+        org: state-of-wisconsin
+        from: 1987-01-05
+        to: 2001-02-01
+      - title: member of the Wisconsin State Assembly
+        org: wisconsin-state-assembly
+  - id: tommy-tuberville
+    type: person
+    name: Tommy Tuberville
+    names:
+      zh: 汤米·图伯维尔
+      en: Tommy Tuberville
+    gender: M
+    born: 1954-09-18
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: American football coach and politician (born 1954)
+    ids:
+      wikidata: Q7819948
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B1%A4%E7%B1%B3%C2%B7%E5%9B%BE%E4%BC%AF%E7%BB%B4%E5%B0%94
+      - https://en.wikipedia.org/wiki/Tommy_Tuberville
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 28
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7819948
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2025-01-03
+  - id: tonette-walker
+    type: person
+    name: Tonette Walker
+    names:
+      en: Tonette Walker
+    gender: F
+    born: 1955-10-19
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: former First Lady of Wisconsin
+    ids:
+      wikidata: Q20176988
+    links:
+      - https://en.wikipedia.org/wiki/Tonette_Walker
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20176988
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tong-jianming
+    type: person
+    name: 童建明
+    names:
+      zh: 童建明
+      en: Tong Jianming
+    gender: M
+    born: "1963"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国最高人民检察院分管日常工作的副检察长
+    ids:
+      wikidata: Q47670365
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%AB%A5%E5%BB%BA%E6%98%8E
+      - https://en.wikipedia.org/wiki/Tong_Jianming
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47670365
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tong-shiping
+    type: person
+    name: 童世平
+    names:
+      zh: 童世平
+      en: Tong Shiping
+    gender: M
+    born: 1947-07-01
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 2
+    summary: Chinese politician
+    ids:
+      wikidata: Q5943843
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%AB%A5%E4%B8%96%E5%B9%B3
+      - https://en.wikipedia.org/wiki/Tong_Shiping
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5943843
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+  - id: toni-morrison
+    type: person
+    name: Toni Morrison
+    names:
+      zh: 托妮·莫里森
+      en: Toni Morrison
+    gender: F
+    born: 1931-02-18
+    died: 2019-08-05
+    country:
+      - US
+    sectors:
+      - culture
+      - academia
+    tier: 3
+    summary: 作家, 美国
+    ids:
+      wikidata: Q72334
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%98%E5%A6%AE%C2%B7%E8%8E%AB%E9%87%8C%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Toni_Morrison
+    tags:
+      - relative
+    attrs:
+      sitelinks: 133
+    sources:
+      - url: https://www.wikidata.org/wiki/Q72334
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: Robert F. Goheen Professor in the Humanities
+        from: "1989"
+  - id: tony-cardenas
+    type: person
+    name: Tony Cárdenas
+    names:
+      zh: 東尼·卡德納斯
+      en: Tony Cárdenas
+    gender: M
+    born: 1963-03-31
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q3620422
+    links:
+      - https://en.wikipedia.org/wiki/Tony_C%C3%A1rdenas
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3620422
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 成员
+        org: membership-organization
+        from: "2003"
+        to: "2013"
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: "1996"
+        to: "2002"
+  - id: tony-evers
+    type: person
+    name: Tony Evers
+    names:
+      zh: 托尼·埃弗斯
+      en: Tony Evers
+    gender: M
+    born: 1951-11-05
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 威斯康星州長
+    ids:
+      wikidata: Q7822309
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%98%E5%B0%BC%C2%B7%E5%9F%83%E5%BC%97%E6%96%AF
+      - https://en.wikipedia.org/wiki/Tony_Evers
+    tags:
+      - us-governors
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7822309
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 州长
+        org: state-of-wisconsin
+        from: 2019-01-07
+  - id: tony-gonzales
+    type: person
+    name: Tony Gonzales
+    names:
+      zh: 托尼·岡薩雷斯 (政治人物)
+      en: Tony Gonzales
+    gender: M
+    born: 1980-10-10
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q104648170
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%98%E5%B0%BC%C2%B7%E5%B2%A1%E8%96%A9%E9%9B%B7%E6%96%AF_(%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)
+      - https://en.wikipedia.org/wiki/Tony_Gonzales
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104648170
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+        to: 2026-04-14
+  - id: tony-khan
+    type: person
+    name: Tony Khan
+    names:
+      zh: 托尼·汗
+      en: Tony Khan
+    gender: M
+    born: 1982-10-10
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American sports executive
+    ids:
+      wikidata: Q55636022
+    links:
+      - https://en.wikipedia.org/wiki/Tony_Khan
+    tags:
+      - relative
+    attrs:
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55636022
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tony-podesta
+    type: person
+    name: Tony Podesta
+    names:
+      zh: 東尼·波德斯塔
+      en: Tony Podesta
+    gender: M
+    born: 1943-10-24
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: lobbyist
+    ids:
+      wikidata: Q7823193
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%98%E5%B0%BC%C2%B7%E6%B3%A2%E5%BE%B7%E6%96%AF%E5%A1%94
+      - https://en.wikipedia.org/wiki/Tony_Podesta
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7823193
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tony-tamer
+    type: person
+    name: Tony Tamer
+    names:
+      en: Tony Tamer
+    gender: M
+    born: 1957-10-01
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 7800000000
+    ids:
+      wikidata: Q19564449
+    links:
+      - https://en.wikipedia.org/wiki/Tony_Tamer
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19564449
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tony-west
+    type: person
+    name: Tony West
+    names:
+      zh: 托尼·韋斯特
+      en: Tony West
+    gender: M
+    born: 1965-08-12
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American lawyer
+    ids:
+      wikidata: Q16196331
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%98%E5%B0%BC%C2%B7%E9%9F%8B%E6%96%AF%E7%89%B9
+      - https://en.wikipedia.org/wiki/Tony_West_(attorney)
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16196331
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 司法部次长办公室
+        from: 2012-03-12
+        to: 2014-09-15
+  - id: tony-wied
+    type: person
+    name: Tony Wied
+    names:
+      zh: 托尼·维德
+      en: Tony Wied
+    gender: M
+    born: 1976-05-03
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1976)
+    ids:
+      wikidata: Q131033476
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%98%E5%B0%BC%C2%B7%E7%BB%B4%E5%BE%B7
+      - https://en.wikipedia.org/wiki/Tony_Wied
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q131033476
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2024-11-05
+        to: 2025-01-03
+  - id: tony-xu
+    type: person
+    name: 徐迅
+    names:
+      zh: 徐迅
+      en: Tony Xu
+    gender: M
+    born: "1985"
+    country:
+      - US
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 美國華裔企業家，Doordash執行長
+    ids:
+      wikidata: Q105038817
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BE%90%E8%BF%85
+      - https://en.wikipedia.org/wiki/Tony_Xu
+    tags:
+      - cn-business
+      - party:Nusantara Awakening Party
+    attrs:
+      party: Nusantara Awakening Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105038817
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tory-burch
+    type: person
+    name: Tory Burch
+    names:
+      zh: 托里·伯奇
+      en: Tory Burch
+    gender: F
+    born: 1962-06-15
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American fashion designer, businesswoman, and philanthropist
+    ids:
+      wikidata: Q2945547
+    links:
+      - https://en.wikipedia.org/wiki/Tory_Burch
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2945547
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tosca-musk
+    type: person
+    name: Tosca Musk
+    names:
+      zh: 托斯卡·马斯克
+      en: Tosca Musk
+    gender: F
+    born: 1974-07-20
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: 美国电影导演
+    ids:
+      wikidata: Q7827568
+    links:
+      - https://en.wikipedia.org/wiki/Tosca_Musk
+    tags:
+      - relative
+    attrs:
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7827568
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tove-torvalds
+    type: person
+    name: Tove Torvalds
+    names:
+      en: Tove Torvalds
+    gender: F
+    born: "1963"
+    country:
+      - FI
+    sectors:
+      - family
+    tier: 5
+    summary: Finnish karateka, wife of Linus Torvalds
+    ids:
+      wikidata: Q2478807
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2478807
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tracey-mann
+    type: person
+    name: Tracey Mann
+    names:
+      zh: 崔西·曼
+      en: Tracey Mann
+    gender: M
+    born: 1976-12-17
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American businessman and politician
+    ids:
+      wikidata: Q48767554
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B4%94%E8%A5%BF%C2%B7%E6%9B%BC
+      - https://en.wikipedia.org/wiki/Tracey_Mann
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48767554
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: Lieutenant Governor of Kansas
+        from: 2018-02-14
+        to: 2019-01-14
+  - id: travis-kalanick
+    type: person
+    name: Travis Kalanick
+    names:
+      zh: 特拉维斯·克兰尼克
+      en: Travis Kalanick
+    gender: M
+    born: 1976-08-06
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: 美国企业家
+    ids:
+      wikidata: Q7836291
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%89%B9%E6%8B%89%E7%BB%B4%E6%96%AF%C2%B7%E5%8D%A1%E5%85%B0%E5%B0%BC%E5%85%8B
+      - https://en.wikipedia.org/wiki/Travis_Kalanick
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7836291
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: travis-knight
+    type: person
+    name: Travis Knight
+    names:
+      zh: 崔維斯·奈特
+      en: Travis Knight
+    gender: M
+    born: 1973-09-13
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: 美国动画师
+    ids:
+      wikidata: Q7836302
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B4%94%E7%B6%AD%E6%96%AF%C2%B7%E5%A5%88%E7%89%B9
+      - https://en.wikipedia.org/wiki/Travis_Knight
+    tags:
+      - relative
+    attrs:
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7836302
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trent-kelly
+    type: person
+    name: Trent Kelly
+    names:
+      zh: 特倫特·凱利
+      en: Trent Kelly
+    gender: M
+    born: 1966-03-01
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q20204915
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%89%B9%E5%80%AB%E7%89%B9%C2%B7%E5%87%B1%E5%88%A9
+      - https://en.wikipedia.org/wiki/Trent_Kelly
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20204915
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 區域檢察長
+        from: "2012"
+        to: "2015"
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-06-02
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+  - id: trevor-rees-jones
+    type: person
+    name: Trevor Rees-Jones
+    names:
+      en: Trevor Rees-Jones
+    gender: M
+    born: "1951"
+    country:
+      - US
+    sectors:
+      - business
+      - judiciary
+    tier: 3
+    summary: founder and chairman of Chief Oil and Gas
+    netWorth:
+      usd: 5900000000
+    ids:
+      wikidata: Q14616726
+    links:
+      - https://en.wikipedia.org/wiki/Trevor_Rees-Jones_(businessman)
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14616726
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: trey-hollingsworth
+    type: person
+    name: Trey Hollingsworth
+    names:
+      zh: 特雷·霍靈斯沃斯
+      en: Trey Hollingsworth
+    gender: M
+    born: 1983-09-12
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: American businessman and politician
+    ids:
+      wikidata: Q27804536
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%89%B9%E9%9B%B7%C2%B7%E9%9C%8D%E6%9E%97%E6%96%AF%E6%B2%83%E6%80%9D
+      - https://en.wikipedia.org/wiki/Trey_Hollingsworth
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27804536
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: trip-hawkins
+    type: person
+    name: Trip Hawkins
+    names:
+      zh: 特里普·霍金斯
+      en: Trip Hawkins
+    gender: M
+    born: 1953-12-28
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美國商人
+    ids:
+      wikidata: Q460459
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%89%B9%E9%87%8C%E6%99%AE%C2%B7%E9%9C%8D%E9%87%91%E6%96%AF
+      - https://en.wikipedia.org/wiki/Trip_Hawkins
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 29
+    sources:
+      - url: https://www.wikidata.org/wiki/Q460459
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席执行官
+        from: "1982"
+        to: "1991"
+  - id: troy-balderson
+    type: person
+    name: Troy Balderson
+    names:
+      zh: 特洛伊·巴尔德森
+      en: Troy Balderson
+    gender: M
+    born: 1962-01-16
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美国政治人物
+    ids:
+      wikidata: Q16194422
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%89%B9%E6%B4%9B%E4%BC%8A%C2%B7%E9%B2%8D%E5%BE%B7%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Troy_Balderson
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16194422
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2018-08-07
+        to: 2019-01-03
+      - title: 俄亥俄州眾議員
+        org: ohio-house-of-representatives
+      - title: 俄亥俄州參議員
+        org: ohio-senate
+  - id: troy-carter
+    type: person
+    name: Troy Carter
+    names:
+      zh: 特洛伊·卡特
+      en: Troy Carter
+    gender: M
+    born: 1963-10-26
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q7846787
+    links:
+      - https://en.wikipedia.org/wiki/Troy_Carter_(politician)
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7846787
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-04-24
+      - title: member of the State Senate of Louisiana
+        org: louisiana-state-senate
+      - title: 路易斯安那州眾議員
+        org: louisiana-house-of-representatives
+  - id: troy-downing
+    type: person
+    name: Troy Downing
+    names:
+      en: Troy Downing
+    gender: M
+    born: 1967-03-04
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+      - military
+    tier: 4
+    summary: American politician and businessman (born 1967)
+    ids:
+      wikidata: Q103158011
+    links:
+      - https://en.wikipedia.org/wiki/Troy_Downing
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q103158011
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: Montana State Auditor
+        from: 2021-01-04
+        to: 2025-01-03
+  - id: troy-nehls
+    type: person
+    name: Troy Nehls
+    names:
+      zh: 特洛伊·尼斯
+      en: Troy Nehls
+    gender: M
+    born: 1968-04-07
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q96741441
+    links:
+      - https://en.wikipedia.org/wiki/Troy_Nehls
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96741441
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 治安官
+        from: "2013"
+        to: "2021"
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: trudi-inslee
+    type: person
+    name: Trudi Inslee
+    names:
+      en: Trudi Inslee
+    gender: F
+    country: []
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q111574692
+    links:
+      - https://en.wikipedia.org/wiki/Trudi_Inslee
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111574692
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tsering-thar
+    type: person
+    name: 才让太
+    names:
+      zh: 才让太
+      en: Tsering Thar
+    gender: M
+    born: 1969-11-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共西藏自治区党委常委、统战部部长
+    ids:
+      wikidata: Q105717812
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%89%8D%E8%AE%A9%E5%A4%AA_(1968%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/C%C3%AAringtar
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105717812
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tulsi-gabbard
+    type: person
+    name: Tulsi Gabbard
+    names:
+      zh: 图尔茜·加巴德
+      en: Tulsi Gabbard
+    gender: F
+    born: 1981-04-12
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: 美國政治人物
+    ids:
+      wikidata: Q32620
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9B%BE%E5%B0%94%E8%8C%9C%C2%B7%E5%8A%A0%E5%B7%B4%E5%BE%B7
+      - https://en.wikipedia.org/wiki/Tulsi_Gabbard
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 71
+    sources:
+      - url: https://www.wikidata.org/wiki/Q32620
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 地方議會議員
+        org: city-council
+        from: "2010"
+        to: "2012"
+      - title: 國家情報總監
+        org: united-states-intelligence-community
+        from: 2025-02-12
+        to: 2026-06-30
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: member of the Hawaii House of Representatives
+        org: hawaii-house-of-representatives
+        from: 2002-11-05
+        to: 2004-11-02
+  - id: tung-chao-yung
+    type: person
+    name: 董浩云
+    names:
+      zh: 董浩云
+      en: Tung Chao Yung
+    gender: M
+    born: 1912-09-28
+    died: 1982-04-15
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 5
+    summary: 香港商人
+    ids:
+      wikidata: Q2220909
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%91%A3%E6%B5%A9%E4%BA%91
+      - https://en.wikipedia.org/wiki/Tung_Chao-yung
+    tags:
+      - relative
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2220909
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tung-chee-chen
+    type: person
+    name: Tung Chee-chen
+    names:
+      zh: 董建成
+      en: Tung Chee-chen
+    gender: M
+    born: "1942"
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: 香港企业家
+    ids:
+      wikidata: Q7852971
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%91%A3%E5%BB%BA%E6%88%90
+      - https://en.wikipedia.org/wiki/Tung_Chee-chen
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7852971
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 太平紳士
+  - id: tung-chee-hwa
+    type: person
+    name: 董建华
+    names:
+      zh: 董建华
+      en: Tung Chee-hwa
+    gender: M
+    born: 1937-07-07
+    died: 2026-09-08
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 第1任香港特别行政区行政长官
+    ids:
+      wikidata: Q15027
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%91%A3%E5%BB%BA%E8%8F%AF
+      - https://en.wikipedia.org/wiki/Tung_Chee-hwa
+    tags:
+      - cn-leaders
+    attrs:
+      sitelinks: 32
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15027
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 香港特别行政区行政长官
+        org: government-of-hong-kong
+        from: 1997-07-01
+        to: 2005-03-12
+      - title: 中国人民政治协商会议全国委员会副主席
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+        from: 2005-03-12
+        to: 2023-03-10
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: tung-lieh-sing
+    type: person
+    name: Tung Lieh Sing
+    names:
+      zh: 董立新
+      en: Tung Lieh Sing
+    gender: M
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: 香港企业家
+    ids:
+      wikidata: Q15076607
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%91%A3%E7%AB%8B%E6%96%B0
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15076607
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tuo-zhen
+    type: person
+    name: 庹震
+    names:
+      zh: 庹震
+      en: Tuo Zhen
+    gender: M
+    born: 1959-09-25
+    country:
+      - CN
+    sectors:
+      - politics
+      - media
+    tier: 3
+    summary: 中华人民共和国宣传思想文化系统政治人物、新闻工作者
+    ids:
+      wikidata: Q2756182
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BA%B9%E9%9C%87
+      - https://en.wikipedia.org/wiki/Tuo_Zhen
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2756182
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tupac-shakur
+    type: person
+    name: Tupac Shakur
+    names:
+      zh: 吐派克·夏庫爾
+      en: Tupac Shakur
+    gender: M
+    born: 1971-06-16
+    died: 1996-09-13
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 3
+    summary: 美国西岸嘻哈音乐人（1971—1996）
+    ids:
+      wikidata: Q6107
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%90%90%E6%B4%BE%E5%85%8B%C2%B7%E5%A4%8F%E5%BA%AB%E7%88%BE
+      - https://en.wikipedia.org/wiki/Tupac_Shakur
+    tags:
+      - relative
+    attrs:
+      sitelinks: 135
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6107
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ty-warner
+    type: person
+    name: Ty Warner
+    names:
+      en: Ty Warner
+    gender: M
+    born: 1944-09-03
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 6500000000
+    ids:
+      wikidata: Q7859651
+    links:
+      - https://en.wikipedia.org/wiki/Ty_Warner
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7859651
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: tyler-winklevoss
+    type: person
+    name: Tyler Winklevoss
+    names:
+      zh: 泰勒·溫克沃斯
+      en: Tyler Winklevoss
+    gender: M
+    born: 1981-08-21
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: American businessman and rower
+    netWorth:
+      usd: 4400000000
+    ids:
+      wikidata: Q3066193
+    links:
+      - https://en.wikipedia.org/wiki/Tyler_Winklevoss
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3066193
+        publisher: Wikidata
+        accessed: 2026-10-11

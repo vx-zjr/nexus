@@ -1,0 +1,18 @@
+id: marla-maples
+type: person
+name: Marla Maples
+names:
+  en: Marla Maples
+  zh: 玛拉·梅普尔斯
+gender: F
+born: '1963-10-27'
+country:
+- US
+sectors:
+- culture
+tier: 5
+summary: Donald Trump 第二任妻子（1993–1999），Tiffany 之母。
+sources:
+- url: https://en.wikipedia.org/wiki/Family_of_Donald_Trump
+  publisher: Wikipedia
+updated: '2026-10-11'

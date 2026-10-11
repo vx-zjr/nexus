@@ -1,0 +1,52 @@
+id: xi-jinping
+type: person
+name: 习近平
+names:
+  zh: 习近平
+  en: Xi Jinping
+gender: M
+born: '1953-06-15'
+country:
+- CN
+sectors:
+- politics
+tier: 1
+status: active
+summary: 中共中央总书记（2012–）、国家主席（2013–）、中央军委主席（2012–）。习仲勋之子，“太子党”。第三任期内连续清洗军委与政治局成员，至 2026-09 第二十届军委原 7 人仅余其本人与张升民。
+positions:
+- title: 中共中央总书记
+  org: ccp-politburo-standing-committee
+  from: 2012-11
+  current: true
+- title: 中华人民共和国主席
+  from: 2013-03
+  current: true
+- title: 中央军委主席
+  org: ccp-cmc
+  from: 2012-11
+  current: true
+- title: 国家副主席
+  from: 2008-03
+  to: 2013-03
+- title: 上海市委书记
+  from: 2007-03
+  to: 2007-10
+- title: 浙江省委书记
+  from: 2002-11
+  to: 2007-03
+- title: 福建省长
+  from: 1999-08
+  to: 2002-10
+tags:
+- princeling
+- 5th-gen
+- pbsc-20
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+- url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+  title: Candidates for China's 20th Politburo Standing Committee and Politburo (Cheng Li)
+  publisher: Brookings
+updated: '2026-10-11'

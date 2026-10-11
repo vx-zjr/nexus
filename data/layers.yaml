@@ -1,0 +1,80 @@
+# 数据层配置。编译时按 priority 从高到低合并：同一实体的字段以高优先级层为准，数组取并集。
+# - curated：人工/AI 精编层，唯一应该手工编辑的地方（要求每条信息都有来源）
+# - imports/*：连接器自动生成，可随时重新导入覆盖，不要手改
+# - bulk: true：大体量层或纯标注层；其中 tier > 3 的实体不进入浏览器默认加载的核心子图（经本地 API 按需加载）
+layers:
+  - id: curated
+    name: 精编层
+    path: curated
+    priority: 100
+    curated: true
+    description: 人工/AI 研究整理，含新闻、披露文件等来源；覆盖所有导入层
+
+  - id: wikidata
+    name: Wikidata
+    path: imports/wikidata
+    priority: 50
+    license: CC0-1.0
+    defaultConfidence: reported
+    description: 按职位/财富圈定的中美权贵及其一度亲属（npm run ctos -- ingest wikidata）
+
+  - id: wikidata-xids
+    name: Wikidata 跨库 ID
+    path: imports/wikidata-xids
+    priority: 49
+    bulk: true   # 只补外部 ID 的标注层，不应把被标注的实体拉进核心子图
+    license: CC0-1.0
+    defaultConfidence: reported
+    description: 带 QID 实体的 OpenSanctions/ICIJ/LittleSis/OpenSecrets/FEC/国会/CPED 对照 ID（npm run ctos -- ingest wikidata-xids）
+
+  - id: zhao
+    name: 太子党关系网络
+    path: imports/zhao
+    priority: 30
+    license: GPL-3.0
+    defaultConfidence: reported
+    description: 编程随想《太子党关系网络》（2016–2018），约 860 人、165 个家族（npm run ctos -- ingest zhao）
+
+  - id: us-officials
+    name: 美国官员
+    path: imports/us-officials
+    priority: 60
+    bulk: true
+    license: CC0-1.0 / 公共领域
+    defaultConfidence: confirmed
+    description: 国会议员（1970–）、历任总统/副总统、联邦法官（FJC）；来自数据仓库（npm run ctos -- ingest us-officials）
+
+  - id: opensanctions
+    name: OpenSanctions
+    path: imports/opensanctions
+    priority: 45
+    bulk: true
+    license: CC-BY-NC-4.0
+    defaultConfidence: reported
+    description: 中美（含港澳台）政要、亲属关联人、被制裁/反制裁人物与机构（npm run ctos -- ingest opensanctions）
+
+  - id: icij
+    name: ICIJ 离岸解密
+    path: imports/icij
+    priority: 35
+    license: ODbL-1.0 / CC-BY-SA-3.0
+    defaultConfidence: reported
+    description: 审核确认的人物/机构与其离岸公司、中介、共同高管（ctos review → npm run ctos -- ingest icij）
+
+  - id: fec
+    name: FEC 政治献金
+    path: imports/fec
+    priority: 40
+    bulk: true
+    license: 美国政府公共领域（捐款人信息不得用于募捐或商业目的）
+    defaultConfidence: confirmed
+    description: PAC→候选人、超级捐款人、已审核图谱人物的捐款（2000–2026）（npm run ctos -- ingest fec）
+
+  - id: littlesis
+    name: LittleSis
+    path: imports/littlesis
+    priority: 42
+    bulk: true
+    license: CC-BY-SA-4.0
+    defaultConfidence: reported
+    description: 已对照（Wikidata/审核）的美国政商人物与机构的家族、社交、职业、持股、董事、游说等关系（npm run ctos -- ingest littlesis）

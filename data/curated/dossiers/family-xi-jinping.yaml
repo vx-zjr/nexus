@@ -1,0 +1,97 @@
+# 习近平家族：精编档案（与 zhao 层同名档案合并；本文件优先）
+id: family-xi-jinping
+kind: family
+name: 习近平家族
+country: CN
+head: xi-jinping
+summary: |-
+  习仲勋家族。习近平本人未被发现直接持有资产，但彭博 2012 年调查显示其姐齐桥桥一家控制资产至少 3.76 亿美元（未计入的上市公司股权等另计）；ICIJ 2014 离岸解密显示姐夫邓家贵持有 BVI 公司。
+  纠正 zhao 数据：柯玲玲为前妻（1979 年结婚、约 1982 年离婚）；“习明泽—梁治中”婚姻为网络传闻，降级为 rumor。
+core:
+- xi-jinping
+- xi-zhongxun
+- qi-xin
+- peng-liyuan
+- xi-mingze
+- xi-qiaoqiao
+- deng-jiagui
+- zhang-yannan
+- xi-yuanping
+- xi-anan
+outer:
+- ke-lingling
+- liang-zhizhong
+- excellence-effort-property-development
+- xiao-jianhua
+tags:
+- family
+sources:
+- &id001
+  url: https://www.bloomberg.com/news/2012-06-29/xi-jinping-millionaire-relations-reveal-fortunes-of-elite.html
+  title: Xi Jinping Millionaire Relations Reveal Fortunes of Elite
+  publisher: Bloomberg
+  date: '2012-06-29'
+- &id002
+  url: https://www.icij.org/investigations/offshore/leaked-records-reveal-offshore-holdings-of-chinas-elite/
+  title: Leaked Records Reveal Offshore Holdings of China's Elite
+  publisher: ICIJ
+  date: '2014-01-21'
+relations:
+- - xi-zhongxun
+  - spouse
+  - qi-xin
+- - qi-xin
+  - parent
+  - xi-jinping
+  - 子
+- - qi-xin
+  - parent
+  - xi-qiaoqiao
+  - 女
+- from: xi-jinping
+  to: ke-lingling
+  type: spouse
+  retract: true
+  note: 应为前妻，已改为 ex-spouse
+- from: xi-jinping
+  to: ke-lingling
+  type: ex-spouse
+  since: '1979'
+  until: '1982'
+  sources:
+  - url: https://en.wikipedia.org/wiki/Xi_Jinping
+    publisher: Wikipedia
+- from: xi-jinping
+  to: peng-liyuan
+  type: spouse
+  since: '1987'
+  sources:
+  - url: https://en.wikipedia.org/wiki/Peng_Liyuan
+    publisher: Wikipedia
+  confidence: confirmed
+- from: liang-zhizhong
+  to: xi-mingze
+  type: spouse
+  confidence: rumor
+  note: zhao 项目收录的网络传闻，无权威媒体证实
+- from: xi-qiaoqiao
+  to: deng-jiagui
+  type: spouse
+  sources:
+  - *id001
+  confidence: confirmed
+- - xi-qiaoqiao
+  - parent
+  - zhang-yannan
+  - 女
+- - deng-jiagui
+  - parent
+  - zhang-yannan
+  - 女
+- from: deng-jiagui
+  to: excellence-effort-property-development
+  type: owner
+  label: 50%
+  sources:
+  - *id002
+updated: '2026-10-11'

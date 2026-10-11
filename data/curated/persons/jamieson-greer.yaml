@@ -1,0 +1,27 @@
+id: jamieson-greer
+type: person
+name: Jamieson Greer
+names:
+  en: Jamieson Greer
+  zh: 杰米森·格里尔
+gender: M
+born: '1980'
+country:
+- US
+sectors:
+- politics
+- diplomacy
+tier: 2
+status: active
+summary: 美国贸易代表（2025–），对华关税谈判核心人物。第一任期内为莱特希泽幕僚长。
+positions:
+- title: 美国贸易代表
+  org: us-cabinet
+  from: '2025-02-27'
+  current: true
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

@@ -1,0 +1,32 @@
+id: case-ling-jihua
+kind: case
+name: 令计划案
+country: CN
+head: ling-jihua
+summary: 令计划为胡锦涛长期幕僚。2012 年“法拉利事件”后被调离中办，2014-12 被调查，2016-07 被判无期。其兄令政策、弟令完成（出走美国）均涉案。
+core:
+- ling-jihua
+- ling-gu
+- ling-wancheng
+outer:
+- hu-jintao
+sources:
+- url: https://en.wikipedia.org/wiki/Ling_Jihua
+  publisher: Wikipedia
+relations:
+- - ling-jihua
+  - aide
+  - hu-jintao
+  - 中办主任（大管家）
+- - ling-jihua
+  - parent
+  - ling-gu
+  - 子
+- - ling-jihua
+  - sibling
+  - ling-wancheng
+  - 弟
+tags:
+- case
+- purge
+updated: '2026-10-11'

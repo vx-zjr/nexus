@@ -1,0 +1,16 @@
+entities:
+- id: excellence-effort-property-development
+  type: org
+  name: Excellence Effort Property Development
+  orgType: company
+  country:
+  - VG
+  sectors:
+  - business
+  tier: 5
+  summary: 英属维尔京群岛注册公司，ICIJ 2014 “中国离岸解密”显示邓家贵持股 50%。
+  sources:
+  - url: https://www.icij.org/investigations/offshore/leaked-records-reveal-offshore-holdings-of-chinas-elite/
+    title: Leaked Records Reveal Offshore Holdings of China's Elite
+    publisher: ICIJ
+    date: '2014-01-21'

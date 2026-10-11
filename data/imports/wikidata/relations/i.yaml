@@ -1,0 +1,206 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+relations:
+  - from: ira-magaziner
+    to: seth-magaziner
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16222460
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ilhan-omar
+    to: sahra-noor
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q26436159
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ilhan-omar
+    to: isra-hirsi
+    type: parent
+    label: 女
+    sources:
+      - url: https://www.wikidata.org/wiki/Q26436159
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: irv-newhouse
+    to: dan-newhouse
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16733285
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: imogene-powers-johnson
+    to: herbert-fisk-johnson-iii
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5734095
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: imogene-powers-johnson
+    to: s-curtis-johnson
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7387417
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: imogene-powers-johnson
+    to: helen-johnson-leipold
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5702551
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: indra-nooyi
+    to: chandrika-tandon
+    type: sibling
+    sources:
+      - url: https://www.wikidata.org/wiki/Q264913
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: irving-blum
+    to: jason-blum
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q13449900
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: isabel-guzman
+    to: university-of-pennsylvania
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104717188
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ilhan-omar
+    to: north-dakota-state-university
+    type: alumni
+    label: Bachelor of Arts
+    until: "2011"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q26436159
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ira-rennert
+    to: renco-group
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6066208
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ira-rennert
+    to: renco-group
+    type: owner
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6066208
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ira-rennert
+    to: new-york-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6066208
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ira-rennert
+    to: brooklyn-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6066208
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: ira-rennert
+    to: stern-school-of-business
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6066208
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: israel-englander
+    to: millennium-management
+    type: founder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16120832
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: israel-englander
+    to: stern-school-of-business
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16120832
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: israel-englander
+    to: new-york-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16120832
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: indra-nooyi
+    to: amazon
+    type: board
+    sources:
+      - url: https://www.wikidata.org/wiki/Q264913
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: indra-nooyi
+    to: pepsico
+    type: position
+    label: 任职
+    since: "1994"
+    until: "2018"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q264913
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: indra-nooyi
+    to: boston-consulting-group
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q264913
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: indra-nooyi
+    to: amazon
+    type: position
+    label: 任职
+    since: "2019"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q264913
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: indra-nooyi
+    to: booz-allen-hamilton
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q264913
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: indra-nooyi
+    to: motorola
+    type: position
+    label: 任职
+    sources:
+      - url: https://www.wikidata.org/wiki/Q264913
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: indra-nooyi
+    to: yale-school-of-management
+    type: alumni
+    label: master's degree
+    since: "1978"
+    until: "1980"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q264913
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: indra-nooyi
+    to: yale-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q264913
+        publisher: Wikidata
+        accessed: 2026-10-11

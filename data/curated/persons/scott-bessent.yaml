@@ -1,0 +1,30 @@
+id: scott-bessent
+type: person
+name: Scott Bessent
+names:
+  en: Scott Bessent
+  zh: 斯科特·贝森特
+gender: M
+born: '1962-08-21'
+country:
+- US
+sectors:
+- politics
+- finance
+tier: 1
+status: active
+summary: 财政部长（2025–），主导与中国的关税/贸易谈判（对口何立峰）。曾任 Soros Fund Management 首席投资官，后创立 Key Square Group。
+positions:
+- title: 财政部长
+  org: us-cabinet
+  from: '2025-01-28'
+  current: true
+- title: Soros Fund Management 首席投资官
+  from: '2011'
+  to: '2015'
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

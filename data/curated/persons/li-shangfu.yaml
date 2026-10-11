@@ -1,0 +1,38 @@
+id: li-shangfu
+type: person
+name: 李尚福
+names:
+  zh: 李尚福
+  en: Li Shangfu
+gender: M
+born: 1958-02
+country:
+- CN
+sectors:
+- military
+tier: 3
+status: purged
+summary: 前国防部长（2023-03–2023-10）、军委委员。2023 年失踪后被免职，2024-06 被开除党籍。
+positions:
+- title: 国防部长
+  org: state-council-prc
+  from: 2023-03
+  to: 2023-10
+- title: 中央军委委员
+  org: ccp-cmc
+  from: 2022-10
+  to: 2023-10
+- title: 装备发展部部长
+  org: ccp-cmc
+  from: 2017-09
+  to: 2022-10
+ids:
+  wikidata: Q19825651
+tags:
+- purged-2024
+sources:
+- url: https://en.wikipedia.org/wiki/20th_Politburo_of_the_Chinese_Communist_Party
+  title: 20th Politburo of the Chinese Communist Party
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

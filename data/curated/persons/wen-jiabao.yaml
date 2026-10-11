@@ -1,0 +1,29 @@
+id: wen-jiabao
+type: person
+name: 温家宝
+names:
+  zh: 温家宝
+  en: Wen Jiabao
+gender: M
+born: 1942-09
+country:
+- CN
+sectors:
+- politics
+tier: 2
+summary: 前国务院总理（2003–2013）。纽时 2012 年调查（巴博萨）：其亲属控制资产至少 27 亿美元，多数在其任副总理、总理期间积累；温家律师否认温本人知情。
+positions:
+- title: 国务院总理
+  org: state-council-prc
+  from: 2003-03
+  to: 2013-03
+- title: 政治局常委
+  org: ccp-politburo-standing-committee
+  from: 2002-11
+  to: 2012-11
+sources:
+- url: https://www.nytimes.com/2012/10/26/business/global/family-of-wen-jiabao-holds-a-hidden-fortune-in-china.html
+  title: Billions in Hidden Riches for Family of Chinese Leader (David Barboza)
+  publisher: The New York Times
+  date: '2012-10-26'
+updated: '2026-10-11'

@@ -1,0 +1,19 @@
+id: charles-kushner
+type: person
+name: Charles Kushner
+names:
+  en: Charles Kushner
+  zh: 查尔斯·库什纳
+gender: M
+born: '1954-05-16'
+country:
+- US
+sectors:
+- business
+- diplomacy
+tier: 3
+summary: Kushner Companies 创始人、Jared Kushner 之父。2005 年因逃税、非法政治献金、证人报复认罪服刑，2020 年获特朗普特赦；2025 年起任美国驻法国大使。
+sources:
+- url: https://en.wikipedia.org/wiki/Charles_Kushner
+  publisher: Wikipedia
+updated: '2026-10-11'

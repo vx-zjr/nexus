@@ -1,0 +1,59 @@
+id: shanghai-clique
+kind: faction
+name: 江泽民“上海帮”
+names:
+  en: Shanghai clique
+country: CN
+head: jiang-zemin
+summary: 以江泽民（1989–2002 总书记）在上海任职期间的部属为核心的派系：曾庆红、吴邦国、黄菊、贾庆林、陈良宇、韩正等；王沪宁由曾庆红从复旦大学引入中枢。习近平时代上海帮影响力大幅衰退。派系归属为分析性判断。
+core:
+- jiang-zemin
+- zeng-qinghong
+- wu-bangguo
+- huang-ju
+- jia-qinglin
+- chen-liangyu
+outer:
+- wang-huning
+- han-zheng
+- zhou-yongkang
+sources:
+- url: https://en.wikipedia.org/wiki/Shanghai_clique
+  publisher: Wikipedia
+confidence: reported
+relations:
+- - jiang-zemin
+  - patron
+  - zeng-qinghong
+  - 上海时期起的首席幕僚
+- - zeng-qinghong
+  - patron
+  - wang-huning
+  - 1995 年引入中央政策研究室
+- - jiang-zemin
+  - patron
+  - wu-bangguo
+  - 上海市委书记接班人
+- - jiang-zemin
+  - patron
+  - huang-ju
+  - 上海
+- - jiang-zemin
+  - patron
+  - chen-liangyu
+  - 上海
+- - jiang-zemin
+  - ally
+  - jia-qinglin
+- - jiang-zemin
+  - ally
+  - zhou-yongkang
+  - 江系后期盟友（据报道）
+- from: ccp-ccdi
+  to: chen-liangyu
+  type: legal
+  label: 2006 上海社保基金案；2008 判刑 18 年
+  since: 2006-09
+tags:
+- faction
+updated: '2026-10-11'

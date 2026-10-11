@@ -1,0 +1,2609 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: yadira-caraveo
+    type: person
+    name: Yadira Caraveo
+    names:
+      zh: 亚迪拉·卡拉韦奥
+      en: Yadira Caraveo
+    gender: F
+    born: 1980-12-23
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q59193450
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%9A%E8%BF%AA%E6%8B%89%C2%B7%E5%8D%A1%E6%8B%89%E9%9F%A6%E5%A5%A5
+      - https://en.wikipedia.org/wiki/Yadira_Caraveo
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q59193450
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 科羅拉多州眾議員
+        org: colorado-house-of-representatives
+        from: 2019-01-04
+        to: 2023-01-03
+  - id: yaki-kadafi
+    type: person
+    name: Yaki Kadafi
+    names:
+      zh: 亚奇·卡达菲
+      en: Yaki Kadafi
+    gender: M
+    born: 1977-10-09
+    died: 1996-11-10
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: American rapper (1977–1996)
+    ids:
+      wikidata: Q456076
+    links:
+      - https://en.wikipedia.org/wiki/Yaki_Kadafi
+    tags:
+      - relative
+    attrs:
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q456076
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yan-jinhai
+    type: person
+    name: 严金海
+    names:
+      zh: 严金海
+      en: Yan Jinhai
+    gender: M
+    born: 1962-03-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 西藏自治区人大常委会主任
+    ids:
+      wikidata: Q16260224
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B8%A5%E9%87%91%E6%B5%B7
+      - https://en.wikipedia.org/wiki/Yan_Jinhai
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16260224
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: yan-junqi
+    type: person
+    name: 严隽琪
+    names:
+      zh: 严隽琪
+      en: Yan Junqi
+    gender: F
+    born: "1946"
+    country:
+      - CN
+    sectors:
+      - politics
+      - tech
+    tier: 2
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q261597
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B8%A5%E9%9A%BD%E7%90%AA
+      - https://en.wikipedia.org/wiki/Yan_Junqi
+    tags:
+      - cn-leaders
+      - party:China Association for Promoting Democracy
+    attrs:
+      party: China Association for Promoting Democracy
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q261597
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国人民代表大会常务委员会副委员长
+        org: npc-standing-committee
+        from: 2008-03-15
+        to: 2018-03-17
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: yang-bin
+    type: person
+    name: 杨斌
+    names:
+      zh: 杨斌
+      en: Yang Bin
+    gender: M
+    born: 1966-09-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共云南省委常委、曲靖市委书记
+    ids:
+      wikidata: Q104722891
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%96%8C_(1966%E5%B9%B4)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104722891
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yang-cheng
+    type: person
+    name: 杨诚
+    names:
+      zh: 杨诚
+      en: Yang Cheng
+    gender: M
+    born: "1964"
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 3
+    summary: 中共新疆维吾尔自治区党委原常委、新疆军区原政治委员，陆军中将
+    ids:
+      wikidata: Q98764412
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E8%AF%9A_(1964%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Yang_Cheng_(general)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q98764412
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yang-chengwu
+    type: person
+    name: 杨成武
+    names:
+      zh: 杨成武
+      en: Yang Chengwu
+    gender: M
+    born: 1914-10-27
+    died: 2004-02-14
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 5
+    summary: 中华人民共和国开国上将
+    ids:
+      wikidata: Q2983888
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%88%90%E6%AD%A6
+      - https://en.wikipedia.org/wiki/Yang_Chengwu
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2983888
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: yang-chuantang
+    type: person
+    name: 杨传堂
+    names:
+      zh: 杨传堂
+      en: Yang Chuantang
+    gender: M
+    born: 1954-05-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q1059497
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E4%BC%A0%E5%A0%82
+      - https://en.wikipedia.org/wiki/Yang_Chuantang
+    tags:
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1059497
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中国共产党西藏自治区委员会书记
+        org: tibet-autonomous-regional-committee-of-the-chinese-communist-party
+        from: 2004-12-01
+        to: 2006-06-01
+      - title: 青海省省长
+        from: "2004"
+        to: 2004-12-01
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: yang-defu
+    type: person
+    name: 杨德福
+    names:
+      zh: 杨德福
+    gender: M
+    born: "1937"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8316602
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%BE%B7%E7%A6%8F
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316602
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yang-dongming
+    type: person
+    name: 杨东明
+    names:
+      zh: 杨东明
+      en: Yang Dongming
+    gender: M
+    born: "1949"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8320103
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E4%B8%9C%E6%98%8E_(%E8%A7%A3%E6%94%BE%E5%86%9B)
+      - https://en.wikipedia.org/wiki/Yang_Dongming
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8320103
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yang-fasen
+    type: person
+    name: 杨发森
+    names:
+      zh: 杨发森
+      en: Yang Fasen
+    gender: M
+    born: 1971-02-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q109264846
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%8F%91%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Yang_Fasen
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q109264846
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yang-guohai
+    type: person
+    name: 杨国海
+    names:
+      zh: 杨国海
+      en: Yang Guohai
+    gender: M
+    born: 1950-05-01
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8320113
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%9B%BD%E6%B5%B7
+      - https://en.wikipedia.org/wiki/Yang_Guohai
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8320113
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: yang-guoqiang
+    type: person
+    name: 楊國強
+    names:
+      zh: 楊國強
+      en: Yang Guoqiang
+    gender: M
+    born: 1954-10-09
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 5
+    summary: 碧桂園集團創始人
+    ids:
+      wikidata: Q9081195
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%9C%8B%E5%BC%B7_(%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E5%AE%B6)
+      - https://en.wikipedia.org/wiki/Yang_Guoqiang
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9081195
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: yang-huaiqing
+    type: person
+    name: 杨怀庆
+    names:
+      zh: 杨怀庆
+      en: Yang Huaiqing
+    gender: M
+    born: 1939-02-01
+    died: 2012-12-12
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 2
+    summary: Chinese military personnel (1939–2012)
+    ids:
+      wikidata: Q8296050
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%80%80%E5%BA%86
+      - https://en.wikipedia.org/wiki/Yang_Huaiqing
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8296050
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yang-huichuan
+    type: person
+    name: 杨惠川
+    names:
+      zh: 杨惠川
+    gender: M
+    born: "1939"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8316625
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%83%A0%E5%B7%9D
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8316625
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yang-huiyan
+    type: person
+    name: 杨惠妍
+    names:
+      zh: 杨惠妍
+      en: Yang Huiyan
+    gender: F
+    born: 1981-09-01
+    country:
+      - CN
+      - CY
+    sectors:
+      - business
+    tier: 2
+    summary: Chinese-born Cypriot businesswoman, heiress, billionaire
+    netWorth:
+      usd: 22100000000
+    ids:
+      wikidata: Q464748
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%83%A0%E5%A6%8D
+      - https://en.wikipedia.org/wiki/Yang_Huiyan
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q464748
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: 2023-02-01
+  - id: yang-jiechi
+    type: person
+    name: 杨洁篪
+    names:
+      zh: 杨洁篪
+      en: Yang Jiechi
+    gender: M
+    born: 1950-05-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - diplomacy
+    tier: 2
+    summary: 中國共產黨中央政治局委員（第十九屆）
+    ids:
+      wikidata: Q58211
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%B4%81%E7%AF%AA
+      - https://en.wikipedia.org/wiki/Yang_Jiechi
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 33
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58211
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 国务委员
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 2013-03-16
+        to: 2018-03-19
+      - title: 中华人民共和国外交部部长
+        org: prc-mfa
+        from: 2007-04-27
+        to: 2013-03-16
+      - title: 中华人民共和国驻美国大使
+        org: embassy-of-the-people-s-republic-of-china-washington-d-c
+        from: "2001"
+        to: "2005"
+      - title: 中国共产党中央政治局委员
+        from: 2017-10-25
+  - id: yang-jiemian
+    type: person
+    name: 杨洁勉
+    names:
+      zh: 杨洁勉
+      en: Yang Jiemian
+    gender: M
+    born: 1951-10-06
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    summary: Chinese international relations professor
+    ids:
+      wikidata: Q134964268
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q134964268
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yang-jinbai
+    type: person
+    name: 杨晋柏
+    names:
+      zh: 杨晋柏
+      en: Yang Jinbai
+    gender: M
+    born: 1973-04-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共海南省委副书记、政法委书记
+    ids:
+      wikidata: Q97325208
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%99%8B%E6%9F%8F
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97325208
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yang-jing
+    type: person
+    name: 杨晶
+    names:
+      zh: 杨晶
+      en: Yang Jing
+    gender: M
+    born: 1953-12-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国政治人物
+    ids:
+      wikidata: Q2650507
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%99%B6
+      - https://en.wikipedia.org/wiki/Yang_Jing
+    tags:
+      - cn-ministers
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2650507
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国国务院秘书长
+        org: general-office-of-the-state-council
+        from: 2013-03-01
+        to: 2018-02-01
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: yang-jinshan
+    type: person
+    name: 杨金山
+    names:
+      zh: 杨金山
+      en: Yang Jinshan
+    gender: M
+    born: 1954-08-01
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8294032
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E9%87%91%E5%B1%B1
+      - https://en.wikipedia.org/wiki/Yang_Jinshan
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8294032
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yang-lan
+    type: person
+    name: 杨澜
+    names:
+      zh: 杨澜
+      en: Yang Lan
+    gender: F
+    born: 1968-03-31
+    country:
+      - CN
+    sectors:
+      - business
+      - media
+    tier: 4
+    summary: 中国电视节目主持人及企业家
+    ids:
+      wikidata: Q8048424
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%BE%9C
+      - https://en.wikipedia.org/wiki/Yang_Lan
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8048424
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: yang-lishun
+    type: person
+    name: 杨立顺
+    names:
+      zh: 杨立顺
+    gender: M
+    born: 1952-09-01
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8337716
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E7%AB%8B%E9%A1%BA
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8337716
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yang-shiguang
+    type: person
+    name: 杨世光
+    names:
+      zh: 杨世光
+      en: Yang Shiguang
+    gender: M
+    born: "1956"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中国海军将领
+    ids:
+      wikidata: Q28410474
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E4%B8%96%E5%85%89_(%E6%B5%B7%E5%86%9B)
+      - https://en.wikipedia.org/wiki/Yang_Shiguang
+    tags:
+      - cn-military
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28410474
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yang-xiaodu
+    type: person
+    name: 杨晓渡
+    names:
+      zh: 杨晓渡
+      en: Yang Xiaodu
+    gender: M
+    born: 1953-10-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q9080691
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%99%93%E6%B8%A1
+      - https://en.wikipedia.org/wiki/Yang_Xiaodu
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9080691
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党中央政治局委员
+        from: 2017-10-25
+      - title: 中国共产党中央书记处书记
+        org: ccp-secretariat
+        from: 2017-10-01
+      - title: 中华人民共和国国家监察委员会主任
+        org: national-supervisory-commission
+        from: 2018-03-18
+        to: 2023-03-11
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: yang-xiong
+    type: person
+    name: 杨雄
+    names:
+      zh: 杨雄
+      en: Yang Xiong
+    gender: M
+    born: 1953-11-01
+    died: 2021-04-12
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: 中华人民共和国上海市政治人物
+    ids:
+      wikidata: Q2117887
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E9%9B%84_(1953%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Yang_Xiong_(politician)
+    tags:
+      - cn-business
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2117887
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 上海市市長
+        org: shanghai-municipal-people-s-government
+        from: 2013-02-01
+        to: 2017-01-17
+      - title: 全国人民代表大会常务委员会委员
+        org: npc-standing-committee
+  - id: yang-xuejun
+    type: person
+    name: 杨学军
+    names:
+      zh: 杨学军
+      en: Yang Xuejun
+    gender: M
+    born: 1963-04-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - tech
+    tier: 3
+    summary: 中央军委战略规划委员会专职委员，陆军上将，中国科学院院士、计算机科学家
+    ids:
+      wikidata: Q8292892
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%AD%A6%E5%86%9B
+      - https://en.wikipedia.org/wiki/Yang_Xuejun
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292892
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: yang-yuanqing
+    type: person
+    name: 杨元庆
+    names:
+      zh: 杨元庆
+      en: Yang Yuanqing
+    gender: M
+    born: 1964-11-12
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中國商人
+    ids:
+      wikidata: Q740364
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%85%83%E5%BA%86
+      - https://en.wikipedia.org/wiki/Yang_Yuanqing
+    tags:
+      - cn-business
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q740364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yang-yushu
+    type: person
+    name: 杨玉书
+    names:
+      zh: 杨玉书
+    gender: M
+    born: "1936"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8319248
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E7%8E%89%E4%B9%A6
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319248
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yang-zhiliang
+    type: person
+    name: 杨志亮
+    names:
+      zh: 杨志亮
+      en: Yang Zhiliang
+    gender: M
+    born: 1962-11-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 3
+    summary: 中国将领
+    ids:
+      wikidata: Q30945837
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%BF%97%E4%BA%AE
+      - https://en.wikipedia.org/wiki/Yang_Zhiliang_(military_officer)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30945837
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yang-zhiqi
+    type: person
+    name: 杨志琦
+    names:
+      zh: 杨志琦
+    gender: M
+    born: "1947"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8337789
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%BF%97%E7%90%A6
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8337789
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: yao-jiexun
+    type: person
+    name: Yao Jiexun
+    names:
+      zh: 姚捷勋
+      en: Yao Jiexun
+    gender: M
+    born: "1881"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q30611012
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A7%9A%E6%8D%B7%E5%8B%8B
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30611012
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yao-jinxin
+    type: person
+    name: Yao Jinxin
+    names:
+      zh: 姚锦新
+      en: Yao Jinxin
+    gender: F
+    born: 1911-10-25
+    died: 1992-06-11
+    country: []
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q30611011
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A7%9A%E9%94%A6%E6%96%B0
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30611011
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yao-lin
+    type: person
+    name: Yao Lin
+    names:
+      zh: 姚林
+      en: Yao Lin
+    gender: M
+    born: 1965-10-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国矿产资源集团董事长
+    ids:
+      wikidata: Q114818523
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A7%9A%E6%9E%97
+      - https://en.wikipedia.org/wiki/Yao_Lin
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q114818523
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yao-mingwei
+    type: person
+    name: 姚明伟
+    names:
+      zh: 姚明伟
+      en: Yao Mingwei
+    gender: M
+    born: 1947-02-01
+    died: 2001-10-30
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    summary: Chinese politician (1947-2001)
+    ids:
+      wikidata: Q30606901
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A7%9A%E6%98%8E%E4%BC%9F
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30606901
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yao-yilin
+    type: person
+    name: 姚依林
+    names:
+      zh: 姚依林
+      en: Yao Yilin
+    gender: M
+    born: 1917-09-06
+    died: 1994-12-11
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 1
+    summary: 中国共产党及中华人民共和国政府官员
+    ids:
+      wikidata: Q622826
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%A7%9A%E4%BE%9D%E6%9E%97
+      - https://en.wikipedia.org/wiki/Yao_Yilin
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q622826
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国国务院副总理
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中国共产党中央政治局常务委员会委员
+        org: ccp-politburo-standing-committee
+        from: 1987-11-02
+        to: 1992-10-18
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+  - id: yasmin-lukatz
+    type: person
+    name: Yasmin Lukatz
+    names:
+      en: Yasmin Lukatz
+    gender: F
+    born: 1972-05-05
+    country:
+      - IL
+    sectors:
+      - business
+    tier: 5
+    summary: Israeli businesswoman
+    ids:
+      wikidata: Q133298896
+    links:
+      - https://en.wikipedia.org/wiki/Yasmin_Lukatz
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q133298896
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yassamin-ansari
+    type: person
+    name: Yassamin Ansari
+    names:
+      zh: 亚萨明·安萨里
+      en: Yassamin Ansari
+    gender: F
+    born: 1992-04-07
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q122226202
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%9A%E8%90%A8%E6%98%8E%C2%B7%E5%AE%89%E8%90%A8%E9%87%8C
+      - https://en.wikipedia.org/wiki/Yassamin_Ansari
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q122226202
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: ye-aiqun
+    type: person
+    name: 叶爱群
+    names:
+      zh: 叶爱群
+    gender: M
+    born: "1945"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8315530
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8F%B6%E7%88%B1%E7%BE%A4
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315530
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: ye-chumei
+    type: person
+    name: 叶楚梅
+    names:
+      zh: 叶楚梅
+      en: Ye Chumei
+    gender: F
+    born: "1928"
+    died: 2024-09-18
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q130343584
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q130343584
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ye-jianchun
+    type: person
+    name: 叶建春
+    names:
+      zh: 叶建春
+      en: Ye Jianchun
+    gender: M
+    born: "1965"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q97175709
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%8F%B6%E5%BB%BA%E6%98%A5
+      - https://en.wikipedia.org/wiki/Ye_Jianchun
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97175709
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yi-gang
+    type: person
+    name: 易纲
+    names:
+      zh: 易纲
+      en: Yi Gang
+    gender: M
+    born: 1958-03-05
+    country:
+      - CN
+    sectors:
+      - politics
+      - academia
+    tier: 2
+    summary: 中华人民共和国经济学家、政治人物
+    ids:
+      wikidata: Q4743711
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%98%93%E7%BA%B2
+      - https://en.wikipedia.org/wiki/Yi_Gang
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4743711
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国人民银行行长
+        org: pboc
+        from: 2018-03-19
+        to: 2023-07-25
+  - id: yi-huiman
+    type: person
+    name: 易会满
+    names:
+      zh: 易会满
+      en: Yi Huiman
+    gender: M
+    born: 1964-12-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - finance
+    tier: 3
+    summary: 中华人民共和国金融人物、政治人物
+    ids:
+      wikidata: Q28501074
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%98%93%E4%BC%9A%E6%BB%A1
+      - https://en.wikipedia.org/wiki/Yi_Huiman
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28501074
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yi-lianhong
+    type: person
+    name: 易炼红
+    names:
+      zh: 易炼红
+      en: Yi Lianhong
+    gender: M
+    born: 1959-09-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q33127829
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%98%93%E7%82%BC%E7%BA%A2
+      - https://en.wikipedia.org/wiki/Yi_Lianhong
+    tags:
+      - cn-provincial
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q33127829
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党浙江省委员会书记
+        org: zhejiang-provincial-committee-of-the-chinese-communist-party
+        from: 2022-12-01
+        to: 2024-10-01
+  - id: yi-xiaoguang
+    type: person
+    name: 乙晓光
+    names:
+      zh: 乙晓光
+      en: Yi Xiaoguang
+    gender: M
+    born: 1958-06-01
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 2
+    summary: 中国人民解放军中部战区原司令员，空军上将
+    ids:
+      wikidata: Q8292895
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%99%E6%99%93%E5%85%89
+      - https://en.wikipedia.org/wiki/Yi_Xiaoguang
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292895
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yin-fengqi
+    type: person
+    name: 尹凤岐
+    names:
+      zh: 尹凤岐
+    gender: M
+    born: "1942"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8315701
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%B9%E5%87%A4%E5%B2%90_(%E8%A7%A3%E6%94%BE%E5%86%9B)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315701
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: yin-hejun
+    type: person
+    name: 阴和俊
+    names:
+      zh: 阴和俊
+      en: Yin Hejun
+    gender: M
+    born: 1963-01-14
+    country:
+      - CN
+    sectors:
+      - politics
+      - academia
+    tier: 3
+    summary: 中华人民共和国科学技术部部长
+    ids:
+      wikidata: Q30950303
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%98%B4%E5%92%8C%E4%BF%8A
+      - https://en.wikipedia.org/wiki/Yin_Hejun
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30950303
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国科学技术部部长
+        org: ministry-of-science-and-technology-of-the-people-s-republic-of-china
+        from: 2023-10-24
+  - id: yin-hong
+    type: person
+    name: 尹弘
+    names:
+      zh: 尹弘
+      en: Yin Hong
+    gender: M
+    born: 1963-06-24
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共江西省委书记、江西省人大常委会主任
+    ids:
+      wikidata: Q16260147
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%B9%E5%BC%98
+      - https://en.wikipedia.org/wiki/Yin_Hong
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16260147
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yin-li
+    type: person
+    name: 尹力
+    names:
+      zh: 尹力
+      en: Yin Li
+    gender: M
+    born: 1962-08-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中共北京市委书记
+    ids:
+      wikidata: Q19825407
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%B9%E5%8A%9B_(1962%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Yin_Li
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19825407
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中国共产党中央政治局委员
+        from: "2022"
+  - id: yin-qingli
+    type: person
+    name: 尹庆立
+    names:
+      zh: 尹庆立
+    gender: M
+    born: "1945"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8332302
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%B9%E5%BA%86%E7%AB%8B
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8332302
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: yin-yong
+    type: person
+    name: 殷勇
+    names:
+      zh: 殷勇
+      en: Yin Yong
+    gender: M
+    born: 1969-08-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共北京市委副书记、北京市人民政府市长
+    ids:
+      wikidata: Q28417331
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%AE%B7%E5%8B%87_(1969%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Yin_Yong_(politician)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28417331
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 北京市市長
+        org: people-s-government-of-beijing-municipality
+        from: 2022-10-28
+  - id: ying-yong
+    type: person
+    name: 應勇
+    names:
+      zh: 應勇
+      en: Ying Yong
+    gender: M
+    born: 1957-11-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: 中华人民共和国最高人民检察院检察长
+    ids:
+      wikidata: Q9134379
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BA%94%E5%8B%87
+      - https://en.wikipedia.org/wiki/Ying_Yong
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9134379
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国最高人民检察院检察长
+        org: supreme-people-s-procuratorate-of-the-people-s-republic-of-china
+        from: 2023-03-11
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 上海市市長
+        org: shanghai-municipal-people-s-government
+        from: 2017-01-20
+        to: 2020-02-13
+  - id: you-quan
+    type: person
+    name: 尤权
+    names:
+      zh: 尤权
+      en: You Quan
+    gender: M
+    born: 1954-01-23
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中共十九届中央书记处书记、中央统战部原部长
+    ids:
+      wikidata: Q4276510
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%A4%E6%9D%83
+      - https://en.wikipedia.org/wiki/You_Quan
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4276510
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国人民代表大会代表
+        org: national-people-s-congress
+      - title: 中国共产党中央委员会统一战线工作部部长
+        org: ccp-united-front-work-department
+        from: 2017-11-01
+        to: 2022-10-01
+      - title: 中国共产党中央书记处书记
+        org: ccp-secretariat
+        from: 2017-10-25
+  - id: young-kim
+    type: person
+    name: Young Kim
+    names:
+      zh: 金映玉
+      en: Young Kim
+    gender: F
+    born: 1962-10-18
+    country:
+      - US
+      - KR
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國韓裔政治人物
+    ids:
+      wikidata: Q19662859
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%87%91%E6%98%A0%E7%8E%89
+      - https://en.wikipedia.org/wiki/Young_Kim
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19662859
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: 2014-12-01
+        to: 2016-11-30
+  - id: yu-aihua
+    type: person
+    name: 虞爱华
+    names:
+      zh: 虞爱华
+      en: Yu AiHua
+    gender: M
+    born: 1965-09-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 安徽省政协党组副书记、副主席
+    ids:
+      wikidata: Q16906959
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%99%9E%E7%88%B1%E5%8D%8E
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16906959
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: yu-cisheng
+    type: person
+    name: 俞慈声
+    names:
+      zh: 俞慈声
+      en: Yu Cisheng
+    gender: F
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: politician
+    ids:
+      wikidata: Q7178734
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BF%9E%E6%85%88%E5%A3%B0
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7178734
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yu-dong
+    type: person
+    name: 于冬
+    names:
+      zh: 于冬
+      en: Yu Dong
+    gender: M
+    born: "1971"
+    country:
+      - CN
+    sectors:
+      - business
+      - academia
+    tier: 4
+    summary: Chinese film producer
+    ids:
+      wikidata: Q8059909
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%8E%E5%86%AC
+      - https://en.wikipedia.org/wiki/Yu_Dong
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8059909
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yu-huiwen-1968
+    type: person
+    name: 于会文
+    names:
+      zh: 于会文
+      en: Yu Huiwen
+    gender: M
+    born: 1968-10-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共内蒙古自治区党委常委、呼和浩特市委书记
+    ids:
+      wikidata: Q51106444
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%8E%E4%BC%9A%E6%96%87
+      - https://en.wikipedia.org/wiki/Yu_Huiwen
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q51106444
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: yu-jianfeng
+    type: person
+    name: 余剑锋
+    names:
+      zh: 余剑锋
+      en: Yu Jianfeng
+    gender: M
+    born: 1965-09-05
+    country:
+      - CN
+    sectors:
+      - politics
+      - academia
+      - business
+    tier: 3
+    summary: 中華人民共和國政治人物
+    ids:
+      wikidata: Q115703539
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BD%99%E5%89%91%E9%94%8B_(%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115703539
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yu-jianhua
+    type: person
+    name: 俞建华
+    names:
+      zh: 俞建华
+      en: Yu Jianhua
+    gender: M
+    born: 1961-12-01
+    died: 2024-12-10
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国海关总署原署长
+    ids:
+      wikidata: Q51884689
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BF%9E%E5%BB%BA%E5%8D%8E
+      - https://en.wikipedia.org/wiki/Yu_Jianhua
+    tags:
+      - cn-ministers
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q51884689
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国海关总署署长
+        from: 2022-05-18
+        to: 2024-12-10
+  - id: yu-jihong
+    type: person
+    name: 于吉红
+    names:
+      zh: 于吉红
+      en: Yu Jihong
+    gender: F
+    born: "1967"
+    country:
+      - CN
+    sectors:
+      - politics
+      - academia
+    tier: 3
+    summary: 中国化学家
+    ids:
+      wikidata: Q22101206
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%8E%E5%90%89%E7%BA%A2
+      - https://en.wikipedia.org/wiki/Yu_Jihong
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22101206
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yu-jixun
+    type: person
+    name: 于际训
+    names:
+      zh: 于际训
+      en: Yu Jixun
+    gender: M
+    born: "1947"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8315244
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%8E%E9%99%85%E8%AE%AD
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315244
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yu-lijun
+    type: person
+    name: 于立军
+    names:
+      zh: 于立军
+      en: Yu Lijun
+    gender: M
+    born: 1967-08-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共四川省委副书记、政法委书记
+    ids:
+      wikidata: Q97300275
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%8E%E7%AB%8B%E5%86%9B
+      - https://en.wikipedia.org/wiki/Yu_Lijun_(politician)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97300275
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yu-minsheng
+    type: person
+    name: 俞敏声
+    names:
+      zh: 俞敏声
+      en: Yu Minsheng
+    gender: M
+    born: "1944"
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 5
+    summary: Chinese economist
+    ids:
+      wikidata: Q7178610
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BF%9E%E6%95%8F%E5%A3%B0
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7178610
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yu-qiangsheng
+    type: person
+    name: 俞强声
+    names:
+      zh: 俞强声
+      en: Yu Qiangsheng
+    gender: M
+    born: "1940"
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    summary: 中国情报官员
+    ids:
+      wikidata: Q7178538
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BF%9E%E5%BC%BA%E5%A3%B0
+      - https://en.wikipedia.org/wiki/Yu_Qiangsheng
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7178538
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yu-qingjiang
+    type: person
+    name: Yu Qingjiang
+    names:
+      zh: 俞庆江
+      en: Yu Qingjiang
+    gender: M
+    born: "1963"
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 3
+    summary: 中国人民解放军空军原副司令员
+    ids:
+      wikidata: Q65062339
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BF%9E%E5%BA%86%E6%B1%9F
+      - https://en.wikipedia.org/wiki/Yu_Qingjiang
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65062339
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yu-ruomu
+    type: person
+    name: 于若木
+    names:
+      zh: 于若木
+      en: Yu Ruomu
+    gender: F
+    born: 1919-04-12
+    died: 2006-02-28
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: politician
+    ids:
+      wikidata: Q8289904
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%8E%E8%8B%A5%E6%9C%A8
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8289904
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yu-weiguo
+    type: person
+    name: 于伟国
+    names:
+      zh: 于伟国
+      en: Yu Weiguo
+    gender: M
+    born: 1955-10-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 全国人大华侨委员会主任委员
+    ids:
+      wikidata: Q8292831
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%8E%E4%BC%9F%E5%9B%BD
+      - https://en.wikipedia.org/wiki/Yu_Weiguo
+    tags:
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292831
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 福建省省长
+        org: fujian-provincial-people-s-government
+        from: "2015"
+        to: "2018"
+      - title: 中国共产党福建省委员会书记
+        org: fujian-provincial-committee-of-the-chinese-communist-party
+        from: 2017-10-28
+  - id: yu-wen
+    type: person
+    name: 郁文
+    names:
+      zh: 郁文
+      en: Yu Wen
+    gender: F
+    born: 1926-10-01
+    died: 2013-01-28
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: 乔石夫人
+    ids:
+      wikidata: Q10556722
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%81%E6%96%87_(1926%E5%B9%B4)
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10556722
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: yu-zhengsheng
+    type: person
+    name: 俞正声
+    names:
+      zh: 俞正声
+      en: Yu Zhengsheng
+    gender: M
+    born: 1945-04-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 1
+    summary: 中国人民政治协商会议全国委员会主席
+    ids:
+      wikidata: Q115671
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BF%9E%E6%AD%A3%E5%A3%B0
+      - https://en.wikipedia.org/wiki/Yu_Zhengsheng
+    tags:
+      - cn-leaders
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115671
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国人民政治协商会议全国委员会主席
+        org: chinese-people-s-political-consultative-conference
+      - title: 中国共产党上海市委员会书记
+        org: shanghai-municipal-committee-of-the-chinese-communist-party
+        from: 2007-10-27
+        to: 2012-11-20
+      - title: 中国共产党中央政治局委员
+        from: 2002-11-15
+        to: 2017-10-25
+      - title: 中国共产党中央政治局常务委员会委员
+        org: ccp-politburo-standing-committee
+        from: 2012-11-15
+        to: 2017-10-25
+  - id: yu-zhongfu
+    type: person
+    name: 于忠福
+    names:
+      zh: 于忠福
+      en: Yu Zhongfu
+    gender: M
+    born: 1956-07-01
+    country:
+      - CN
+    sectors:
+      - military
+      - culture
+    tier: 2
+    summary: 中国人民解放军空军原政治委员
+    ids:
+      wikidata: Q20688012
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%8E%E5%BF%A0%E7%A6%8F
+      - https://en.wikipedia.org/wiki/Yu_Zhongfu
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20688012
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yuan-gujie
+    type: person
+    name: 袁古洁
+    names:
+      zh: 袁古洁
+      en: Yuan Gujie
+    gender: F
+    born: 1968-05-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 香港中联办副主任
+    ids:
+      wikidata: Q110105390
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%A2%81%E5%8F%A4%E6%B4%81
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110105390
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yuan-huazhi
+    type: person
+    name: Yuan Huazhi
+    names:
+      zh: 袁华智
+      en: Yuan Huazhi
+    gender: M
+    born: 1961-10-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 3
+    summary: 中国人民解放军海军原政治委员
+    ids:
+      wikidata: Q60995511
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%A2%81%E5%8D%8E%E6%99%BA
+      - https://en.wikipedia.org/wiki/Yuan_Huazhi
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60995511
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yuan-jiajun
+    type: person
+    name: 袁家军
+    names:
+      zh: 袁家军
+      en: Yuan Jiajun
+    gender: M
+    born: 1962-09-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中共二十届中央政治局委员、重庆市委书记
+    ids:
+      wikidata: Q8292172
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%A2%81%E5%AE%B6%E5%86%9B
+      - https://en.wikipedia.org/wiki/Yuan_Jiajun
+    tags:
+      - cn-leaders
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292172
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党浙江省委员会书记
+        org: zhejiang-provincial-committee-of-the-chinese-communist-party
+        from: 2020-09-01
+        to: 2022-12-01
+      - title: 中国共产党中央政治局委员
+        from: "2022"
+  - id: yuan-jie
+    type: person
+    name: Yuan Jie (1965)
+    names:
+      zh: 袁洁
+      en: Yuan Jie (1965)
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    ids:
+      wikidata: Q116226218
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%A2%81%E6%B4%81_(1965%E5%B9%B4)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116226218
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yuan-yubai
+    type: person
+    name: 袁誉柏
+    names:
+      zh: 袁誉柏
+      en: Yuan Yubai
+    gender: M
+    born: 1956-05-01
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 2
+    summary: 中国人民解放军南部战区原司令员
+    ids:
+      wikidata: Q18700792
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%A2%81%E8%AA%89%E6%9F%8F
+      - https://en.wikipedia.org/wiki/Yuan_Yubai
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18700792
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yue-haiyan
+    type: person
+    name: 岳海岩
+    names:
+      zh: 岳海岩
+    gender: M
+    born: "1937"
+    died: "2005"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8331658
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B2%B3%E6%B5%B7%E5%B2%A9
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8331658
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yumi-hogan
+    type: person
+    name: Yumi Hogan
+    names:
+      zh: 由美·霍甘
+      en: Yumi Hogan
+    gender: F
+    born: 1959-12-25
+    country:
+      - US
+      - KR
+    sectors:
+      - politics
+      - culture
+      - academia
+    tier: 5
+    summary: South Korean-American artist and former first lady of Maryland (born 1959)
+    ids:
+      wikidata: Q19880284
+    links:
+      - https://en.wikipedia.org/wiki/Yumi_Hogan
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19880284
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: First Spouse of Maryland
+        from: 2015-01-21
+        to: 2023-01-18
+  - id: yvette-clarke
+    type: person
+    name: Yvette Clarke
+    names:
+      zh: 伊薇特·克拉克
+      en: Yvette Clarke
+    gender: F
+    born: 1964-11-21
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1964)
+    ids:
+      wikidata: Q461679
+    links:
+      - https://en.wikipedia.org/wiki/Yvette_Clarke
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461679
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 地方議會議員
+        org: city-council
+        from: "2002"
+        to: "2007"
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+  - id: yvette-herrell
+    type: person
+    name: Yvette Herrell
+    names:
+      zh: 伊薇特·赫瑞尔
+      en: Yvette Herrell
+    gender: F
+    born: 1964-03-16
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician and realtor (born 1964)
+    ids:
+      wikidata: Q16225780
+    links:
+      - https://en.wikipedia.org/wiki/Yvette_Herrell
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16225780
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: Member of the New Mexico House of Representatives
+        org: new-mexico-house-of-representatives
+        from: 2011-01-18
+        to: 2019-01-15
+  - id: yvette-prieto
+    type: person
+    name: Yvette Prieto
+    names:
+      zh: 伊薇特·普列托
+      en: Yvette Prieto
+    gender: F
+    born: "1979"
+    country:
+      - CU
+    sectors:
+      - family
+    tier: 5
+    summary: Model; second wife of basketball player Michael Jordan
+    ids:
+      wikidata: Q26220952
+    links:
+      - https://en.wikipedia.org/wiki/Yvette_Prieto
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q26220952
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: yvonne-lui
+    type: person
+    name: Yvonne Lui
+    names:
+      zh: 吕丽君
+      en: Yvonne Lui
+    gender: F
+    born: 1978-11-30
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: Hong Kong businesswoman
+    ids:
+      wikidata: Q8422422
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%91%82%E5%A7%B5%E9%9C%96
+      - https://en.wikipedia.org/wiki/Yvonne_Lui
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8422422
+        publisher: Wikidata
+        accessed: 2026-10-11

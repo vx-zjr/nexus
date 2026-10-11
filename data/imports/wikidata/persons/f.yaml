@@ -1,0 +1,2596 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: f-whitten-peters
+    type: person
+    name: F. Whitten Peters
+    names:
+      zh: F.惠頓·彼德斯
+      en: F. Whitten Peters
+    gender: M
+    born: 1946-08-20
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+      - military
+    tier: 2
+    summary: American lawyer
+    ids:
+      wikidata: Q5424107
+    links:
+      - https://en.wikipedia.org/wiki/F._Whitten_Peters
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5424107
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國空軍部長
+        org: united-states-department-of-the-air-force
+        from: 1999-07-30
+        to: 2001-01-20
+      - title: 美國空軍部長
+        org: united-states-department-of-the-air-force
+      - title: 美國空軍部長
+        org: united-states-department-of-the-air-force
+        from: 1997-11-01
+        to: 1999-07-30
+  - id: fan-changlong
+    type: person
+    name: 范长龙
+    names:
+      zh: 范长龙
+      en: Fan Changlong
+    gender: M
+    born: 1947-05-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中国共产党中央军事委员会副主席
+    ids:
+      wikidata: Q348143
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%8C%83%E9%95%BF%E9%BE%99
+      - https://en.wikipedia.org/wiki/Fan_Changlong
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q348143
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党中央政治局委员
+        from: 2012-11-15
+        to: 2017-10-25
+  - id: fan-changmi
+    type: person
+    name: 范长秘
+    names:
+      zh: 范长秘
+      en: Fan Changmi
+    gender: M
+    born: "1955"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q16906773
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%8C%83%E9%95%BF%E7%A7%98
+      - https://en.wikipedia.org/wiki/Fan_Changmi
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16906773
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 政治委員
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: fan-chengxiu
+    type: person
+    name: 范承秀
+    names:
+      zh: 范承秀
+      en: Fan Chengxiu
+    gender: F
+    born: "1922"
+    died: 2021-11-23
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    summary: 谷景生的夫人
+    ids:
+      wikidata: Q30947812
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%8C%83%E6%89%BF%E7%A7%80
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30947812
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fan-jin-1919
+    type: person
+    name: 范瑾
+    names:
+      zh: 范瑾
+      en: Fan Jin
+    gender: F
+    born: 1919-09-01
+    died: 2009-01-04
+    country:
+      - CN
+    sectors:
+      - politics
+      - media
+    tier: 5
+    summary: 中国政治人物
+    ids:
+      wikidata: Q7178454
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%8C%83%E7%91%BE
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7178454
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: fan-xiaoguang
+    type: person
+    name: 范晓光
+    names:
+      zh: 范晓光
+    gender: M
+    born: "1945"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8317106
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%8C%83%E6%99%93%E5%85%89
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317106
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: fan-yinhua
+    type: person
+    name: 范印华
+    names:
+      zh: 范印华
+      en: Fan Yinhua
+    gender: M
+    born: "1948"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8317101
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%8C%83%E5%8D%B0%E5%8D%8E
+      - https://en.wikipedia.org/wiki/Fan_Yinhua
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317101
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fang-chih
+    type: person
+    name: 方治
+    names:
+      zh: 方治
+      en: Fang Chih
+    gender: M
+    born: 1895-11-23
+    died: 1989-03-28
+    country:
+      - TW
+      - CN
+    sectors:
+      - politics
+      - military
+      - diplomacy
+    tier: 5
+    summary: Governor, party leader and ambassador (1895-1989)
+    ids:
+      wikidata: Q8273313
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%96%B9%E6%B2%BB
+      - https://en.wikipedia.org/wiki/Fang_Chih
+    tags:
+      - relative
+      - party:Kuomintang
+    attrs:
+      party: Kuomintang
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8273313
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 大使
+        org: diplomatic-corps
+      - title: 中華民國國民大會代表
+        org: national-assembly
+      - title: 制憲國民大會代表
+        org: national-constituent-assembly
+  - id: fang-dianrong
+    type: person
+    name: 方殿荣
+    names:
+      zh: 方殿荣
+      en: Fang Dianrong
+    gender: M
+    born: "1949"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: retired lieutenant general from China
+    ids:
+      wikidata: Q8319917
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%96%B9%E6%AE%BF%E8%8D%A3
+      - https://en.wikipedia.org/wiki/Fang_Dianrong
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319917
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fang-hongwei
+    type: person
+    name: 方红卫
+    names:
+      zh: 方红卫
+      en: Fang Hongwei
+    gender: M
+    born: 1966-06-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共陕西省委原常委、西安市委原书记
+    ids:
+      wikidata: Q97348479
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%96%B9%E7%BA%A2%E5%8D%AB_(%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9)
+      - https://en.wikipedia.org/wiki/Fang_Hongwei
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97348479
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fang-jianguo
+    type: person
+    name: 房建国
+    names:
+      zh: 房建国
+      en: Fang Jianguo
+    gender: M
+    born: "1955"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中国人民解放军中将
+    ids:
+      wikidata: Q8319902
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%88%BF%E5%BB%BA%E5%9B%BD
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319902
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: fang-yongxiang
+    type: person
+    name: 方永祥
+    names:
+      zh: 方永祥
+      en: Fang Yongxiang
+    gender: M
+    born: 1966-08-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 3
+    summary: 中国人民解放军军事人物
+    ids:
+      wikidata: Q30943903
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%96%B9%E6%B0%B8%E7%A5%A5
+      - https://en.wikipedia.org/wiki/Fang_Yongxiang
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30943903
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fatih-ozmen
+    type: person
+    name: Fatih Özmen
+    names:
+      zh: 法提赫・厄茲曼
+      en: Fatih Özmen
+    gender: M
+    born: "1958"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Turkish businessman
+    netWorth:
+      usd: 4700000000
+    ids:
+      wikidata: Q17510160
+    links:
+      - https://en.wikipedia.org/wiki/Fatih_%C3%96zmen
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17510160
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fatima-a-c-h-devolder
+    type: person
+    name: Fatima A.C.H. Devolder
+    names:
+      en: Fatima A.C.H. Devolder
+    gender: F
+    born: 1962-12-22
+    died: 2016-12-23
+    country:
+      - BR
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q115791099
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115791099
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fay-boozman
+    type: person
+    name: Fay Boozman
+    names:
+      zh: 費伊·博茲曼
+      en: Fay Boozman
+    gender: M
+    born: 1946-11-10
+    died: 2005-03-19
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: American politician (1946-2005)
+    ids:
+      wikidata: Q5438901
+    links:
+      - https://en.wikipedia.org/wiki/Fay_Boozman
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5438901
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 阿肯色州參議員
+  - id: federico-pena
+    type: person
+    name: Federico Peña
+    names:
+      zh: 费德里科·佩纳
+      en: Federico Peña
+    gender: M
+    born: 1947-03-15
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: U.S. Secretary of Transportation, 1993-1997
+    ids:
+      wikidata: Q1400546
+    links:
+      - https://en.wikipedia.org/wiki/Federico_Pe%C3%B1a
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 20
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1400546
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国运输部长
+        org: united-states-department-of-transportation
+        from: 1993-01-21
+        to: 1997-02-14
+      - title: 科羅拉多州眾議員
+        org: colorado-house-of-representatives
+      - title: Mayor of Denver, Colorado
+        from: 1983-07-02
+        to: 1991-07-15
+  - id: fei-dongbin
+    type: person
+    name: 费东斌
+    names:
+      zh: 费东斌
+      en: Fei Dongbin
+    gender: M
+    born: 1970-08-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q9346998
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B4%B9%E4%B8%9C%E6%96%8C
+      - https://en.wikipedia.org/wiki/Fei_Dongbin
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9346998
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 国家铁路局局长
+        from: 2022-10-01
+        to: 2025-07-03
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: fei-gaoyun
+    type: person
+    name: 费高云
+    names:
+      zh: 费高云
+      en: Fei Gaoyun
+    gender: M
+    born: 1971-08-06
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q16075917
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B4%B9%E9%AB%98%E4%BA%91
+      - https://en.wikipedia.org/wiki/Fei_Gaoyun
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16075917
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: felix-browder
+    type: person
+    name: Felix Browder
+    names:
+      zh: 菲利克斯·白劳德
+      en: Felix Browder
+    gender: M
+    born: 1927-07-31
+    died: 2016-12-10
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: American mathematician (1927-2016)
+    ids:
+      wikidata: Q1398992
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%88%A9%E5%85%8B%E6%96%AF%C2%B7%E7%99%BD%E5%8A%B3%E5%BE%B7
+      - https://en.wikipedia.org/wiki/Felix_Browder
+    tags:
+      - relative
+    attrs:
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1398992
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: "1999"
+        to: "2000"
+  - id: feng-congde
+    type: person
+    name: 封从德
+    names:
+      zh: 封从德
+      en: Feng Congde
+    gender: M
+    born: 1966-03-05
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    summary: 叛国罪
+    ids:
+      wikidata: Q5443367
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%81%E4%BB%8E%E5%BE%B7
+      - https://en.wikipedia.org/wiki/Feng_Congde
+    tags:
+      - relative
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5443367
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: feng-fei
+    type: person
+    name: 冯飞
+    names:
+      zh: 冯飞
+      en: Feng Fei
+    gender: M
+    born: "1962"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共海南省委书记、海南省人大常委会主任
+    ids:
+      wikidata: Q28411600
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%86%AF%E9%A3%9E
+      - https://en.wikipedia.org/wiki/Feng_Fei_(politician)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28411600
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: feng-yanling
+    type: person
+    name: 冯延龄
+    names:
+      zh: 冯延龄
+    gender: M
+    born: "1939"
+    died: 2024-12-18
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8315323
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%86%AF%E5%BB%B6%E9%BE%84
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315323
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: feng-yongsheng
+    type: person
+    name: 冯永生
+    names:
+      zh: 冯永生
+      en: Feng Yongsheng
+    gender: M
+    born: "1942"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中国人民解放军空军中将
+    ids:
+      wikidata: Q8319666
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%86%AF%E6%B0%B8%E7%94%9F
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319666
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: feng-zhaoju
+    type: person
+    name: 冯兆举
+    names:
+      zh: 冯兆举
+    gender: M
+    born: "1949"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8315309
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%86%AF%E5%85%86%E4%B8%BE
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315309
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fergie-chambers
+    type: person
+    name: Fergie Chambers
+    names:
+      en: Fergie Chambers
+    gender: M
+    born: "1985"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American heir and political activist
+    ids:
+      wikidata: Q125225681
+    links:
+      - https://en.wikipedia.org/wiki/Fergie_Chambers
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q125225681
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fernando-chui
+    type: person
+    name: 崔世安
+    names:
+      zh: 崔世安
+      en: Fernando Chui
+    gender: M
+    born: 1957-01-13
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+    tier: 3
+    summary: 前澳门特别行政区行政长官
+    ids:
+      wikidata: Q222441
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B4%94%E4%B8%96%E5%AE%89
+      - https://en.wikipedia.org/wiki/Fernando_Chui
+    tags:
+      - cn-business
+      - party:Union for Development
+    attrs:
+      party: Union for Development
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q222441
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 澳門特別行政區維護國家安全委員會主席
+        org: committee-for-safeguarding-national-security-of-the-macao-special-administrative
+        from: 2018-09-03
+        to: 2019-12-19
+      - title: 社會文化司司長
+        from: 1999-12-20
+        to: 2009-05-14
+      - title: 澳門特別行政區行政長官
+        from: 2009-12-20
+        to: 2019-12-19
+  - id: fernando-de-leon
+    type: person
+    name: Fernando De Leon
+    names:
+      en: Fernando De Leon
+    gender: M
+    born: 1978-10-01
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 4
+    summary: Mexican American businessman (born 1978)
+    netWorth:
+      usd: 3100000000
+    ids:
+      wikidata: Q133821108
+    links:
+      - https://en.wikipedia.org/wiki/Fernando_De_Leon_(businessman)
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q133821108
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fidji-simo
+    type: person
+    name: Fidji Simo
+    names:
+      en: Fidji Simo
+    gender: F
+    born: 1985-10-05
+    country:
+      - US
+      - FR
+    sectors:
+      - business
+    tier: 4
+    summary: French-American businessperson and CEO
+    ids:
+      wikidata: Q64853019
+    links:
+      - https://en.wikipedia.org/wiki/Fidji_Simo
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q64853019
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 副总统
+        from: 2025-05-01
+        to: 2026-07-01
+      - title: 董事会
+        from: "2021"
+      - title: 首席执行官
+        from: "2021"
+        to: "2025"
+      - title: executive board
+        from: "2024"
+        to: 2026-07-01
+  - id: filemon-vela
+    type: person
+    name: Filemon Vela
+    names:
+      zh: 小菲莱蒙·维拉
+      en: Filemon Vela
+    gender: M
+    born: 1963-02-13
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American politician (born 1963)
+    ids:
+      wikidata: Q4069225
+    links:
+      - https://en.wikipedia.org/wiki/Filemon_Vela_Jr.
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4069225
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+  - id: finnegan-biden
+    type: person
+    name: Finnegan Biden
+    names:
+      zh: 芬尼根·拜登
+      en: Finnegan Biden
+    gender: F
+    born: 2000-09-09
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: granddaughter of U.S. President Joe Biden
+    ids:
+      wikidata: Q100605104
+    links:
+      - https://en.wikipedia.org/wiki/Finnegan_Biden
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100605104
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fok-tsun-yu
+    type: person
+    name: 霍震宇
+    names:
+      zh: 霍震宇
+      en: Fok Tsun-yu
+    gender: M
+    born: "1954"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: 霍英东的第三子
+    ids:
+      wikidata: Q85885217
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9C%8D%E9%9C%87%E5%AE%87
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q85885217
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: forrest-li
+    type: person
+    name: 李小冬
+    names:
+      zh: 李小冬
+      en: Forrest Li
+    gender: M
+    born: "1975"
+    country:
+      - CN
+      - SG
+    sectors:
+      - business
+    tier: 4
+    summary: Singaporean businessman
+    ids:
+      wikidata: Q61974364
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%B0%8F%E5%86%AC
+      - https://en.wikipedia.org/wiki/Forrest_Li
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q61974364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: forrest-mars
+    type: person
+    name: Forrest Mars
+    names:
+      zh: 小福雷斯特·瑪氏
+      en: Forrest Mars
+    gender: M
+    born: 1931-08-16
+    died: 2016-07-26
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: grandson of Frank C. Mars and American billionaire (1931–2016)
+    ids:
+      wikidata: Q1395404
+    links:
+      - https://en.wikipedia.org/wiki/Forrest_Mars_Jr.
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1395404
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: forrest-mars-1904
+    type: person
+    name: Forrest Mars
+    names:
+      zh: 老福雷斯特·瑪氏
+      en: Forrest Mars
+    gender: M
+    born: 1904-03-21
+    died: 1999-07-01
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American businessman (1904–1999)
+    ids:
+      wikidata: Q2578399
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%80%81%E7%A6%8F%E9%9B%B7%E6%96%AF%E7%89%B9%C2%B7%E7%91%AA%E6%B0%8F
+      - https://en.wikipedia.org/wiki/Forrest_Mars_Sr.
+    tags:
+      - relative
+    attrs:
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2578399
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fran-dewine
+    type: person
+    name: Fran DeWine
+    names:
+      en: Fran DeWine
+    gender: F
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: First Lady of Ohio
+    ids:
+      wikidata: Q111903125
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111903125
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: First Lady of Ohio
+        org: family-of-the-governor-of-ohio
+        from: 2019-01-14
+  - id: frances-wolf
+    type: person
+    name: Frances Wolf
+    names:
+      zh: 弗朗西斯·沃爾夫
+      en: Frances Wolf
+    gender: F
+    born: "1952"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American visual artist
+    ids:
+      wikidata: Q44146975
+    links:
+      - https://en.wikipedia.org/wiki/Frances_Wolf
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q44146975
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: francis-biden
+    type: person
+    name: Francis Biden
+    names:
+      zh: 弗朗西斯·拜登
+      en: Francis Biden
+    gender: M
+    born: 1946-11-25
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: brother of U.S. President Joe Biden
+    ids:
+      wikidata: Q100741824
+    links:
+      - https://en.wikipedia.org/wiki/Frank_Biden
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100741824
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: francis-collins
+    type: person
+    name: Francis Collins
+    names:
+      zh: 弗朗西斯·柯林斯
+      en: Francis Collins
+    gender: M
+    born: 1950-04-14
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American geneticist and director of the National Institutes of Health
+    ids:
+      wikidata: Q336658
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E6%96%AF%C2%B7%E6%9F%AF%E6%9E%97%E6%96%AF
+      - https://en.wikipedia.org/wiki/Francis_Collins
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 44
+    sources:
+      - url: https://www.wikidata.org/wiki/Q336658
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主管
+        from: 2009-08-17
+        to: 2021-12-19
+      - title: 總統科學顧問
+        org: us-cabinet
+        from: 2022-02-18
+        to: 2022-10-03
+  - id: francis-j-harvey
+    type: person
+    name: Francis J. Harvey
+    names:
+      zh: 法蘭西斯·J·哈維
+      en: Francis J. Harvey
+    gender: M
+    born: 1943-07-08
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: former secretary of the United States Army
+    ids:
+      wikidata: Q1294838
+    links:
+      - https://en.wikipedia.org/wiki/Francis_J._Harvey
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1294838
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国陆军部长
+        org: united-states-department-of-the-army
+        from: 2004-11-19
+        to: 2007-03-09
+  - id: francis-tien
+    type: person
+    name: 田元灝
+    names:
+      zh: 田元灝
+      en: Francis Tien
+    gender: M
+    born: "1915"
+    died: "1992"
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    summary: Hong Kong entrepreneur and politician
+    ids:
+      wikidata: Q15969689
+    links:
+      - https://en.wikipedia.org/wiki/Francis_Tien
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15969689
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: frank-carlucci
+    type: person
+    name: Frank Carlucci
+    names:
+      zh: 弗兰克·卡鲁奇
+      en: Frank Carlucci
+    gender: M
+    born: 1930-10-18
+    died: 2018-06-03
+    country:
+      - US
+    sectors:
+      - politics
+      - diplomacy
+    tier: 2
+    summary: 美國政治人物 (1930–2018)
+    ids:
+      wikidata: Q518861
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BC%97%E8%98%AD%E5%85%8B%C2%B7%E5%8D%A1%E9%AD%AF%E5%A5%87
+      - https://en.wikipedia.org/wiki/Frank_Carlucci
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q518861
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国国防部长
+        org: united-states-department-of-defense
+        from: 1987-11-23
+        to: 1989-01-20
+      - title: 总统国家安全事务助理
+        org: united-states-national-security-council
+        from: 1986-12-02
+        to: 1987-11-23
+      - title: 美国国防部副部长
+        org: united-states-department-of-defense
+        from: 1981-02-04
+        to: 1982-12-31
+      - title: 中央情報局副局長
+        org: central-intelligence-agency
+        from: 1978-02-05
+        to: 1981-02-04
+      - title: United States Ambassador to Portugal
+        from: 1974-12-09
+        to: 1978-02-05
+  - id: frank-g-wisner
+    type: person
+    name: Frank G. Wisner
+    names:
+      zh: 弗蘭克·威斯納
+      en: Frank G. Wisner
+    gender: M
+    born: 1938-07-02
+    died: 2025-02-24
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+      - diplomacy
+    tier: 2
+    summary: American diplomat, politician (1938–2025)
+    ids:
+      wikidata: Q981007
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BC%97%E5%85%B0%E5%85%8B%C2%B7%E5%A8%81%E6%96%AF%E7%BA%B3
+      - https://en.wikipedia.org/wiki/Frank_G._Wisner
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q981007
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国国务卿
+        org: united-states-department-of-state
+        from: 1993-01-20
+        to: 1993-01-20
+      - title: 会长
+        org: organization
+      - title: 美國駐印度大使
+        org: embassy-of-the-united-states-new-delhi
+        from: 1994-06-09
+        to: 1997-07-12
+      - title: 美國駐菲律賓大使
+        org: embassy-of-the-united-states-in-manila
+        from: 1991-08-16
+        to: 1992-06-10
+      - title: 美国国防部政策次长
+        org: office-of-the-under-secretary-of-defense-for-policy
+        from: 1993-02-23
+        to: 1994-06-09
+      - title: 美國國務院軍備控制和國際安全事務次卿
+        from: 1992-07-20
+        to: 1993-01-19
+      - title: United States Ambassador to Zambia
+        from: 1979-08-02
+        to: 1982-04-19
+      - title: United States Ambassador to Egypt
+        from: 1986-08-18
+        to: 1991-06-06
+  - id: frank-j-mrvan
+    type: person
+    name: Frank J. Mrvan
+    names:
+      zh: 弗蘭克·J·穆爾萬
+      en: Frank J. Mrvan
+    gender: M
+    born: 1969-04-16
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q96077897
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BC%97%E8%98%AD%E5%85%8B%C2%B7J%C2%B7%E7%A9%86%E7%88%BE%E8%90%AC
+      - https://en.wikipedia.org/wiki/Frank_J._Mrvan
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96077897
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+  - id: frank-kelso
+    type: person
+    name: Frank Kelso
+    names:
+      zh: 弗兰克·凯尔索
+      en: Frank Kelso
+    gender: M
+    born: 1933-07-11
+    died: 2013-06-23
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+    tier: 2
+    summary: American Navy admiral (1933–2013)
+    ids:
+      wikidata: Q464685
+    links:
+      - https://en.wikipedia.org/wiki/Frank_Kelso
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q464685
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 大西洋盟軍最高統帥
+        org: nato
+        from: 1988-11-22
+        to: 1990-05-18
+      - title: 美国海军作战部长
+        org: united-states-navy
+        from: 1990-06-29
+        to: 1994-04-23
+      - title: 美国海军部长
+        org: united-states-department-of-the-navy
+        from: 1993-01-20
+        to: 1993-07-21
+  - id: frank-kendall-iii
+    type: person
+    name: Frank Kendall III
+    names:
+      zh: 弗蘭克·肯德爾
+      en: Frank Kendall III
+    gender: M
+    born: 1949-01-26
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: 第26任美國空軍部長
+    ids:
+      wikidata: Q5487663
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BC%97%E8%98%AD%E5%85%8B%C2%B7%E8%82%AF%E5%BE%B7%E7%88%BE%E4%B8%89%E4%B8%96
+      - https://en.wikipedia.org/wiki/Frank_Kendall_III
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5487663
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國空軍部長
+        org: united-states-department-of-the-air-force
+        from: 2021-07-28
+  - id: frank-l-culbertson
+    type: person
+    name: Frank L. Culbertson
+    names:
+      zh: 弗兰克·卡伯特森
+      en: Frank L. Culbertson
+    gender: M
+    born: 1949-05-15
+    country:
+      - US
+    sectors:
+      - business
+      - military
+    tier: 4
+    summary: Astronaut, United States Navy captain
+    ids:
+      wikidata: Q705636
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BC%97%E8%98%AD%E5%85%8B%C2%B7%E5%8D%A1%E4%BC%AF%E7%89%B9%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Frank_L._Culbertson_Jr.
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q705636
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: ISS Expedition commander
+        from: 2001-08-12
+        to: 2001-12-15
+  - id: frank-lucas
+    type: person
+    name: Frank Lucas
+    names:
+      zh: 弗蘭克·盧卡斯
+      en: Frank Lucas
+    gender: M
+    born: 1960-01-06
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1960)
+    ids:
+      wikidata: Q246049
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BC%97%E5%85%B0%E5%85%8B%C2%B7%E5%8D%A2%E5%8D%A1%E6%96%AF_(%E4%BF%84%E5%85%8B%E6%8B%89%E8%8D%B7%E9%A9%AC%E5%B7%9E)
+      - https://en.wikipedia.org/wiki/Frank_Lucas_(Oklahoma_politician)
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q246049
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 党主席
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1994-05-10
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 俄克拉荷馬州眾議員
+        org: oklahoma-house-of-representatives
+        from: "1988"
+        to: "1994"
+  - id: frank-mrvan
+    type: person
+    name: Frank Mrvan
+    names:
+      en: Frank Mrvan
+    gender: M
+    born: 1933-04-11
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q5488569
+    links:
+      - https://en.wikipedia.org/wiki/Frank_Mrvan_Jr.
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5488569
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 印第安納州參議員
+        org: indiana-senate
+        from: 1998-11-01
+        to: 2022-01-11
+      - title: 印第安納州參議員
+        org: indiana-senate
+        from: 1978-11-01
+        to: 1994-11-01
+  - id: frank-murkowski
+    type: person
+    name: Frank Murkowski
+    names:
+      zh: 法蘭克·穆考斯基
+      en: Frank Murkowski
+    gender: M
+    born: 1933-03-28
+    country:
+      - US
+    sectors:
+      - business
+      - politics
+      - finance
+    tier: 4
+    summary: American politician in Alaska (born 1933)
+    ids:
+      wikidata: Q448813
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E5%85%8B%C2%B7%E7%A9%86%E8%80%83%E6%96%AF%E5%9F%BA
+      - https://en.wikipedia.org/wiki/Frank_Murkowski
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q448813
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 会长
+        org: organization
+        to: "1977"
+      - title: 美国参议员
+        org: us-senate
+        from: 1981-01-03
+        to: 1983-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1993-01-03
+        to: 1995-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1983-01-03
+        to: 1985-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1985-01-03
+        to: 1987-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1999-01-03
+        to: 2001-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1995-01-03
+        to: 1997-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2001-01-03
+        to: 2002-12-02
+      - title: 美國參議員
+        org: us-senate
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1997-01-03
+        to: 1999-01-03
+      - title: 阿拉斯加州州长
+        org: state-of-alaska
+        from: 2002-12-02
+        to: 2006-12-04
+  - id: frank-pallone
+    type: person
+    name: Frank Pallone
+    names:
+      zh: 弗蘭克·帕隆
+      en: Frank Pallone
+    gender: M
+    born: 1951-10-30
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American lawyer and politician (born 1951)
+    ids:
+      wikidata: Q965289
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BC%97%E8%98%AD%E5%85%8B%C2%B7%E5%B8%95%E9%9A%86
+      - https://en.wikipedia.org/wiki/Frank_Pallone
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q965289
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 成员
+        org: membership-organization
+        from: "1982"
+        to: "1988"
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1988-11-08
+        to: 1989-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 新澤西州參議員
+        org: new-jersey-senate
+        from: "1983"
+        to: "1988"
+  - id: frank-pattee
+    type: person
+    name: Frank Pattee
+    names:
+      en: Frank Pattee
+    gender: M
+    born: 1924-03-11
+    died: 2011-01-05
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American football player (1924-2011)
+    ids:
+      wikidata: Q5488916
+    links:
+      - https://en.wikipedia.org/wiki/Frank_Pattee
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5488916
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: frank-wisner
+    type: person
+    name: Frank Wisner
+    names:
+      zh: 弗兰克·威斯纳
+      en: Frank Wisner
+    gender: M
+    born: 1909-06-23
+    died: 1965-10-29
+    country:
+      - US
+    sectors:
+      - judiciary
+      - military
+    tier: 4
+    summary: Head of CIA department (1909–1965)
+    ids:
+      wikidata: Q1313258
+    links:
+      - https://en.wikipedia.org/wiki/Frank_Wisner
+    tags:
+      - relative
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1313258
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中情局行動副局長
+        from: "1951"
+        to: "1959"
+  - id: frank-wood
+    type: person
+    name: Frank Wood
+    names:
+      zh: 法蘭克·伍德
+      en: Frank Wood
+    gender: M
+    born: 1960-03-06
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: 美國演員
+    ids:
+      wikidata: Q3082862
+    links:
+      - https://en.wikipedia.org/wiki/Frank_Wood_(actor)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3082862
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: franz-weidenreich
+    type: person
+    name: Franz Weidenreich
+    names:
+      zh: 魏敦瑞
+      en: Franz Weidenreich
+    gender: M
+    born: 1873-06-07
+    died: 1948-07-11
+    country: []
+    sectors:
+      - academia
+    tier: 4
+    summary: German anatomist (1873–1948)
+    ids:
+      wikidata: Q63344
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%AD%8F%E6%95%A6%E7%91%9E
+      - https://en.wikipedia.org/wiki/Franz_Weidenreich
+    tags:
+      - relative
+    attrs:
+      sitelinks: 21
+    sources:
+      - url: https://www.wikidata.org/wiki/Q63344
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 教授
+  - id: fred-chase-koch
+    type: person
+    name: Fred Chase Koch
+    names:
+      zh: 弗雷德·C·科赫
+      en: Fred Chase Koch
+    gender: M
+    born: 1900-09-23
+    died: 1967-11-17
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American chemical engineer and entrepreneur (1900–1967)
+    ids:
+      wikidata: Q338986
+    links:
+      - https://en.wikipedia.org/wiki/Fred_C._Koch
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q338986
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fred-keller
+    type: person
+    name: Fred Keller
+    names:
+      en: Fred Keller
+    gender: M
+    born: 1965-10-23
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1965)
+    ids:
+      wikidata: Q5495642
+    links:
+      - https://en.wikipedia.org/wiki/Fred_Keller_(politician)
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5495642
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2019-05-21
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 賓夕法尼亞州眾議員
+        org: pennsylvania-house-of-representatives
+        from: 2011-01-04
+        to: 2019-05-22
+  - id: fred-trump
+    type: person
+    name: Fred Trump
+    names:
+      zh: 弗雷德·特朗普
+      en: Fred Trump
+    gender: M
+    born: 1905-10-11
+    died: 1999-06-25
+    country:
+      - US
+    sectors:
+      - business
+      - finance
+    tier: 3
+    summary: 美国房地产商人，唐纳德·特朗普的父亲
+    ids:
+      wikidata: Q3752663
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E7%89%B9%E6%9C%97%E6%99%AE
+      - https://en.wikipedia.org/wiki/Fred_Trump
+    tags:
+      - relative
+    attrs:
+      sitelinks: 47
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3752663
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fred-trump-iii
+    type: person
+    name: Fred Trump III
+    names:
+      en: Fred Trump III
+    gender: M
+    born: 1962-11-15
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: nephew of Donald Trump
+    ids:
+      wikidata: Q97069699
+    links:
+      - https://en.wikipedia.org/wiki/Fred_Trump_III
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97069699
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fred-trump-jr
+    type: person
+    name: Fred Trump Jr.
+    names:
+      zh: 小弗雷德·特朗普
+      en: Fred Trump Jr.
+    gender: M
+    born: 1938-10-14
+    died: 1981-09-26
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: American airplane pilot; elder brother of Donald Trump
+    ids:
+      wikidata: Q42682724
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E7%89%B9%E6%9C%97%E6%99%AE
+      - https://en.wikipedia.org/wiki/Fred_Trump_Jr.
+    tags:
+      - relative
+    attrs:
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q42682724
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fred-upton
+    type: person
+    name: Fred Upton
+    names:
+      zh: 弗雷德·亞普頓
+      en: Fred Upton
+    gender: M
+    born: 1953-04-23
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: United States Representative from Michigan
+    ids:
+      wikidata: Q505236
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E9%98%BF%E6%99%AE%E9%A0%93
+      - https://en.wikipedia.org/wiki/Fred_Upton
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q505236
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1987-01-03
+        to: 1993-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+  - id: frederic-b-ingram
+    type: person
+    name: Frederic B. Ingram
+    names:
+      en: Frederic B. Ingram
+    gender: M
+    died: 2015-08-26
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman
+    ids:
+      wikidata: Q20657031
+    links:
+      - https://en.wikipedia.org/wiki/Frederic_B._Ingram
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20657031
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: frederica-wilson
+    type: person
+    name: Frederica Wilson
+    names:
+      zh: 弗雷德里卡·威尔逊
+      en: Frederica Wilson
+    gender: F
+    born: 1942-11-05
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: U.S. Representative from Florida
+    ids:
+      wikidata: Q461504
+    links:
+      - https://en.wikipedia.org/wiki/Frederica_Wilson
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q461504
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 成员
+        org: membership-organization
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 佛羅里達州眾議員
+        org: florida-house-of-representatives
+        from: "1998"
+        to: "2002"
+      - title: 佛羅里達州參議員
+        org: florida-senate
+        from: "2002"
+        to: "2010"
+  - id: frederick-ayer
+    type: person
+    name: Frederick Ayer
+    names:
+      en: Frederick Ayer
+    gender: M
+    born: 1822-12-08
+    died: 1918-03-14
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: 美國商人
+    ids:
+      wikidata: Q5497309
+    links:
+      - https://en.wikipedia.org/wiki/Frederick_Ayer
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5497309
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: frederick-r-koch
+    type: person
+    name: Frederick R. Koch
+    names:
+      zh: 弗雷德里克·羅賓遜·科赫
+      en: Frederick R. Koch
+    gender: M
+    born: 1933-08-26
+    died: 2020-02-12
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American philanthropist (1933–2020)
+    ids:
+      wikidata: Q5498590
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BC%97%E9%9B%B7%E5%BE%B7%E9%87%8C%E5%85%8B%C2%B7%E7%BE%85%E8%B3%93%E9%81%9C%C2%B7%E7%A7%91%E8%B5%AB
+      - https://en.wikipedia.org/wiki/Frederick_R._Koch
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5498590
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: frederik-meijer
+    type: person
+    name: Frederik Meijer
+    names:
+      en: Frederik Meijer
+    gender: M
+    born: 1919-07-12
+    died: 2011-11-25
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman (1919–2011)
+    ids:
+      wikidata: Q2422074
+    links:
+      - https://en.wikipedia.org/wiki/Frederik_Meijer
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2422074
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: french-hill
+    type: person
+    name: French Hill
+    names:
+      zh: 弗蘭奇·希爾
+      en: French Hill
+    gender: M
+    born: 1956-12-05
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+      - finance
+    tier: 4
+    summary: American politician (born 1956)
+    ids:
+      wikidata: Q18631366
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%BC%97%E5%80%AB%E5%A5%87%C2%B7%E5%B8%8C%E7%88%BE
+      - https://en.wikipedia.org/wiki/French_Hill_(politician)
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 14
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18631366
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: assistant secretary
+        from: "1989"
+        to: "1991"
+  - id: fu-aiguo
+    type: person
+    name: Fu Aiguo
+    names:
+      zh: 傅爱国
+      en: Fu Aiguo
+    gender: M
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 3
+    summary: 中国人民解放军人物
+    ids:
+      wikidata: Q114818693
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%82%85%E7%88%B1%E5%9B%BD
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q114818693
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fu-bingyao
+    type: person
+    name: 傅秉耀
+    names:
+      zh: 傅秉耀
+    gender: M
+    born: "1940"
+    died: 2022-05-31
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8315275
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%82%85%E7%A7%89%E8%80%80
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8315275
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fu-chengyu
+    type: person
+    name: 傅成玉
+    names:
+      zh: 傅成玉
+      en: Fu Chengyu
+    gender: M
+    born: "1951"
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: Chinese entrepreneur and politician
+    ids:
+      wikidata: Q1412982
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%82%85%E6%88%90%E7%8E%89
+      - https://en.wikipedia.org/wiki/Fu_Chengyu
+    tags:
+      - cn-business
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1412982
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: fu-hongji
+    type: person
+    name: 傅鸿基
+    names:
+      zh: 傅鸿基
+    gender: M
+    born: "1935"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8318923
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%82%85%E9%B8%BF%E5%9F%BA
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8318923
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fu-hua
+    type: person
+    name: 傅华
+    names:
+      zh: 傅华
+      en: Fu Hua
+    gender: M
+    born: "1964"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 新华通讯社社长
+    ids:
+      wikidata: Q51884838
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%82%85%E5%8D%8E
+      - https://en.wikipedia.org/wiki/Fu_Hua
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q51884838
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fu-wenhua
+    type: person
+    name: 付文化
+    names:
+      zh: 付文化
+      en: Fu Wenhua
+    gender: M
+    born: "1965"
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 3
+    summary: 中国人民解放军陆军副司令员，陆军中将
+    ids:
+      wikidata: Q47666577
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BB%98%E6%96%87%E5%8C%96
+      - https://en.wikipedia.org/wiki/Fu_Wenhua
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47666577
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: fung-hon-chu
+    type: person
+    name: Fung Hon Chu
+    names:
+      zh: 冯汉柱
+      en: Fung Hon Chu
+    gender: M
+    born: 1911-01-27
+    died: 1994-08-09
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: Hong Kong businessman
+    ids:
+      wikidata: Q19801607
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%A6%AE%E6%BC%A2%E6%9F%B1
+      - https://en.wikipedia.org/wiki/Fung_Hon-chu
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19801607
+        publisher: Wikidata
+        accessed: 2026-10-11

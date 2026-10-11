@@ -1,0 +1,99 @@
+id: case-pla-purge
+kind: case
+name: 解放军高层清洗（2023–2026）
+names:
+  en: PLA leadership purge 2023–2026
+country: CN
+head: zhang-shengmin
+summary: |-
+  2023 年火箭军与装备系统高层被清洗（李尚福、魏凤和 2024-06 被开除党籍）；2024-11 苗华停职；2025-10-17 国防部宣布何卫东、苗华等 9 名上将被开除党籍军籍（二十届四中全会前）；2026-01 军委第一副主席张又侠、联参参谋长刘振立被立案审查，2026-09-21 被开除党籍军籍。
+  至此第二十届中央军委原 7 人中仅习近平与张升民（军委纪委书记，2025-10 升任副主席）未落马。张升民主导军内纪检。
+core:
+- zhang-youxia
+- he-weidong
+- liu-zhenli
+- miao-hua
+- li-shangfu
+- wei-fenghe
+- he-hongjun
+- wang-xiubin
+- lin-xiangyang
+- qin-shutong
+- yuan-huazhi
+- wang-houbin
+- wang-chunning
+outer:
+- xi-jinping
+- zhang-shengmin
+- ccp-cmc
+sources:
+- url: https://www.news.cn/politics/20251017/e3b7c97972174ad1a4d9cd53ec87dd7b/c.html
+  title: 国防部：何卫东、苗华等 9 人被开除党籍军籍（新华社）
+  publisher: 新华网
+  date: '2025-10-17'
+- url: https://www.stheadline.com/zh-hans/realtime-china/3509826/何卫东等9上将遭惩-拆局四中或涉军委调整
+  title: 何卫东等9上将遭惩
+  publisher: 星岛日报
+  date: '2025-10-17'
+- url: https://jamestown.org/cronyism-and-failed-promotions-xis-pla-purge/
+  title: 'Cronyism and Failed Promotions: Xi''s PLA Purge'
+  publisher: Jamestown Foundation
+confidence: confirmed
+relations:
+- - ccp-cmc
+  - legal
+  - he-weidong
+  - 2025-10-17 开除党籍军籍
+- - ccp-cmc
+  - legal
+  - miao-hua
+  - 2025-10-17 开除党籍军籍
+- - ccp-cmc
+  - legal
+  - he-hongjun
+  - 2025-10-17 开除党籍军籍
+- - ccp-cmc
+  - legal
+  - wang-xiubin
+  - 2025-10-17 开除党籍军籍
+- - ccp-cmc
+  - legal
+  - lin-xiangyang
+  - 2025-10-17 开除党籍军籍
+- - ccp-cmc
+  - legal
+  - qin-shutong
+  - 2025-10-17 开除党籍军籍
+- - ccp-cmc
+  - legal
+  - yuan-huazhi
+  - 2025-10-17 开除党籍军籍
+- - ccp-cmc
+  - legal
+  - wang-houbin
+  - 2025-10-17 开除党籍军籍
+- - ccp-cmc
+  - legal
+  - wang-chunning
+  - 2025-10-17 开除党籍军籍
+- - ccp-cmc
+  - legal
+  - liu-zhenli
+  - 2026-01 立案，2026-09-21 开除党籍军籍
+- - ccp-cmc
+  - legal
+  - li-shangfu
+  - 2024-06 开除党籍
+- - ccp-cmc
+  - legal
+  - wei-fenghe
+  - 2024-06 开除党籍
+- - zhang-shengmin
+  - position
+  - ccp-cmc
+  - 军委纪委书记（主导军内反腐）
+tags:
+- case
+- purge
+- military
+updated: '2026-10-11'

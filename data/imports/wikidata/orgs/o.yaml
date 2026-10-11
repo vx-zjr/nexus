@@ -1,0 +1,1397 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: o-melveny-and-myers
+    type: org
+    name: O'Melveny & Myers
+    names:
+      en: O'Melveny & Myers
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: international law firm based in Los Angeles
+    ids:
+      wikidata: Q7071872
+    links:
+      - https://en.wikipedia.org/wiki/O'Melveny_%26_Myers
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7071872
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: o-reilly-media
+    type: org
+    name: O’Reilly Media
+    names:
+      zh: 奥莱理
+      en: O’Reilly Media
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国出版公司
+    ids:
+      wikidata: Q1065097
+    links:
+      - https://en.wikipedia.org/wiki/O'Reilly_Media
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1065097
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: oak-hill-capital-partners
+    type: org
+    name: Oak Hill Capital Partners
+    names:
+      zh: 橡树山资本合伙人
+      en: Oak Hill Capital Partners
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American private equity firm
+    ids:
+      wikidata: Q7073563
+    links:
+      - https://en.wikipedia.org/wiki/Oak_Hill_Capital_Partners
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7073563
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: oak-ridge-high-school
+    type: org
+    name: Oak Ridge High School
+    names:
+      en: Oak Ridge High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American public high school in Tennessee
+    ids:
+      wikidata: Q7073699
+    links:
+      - https://en.wikipedia.org/wiki/Oak_Ridge_High_School_(Tennessee)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7073699
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: obama-foundation
+    type: org
+    name: Obama Foundation
+    names:
+      zh: 奥巴马基金会
+      en: Obama Foundation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Chicago-based nonprofit organization founded in 2014
+    ids:
+      wikidata: Q54874476
+    links:
+      - https://en.wikipedia.org/wiki/Obama_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q54874476
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: obama-foundation-global-leaders-program
+    type: org
+    name: Obama Foundation Global Leaders Program
+    names:
+      en: Obama Foundation Global Leaders Program
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: Global Organization
+    ids:
+      wikidata: Q114550776
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q114550776
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: obi-worldphone
+    type: org
+    name: Obi Worldphone
+    names:
+      en: Obi Worldphone
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Silicon Valley smartphone manufacturer
+    ids:
+      wikidata: Q20971816
+    links:
+      - https://en.wikipedia.org/wiki/Obi_Worldphone
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20971816
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: observer-media
+    type: org
+    name: Observer Media
+    names:
+      zh: 观察者媒体
+      en: Observer Media
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American online media company, founded 2007
+    ids:
+      wikidata: Q28206908
+    links:
+      - https://en.wikipedia.org/wiki/Observer_Media
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28206908
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: occidental-college
+    type: org
+    name: Occidental College
+    names:
+      zh: 西方学院
+      en: Occidental College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国洛杉矶的一所大学
+    ids:
+      wikidata: Q1346110
+    links:
+      - https://en.wikipedia.org/wiki/Occidental_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1346110
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: oceanco
+    type: org
+    name: Oceanco
+    names:
+      en: Oceanco
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Dutch custom yacht builder
+    ids:
+      wikidata: Q3348682
+    links:
+      - https://en.wikipedia.org/wiki/Oceanco
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3348682
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: oceangate-inc
+    type: org
+    name: OceanGate, Inc.
+    names:
+      zh: 海洋之門
+      en: OceanGate, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 一家位于美国华盛顿州埃弗里特的私人公司
+    ids:
+      wikidata: Q24190631
+    links:
+      - https://en.wikipedia.org/wiki/OceanGate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24190631
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: odeo
+    type: org
+    name: Odeo
+    names:
+      en: Odeo
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: website (2005–2017)
+    ids:
+      wikidata: Q782242
+    links:
+      - https://en.wikipedia.org/wiki/Odeo
+    sources:
+      - url: https://www.wikidata.org/wiki/Q782242
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: office-of-economic-opportunity
+    type: org
+    name: Office of Economic Opportunity
+    names:
+      zh: 经济机会局
+      en: Office of Economic Opportunity
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: US American government entity
+    ids:
+      wikidata: Q7079208
+    links:
+      - https://en.wikipedia.org/wiki/Office_of_Economic_Opportunity
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7079208
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: office-of-management-and-budget
+    type: org
+    name: Office of Management and Budget
+    names:
+      zh: 美国行政管理和预算局
+      en: Office of Management and Budget
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 艾森豪威尔行政办公楼
+    ids:
+      wikidata: Q284392
+    links:
+      - https://en.wikipedia.org/wiki/Office_of_Management_and_Budget
+    sources:
+      - url: https://www.wikidata.org/wiki/Q284392
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: office-of-public-liaison
+    type: org
+    name: Office of Public Liaison
+    names:
+      zh: 公共參與和政府間事務辦公室
+      en: Office of Public Liaison
+    orgType: government
+    country: []
+    sectors:
+      - politics
+    tier: 4
+    summary: U.S. presidential liaison with interest groups, NGOs, the public apart from the press
+    ids:
+      wikidata: Q7994899
+    links:
+      - https://en.wikipedia.org/wiki/White_House_Office_of_Public_Liaison
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7994899
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: office-of-the-chief-of-naval-operations
+    type: org
+    name: Office of the Chief of Naval Operations
+    names:
+      en: Office of the Chief of Naval Operations
+    orgType: military
+    country:
+      - US
+    sectors:
+      - military
+    tier: 4
+    summary: US Navy office
+    ids:
+      wikidata: Q140087782
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q140087782
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: office-of-the-director-of-national-intelligence
+    type: org
+    name: Office of the Director of National Intelligence
+    names:
+      en: Office of the Director of National Intelligence
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: U.S. government national security agency
+    ids:
+      wikidata: Q22222677
+    links:
+      - https://en.wikipedia.org/wiki/Office_of_the_Director_of_National_Intelligence
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22222677
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: office-of-the-general-counsel-of-the-department-of-defense
+    type: org
+    name: Office of the General Counsel of the Department of Defense
+    names:
+      en: Office of the General Counsel of the Department of Defense
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: US government agency
+    ids:
+      wikidata: Q79251141
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q79251141
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: office-of-the-governor-of-new-york
+    type: org
+    name: Office of the Governor of New York
+    names:
+      en: Office of the Governor of New York
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: New York State government agency
+    ids:
+      wikidata: Q136653260
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136653260
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: office-of-the-secretary-of-state-of-california
+    type: org
+    name: Office of the Secretary of State of California
+    names:
+      en: Office of the Secretary of State of California
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: California government agency
+    ids:
+      wikidata: Q141105514
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q141105514
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: office-of-the-secretary-of-the-navy
+    type: org
+    name: Office of the Secretary of the Navy
+    names:
+      en: Office of the Secretary of the Navy
+    orgType: military
+    country:
+      - US
+    sectors:
+      - military
+    tier: 4
+    summary: US Navy office
+    ids:
+      wikidata: Q139761112
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q139761112
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: office-of-the-under-secretary-of-defense-for-policy
+    type: org
+    name: Office of the Under Secretary of Defense for Policy
+    names:
+      en: Office of the Under Secretary of Defense for Policy
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: U.S. defense office
+    ids:
+      wikidata: Q123224495
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q123224495
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: office-of-the-united-states-trade-representative
+    type: org
+    name: Office of the United States Trade Representative
+    names:
+      zh: 美国贸易代表处
+      en: Office of the United States Trade Representative
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國聯邦政府機關
+    ids:
+      wikidata: Q1574977
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Trade_Representative
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1574977
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: office-on-violence-against-women
+    type: org
+    name: Office on Violence Against Women
+    names:
+      zh: 妇女暴力办公室
+      en: Office on Violence Against Women
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: US agency with mission to respond to and reduce violence against women
+    ids:
+      wikidata: Q7079431
+    links:
+      - https://en.wikipedia.org/wiki/Office_on_Violence_Against_Women
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7079431
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ohhh-alright
+    type: org
+    name: Ohhh...Alright...
+    names:
+      en: Ohhh...Alright...
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Roy Lichtenstein
+    ids:
+      wikidata: Q7080663
+    links:
+      - https://en.wikipedia.org/wiki/Ohhh...Alright...
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7080663
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ohio-house-of-representatives
+    type: org
+    name: Ohio House of Representatives
+    names:
+      zh: 俄亥俄州众议院
+      en: Ohio House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the Ohio General Assembly
+    ids:
+      wikidata: Q277228
+    links:
+      - https://en.wikipedia.org/wiki/Ohio_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q277228
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ohio-northern-university
+    type: org
+    name: Ohio Northern University
+    names:
+      zh: 北俄亥俄州大學
+      en: Ohio Northern University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private, United Methodist Church-affiliated university in Ada, Ohio, U.S.
+    ids:
+      wikidata: Q1683585
+    links:
+      - https://en.wikipedia.org/wiki/Ohio_Northern_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1683585
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ohio-secretary-of-state-s-office
+    type: org
+    name: Ohio Secretary of State's Office
+    names:
+      en: Ohio Secretary of State's Office
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: office of the government of the U.S. state of Ohio
+    ids:
+      wikidata: Q141514407
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q141514407
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ohio-senate
+    type: org
+    name: Ohio Senate
+    names:
+      zh: 俄亥俄州参议院
+      en: Ohio Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Upper House of the Ohio-legislature
+    ids:
+      wikidata: Q1656259
+    links:
+      - https://en.wikipedia.org/wiki/Ohio_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1656259
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ohio-state-university
+    type: org
+    name: Ohio State University
+    names:
+      zh: 俄亥俄州立大学
+      en: Ohio State University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 位于美国俄亥俄州哥伦布的公立研究型大学
+    ids:
+      wikidata: Q309331
+    links:
+      - https://en.wikipedia.org/wiki/Ohio_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q309331
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ohio-university
+    type: org
+    name: Ohio University
+    names:
+      zh: 俄亥俄大学
+      en: Ohio University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 公立研究性大学
+    ids:
+      wikidata: Q1075339
+    links:
+      - https://en.wikipedia.org/wiki/Ohio_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1075339
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: oklahoma-house-of-representatives
+    type: org
+    name: Oklahoma House of Representatives
+    names:
+      zh: 俄克拉何马州众议院
+      en: Oklahoma House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of U.S. state legislature
+    ids:
+      wikidata: Q910886
+    links:
+      - https://en.wikipedia.org/wiki/Oklahoma_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q910886
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: oklahoma-senate
+    type: org
+    name: Oklahoma Senate
+    names:
+      zh: 俄克拉何马州参议院
+      en: Oklahoma Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper state chamber of Oklahoma
+    ids:
+      wikidata: Q910898
+    links:
+      - https://en.wikipedia.org/wiki/Oklahoma_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q910898
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: oklahoma-state-university
+    type: org
+    name: Oklahoma State University
+    names:
+      zh: 奧克拉荷馬州立大學
+      en: Oklahoma State University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国俄克拉何马州斯蒂尔沃特的四年制公立大学
+    ids:
+      wikidata: Q749718
+    links:
+      - https://en.wikipedia.org/wiki/Oklahoma_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q749718
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: oklo
+    type: org
+    name: Oklo
+    names:
+      zh: Oklo公司
+      en: Oklo
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American nuclear startup company
+    ids:
+      wikidata: Q110706493
+    links:
+      - https://en.wikipedia.org/wiki/Oklo_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110706493
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: old-dominion-university
+    type: org
+    name: Old Dominion University
+    names:
+      zh: 老道明大學
+      en: Old Dominion University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国弗吉尼亚州的大学
+    ids:
+      wikidata: Q1474100
+    links:
+      - https://en.wikipedia.org/wiki/Old_Dominion_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1474100
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: omacom-foundation
+    type: org
+    name: Omacom Foundation
+    names:
+      en: Omacom Foundation
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: non profit foundation
+    ids:
+      wikidata: Q141144012
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q141144012
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: omidyar-network
+    type: org
+    name: Omidyar Network
+    names:
+      zh: 奥米迪亚网络
+      en: Omidyar Network
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: investment firm founded by Pierre and Pamela Omidyar
+    ids:
+      wikidata: Q3352030
+    links:
+      - https://en.wikipedia.org/wiki/Omidyar_Network
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3352030
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: omidyar-network-fund
+    type: org
+    name: Omidyar Network Fund
+    names:
+      en: Omidyar Network Fund
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: nonprofit grantmaking organization
+    ids:
+      wikidata: Q130900167
+    links:
+      - https://en.wikipedia.org/wiki/Omidyar_Network_Fund
+    sources:
+      - url: https://www.wikidata.org/wiki/Q130900167
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: omni-hotels-and-resorts
+    type: org
+    name: Omni Hotels & Resorts
+    names:
+      zh: 歐姆尼酒店
+      en: Omni Hotels & Resorts
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: hotel
+    ids:
+      wikidata: Q7090329
+    links:
+      - https://en.wikipedia.org/wiki/Omni_Hotels_%26_Resorts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7090329
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: one-laptop-per-child
+    type: org
+    name: One Laptop per Child
+    names:
+      zh: 每个孩子一台笔记型电脑
+      en: One Laptop per Child
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: non-profit initiative
+    ids:
+      wikidata: Q842120
+    links:
+      - https://en.wikipedia.org/wiki/One_Laptop_per_Child
+    sources:
+      - url: https://www.wikidata.org/wiki/Q842120
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: oneplus
+    type: org
+    name: 一加
+    names:
+      zh: 一加
+      en: OnePlus
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中国手机制造商
+    ids:
+      wikidata: Q16499972
+    links:
+      - https://en.wikipedia.org/wiki/OnePlus
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16499972
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: onlyfans
+    type: org
+    name: OnlyFans
+    names:
+      zh: OnlyFans
+      en: OnlyFans
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 3
+    summary: British social media and content distribution platform
+    ids:
+      wikidata: Q61707579
+    links:
+      - https://en.wikipedia.org/wiki/OnlyFans
+    sources:
+      - url: https://www.wikidata.org/wiki/Q61707579
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: onward-together
+    type: org
+    name: Onward Together
+    names:
+      en: Onward Together
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: U.S. Political Action Organization
+    ids:
+      wikidata: Q29974167
+    links:
+      - https://en.wikipedia.org/wiki/Onward_Together
+    sources:
+      - url: https://www.wikidata.org/wiki/Q29974167
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: open-library
+    type: org
+    name: Open Library
+    names:
+      zh: 开放图书馆
+      en: Open Library
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 互联网档案馆旗下的非营利网站
+    ids:
+      wikidata: Q1201876
+    links:
+      - https://en.wikipedia.org/wiki/Open_Library
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1201876
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: open-society-forum
+    type: org
+    name: Open Society Forum
+    names:
+      en: Open Society Forum
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: forum depending on George Soros Open Society Foundation
+    ids:
+      wikidata: Q56438845
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56438845
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: open-society-foundation-for-south-africa
+    type: org
+    name: Open Society Foundation for South Africa
+    names:
+      en: Open Society Foundation for South Africa
+    orgType: ngo
+    country:
+      - ZA
+    sectors:
+      - other
+    tier: 4
+    summary: nonprofit organization in Cape Town, South Africa
+    ids:
+      wikidata: Q28134417
+    links:
+      - https://en.wikipedia.org/wiki/Open_Society_Foundation_for_South_Africa
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28134417
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: open-society-foundations
+    type: org
+    name: Open Society Foundations
+    names:
+      zh: 开放社会基金会
+      en: Open Society Foundations
+    orgType: foundation
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: international grantmaking network founded by business magnate George Soros
+    ids:
+      wikidata: Q786194
+    links:
+      - https://en.wikipedia.org/wiki/Open_Society_Foundations
+    sources:
+      - url: https://www.wikidata.org/wiki/Q786194
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: open-society-institute
+    type: org
+    name: Open Society Institute
+    names:
+      en: Open Society Institute
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: philanthropic organization
+    ids:
+      wikidata: Q105498782
+    links:
+      - https://en.wikipedia.org/wiki/Open_Society_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105498782
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: open-source
+    type: org
+    name: open source
+    names:
+      zh: 开放源代码
+      en: open source
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 开放源代码的哲学与实践
+    ids:
+      wikidata: Q39162
+    links:
+      - https://en.wikipedia.org/wiki/Open_source
+    sources:
+      - url: https://www.wikidata.org/wiki/Q39162
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: openai
+    type: org
+    name: OpenAI
+    names:
+      zh: 開放人工智能
+      en: OpenAI
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 非營利人工智能研究組織、ChatGPT的開發公司
+    ids:
+      wikidata: Q21708200
+    links:
+      - https://en.wikipedia.org/wiki/OpenAI
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21708200
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: opengov-foundation
+    type: org
+    name: OpenGov Foundation
+    names:
+      en: OpenGov Foundation
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: US nonprofit organization
+    ids:
+      wikidata: Q20857736
+    links:
+      - https://en.wikipedia.org/wiki/OpenGov_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20857736
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: opsware
+    type: org
+    name: Opsware
+    names:
+      en: Opsware
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: software company
+    ids:
+      wikidata: Q3354442
+    links:
+      - https://en.wikipedia.org/wiki/Opsware
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3354442
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: optimum-communications
+    type: org
+    name: Optimum Communications
+    names:
+      zh: 阿尔蒂斯美国
+      en: Optimum Communications
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American telecommunications and media company; spin-off of Altice Europe
+    ids:
+      wikidata: Q644289
+    links:
+      - https://en.wikipedia.org/wiki/Optimum_Communications
+    sources:
+      - url: https://www.wikidata.org/wiki/Q644289
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: oracle
+    type: org
+    name: Oracle Corporation
+    names:
+      zh: 甲骨文公司
+      en: Oracle Corporation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美国跨国计算机公司
+    ids:
+      wikidata: Q19900
+    links:
+      - https://en.wikipedia.org/wiki/Oracle_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19900
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: oracle-cloud
+    type: org
+    name: Oracle Cloud
+    names:
+      zh: 甲骨文云
+      en: Oracle Cloud
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: cloud computing platform
+    ids:
+      wikidata: Q43401211
+    links:
+      - https://en.wikipedia.org/wiki/Oracle_Cloud
+    sources:
+      - url: https://www.wikidata.org/wiki/Q43401211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: oracle-cloud-platform
+    type: org
+    name: Oracle Cloud Platform
+    names:
+      en: Oracle Cloud Platform
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: Platform as a Service
+    ids:
+      wikidata: Q48977048
+    links:
+      - https://en.wikipedia.org/wiki/Oracle_Cloud_Platform
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48977048
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: oral-roberts-university
+    type: org
+    name: Oral Roberts University
+    names:
+      zh: 奥罗·罗伯特大学
+      en: Oral Roberts University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: interdenominational, Christian, comprehensive liberal arts university
+    ids:
+      wikidata: Q3121493
+    links:
+      - https://en.wikipedia.org/wiki/Oral_Roberts_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3121493
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: orange-uk
+    type: org
+    name: Orange UK
+    names:
+      zh: 奥兰治 (英国)
+      en: Orange UK
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 4
+    summary: former mobile network operator and internet service provider in the United Kingdom
+    ids:
+      wikidata: Q10859717
+    links:
+      - https://en.wikipedia.org/wiki/Orange_UK
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10859717
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: oregon-house-of-representatives
+    type: org
+    name: Oregon House of Representatives
+    names:
+      zh: 俄勒冈州众议院
+      en: Oregon House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the Oregon Legislative Assembly
+    ids:
+      wikidata: Q2145221
+    links:
+      - https://en.wikipedia.org/wiki/Oregon_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2145221
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: oregon-state-senate
+    type: org
+    name: Oregon State Senate
+    names:
+      zh: 俄勒冈州参议院
+      en: Oregon State Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of Oregon's legislature
+    ids:
+      wikidata: Q2269859
+    links:
+      - https://en.wikipedia.org/wiki/Oregon_State_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2269859
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: oregon-state-university
+    type: org
+    name: Oregon State University
+    names:
+      zh: 俄勒冈州立大学
+      en: Oregon State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public research university in Corvallis, Oregon, United States
+    ids:
+      wikidata: Q861888
+    links:
+      - https://en.wikipedia.org/wiki/Oregon_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q861888
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: organization
+    type: org
+    name: organization
+    names:
+      zh: 组织
+      en: organization
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 为满足需要或追求目标而成立的社会实体
+    ids:
+      wikidata: Q43229
+    links:
+      - https://en.wikipedia.org/wiki/Organization
+    sources:
+      - url: https://www.wikidata.org/wiki/Q43229
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: origin-systems
+    type: org
+    name: Origin Systems
+    names:
+      zh: Origin Systems
+      en: Origin Systems
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: former video game developer based in Austin, Texas
+    ids:
+      wikidata: Q1193678
+    links:
+      - https://en.wikipedia.org/wiki/Origin_Systems
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1193678
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: origins-natural-resources-inc
+    type: org
+    name: Origins Natural Resources, Inc.
+    names:
+      zh: 悦木之源
+      en: Origins Natural Resources, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American cosmetics brand
+    ids:
+      wikidata: Q6643229
+    links:
+      - https://en.wikipedia.org/wiki/Origins_(cosmetics)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6643229
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ostara-nutrient-recovery-technologies
+    type: org
+    name: Ostara Nutrient Recovery Technologies (Canada)
+    names:
+      en: Ostara Nutrient Recovery Technologies (Canada)
+    orgType: company
+    country:
+      - CA
+    sectors:
+      - business
+    tier: 4
+    summary: company in Vancouver, Canada
+    ids:
+      wikidata: Q30295383
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30295383
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ota-broadcasting
+    type: org
+    name: OTA Broadcasting
+    names:
+      en: OTA Broadcasting
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American broadcasting company
+    ids:
+      wikidata: Q30633181
+    links:
+      - https://en.wikipedia.org/wiki/OTA_Broadcasting
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30633181
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: our-hong-kong-foundation
+    type: org
+    name: 团结香港基金会
+    names:
+      zh: 团结香港基金会
+      en: Our Hong Kong Foundation
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 香港智庫
+    ids:
+      wikidata: Q18560052
+    links:
+      - https://en.wikipedia.org/wiki/Our_Hong_Kong_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18560052
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: our-ohio-renewal
+    type: org
+    name: Our Ohio Renewal
+    names:
+      en: Our Ohio Renewal
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: nonprofit organization
+    ids:
+      wikidata: Q128804526
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q128804526
+        publisher: Wikidata
+        accessed: 2026-10-11

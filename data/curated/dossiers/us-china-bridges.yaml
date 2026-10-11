@@ -1,0 +1,151 @@
+id: us-china-bridges
+kind: network
+name: 中美“桥梁”：跨境人脉与资本
+names:
+  en: US–China bridges
+country:
+- US
+- CN
+summary: 连接中美权力圈的关键人物、家族与资本通道：外交元老（基辛格）、华尔街（苏世民、保尔森—王岐山、达利欧）、科技（马斯克—李强/特斯拉上海、库克、黄仁勋）、传媒（默多克—邓文迪）、TikTok 合资（甲骨文/Silver Lake/MGX/字节跳动）、加密货币（孙宇晨—WLF）、博彩（金沙、永利与澳门）、政商家族（赵锡成—江泽民；亨特·拜登—BHR/华信；库什纳—安邦）、流亡商人（郭文贵—班农）。
+core:
+- henry-kissinger
+- stephen-schwarzman
+- henry-paulson
+- wang-qishan
+- elon-musk
+- li-qiang
+- jensen-huang
+- tim-cook
+- wendi-deng
+- james-s-c-chao
+- hunter-biden
+- jared-kushner
+- wu-xiaohui
+- justin-sun
+- guo-wengui
+- steve-bannon
+- larry-ellison
+- neil-bush
+outer:
+- tiktok-usds
+- bytedance
+- world-liberty-financial
+- schwarzman-scholars
+- las-vegas-sands
+- wynn-resorts
+- miriam-adelson
+- steve-wynn
+- lisa-su
+- ray-dalio
+sources:
+- url: https://en.wikipedia.org/wiki/China–United_States_relations
+  publisher: Wikipedia
+confidence: reported
+relations:
+- - henry-kissinger
+  - founder
+  - kissinger-associates
+- from: henry-kissinger
+  to: xi-jinping
+  type: associate
+  label: 2023-07 北京会面（“老朋友”）
+  since: 2023-07
+  sources:
+  - url: https://en.wikipedia.org/wiki/Henry_Kissinger
+    publisher: Wikipedia
+- - stephen-schwarzman
+  - founder
+  - blackstone
+- - stephen-schwarzman
+  - founder
+  - schwarzman-scholars
+  - 清华苏世民书院（2013）
+- from: henry-paulson
+  to: wang-qishan
+  type: friend
+  label: 金融危机时期对口，长期私交
+  sources:
+  - url: https://en.wikipedia.org/wiki/Henry_Paulson
+    publisher: Wikipedia
+- - ray-dalio
+  - founder
+  - bridgewater
+- from: li-qiang
+  to: elon-musk
+  type: associate
+  label: 上海市委书记任内推动特斯拉超级工厂落地（2018–2019）；2023 年以总理身份会见
+  sources:
+  - url: https://en.wikipedia.org/wiki/Giga_Shanghai
+    publisher: Wikipedia
+- - jensen-huang
+  - founder
+  - nvidia
+- - jensen-huang
+  - position
+  - nvidia
+  - CEO
+- from: jensen-huang
+  to: lisa-su
+  type: relative
+  label: 远房表亲（媒体报道）
+  confidence: reported
+  sources:
+  - url: https://en.wikipedia.org/wiki/Lisa_Su
+    publisher: Wikipedia
+- - tim-cook
+  - position
+  - apple-inc
+  - CEO
+- from: justin-sun
+  to: world-liberty-financial
+  type: investor
+  label: 约 4500 万美元
+  sources: &id001
+  - url: https://nclawyersweekly.com/2026/04/23/blockchain-billionaire-sun-takes-trump-familys-crypto-firm-to-court/
+    title: Blockchain billionaire Sun takes Trump family's crypto firm to court
+    date: '2026-04-23'
+  - url: https://en.wikipedia.org/wiki/World_Liberty_Financial
+    publisher: Wikipedia
+- from: justin-sun
+  to: world-liberty-financial
+  type: legal
+  label: 2026-04 起诉欺诈
+  since: 2026-04
+  sources: *id001
+- - miriam-adelson
+  - owner
+  - las-vegas-sands
+  - 控股股东
+- from: miriam-adelson
+  to: donald-trump
+  type: donor
+  label: 2024 大选约 1 亿美元
+  sources:
+  - url: https://en.wikipedia.org/wiki/Miriam_Adelson
+    publisher: Wikipedia
+- - steve-wynn
+  - founder
+  - wynn-resorts
+- from: steve-wynn
+  to: guo-wengui
+  type: related
+  label: 2017 年向特朗普转达中方遣返郭文贵的请求（DOJ 2022 起诉，后被驳回）
+  confidence: alleged
+  sources:
+  - url: https://en.wikipedia.org/wiki/Steve_Wynn
+    publisher: Wikipedia
+- from: guo-wengui
+  to: steve-bannon
+  type: business-partner
+  label: 合办媒体/基金；2020 年班农在郭的游艇上被捕
+  sources:
+  - url: https://en.wikipedia.org/wiki/Guo_Wengui
+    publisher: Wikipedia
+- - steve-bannon
+  - advisor
+  - donald-trump
+  - 2016 竞选主管/首席策略师
+tags:
+- network
+- cross-border
+updated: '2026-10-11'

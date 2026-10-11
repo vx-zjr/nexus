@@ -1,0 +1,26 @@
+id: robert-f-kennedy-jr
+type: person
+name: Robert F. Kennedy Jr.
+names:
+  en: Robert F. Kennedy Jr.
+  zh: 小罗伯特·F·肯尼迪
+gender: M
+born: '1954-01-17'
+country:
+- US
+sectors:
+- politics
+tier: 2
+status: active
+summary: 卫生与公共服务部长（2025–）。肯尼迪家族成员（Robert F. Kennedy 之子、约翰·F·肯尼迪之侄）。
+positions:
+- title: 卫生与公共服务部长
+  org: us-cabinet
+  from: '2025-02-13'
+  current: true
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

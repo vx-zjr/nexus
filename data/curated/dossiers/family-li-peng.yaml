@@ -1,0 +1,26 @@
+# 李鹏家族：精编档案（与 zhao 层同名档案合并；本文件优先）
+id: family-li-peng
+kind: family
+name: 李鹏家族
+country: CN
+head: li-peng
+summary: 李鹏为周恩来夫妇养子（烈士遗孤）。子李小鹏历任华能集团总经理、山西省长、交通运输部部长；女李小琳长期掌管中国电力投资旗下上市公司，被称为“电力女王”。ICIJ 2014 离岸解密显示李小琳曾持有两家 BVI 公司股权。
+tags:
+- family
+sources:
+- &id001
+  url: https://www.icij.org/investigations/offshore/leaked-records-reveal-offshore-holdings-of-chinas-elite/
+  title: Leaked Records Reveal Offshore Holdings of China's Elite
+  publisher: ICIJ
+  date: '2014-01-21'
+- url: https://en.wikipedia.org/wiki/Li_Xiaolin
+  publisher: Wikipedia
+- url: https://en.wikipedia.org/wiki/Li_Xiaopeng
+  publisher: Wikipedia
+relations:
+- from: li-xiaolin-1961
+  to: spic
+  type: position
+  label: 原中电投副总经理/中国电力国际董事长
+  sources:
+  - *id001

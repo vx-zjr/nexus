@@ -1,0 +1,3084 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: b-m-c-durfee-high-school
+    type: org
+    name: B.M.C. Durfee High School
+    names:
+      en: B.M.C. Durfee High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Fall River, Massachusetts
+    ids:
+      wikidata: Q4833836
+    links:
+      - https://en.wikipedia.org/wiki/B.M.C._Durfee_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4833836
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: babydog
+    type: org
+    name: Babydog
+    names:
+      en: Babydog
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: English bulldog owned by Jim Justice (born 2019)
+    ids:
+      wikidata: Q127515063
+    links:
+      - https://en.wikipedia.org/wiki/Babydog
+    sources:
+      - url: https://www.wikidata.org/wiki/Q127515063
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: baidu
+    type: org
+    name: 百度
+    names:
+      zh: 百度
+      en: Baidu
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 2
+    summary: 總部位於中國北京的互聯網公司
+    ids:
+      wikidata: Q14772
+    links:
+      - https://en.wikipedia.org/wiki/Baidu
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14772
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: baidu-baike
+    type: org
+    name: 百度百科
+    names:
+      zh: 百度百科
+      en: Baidu Baike
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 百度旗下中文百科全书
+    ids:
+      wikidata: Q803722
+    links:
+      - https://en.wikipedia.org/wiki/Baidu_Baike
+    sources:
+      - url: https://www.wikidata.org/wiki/Q803722
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bailey
+    type: org
+    name: Bailey
+    names:
+      zh: 贝利 (狗)
+      en: Bailey
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: Golden retriever owned by Elizabeth Warren
+    ids:
+      wikidata: Q96372991
+    links:
+      - https://en.wikipedia.org/wiki/Bailey_(dog)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96372991
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bain-and-company
+    type: org
+    name: Bain & Company
+    names:
+      zh: 贝恩策略顾问公司
+      en: Bain & Company
+    orgType: other
+    country:
+      - US
+      - DE
+    sectors:
+      - other
+    tier: 3
+    summary: 管理咨询公司
+    ids:
+      wikidata: Q764850
+    links:
+      - https://en.wikipedia.org/wiki/Bain_%26_Company
+    sources:
+      - url: https://www.wikidata.org/wiki/Q764850
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bain-capital
+    type: org
+    name: Bain Capital
+    names:
+      zh: 贝恩资本
+      en: Bain Capital
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American alternative investment firm specialized in private equity, venture capital and credit products
+    ids:
+      wikidata: Q803873
+    links:
+      - https://en.wikipedia.org/wiki/Bain_Capital
+    sources:
+      - url: https://www.wikidata.org/wiki/Q803873
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ball-arena
+    type: org
+    name: Ball Arena
+    names:
+      zh: 波爾體育館
+      en: Ball Arena
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: indoor arena in Denver, Colorado, USA
+    ids:
+      wikidata: Q795470
+    links:
+      - https://en.wikipedia.org/wiki/Ball_Arena
+    sources:
+      - url: https://www.wikidata.org/wiki/Q795470
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: balliol-college
+    type: org
+    name: Balliol College
+    names:
+      zh: 贝利奥尔学院
+      en: Balliol College
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 3
+    summary: 牛津大学的一个组成学院
+    ids:
+      wikidata: Q805285
+    links:
+      - https://en.wikipedia.org/wiki/Balliol_College%2C_Oxford
+    sources:
+      - url: https://www.wikidata.org/wiki/Q805285
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: baltimore-city-college
+    type: org
+    name: Baltimore City College
+    names:
+      zh: 巴尔的摩城市学院
+      en: Baltimore City College
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Baltimore, Maryland, United States
+    ids:
+      wikidata: Q4852807
+    links:
+      - https://en.wikipedia.org/wiki/Baltimore_City_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4852807
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: barack-obama-administration-cabinet
+    type: org
+    name: Barack Obama Administration cabinet
+    names:
+      zh: 巴拉克·奥巴马内阁
+      en: Barack Obama Administration cabinet
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国总统内阁
+    ids:
+      wikidata: Q4206667
+    links:
+      - https://en.wikipedia.org/wiki/Cabinet_of_Barack_Obama
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4206667
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: barack-obama-presidential-center
+    type: org
+    name: Barack Obama Presidential Center
+    names:
+      zh: 奥巴马图书馆项目
+      en: Barack Obama Presidential Center
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: presidential museum in Chicago, Illinois
+    ids:
+      wikidata: Q15975388
+    links:
+      - https://en.wikipedia.org/wiki/Barack_Obama_Presidential_Center
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15975388
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: barney
+    type: org
+    name: Barney
+    names:
+      zh: 巴尼
+      en: Barney
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Scottish Terrier, George W. Bush family pet
+    ids:
+      wikidata: Q2988585
+    links:
+      - https://en.wikipedia.org/wiki/Barney_(dog)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2988585
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bass-pro-shops
+    type: org
+    name: Bass Pro Shops
+    names:
+      en: Bass Pro Shops
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American outdoor retailer
+    ids:
+      wikidata: Q4867953
+    links:
+      - https://en.wikipedia.org/wiki/Bass_Pro_Shops
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4867953
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bates-college
+    type: org
+    name: Bates College
+    names:
+      zh: 贝茨学院
+      en: Bates College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国缅因州私立文理学院
+    ids:
+      wikidata: Q810771
+    links:
+      - https://en.wikipedia.org/wiki/Bates_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q810771
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bath-and-body-works
+    type: org
+    name: Bath & Body Works
+    names:
+      en: Bath & Body Works
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American retailer under the L Brands (formerly Limited Brands) umbrella, along with Victoria's Secret
+    ids:
+      wikidata: Q810773
+    links:
+      - https://en.wikipedia.org/wiki/Bath_%26_Body_Works
+    sources:
+      - url: https://www.wikidata.org/wiki/Q810773
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bath-and-body-works-inc
+    type: org
+    name: Bath & Body Works, Inc.
+    names:
+      en: Bath & Body Works, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: company
+    ids:
+      wikidata: Q931354
+    links:
+      - https://en.wikipedia.org/wiki/Bath_%26_Body_Works%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q931354
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bauhaus-museum
+    type: org
+    name: Bauhaus Museum
+    names:
+      zh: 包豪斯博物馆
+      en: Bauhaus Museum
+    orgType: other
+    country:
+      - IL
+    sectors:
+      - other
+    tier: 4
+    summary: Private Museum
+    ids:
+      wikidata: Q22132004
+    links:
+      - https://en.wikipedia.org/wiki/Bauhaus_Foundation_Tel_Aviv
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22132004
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: baxter
+    type: org
+    name: Baxter
+    names:
+      en: Baxter
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: former first dog of Maine
+    ids:
+      wikidata: Q24084955
+    links:
+      - https://en.wikipedia.org/wiki/Baxter_LePage
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24084955
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: baylor-university
+    type: org
+    name: Baylor University
+    names:
+      zh: 貝勒大學
+      en: Baylor University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国大学
+    ids:
+      wikidata: Q812573
+    links:
+      - https://en.wikipedia.org/wiki/Baylor_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q812573
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bbk-electronics
+    type: org
+    name: 步步高
+    names:
+      zh: 步步高
+      en: BBK Electronics
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 已不存在（2023年拆分）的中华人民共和国科技和消费电子企业
+    ids:
+      wikidata: Q4034686
+    links:
+      - https://en.wikipedia.org/wiki/BBK_Electronics
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4034686
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bdt-and-company
+    type: org
+    name: BDT & Company
+    names:
+      en: BDT & Company
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: former merchant bank (became BDT & MSD)
+    ids:
+      wikidata: Q130233672
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q130233672
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bdt-and-msd-partners
+    type: org
+    name: BDT & MSD Partners
+    names:
+      en: BDT & MSD Partners
+    orgType: company
+    country:
+      - GB
+    sectors:
+      - business
+    tier: 4
+    summary: Merchant bank
+    ids:
+      wikidata: Q119840385
+    links:
+      - https://en.wikipedia.org/wiki/BDT_%26_MSD_Partners
+    sources:
+      - url: https://www.wikidata.org/wiki/Q119840385
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beal-aerospace
+    type: org
+    name: Beal Aerospace
+    names:
+      zh: 比尔航空
+      en: Beal Aerospace
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American launch vehicle company
+    ids:
+      wikidata: Q4876116
+    links:
+      - https://en.wikipedia.org/wiki/Beal_Aerospace
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4876116
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beal-bank
+    type: org
+    name: Beal Bank
+    names:
+      en: Beal Bank
+    orgType: bank
+    country:
+      - US
+    sectors:
+      - finance
+    tier: 4
+    summary: American bank
+    ids:
+      wikidata: Q4876118
+    links:
+      - https://en.wikipedia.org/wiki/Beal_Bank
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4876118
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bear-stearns
+    type: org
+    name: Bear Stearns
+    names:
+      zh: 贝尔斯登公司
+      en: Bear Stearns
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American investment company based in New York, New York USA (1923 - 2008)
+    ids:
+      wikidata: Q813018
+    links:
+      - https://en.wikipedia.org/wiki/Bear_Stearns
+    sources:
+      - url: https://www.wikidata.org/wiki/Q813018
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beauty-standing-near-a-pot-of-orchids
+    type: org
+    name: Beauty Standing Near a Pot of Orchids
+    names:
+      zh: 謙妃與蘭花畫像
+      en: Beauty Standing Near a Pot of Orchids
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: Chinese ancestor portrait
+    ids:
+      wikidata: Q110020229
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110020229
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bedrock
+    type: org
+    name: Bedrock
+    names:
+      en: Bedrock
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: real estate firm owned by Dan Gilbert
+    ids:
+      wikidata: Q139601637
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q139601637
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beechwood
+    type: org
+    name: Beechwood
+    names:
+      en: Beechwood
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: mansion in Newport, Rhode Island, United States
+    ids:
+      wikidata: Q4879682
+    links:
+      - https://en.wikipedia.org/wiki/Beechwood_(Astor_mansion)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4879682
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beihang-university
+    type: org
+    name: 北京航空航天大学
+    names:
+      zh: 北京航空航天大学
+      en: Beihang University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 北京市公立高等院校，1952年創建
+    ids:
+      wikidata: Q2299797
+    links:
+      - https://en.wikipedia.org/wiki/Beihang_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2299797
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beijing-101-middle-school
+    type: org
+    name: 北京一零一中学
+    names:
+      zh: 北京一零一中学
+      en: Beijing 101 Middle School
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 位于北京市海淀区的中学
+    ids:
+      wikidata: Q4881097
+    links:
+      - https://en.wikipedia.org/wiki/Beijing_101_Middle_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4881097
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beijing-agricultural-university
+    type: org
+    name: 北京农业大学
+    names:
+      zh: 北京农业大学
+      en: Beijing Agricultural University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中國的大學
+    ids:
+      wikidata: Q17499545
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17499545
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beijing-foreign-studies-university
+    type: org
+    name: 北京外国语大学
+    names:
+      zh: 北京外国语大学
+      en: Beijing Foreign Studies University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 位於中國北京市的語言類高等院校
+    ids:
+      wikidata: Q1144682
+    links:
+      - https://en.wikipedia.org/wiki/Beijing_Foreign_Studies_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1144682
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beijing-institute-of-technology
+    type: org
+    name: 北京理工大学
+    names:
+      zh: 北京理工大学
+      en: Beijing Institute of Technology
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位於中國北京的大學
+    ids:
+      wikidata: Q23101
+    links:
+      - https://en.wikipedia.org/wiki/Beijing_Institute_of_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23101
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beijing-international-studies-university
+    type: org
+    name: 北京第二外国语学院
+    names:
+      zh: 北京第二外国语学院
+      en: Beijing International Studies University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 北京的公立大学
+    ids:
+      wikidata: Q233300
+    links:
+      - https://en.wikipedia.org/wiki/Beijing_International_Studies_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q233300
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beijing-municipal-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党北京市委员会
+    names:
+      zh: 中国共产党北京市委员会
+      en: Beijing Municipal Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国共产党地方领导机关
+    ids:
+      wikidata: Q10873187
+    links:
+      - https://en.wikipedia.org/wiki/Beijing_Municipal_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873187
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beijing-no-4-high-school
+    type: org
+    name: 北京市第四中学
+    names:
+      zh: 北京市第四中学
+      en: Beijing No. 4 High School
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 1907年创办的一所学校
+    ids:
+      wikidata: Q4881166
+    links:
+      - https://en.wikipedia.org/wiki/Beijing_No.4_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4881166
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beijing-no-8-high-school
+    type: org
+    name: 北京市第八中学
+    names:
+      zh: 北京市第八中学
+      en: Beijing No. 8 High School
+    orgType: school
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: public school in Beijing, China
+    ids:
+      wikidata: Q4881171
+    links:
+      - https://en.wikipedia.org/wiki/Beijing_No._8_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4881171
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beijing-normal-university
+    type: org
+    name: 北京师范大学
+    names:
+      zh: 北京师范大学
+      en: Beijing Normal University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 位於中國北京市海淀區的大學
+    ids:
+      wikidata: Q1604022
+    links:
+      - https://en.wikipedia.org/wiki/Beijing_Normal_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1604022
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beijing-university-of-chemical-technology
+    type: org
+    name: 北京化工大学
+    names:
+      zh: 北京化工大学
+      en: Beijing University of Chemical Technology
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位於中國北京市的大學
+    ids:
+      wikidata: Q2496210
+    links:
+      - https://en.wikipedia.org/wiki/Beijing_University_of_Chemical_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2496210
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beijing-university-of-technology
+    type: org
+    name: 北京工业大学
+    names:
+      zh: 北京工业大学
+      en: Beijing University of Technology
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于中国北京市的大学
+    ids:
+      wikidata: Q1674548
+    links:
+      - https://en.wikipedia.org/wiki/Beijing_University_of_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1674548
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beijing-xiaoju-technology
+    type: org
+    name: 北京小桔科技有限公司
+    names:
+      zh: 北京小桔科技有限公司
+      en: Beijing Xiaoju Technology
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: Chinese holding company
+    ids:
+      wikidata: Q113153069
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q113153069
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bell-labs
+    type: org
+    name: Bell Labs
+    names:
+      zh: 贝尔实验室
+      en: Bell Labs
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: research and scientific development company
+    ids:
+      wikidata: Q217365
+    links:
+      - https://en.wikipedia.org/wiki/Bell_Labs
+    sources:
+      - url: https://www.wikidata.org/wiki/Q217365
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bell-ranch
+    type: org
+    name: Bell Ranch
+    names:
+      en: Bell Ranch
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: ranch in San Miguel County, New Mexico, US
+    ids:
+      wikidata: Q4883238
+    links:
+      - https://en.wikipedia.org/wiki/Bell_Ranch
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4883238
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bellaire-high-school
+    type: org
+    name: Bellaire High School
+    names:
+      zh: 百利高中（德克萨斯）
+      en: Bellaire High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Bellaire, Texas, United States, part of the Houston ISD
+    ids:
+      wikidata: Q4883437
+    links:
+      - https://en.wikipedia.org/wiki/Bellaire_High_School_(Texas)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4883437
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bellarmine-college-preparatory
+    type: org
+    name: Bellarmine College Preparatory
+    names:
+      zh: 貝拉明預科學院
+      en: Bellarmine College Preparatory
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Jesuit high school in San Jose, California, United States; oldest secondary school in California
+    ids:
+      wikidata: Q4883507
+    links:
+      - https://en.wikipedia.org/wiki/Bellarmine_College_Preparatory
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4883507
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beloit-college
+    type: org
+    name: Beloit College
+    names:
+      zh: 伯洛伊特學院
+      en: Beloit College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: liberal arts college in Beloit, Wisconsin
+    ids:
+      wikidata: Q2904557
+    links:
+      - https://en.wikipedia.org/wiki/Beloit_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2904557
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: berkshire-hathaway
+    type: org
+    name: Berkshire Hathaway
+    names:
+      zh: 伯克希尔·哈撒韦
+      en: Berkshire Hathaway
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國跨國企業集團控股公司
+    ids:
+      wikidata: Q217583
+    links:
+      - https://en.wikipedia.org/wiki/Berkshire_Hathaway
+    sources:
+      - url: https://www.wikidata.org/wiki/Q217583
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bernard-l-madoff-investment-securities
+    type: org
+    name: Bernard L. Madoff Investment Securities
+    names:
+      en: Bernard L. Madoff Investment Securities
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Defunct Wall Street penny stock brokerage firm that operated a massive Ponzi scheme (1960)
+    ids:
+      wikidata: Q141317229
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q141317229
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bernie-sanders-mittens
+    type: org
+    name: Bernie Sanders' mittens
+    names:
+      en: Bernie Sanders' mittens
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: mittens created by Jen Ellis and worn by Bernie Sanders at the 2021 U.S. Presidential inauguration of Joe Biden
+    ids:
+      wikidata: Q104973869
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104973869
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beth
+    type: org
+    name: Beth
+    names:
+      en: Beth
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: vacuum owned by Chuck Grassley
+    ids:
+      wikidata: Q140948921
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q140948921
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: better-world-libraries
+    type: org
+    name: Better World Libraries
+    names:
+      en: Better World Libraries
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: library non-profit in San Francisco
+    ids:
+      wikidata: Q73772989
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q73772989
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beverly-hills-high-school
+    type: org
+    name: Beverly Hills High School
+    names:
+      zh: 比佛利山高中
+      en: Beverly Hills High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国加州高中
+    ids:
+      wikidata: Q1185037
+    links:
+      - https://en.wikipedia.org/wiki/Beverly_Hills_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1185037
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bexley-high-school
+    type: org
+    name: Bexley High School
+    names:
+      en: Bexley High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Ohio, United States
+    ids:
+      wikidata: Q4899798
+    links:
+      - https://en.wikipedia.org/wiki/Bexley_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4899798
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: beyond-meat
+    type: org
+    name: Beyond Meat
+    names:
+      zh: 超越肉類公司
+      en: Beyond Meat
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: Los Angeles-based producer of plant-based meat
+    ids:
+      wikidata: Q18205509
+    links:
+      - https://en.wikipedia.org/wiki/Beyond_Meat
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18205509
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bezos-earth-fund
+    type: org
+    name: Bezos Earth Fund
+    names:
+      zh: 贝索斯地球基金会
+      en: Bezos Earth Fund
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: climate change organization established in 2020
+    ids:
+      wikidata: Q85746831
+    links:
+      - https://en.wikipedia.org/wiki/Bezos_Earth_Fund
+    sources:
+      - url: https://www.wikidata.org/wiki/Q85746831
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bezos-expeditions
+    type: org
+    name: Bezos Expeditions
+    names:
+      zh: 貝索斯遠征
+      en: Bezos Expeditions
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Investment firm of Jeff Bezos
+    ids:
+      wikidata: Q107297847
+    links:
+      - https://en.wikipedia.org/wiki/Bezos_Expeditions
+    sources:
+      - url: https://www.wikidata.org/wiki/Q107297847
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bgc3
+    type: org
+    name: bgC3
+    names:
+      en: bgC3
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: company
+    ids:
+      wikidata: Q1050976
+    links:
+      - https://en.wikipedia.org/wiki/Gates_Ventures
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1050976
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: biberk-business-insurance
+    type: org
+    name: biBERK Business Insurance
+    names:
+      en: biBERK Business Insurance
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Business insurance company for small businesses
+    ids:
+      wikidata: Q56284740
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56284740
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: biden-foundation
+    type: org
+    name: Biden Foundation
+    names:
+      zh: 拜登基金会
+      en: Biden Foundation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: United States non-profit organization from 2017 to 2019
+    ids:
+      wikidata: Q104778313
+    links:
+      - https://en.wikipedia.org/wiki/Biden_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104778313
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: big-cedar-lodge
+    type: org
+    name: Big Cedar Lodge
+    names:
+      en: Big Cedar Lodge
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: company in Missouri
+    ids:
+      wikidata: Q110612163
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110612163
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bill-clinton-administration-cabinet
+    type: org
+    name: Bill Clinton Administration cabinet
+    names:
+      en: Bill Clinton Administration cabinet
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: most senior appointed officers of the executive branch of the federal government of the United States under the Bill Clinton Administration
+    ids:
+      wikidata: Q28464553
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28464553
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bill-gates-s-house
+    type: org
+    name: Bill Gates's house
+    names:
+      zh: 比尔·盖茨的大宅
+      en: Bill Gates's house
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: building
+    ids:
+      wikidata: Q371973
+    links:
+      - https://en.wikipedia.org/wiki/Bill_Gates's_house
+    sources:
+      - url: https://www.wikidata.org/wiki/Q371973
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bill-of-rights-institute
+    type: org
+    name: Bill of Rights Institute
+    names:
+      en: Bill of Rights Institute
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Nonprofit organization in the U.S.
+    ids:
+      wikidata: Q4911506
+    links:
+      - https://en.wikipedia.org/wiki/Bill_of_Rights_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4911506
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: binghamton-university
+    type: org
+    name: Binghamton University
+    names:
+      zh: 宾汉顿大学
+      en: Binghamton University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国纽约州大学
+    ids:
+      wikidata: Q863813
+    links:
+      - https://en.wikipedia.org/wiki/Binghamton_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q863813
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: biologos-foundation
+    type: org
+    name: BioLogos Foundation
+    names:
+      en: BioLogos Foundation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Christian evolutionary creationist advocacy organization
+    ids:
+      wikidata: Q387341
+    links:
+      - https://en.wikipedia.org/wiki/BioLogos
+    sources:
+      - url: https://www.wikidata.org/wiki/Q387341
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bipartisan-policy-center
+    type: org
+    name: Bipartisan Policy Center
+    names:
+      zh: 两党政策中心
+      en: Bipartisan Policy Center
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Washington, D.C.–based think tank
+    ids:
+      wikidata: Q4915402
+    links:
+      - https://en.wikipedia.org/wiki/Bipartisan_Policy_Center
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4915402
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: birmingham-school-of-law
+    type: org
+    name: Birmingham School of Law
+    names:
+      zh: 伯明翰法學院
+      en: Birmingham School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Private law school in Birmingham, Alabama, US
+    ids:
+      wikidata: Q4916802
+    links:
+      - https://en.wikipedia.org/wiki/Birmingham_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4916802
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bishop-ludden-junior-senior-high-school
+    type: org
+    name: Bishop Ludden Junior/Senior High School
+    names:
+      en: Bishop Ludden Junior/Senior High School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private, coeducational school in Syracuse, New York, United States
+    ids:
+      wikidata: Q4917631
+    links:
+      - https://en.wikipedia.org/wiki/Bishop_Ludden_Junior%2FSenior_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4917631
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bishop-moore-catholic-high-school
+    type: org
+    name: Bishop Moore Catholic High School
+    names:
+      en: Bishop Moore Catholic High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Catholic secondary school in Orlando, Florida, United States
+    ids:
+      wikidata: Q4917662
+    links:
+      - https://en.wikipedia.org/wiki/Bishop_Moore_Catholic_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4917662
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bittorrent
+    type: org
+    name: BitTorrent
+    names:
+      zh: BitTorrent
+      en: BitTorrent
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 基于BitTorrent协议的点对点文件上传/下载软件
+    ids:
+      wikidata: Q878713
+    links:
+      - https://en.wikipedia.org/wiki/BitTorrent_(software)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q878713
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: black-news-channel
+    type: org
+    name: Black News Channel
+    names:
+      zh: 黑人新闻频道
+      en: Black News Channel
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American television news channel focused on African American issues launched in 2020
+    ids:
+      wikidata: Q85136372
+    links:
+      - https://en.wikipedia.org/wiki/Black_News_Channel
+    sources:
+      - url: https://www.wikidata.org/wiki/Q85136372
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: blackstone
+    type: org
+    name: Blackstone Inc.
+    names:
+      zh: 黑石集团
+      en: Blackstone Inc.
+    orgType: company
+    country:
+      - US
+      - GB
+    sectors:
+      - business
+    tier: 3
+    summary: 跨国公司
+    ids:
+      wikidata: Q880942
+    links:
+      - https://en.wikipedia.org/wiki/Blackstone_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q880942
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: blake-school
+    type: org
+    name: Blake School
+    names:
+      zh: 布莱克学校
+      en: Blake School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: school in Minneapolis
+    ids:
+      wikidata: Q4924484
+    links:
+      - https://en.wikipedia.org/wiki/The_Blake_School_(Minneapolis)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4924484
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: block-inc
+    type: org
+    name: Block, Inc.
+    names:
+      zh: Square (支付服務)
+      en: Block, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American financial services company
+    ids:
+      wikidata: Q110778747
+    links:
+      - https://en.wikipedia.org/wiki/Block%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110778747
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: blogger
+    type: org
+    name: Blogger
+    names:
+      zh: Blogger
+      en: Blogger
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 博客平台
+    ids:
+      wikidata: Q171186
+    links:
+      - https://en.wikipedia.org/wiki/Blogger_(service)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q171186
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bloomberg-ip-holdings-llc
+    type: org
+    name: Bloomberg IP Holdings LLC
+    names:
+      en: Bloomberg IP Holdings LLC
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: operator of Internet domain .bloomberg
+    ids:
+      wikidata: Q31122925
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q31122925
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bloomberg-lp
+    type: org
+    name: Bloomberg L.P.
+    names:
+      zh: 彭博有限合伙企业
+      en: Bloomberg L.P.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國大眾傳媒公司
+    ids:
+      wikidata: Q13977
+    links:
+      - https://en.wikipedia.org/wiki/Bloomberg_L.P.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q13977
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bloomberg-philanthropies
+    type: org
+    name: Bloomberg Philanthropies
+    names:
+      en: Bloomberg Philanthropies
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: charitable organization
+    ids:
+      wikidata: Q16987920
+    links:
+      - https://en.wikipedia.org/wiki/Bloomberg_Philanthropies
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16987920
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bloomberg-television
+    type: org
+    name: Bloomberg Television
+    names:
+      zh: 彭博电视
+      en: Bloomberg Television
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 金融和商業有線電視新聞頻道
+    ids:
+      wikidata: Q13975
+    links:
+      - https://en.wikipedia.org/wiki/Bloomberg_Television
+    sources:
+      - url: https://www.wikidata.org/wiki/Q13975
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: blossoming-meadow
+    type: org
+    name: Blossoming Meadow
+    names:
+      en: Blossoming Meadow
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Gustav Klimt
+    ids:
+      wikidata: Q19912832
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19912832
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: blue-moon-of-josephine-diamond
+    type: org
+    name: Blue Moon of Josephine Diamond
+    names:
+      en: Blue Moon of Josephine Diamond
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: sold for record 48.4 million in November 2015
+    ids:
+      wikidata: Q24233900
+    links:
+      - https://en.wikipedia.org/wiki/Blue_Moon_of_Josephine
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24233900
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: blue-origin
+    type: org
+    name: Blue Origin
+    names:
+      zh: 蓝色起源
+      en: Blue Origin
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国私人航空公司
+    ids:
+      wikidata: Q885836
+    links:
+      - https://en.wikipedia.org/wiki/Blue_Origin
+    sources:
+      - url: https://www.wikidata.org/wiki/Q885836
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bluesky
+    type: org
+    name: Bluesky
+    names:
+      en: Bluesky
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 微博客社交网站
+    ids:
+      wikidata: Q78194383
+    links:
+      - https://en.wikipedia.org/wiki/Bluesky
+    sources:
+      - url: https://www.wikidata.org/wiki/Q78194383
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bluesky-social-pbc
+    type: org
+    name: Bluesky Social PBC
+    names:
+      en: Bluesky Social PBC
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: developer of the Bluesky social media platform
+    ids:
+      wikidata: Q124304616
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124304616
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: blumhouse-productions
+    type: org
+    name: Blumhouse Productions
+    names:
+      zh: 布鲁姆制片公司
+      en: Blumhouse Productions
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国电影制片公司
+    ids:
+      wikidata: Q16984664
+    links:
+      - https://en.wikipedia.org/wiki/Blumhouse_Productions
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16984664
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: board-of-directors
+    type: org
+    name: board of directors
+    names:
+      zh: 董事会
+      en: board of directors
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 一家公司的最高治理机构
+    ids:
+      wikidata: Q188628
+    links:
+      - https://en.wikipedia.org/wiki/Board_of_directors
+    sources:
+      - url: https://www.wikidata.org/wiki/Q188628
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: board-of-education
+    type: org
+    name: board of education
+    names:
+      zh: 教育委员会
+      en: board of education
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: board of directors, board of trustees of a school, local school district or equivalent
+    ids:
+      wikidata: Q399541
+    links:
+      - https://en.wikipedia.org/wiki/Board_of_education
+    sources:
+      - url: https://www.wikidata.org/wiki/Q399541
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: board-of-governors-of-the-federal-reserve-system
+    type: org
+    name: Board of Governors of the Federal Reserve System
+    names:
+      zh: 联邦储备系统委员会
+      en: Board of Governors of the Federal Reserve System
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國Fed的主要管理機關
+    ids:
+      wikidata: Q5440396
+    links:
+      - https://en.wikipedia.org/wiki/Federal_Reserve_Board_of_Governors
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5440396
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: board-of-peace
+    type: org
+    name: Board of Peace
+    names:
+      zh: 和平理事会
+      en: Board of Peace
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國主導的國際組織
+    ids:
+      wikidata: Q136402081
+    links:
+      - https://en.wikipedia.org/wiki/Board_of_Peace
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136402081
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bohai-university
+    type: org
+    name: 渤海大学
+    names:
+      zh: 渤海大学
+      en: Bohai University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: university in China
+    ids:
+      wikidata: Q4937990
+    links:
+      - https://en.wikipedia.org/wiki/Bohai_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4937990
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bomis
+    type: org
+    name: Bomis
+    names:
+      zh: Bomis
+      en: Bomis
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 3
+    summary: 前廣告網站
+    ids:
+      wikidata: Q935818
+    links:
+      - https://en.wikipedia.org/wiki/Bomis
+    sources:
+      - url: https://www.wikidata.org/wiki/Q935818
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bonwit-teller-building
+    type: org
+    name: Bonwit Teller Building
+    names:
+      en: Bonwit Teller Building
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q18011281
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18011281
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: booth-school-of-business
+    type: org
+    name: Booth School of Business
+    names:
+      zh: 芝加哥大学布斯商学院
+      en: Booth School of Business
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 教育机构
+    ids:
+      wikidata: Q2963304
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Chicago_Booth_School_of_Business
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2963304
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: booz-allen-hamilton
+    type: org
+    name: Booz Allen Hamilton
+    names:
+      zh: 博思艾倫諮詢公司
+      en: Booz Allen Hamilton
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: technology consulting firm from the United States
+    ids:
+      wikidata: Q893221
+    links:
+      - https://en.wikipedia.org/wiki/Booz_Allen_Hamilton
+    sources:
+      - url: https://www.wikidata.org/wiki/Q893221
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bose-corporation
+    type: org
+    name: Bose Corporation
+    names:
+      zh: 舶仕音响
+      en: Bose Corporation
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: US audio equipment manufacturer and retail chain
+    ids:
+      wikidata: Q328568
+    links:
+      - https://en.wikipedia.org/wiki/Bose_(brand)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q328568
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: boston-breakers
+    type: org
+    name: Boston Breakers
+    names:
+      zh: 波士頓浪花
+      en: Boston Breakers
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 已解散美国女子足球俱乐部（2000—2003）
+    ids:
+      wikidata: Q4947781
+    links:
+      - https://en.wikipedia.org/wiki/Boston_Breakers_(WUSA)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4947781
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: boston-college
+    type: org
+    name: Boston College
+    names:
+      zh: 波士顿学院
+      en: Boston College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 私立研究型大學，位於美國馬薩諸塞州栗树山
+    ids:
+      wikidata: Q49118
+    links:
+      - https://en.wikipedia.org/wiki/Boston_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49118
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: boston-college-law-school
+    type: org
+    name: Boston College Law School
+    names:
+      zh: 波士顿学院法学院
+      en: Boston College Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school of Boston College
+    ids:
+      wikidata: Q4947841
+    links:
+      - https://en.wikipedia.org/wiki/Boston_College_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4947841
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: boston-consulting-group
+    type: org
+    name: Boston Consulting Group
+    names:
+      zh: 波士顿咨询公司
+      en: Boston Consulting Group
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 管理咨询公司
+    ids:
+      wikidata: Q135635
+    links:
+      - https://en.wikipedia.org/wiki/Boston_Consulting_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q135635
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: boston-lobsters
+    type: org
+    name: Boston Lobsters
+    names:
+      en: Boston Lobsters
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: team tennis franchise (1974–1978)
+    ids:
+      wikidata: Q17511187
+    links:
+      - https://en.wikipedia.org/wiki/Boston_Lobsters_(1974%E2%80%931978)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17511187
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: boston-university
+    type: org
+    name: Boston University
+    names:
+      zh: 波士顿大学
+      en: Boston University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 2
+    summary: 美國馬薩諸塞州波士頓私立研究型大學
+    ids:
+      wikidata: Q49110
+    links:
+      - https://en.wikipedia.org/wiki/Boston_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49110
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: boston-university-college-of-arts-and-sciences
+    type: org
+    name: Boston University College of Arts and Sciences
+    names:
+      zh: 波士顿大学文理学院
+      en: Boston University College of Arts and Sciences
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: school of Boston University
+    ids:
+      wikidata: Q4948172
+    links:
+      - https://en.wikipedia.org/wiki/Boston_University_College_of_Arts_and_Sciences
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4948172
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: boston-university-school-of-law
+    type: org
+    name: Boston University School of Law
+    names:
+      zh: 波士顿大学法学院
+      en: Boston University School of Law
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 隸屬於美國波士頓大學的法學院
+    ids:
+      wikidata: Q3064264
+    links:
+      - https://en.wikipedia.org/wiki/Boston_University_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3064264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: boston-uprising
+    type: org
+    name: Boston Uprising
+    names:
+      zh: 波士顿崛起
+      en: Boston Uprising
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American professional eSports team in the Overwatch League
+    ids:
+      wikidata: Q48838425
+    links:
+      - https://en.wikipedia.org/wiki/Boston_Uprising
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48838425
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bottle-glass-and-pipe
+    type: org
+    name: Bottle, Glass, and Pipe (Violette de Parme)
+    names:
+      en: Bottle, Glass, and Pipe (Violette de Parme)
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: collage at the Metropolitan Museum of Art (MET, 2016.237.15)
+    ids:
+      wikidata: Q116412439
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116412439
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bottle-glasses-and-newspapers
+    type: org
+    name: Bottle, Glasses, and Newspapers
+    names:
+      en: Bottle, Glasses, and Newspapers
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Georges Braque
+    ids:
+      wikidata: Q137723140
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137723140
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bowdoin-college
+    type: org
+    name: Bowdoin College
+    names:
+      zh: 鲍登学院
+      en: Bowdoin College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国私立文理学院
+    ids:
+      wikidata: Q895401
+    links:
+      - https://en.wikipedia.org/wiki/Bowdoin_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q895401
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bowling-green-state-university
+    type: org
+    name: Bowling Green State University
+    names:
+      zh: 鲍林格林州立大学
+      en: Bowling Green State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美國公立大學
+    ids:
+      wikidata: Q895457
+    links:
+      - https://en.wikipedia.org/wiki/Bowling_Green_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q895457
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: boy-and-dog-in-a-johnnypump
+    type: org
+    name: Boy and Dog in a Johnnypump
+    names:
+      en: Boy and Dog in a Johnnypump
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Jean-Michel Basquiat
+    ids:
+      wikidata: Q99870136
+    links:
+      - https://en.wikipedia.org/wiki/Boy_and_Dog_in_a_Johnnypump
+    sources:
+      - url: https://www.wikidata.org/wiki/Q99870136
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bradley-university
+    type: org
+    name: Bradley University
+    names:
+      zh: 布拉德利大学
+      en: Bradley University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private university in Peoria, Illinois
+    ids:
+      wikidata: Q897052
+    links:
+      - https://en.wikipedia.org/wiki/Bradley_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q897052
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: branded-entertainment-network
+    type: org
+    name: Branded Entertainment Network
+    names:
+      zh: 品牌娛樂網絡
+      en: Branded Entertainment Network
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: stock photo licensing company.
+    ids:
+      wikidata: Q390285
+    links:
+      - https://en.wikipedia.org/wiki/BENlabs
+    sources:
+      - url: https://www.wikidata.org/wiki/Q390285
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brandeis-university
+    type: org
+    name: Brandeis University
+    names:
+      zh: 布兰戴斯大学
+      en: Brandeis University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国大学
+    ids:
+      wikidata: Q49119
+    links:
+      - https://en.wikipedia.org/wiki/Brandeis_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49119
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brash-entertainment
+    type: org
+    name: Brash Entertainment
+    names:
+      en: Brash Entertainment
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American company
+    ids:
+      wikidata: Q4957770
+    links:
+      - https://en.wikipedia.org/wiki/Brash_Entertainment
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4957770
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bravo-eugenia
+    type: org
+    name: Bravo Eugenia
+    names:
+      en: Bravo Eugenia
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: Luxury yacht built in 2018
+    ids:
+      wikidata: Q116413374
+    links:
+      - https://en.wikipedia.org/wiki/Bravo_Eugenia_(yacht)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116413374
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: breakout-labs
+    type: org
+    name: Breakout Labs
+    names:
+      en: Breakout Labs
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: part of the Thiel Foundation
+    ids:
+      wikidata: Q4959651
+    links:
+      - https://en.wikipedia.org/wiki/Breakout_Ventures
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4959651
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: breakthrough-energy-coalition
+    type: org
+    name: Breakthrough Energy Coalition
+    names:
+      zh: 突破能源
+      en: Breakthrough Energy Coalition
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: umbrella name of several organizations, founded by Bill Gates in 2015, that aim to accelerate innovation in sustainable energy and other technologies to reduce greenhouse gas emissions
+    ids:
+      wikidata: Q22317498
+    links:
+      - https://en.wikipedia.org/wiki/Breakthrough_Energy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22317498
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: breakthrough-prize-in-mathematics
+    type: org
+    name: Breakthrough Prize in Mathematics
+    names:
+      zh: 数学突破奖
+      en: Breakthrough Prize in Mathematics
+    orgType: other
+    country:
+      - US
+      - RU
+    sectors:
+      - other
+    tier: 4
+    summary: mathematics award
+    ids:
+      wikidata: Q17278380
+    links:
+      - https://en.wikipedia.org/wiki/Breakthrough_Prize_in_Mathematics
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17278380
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bridgewater
+    type: org
+    name: Bridgewater Associates
+    names:
+      zh: 桥水基金
+      en: Bridgewater Associates
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 對沖基金
+    ids:
+      wikidata: Q652431
+    links:
+      - https://en.wikipedia.org/wiki/Bridgewater_Associates
+    sources:
+      - url: https://www.wikidata.org/wiki/Q652431
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brigham-young-university
+    type: org
+    name: Brigham Young University
+    names:
+      zh: 杨百翰大学
+      en: Brigham Young University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国大学
+    ids:
+      wikidata: Q332498
+    links:
+      - https://en.wikipedia.org/wiki/Brigham_Young_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q332498
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: broadcom
+    type: org
+    name: Broadcom
+    names:
+      zh: Broadcom
+      en: Broadcom
+    orgType: company
+    country:
+      - US
+      - SG
+    sectors:
+      - business
+    tier: 3
+    summary: 美國一家無廠半導體公司
+    ids:
+      wikidata: Q790060
+    links:
+      - https://en.wikipedia.org/wiki/Broadcom
+    sources:
+      - url: https://www.wikidata.org/wiki/Q790060
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: broadcom-2
+    type: org
+    name: Broadcom
+    names:
+      zh: 博通
+      en: Broadcom
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 博通有限的子公司
+    ids:
+      wikidata: Q555925
+    links:
+      - https://en.wikipedia.org/wiki/Broadcom_Corporation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q555925
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bronx-high-school-of-science
+    type: org
+    name: Bronx High School of Science
+    names:
+      zh: 布朗克斯科学高级中学
+      en: Bronx High School of Science
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: specialized high school in New York City
+    ids:
+      wikidata: Q751612
+    links:
+      - https://en.wikipedia.org/wiki/Bronx_High_School_of_Science
+    sources:
+      - url: https://www.wikidata.org/wiki/Q751612
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brookings-institution
+    type: org
+    name: Brookings Institution
+    names:
+      zh: 布鲁金斯学会
+      en: Brookings Institution
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国智库
+    ids:
+      wikidata: Q929154
+    links:
+      - https://en.wikipedia.org/wiki/Brookings_Institution
+    sources:
+      - url: https://www.wikidata.org/wiki/Q929154
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brookline-high-school
+    type: org
+    name: Brookline High School
+    names:
+      zh: 布鲁克莱恩高中
+      en: Brookline High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: four-year public high school in the town of Brookline, Massachusetts
+    ids:
+      wikidata: Q14715421
+    links:
+      - https://en.wikipedia.org/wiki/Brookline_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14715421
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brooklyn-college
+    type: org
+    name: Brooklyn College
+    names:
+      zh: 布鲁克林学院
+      en: Brooklyn College
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: senior college of the City University of New York, located in Brooklyn
+    ids:
+      wikidata: Q371625
+    links:
+      - https://en.wikipedia.org/wiki/Brooklyn_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q371625
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brooklyn-cyclones
+    type: org
+    name: Brooklyn Cyclones
+    names:
+      zh: 布鲁克林旋风
+      en: Brooklyn Cyclones
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: baseball team
+    ids:
+      wikidata: Q1060978
+    links:
+      - https://en.wikipedia.org/wiki/Brooklyn_Cyclones
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1060978
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brooklyn-law-school
+    type: org
+    name: Brooklyn Law School
+    names:
+      zh: 布鲁克林法学院
+      en: Brooklyn Law School
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private law school in New York City
+    ids:
+      wikidata: Q1812600
+    links:
+      - https://en.wikipedia.org/wiki/Brooklyn_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1812600
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brooklyn-technical-high-school
+    type: org
+    name: Brooklyn Technical High School
+    names:
+      zh: 布鲁克林技术高中
+      en: Brooklyn Technical High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: specialized high school in New York City
+    ids:
+      wikidata: Q2737843
+    links:
+      - https://en.wikipedia.org/wiki/Brooklyn_Technical_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2737843
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brown-university
+    type: org
+    name: Brown University
+    names:
+      zh: 布朗大学
+      en: Brown University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 2
+    summary: 美國羅德島普羅維登斯私立大學
+    ids:
+      wikidata: Q49114
+    links:
+      - https://en.wikipedia.org/wiki/Brown_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49114
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: brunswick-school
+    type: org
+    name: Brunswick School
+    names:
+      en: Brunswick School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private school in Greenwich, Connecticut, United States
+    ids:
+      wikidata: Q4979535
+    links:
+      - https://en.wikipedia.org/wiki/Brunswick_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4979535
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: buckingham-browne-and-nichols-school
+    type: org
+    name: Buckingham Browne & Nichols School
+    names:
+      zh: 白金漢布朗和尼古拉斯學校
+      en: Buckingham Browne & Nichols School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Independent, coeducational day school in Cambridge, Massachusetts
+    ids:
+      wikidata: Q564248
+    links:
+      - https://en.wikipedia.org/wiki/Buckingham_Browne_%26_Nichols_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q564248
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: buckley-school
+    type: org
+    name: Buckley School (New York City)
+    names:
+      en: Buckley School (New York City)
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: day school for boys in Manhattan
+    ids:
+      wikidata: Q4983369
+    links:
+      - https://en.wikipedia.org/wiki/Buckley_School_(New_York_City)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4983369
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bucknell-university
+    type: org
+    name: Bucknell University
+    names:
+      zh: 巴克内尔大学
+      en: Bucknell University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private liberal arts college in the Lewisburg, Pennsylvania area
+    ids:
+      wikidata: Q3444679
+    links:
+      - https://en.wikipedia.org/wiki/Bucknell_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3444679
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: buddy
+    type: org
+    name: Buddy
+    names:
+      en: Buddy
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: chocolate-colored labrador retriever (1997-2002) owned by Bill Clinton
+    ids:
+      wikidata: Q1060353
+    links:
+      - https://en.wikipedia.org/wiki/Buddy_(Bill_Clinton's_dog)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1060353
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: buffalo-bandits
+    type: org
+    name: Buffalo Bandits
+    names:
+      zh: 水牛城強盜
+      en: Buffalo Bandits
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American indoor lacrosse team
+    ids:
+      wikidata: Q641355
+    links:
+      - https://en.wikipedia.org/wiki/Buffalo_Bandits
+    sources:
+      - url: https://www.wikidata.org/wiki/Q641355
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: buffalo-bills
+    type: org
+    name: Buffalo Bills
+    names:
+      zh: 布法罗比尔
+      en: Buffalo Bills
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: NFL主場在紐約州水牛城的球隊
+    ids:
+      wikidata: Q221626
+    links:
+      - https://en.wikipedia.org/wiki/Buffalo_Bills
+    sources:
+      - url: https://www.wikidata.org/wiki/Q221626
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: buffalo-bisons
+    type: org
+    name: Buffalo Bisons
+    names:
+      zh: 水牛城野牛
+      en: Buffalo Bisons
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Minor League Baseball (AAA) team in Buffalo, New York
+    ids:
+      wikidata: Q733939
+    links:
+      - https://en.wikipedia.org/wiki/Buffalo_Bisons
+    sources:
+      - url: https://www.wikidata.org/wiki/Q733939
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: builders-initiative
+    type: org
+    name: Builders Initiative
+    names:
+      en: Builders Initiative
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American nonprofit (2017-)
+    ids:
+      wikidata: Q137455611
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137455611
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: builders-vision
+    type: org
+    name: Builders Vision
+    names:
+      en: Builders Vision
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American impact investment company
+    ids:
+      wikidata: Q137455497
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137455497
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bumble
+    type: org
+    name: Bumble
+    names:
+      zh: Bumble
+      en: Bumble
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: 交友平台
+    ids:
+      wikidata: Q21233433
+    links:
+      - https://en.wikipedia.org/wiki/Bumble
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21233433
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bumble-holding-limited
+    type: org
+    name: Bumble Holding Limited
+    names:
+      en: Bumble Holding Limited
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: dating app developer
+    ids:
+      wikidata: Q106103522
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106103522
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bureau-of-east-asian-and-pacific-affairs
+    type: org
+    name: Bureau of East Asian and Pacific Affairs
+    names:
+      zh: 美国国务院东亚暨太平洋事务局
+      en: Bureau of East Asian and Pacific Affairs
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: U.S. State Department division
+    ids:
+      wikidata: Q2019506
+    links:
+      - https://en.wikipedia.org/wiki/Bureau_of_East_Asian_and_Pacific_Affairs
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2019506
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bureau-of-educational-and-cultural-affairs
+    type: org
+    name: Bureau of Educational and Cultural Affairs
+    names:
+      zh: 美國國務院教育文化局
+      en: Bureau of Educational and Cultural Affairs
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: U.S. State Department division
+    ids:
+      wikidata: Q4998368
+    links:
+      - https://en.wikipedia.org/wiki/Bureau_of_Educational_and_Cultural_Affairs
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4998368
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bush-compound
+    type: org
+    name: Bush compound
+    names:
+      zh: 沃克角莊園
+      en: Bush compound
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: building complex
+    ids:
+      wikidata: Q1017467
+    links:
+      - https://en.wikipedia.org/wiki/Walker's_Point_Estate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1017467
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: butler-senior-high-school
+    type: org
+    name: Butler Senior High School
+    names:
+      en: Butler Senior High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Pennsylvania, United States
+    ids:
+      wikidata: Q5002649
+    links:
+      - https://en.wikipedia.org/wiki/Butler_Area_Senior_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5002649
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: byd-company
+    type: org
+    name: 比亚迪
+    names:
+      zh: 比亚迪
+      en: BYD Company
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中国企业
+    ids:
+      wikidata: Q2608329
+    links:
+      - https://en.wikipedia.org/wiki/BYD_Company
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2608329
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: byd-electronic
+    type: org
+    name: 比亞迪電子
+    names:
+      zh: 比亞迪電子
+      en: BYD Electronic
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: subsidiary of BYD Company that makes and assembles handset components and mobile phones
+    ids:
+      wikidata: Q4836868
+    links:
+      - https://en.wikipedia.org/wiki/BYD_Electronic
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4836868
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bystander-revolution
+    type: org
+    name: Bystander Revolution
+    names:
+      zh: 旁觀者革命
+      en: Bystander Revolution
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: organization
+    ids:
+      wikidata: Q19865877
+    links:
+      - https://en.wikipedia.org/wiki/Bystander_Revolution
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19865877
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bytedance
+    type: org
+    name: 字节跳动
+    names:
+      zh: 字节跳动
+      en: ByteDance
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中国公司
+    ids:
+      wikidata: Q55606242
+    links:
+      - https://en.wikipedia.org/wiki/ByteDance
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55606242
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: bytedance-limited
+    type: org
+    name: ByteDance Limited
+    names:
+      en: ByteDance Limited
+    orgType: company
+    country:
+      - KY
+    sectors:
+      - business
+    tier: 4
+    summary: Caymanese company
+    ids:
+      wikidata: Q138874364
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q138874364
+        publisher: Wikidata
+        accessed: 2026-10-11

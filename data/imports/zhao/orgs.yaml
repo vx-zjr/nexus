@@ -1,0 +1,212 @@
+# 自动生成：ingest zhao（2026-10-10，源 https://github.com/programthink/zhao @ e8eea46 2018-05-02 18:35:59 +0800）
+# 许可：GPL-3.0（原作者：编程随想）。请勿手工修改本目录——修订请写到 data/curated/ 覆盖。
+sources:
+  - url: https://github.com/programthink/zhao
+    title: 编程随想《太子党关系网络》
+    publisher: programthink/zhao
+    note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+entities:
+  - id: wan-da-ji-tuan
+    type: org
+    name: 万达集团
+    names:
+      zh: 万达集团
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    founded: null
+    summary: |-
+      全称“大连万达集团股份有限公司”
+      老板王健林2009年开始跻身富豪榜前十
+      并在2013年成为中国首富
+      多个朝廷权贵及家属是万达的早期股东
+    ids:
+      zhao: company/万达集团
+    links: []
+    sources:
+      - url: https://github.com/programthink/zhao
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+  - id: shang-hai-ci-shan-ji-jin-hui
+    type: org
+    name: 上海慈善基金会
+    names:
+      zh: 上海慈善基金会
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    founded: null
+    summary: |-
+      有多位上海领导的配偶在该基金会任职
+      在上海官场被誉为"官太俱乐部"
+    ids:
+      zhao: company/上海慈善基金会
+    links: []
+    sources:
+      - url: https://github.com/programthink/zhao
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+  - id: zhong-xin-tai-fu
+    type: org
+    name: 中信泰富
+    names:
+      zh: 中信泰富有限公司
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    founded: null
+    summary: |-
+      主要业务：贸易、汽车、电力、物业、工业制造、信息业
+      香港上市，资产几百亿
+    ids:
+      zhao: company/中信泰富
+    links: []
+    sources:
+      - url: https://github.com/programthink/zhao
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+  - id: zhong-xin-ji-tuan
+    type: org
+    name: 中信集团
+    names:
+      zh: 中国国际信托投资公司
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    founded: null
+    summary: |-
+      1979年邓小平批准成立
+      主要业务：金融、实业、服务业
+      80年代十大官倒公司之首
+    ids:
+      zhao: company/中信集团
+    links: []
+    sources:
+      - url: https://github.com/programthink/zhao
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+  - id: zhong-xu-neng-ke
+    type: org
+    name: 中旭能科
+    names:
+      zh: 中旭阳光能源科技股份有限公司
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    founded: null
+    summary: |-
+      中石油电子工业类产品头号供应商
+      周永康家族利用它侵吞中石油大量国有资产
+    ids:
+      zhao: company/中旭能科
+    links: []
+    sources:
+      - url: https://github.com/programthink/zhao
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+  - id: bao-li-ji-tuan
+    type: org
+    name: 保利集团
+    names:
+      zh: 中国保利集团公司
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    founded: null
+    summary: |-
+      1983年由总参谋部与中信合办“保利科技公司”
+      1992年升格为“中国保利集团公司”
+      主要业务：军火进出口、房地产、矿产开发
+      2000年61家资产过百亿国企之一
+    ids:
+      zhao: company/保利集团
+    links: []
+    sources:
+      - url: https://github.com/programthink/zhao
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+  - id: an-bang-bao-xian
+    type: org
+    name: 安邦保险
+    names:
+      zh: 安邦保险
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    founded: null
+    summary: |-
+      2004年才成立的民营小公司，2013年已成为国内保险业老大
+      涉足保险、银行、证券多领域的金融帝国
+      是民生银行的第一大股东
+      是招商银行的第三大股东
+      并购韩国友利银行(韩国第二大商业银行)
+    ids:
+      zhao: company/安邦保险
+    links: []
+    sources:
+      - url: https://github.com/programthink/zhao
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+  - id: ping-an-bao-xian
+    type: org
+    name: 平安保险
+    names:
+      zh: 中国平安保险(集团)股份有限公司
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    founded: null
+    summary: |-
+      在香港交易所上市
+      恒生指数成份股(蓝筹股)
+    ids:
+      zhao: company/平安保险
+    links: []
+    sources:
+      - url: https://github.com/programthink/zhao
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+  - id: xi-shan-hui
+    type: org
+    name: 西山会
+    names:
+      zh: 西山会
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    founded: null
+    summary: 令计划组织的“山西籍”政商联盟，入会者皆政界、商界要人
+    ids:
+      zhao: company/西山会
+    links: []
+    sources:
+      - url: https://github.com/programthink/zhao
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800

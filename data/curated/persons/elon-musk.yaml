@@ -1,0 +1,22 @@
+id: elon-musk
+type: person
+name: Elon Musk
+names:
+  en: Elon Musk
+  zh: 埃隆·马斯克
+gender: M
+born: '1971-06-28'
+country:
+- US
+- ZA
+- CA
+sectors:
+- tech
+- business
+- politics
+tier: 1
+summary: 特斯拉、SpaceX（含 xAI/X）掌门，世界首富。2024 年经 America PAC 为特朗普投入 2 亿美元以上；2025-01 至 2025-05 主导“政府效率部”（DOGE），2025-06 与特朗普公开决裂。特斯拉上海超级工厂（2019 投产）由时任上海市委书记李强推动落地。
+sources:
+- url: https://en.wikipedia.org/wiki/Elon_Musk
+  publisher: Wikipedia
+updated: '2026-10-11'

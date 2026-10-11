@@ -1,0 +1,5044 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: u-s-air-force-test-pilot-school
+    type: org
+    name: U.S. Air Force Test Pilot School
+    names:
+      zh: 美国空军试飞员学校
+      en: U.S. Air Force Test Pilot School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Air Force's advanced flight training school
+    ids:
+      wikidata: Q3428253
+    links:
+      - https://en.wikipedia.org/wiki/U.S._Air_Force_Test_Pilot_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3428253
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: u-s-azerbaijan-chamber-of-commerce
+    type: org
+    name: U.S.-Azerbaijan Chamber of Commerce
+    names:
+      en: U.S.-Azerbaijan Chamber of Commerce
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: organization
+    ids:
+      wikidata: Q7862988
+    links:
+      - https://en.wikipedia.org/wiki/U.S.-Azerbaijan_Chamber_of_Commerce
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7862988
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: u-s-steel
+    type: org
+    name: U.S. Steel
+    names:
+      zh: 美国钢铁公司
+      en: U.S. Steel
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国钢铁制造公司
+    ids:
+      wikidata: Q72539
+    links:
+      - https://en.wikipedia.org/wiki/U.S._Steel
+    sources:
+      - url: https://www.wikidata.org/wiki/Q72539
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: u2-clothing
+    type: org
+    name: U2 Clothing
+    names:
+      en: U2 Clothing
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: casual-wear clothing brand in Asia
+    ids:
+      wikidata: Q7863585
+    links:
+      - https://en.wikipedia.org/wiki/U2_Clothing
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7863585
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: uber
+    type: org
+    name: Uber
+    names:
+      zh: 优步
+      en: Uber
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 總部位於美國加利福尼亞州舊金山的食品配送和運輸網絡公司
+    ids:
+      wikidata: Q780442
+    links:
+      - https://en.wikipedia.org/wiki/Uber
+    sources:
+      - url: https://www.wikidata.org/wiki/Q780442
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ubiquiti
+    type: org
+    name: Ubiquiti
+    names:
+      zh: 優比快科技
+      en: Ubiquiti
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 世界前三大商用網通公司
+    ids:
+      wikidata: Q7876533
+    links:
+      - https://en.wikipedia.org/wiki/Ubiquiti
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7876533
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ucla-school-of-law
+    type: org
+    name: UCLA School of Law
+    names:
+      zh: 加州大学洛杉矶分校法学院
+      en: UCLA School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school at the University of California, Los Angeles
+    ids:
+      wikidata: Q8012898
+    links:
+      - https://en.wikipedia.org/wiki/UCLA_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8012898
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: udacity
+    type: org
+    name: Udacity
+    names:
+      zh: Udacity
+      en: Udacity
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: for-profit educational organization
+    ids:
+      wikidata: Q766546
+    links:
+      - https://en.wikipedia.org/wiki/Udacity
+    sources:
+      - url: https://www.wikidata.org/wiki/Q766546
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: uline
+    type: org
+    name: Uline
+    names:
+      zh: Template:Uline
+      en: Uline
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: shipping supply company
+    ids:
+      wikidata: Q7879030
+    links:
+      - https://en.wikipedia.org/wiki/Uline
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7879030
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ulupono-initiative
+    type: org
+    name: Ulupono Initiative
+    names:
+      en: Ulupono Initiative
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: private organization in Hawaii
+    ids:
+      wikidata: Q22058965
+    links:
+      - https://en.wikipedia.org/wiki/Ulupono_Initiative
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22058965
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: unicef
+    type: org
+    name: UNICEF
+    names:
+      zh: 联合国儿童基金会
+      en: UNICEF
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 联合国设立的基金
+    ids:
+      wikidata: Q740308
+    links:
+      - https://en.wikipedia.org/wiki/UNICEF
+    sources:
+      - url: https://www.wikidata.org/wiki/Q740308
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-nations
+    type: org
+    name: United Nations
+    names:
+      zh: 联合国
+      en: United Nations
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 全球国际跨政府组织
+    ids:
+      wikidata: Q1065
+    links:
+      - https://en.wikipedia.org/wiki/United_Nations
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1065
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-nations-security-council
+    type: org
+    name: United Nations Security Council
+    names:
+      zh: 联合国安全理事会
+      en: United Nations Security Council
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 聯合國的六大主要機構之一，負責維護國際和平與安全
+    ids:
+      wikidata: Q37470
+    links:
+      - https://en.wikipedia.org/wiki/United_Nations_Security_Council
+    sources:
+      - url: https://www.wikidata.org/wiki/Q37470
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-parcel-service
+    type: org
+    name: United Parcel Service
+    names:
+      zh: 联合包裹服务
+      en: United Parcel Service
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國快遞公司
+    ids:
+      wikidata: Q155026
+    links:
+      - https://en.wikipedia.org/wiki/United_Parcel_Service
+    sources:
+      - url: https://www.wikidata.org/wiki/Q155026
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-rentals
+    type: org
+    name: United Rentals
+    names:
+      en: United Rentals
+    orgType: company
+    country:
+      - SE
+    sectors:
+      - business
+    tier: 4
+    summary: American equipment rental company
+    ids:
+      wikidata: Q7889101
+    links:
+      - https://en.wikipedia.org/wiki/United_Rentals
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7889101
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-agency-for-international-development
+    type: org
+    name: United States Agency for International Development
+    names:
+      zh: 美国国际开发署
+      en: United States Agency for International Development
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國政府機構
+    ids:
+      wikidata: Q217072
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Agency_for_International_Development
+    sources:
+      - url: https://www.wikidata.org/wiki/Q217072
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-air-force-academy
+    type: org
+    name: United States Air Force Academy
+    names:
+      zh: 美国空军学院
+      en: United States Air Force Academy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: military academy near Colorado Springs, Colorado, USA
+    ids:
+      wikidata: Q1331280
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Air_Force_Academy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1331280
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-armed-forces
+    type: org
+    name: United States Armed Forces
+    names:
+      zh: 美国军队
+      en: United States Armed Forces
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 由多個軍種組成，以全球部署的志願役武裝部隊為核心，負責國防、全球軍事行動與威懾任務
+    ids:
+      wikidata: Q11211
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Armed_Forces
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-army
+    type: org
+    name: United States Army
+    names:
+      zh: 美国陆军
+      en: United States Army
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美軍下屬軍種
+    ids:
+      wikidata: Q9212
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Army
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9212
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-army-command-and-general-staff-college
+    type: org
+    name: United States Army Command and General Staff College
+    names:
+      zh: 美国陆军指挥参谋学院
+      en: United States Army Command and General Staff College
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: United States army graduate school
+    ids:
+      wikidata: Q1115050
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Army_Command_and_General_Staff_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1115050
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-army-war-college
+    type: org
+    name: United States Army War College
+    names:
+      zh: 美国陆军战争学院
+      en: United States Army War College
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: United States Army school located in Carlisle, Pennsylvania
+    ids:
+      wikidata: Q635078
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Army_War_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q635078
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-commission-on-ocean-policy
+    type: org
+    name: United States Commission on Ocean Policy
+    names:
+      en: United States Commission on Ocean Policy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: US commission to establish findings and recommendations for a national ocean policy
+    ids:
+      wikidata: Q7889636
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Commission_on_Ocean_Policy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7889636
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-court-of-appeals-for-the-district-of-columbia-circuit
+    type: org
+    name: United States Court of Appeals for the District of Columbia Circuit
+    names:
+      zh: 美国哥伦比亚特区联邦巡回上诉法院
+      en: United States Court of Appeals for the District of Columbia Circuit
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: current United States federal appellate court
+    ids:
+      wikidata: Q2918178
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Court_of_Appeals_for_the_District_of_Columbia_Circuit
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2918178
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-court-of-appeals-for-the-third-circuit
+    type: org
+    name: United States Court of Appeals for the Third Circuit
+    names:
+      zh: 美国联邦第三巡回上诉法院
+      en: United States Court of Appeals for the Third Circuit
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 主审机关
+    ids:
+      wikidata: Q250438
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Court_of_Appeals_for_the_Third_Circuit
+    sources:
+      - url: https://www.wikidata.org/wiki/Q250438
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-department-of-agriculture
+    type: org
+    name: United States Department of Agriculture
+    names:
+      zh: 美国农业部
+      en: United States Department of Agriculture
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 政府部門
+    ids:
+      wikidata: Q501542
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_Agriculture
+    sources:
+      - url: https://www.wikidata.org/wiki/Q501542
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-department-of-commerce
+    type: org
+    name: United States Department of Commerce
+    names:
+      zh: 美国商务部
+      en: United States Department of Commerce
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國聯邦政府執行部門
+    ids:
+      wikidata: Q503577
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_Commerce
+    sources:
+      - url: https://www.wikidata.org/wiki/Q503577
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-department-of-defense
+    type: org
+    name: United States Department of Defense
+    names:
+      zh: 美国国防部
+      en: United States Department of Defense
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美国联邦政府部门
+    ids:
+      wikidata: Q11209
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_Defense
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11209
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-department-of-defense-china-task-force
+    type: org
+    name: United States Department of Defense China Task Force
+    names:
+      zh: 美國國防部中國特別工作組
+      en: United States Department of Defense China Task Force
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: task force announced by Joe Biden in 2021
+    ids:
+      wikidata: Q105677106
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_Defense_China_Task_Force
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105677106
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-department-of-education
+    type: org
+    name: United States Department of Education
+    names:
+      zh: 美国教育部
+      en: United States Department of Education
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国联邦政府行政部门
+    ids:
+      wikidata: Q861556
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_Education
+    sources:
+      - url: https://www.wikidata.org/wiki/Q861556
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-department-of-energy
+    type: org
+    name: United States Department of Energy
+    names:
+      zh: 美国能源部
+      en: United States Department of Energy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: cabinet-level department of the United States government
+    ids:
+      wikidata: Q217810
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_Energy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q217810
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-department-of-health-and-human-services
+    type: org
+    name: United States Department of Health and Human Services
+    names:
+      zh: 美國衛生及公共服務部
+      en: United States Department of Health and Human Services
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 政府部門
+    ids:
+      wikidata: Q942326
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_Health_and_Human_Services
+    sources:
+      - url: https://www.wikidata.org/wiki/Q942326
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-department-of-homeland-security
+    type: org
+    name: United States Department of Homeland Security
+    names:
+      zh: 美國國土安全部
+      en: United States Department of Homeland Security
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 政府部門
+    ids:
+      wikidata: Q11231
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_Homeland_Security
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11231
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-department-of-housing-and-urban-development
+    type: org
+    name: United States Department of Housing and Urban Development
+    names:
+      zh: 美國住房及城市發展部
+      en: United States Department of Housing and Urban Development
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 政府部門
+    ids:
+      wikidata: Q811595
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_Housing_and_Urban_Development
+    sources:
+      - url: https://www.wikidata.org/wiki/Q811595
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-department-of-labor
+    type: org
+    name: United States Department of Labor
+    names:
+      zh: 美國勞工部
+      en: United States Department of Labor
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 政府部門
+    ids:
+      wikidata: Q628807
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_Labor
+    sources:
+      - url: https://www.wikidata.org/wiki/Q628807
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-department-of-state
+    type: org
+    name: United States Department of State
+    names:
+      zh: 美国国务院
+      en: United States Department of State
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: 美國聯邦政府中負責外交事務的部門
+    ids:
+      wikidata: Q789915
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_State
+    sources:
+      - url: https://www.wikidata.org/wiki/Q789915
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-department-of-the-air-force
+    type: org
+    name: United States Department of the Air Force
+    names:
+      zh: 美国空军部
+      en: United States Department of the Air Force
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国政府机关
+    ids:
+      wikidata: Q1465252
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_the_Air_Force
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1465252
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-department-of-the-army
+    type: org
+    name: United States Department of the Army
+    names:
+      zh: 美国陆军部
+      en: United States Department of the Army
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国政府机关
+    ids:
+      wikidata: Q1328562
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_the_Army
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1328562
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-department-of-the-interior
+    type: org
+    name: United States Department of the Interior
+    names:
+      zh: 美国内政部
+      en: United States Department of the Interior
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 美国的行政部门
+    ids:
+      wikidata: Q608427
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_the_Interior
+    sources:
+      - url: https://www.wikidata.org/wiki/Q608427
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-department-of-the-navy
+    type: org
+    name: United States Department of the Navy
+    names:
+      zh: 美国海军部
+      en: United States Department of the Navy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国政府部门
+    ids:
+      wikidata: Q742787
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_the_Navy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q742787
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-department-of-the-treasury
+    type: org
+    name: United States Department of the Treasury
+    names:
+      zh: 美国财政部
+      en: United States Department of the Treasury
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: United States federal executive department
+    ids:
+      wikidata: Q648666
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury
+    sources:
+      - url: https://www.wikidata.org/wiki/Q648666
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-department-of-transportation
+    type: org
+    name: United States Department of Transportation
+    names:
+      zh: 美国运输部
+      en: United States Department of Transportation
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 美国政府部门
+    ids:
+      wikidata: Q852211
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_Transportation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q852211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-department-of-veterans-affairs
+    type: org
+    name: United States Department of Veterans Affairs
+    names:
+      zh: 美國退伍軍人事務部
+      en: United States Department of Veterans Affairs
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 政府部門
+    ids:
+      wikidata: Q592576
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs
+    sources:
+      - url: https://www.wikidata.org/wiki/Q592576
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-district-court-for-the-district-of-new-jersey
+    type: org
+    name: United States District Court for the District of New Jersey
+    names:
+      zh: 美国新泽西联邦地区法院
+      en: United States District Court for the District of New Jersey
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: United States federal district court of New Jersey
+    ids:
+      wikidata: Q14550169
+    links:
+      - https://en.wikipedia.org/wiki/United_States_District_Court_for_the_District_of_New_Jersey
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14550169
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-district-court-for-the-middle-district-of-florida
+    type: org
+    name: United States District Court for the Middle District of Florida
+    names:
+      zh: 美国佛罗里达中区联邦地区法院
+      en: United States District Court for the Middle District of Florida
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: United States federal district court in Florida
+    ids:
+      wikidata: Q14533147
+    links:
+      - https://en.wikipedia.org/wiki/United_States_District_Court_for_the_Middle_District_of_Florida
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14533147
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-district-court-for-the-southern-district-of-new-york
+    type: org
+    name: United States District Court for the Southern District of New York
+    names:
+      zh: 美国纽约南区联邦地区法院
+      en: United States District Court for the Southern District of New York
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: United States federal district court
+    ids:
+      wikidata: Q49669
+    links:
+      - https://en.wikipedia.org/wiki/United_States_District_Court_for_the_Southern_District_of_New_York
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49669
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-environmental-protection-agency
+    type: org
+    name: United States Environmental Protection Agency
+    names:
+      zh: 美国国家环境保护局
+      en: United States Environmental Protection Agency
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: U.S. federal government agency
+    ids:
+      wikidata: Q460173
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency
+    sources:
+      - url: https://www.wikidata.org/wiki/Q460173
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-holocaust-memorial-museum
+    type: org
+    name: United States Holocaust Memorial Museum
+    names:
+      zh: 美国大屠杀纪念博物馆
+      en: United States Holocaust Memorial Museum
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 建筑
+    ids:
+      wikidata: Q238990
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Holocaust_Memorial_Museum
+    sources:
+      - url: https://www.wikidata.org/wiki/Q238990
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-house-committee-on-science-space-and-technology
+    type: org
+    name: United States House Committee on Science, Space and Technology
+    names:
+      zh: 美國眾議院科學與技術委員會
+      en: United States House Committee on Science, Space and Technology
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Standing committee of the United States House of Representatives
+    ids:
+      wikidata: Q7889981
+    links:
+      - https://en.wikipedia.org/wiki/United_States_House_Committee_on_Science%2C_Space%2C_and_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7889981
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-house-committee-on-the-judiciary
+    type: org
+    name: United States House Committee on the Judiciary
+    names:
+      zh: 美国众议院司法委员会
+      en: United States House Committee on the Judiciary
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國眾議院常設委員會
+    ids:
+      wikidata: Q1131462
+    links:
+      - https://en.wikipedia.org/wiki/United_States_House_Committee_on_the_Judiciary
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1131462
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-house-judiciary-select-subcommittee-on-the-weaponization-of-the-fe
+    type: org
+    name: United States House Judiciary Select Subcommittee on the Weaponization of the Federal Government
+    names:
+      zh: 美國眾議院司法機構聯邦政府武器化特別小組委員會
+      en: United States House Judiciary Select Subcommittee on the Weaponization of the Federal Government
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: subcommittee of the US House of Representatives
+    ids:
+      wikidata: Q116449472
+    links:
+      - https://en.wikipedia.org/wiki/United_States_House_Judiciary_Select_Subcommittee_on_the_Weaponization_of_the_Federal_Government
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116449472
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-house-permanent-select-committee-on-intelligence
+    type: org
+    name: United States House Permanent Select Committee on Intelligence
+    names:
+      zh: 美国众议院情报常设委员会
+      en: United States House Permanent Select Committee on Intelligence
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: permanent select committee of the United States House of Representatives
+    ids:
+      wikidata: Q2495362
+    links:
+      - https://en.wikipedia.org/wiki/United_States_House_Permanent_Select_Committee_on_Intelligence
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2495362
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-house-select-committee-on-the-climate-crisis
+    type: org
+    name: United States House Select Committee on the Climate Crisis
+    names:
+      zh: 美国众议院气候危机特别委员会
+      en: United States House Select Committee on the Climate Crisis
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: defunct select committee of the United States House of Representatives
+    ids:
+      wikidata: Q65120141
+    links:
+      - https://en.wikipedia.org/wiki/United_States_House_Select_Committee_on_the_Climate_Crisis
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65120141
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-house-select-committee-on-the-january-6-attack
+    type: org
+    name: United States House Select Committee on the January 6 Attack
+    names:
+      zh: 美國眾議院1月6日襲擊事件特別委員會
+      en: United States House Select Committee on the January 6 Attack
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: select committee of the United States House of Representatives
+    ids:
+      wikidata: Q107473422
+    links:
+      - https://en.wikipedia.org/wiki/January_6th_Committee
+    sources:
+      - url: https://www.wikidata.org/wiki/Q107473422
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-house-select-subcommittee-on-the-coronavirus-crisis
+    type: org
+    name: United States House Select Subcommittee on the Coronavirus Crisis
+    names:
+      en: United States House Select Subcommittee on the Coronavirus Crisis
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: bipartisan United States House of Representatives select subcommittee
+    ids:
+      wikidata: Q94201102
+    links:
+      - https://en.wikipedia.org/wiki/United_States_House_Select_Subcommittee_on_the_Coronavirus_Pandemic
+    sources:
+      - url: https://www.wikidata.org/wiki/Q94201102
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-intelligence-community
+    type: org
+    name: United States Intelligence Community
+    names:
+      zh: 情报界
+      en: United States Intelligence Community
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国联邦情报和安全机构的统称
+    ids:
+      wikidata: Q786878
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Intelligence_Community
+    sources:
+      - url: https://www.wikidata.org/wiki/Q786878
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-merchant-marine-academy
+    type: org
+    name: United States Merchant Marine Academy
+    names:
+      zh: 美国商船学院
+      en: United States Merchant Marine Academy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: U.S. service academy
+    ids:
+      wikidata: Q1806541
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Merchant_Marine_Academy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1806541
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-military-academy
+    type: org
+    name: United States Military Academy
+    names:
+      zh: 西点军校
+      en: United States Military Academy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 位于美国纽约州西点的军事学校
+    ids:
+      wikidata: Q9219
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Military_Academy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9219
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-mission-to-the-united-nations
+    type: org
+    name: United States Mission to the United Nations
+    names:
+      zh: 美国驻联合国代表团
+      en: United States Mission to the United Nations
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: United States delegation
+    ids:
+      wikidata: Q7890766
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Mission_to_the_United_Nations
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7890766
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-national-institutes-of-health
+    type: org
+    name: United States National Institutes of Health
+    names:
+      zh: 国立卫生研究院
+      en: United States National Institutes of Health
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: US government medical research agency
+    ids:
+      wikidata: Q390551
+    links:
+      - https://en.wikipedia.org/wiki/National_Institutes_of_Health
+    sources:
+      - url: https://www.wikidata.org/wiki/Q390551
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-national-security-council
+    type: org
+    name: United States National Security Council
+    names:
+      zh: 美国国家安全委员会
+      en: United States National Security Council
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 美国政府国家安全与外交事务决策机构
+    ids:
+      wikidata: Q851756
+    links:
+      - https://en.wikipedia.org/wiki/United_States_National_Security_Council
+    sources:
+      - url: https://www.wikidata.org/wiki/Q851756
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-naval-academy
+    type: org
+    name: United States Naval Academy
+    names:
+      zh: 美国海军学院
+      en: United States Naval Academy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國聯邦軍種學院
+    ids:
+      wikidata: Q559549
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Naval_Academy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q559549
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-naval-test-pilot-school
+    type: org
+    name: United States Naval Test Pilot School
+    names:
+      zh: 美国海军试飞员学校
+      en: United States Naval Test Pilot School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: post-graduate professional education establishment in USA
+    ids:
+      wikidata: Q1128819
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Naval_Test_Pilot_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1128819
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-navy
+    type: org
+    name: United States Navy
+    names:
+      zh: 美国海军
+      en: United States Navy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美軍海軍軍種
+    ids:
+      wikidata: Q11220
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Navy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11220
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-postal-service
+    type: org
+    name: United States Postal Service
+    names:
+      zh: 美国邮政署
+      en: United States Postal Service
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 負責提供郵政服務的美國政府獨立機構
+    ids:
+      wikidata: Q668687
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Postal_Service
+    sources:
+      - url: https://www.wikidata.org/wiki/Q668687
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-senate-committee-on-armed-services
+    type: org
+    name: United States Senate Committee on Armed Services
+    names:
+      zh: 美国参议院军事委员会
+      en: United States Senate Committee on Armed Services
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: standing committee of the United States Senate
+    ids:
+      wikidata: Q508577
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_Armed_Services
+    sources:
+      - url: https://www.wikidata.org/wiki/Q508577
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-senate-committee-on-energy-and-natural-resources
+    type: org
+    name: United States Senate Committee on Energy and Natural Resources
+    names:
+      zh: 美國參議院能源與自然資源委員會
+      en: United States Senate Committee on Energy and Natural Resources
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: standing committee of the United States Senate
+    ids:
+      wikidata: Q1501315
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_Energy_and_Natural_Resources
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1501315
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-senate-committee-on-finance
+    type: org
+    name: United States Senate Committee on Finance
+    names:
+      zh: 美国参议院财政委员会
+      en: United States Senate Committee on Finance
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: standing committee of the United States Senate
+    ids:
+      wikidata: Q2985424
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_Finance
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2985424
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-senate-committee-on-foreign-relations
+    type: org
+    name: United States Senate Committee on Foreign Relations
+    names:
+      zh: 美国参议院外交委员会
+      en: United States Senate Committee on Foreign Relations
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: Standing committee of the United States Senate
+    ids:
+      wikidata: Q1806257
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_Foreign_Relations
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1806257
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-senate-committee-on-health-education-labor-and-pensions
+    type: org
+    name: United States Senate Committee on Health, Education, Labor, and Pensions
+    names:
+      zh: 美國參議院健康、教育、勞工與養老金委員會
+      en: United States Senate Committee on Health, Education, Labor, and Pensions
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Standing committee of the United States Senate
+    ids:
+      wikidata: Q2495438
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_Health%2C_Education%2C_Labor_and_Pensions
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2495438
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-senate-committee-on-homeland-security-and-governmental-affairs
+    type: org
+    name: United States Senate Committee on Homeland Security and Governmental Affairs
+    names:
+      zh: 美国参议院国土安全和政府事务委员会
+      en: United States Senate Committee on Homeland Security and Governmental Affairs
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: standing committee of the United States Senate
+    ids:
+      wikidata: Q1489338
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_Homeland_Security_and_Governmental_Affairs
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1489338
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-senate-committee-on-small-business-and-entrepreneurship
+    type: org
+    name: United States Senate Committee on Small Business and Entrepreneurship
+    names:
+      zh: 美國參議院中小企及商貿委員會
+      en: United States Senate Committee on Small Business and Entrepreneurship
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: standing committee of the United States Senate
+    ids:
+      wikidata: Q499076
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_Small_Business_and_Entrepreneurship
+    sources:
+      - url: https://www.wikidata.org/wiki/Q499076
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-senate-committee-on-the-judiciary
+    type: org
+    name: United States Senate Committee on the Judiciary
+    names:
+      zh: 美国联邦参议院司法委员会
+      en: United States Senate Committee on the Judiciary
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: standing committee of the United States Senate
+    ids:
+      wikidata: Q452532
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_the_Judiciary
+    sources:
+      - url: https://www.wikidata.org/wiki/Q452532
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-senate-select-committee-on-intelligence
+    type: org
+    name: United States Senate Select Committee on Intelligence
+    names:
+      zh: 美国国会参议院情报委员会
+      en: United States Senate Select Committee on Intelligence
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American legislative committee overseeing intelligence
+    ids:
+      wikidata: Q502239
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Senate_Select_Committee_on_Intelligence
+    sources:
+      - url: https://www.wikidata.org/wiki/Q502239
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-senate-special-committee-on-aging
+    type: org
+    name: United States Senate Special Committee on Aging
+    names:
+      zh: 美國參議院老齡特別委員會
+      en: United States Senate Special Committee on Aging
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Senate subcommittee on elderly issues and rights
+    ids:
+      wikidata: Q7891353
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Senate_Special_Committee_on_Aging
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7891353
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: united-states-women-s-bureau
+    type: org
+    name: United States Women's Bureau
+    names:
+      zh: 美國婦女事務局
+      en: United States Women's Bureau
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: US government agency
+    ids:
+      wikidata: Q15838765
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Women's_Bureau
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15838765
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: unitedhealth-group
+    type: org
+    name: UnitedHealth Group
+    names:
+      zh: 聯合健康保險
+      en: UnitedHealth Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 總部設在美國明尼蘇達州明尼托卡的跨國健康保險及衛生資訊公司
+    ids:
+      wikidata: Q2103926
+    links:
+      - https://en.wikipedia.org/wiki/UnitedHealth_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2103926
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: unitree-robotics
+    type: org
+    name: 宇树科技
+    names:
+      zh: 宇树科技
+      en: Unitree Robotics
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国的机器人公司
+    ids:
+      wikidata: Q106369174
+    links:
+      - https://en.wikipedia.org/wiki/Unitree_Robotics
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106369174
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: universal-robina
+    type: org
+    name: Universal Robina
+    names:
+      zh: 環球羅比娜公司
+      en: Universal Robina
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Filipino food and beverage company
+    ids:
+      wikidata: Q3304900
+    links:
+      - https://en.wikipedia.org/wiki/Universal_Robina
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3304900
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: universal-television
+    type: org
+    name: Universal Television
+    names:
+      zh: 环球电视公司
+      en: Universal Television
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: television production arm of the NBCUniversal Television and Streaming
+    ids:
+      wikidata: Q1337530
+    links:
+      - https://en.wikipedia.org/wiki/Universal_Television
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1337530
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university
+    type: org
+    name: university
+    names:
+      zh: 大学
+      en: university
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 教育和学术研究的最高学府
+    ids:
+      wikidata: Q3918
+    links:
+      - https://en.wikipedia.org/wiki/University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3918
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-at-buffalo
+    type: org
+    name: University at Buffalo
+    names:
+      zh: 布法罗大学
+      en: University at Buffalo
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国大学
+    ids:
+      wikidata: Q681025
+    links:
+      - https://en.wikipedia.org/wiki/University_at_Buffalo
+    sources:
+      - url: https://www.wikidata.org/wiki/Q681025
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-college-london
+    type: org
+    name: University College London
+    names:
+      zh: 伦敦大学学院
+      en: University College London
+    orgType: university
+    country:
+      - GB
+    sectors:
+      - academia
+    tier: 2
+    summary: ucl建筑设计学院
+    ids:
+      wikidata: Q193196
+    links:
+      - https://en.wikipedia.org/wiki/University_College_London
+    sources:
+      - url: https://www.wikidata.org/wiki/Q193196
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-college-oxford
+    type: org
+    name: University College, Oxford
+    names:
+      zh: 牛津大学学院
+      en: University College, Oxford
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 3
+    summary: Constituent College of Oxford University
+    ids:
+      wikidata: Q81087
+    links:
+      - https://en.wikipedia.org/wiki/University_College%2C_Oxford
+    sources:
+      - url: https://www.wikidata.org/wiki/Q81087
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-alabama
+    type: org
+    name: University of Alabama
+    names:
+      zh: 阿拉巴马大学
+      en: University of Alabama
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public university located in Tuscaloosa, Alabama, United States
+    ids:
+      wikidata: Q492318
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Alabama
+    sources:
+      - url: https://www.wikidata.org/wiki/Q492318
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-alabama-school-of-law
+    type: org
+    name: University of Alabama School of Law
+    names:
+      zh: 阿拉巴马大学法学院
+      en: University of Alabama School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American public law school
+    ids:
+      wikidata: Q7895034
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Alabama_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895034
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-alaska-anchorage
+    type: org
+    name: University of Alaska Anchorage
+    names:
+      zh: 阿拉斯加大学安克雷奇分校
+      en: University of Alaska Anchorage
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国阿拉斯加州公立大学
+    ids:
+      wikidata: Q1285252
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Alaska_Anchorage
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1285252
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-alaska-fairbanks
+    type: org
+    name: University of Alaska Fairbanks
+    names:
+      zh: 阿拉斯加大学费尔班克斯分校
+      en: University of Alaska Fairbanks
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: university
+    ids:
+      wikidata: Q1285262
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Alaska_Fairbanks
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1285262
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-arizona
+    type: org
+    name: University of Arizona
+    names:
+      zh: 亚利桑那大学
+      en: University of Arizona
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 1885年创建的一所学校
+    ids:
+      wikidata: Q503419
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Arizona
+    sources:
+      - url: https://www.wikidata.org/wiki/Q503419
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-arkansas
+    type: org
+    name: University of Arkansas
+    names:
+      zh: 阿肯色大学
+      en: University of Arkansas
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国大学
+    ids:
+      wikidata: Q1070333
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Arkansas
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1070333
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-arkansas-school-of-law
+    type: org
+    name: University of Arkansas School of Law
+    names:
+      zh: 阿肯色大學法學院
+      en: University of Arkansas School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: school at the University of Arkansas, United States
+    ids:
+      wikidata: Q7895080
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Arkansas_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895080
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-bridgeport
+    type: org
+    name: University of Bridgeport
+    names:
+      zh: 布里奇波特大学
+      en: University of Bridgeport
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国大学
+    ids:
+      wikidata: Q1055874
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Bridgeport
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1055874
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-california-berkeley
+    type: org
+    name: University of California, Berkeley
+    names:
+      zh: 加州大学伯克利分校
+      en: University of California, Berkeley
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美国加利福尼亚州伯克利的大学
+    ids:
+      wikidata: Q168756
+    links:
+      - https://en.wikipedia.org/wiki/University_of_California%2C_Berkeley
+    sources:
+      - url: https://www.wikidata.org/wiki/Q168756
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-california-berkeley-school-of-law
+    type: org
+    name: University of California, Berkeley School of Law
+    names:
+      zh: 加州大学伯克利分校法学院
+      en: University of California, Berkeley School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 1894年創建的一所學校
+    ids:
+      wikidata: Q846183
+    links:
+      - https://en.wikipedia.org/wiki/UC_Berkeley_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q846183
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-california-college-of-the-law-san-francisco
+    type: org
+    name: University of California College of the Law, San Francisco
+    names:
+      zh: 加州大学黑斯廷斯法学院
+      en: University of California College of the Law, San Francisco
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 1878年创建的一个学校
+    ids:
+      wikidata: Q3577853
+    links:
+      - https://en.wikipedia.org/wiki/University_of_California_College_of_the_Law%2C_San_Francisco
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3577853
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-california-davis
+    type: org
+    name: University of California, Davis
+    names:
+      zh: 戴维斯加利福尼亚大学
+      en: University of California, Davis
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 1959年創建的一所學校
+    ids:
+      wikidata: Q129421
+    links:
+      - https://en.wikipedia.org/wiki/University_of_California%2C_Davis
+    sources:
+      - url: https://www.wikidata.org/wiki/Q129421
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-california-irvine
+    type: org
+    name: University of California, Irvine
+    names:
+      zh: 加利福尼亚大学欧文分校
+      en: University of California, Irvine
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 1965年創建的一所學校
+    ids:
+      wikidata: Q868421
+    links:
+      - https://en.wikipedia.org/wiki/University_of_California%2C_Irvine
+    sources:
+      - url: https://www.wikidata.org/wiki/Q868421
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-california-los-angeles
+    type: org
+    name: University of California, Los Angeles
+    names:
+      zh: 加州大学洛杉矶分校
+      en: University of California, Los Angeles
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 位于加州洛杉矶的研究型大学
+    ids:
+      wikidata: Q174710
+    links:
+      - https://en.wikipedia.org/wiki/University_of_California%2C_Los_Angeles
+    sources:
+      - url: https://www.wikidata.org/wiki/Q174710
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-california-san-diego
+    type: org
+    name: University of California, San Diego
+    names:
+      zh: 圣迭戈加利福尼亚大学
+      en: University of California, San Diego
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 1960年創建的一所學校
+    ids:
+      wikidata: Q622664
+    links:
+      - https://en.wikipedia.org/wiki/University_of_California%2C_San_Diego
+    sources:
+      - url: https://www.wikidata.org/wiki/Q622664
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-california-santa-barbara
+    type: org
+    name: University of California, Santa Barbara
+    names:
+      zh: 加利福尼亚大学圣巴巴拉分校
+      en: University of California, Santa Barbara
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 1891年創建的一所學校
+    ids:
+      wikidata: Q263064
+    links:
+      - https://en.wikipedia.org/wiki/University_of_California%2C_Santa_Barbara
+    sources:
+      - url: https://www.wikidata.org/wiki/Q263064
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-cambridge
+    type: org
+    name: University of Cambridge
+    names:
+      zh: 剑桥大学
+      en: University of Cambridge
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 2
+    summary: 1209年创建的一所学校
+    ids:
+      wikidata: Q35794
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Cambridge
+    sources:
+      - url: https://www.wikidata.org/wiki/Q35794
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-central-florida
+    type: org
+    name: University of Central Florida
+    names:
+      zh: 中佛罗里达大学
+      en: University of Central Florida
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public university in Orange County, Florida, United States
+    ids:
+      wikidata: Q143451
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Central_Florida
+    sources:
+      - url: https://www.wikidata.org/wiki/Q143451
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-central-missouri
+    type: org
+    name: University of Central Missouri
+    names:
+      zh: 中密苏里大学
+      en: University of Central Missouri
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: public university in Warrensburg, Missouri, United States
+    ids:
+      wikidata: Q7895252
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Central_Missouri
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895252
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-chicago
+    type: org
+    name: University of Chicago
+    names:
+      zh: 芝加哥大学
+      en: University of Chicago
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 2
+    summary: 位于美國伊利諾伊州芝加哥的私立研究型大學
+    ids:
+      wikidata: Q131252
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Chicago
+    sources:
+      - url: https://www.wikidata.org/wiki/Q131252
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-chicago-laboratory-schools
+    type: org
+    name: University of Chicago Laboratory Schools
+    names:
+      zh: 芝加哥大学附属实验学校
+      en: University of Chicago Laboratory Schools
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private secondary school in Chicago, United States
+    ids:
+      wikidata: Q3551351
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Chicago_Laboratory_Schools
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3551351
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-chicago-law-school
+    type: org
+    name: University of Chicago Law School
+    names:
+      zh: 芝加哥大学法学院
+      en: University of Chicago Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school
+    ids:
+      wikidata: Q1036763
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Chicago_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1036763
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-chinese-academy-of-sciences
+    type: org
+    name: 中国科学院大学
+    names:
+      zh: 中国科学院大学
+      en: University of Chinese Academy of Sciences
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中國科學院直屬高等院校
+    ids:
+      wikidata: Q6544465
+    links:
+      - https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6544465
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-cincinnati
+    type: org
+    name: University of Cincinnati
+    names:
+      zh: 辛辛纳提大学
+      en: University of Cincinnati
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 俄亥俄州辛辛那提的公立研究型大学
+    ids:
+      wikidata: Q153265
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Cincinnati
+    sources:
+      - url: https://www.wikidata.org/wiki/Q153265
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-colorado
+    type: org
+    name: University of Colorado
+    names:
+      zh: 科罗拉多大學系统
+      en: University of Colorado
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public university system in Colorado, United States
+    ids:
+      wikidata: Q1206658
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Colorado
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1206658
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-colorado-boulder
+    type: org
+    name: University of Colorado Boulder
+    names:
+      zh: 科羅拉多大學博爾德分校
+      en: University of Colorado Boulder
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public university in Boulder, Colorado, United States, and flagship of the University of Colorado System
+    ids:
+      wikidata: Q736674
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Colorado_Boulder
+    sources:
+      - url: https://www.wikidata.org/wiki/Q736674
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-colorado-law-school
+    type: org
+    name: University of Colorado Law School
+    names:
+      zh: 科羅拉多大學法學院
+      en: University of Colorado Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Public law school in Boulder, Colorado, US
+    ids:
+      wikidata: Q7895286
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Colorado_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895286
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-connecticut
+    type: org
+    name: University of Connecticut
+    names:
+      zh: 康涅狄格大学
+      en: University of Connecticut
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国的康涅狄格州的大学
+    ids:
+      wikidata: Q49206
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Connecticut
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49206
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-connecticut-school-of-law
+    type: org
+    name: University of Connecticut School of Law
+    names:
+      zh: 康涅狄格大學法學院
+      en: University of Connecticut School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public law school associated with the University of Connecticut and located in Hartford, Connecticut, United States
+    ids:
+      wikidata: Q7895301
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Connecticut_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895301
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-dayton
+    type: org
+    name: University of Dayton
+    names:
+      zh: 戴顿大学
+      en: University of Dayton
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university in Dayton, Ohio, USA
+    ids:
+      wikidata: Q2092392
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Dayton
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2092392
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-dayton-school-of-law
+    type: org
+    name: University of Dayton School of Law
+    names:
+      en: University of Dayton School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Private law school in Dayton, Ohio, US
+    ids:
+      wikidata: Q7895323
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Dayton_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895323
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-delaware
+    type: org
+    name: University of Delaware
+    names:
+      zh: 特拉华大学
+      en: University of Delaware
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美國大學
+    ids:
+      wikidata: Q1068072
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Delaware
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1068072
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-denver
+    type: org
+    name: University of Denver
+    names:
+      zh: 丹佛大学
+      en: University of Denver
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国科罗拉多州丹佛市大学
+    ids:
+      wikidata: Q519427
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Denver
+    sources:
+      - url: https://www.wikidata.org/wiki/Q519427
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-detroit-mercy
+    type: org
+    name: University of Detroit Mercy
+    names:
+      zh: 底特律梅西大學
+      en: University of Detroit Mercy
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university
+    ids:
+      wikidata: Q1320232
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Detroit_Mercy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1320232
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-electronic-science-and-technology-of-china
+    type: org
+    name: 电子科技大学
+    names:
+      zh: 电子科技大学
+      en: University of Electronic Science and Technology of China
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国四川省成都市大学
+    ids:
+      wikidata: Q5971900
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Electronic_Science_and_Technology_of_China
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5971900
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-florida
+    type: org
+    name: University of Florida
+    names:
+      zh: 佛罗里达大学
+      en: University of Florida
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 1853年创建的一所学校
+    ids:
+      wikidata: Q501758
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Florida
+    sources:
+      - url: https://www.wikidata.org/wiki/Q501758
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-georgia
+    type: org
+    name: University of Georgia
+    names:
+      zh: 佐治亚大学
+      en: University of Georgia
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国佐治亚州的大学
+    ids:
+      wikidata: Q761534
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Georgia
+    sources:
+      - url: https://www.wikidata.org/wiki/Q761534
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-georgia-school-of-law
+    type: org
+    name: University of Georgia School of Law
+    names:
+      en: University of Georgia School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school of the University in Georgia in Athens, Georgia, United States
+    ids:
+      wikidata: Q7895457
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Georgia_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895457
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-hawai-i-at-hilo
+    type: org
+    name: University of Hawaiʻi at Hilo
+    names:
+      zh: 夏威夷大学希罗分校
+      en: University of Hawaiʻi at Hilo
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university in Hawaiʻi in United States of America
+    ids:
+      wikidata: Q2150914
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Hawai%CA%BBi_at_Hilo
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2150914
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-hawai-i-at-manoa
+    type: org
+    name: University of Hawaiʻi at Mānoa
+    names:
+      zh: 夏威夷大学马诺阿分校
+      en: University of Hawaiʻi at Mānoa
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国公立大学
+    ids:
+      wikidata: Q2000129
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Hawai%CA%BBi_at_M%C4%81noa
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2000129
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-hawai-i-system
+    type: org
+    name: University of Hawaiʻi System
+    names:
+      zh: 夏威夷大学
+      en: University of Hawaiʻi System
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 学校
+    ids:
+      wikidata: Q217439
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Hawai%CA%BBi
+    sources:
+      - url: https://www.wikidata.org/wiki/Q217439
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-helsinki
+    type: org
+    name: University of Helsinki
+    names:
+      zh: 赫尔辛基大学
+      en: University of Helsinki
+    orgType: university
+    country:
+      - FI
+    sectors:
+      - academia
+    tier: 2
+    summary: 芬兰的一所大学
+    ids:
+      wikidata: Q28695
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Helsinki
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28695
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-hong-kong
+    type: org
+    name: 香港大学
+    names:
+      zh: 香港大学
+      en: University of Hong Kong
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 香港一所公立大学
+    ids:
+      wikidata: Q15568
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Hong_Kong
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15568
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-houston
+    type: org
+    name: University of Houston
+    names:
+      zh: 休斯顿大学
+      en: University of Houston
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 位於美國得克薩斯州休士頓市的州立大學
+    ids:
+      wikidata: Q1472358
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Houston
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1472358
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-houston-law-center
+    type: org
+    name: University of Houston Law Center
+    names:
+      zh: 休斯顿大学法律中心
+      en: University of Houston Law Center
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Law school of the University of Houston
+    ids:
+      wikidata: Q7895499
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Houston_Law_Center
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895499
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-idaho
+    type: org
+    name: University of Idaho
+    names:
+      zh: 爱达荷大学
+      en: University of Idaho
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public research university in Moscow, Idaho, United States
+    ids:
+      wikidata: Q1854488
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Idaho
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1854488
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-illinois-chicago
+    type: org
+    name: University of Illinois Chicago
+    names:
+      zh: 伊利諾大學芝加哥分校
+      en: University of Illinois Chicago
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public university (1983-)
+    ids:
+      wikidata: Q955764
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Illinois_Chicago
+    sources:
+      - url: https://www.wikidata.org/wiki/Q955764
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-illinois-chicago-school-of-law
+    type: org
+    name: University of Illinois Chicago School of Law
+    names:
+      zh: 伊利诺伊大学芝加哥法学院
+      en: University of Illinois Chicago School of Law
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: public law school in Chicago
+    ids:
+      wikidata: Q6246903
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Illinois_Chicago_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6246903
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-illinois-urbana-champaign
+    type: org
+    name: University of Illinois Urbana-Champaign
+    names:
+      zh: 伊利诺伊大学厄巴纳-香槟分校
+      en: University of Illinois Urbana-Champaign
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 1867年创建的一所公立学校
+    ids:
+      wikidata: Q457281
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Illinois_Urbana-Champaign
+    sources:
+      - url: https://www.wikidata.org/wiki/Q457281
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-international-business-and-economics
+    type: org
+    name: 对外经济贸易大学
+    names:
+      zh: 对外经济贸易大学
+      en: University of International Business and Economics
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位於中國大陸北京市的公立大學
+    ids:
+      wikidata: Q835779
+    links:
+      - https://en.wikipedia.org/wiki/University_of_International_Business_and_Economics
+    sources:
+      - url: https://www.wikidata.org/wiki/Q835779
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-iowa
+    type: org
+    name: University of Iowa
+    names:
+      zh: 爱荷华大学
+      en: University of Iowa
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 学校
+    ids:
+      wikidata: Q182973
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Iowa
+    sources:
+      - url: https://www.wikidata.org/wiki/Q182973
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-iowa-college-of-law
+    type: org
+    name: University of Iowa College of Law
+    names:
+      en: University of Iowa College of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school in Iowa City, Iowa
+    ids:
+      wikidata: Q7895557
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Iowa_College_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895557
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-kansas
+    type: org
+    name: University of Kansas
+    names:
+      zh: 堪萨斯大学
+      en: University of Kansas
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 学校
+    ids:
+      wikidata: Q52413
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Kansas
+    sources:
+      - url: https://www.wikidata.org/wiki/Q52413
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-kansas-school-of-law
+    type: org
+    name: University of Kansas School of Law
+    names:
+      en: University of Kansas School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public law school in the U.S. State of Kansas
+    ids:
+      wikidata: Q7895581
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Kansas_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895581
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-kansas-school-of-medicine
+    type: org
+    name: University of Kansas School of Medicine
+    names:
+      zh: 堪萨斯大学医学院
+      en: University of Kansas School of Medicine
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: medical school in Kansas City, Kansas, United States
+    ids:
+      wikidata: Q7895582
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Kansas_School_of_Medicine
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895582
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-kentucky
+    type: org
+    name: University of Kentucky
+    names:
+      zh: 肯塔基大学
+      en: University of Kentucky
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国肯塔基州公立大学
+    ids:
+      wikidata: Q1360303
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Kentucky
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1360303
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-kentucky-college-of-law
+    type: org
+    name: University of Kentucky College of Law
+    names:
+      zh: 肯塔基大學法學院
+      en: University of Kentucky College of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school of the University of Kentucky in Lexington, KY, USA
+    ids:
+      wikidata: Q7895594
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Kentucky_Rosenberg_College_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895594
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-liverpool
+    type: org
+    name: University of Liverpool
+    names:
+      zh: 利物浦大学
+      en: University of Liverpool
+    orgType: university
+    country:
+      - GB
+    sectors:
+      - academia
+    tier: 3
+    summary: 英國大學
+    ids:
+      wikidata: Q499510
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Liverpool
+    sources:
+      - url: https://www.wikidata.org/wiki/Q499510
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-london
+    type: org
+    name: University of London
+    names:
+      zh: 伦敦大学
+      en: University of London
+    orgType: university
+    country:
+      - GB
+    sectors:
+      - academia
+    tier: 2
+    summary: 聯合王國倫敦的聯邦公立大學
+    ids:
+      wikidata: Q170027
+    links:
+      - https://en.wikipedia.org/wiki/University_of_London
+    sources:
+      - url: https://www.wikidata.org/wiki/Q170027
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-maine
+    type: org
+    name: University of Maine
+    names:
+      zh: 缅因大学
+      en: University of Maine
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: public research university in Orono, Maine, United States
+    ids:
+      wikidata: Q1307345
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Maine
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1307345
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-manchester
+    type: org
+    name: University of Manchester
+    names:
+      zh: 曼彻斯特大学
+      en: University of Manchester
+    orgType: university
+    country:
+      - GB
+    sectors:
+      - academia
+    tier: 2
+    summary: 英國曼徹斯特的公立研究型大學
+    ids:
+      wikidata: Q230899
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Manchester
+    sources:
+      - url: https://www.wikidata.org/wiki/Q230899
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-maryland
+    type: org
+    name: University of Maryland
+    names:
+      zh: 马里兰大学科利奇帕克分校
+      en: University of Maryland
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国马里兰州科利奇帕克公立大学
+    ids:
+      wikidata: Q503415
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Maryland%2C_College_Park
+    sources:
+      - url: https://www.wikidata.org/wiki/Q503415
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-maryland-baltimore
+    type: org
+    name: University of Maryland, Baltimore
+    names:
+      zh: 馬里蘭大學巴爾的摩分校
+      en: University of Maryland, Baltimore
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university with professional schools in the health sciences, social work and law in Baltimore, Maryland
+    ids:
+      wikidata: Q4119470
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Maryland%2C_Baltimore
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4119470
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-maryland-francis-king-carey-school-of-law
+    type: org
+    name: University of Maryland Francis King Carey School of Law
+    names:
+      zh: 馬里蘭大學法律學院
+      en: University of Maryland Francis King Carey School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school of the University of Maryland, located in Baltimore
+    ids:
+      wikidata: Q7895695
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Maryland_Francis_King_Carey_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895695
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-maryland-global-campus
+    type: org
+    name: University of Maryland Global Campus
+    names:
+      zh: 马里兰大学全球分校
+      en: University of Maryland Global Campus
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: one of 11 degree-granting institutions within the University System of Maryland
+    ids:
+      wikidata: Q14692455
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Maryland_Global_Campus
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14692455
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-massachusetts-amherst
+    type: org
+    name: University of Massachusetts Amherst
+    names:
+      zh: 马萨诸塞州立大学艾莫斯特分校
+      en: University of Massachusetts Amherst
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public university in Massachusetts, United States
+    ids:
+      wikidata: Q15142
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Massachusetts_Amherst
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15142
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-massachusetts-boston
+    type: org
+    name: University of Massachusetts Boston
+    names:
+      zh: 麻州大學波士頓分校
+      en: University of Massachusetts Boston
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: American public university
+    ids:
+      wikidata: Q15144
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Massachusetts_Boston
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15144
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-memphis
+    type: org
+    name: University of Memphis
+    names:
+      zh: 曼菲斯大学
+      en: University of Memphis
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国大学
+    ids:
+      wikidata: Q2094177
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Memphis
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2094177
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-miami
+    type: org
+    name: University of Miami
+    names:
+      zh: 迈阿密大学
+      en: University of Miami
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国佛罗里达州大学
+    ids:
+      wikidata: Q738258
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Miami
+    sources:
+      - url: https://www.wikidata.org/wiki/Q738258
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-miami-school-of-law
+    type: org
+    name: University of Miami School of Law
+    names:
+      zh: 邁阿密大學法學院
+      en: University of Miami School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Academic unit of the University of Miami offering law education programs
+    ids:
+      wikidata: Q7895748
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Miami_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895748
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-michigan
+    type: org
+    name: University of Michigan
+    names:
+      zh: 密歇根大学
+      en: University of Michigan
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國密西根州的公立研究型大學
+    ids:
+      wikidata: Q230492
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Michigan
+    sources:
+      - url: https://www.wikidata.org/wiki/Q230492
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-michigan-college-of-literature-science-and-the-arts
+    type: org
+    name: University of Michigan College of Literature, Science, and the Arts
+    names:
+      zh: 密歇根大学文学科学和艺术学院
+      en: University of Michigan College of Literature, Science, and the Arts
+    orgType: fund
+    country:
+      - US
+    sectors:
+      - finance
+    tier: 4
+    summary: liberal arts and sciences school in Michigan
+    ids:
+      wikidata: Q7895753
+    links:
+      - https://en.wikipedia.org/wiki/College_of_Literature%2C_Science%2C_and_the_Arts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895753
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-michigan-flint
+    type: org
+    name: University of Michigan–Flint
+    names:
+      zh: 密歇根大学弗林特分校
+      en: University of Michigan–Flint
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: public university in Flint, Michigan
+    ids:
+      wikidata: Q7895785
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Michigan%E2%80%93Flint
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895785
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-michigan-law-school
+    type: org
+    name: University of Michigan Law School
+    names:
+      zh: 密歇根大学法学院
+      en: University of Michigan Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school
+    ids:
+      wikidata: Q911830
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Michigan_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q911830
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-michigan-medical-school
+    type: org
+    name: University of Michigan Medical School
+    names:
+      zh: 密歇根大学医学院
+      en: University of Michigan Medical School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American medical school
+    ids:
+      wikidata: Q20725458
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Michigan_Medical_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20725458
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-minnesota
+    type: org
+    name: University of Minnesota
+    names:
+      zh: 明尼苏达大学
+      en: University of Minnesota
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国明尼苏达州的大学
+    ids:
+      wikidata: Q238101
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Minnesota
+    sources:
+      - url: https://www.wikidata.org/wiki/Q238101
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-mississippi
+    type: org
+    name: University of Mississippi
+    names:
+      zh: 密西西比大学
+      en: University of Mississippi
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 学校
+    ids:
+      wikidata: Q1138384
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Mississippi
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1138384
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-mississippi-school-of-law
+    type: org
+    name: University of Mississippi School of Law
+    names:
+      zh: 密西西比大学法学院
+      en: University of Mississippi School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school in Oxford, Mississippi, U.S.
+    ids:
+      wikidata: Q14693404
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Mississippi_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14693404
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-missouri
+    type: org
+    name: University of Missouri
+    names:
+      zh: 密苏里大学
+      en: University of Missouri
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 1839年创建的一所学校
+    ids:
+      wikidata: Q579968
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Missouri
+    sources:
+      - url: https://www.wikidata.org/wiki/Q579968
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-missouri-kansas-city
+    type: org
+    name: University of Missouri–Kansas City
+    names:
+      zh: 密苏里大学堪萨斯城分校
+      en: University of Missouri–Kansas City
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: American public university
+    ids:
+      wikidata: Q940690
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Missouri%E2%80%93Kansas_City
+    sources:
+      - url: https://www.wikidata.org/wiki/Q940690
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-missouri-school-of-law
+    type: org
+    name: University of Missouri School of Law
+    names:
+      en: University of Missouri School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school in Columbia, Missouri
+    ids:
+      wikidata: Q7895840
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Missouri_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895840
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-nebraska-lincoln
+    type: org
+    name: University of Nebraska–Lincoln
+    names:
+      zh: 内布拉斯加大学林肯分校
+      en: University of Nebraska–Lincoln
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 学校
+    ids:
+      wikidata: Q1353679
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Nebraska%E2%80%93Lincoln
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1353679
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-nevada-las-vegas
+    type: org
+    name: University of Nevada, Las Vegas
+    names:
+      zh: 内华达大学拉斯维加斯分校
+      en: University of Nevada, Las Vegas
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: public research university in Paradise, Nevada, United States
+    ids:
+      wikidata: Q2302311
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Nevada%2C_Las_Vegas
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2302311
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-nevada-reno
+    type: org
+    name: University of Nevada, Reno
+    names:
+      zh: 内华达大学雷诺分校
+      en: University of Nevada, Reno
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: public research university in Reno, Nevada, United States
+    ids:
+      wikidata: Q1185955
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Nevada%2C_Reno
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1185955
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-new-hampshire-school-of-law
+    type: org
+    name: University of New Hampshire School of Law
+    names:
+      zh: 新罕布什爾大學法學院
+      en: University of New Hampshire School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school of the University of New Hampshire
+    ids:
+      wikidata: Q7895906
+    links:
+      - https://en.wikipedia.org/wiki/University_of_New_Hampshire_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895906
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-new-mexico
+    type: org
+    name: University of New Mexico
+    names:
+      zh: 新墨西哥大学
+      en: University of New Mexico
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: public research university in Albuquerque, New Mexico, United States
+    ids:
+      wikidata: Q1190812
+    links:
+      - https://en.wikipedia.org/wiki/University_of_New_Mexico
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1190812
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-new-mexico-school-of-law
+    type: org
+    name: University of New Mexico School of Law
+    names:
+      zh: 新墨西哥大学法学院
+      en: University of New Mexico School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American law school
+    ids:
+      wikidata: Q7895916
+    links:
+      - https://en.wikipedia.org/wiki/University_of_New_Mexico_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7895916
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-north-carolina-at-chapel-hill
+    type: org
+    name: University of North Carolina at Chapel Hill
+    names:
+      zh: 北卡罗来纳大学查珀尔希尔校区
+      en: University of North Carolina at Chapel Hill
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 位于美国北卡罗来纳州查珀尔希尔的公立大学
+    ids:
+      wikidata: Q192334
+    links:
+      - https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Chapel_Hill
+    sources:
+      - url: https://www.wikidata.org/wiki/Q192334
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-north-carolina-at-charlotte
+    type: org
+    name: University of North Carolina at Charlotte
+    names:
+      zh: 北卡羅來納大學夏洛特分校
+      en: University of North Carolina at Charlotte
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public research university in Charlotte, North Carolina, USA
+    ids:
+      wikidata: Q1783178
+    links:
+      - https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Charlotte
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1783178
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-north-carolina-school-of-law
+    type: org
+    name: University of North Carolina School of Law
+    names:
+      zh: 北卡罗来纳大学法学院
+      en: University of North Carolina School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school
+    ids:
+      wikidata: Q167102
+    links:
+      - https://en.wikipedia.org/wiki/University_of_North_Carolina_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q167102
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-north-dakota
+    type: org
+    name: University of North Dakota
+    names:
+      zh: 北達科他大學
+      en: University of North Dakota
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public university in North Dakota, United States of America
+    ids:
+      wikidata: Q968559
+    links:
+      - https://en.wikipedia.org/wiki/University_of_North_Dakota
+    sources:
+      - url: https://www.wikidata.org/wiki/Q968559
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-north-texas
+    type: org
+    name: University of North Texas
+    names:
+      zh: 北德克薩斯大學
+      en: University of North Texas
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国的大学
+    ids:
+      wikidata: Q860527
+    links:
+      - https://en.wikipedia.org/wiki/University_of_North_Texas
+    sources:
+      - url: https://www.wikidata.org/wiki/Q860527
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-northern-colorado
+    type: org
+    name: University of Northern Colorado
+    names:
+      zh: 北科罗拉多大学
+      en: University of Northern Colorado
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: state university in Greeley, Colorado, United States
+    ids:
+      wikidata: Q1783608
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Northern_Colorado
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1783608
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-notre-dame
+    type: org
+    name: University of Notre Dame
+    names:
+      zh: 聖母大學
+      en: University of Notre Dame
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 在美國印第安納州南本德的天主教大學
+    ids:
+      wikidata: Q178848
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Notre_Dame
+    sources:
+      - url: https://www.wikidata.org/wiki/Q178848
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-oklahoma
+    type: org
+    name: University of Oklahoma
+    names:
+      zh: 俄克拉何马大学
+      en: University of Oklahoma
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国俄克拉荷马州大学
+    ids:
+      wikidata: Q640652
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Oklahoma
+    sources:
+      - url: https://www.wikidata.org/wiki/Q640652
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-oregon
+    type: org
+    name: University of Oregon
+    names:
+      zh: 俄勒岡大學
+      en: University of Oregon
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public research university in Eugene, Oregon, USA
+    ids:
+      wikidata: Q766145
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Oregon
+    sources:
+      - url: https://www.wikidata.org/wiki/Q766145
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-oregon-school-of-law
+    type: org
+    name: University of Oregon School of Law
+    names:
+      zh: 俄勒岡大學法學院
+      en: University of Oregon School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public law school within University of Oregon
+    ids:
+      wikidata: Q7896029
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Oregon_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7896029
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-oxford
+    type: org
+    name: University of Oxford
+    names:
+      zh: 牛津大学
+      en: University of Oxford
+    orgType: university
+    country:
+      - GB
+    sectors:
+      - academia
+    tier: 2
+    summary: 1096年创建的一所学校
+    ids:
+      wikidata: Q34433
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Oxford
+    sources:
+      - url: https://www.wikidata.org/wiki/Q34433
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-paris
+    type: org
+    name: University of Paris
+    names:
+      zh: 巴黎大学
+      en: University of Paris
+    orgType: fund
+    country:
+      - FR
+    sectors:
+      - finance
+    tier: 2
+    summary: 法國大學
+    ids:
+      wikidata: Q209842
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Paris
+    sources:
+      - url: https://www.wikidata.org/wiki/Q209842
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-pennsylvania
+    type: org
+    name: University of Pennsylvania
+    names:
+      zh: 宾夕法尼亚大学
+      en: University of Pennsylvania
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 2
+    summary: 位於美國賓夕法尼亞州費城的私立研究型大學
+    ids:
+      wikidata: Q49117
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Pennsylvania
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49117
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-pennsylvania-carey-law-school
+    type: org
+    name: University of Pennsylvania Carey Law School
+    names:
+      zh: 宾夕法尼亚大学法学院
+      en: University of Pennsylvania Carey Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school of the University of Pennsylvania
+    ids:
+      wikidata: Q7896088
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Pennsylvania_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7896088
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-phoenix
+    type: org
+    name: University of Phoenix
+    names:
+      zh: 菲尼克斯大学
+      en: University of Phoenix
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 学校
+    ids:
+      wikidata: Q1889100
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Phoenix
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1889100
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-pittsburgh
+    type: org
+    name: University of Pittsburgh
+    names:
+      zh: 匹兹堡大学
+      en: University of Pittsburgh
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: state-related research university located in Pittsburgh, Pennsylvania, United States
+    ids:
+      wikidata: Q235034
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Pittsburgh
+    sources:
+      - url: https://www.wikidata.org/wiki/Q235034
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-pittsburgh-school-of-law
+    type: org
+    name: University of Pittsburgh School of Law
+    names:
+      zh: 匹茲堡大學法學院
+      en: University of Pittsburgh School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Public law school in Pittsburgh, Pennsylvania, US
+    ids:
+      wikidata: Q7896136
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Pittsburgh_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7896136
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-redlands
+    type: org
+    name: University of Redlands
+    names:
+      zh: 雷德蘭茲大學
+      en: University of Redlands
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private liberal arts university located in Redlands, California
+    ids:
+      wikidata: Q1270831
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Redlands
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1270831
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-richmond-school-of-law
+    type: org
+    name: University of Richmond School of Law
+    names:
+      zh: 里士滿大學法學院
+      en: University of Richmond School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: school of the University of Richmond, Virginia, United States of America
+    ids:
+      wikidata: Q4005921
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Richmond_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4005921
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-rochester
+    type: org
+    name: University of Rochester
+    names:
+      zh: 罗切斯特大学
+      en: University of Rochester
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国纽约州罗切斯特市的大学
+    ids:
+      wikidata: Q149990
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Rochester
+    sources:
+      - url: https://www.wikidata.org/wiki/Q149990
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-san-diego
+    type: org
+    name: University of San Diego
+    names:
+      zh: 圣迭戈大学
+      en: University of San Diego
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国加利福尼亚州圣迭戈大学
+    ids:
+      wikidata: Q262663
+    links:
+      - https://en.wikipedia.org/wiki/University_of_San_Diego
+    sources:
+      - url: https://www.wikidata.org/wiki/Q262663
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-san-francisco
+    type: org
+    name: University of San Francisco
+    names:
+      zh: 旧金山大学
+      en: University of San Francisco
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: Jesuit Catholic university in San Francisco, California
+    ids:
+      wikidata: Q1887879
+    links:
+      - https://en.wikipedia.org/wiki/University_of_San_Francisco
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1887879
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-science-and-technology-beijing
+    type: org
+    name: 北京科技大学
+    names:
+      zh: 北京科技大学
+      en: University of Science and Technology Beijing
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位於中國北京市的教育部直屬的大學
+    ids:
+      wikidata: Q1510516
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Science_and_Technology_Beijing
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1510516
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-science-and-technology-of-china
+    type: org
+    name: 中国科学技术大学
+    names:
+      zh: 中国科学技术大学
+      en: University of Science and Technology of China
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 中国科学院直属院校之一
+    ids:
+      wikidata: Q1074103
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1074103
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-south-carolina
+    type: org
+    name: University of South Carolina
+    names:
+      zh: 南卡罗来纳大学
+      en: University of South Carolina
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public university in Columbia, South Carolina
+    ids:
+      wikidata: Q1024426
+    links:
+      - https://en.wikipedia.org/wiki/University_of_South_Carolina
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1024426
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-south-carolina-school-of-law
+    type: org
+    name: University of South Carolina School of Law
+    names:
+      zh: 南卡羅來納大學法學院
+      en: University of South Carolina School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school in Columbia, South Carolina, United States
+    ids:
+      wikidata: Q7896321
+    links:
+      - https://en.wikipedia.org/wiki/Joseph_F._Rice_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7896321
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-south-dakota
+    type: org
+    name: University of South Dakota
+    names:
+      zh: 南達科塔大學
+      en: University of South Dakota
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: public research university located in Vermillion, South Dakota, USA
+    ids:
+      wikidata: Q1305521
+    links:
+      - https://en.wikipedia.org/wiki/University_of_South_Dakota
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1305521
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-south-florida
+    type: org
+    name: University of South Florida
+    names:
+      zh: 南佛罗里达大学
+      en: University of South Florida
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public university in Tampa, Florida, United States
+    ids:
+      wikidata: Q500606
+    links:
+      - https://en.wikipedia.org/wiki/University_of_South_Florida
+    sources:
+      - url: https://www.wikidata.org/wiki/Q500606
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-southern-california
+    type: org
+    name: University of Southern California
+    names:
+      zh: 南加州大学
+      en: University of Southern California
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 2
+    summary: 美国加利福尼亚州的一所大学
+    ids:
+      wikidata: Q4614
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Southern_California
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4614
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-southern-mississippi
+    type: org
+    name: University of Southern Mississippi
+    names:
+      zh: 南密西西比大学
+      en: University of Southern Mississippi
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: public university
+    ids:
+      wikidata: Q624090
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Southern_Mississippi
+    sources:
+      - url: https://www.wikidata.org/wiki/Q624090
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-tennessee
+    type: org
+    name: University of Tennessee
+    names:
+      zh: 田纳西大学
+      en: University of Tennessee
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 学校
+    ids:
+      wikidata: Q1150105
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Tennessee
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1150105
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-texas-at-austin
+    type: org
+    name: University of Texas at Austin
+    names:
+      zh: 得克萨斯大学奥斯汀分校
+      en: University of Texas at Austin
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國德克薩斯州奧斯丁的公立研究型大學
+    ids:
+      wikidata: Q49213
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Texas_at_Austin
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49213
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-texas-at-dallas
+    type: org
+    name: University of Texas at Dallas
+    names:
+      zh: 得克萨斯州大学达拉斯分校
+      en: University of Texas at Dallas
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 德克薩斯州達拉斯的公立大學
+    ids:
+      wikidata: Q1781394
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Texas_at_Dallas
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1781394
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-texas-at-el-paso
+    type: org
+    name: University of Texas at El Paso
+    names:
+      zh: 德克萨斯大学艾尔帕索分校
+      en: University of Texas at El Paso
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 德克薩斯州埃爾帕索的公立研究型大學
+    ids:
+      wikidata: Q2093110
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Texas_at_El_Paso
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2093110
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-texas-at-san-antonio
+    type: org
+    name: University of Texas at San Antonio
+    names:
+      zh: 德克薩斯州大學聖安東尼奧分校
+      en: University of Texas at San Antonio
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: public research university in San Antonio, Texas, USA
+    ids:
+      wikidata: Q183170
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Texas_at_San_Antonio
+    sources:
+      - url: https://www.wikidata.org/wiki/Q183170
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-texas-medical-branch
+    type: org
+    name: University of Texas Medical Branch
+    names:
+      zh: 德克薩斯大學醫學分部
+      en: University of Texas Medical Branch
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: hospital in Texas, United States
+    ids:
+      wikidata: Q921264
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Texas_Medical_Branch
+    sources:
+      - url: https://www.wikidata.org/wiki/Q921264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-texas-school-of-law
+    type: org
+    name: University of Texas School of Law
+    names:
+      zh: 德克萨斯大学法学院
+      en: University of Texas School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: graduate school of the University of Texas at Austin
+    ids:
+      wikidata: Q7896446
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Texas_at_Austin_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7896446
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-the-pacific
+    type: org
+    name: University of the Pacific
+    names:
+      zh: Pacific大学
+      en: University of the Pacific
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于美国加利福尼亚州史塔克顿的私立大学
+    ids:
+      wikidata: Q630226
+    links:
+      - https://en.wikipedia.org/wiki/University_of_the_Pacific_(United_States)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q630226
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-tokyo
+    type: org
+    name: University of Tokyo
+    names:
+      zh: 东京大学
+      en: University of Tokyo
+    orgType: other
+    country:
+      - JP
+    sectors:
+      - other
+    tier: 2
+    summary: 位于日本东京的大学
+    ids:
+      wikidata: Q7842
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Tokyo
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7842
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-toledo
+    type: org
+    name: University of Toledo
+    names:
+      zh: 托莱多大学
+      en: University of Toledo
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国大学
+    ids:
+      wikidata: Q2302319
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Toledo
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2302319
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-toronto
+    type: org
+    name: University of Toronto
+    names:
+      zh: 多伦多大学
+      en: University of Toronto
+    orgType: other
+    country:
+      - CA
+    sectors:
+      - other
+    tier: 2
+    summary: 加拿大公立大學
+    ids:
+      wikidata: Q180865
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Toronto
+    sources:
+      - url: https://www.wikidata.org/wiki/Q180865
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-tulsa
+    type: org
+    name: University of Tulsa
+    names:
+      zh: 塔尔萨大学
+      en: University of Tulsa
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university in Oklahoma, United States
+    ids:
+      wikidata: Q1848657
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Tulsa
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1848657
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-utah
+    type: org
+    name: University of Utah
+    names:
+      zh: 犹他大学
+      en: University of Utah
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 猶他州鹽湖城的公立男女同校空間研究大學
+    ids:
+      wikidata: Q168515
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Utah
+    sources:
+      - url: https://www.wikidata.org/wiki/Q168515
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-virginia
+    type: org
+    name: University of Virginia
+    names:
+      zh: 弗吉尼亚大学
+      en: University of Virginia
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 学校
+    ids:
+      wikidata: Q213439
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Virginia
+    sources:
+      - url: https://www.wikidata.org/wiki/Q213439
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-virginia-school-of-law
+    type: org
+    name: University of Virginia School of Law
+    names:
+      zh: 弗吉尼亚大学法学院
+      en: University of Virginia School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: public law school in Charlottesville, Virginia, United States
+    ids:
+      wikidata: Q7896545
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Virginia_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7896545
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-washington
+    type: org
+    name: University of Washington
+    names:
+      zh: 华盛顿大学
+      en: University of Washington
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 2
+    summary: 美国华盛顿州州立大学
+    ids:
+      wikidata: Q219563
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Washington
+    sources:
+      - url: https://www.wikidata.org/wiki/Q219563
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-washington-michael-g-foster-school-of-business
+    type: org
+    name: University of Washington Michael G. Foster School of Business
+    names:
+      zh: 福斯特商學院
+      en: University of Washington Michael G. Foster School of Business
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: business school
+    ids:
+      wikidata: Q5473751
+    links:
+      - https://en.wikipedia.org/wiki/Foster_School_of_Business
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5473751
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-west-florida
+    type: org
+    name: University of West Florida
+    names:
+      zh: 西佛羅里達大學
+      en: University of West Florida
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university
+    ids:
+      wikidata: Q659255
+    links:
+      - https://en.wikipedia.org/wiki/University_of_West_Florida
+    sources:
+      - url: https://www.wikidata.org/wiki/Q659255
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-western-ontario
+    type: org
+    name: University of Western Ontario
+    names:
+      zh: 西安大略大学
+      en: University of Western Ontario
+    orgType: other
+    country:
+      - CA
+    sectors:
+      - other
+    tier: 3
+    summary: 公立研究型大學，位於加拿大安大略省倫敦
+    ids:
+      wikidata: Q1144262
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Western_Ontario
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1144262
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-wisconsin-law-school
+    type: org
+    name: University of Wisconsin Law School
+    names:
+      zh: 威斯康星大学法学院
+      en: University of Wisconsin Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school in Madison, Wisconsin, US
+    ids:
+      wikidata: Q152303
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Wisconsin_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q152303
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-wisconsin-madison
+    type: org
+    name: University of Wisconsin–Madison
+    names:
+      zh: 威斯康星大学麦迪逊分校
+      en: University of Wisconsin–Madison
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 位于美国威斯康星州麦迪逊市的公立研究型大学
+    ids:
+      wikidata: Q838330
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Madison
+    sources:
+      - url: https://www.wikidata.org/wiki/Q838330
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-wisconsin-milwaukee
+    type: org
+    name: University of Wisconsin–Milwaukee
+    names:
+      zh: 威斯康星大学密尔沃基分校
+      en: University of Wisconsin–Milwaukee
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: university in Milwaukee
+    ids:
+      wikidata: Q1755318
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Milwaukee
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1755318
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-wyoming
+    type: org
+    name: University of Wyoming
+    names:
+      zh: 怀俄明大学
+      en: University of Wyoming
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public university in Laramie, Wyoming
+    ids:
+      wikidata: Q1326975
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Wyoming
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1326975
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: university-of-wyoming-college-of-law
+    type: org
+    name: University of Wyoming College of Law
+    names:
+      zh: 懷俄明大學法學院
+      en: University of Wyoming College of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Public law school in Laramie, Wyoming, US
+    ids:
+      wikidata: Q7896672
+    links:
+      - https://en.wikipedia.org/wiki/University_of_Wyoming_College_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7896672
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: urban-institute
+    type: org
+    name: Urban Institute
+    names:
+      zh: 城市研究所
+      en: Urban Institute
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American think tank
+    ids:
+      wikidata: Q7899935
+    links:
+      - https://en.wikipedia.org/wiki/Urban_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7899935
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: us-cabinet
+    type: org
+    name: United States Cabinet
+    names:
+      zh: 美国内阁
+      en: United States Cabinet
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 3
+    summary: 美國聯邦行政部門
+    ids:
+      wikidata: Q639738
+    links:
+      - https://en.wikipedia.org/wiki/Cabinet_of_the_United_States
+    sources:
+      - url: https://www.wikidata.org/wiki/Q639738
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: us-doj
+    type: org
+    name: United States Department of Justice
+    names:
+      zh: 美国司法部
+      en: United States Department of Justice
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國聯邦政府行政部門
+    ids:
+      wikidata: Q1553390
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Department_of_Justice
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1553390
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: us-house
+    type: org
+    name: United States House of Representatives
+    names:
+      zh: 美国众议院
+      en: United States House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國國會下議院
+    ids:
+      wikidata: Q11701
+    links:
+      - https://en.wikipedia.org/wiki/United_States_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11701
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: us-senate
+    type: org
+    name: United States Senate
+    names:
+      zh: 美国参议院
+      en: United States Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美国国会两院之一
+    ids:
+      wikidata: Q66096
+    links:
+      - https://en.wikipedia.org/wiki/United_States_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q66096
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: us-supreme-court
+    type: org
+    name: Supreme Court of the United States
+    names:
+      zh: 美国最高法院
+      en: Supreme Court of the United States
+    orgType: court
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 2
+    summary: 维基媒体主题
+    ids:
+      wikidata: Q11201
+    links:
+      - https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11201
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: us-white-house
+    type: org
+    name: White House
+    names:
+      zh: 白宫
+      en: White House
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國的總統府
+    ids:
+      wikidata: Q35525
+    links:
+      - https://en.wikipedia.org/wiki/White_House
+    sources:
+      - url: https://www.wikidata.org/wiki/Q35525
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: usafacts
+    type: org
+    name: USAFacts
+    names:
+      en: USAFacts
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American nonprofit organization
+    ids:
+      wikidata: Q30636266
+    links:
+      - https://en.wikipedia.org/wiki/USAFacts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30636266
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: usc-marshall-school-of-business
+    type: org
+    name: USC Marshall School of Business
+    names:
+      zh: 马歇尔商学院
+      en: USC Marshall School of Business
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: business school of the University of Southern California
+    ids:
+      wikidata: Q846829
+    links:
+      - https://en.wikipedia.org/wiki/USC_Marshall_School_of_Business
+    sources:
+      - url: https://www.wikidata.org/wiki/Q846829
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: usc-shoah-foundation
+    type: org
+    name: USC Shoah Foundation
+    names:
+      zh: 南加州大學大屠殺基金會視覺歷史與教育機構
+      en: USC Shoah Foundation
+    orgType: foundation
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: nonprofit organization dedicated to making audio-visual interviews with survivors and witnesses of the Holocaust
+    ids:
+      wikidata: Q571721
+    links:
+      - https://en.wikipedia.org/wiki/USC_Shoah_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q571721
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: usc-sol-price-school-of-public-policy
+    type: org
+    name: USC Sol Price School of Public Policy
+    names:
+      en: USC Sol Price School of Public Policy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Public policy school of the University of Southern California
+    ids:
+      wikidata: Q16981173
+    links:
+      - https://en.wikipedia.org/wiki/USC_Price_School_of_Public_Policy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16981173
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: utah-house-of-representatives
+    type: org
+    name: Utah House of Representatives
+    names:
+      zh: 猶他州眾議院
+      en: Utah House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the Utah State Legislature
+    ids:
+      wikidata: Q910613
+    links:
+      - https://en.wikipedia.org/wiki/Utah_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q910613
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: utah-state-senate
+    type: org
+    name: Utah State Senate
+    names:
+      zh: 猶他州參議院
+      en: Utah State Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the Utah State Legislature
+    ids:
+      wikidata: Q598101
+    links:
+      - https://en.wikipedia.org/wiki/Utah_State_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q598101
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: utah-state-university
+    type: org
+    name: Utah State University
+    names:
+      zh: 犹他州立学院
+      en: Utah State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: public university in Logan, Utah, United States
+    ids:
+      wikidata: Q1052614
+    links:
+      - https://en.wikipedia.org/wiki/Utah_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1052614
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: utica-comets
+    type: org
+    name: Utica Comets
+    names:
+      zh: 由提卡彗星
+      en: Utica Comets
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: professional ice hockey team based in Utica, New York
+    ids:
+      wikidata: Q13459971
+    links:
+      - https://en.wikipedia.org/wiki/Utica_Comets
+    sources:
+      - url: https://www.wikidata.org/wiki/Q13459971
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: utica-university
+    type: org
+    name: Utica University
+    names:
+      zh: 由提卡学院
+      en: Utica University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: Private university in New York state, United States
+    ids:
+      wikidata: Q7902782
+    links:
+      - https://en.wikipedia.org/wiki/Utica_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7902782
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: uwink
+    type: org
+    name: uWink
+    names:
+      en: uWink
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American digital entertainment company
+    ids:
+      wikidata: Q2471984
+    links:
+      - https://en.wikipedia.org/wiki/UWink
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2471984
+        publisher: Wikidata
+        accessed: 2026-10-11

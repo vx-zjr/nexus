@@ -1,0 +1,93 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+relations:
+  - from: oriales-rubio
+    to: marco-rubio
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q324546
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: owen-k-garriott
+    to: richard-garriott
+    type: parent
+    sources:
+      - url: https://www.wikidata.org/wiki/Q319269
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: olympia-snowe
+    to: peter-t-snowe
+    type: spouse
+    since: "1969"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22290
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: olympia-snowe
+    to: john-r-mckernan
+    type: spouse
+    since: "1989"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22290
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: otis-r-bowen
+    to: baylor-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q887335
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: otis-r-bowen
+    to: indiana-university-bloomington
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q887335
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: otis-r-bowen
+    to: indiana-university
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q887335
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: orrin-hatch
+    to: brigham-young-university
+    type: alumni
+    until: "1959"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q381157
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: orrin-hatch
+    to: university-of-pittsburgh-school-of-law
+    type: alumni
+    until: "1962"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q381157
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: orrin-hatch
+    to: primary-school
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q381157
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: olympia-snowe
+    to: university-of-maine
+    type: alumni
+    label: Bachelor of Arts
+    until: "1969"
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22290
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - from: olympia-snowe
+    to: bates-college
+    type: alumni
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22290
+        publisher: Wikidata
+        accessed: 2026-10-11

@@ -1,0 +1,19 @@
+id: lara-trump
+type: person
+name: Lara Trump
+names:
+  en: Lara Trump
+  zh: 拉拉·特朗普
+gender: F
+born: '1982-10-12'
+country:
+- US
+sectors:
+- politics
+- media
+tier: 3
+summary: Eric Trump 之妻（2014 年结婚）。2024–2025 年任共和党全国委员会（RNC）联合主席，后任 Fox News 节目主持人。
+sources:
+- url: https://en.wikipedia.org/wiki/Lara_Trump
+  publisher: Wikipedia
+updated: '2026-10-11'

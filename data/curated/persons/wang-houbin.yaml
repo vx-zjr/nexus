@@ -1,0 +1,33 @@
+id: wang-houbin
+type: person
+name: 王厚斌
+names:
+  zh: 王厚斌
+  en: Wang Houbin
+gender: M
+born: '1961'
+country:
+- CN
+sectors:
+- military
+tier: 3
+status: purged
+summary: 上将，前火箭军司令员（2023 年火箭军高层清洗后接任）。2025-10-17 被开除党籍军籍。
+positions:
+- title: 火箭军司令员
+  to: '2025'
+ids:
+  wikidata: Q78435207
+tags:
+- purged-2025
+- pla-purge
+sources:
+- url: https://www.news.cn/politics/20251017/e3b7c97972174ad1a4d9cd53ec87dd7b/c.html
+  title: 国防部：何卫东、苗华等 9 人被开除党籍军籍（新华社）
+  publisher: 新华网
+  date: '2025-10-17'
+- url: https://www.stheadline.com/zh-hans/realtime-china/3509826/何卫东等9上将遭惩-拆局四中或涉军委调整
+  title: 何卫东等9上将遭惩
+  publisher: 星岛日报
+  date: '2025-10-17'
+updated: '2026-10-11'

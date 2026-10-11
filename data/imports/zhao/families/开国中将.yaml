@@ -1,0 +1,270 @@
+# 自动生成：ingest zhao（2026-10-10，源 https://github.com/programthink/zhao @ e8eea46 2018-05-02 18:35:59 +0800）
+# 许可：GPL-3.0（原作者：编程随想）。请勿手工修改本目录——修订请写到 data/curated/ 覆盖。
+dossiers:
+  - id: family-yu-qiuli
+    kind: family
+    name: 余秋里家族
+    country:
+      - CN
+    head: yu-qiuli
+    core:
+      - yu-qiuli
+      - yu-fangfang
+    outer:
+      - ye-wenshan
+    tags:
+      - zhao
+      - 开国中将
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E4%BD%99%E7%A7%8B%E9%87%8C.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: yu-qiuli
+        to: yu-fangfang
+        type: parent
+        label: 子
+  - id: family-kong-congzhou
+    kind: family
+    name: 孔从洲家族
+    country:
+      - CN
+    head: kong-congzhou
+    core:
+      - kong-congzhou
+      - kong-linghua
+      - kong-jining
+      - kong-dongmei
+      - chen-dongsheng
+    outer:
+      - li-min
+    tags:
+      - zhao
+      - 开国中将
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E5%AD%94%E4%BB%8E%E6%B4%B2.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: kong-congzhou
+        to: kong-linghua
+        type: parent
+        label: 子
+      - from: kong-linghua
+        to: kong-jining
+        type: parent
+        label: 子
+      - from: li-min
+        to: kong-jining
+        type: parent
+        label: 子
+      - from: kong-linghua
+        to: kong-dongmei
+        type: parent
+        label: 女
+      - from: li-min
+        to: kong-dongmei
+        type: parent
+        label: 女
+      - from: kong-dongmei
+        to: chen-dongsheng
+        type: spouse
+        label: 夫
+  - id: family-liao-hansheng
+    kind: family
+    name: 廖汉生家族
+    country:
+      - CN
+    head: liao-hansheng
+    core:
+      - liao-hansheng
+      - liao-jianjun
+    outer:
+      - xiao-gengen
+      - yang-bailin
+    tags:
+      - zhao
+      - 开国中将
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E5%BB%96%E6%B1%89%E7%94%9F.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: liao-hansheng
+        to: xiao-gengen
+        type: spouse
+        label: 妻
+      - from: liao-hansheng
+        to: yang-bailin
+        type: spouse
+        label: 妻
+      - from: liao-hansheng
+        to: liao-jianjun
+        type: parent
+        label: 子
+      - from: yang-bailin
+        to: liao-jianjun
+        type: parent
+        label: 子
+  - id: family-zhang-zhen
+    kind: family
+    name: 张震家族
+    country:
+      - CN
+    head: zhang-zhen
+    core:
+      - zhang-zhen
+      - zhang-xiaoyang
+      - zhang-lianyang
+      - chen-xiaoying
+      - zhang-haiyang
+      - zhang-ningyang
+      - zhang-yanyang
+      - zhang-zhenqian
+    outer:
+      - sun-sui
+      - shou-xiaosong
+      - shou-songtao
+    tags:
+      - zhao
+      - 开国中将
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E5%BC%A0%E9%9C%87.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: zhang-zhen
+        to: zhang-xiaoyang
+        type: parent
+        label: 长子
+      - from: zhang-zhen
+        to: zhang-lianyang
+        type: parent
+        label: 次子
+      - from: zhang-lianyang
+        to: chen-xiaoying
+        type: spouse
+        label: 妻
+      - from: zhang-zhen
+        to: zhang-haiyang
+        type: parent
+        label: 三子
+      - from: zhang-haiyang
+        to: sun-sui
+        type: spouse
+        label: 妻
+      - from: zhang-zhen
+        to: zhang-ningyang
+        type: parent
+        label: 四子
+      - from: zhang-zhen
+        to: zhang-yanyang
+        type: parent
+        label: 女
+      - from: zhang-yanyang
+        to: shou-xiaosong
+        type: spouse
+        label: 夫
+      - from: shou-songtao
+        to: shou-xiaosong
+        type: parent
+        label: 子
+      - from: zhang-zhen
+        to: zhang-zhenqian
+        type: relative
+        label: 侄子
+  - id: family-wang-zheng
+    kind: family
+    name: 王诤家族
+    country:
+      - CN
+    head: wang-zheng
+    core:
+      - wang-zheng
+      - wang-sumin
+      - wang-leilei
+      - wang-jianxin
+    outer: []
+    tags:
+      - zhao
+      - 开国中将
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E7%8E%8B%E8%AF%A4.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: wang-zheng
+        to: wang-sumin
+        type: parent
+        label: 子
+      - from: wang-sumin
+        to: wang-leilei
+        type: parent
+        label: 子
+      - from: wang-zheng
+        to: wang-jianxin
+        type: parent
+        label: 子
+  - id: family-qin-jiwei
+    kind: family
+    name: 秦基伟家族
+    country:
+      - CN
+    head: qin-jiwei
+    core:
+      - qin-jiwei
+      - qin-weijiang
+      - qin-tian
+      - qin-wanjiang
+    outer:
+      - yang-dongming
+    tags:
+      - zhao
+      - 开国中将
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E7%A7%A6%E5%9F%BA%E4%BC%9F.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: qin-jiwei
+        to: qin-weijiang
+        type: parent
+        label: 长子
+      - from: qin-jiwei
+        to: qin-tian
+        type: parent
+        label: 次子
+      - from: qin-jiwei
+        to: qin-wanjiang
+        type: parent
+        label: 长女
+  - id: family-yan-kuiyao
+    kind: family
+    name: 阎揆要家族
+    country:
+      - CN
+    head: yan-kuiyao
+    core:
+      - yan-kuiyao
+      - yan-youxi
+    outer:
+      - qin-lisheng
+    tags:
+      - zhao
+      - 开国中将
+    sources:
+      - url: https://github.com/programthink/zhao/blob/master/data/family/%E9%98%8E%E6%8F%86%E8%A6%81.yaml
+        title: 编程随想《太子党关系网络》
+        publisher: programthink/zhao
+        note: GPL-3.0, commit e8eea46 2018-05-02 18:35:59 +0800
+    relations:
+      - from: yan-kuiyao
+        to: yan-youxi
+        type: sibling
+        label: 妹

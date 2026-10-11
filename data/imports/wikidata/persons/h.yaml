@@ -1,0 +1,5795 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: h-l-hunt
+    type: person
+    name: H. L. Hunt
+    names:
+      zh: H·L·亨特
+      en: H. L. Hunt
+    gender: M
+    born: 1889-02-17
+    died: 1974-11-29
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American businessman (1889–1974)
+    ids:
+      wikidata: Q719679
+    links:
+      - https://en.wikipedia.org/wiki/H._L._Hunt
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q719679
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: h-r-mcmaster
+    type: person
+    name: H. R. McMaster
+    names:
+      zh: H·R·麦克马斯特
+      en: H. R. McMaster
+    gender: M
+    born: 1962-07-24
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+    tier: 2
+    summary: 第26任美国国家安全顾问
+    ids:
+      wikidata: Q5628492
+    links:
+      - https://zh.wikipedia.org/wiki/H%C2%B7R%C2%B7%E9%BA%A5%E5%85%8B%E9%A6%AC%E6%96%AF%E7%89%B9
+      - https://en.wikipedia.org/wiki/H._R._McMaster
+    tags:
+      - us-executive
+      - party:independent politician
+    attrs:
+      party: independent politician
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5628492
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 总统国家安全事务助理
+        org: united-states-national-security-council
+        from: 2017-02-20
+        to: 2018-04-09
+  - id: habiba-akumu-obama
+    type: person
+    name: Habiba Akumu Obama
+    names:
+      en: Habiba Akumu Obama
+    gender: F
+    born: "1918"
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: grandmother of U.S. president Barack Obama
+    ids:
+      wikidata: Q15982330
+    links:
+      - https://en.wikipedia.org/wiki/Habiba_Akumu_Obama
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15982330
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: haela-ravenna-hunt-hendrix
+    type: person
+    name: Haela Ravenna Hunt-Hendrix
+    names:
+      en: Haela Ravenna Hunt-Hendrix
+    gender: F
+    born: 1985-01-25
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: 美國音樂家
+    ids:
+      wikidata: Q94166642
+    links:
+      - https://en.wikipedia.org/wiki/Haela_Hunt-Hendrix
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q94166642
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hakeem-jeffries
+    type: person
+    name: Hakeem Jeffries
+    names:
+      zh: 哈基姆·杰弗里斯
+      en: Hakeem Jeffries
+    gender: M
+    born: 1970-08-04
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 美國政治人物 (1970年出生)
+    ids:
+      wikidata: Q5640425
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%93%88%E5%9F%BA%E5%A7%86%C2%B7%E5%82%91%E5%BC%97%E9%87%8C%E6%96%AF
+      - https://en.wikipedia.org/wiki/Hakeem_Jeffries
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 39
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5640425
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 纽约州众议院议员
+        org: new-york-state-assembly
+        from: "2007"
+        to: "2012"
+      - title: Minority Leader of the United States House of Representatives
+        org: us-house
+        from: 2025-01-03
+      - title: Minority Leader of the United States House of Representatives
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+  - id: hal-rogers
+    type: person
+    name: Hal Rogers
+    names:
+      zh: 哈尔·罗杰斯
+      en: Hal Rogers
+    gender: M
+    born: 1937-12-31
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 美国律师、政治人物
+    ids:
+      wikidata: Q547153
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%93%88%E5%B0%94%C2%B7%E7%BD%97%E6%9D%B0%E6%96%AF
+      - https://en.wikipedia.org/wiki/Hal_Rogers
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 23
+    sources:
+      - url: https://www.wikidata.org/wiki/Q547153
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 會議代表
+        from: "1976"
+      - title: 會議代表
+        from: "1980"
+      - title: 會議代表
+        from: "1984"
+      - title: 會議代表
+        from: "1988"
+      - title: 會議代表
+        from: "1992"
+      - title: 會議代表
+        from: "1996"
+      - title: 會議代表
+        from: "2000"
+      - title: 會議代表
+        from: "2004"
+      - title: 會議代表
+        from: "2008"
+      - title: 联邦律师
+      - title: 美国众议员
+        org: us-house
+        from: 1987-01-03
+        to: 1989-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1985-01-03
+        to: 1987-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1981-01-03
+        to: 1983-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1993-01-05
+        to: 1995-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1995-01-04
+        to: 1997-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1997-01-07
+        to: 1999-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1983-01-03
+        to: 1985-01-03
+  - id: haley-stevens
+    type: person
+    name: Haley Stevens
+    names:
+      zh: 哈利·史蒂文斯
+      en: Haley Stevens
+    gender: F
+    born: 1983-06-24
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: American politician (born 1983)
+    ids:
+      wikidata: Q58322563
+    links:
+      - https://en.wikipedia.org/wiki/Haley_Stevens
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q58322563
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+        to: 2023-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: hamilton-e-james
+    type: person
+    name: Hamilton E. James
+    names:
+      en: Hamilton E. James
+    gender: M
+    born: 1951-02-03
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American businessperson. Founder and Chairman of Jefferson River Capital LLC. Former president and chief operating officer of The Blackstone Group
+    netWorth:
+      usd: 5000000000
+    ids:
+      wikidata: Q16149081
+    links:
+      - https://en.wikipedia.org/wiki/Hamilton_E._James
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16149081
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 理事会成员
+        org: board-of-directors
+        from: 1988-08-01
+  - id: han-changfu
+    type: person
+    name: 韩长赋
+    names:
+      zh: 韩长赋
+      en: Han Changfu
+    gender: M
+    born: 1954-10-10
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国农业农村部原部长
+    ids:
+      wikidata: Q376439
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9F%A9%E9%95%BF%E8%B5%8B
+      - https://en.wikipedia.org/wiki/Han_Changfu
+    tags:
+      - cn-ministers
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q376439
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国农业部部长
+        org: state-council-prc
+        from: 2009-12-01
+        to: 2018-03-01
+      - title: 中华人民共和国农业农村部部长
+        org: ministry-of-agriculture-and-rural-affairs-of-the-people-s-republic-of-china
+        from: 2018-03-01
+        to: 2020-12-01
+      - title: 吉林省人民政府省长
+        org: people-s-government-of-jilin-province
+        from: "2006"
+        to: "2009"
+  - id: han-jun
+    type: person
+    name: 韩俊
+    names:
+      zh: 韩俊
+      en: Han Jun
+    gender: M
+    born: 1963-12-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国经济学家、政治人物
+    ids:
+      wikidata: Q30945576
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9F%A9%E4%BF%8A_(1963%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Han_Jun_(politician)
+    tags:
+      - cn-ministers
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30945576
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国农业农村部部长
+        org: ministry-of-agriculture-and-rural-affairs-of-the-people-s-republic-of-china
+        from: 2024-09-13
+      - title: 吉林省人民政府省长
+        org: people-s-government-of-jilin-province
+        from: 2020-11-25
+        to: 2023-03-14
+  - id: han-liming
+    type: person
+    name: 韩立明
+    names:
+      zh: 韩立明
+      en: Han Liming
+    gender: F
+    born: 1964-09-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 江苏省政协党组副书记、副主席
+    ids:
+      wikidata: Q16908114
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9F%A9%E7%AB%8B%E6%98%8E
+      - https://en.wikipedia.org/wiki/Han_Liming
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16908114
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: han-qide
+    type: person
+    name: 韩启德
+    names:
+      zh: 韩启德
+      en: Han Qide
+    gender: M
+    born: "1945"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q1574134
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9F%A9%E5%90%AF%E5%BE%B7
+      - https://en.wikipedia.org/wiki/Han_Qide
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1574134
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国人民政治协商会议全国委员会副主席
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+        from: 2013-03-13
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: han-ruijie
+    type: person
+    name: 韩瑞阶
+    names:
+      zh: 韩瑞阶
+    gender: M
+    born: "1937"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8320640
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9F%A9%E7%91%9E%E9%98%B6
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8320640
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: han-wenxiu
+    type: person
+    name: 韩文秀
+    names:
+      zh: 韩文秀
+      en: Han Wenxiu
+    gender: M
+    born: "1963"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q85885247
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9F%A9%E6%96%87%E7%A7%80
+      - https://en.wikipedia.org/wiki/Han_Wenxiu
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q85885247
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: han-yanlin
+    type: person
+    name: 韩延林
+    names:
+      zh: 韩延林
+    gender: M
+    born: 1949-10-01
+    died: 2021-01-18
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician (1949-2021)
+    ids:
+      wikidata: Q8337692
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9F%A9%E5%BB%B6%E6%9E%97
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8337692
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: han-zheng
+    type: person
+    name: 韩正
+    names:
+      zh: 韩正
+      en: Han Zheng
+    gender: M
+    born: 1954-04-22
+    country:
+      - CN
+    sectors:
+      - politics
+      - academia
+    tier: 1
+    summary: 中华人民共和国副主席
+    ids:
+      wikidata: Q48405
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9F%A9%E6%AD%A3
+      - https://en.wikipedia.org/wiki/Han_Zheng
+    tags:
+      - cn-leaders
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 33
+    sources:
+      - url: https://www.wikidata.org/wiki/Q48405
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国副主席
+        from: 2023-03-10
+      - title: 中华人民共和国国务院副总理
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 2018-03-19
+        to: 2023-03-10
+      - title: 上海市市長
+        org: shanghai-municipal-people-s-government
+        from: 2003-02-20
+        to: 2012-12-26
+      - title: 中国共产党上海市委员会书记
+        org: shanghai-municipal-committee-of-the-chinese-communist-party
+        from: 2006-09-24
+        to: 2007-03-24
+      - title: 中国共产党上海市委员会书记
+        org: shanghai-municipal-committee-of-the-chinese-communist-party
+        from: 2012-11-20
+        to: 2017-10-29
+      - title: 中国共产党中央政治局委员
+        from: 2012-11-15
+      - title: 中国共产党中央政治局常务委员会委员
+        org: ccp-politburo-standing-committee
+        from: 2017-10-25
+        to: 2022-10-23
+  - id: hang-yihong
+    type: person
+    name: 杭义洪
+    names:
+      zh: 杭义洪
+      en: Hang Yihong
+    gender: M
+    born: "1962"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: Chinese politician
+    ids:
+      wikidata: Q110405467
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%9D%AD%E4%B9%89%E6%B4%AA
+      - https://en.wikipedia.org/wiki/Hang_Yihong
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110405467
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hank-aaron
+    type: person
+    name: Hank Aaron
+    names:
+      zh: 汉克·阿伦
+      en: Hank Aaron
+    gender: M
+    born: 1934-02-05
+    died: 2021-01-22
+    country:
+      - US
+    sectors:
+      - family
+    tier: 3
+    summary: American baseball player (1934–2021)
+    ids:
+      wikidata: Q215777
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%BC%A2%E5%85%8B%C2%B7%E9%98%BF%E5%80%AB
+      - https://en.wikipedia.org/wiki/Hank_Aaron
+    tags:
+      - relative
+    attrs:
+      sitelinks: 55
+    sources:
+      - url: https://www.wikidata.org/wiki/Q215777
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hank-johnson
+    type: person
+    name: Hank Johnson
+    names:
+      zh: 汉克·约翰逊
+      en: Hank Johnson
+    gender: M
+    born: 1954-10-02
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 美國政治人物
+    ids:
+      wikidata: Q983537
+    links:
+      - https://en.wikipedia.org/wiki/Hank_Johnson
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q983537
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 法官
+        from: "1989"
+        to: "2001"
+      - title: 專員
+        org: commission
+        from: "2001"
+        to: "2006"
+      - title: 地方法官
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+  - id: hank-meijer
+    type: person
+    name: Hank Meijer
+    names:
+      en: Hank Meijer
+    gender: M
+    born: "1952"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American billionaire businessman
+    netWorth:
+      usd: 6900000000
+    ids:
+      wikidata: Q18763618
+    links:
+      - https://en.wikipedia.org/wiki/Hank_Meijer
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18763618
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hannah-jeter
+    type: person
+    name: Hannah Jeter
+    names:
+      zh: 漢娜·戴維斯
+      en: Hannah Jeter
+    gender: F
+    born: 1990-05-05
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: 美国模特
+    ids:
+      wikidata: Q5648816
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%BC%A2%E5%A8%9C%C2%B7%E5%9F%BA%E7%89%B9
+      - https://en.wikipedia.org/wiki/Hannah_Jeter
+    tags:
+      - relative
+    attrs:
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5648816
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hannah-pingree
+    type: person
+    name: Hannah Pingree
+    names:
+      en: Hannah Pingree
+    gender: F
+    born: 1976-10-18
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q5648933
+    links:
+      - https://en.wikipedia.org/wiki/Hannah_Pingree
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5648933
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 缅因州众议员
+        org: maine-house-of-representatives
+        from: 2002-12-04
+        to: 2010-12-01
+      - title: Speaker of the Maine House of Representatives
+        from: 2008-12-03
+        to: 2010-12-06
+  - id: hansford-t-johnson
+    type: person
+    name: Hansford T. Johnson
+    names:
+      zh: 漢斯福德·T·約翰遜
+      en: Hansford T. Johnson
+    gender: M
+    born: 1936-01-03
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+    tier: 2
+    summary: American government official, retired United States Air Force general
+    ids:
+      wikidata: Q5651089
+    links:
+      - https://en.wikipedia.org/wiki/Hansford_T._Johnson
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5651089
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国海军部长
+        org: office-of-the-secretary-of-the-navy
+        from: 2003-02-07
+        to: 2003-09-30
+  - id: hao-baoqing
+    type: person
+    name: 郝保庆
+    names:
+      zh: 郝保庆
+    gender: M
+    born: "1937"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8317384
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%9D%E4%BF%9D%E5%BA%86
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317384
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: hao-mingjin
+    type: person
+    name: 郝明金
+    names:
+      zh: 郝明金
+      en: Hao Mingjin
+    gender: M
+    born: "1956"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 第十四届全国人大常委会副委员长，民建中央主席，中华职业教育社理事长
+    ids:
+      wikidata: Q16907517
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%9D%E6%98%8E%E9%87%91
+      - https://en.wikipedia.org/wiki/Hao_Mingjin
+    tags:
+      - cn-leaders
+      - party:China Democratic National Construction Association
+    attrs:
+      party: China Democratic National Construction Association
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16907517
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国人民代表大会常务委员会副委员长
+        org: npc-standing-committee
+        from: 2018-03-17
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+      - title: 中国民主建国会中央委员会主席
+        from: 2017-12-01
+  - id: hao-mingzhu
+    type: person
+    name: 郝明珠
+    names:
+      zh: 郝明珠
+      en: Hao Mingzhu
+    gender: F
+    born: 1916-06-24
+    died: 2006-04-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: 习仲勋原配夫人
+    ids:
+      wikidata: Q39040690
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%9D%E6%98%8E%E7%8F%A0
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q39040690
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hao-peng
+    type: person
+    name: 郝鹏
+    names:
+      zh: 郝鹏
+      en: Hao Peng
+    gender: M
+    born: 1960-07-07
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q8292448
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%9D%E9%B9%8F_(1960%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Hao_Peng_(PRC)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - cn-business
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292448
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 国务院国有资产监督管理委员会主任
+        org: state-owned-assets-supervision-and-administration-commission-of-the-state-counci
+        from: 2019-05-01
+        to: "2023"
+  - id: hao-yan
+    type: person
+    name: 郝岩
+    names:
+      zh: 郝岩
+    gender: M
+    born: "1938"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8291421
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%83%9D%E5%B2%A9
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8291421
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: harold-hamm
+    type: person
+    name: Harold Hamm
+    names:
+      zh: 哈罗德·哈姆
+      en: Harold Hamm
+    gender: M
+    born: 1945-12-11
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 12700000000
+    ids:
+      wikidata: Q1585842
+    links:
+      - https://en.wikipedia.org/wiki/Harold_Hamm
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1585842
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harold-schafer
+    type: person
+    name: Harold Schafer
+    names:
+      en: Harold Schafer
+    gender: M
+    born: 1912-02-01
+    died: 2001-12-02
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman (1912-2001)
+    ids:
+      wikidata: Q5662310
+    links:
+      - https://en.wikipedia.org/wiki/Harold_Schafer
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5662310
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harriet-c-babbitt
+    type: person
+    name: Harriet C. Babbitt
+    names:
+      en: Harriet C. Babbitt
+    gender: F
+    born: 1947-11-13
+    country:
+      - US
+    sectors:
+      - judiciary
+      - politics
+      - diplomacy
+    tier: 5
+    summary: American government official
+    ids:
+      wikidata: Q16113963
+    links:
+      - https://en.wikipedia.org/wiki/Harriet_C._Babbitt
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16113963
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harriet-hageman
+    type: person
+    name: Harriet Hageman
+    names:
+      zh: 哈丽雅特·哈格曼
+      en: Harriet Hageman
+    gender: F
+    born: 1962-10-18
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: 美国律师、政治人物
+    ids:
+      wikidata: Q110815967
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%93%88%E4%B8%BD%E9%9B%85%E7%89%B9%C2%B7%E5%93%88%E6%A0%BC%E6%9B%BC
+      - https://en.wikipedia.org/wiki/Harriet_Hageman
+    tags:
+      - us-congress
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110815967
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: harriet-may-norton
+    type: person
+    name: Harriet May Norton
+    names:
+      en: Harriet May Norton
+    gender: F
+    born: 1898-06-02
+    died: 1996-02-09
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q22994722
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22994722
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harry-koch
+    type: person
+    name: Harry Koch
+    names:
+      zh: 哈利·科赫
+      en: Harry Koch
+    gender: M
+    born: 1867-10-22
+    died: 1942-06-21
+    country:
+      - NL
+    sectors:
+      - business
+    tier: 5
+    summary: Newspaper publisher (1867-1942)
+    ids:
+      wikidata: Q5670343
+    links:
+      - https://en.wikipedia.org/wiki/Harry_Koch_(businessman)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5670343
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harvey-hollister-bundy
+    type: person
+    name: Harvey Hollister Bundy
+    names:
+      zh: 哈维·H·邦迪
+      en: Harvey Hollister Bundy
+    gender: M
+    born: 1888-03-30
+    died: 1963-10-07
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American lawyer (1888–1963)
+    ids:
+      wikidata: Q5677294
+    links:
+      - https://en.wikipedia.org/wiki/Harvey_Hollister_Bundy
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5677294
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harvey-s-rosen
+    type: person
+    name: Harvey S. Rosen
+    names:
+      zh: 哈维·S·罗森
+      en: Harvey S. Rosen
+    gender: M
+    born: 1949-03-29
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+    tier: 2
+    summary: American economist
+    ids:
+      wikidata: Q1587931
+    links:
+      - https://en.wikipedia.org/wiki/Harvey_S._Rosen
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1587931
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: Chair of the Council of Economic Advisers
+        org: council-of-economic-advisers
+        from: 2005-02-23
+        to: 2005-06-10
+  - id: hazel-r-o-leary
+    type: person
+    name: Hazel R. O'Leary
+    names:
+      zh: 海泽尔·R·奥莱利
+      en: Hazel R. O'Leary
+    gender: F
+    born: 1937-05-17
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: Politician, lawyer
+    ids:
+      wikidata: Q465586
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%91%E6%B3%BD%E5%B0%94%C2%B7%E5%A5%A5%E5%88%A9%E9%87%8C
+      - https://en.wikipedia.org/wiki/Hazel_R._O'Leary
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 18
+    sources:
+      - url: https://www.wikidata.org/wiki/Q465586
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國能源部長
+        org: united-states-department-of-energy
+        from: 1993-01-22
+        to: 1997-01-20
+  - id: he-daoquan
+    type: person
+    name: 何道泉
+    names:
+      zh: 何道泉
+    gender: M
+    born: "1935"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8293283
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BD%95%E9%81%93%E6%B3%89
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8293283
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: he-guoqiang
+    type: person
+    name: 贺国强
+    names:
+      zh: 贺国强
+      en: He Guoqiang
+    gender: M
+    born: 1943-10-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 1
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q737894
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B4%BA%E5%9B%BD%E5%BC%BA
+      - https://en.wikipedia.org/wiki/He_Guoqiang
+    tags:
+      - cn-leaders
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q737894
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党中央纪律检查委员会书记
+        org: ccp-ccdi
+        from: "2007"
+        to: "2012"
+      - title: 福建省省长
+        org: fujian-provincial-people-s-government
+        from: "1996"
+        to: "1999"
+      - title: 中国共产党中央委员会组织部部长
+        org: ccp-organization-department
+        from: "2002"
+        to: "2007"
+      - title: 中国共产党重庆市委员会书记
+        org: chongqing-municipal-committee-of-the-chinese-communist-party
+        from: "1999"
+        to: "2002"
+      - title: 中国共产党中央政治局常务委员会委员
+        org: ccp-politburo-standing-committee
+        from: 2007-10-22
+        to: 2012-11-15
+  - id: he-hongjun
+    type: person
+    name: 何宏军
+    names:
+      zh: 何宏军
+      en: He Hongjun
+    gender: M
+    born: 1961-08-01
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 2
+    summary: 原中国人民解放军上将，中央军委政治工作部常务副主任
+    ids:
+      wikidata: Q47667415
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BD%95%E5%AE%8F%E5%86%9B
+      - https://en.wikipedia.org/wiki/He_Hongjun
+    tags:
+      - cn-military
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47667415
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: he-jiesheng
+    type: person
+    name: 贺捷生
+    names:
+      zh: 贺捷生
+      en: He Jiesheng
+    gender: F
+    born: 1935-11-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: 贺龙之女
+    ids:
+      wikidata: Q10884096
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B4%BA%E6%8D%B7%E7%94%9F
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10884096
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: he-jintao
+    type: person
+    name: He Jintao
+    names:
+      zh: 贺锦涛
+      en: He Jintao
+    gender: M
+    born: 1971-06-07
+    country: []
+    sectors:
+      - family
+    tier: 5
+    ids:
+      wikidata: Q19850099
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B4%BA%E9%94%A6%E6%B6%9B
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19850099
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: he-junke
+    type: person
+    name: 贺军科
+    names:
+      zh: 贺军科
+      en: He Junke
+    gender: M
+    born: 1969-02-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国科学技术协会党组书记、分管日常工作的副主席、书记处第一书记
+    ids:
+      wikidata: Q8971221
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B4%BA%E5%86%9B%E7%A7%91
+      - https://en.wikipedia.org/wiki/He_Junke
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8971221
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: he-lifeng
+    type: person
+    name: 何立峰
+    names:
+      zh: 何立峰
+      en: He Lifeng
+    gender: M
+    born: 1955-02-04
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中共二十届中央政治局委员，国务院副总理、党组成员
+    ids:
+      wikidata: Q8291839
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BD%95%E7%AB%8B%E5%B3%B0
+      - https://en.wikipedia.org/wiki/He_Lifeng
+    tags:
+      - cn-leaders
+      - cn-ministers
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8291839
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国人民政治协商会议全国委员会副主席
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+        from: 2018-03-14
+        to: 2023-03-10
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中华人民共和国国务院副总理
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 2023-03-12
+      - title: 中国共产党中央政治局委员
+        from: 2022-10-23
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 中华人民共和国国家发展和改革委员会主任
+        org: national-development-and-reform-commission
+        from: 2017-02-24
+        to: 2023-03-12
+  - id: he-linzhong
+    type: person
+    name: 何林忠
+    names:
+      zh: 何林忠
+      en: He Linzhong
+    gender: M
+    born: "1937"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中国人民解放军中将
+    ids:
+      wikidata: Q8318878
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BD%95%E6%9E%97%E5%BF%A0
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8318878
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: he-long
+    type: person
+    name: 贺龙
+    names:
+      zh: 贺龙
+      en: He Long
+    gender: M
+    born: 1896-03-22
+    died: 1969-06-08
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: 中华人民共和国元帅
+    ids:
+      wikidata: Q700713
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B4%BA%E9%BE%99
+      - https://en.wikipedia.org/wiki/He_Long
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 27
+    sources:
+      - url: https://www.wikidata.org/wiki/Q700713
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国国务院副总理
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+  - id: he-luli
+    type: person
+    name: 何鲁丽
+    names:
+      zh: 何鲁丽
+      en: He Luli
+    gender: F
+    born: 1934-06-07
+    died: 2022-03-19
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中国政治人物，原北平市长何思源长女
+    ids:
+      wikidata: Q1592181
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BD%95%E9%AD%AF%E9%BA%97
+      - https://en.wikipedia.org/wiki/He_Luli
+    tags:
+      - cn-leaders
+      - party:Revolutionary Committee of the Chinese Kuomintang
+    attrs:
+      party: Revolutionary Committee of the Chinese Kuomintang
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1592181
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国人民代表大会常务委员会副委员长
+        org: npc-standing-committee
+        from: 1996-11-01
+        to: 1998-03-01
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 全国政协委员
+        org: cppcc-national-committee
+        from: "1996"
+        to: "2007"
+  - id: he-pengfei
+    type: person
+    name: 贺鹏飞
+    names:
+      zh: 贺鹏飞
+      en: He Pengfei
+    gender: M
+    born: 1944-09-01
+    died: 2001-03-28
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: 中国将领
+    ids:
+      wikidata: Q8331826
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B4%BA%E9%B9%8F%E9%A3%9E
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8331826
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: he-ping-1946
+    type: person
+    name: 贺平
+    names:
+      zh: 贺平
+      en: He Ping
+    gender: M
+    born: 1946-04-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - business
+    tier: 5
+    summary: 中国企业家
+    ids:
+      wikidata: Q1592184
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B4%BA%E5%B9%B3
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1592184
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: he-qiaonu
+    type: person
+    name: 何巧女
+    names:
+      zh: 何巧女
+      en: He Qiaonü
+    gender: F
+    born: 1966-01-29
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: Chinese businesswoman
+    netWorth:
+      usd: 1000000000
+    ids:
+      wikidata: Q27881285
+    links:
+      - https://en.wikipedia.org/wiki/He_Qiaon%C3%BC
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27881285
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: he-qizong
+    type: person
+    name: 何其宗
+    names:
+      zh: 何其宗
+    gender: M
+    born: "1943"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8291340
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BD%95%E5%85%B6%E5%AE%97
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8291340
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: he-rong
+    type: person
+    name: 贺荣
+    names:
+      zh: 贺荣
+      en: He Rong
+    gender: F
+    born: 1962-10-21
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国司法部部长
+    ids:
+      wikidata: Q30950291
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B4%BA%E8%8D%A3
+      - https://en.wikipedia.org/wiki/He_Rong
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30950291
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国司法部部长
+        org: ministry-of-justice-of-the-people-s-republic-of-china
+        from: 2023-02-24
+  - id: he-siyuan
+    type: person
+    name: 何思源
+    names:
+      zh: 何思源
+      en: He Siyuan
+    gender: M
+    born: 1896-07-30
+    died: 1982-04-28
+    country:
+      - CN
+    sectors:
+      - politics
+      - academia
+    tier: 5
+    summary: 国民政府官员，曾任北平市市长
+    ids:
+      wikidata: Q8460116
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BD%95%E6%80%9D%E6%BA%90
+      - https://en.wikipedia.org/wiki/He_Siyuan
+    tags:
+      - relative
+      - party:Kuomintang
+    attrs:
+      party: Kuomintang
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8460116
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 北京市市長
+        org: people-s-government-of-beijing-municipality
+        from: 1946-11-01
+        to: "1949"
+  - id: he-weidong
+    type: person
+    name: 何卫东
+    names:
+      zh: 何卫东
+      en: He Weidong
+    gender: M
+    born: 1957-05-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 原中国人民解放军高级将领，中央军委副主席
+    ids:
+      wikidata: Q28409057
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BD%95%E5%8D%AB%E4%B8%9C
+      - https://en.wikipedia.org/wiki/He_Weidong
+    tags:
+      - cn-leaders
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28409057
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党中央政治局委员
+        from: 2022-10-23
+        to: 2025-10-23
+      - title: 中国共产党中央军事委员会副主席
+        org: ccp-cmc
+        from: 2022-10-23
+        to: 2025-10-17
+      - title: 中华人民共和国中央军事委员会副主席
+        from: 2023-03-11
+        to: 2025-10-28
+  - id: he-weirong
+    type: person
+    name: 何为荣
+    names:
+      zh: 何为荣
+      en: He Weirong
+    gender: M
+    born: "1949"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8319657
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BD%95%E4%B8%BA%E8%8D%A3
+      - https://en.wikipedia.org/wiki/He_Weirong
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319657
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: he-xiangjian
+    type: person
+    name: 何享健
+    names:
+      zh: 何享健
+      en: He Xiangjian
+    gender: M
+    born: 1942-10-05
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: Chinese businessperson (1942-)
+    netWorth:
+      usd: 19800000000
+    ids:
+      wikidata: Q1515641
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BD%95%E4%BA%AB%E5%81%A5
+      - https://en.wikipedia.org/wiki/He_Xiangjian
+    tags:
+      - cn-business
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1515641
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: he-yaling
+    type: person
+    name: 何雅玲
+    names:
+      zh: 何雅玲
+      en: He Yaling
+    gender: F
+    born: "1963"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: Chinese physicist (born 1963)
+    ids:
+      wikidata: Q28413483
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BD%95%E9%9B%85%E7%8E%B2
+      - https://en.wikipedia.org/wiki/He_Yaling
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28413483
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: heather-bresch
+    type: person
+    name: Heather Bresch
+    names:
+      zh: 希瑟·布雷施
+      en: Heather Bresch
+    gender: F
+    born: 1969-06-27
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businesswoman
+    ids:
+      wikidata: Q5693758
+    links:
+      - https://en.wikipedia.org/wiki/Heather_Manchin
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5693758
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+      - title: 首席运营官
+        from: 2007-10-01
+        to: 2009-07-01
+      - title: 首席执行官
+        from: "2012"
+        to: 2020-11-01
+      - title: 会长
+        org: organization
+        from: 2009-07-01
+        to: "2012"
+      - title: 首席整合官
+        from: "2007"
+        to: 2007-10-01
+      - title: 副行政总裁
+        from: 2007-10-01
+        to: 2009-07-01
+  - id: heather-wilson
+    type: person
+    name: Heather Wilson
+    names:
+      zh: 希瑟·威尔逊
+      en: Heather Wilson
+    gender: F
+    born: 1960-12-30
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+    tier: 2
+    summary: 美国政治人物
+    ids:
+      wikidata: Q459712
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%8C%E7%91%9F%C2%B7%E5%A8%81%E7%88%BE%E9%81%9C
+      - https://en.wikipedia.org/wiki/Heather_Wilson
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q459712
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 雇員
+        org: employment
+        from: "1989"
+        to: "1991"
+      - title: 美國空軍部長
+        org: united-states-department-of-the-air-force
+        from: 2017-05-16
+        to: 2019-05-31
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1999-01-06
+        to: 2001-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-07
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1998-06-23
+        to: 1999-01-03
+  - id: hector-barreto
+    type: person
+    name: Hector Barreto
+    names:
+      en: Hector Barreto
+    gender: M
+    born: "1961"
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: 美國商人
+    ids:
+      wikidata: Q16152084
+    links:
+      - https://en.wikipedia.org/wiki/Hector_Barreto_Jr.
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16152084
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 小型企業管理署署長
+        org: small-business-administration
+        from: 2001-07-25
+        to: 2006-07-02
+  - id: heidi-cruz
+    type: person
+    name: Heidi Cruz
+    names:
+      zh: 海蒂·克魯茲
+      en: Heidi Cruz
+    gender: F
+    born: 1972-08-07
+    country:
+      - US
+    sectors:
+      - family
+    tier: 4
+    summary: American investment manager at Goldman Sachs
+    ids:
+      wikidata: Q20165784
+    links:
+      - https://en.wikipedia.org/wiki/Heidi_Cruz
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 10
+    sources:
+      - url: https://www.wikidata.org/wiki/Q20165784
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: heidi-heitkamp
+    type: person
+    name: Heidi Heitkamp
+    names:
+      zh: 海迪·海特坎普
+      en: Heidi Heitkamp
+    gender: F
+    born: 1955-10-30
+    country:
+      - US
+    sectors:
+      - politics
+      - culture
+      - judiciary
+    tier: 3
+    summary: former United States Senator from North Dakota
+    ids:
+      wikidata: Q50597
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B5%B7%E8%BF%AA%C2%B7%E6%B5%B7%E7%89%B9%E5%9D%8E%E6%99%AE
+      - https://en.wikipedia.org/wiki/Heidi_Heitkamp
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 25
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50597
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國參議員
+        org: us-senate
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2015-01-03
+        to: 2017-01-03
+      - title: 北達科他州總檢察長
+        from: 1992-12-15
+        to: 2000-12-15
+      - title: North Dakota Tax Commissioner
+        from: 1986-12-02
+        to: 1992-12-15
+  - id: helen-arakelian
+    type: person
+    name: Helen Arakelian
+    names:
+      en: Helen Arakelian
+    gender: F
+    born: 1917-07-15
+    died: 2008-05-21
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: born 1917, died 2008
+    ids:
+      wikidata: Q102047932
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q102047932
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: helen-cole
+    type: person
+    name: Helen Cole
+    names:
+      zh: 海倫·柯爾
+      en: Helen Cole
+    gender: F
+    born: 1922-07-13
+    died: 2004-04-07
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: 美國政治人物
+    ids:
+      wikidata: Q55713886
+    links:
+      - https://en.wikipedia.org/wiki/Helen_Cole
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55713886
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 奧克拉荷馬州參議員
+        org: oklahoma-senate
+      - title: 俄克拉荷馬州眾議員
+        org: oklahoma-house-of-representatives
+  - id: helen-giuliani
+    type: person
+    name: Helen Giuliani
+    names:
+      en: Helen Giuliani
+    gender: F
+    born: 1909-09-26
+    died: 2002-09-08
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: (1909-2002)
+    ids:
+      wikidata: Q27178681
+    links:
+      - https://en.wikipedia.org/wiki/Helen_Giuliani
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27178681
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: helen-handbury
+    type: person
+    name: Helen Handbury
+    names:
+      en: Helen Handbury
+    gender: F
+    born: "1929"
+    died: 2004-11-22
+    country:
+      - AU
+    sectors:
+      - family
+    tier: 5
+    summary: Australian philanthropist (1929–2004)
+    ids:
+      wikidata: Q76061867
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q76061867
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: helen-johnson-leipold
+    type: person
+    name: Helen Johnson-Leipold
+    names:
+      en: Helen Johnson-Leipold
+    gender: F
+    born: "1957"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American businessperson
+    netWorth:
+      usd: 4800000000
+    ids:
+      wikidata: Q5702551
+    links:
+      - https://en.wikipedia.org/wiki/Helen_Johnson-Leipold
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5702551
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: helen-lakelly-hunt
+    type: person
+    name: Helen LaKelly Hunt
+    names:
+      en: Helen LaKelly Hunt
+    gender: F
+    born: "1949"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American activist
+    ids:
+      wikidata: Q5702631
+    links:
+      - https://en.wikipedia.org/wiki/Helen_LaKelly_Hunt
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5702631
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: helen-louella
+    type: person
+    name: Helen Louella
+    names:
+      en: Helen Louella
+    gender: F
+    born: 1912-10-10
+    died: 1993-07-14
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: 10 Oct 1912 - 14 Jul 1993
+    ids:
+      wikidata: Q96963518
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q96963518
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: helen-thorpe
+    type: person
+    name: Helen Thorpe
+    names:
+      en: Helen Thorpe
+    gender: F
+    born: 1963-01-23
+    country:
+      - US
+    sectors:
+      - media
+    tier: 5
+    summary: 美國記者
+    ids:
+      wikidata: Q17489652
+    links:
+      - https://en.wikipedia.org/wiki/Helen_Thorpe
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17489652
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: helen-walton
+    type: person
+    name: Helen Walton
+    names:
+      zh: 海倫·沃爾頓
+      en: Helen Walton
+    gender: F
+    born: 1919-12-03
+    died: 2007-04-19
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: co-owner and cofounder of Walmart Inc.
+    ids:
+      wikidata: Q256075
+    links:
+      - https://en.wikipedia.org/wiki/Helen_Walton
+    tags:
+      - relative
+    attrs:
+      sitelinks: 17
+    sources:
+      - url: https://www.wikidata.org/wiki/Q256075
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hendrik-meijer
+    type: person
+    name: Hendrik Meijer
+    names:
+      en: Hendrik Meijer
+    gender: M
+    born: 1883-12-28
+    died: 1964-05-31
+    country:
+      - NL
+    sectors:
+      - business
+    tier: 5
+    summary: Dutch-American businessman (1883–1964)
+    ids:
+      wikidata: Q1921639
+    links:
+      - https://en.wikipedia.org/wiki/Hendrik_Meijer
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1921639
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: henry-caruso
+    type: person
+    name: Henry Caruso
+    names:
+      zh: 亨利·卡魯索
+      en: Henry Caruso
+    gender: M
+    born: 1922-02-24
+    died: 2017-11-26
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American businessman (1922–2017)
+    ids:
+      wikidata: Q5719216
+    links:
+      - https://en.wikipedia.org/wiki/Henry_Caruso
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5719216
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: henry-cisneros
+    type: person
+    name: Henry Cisneros
+    names:
+      zh: 亨利·西斯内罗斯
+      en: Henry Cisneros
+    gender: M
+    born: 1947-06-11
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: 美国政治人物
+    ids:
+      wikidata: Q1606601
+    links:
+      - https://en.wikipedia.org/wiki/Henry_Cisneros
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1606601
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国住房和城市发展部部长
+        org: united-states-department-of-housing-and-urban-development
+        from: 1993-01-22
+        to: 1997-01-19
+  - id: henry-cuellar
+    type: person
+    name: Henry Cuellar
+    names:
+      zh: 亨利·库拉尔
+      en: Henry Cuellar
+    gender: M
+    born: 1955-09-19
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American politician & attorney (born 1955)
+    ids:
+      wikidata: Q539562
+    links:
+      - https://en.wikipedia.org/wiki/Henry_Cuellar
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q539562
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 德克萨斯州州务卿
+        from: 2001-01-02
+        to: 2001-10-05
+      - title: 美国众议员
+        org: us-house
+        from: 2019-01-03
+        to: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-06
+        to: 2011-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2017-01-03
+        to: 2019-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2015-01-06
+        to: 2017-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2011-01-05
+        to: 2013-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-04
+        to: 2007-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2013-01-03
+        to: 2015-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2021-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-04
+        to: 2009-01-03
+      - title: 德克薩斯州眾議員
+        org: texas-house-of-representatives
+        from: "1987"
+        to: "2001"
+  - id: henry-fok
+    type: person
+    name: 霍英东
+    names:
+      zh: 霍英东
+      en: Henry Fok
+    gender: M
+    born: 1923-05-10
+    died: 2006-10-28
+    country:
+      - CN
+    sectors:
+      - politics
+      - business
+    tier: 4
+    summary: 香港商人
+    ids:
+      wikidata: Q3236818
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9C%8D%E8%8B%B1%E6%9D%B1
+      - https://en.wikipedia.org/wiki/Henry_Fok
+    tags:
+      - relative
+    attrs:
+      sitelinks: 15
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3236818
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: "1970"
+        to: "1980"
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 全国人民代表大会常务委员会委员
+        org: npc-standing-committee
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+  - id: henry-kravis
+    type: person
+    name: Henry Kravis
+    names:
+      zh: 亨利·克拉维斯
+      en: Henry Kravis
+    gender: M
+    born: 1944-01-06
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 15400000000
+    ids:
+      wikidata: Q933721
+    links:
+      - https://en.wikipedia.org/wiki/Henry_Kravis
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q933721
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: henry-l-garrett-iii
+    type: person
+    name: Henry L. Garrett III
+    names:
+      zh: 亨利·加列特
+      en: Henry L. Garrett III
+    gender: M
+    born: 1939-06-24
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: American government official
+    ids:
+      wikidata: Q3784962
+    links:
+      - https://en.wikipedia.org/wiki/Henry_L._Garrett_III
+    tags:
+      - us-executive
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3784962
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国海军部长
+        org: united-states-department-of-the-navy
+        from: 1989-05-15
+        to: 1992-06-26
+      - title: 美國海軍部次長
+  - id: henry-mcmaster
+    type: person
+    name: Henry McMaster
+    names:
+      zh: 亨利·麥馬斯特
+      en: Henry McMaster
+    gender: M
+    born: 1947-05-27
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 3
+    summary: 南卡州長
+    ids:
+      wikidata: Q5725737
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E9%BA%A5%E5%85%8B%E9%A6%AC%E6%96%AF%E7%89%B9
+      - https://en.wikipedia.org/wiki/Henry_McMaster
+    tags:
+      - us-governors
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 28
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5725737
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: 1994-05-01
+        to: 2001-05-01
+      - title: 南卡羅來納州副州長
+        from: 2015-01-14
+        to: 2017-01-24
+      - title: 南卡羅萊納州州長
+        org: state-of-south-carolina
+        from: 2017-01-24
+      - title: South Carolina Attorney General
+        from: 2003-01-15
+        to: 2011-01-12
+  - id: henry-nicholas
+    type: person
+    name: Henry Nicholas
+    names:
+      zh: 亨利·尼古拉斯
+      en: Henry Nicholas
+    gender: M
+    born: "1959"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American businessman and convicted felon
+    netWorth:
+      usd: 19600000000
+    ids:
+      wikidata: Q5726332
+    links:
+      - https://en.wikipedia.org/wiki/Henry_Nicholas
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5726332
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: henry-paulson
+    type: person
+    name: Henry Paulson
+    names:
+      zh: 亨利·保尔森
+      en: Henry Paulson
+    gender: M
+    born: 1946-03-28
+    country:
+      - US
+    sectors:
+      - politics
+      - academia
+      - finance
+    tier: 2
+    summary: 74th United States Secretary of the Treasury
+    ids:
+      wikidata: Q311025
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E4%BF%9D%E5%B0%94%E6%A3%AE
+      - https://en.wikipedia.org/wiki/Henry_Paulson
+    tags:
+      - us-executive
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 36
+    sources:
+      - url: https://www.wikidata.org/wiki/Q311025
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国财政部长
+        org: united-states-department-of-the-treasury
+        from: 2006-07-10
+        to: 2009-01-20
+  - id: henry-s-huidekoper
+    type: person
+    name: Henry S. Huidekoper
+    names:
+      en: Henry S. Huidekoper
+    gender: M
+    born: 1839-07-17
+    died: 1918-11-09
+    country:
+      - US
+    sectors:
+      - military
+    tier: 5
+    summary: Union Army general (1839-1918)
+    ids:
+      wikidata: Q5727871
+    links:
+      - https://en.wikipedia.org/wiki/Henry_S._Huidekoper
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5727871
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: henry-samueli
+    type: person
+    name: Henry Samueli
+    names:
+      zh: 亨利·萨穆埃利
+      en: Henry Samueli
+    gender: M
+    born: 1954-09-20
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+      - academia
+    tier: 2
+    summary: 美國商人
+    netWorth:
+      usd: 27700000000
+    ids:
+      wikidata: Q944937
+    links:
+      - https://en.wikipedia.org/wiki/Henry_Samueli
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q944937
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 理事会成员
+        org: board-of-directors
+        from: "2016"
+  - id: herb-kohl
+    type: person
+    name: Herb Kohl
+    names:
+      zh: 赫布·科尔
+      en: Herb Kohl
+    gender: M
+    born: 1935-02-07
+    died: 2023-12-27
+    country:
+      - US
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: 美國政治人物 (1935–2023)
+    ids:
+      wikidata: Q560447
+    links:
+      - https://en.wikipedia.org/wiki/Herb_Kohl
+    tags:
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q560447
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: non-governmental-organization
+        from: "1975"
+        to: "1977"
+      - title: 会长
+        org: organization
+      - title: 美國參議員
+        org: us-senate
+        from: 1989-01-03
+        to: 1991-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1999-01-03
+        to: 2001-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2003-01-03
+        to: 2005-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1995-01-03
+        to: 1997-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1991-01-03
+        to: 1993-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2011-01-03
+        to: 2013-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1993-01-03
+        to: 1995-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 1997-01-03
+        to: 1999-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2005-01-03
+        to: 2007-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2011-01-03
+  - id: herb-simon
+    type: person
+    name: Herb Simon
+    names:
+      zh: 赫伯特·西蒙
+      en: Herb Simon
+    gender: M
+    born: 1934-10-20
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 6500000000
+    ids:
+      wikidata: Q5735576
+    links:
+      - https://en.wikipedia.org/wiki/Herb_Simon_(businessman)
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5735576
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: herbert-fisk-johnson-iii
+    type: person
+    name: Herbert Fisk Johnson III
+    names:
+      en: Herbert Fisk Johnson III
+    gender: M
+    born: 1957-05-19
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美國商人
+    netWorth:
+      usd: 4700000000
+    ids:
+      wikidata: Q5734095
+    links:
+      - https://en.wikipedia.org/wiki/Herbert_Fisk_Johnson_III
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5734095
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: herbert-james-hunt
+    type: person
+    name: Herbert James Hunt
+    names:
+      en: Herbert James Hunt
+    gender: M
+    born: "1899"
+    died: 1973-11-02
+    country:
+      - GB
+    sectors:
+      - culture
+      - academia
+    tier: 5
+    summary: British university teacher (1899-1973)
+    ids:
+      wikidata: Q1554558
+    links:
+      - https://en.wikipedia.org/wiki/Herbert_Hunt_(translator)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1554558
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: herbert-kohler-jr
+    type: person
+    name: Herbert Kohler Jr.
+    names:
+      zh: 赫伯特·科勒
+      en: Herbert Kohler Jr.
+    gender: M
+    born: 1939-02-20
+    died: 2022-09-03
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國商人
+    netWorth:
+      usd: 7300000000
+    ids:
+      wikidata: Q16105137
+    links:
+      - https://en.wikipedia.org/wiki/Herbert_Kohler_Jr.
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16105137
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: herbert-vollrath-kohler-sr
+    type: person
+    name: Herbert Vollrath Kohler, Sr.
+    names:
+      en: Herbert Vollrath Kohler, Sr.
+    gender: M
+    born: 1891-10-21
+    died: 1968-07-28
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: 美國商人
+    ids:
+      wikidata: Q106961515
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 0
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106961515
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: herbert-wertheim
+    type: person
+    name: Herbert Wertheim
+    names:
+      en: Herbert Wertheim
+    gender: M
+    born: 1939-05-23
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American businessman
+    netWorth:
+      usd: 3800000000
+    ids:
+      wikidata: Q5735877
+    links:
+      - https://en.wikipedia.org/wiki/Herbert_Wertheim
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5735877
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: herman-cain
+    type: person
+    name: Herman Cain
+    names:
+      zh: 赫尔曼·凯恩
+      en: Herman Cain
+    gender: M
+    born: 1945-12-13
+    died: 2020-07-30
+    country:
+      - US
+    sectors:
+      - business
+      - culture
+      - politics
+    tier: 4
+    summary: 美国作家，商人和活动家
+    ids:
+      wikidata: Q491019
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%B0%94%E6%9B%BC%C2%B7%E5%87%AF%E6%81%A9
+      - https://en.wikipedia.org/wiki/Herman_Cain
+    tags:
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 43
+    sources:
+      - url: https://www.wikidata.org/wiki/Q491019
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hershel-w-gober
+    type: person
+    name: Hershel W. Gober
+    names:
+      en: Hershel W. Gober
+    gender: M
+    born: 1936-12-21
+    died: 2024-10-15
+    country:
+      - US
+    sectors:
+      - politics
+      - military
+    tier: 2
+    summary: Recipient of the Purple Heart medal (1936–2024)
+    ids:
+      wikidata: Q937285
+    links:
+      - https://en.wikipedia.org/wiki/Hershel_Gober
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q937285
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国退伍军人事务部长
+        org: united-states-department-of-veterans-affairs
+        from: 2000-07-25
+        to: 2001-01-20
+      - title: 美国退伍军人事务部长
+        org: united-states-department-of-veterans-affairs
+        from: 1997-07-13
+        to: 1998-01-02
+      - title: 美國副部長辦公室
+        from: 1993-02-04
+        to: 2000-08-10
+  - id: hilary-geary-ross
+    type: person
+    name: Hilary Geary Ross
+    names:
+      en: Hilary Geary Ross
+    gender: F
+    born: "1951"
+    country:
+      - US
+    sectors:
+      - culture
+    tier: 5
+    summary: American author and philanthropist
+    ids:
+      wikidata: Q63286186
+    links:
+      - https://en.wikipedia.org/wiki/Hilary_Geary_Ross
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q63286186
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hilary-newsom
+    type: person
+    name: Hilary Newsom
+    names:
+      en: Hilary Newsom
+    gender: F
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: American entrepreneur
+    ids:
+      wikidata: Q138548733
+    links: []
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q138548733
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hilda-solis
+    type: person
+    name: Hilda Solis
+    names:
+      zh: 希尔达·索利斯
+      en: Hilda Solis
+    gender: F
+    born: 1957-10-20
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 2
+    summary: American politician (born 1957)
+    ids:
+      wikidata: Q50610
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%8C%E5%B0%94%E8%BE%BE%C2%B7%E7%B4%A2%E5%88%A9%E6%96%AF
+      - https://en.wikipedia.org/wiki/Hilda_Solis
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 28
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50610
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国劳工部长
+        org: united-states-department-of-labor
+        from: 2009-02-24
+        to: 2013-01-22
+      - title: 加利福尼亞州參議員
+        org: california-state-senate
+        from: 1994-12-05
+        to: 2000-12-31
+      - title: 美国众议员
+        org: us-house
+        from: 2003-01-03
+        to: 2005-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2009-01-03
+        to: 2009-02-24
+      - title: 美国众议员
+        org: us-house
+        from: 2005-01-03
+        to: 2007-01-03
+      - title: 加利福尼亚州众议员
+        org: california-state-assembly
+        from: 1992-12-07
+        to: 1994-12-05
+      - title: Los Angeles County Board of Supervisors
+        from: 2014-12-01
+  - id: hillary-clinton
+    type: person
+    name: Hillary Clinton
+    names:
+      zh: 希拉里·克林顿
+      en: Hillary Clinton
+    gender: F
+    born: 1947-10-26
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+      - diplomacy
+    tier: 2
+    summary: 美国政治人物
+    ids:
+      wikidata: Q6294
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%B8%8C%E6%8B%89%E9%87%8C%C2%B7%E5%85%8B%E6%9E%97%E9%A1%BF
+      - https://en.wikipedia.org/wiki/Hillary_Clinton
+    tags:
+      - us-executive
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 197
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6294
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 主席
+        org: club
+        from: "1978"
+        to: "1980"
+      - title: 主席
+        org: club
+        from: "1986"
+        to: "1992"
+      - title: 美国国务卿
+        org: united-states-department-of-state
+        from: 2009-01-21
+        to: 2013-02-01
+      - title: 受訓人員
+      - title: 理事
+        org: board-of-directors
+        from: "1990"
+        to: "1992"
+      - title: 理事
+        org: board-of-directors
+        from: "1988"
+        to: "1992"
+      - title: 理事
+        org: board-of-directors
+        from: "1985"
+        to: "1992"
+      - title: 理事
+        org: board-of-directors
+        from: "1978"
+        to: "1981"
+      - title: 理事
+        org: board-of-directors
+        from: "1986"
+        to: "1992"
+      - title: 理事
+        org: board-of-directors
+        from: "1982"
+        to: "1988"
+      - title: 美國參議員
+        org: us-senate
+        from: 2001-01-03
+        to: 2003-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2007-01-03
+        to: 2009-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2003-01-03
+        to: 2005-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2005-01-03
+        to: 2007-01-03
+      - title: 美國參議員
+        org: us-senate
+        from: 2009-01-03
+        to: 2009-01-21
+      - title: 研究助理
+      - title: 合伙人
+        from: "1979"
+      - title: 美國第一夫人
+        org: first-family-of-the-united-states
+        from: 1993-01-20
+        to: 2001-01-20
+      - title: 阿肯色州第一夫人
+  - id: hillary-scholten
+    type: person
+    name: Hillary Scholten
+    names:
+      zh: 希拉里·舒尔腾
+      en: Hillary Scholten
+    gender: F
+    born: 1982-02-22
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 4
+    summary: American politician (born 1982)
+    ids:
+      wikidata: Q115137368
+    links:
+      - https://en.wikipedia.org/wiki/Hillary_Scholten
+    tags:
+      - us-congress
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 9
+    sources:
+      - url: https://www.wikidata.org/wiki/Q115137368
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 2023-01-03
+        to: 2025-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 2025-01-03
+  - id: ho-iat-seng
+    type: person
+    name: 賀一誠
+    names:
+      zh: 賀一誠
+      en: Ho Iat Seng
+    gender: M
+    born: 1957-06-12
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+    tier: 3
+    summary: 前澳門特別行政區行政長官
+    ids:
+      wikidata: Q9346254
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B3%80%E4%B8%80%E8%AA%A0
+      - https://en.wikipedia.org/wiki/Ho_Iat_Seng
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 22
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9346254
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 澳門特別行政區行政長官
+        from: 2019-12-20
+        to: 2024-12-19
+      - title: 澳門立法會主席
+        org: legislative-assembly-of-macau
+        from: 2013-10-16
+        to: 2019-07-05
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 立法會議員
+        org: legislative-assembly-of-macau
+        from: 2017-10-16
+        to: 2019-07-05
+      - title: 立法會議員
+        org: legislative-assembly-of-macau
+        from: 2009-10-16
+        to: 2013-10-15
+      - title: 全国人民代表大会常务委员会委员
+        org: npc-standing-committee
+      - title: 澳門特別行政區維護國家安全委員會主席
+        org: committee-for-safeguarding-national-security-of-the-macao-special-administrative
+        from: 2019-12-20
+        to: 2024-12-19
+  - id: ho-teng-iat
+    type: person
+    name: 贺定一
+    names:
+      zh: 贺定一
+      en: Ho Teng Iat
+    gender: F
+    born: "1950"
+    country:
+      - CN
+    sectors:
+      - politics
+      - business
+    tier: 5
+    summary: 澳门企业家和政治人物
+    ids:
+      wikidata: Q5874165
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B3%80%E5%AE%9A%E4%B8%80
+      - https://en.wikipedia.org/wiki/Ho_Teng_Iat
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5874165
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 立法會議員
+        org: legislative-assembly-of-macau
+        from: 1999-10-12
+        to: 2001-10-15
+      - title: 立法會議員
+        org: legislative-assembly-of-macau
+        from: 2001-10-16
+        to: 2005-10-15
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: ho-tsu-kwok-charles
+    type: person
+    name: 何柱国
+    names:
+      zh: 何柱国
+      en: Ho Tsu Kwok Charles
+    gender: M
+    born: 1949-06-23
+    died: 2025-06-12
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 香港商人、星島新聞集團主席
+    ids:
+      wikidata: Q7259012
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BD%95%E6%9F%B1%E5%9C%8B_(1949%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Charles_Ho
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7259012
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+        from: 1998-03-03
+        to: 2025-06-11
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+        from: 2003-03-11
+        to: 2025-06-11
+  - id: ho-yin
+    type: person
+    name: Ho Yin
+    names:
+      zh: 何賢
+      en: Ho Yin
+    gender: M
+    born: "1908"
+    died: 1983-12-06
+    country:
+      - PT
+    sectors:
+      - politics
+    tier: 5
+    summary: 葡萄牙政治人物
+    ids:
+      wikidata: Q10297744
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BD%95%E8%B3%A2
+      - https://en.wikipedia.org/wiki/Ho_Yin
+    tags:
+      - relative
+      - party:Kuomintang
+    attrs:
+      party: Kuomintang
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10297744
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: hong-qing
+    type: person
+    name: 洪庆
+    names:
+      zh: 洪庆
+      en: Hong Qing
+    gender: M
+    born: 1976-11-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 吉林省人民政府党组成员、秘书长
+    ids:
+      wikidata: Q111693029
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%B4%AA%E5%BA%86_(1976%E5%B9%B4)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q111693029
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hope-dworaczyk-smith
+    type: person
+    name: Hope Dworaczyk Smith
+    names:
+      en: Hope Dworaczyk Smith
+    gender: F
+    born: 1984-11-21
+    country:
+      - US
+      - PL
+    sectors:
+      - business
+    tier: 4
+    summary: American entrepreneur, model and tv personality
+    ids:
+      wikidata: Q2391059
+    links:
+      - https://en.wikipedia.org/wiki/Hope_Dworaczyk_Smith
+    tags:
+      - relative
+    attrs:
+      sitelinks: 12
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2391059
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hope-walz
+    type: person
+    name: Hope Walz
+    names:
+      en: Hope Walz
+    gender: F
+    born: "2001"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American social worker (born 2001)
+    ids:
+      wikidata: Q129407600
+    links:
+      - https://en.wikipedia.org/wiki/Hope_Walz
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q129407600
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hou-hehua
+    type: person
+    name: 侯贺华
+    names:
+      zh: 侯贺华
+    gender: M
+    born: 1954-06-01
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8314711
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BE%AF%E8%B4%BA%E5%8D%8E
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8314711
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: hou-jianguo
+    type: person
+    name: 侯建国
+    names:
+      zh: 侯建国
+      en: Hou Jianguo
+    gender: M
+    born: 1959-10-29
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国科学院院长，化学家
+    ids:
+      wikidata: Q8970125
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BE%AF%E5%BB%BA%E5%9B%BD
+      - https://en.wikipedia.org/wiki/Hou_Jianguo
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8970125
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国人民代表大会常务委员会委员
+        org: npc-standing-committee
+        from: 2008-03-01
+        to: 2013-03-01
+      - title: 中国共产党中央委员会委员
+        from: 2017-10-01
+        to: 2022-10-01
+      - title: 中国科学院院长
+        org: chinese-academy-of-sciences
+        from: 2020-12-01
+  - id: hou-jizhen
+    type: person
+    name: 侯继振
+    names:
+      zh: 侯继振
+      en: Hou Jizhen
+    gender: M
+    born: 1951-11-01
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8314695
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BE%AF%E7%BB%A7%E6%8C%AF
+      - https://en.wikipedia.org/wiki/Hou_Jizhen
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8314695
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hou-kai
+    type: person
+    name: 侯凯
+    names:
+      zh: 侯凯
+      en: Hou Kai
+    gender: M
+    born: 1962-04-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国审计署审计长
+    ids:
+      wikidata: Q15939018
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BE%AF%E5%87%AF
+      - https://en.wikipedia.org/wiki/Hou_Kai
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15939018
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国审计署审计长
+        from: 2020-06-30
+  - id: howard-chao
+    type: person
+    name: Howard Chao
+    names:
+      zh: 趙式浩
+      en: Howard Chao
+    gender: M
+    born: "1982"
+    country: []
+    sectors:
+      - business
+      - politics
+    tier: 5
+    ids:
+      wikidata: Q23837939
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%B6%99%E5%BC%8F%E6%B5%A9
+    tags:
+      - relative
+      - party:Liberal Party
+    attrs:
+      party: Liberal Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q23837939
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: howard-edward-butt-sr
+    type: person
+    name: Howard Edward Butt Sr.
+    names:
+      en: Howard Edward Butt Sr.
+    gender: M
+    born: 1895-04-09
+    died: 1991-03-12
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American philanthropist
+    ids:
+      wikidata: Q16012575
+    links:
+      - https://en.wikipedia.org/wiki/Howard_Edward_Butt_Sr.
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16012575
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: howard-graham-buffett
+    type: person
+    name: Howard Graham Buffett
+    names:
+      en: Howard Graham Buffett
+    gender: M
+    born: 1954-12-16
+    country:
+      - US
+    sectors:
+      - culture
+      - business
+    tier: 4
+    summary: American photographer and philanthropist
+    ids:
+      wikidata: Q4079744
+    links:
+      - https://en.wikipedia.org/wiki/Howard_Graham_Buffett
+    tags:
+      - relative
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4079744
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 总统
+        org: state
+        from: 2026-09-18
+      - title: 理事会成员
+        org: board-of-directors
+        from: 1993-06-11
+        to: "2026"
+  - id: howard-homan-buffett
+    type: person
+    name: Howard Homan Buffett
+    names:
+      zh: 霍华德·巴菲特
+      en: Howard Homan Buffett
+    gender: M
+    born: 1903-08-13
+    died: 1964-04-30
+    country:
+      - US
+    sectors:
+      - politics
+      - finance
+    tier: 4
+    summary: United States Representative from Nebraska (1903-1964)
+    ids:
+      wikidata: Q723488
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9C%8D%E5%8D%8E%E5%BE%B7%C2%B7%E5%B7%B4%E8%8F%B2%E7%89%B9
+      - https://en.wikipedia.org/wiki/Howard_Buffett
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q723488
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国众议员
+        org: us-house
+        from: 1951-01-03
+        to: 1953-01-03
+      - title: 美国众议员
+        org: us-house
+        from: 1943-01-03
+        to: 1949-01-03
+  - id: howard-krein
+    type: person
+    name: Howard Krein
+    names:
+      zh: 霍华德·凯林
+      en: Howard Krein
+    gender: M
+    born: "1966"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American otolaryngologist, plastic surgeon, and business executive and assistant professor at Thomas Jefferson University
+    ids:
+      wikidata: Q100331973
+    links:
+      - https://en.wikipedia.org/wiki/Howard_Krein
+    tags:
+      - relative
+    attrs:
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q100331973
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: howard-lutnick
+    type: person
+    name: Howard Lutnick
+    names:
+      zh: 霍華德·盧特尼克
+      en: Howard Lutnick
+    gender: M
+    born: 1961-07-14
+    country:
+      - US
+    sectors:
+      - politics
+      - business
+    tier: 2
+    summary: American billionaire businessman (born 1961)
+    ids:
+      wikidata: Q16194176
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9C%8D%E8%8F%AF%E5%BE%B7%C2%B7%E7%9B%A7%E7%89%B9%E5%B0%BC%E5%85%8B
+      - https://en.wikipedia.org/wiki/Howard_Lutnick
+    tags:
+      - us-executive
+      - us-business
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 30
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16194176
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國商務部長
+        org: united-states-department-of-commerce
+        from: 2025-02-19
+  - id: howard-m-radzely
+    type: person
+    name: Howard M. Radzely
+    names:
+      zh: 霍华德·拉兹利
+      en: Howard M. Radzely
+    gender: M
+    born: "1970"
+    country:
+      - US
+    sectors:
+      - politics
+      - judiciary
+    tier: 2
+    summary: American lawyer
+    ids:
+      wikidata: Q5920259
+    links:
+      - https://en.wikipedia.org/wiki/Howard_M._Radzely
+    tags:
+      - us-executive
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5920259
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美国劳工部长
+        org: united-states-department-of-labor
+        from: 2009-01-20
+        to: 2009-02-02
+      - title: 美国劳工副部长
+        from: 2007-12-19
+        to: 2009-02-02
+      - title: 美国劳工事务律师
+        from: "2003"
+        to: 2007-12-01
+  - id: howard-schultz
+    type: person
+    name: Howard Schultz
+    names:
+      zh: 霍华德·舒尔茨
+      en: Howard Schultz
+    gender: M
+    born: 1953-07-19
+    country:
+      - US
+    sectors:
+      - business
+      - culture
+      - finance
+    tier: 4
+    summary: 美國商人
+    netWorth:
+      usd: 4200000000
+    ids:
+      wikidata: Q472330
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%9C%8D%E5%8D%8E%E5%BE%B7%C2%B7%E8%88%92%E5%B0%94%E8%8C%A8
+      - https://en.wikipedia.org/wiki/Howard_Schultz
+    tags:
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 31
+    sources:
+      - url: https://www.wikidata.org/wiki/Q472330
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: howard-winklevoss
+    type: person
+    name: Howard Winklevoss
+    names:
+      en: Howard Winklevoss
+    gender: M
+    born: 1943-09-01
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American actuary
+    ids:
+      wikidata: Q5921274
+    links:
+      - https://en.wikipedia.org/wiki/Howard_Winklevoss
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5921274
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hu-changfa
+    type: person
+    name: 胡长发
+    names:
+      zh: 胡长发
+    gender: M
+    born: "1935"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8317066
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E9%95%BF%E5%8F%91
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317066
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: hu-changsheng
+    type: person
+    name: 胡昌升
+    names:
+      zh: 胡昌升
+      en: Hu Changsheng
+    gender: M
+    born: "1963"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共西藏自治区党委书记
+    ids:
+      wikidata: Q16921253
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E6%98%8C%E5%8D%87
+      - https://en.wikipedia.org/wiki/Hu_Changsheng
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16921253
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hu-chunhua
+    type: person
+    name: 胡春华
+    names:
+      zh: 胡春华
+      en: Hu Chunhua
+    gender: M
+    born: 1963-04-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 第十八、十九届中共中央政治局委员，十四届全国政协副主席
+    ids:
+      wikidata: Q1185298
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E6%98%A5%E5%8D%8E
+      - https://en.wikipedia.org/wiki/Hu_Chunhua
+    tags:
+      - cn-leaders
+      - cn-provincial
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1185298
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国人民政治协商会议全国委员会副主席
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+        from: 2023-03-10
+      - title: 中国共产党广东省委员会书记
+        org: guangdong-provincial-committee-of-the-chinese-communist-party
+        from: 2012-12-01
+        to: 2017-10-28
+      - title: 河北省省长
+        org: people-s-government-of-hebei-province
+        from: 2008-04-15
+        to: 2009-12-15
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中华人民共和国国务院副总理
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 2018-03-19
+        to: 2023-03-11
+      - title: 中国共产党中央政治局委员
+        from: 2012-11-15
+        to: 2022-10-23
+      - title: 中国共产主义青年团中央书记处第一书记
+        org: communist-youth-league-of-china
+        from: 2006-11-01
+        to: 2008-11-01
+      - title: 中国共产党中央委员会委员
+        from: 2007-10-15
+  - id: hu-haifeng
+    type: person
+    name: 胡海峰
+    names:
+      zh: 胡海峰
+      en: Hu Haifeng
+    gender: M
+    born: 1971-11-01
+    country:
+      - CN
+    sectors:
+      - business
+      - politics
+    tier: 4
+    summary: 前中共中央总书记胡锦涛之子
+    ids:
+      wikidata: Q262261
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E6%B5%B7%E5%B3%B0
+      - https://en.wikipedia.org/wiki/Hu_Haifeng
+    tags:
+      - cn-business
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q262261
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hu-haiqing
+    type: person
+    name: Hu Haiqing
+    names:
+      zh: 胡海清
+      en: Hu Haiqing
+    gender: F
+    born: 1973-12-01
+    country: []
+    sectors:
+      - business
+    tier: 5
+    summary: 胡锦涛之女
+    ids:
+      wikidata: Q4121018
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E6%B5%B7%E6%B8%85
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4121018
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hu-henghua
+    type: person
+    name: 胡衡华
+    names:
+      zh: 胡衡华
+      en: Hu Henghua
+    gender: M
+    born: 1963-06-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q8970937
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E8%A1%A1%E5%8D%8E
+      - https://en.wikipedia.org/wiki/Hu_Henghua
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8970937
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 重庆市市长
+        org: people-s-government-of-chongqing-municipality
+        from: 2021-12-01
+  - id: hu-heping
+    type: person
+    name: 胡和平
+    names:
+      zh: 胡和平
+      en: Hu Heping
+    gender: M
+    born: 1962-10-24
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共中央宣传部分管日常工作的副部长
+    ids:
+      wikidata: Q8292447
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E5%92%8C%E5%B9%B3
+      - https://en.wikipedia.org/wiki/Hu_Heping
+    tags:
+      - cn-provincial
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 13
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292447
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中国共产党陕西省委员会书记
+        org: shaanxi-provincial-committee-of-the-chinese-communist-party
+        from: 2017-10-29
+        to: 2020-07-31
+      - title: 陕西省人民政府省长
+        org: people-s-government-of-shaanxi-province
+        from: 2016-04-01
+        to: 2018-01-04
+      - title: 中华人民共和国文化和旅游部部长
+        from: 2020-08-11
+        to: 2023-12-29
+  - id: hu-jintao
+    type: person
+    name: 胡锦涛
+    names:
+      zh: 胡锦涛
+      en: Hu Jintao
+    gender: M
+    born: 1942-12-21
+    country:
+      - CN
+    sectors:
+      - politics
+      - tech
+    tier: 1
+    summary: 原中国共产党中央委员会总书记
+    ids:
+      wikidata: Q15029
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E9%94%A6%E6%B6%9B
+      - https://en.wikipedia.org/wiki/Hu_Jintao
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 122
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15029
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中華人民共和國主席
+        from: 2003-03-15
+        to: 2013-03-14
+      - title: 中国共产党中央委员会总书记
+        org: ccp
+        from: 2002-11-15
+        to: 2012-11-15
+      - title: 中华人民共和国副主席
+        from: 1998-03-15
+        to: 2003-03-15
+      - title: 中共中央党校校长
+        org: central-party-school
+        from: 1993-02-01
+        to: 2002-12-01
+      - title: 中国共产党西藏自治区委员会书记
+        org: tibet-autonomous-regional-committee-of-the-chinese-communist-party
+        from: 1988-12-01
+        to: 1992-11-01
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中国共产党中央书记处第一书记
+        from: 1992-10-19
+        to: 2002-11-15
+      - title: 中国共产党中央政治局委员
+        from: 1992-10-19
+        to: 2012-11-15
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+        from: 1983-06-17
+        to: 1988-04-01
+      - title: 中国共产党中央军事委员会主席
+        org: central-military-commission-of-the-chinese-communist-party
+        from: 2004-09-19
+        to: 2012-11-15
+      - title: 中华人民共和国中央军事委员会主席
+        org: central-military-commission-of-people-s-republic-of-china
+        from: 2005-03-13
+        to: 2013-03-14
+      - title: 中国共产主义青年团中央书记处第一书记
+        org: communist-youth-league-of-china
+        from: 1984-12-01
+        to: 1985-11-01
+      - title: 全国政协委员
+        org: cppcc-national-committee
+      - title: 中国共产党中央政治局常务委员会委员
+        org: ccp-politburo-standing-committee
+        from: 1992-10-19
+        to: 2012-11-15
+  - id: hu-ming
+    type: person
+    name: 胡明
+    names:
+      zh: 胡明
+      en: Hu Ming
+    gender: F
+    born: 1919-10-01
+    died: 1967-01-15
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: 中國共產黨和中華人民共和國主要領導人薄一波第二任妻子
+    ids:
+      wikidata: Q97346665
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E6%98%8E_(1919%E5%B9%B4)
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97346665
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hu-shixiang
+    type: person
+    name: 胡世祥
+    names:
+      zh: 胡世祥
+    gender: M
+    born: "1940"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8317052
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E4%B8%96%E7%A5%A5
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317052
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: hu-wenrong
+    type: person
+    name: 胡文容
+    names:
+      zh: 胡文容
+      en: Hu Wenrong
+    gender: M
+    born: 1964-07-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - academia
+    tier: 3
+    summary: 上海市政协主席
+    ids:
+      wikidata: Q47670064
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E6%96%87%E5%AE%B9
+      - https://en.wikipedia.org/wiki/Hu_Wenrong
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47670064
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hu-yongzhu
+    type: person
+    name: 胡永柱
+    names:
+      zh: 胡永柱
+    gender: M
+    born: "1944"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    ids:
+      wikidata: Q8317063
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E6%B0%B8%E6%9F%B1
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317063
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协常务委员
+        org: standing-committee-of-the-chinese-people-s-political-consultative-conference
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: hu-yuting
+    type: person
+    name: 胡玉亭
+    names:
+      zh: 胡玉亭
+      en: Hu Yuting
+    gender: M
+    born: 1964-07-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共吉林省委副书记、吉林省人民政府省长
+    ids:
+      wikidata: Q18109527
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E7%8E%89%E4%BA%AD
+      - https://en.wikipedia.org/wiki/Hu_Yuting
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18109527
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hu-zhongming
+    type: person
+    name: 胡中明
+    names:
+      zh: 胡中明
+      en: Hu Zhongming
+    gender: M
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中国人民解放军海军司令员
+    ids:
+      wikidata: Q85353319
+    links:
+      - https://zh.wikipedia.org/wiki/%E8%83%A1%E4%B8%AD%E6%98%8E
+      - https://en.wikipedia.org/wiki/Hu_Zhongming
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q85353319
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huai-jinpeng
+    type: person
+    name: 怀进鹏
+    names:
+      zh: 怀进鹏
+      en: Huai Jinpeng
+    gender: M
+    born: 1962-12-20
+    country:
+      - CN
+    sectors:
+      - politics
+      - tech
+    tier: 3
+    summary: 中华人民共和国教育部部长、党组书记，中科院院士
+    ids:
+      wikidata: Q9142144
+    links:
+      - https://zh.wikipedia.org/wiki/%E6%80%80%E8%BF%9B%E9%B9%8F
+      - https://en.wikipedia.org/wiki/Huai_Jinpeng
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 11
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9142144
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中华人民共和国教育部部长
+        org: ministry-of-education-of-the-people-s-republic-of-china
+        from: 2021-08-20
+  - id: huang-cisheng
+    type: person
+    name: 黄次胜
+    names:
+      zh: 黄次胜
+      en: Huang Cisheng
+    gender: M
+    born: "1938"
+    died: 2020-07-15
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese militar (1938–2020)
+    ids:
+      wikidata: Q8317651
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E6%AC%A1%E8%83%9C
+      - https://en.wikipedia.org/wiki/Huang_Cisheng
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317651
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huang-guangyu
+    type: person
+    name: 黃光裕
+    names:
+      zh: 黃光裕
+      en: Huang Guangyu
+    gender: M
+    born: 1969-06-24
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国富豪
+    ids:
+      wikidata: Q5925535
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%83%E5%85%89%E8%A3%95
+      - https://en.wikipedia.org/wiki/Huang_Guangyu
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 7
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5925535
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huang-hanbiao
+    type: person
+    name: 黄汉标
+    names:
+      zh: 黄汉标
+    gender: M
+    born: "1950"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: Chinese military personnel
+    ids:
+      wikidata: Q8314717
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E6%B1%89%E6%A0%87_(1950%E5%B9%B4)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8314717
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huang-hengmei
+    type: person
+    name: 黄恒美
+    names:
+      zh: 黄恒美
+      en: Huang Hengmei
+    gender: M
+    born: "1940"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8320741
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E6%81%92%E7%BE%8E
+      - https://en.wikipedia.org/wiki/Huang_Hengmei
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8320741
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: huang-jianfa
+    type: person
+    name: 黄建发
+    names:
+      zh: 黄建发
+      en: Huang Jianfa
+    gender: M
+    born: "1965"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共中央组织部分管日常工作的副部长
+    ids:
+      wikidata: Q30947255
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E5%BB%BA%E5%8F%91
+      - https://en.wikipedia.org/wiki/Huang_Jianfa
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30947255
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huang-jianguo
+    type: person
+    name: 黄建国
+    names:
+      zh: 黄建国
+      en: Huang Jianguo
+    gender: M
+    born: "1955"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: 中国人民解放军中将
+    ids:
+      wikidata: Q8317641
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E5%BB%BA%E5%9B%BD_(%E4%B8%AD%E5%B0%86)
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317641
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huang-jiaxiang
+    type: person
+    name: 黄嘉祥 (解放军)
+    names:
+      zh: 黄嘉祥 (解放军)
+      en: Huang Jiaxiang
+    gender: M
+    born: "1949"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8319538
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E5%98%89%E7%A5%A5_(%E8%A7%A3%E6%94%BE%E5%86%9B)
+      - https://en.wikipedia.org/wiki/Huang_Jiaxiang
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8319538
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: huang-jing
+    type: person
+    name: 黄敬
+    names:
+      zh: 黄敬
+      en: Huang Jing
+    gender: M
+    born: "1912"
+    died: 1958-02-10
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 5
+    summary: 中国政治人物
+    ids:
+      wikidata: Q7178157
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E6%95%AC
+      - https://en.wikipedia.org/wiki/Huang_Jing
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7178157
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 天津市市长
+        org: people-s-government-of-tianjin-municipality
+        from: 1949-01-15
+        to: 1952-08-01
+  - id: huang-ju
+    type: person
+    name: 黄菊
+    names:
+      zh: 黄菊
+      en: Huang Ju
+    gender: M
+    born: 1938-09-28
+    died: 2007-06-02
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 1
+    summary: 中共第十六届中央政治局常委，中华人民共和国国务院原副总理
+    ids:
+      wikidata: Q505710
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E8%8F%8A
+      - https://en.wikipedia.org/wiki/Huang_Ju
+    tags:
+      - cn-leaders
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 24
+    sources:
+      - url: https://www.wikidata.org/wiki/Q505710
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国国务院副总理
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 2003-03-15
+        to: 2007-06-02
+      - title: 上海市市長
+        org: shanghai-municipal-people-s-government
+        from: 1991-04-29
+        to: 1995-02-24
+      - title: 中国共产党上海市委员会书记
+        org: shanghai-municipal-committee-of-the-chinese-communist-party
+        from: 1994-09-01
+        to: 2002-10-01
+      - title: 中国共产党中央政治局常务委员会委员
+        org: ccp-politburo-standing-committee
+        from: 2002-11-15
+        to: 2007-06-02
+  - id: huang-kunming
+    type: person
+    name: 黄坤明
+    names:
+      zh: 黄坤明
+      en: Huang Kunming
+    gender: M
+    born: 1956-11-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 中共二十届中央政治局委员、广东省委书记
+    ids:
+      wikidata: Q8292452
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E5%9D%A4%E6%98%8E
+      - https://en.wikipedia.org/wiki/Huang_Kunming
+    tags:
+      - cn-leaders
+      - cn-provincial
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 16
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8292452
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中国共产党广东省委员会书记
+        org: guangdong-provincial-committee-of-the-chinese-communist-party
+        from: 2022-10-01
+      - title: 中国共产党中央政治局委员
+        from: 2017-10-25
+      - title: 中国共产党中央委员会宣传部部长
+        org: ccp-publicity-department
+        from: 2017-10-30
+        to: 2022-10-26
+      - title: Party Secretary of Hangzhou
+        from: 2010-01-20
+        to: 2013-10-08
+      - title: 中国共产党中央书记处书记
+        org: ccp-secretariat
+        from: 2017-10-01
+        to: 2022-10-01
+  - id: huang-lusheng
+    type: person
+    name: 黄路生
+    names:
+      zh: 黄路生
+      en: Huang Lusheng
+    gender: M
+    born: "1964"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: Chinese geneticist
+    ids:
+      wikidata: Q9463174
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E8%B7%AF%E7%94%9F
+      - https://en.wikipedia.org/wiki/Huang_Lusheng
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9463174
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huang-ming
+    type: person
+    name: 黄明
+    names:
+      zh: 黄明
+      en: Huang Ming
+    gender: M
+    born: 1957-10-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中华人民共和国政治人物
+    ids:
+      wikidata: Q9462347
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E6%98%8E_(1957%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Huang_Ming_(politician)
+    tags:
+      - cn-ministers
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q9462347
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国应急管理部部长
+        org: ministry-of-emergency-management-of-the-people-s-republic-of-china
+        from: 2021-04-29
+        to: 2022-07-29
+  - id: huang-ming-1958
+    type: person
+    name: 黄鸣
+    names:
+      zh: 黄鸣
+      en: Huang Ming
+    gender: M
+    born: 1958-03-10
+    country:
+      - CN
+    sectors:
+      - business
+      - tech
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q5925648
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E9%B8%A3
+      - https://en.wikipedia.org/wiki/Huang_Ming_(entrepreneur)
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 8
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5925648
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+        from: "2003"
+  - id: huang-ming-1963
+    type: person
+    name: 黄铭
+    names:
+      zh: 黄铭
+      en: Huang Ming
+    gender: M
+    born: "1963"
+    country:
+      - CN
+    sectors:
+      - politics
+      - military
+    tier: 3
+    summary: 中国人民解放军北部战区司令员，陆军上将
+    ids:
+      wikidata: Q47665559
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E9%93%AD
+      - https://en.wikipedia.org/wiki/Huang_Ming_(military_officer)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q47665559
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: huang-qiang
+    type: person
+    name: 黄强
+    names:
+      zh: 黄强
+      en: Huang Qiang
+    gender: M
+    born: 1963-04-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中共吉林省委书记、吉林省人大常委会主任
+    ids:
+      wikidata: Q30941468
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E5%BC%BA_(1963%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Huang_Qiang_(politician)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30941468
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huang-ru
+    type: person
+    name: 黄如
+    names:
+      zh: 黄如
+      en: Huang Ru
+    gender: F
+    born: "1969"
+    country:
+      - CN
+    sectors:
+      - politics
+      - academia
+    tier: 3
+    summary: 国家发展和改革委员会党组成员、副主任（兼职）
+    ids:
+      wikidata: Q60991354
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E5%A6%82_(1969%E5%B9%B4)
+      - https://en.wikipedia.org/wiki/Huang_Ru
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q60991354
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huang-shouhong
+    type: person
+    name: 黄守宏
+    names:
+      zh: 黄守宏
+      en: Huang Shouhong
+    gender: M
+    born: "1964"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 中央社会主义学院党组书记、第一副院长
+    ids:
+      wikidata: Q28408957
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E5%AE%88%E5%AE%8F
+      - https://en.wikipedia.org/wiki/Huang_Shouhong
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28408957
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huang-shuxian
+    type: person
+    name: 黄树贤
+    names:
+      zh: 黄树贤
+      en: Huang Shuxian
+    gender: M
+    born: 1954-09-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: Chinese politician
+    ids:
+      wikidata: Q8293836
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E6%A0%91%E8%B4%A4
+      - https://en.wikipedia.org/wiki/Huang_Shuxian
+    tags:
+      - cn-ministers
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8293836
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 中华人民共和国民政部部长
+        org: ministry-of-civil-affairs-of-the-people-s-republic-of-china
+        from: 2016-11-07
+        to: 2019-10-26
+      - title: 中华人民共和国监察部部长
+        from: 2013-03-16
+        to: 2016-11-07
+  - id: huang-xiaowei
+    type: person
+    name: 黄晓薇
+    names:
+      zh: 黄晓薇
+      en: Huang Xiaowei
+    gender: F
+    born: "1961"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: 全国妇联党组书记、副主席、书记处第一书记
+    ids:
+      wikidata: Q16908373
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E6%99%93%E8%96%87
+      - https://en.wikipedia.org/wiki/Huang_Xiaowei_(politician)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16908373
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+  - id: huang-xinbai
+    type: person
+    name: 黄辛白
+    names:
+      zh: 黄辛白
+      en: Huang Xinbai
+    gender: M
+    born: 1921-10-01
+    died: 2008-02-29
+    country:
+      - CN
+    sectors:
+      - family
+    tier: 5
+    summary: 中华人民共和国教育家
+    ids:
+      wikidata: Q28355292
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E8%BE%9B%E7%99%BD
+      - https://en.wikipedia.org/wiki/Huang_Xinbai
+    tags:
+      - relative
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28355292
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全国政协委员
+        org: cppcc-national-committee
+        from: 1988-04-01
+        to: 1998-03-01
+  - id: huang-xinsheng
+    type: person
+    name: 黄信生
+    names:
+      zh: 黄信生
+      en: Huang Xinsheng
+    gender: M
+    born: "1939"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: 中国人民解放军中将
+    ids:
+      wikidata: Q8317619
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BF%A1%E7%94%9F
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317619
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: huang-xucong
+    type: person
+    name: Huang Xucong
+    names:
+      zh: 黄旭聪
+      en: Huang Xucong
+    gender: M
+    born: "1968"
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 3
+    summary: Chinese general
+    ids:
+      wikidata: Q116226220
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E6%97%AD%E8%81%AA
+      - https://en.wikipedia.org/wiki/Huang_Xucong
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116226220
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huang-xuelu
+    type: person
+    name: 黄学禄
+    names:
+      zh: 黄学禄
+    gender: M
+    born: "1938"
+    country:
+      - CN
+    sectors:
+      - military
+      - politics
+    tier: 4
+    summary: Chinese politician
+    ids:
+      wikidata: Q8317627
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E5%AD%A6%E7%A6%84
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317627
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+  - id: huang-yinbao
+    type: person
+    name: 黄银宝
+    names:
+      zh: 黄银宝
+      en: Huang Yinbao
+    gender: M
+    born: 1962-08-02
+    country:
+      - CN
+    sectors:
+      - business
+      - academia
+    tier: 4
+    summary: Chinese esperantist and editor
+    ids:
+      wikidata: Q27994659
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E9%93%B6%E5%AE%9D
+    tags:
+      - cn-business
+    attrs:
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27994659
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huang-zhiqiang
+    type: person
+    name: 黄志强
+    names:
+      zh: 黄志强
+      en: Huang Zhiqiang
+    gender: M
+    born: 1970-06-01
+    country:
+      - CN
+    sectors:
+      - politics
+      - finance
+    tier: 3
+    summary: 国家开发银行党委副书记
+    ids:
+      wikidata: Q98136757
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E5%BF%97%E5%BC%BA_(%E6%B1%9F%E8%8B%8F)
+    tags:
+      - wpcat:中国共产党第二十届中央委员会候补委员
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q98136757
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huang-zuoxing
+    type: person
+    name: 黄作兴
+    names:
+      zh: 黄作兴
+      en: Huang Zuoxing
+    gender: M
+    born: "1948"
+    country:
+      - CN
+    sectors:
+      - military
+    tier: 4
+    summary: PLA general
+    ids:
+      wikidata: Q8317608
+    links:
+      - https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BD%9C%E5%85%B4
+      - https://en.wikipedia.org/wiki/Huang_Zuoxing
+    tags:
+      - cn-military
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8317608
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hugh-auchincloss-jr
+    type: person
+    name: Hugh Auchincloss Jr.
+    names:
+      en: Hugh Auchincloss Jr.
+    gender: M
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American immunologist
+    ids:
+      wikidata: Q61472350
+    links:
+      - https://en.wikipedia.org/wiki/Hugh_Auchincloss_(immunologist)
+    tags:
+      - relative
+    attrs:
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q61472350
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hugh-dudley-auchincloss-jr
+    type: person
+    name: Hugh Dudley Auchincloss Jr.
+    names:
+      en: Hugh Dudley Auchincloss Jr.
+    gender: M
+    born: 1897-08-15
+    died: 1976-11-20
+    country:
+      - US
+    sectors:
+      - judiciary
+      - military
+    tier: 5
+    summary: American lawyer (1897-1976)
+    ids:
+      wikidata: Q3142236
+    links:
+      - https://en.wikipedia.org/wiki/Hugh_D._Auchincloss_Jr.
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 6
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3142236
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hugh-e-rodham
+    type: person
+    name: Hugh E. Rodham
+    names:
+      zh: 休·E·罗德姆
+      en: Hugh E. Rodham
+    gender: M
+    born: 1911-04-02
+    died: 1993-04-07
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 5
+    summary: father of Hillary Rodham Clinton
+    ids:
+      wikidata: Q16013081
+    links:
+      - https://en.wikipedia.org/wiki/Hugh_Rodham_(born_1911)
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16013081
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hugh-rodham
+    type: person
+    name: Hugh Rodham
+    names:
+      zh: 休·罗德姆
+      en: Hugh Rodham
+    gender: M
+    born: 1950-05-26
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 5
+    summary: American lawyer
+    ids:
+      wikidata: Q5932520
+    links:
+      - https://en.wikipedia.org/wiki/Hugh_Rodham_(born_1950)
+    tags:
+      - relative
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 4
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5932520
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hugo-wolfram
+    type: person
+    name: Hugo Wolfram
+    names:
+      en: Hugo Wolfram
+    gender: M
+    born: "1925"
+    died: 2015-09-15
+    country: []
+    sectors:
+      - culture
+    tier: 5
+    summary: English businessman and novelist
+    ids:
+      wikidata: Q26997674
+    links:
+      - https://en.wikipedia.org/wiki/Hugo_Wolfram
+    tags:
+      - relative
+    attrs:
+      sitelinks: 3
+    sources:
+      - url: https://www.wikidata.org/wiki/Q26997674
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hui-liangyu
+    type: person
+    name: 回良玉
+    names:
+      zh: 回良玉
+      en: Hui Liangyu
+    gender: M
+    born: 1944-10-01
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 2
+    summary: 第十六、十七届中共中央政治局委员，第十、十一届国务院副总理
+    ids:
+      wikidata: Q957744
+    links:
+      - https://zh.wikipedia.org/wiki/%E5%9B%9E%E8%89%AF%E7%8E%89
+      - https://en.wikipedia.org/wiki/Hui_Liangyu
+    tags:
+      - cn-leaders
+      - party:Chinese Communist Party
+    attrs:
+      party: Chinese Communist Party
+      sitelinks: 19
+    sources:
+      - url: https://www.wikidata.org/wiki/Q957744
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 全國人民代表大會代表
+        org: national-people-s-congress
+      - title: 中华人民共和国国务院副总理
+        org: member-of-the-state-council-of-the-people-s-republic-of-china
+        from: 2003-03-17
+        to: 2013-03-15
+  - id: hunter-biden
+    type: person
+    name: Hunter Biden
+    names:
+      zh: 亨特·拜登
+      en: Hunter Biden
+    gender: M
+    born: 1970-02-04
+    country:
+      - US
+    sectors:
+      - business
+      - judiciary
+    tier: 4
+    summary: 第46任美国总统乔·拜登次子
+    ids:
+      wikidata: Q5944264
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%BA%A8%E7%89%B9%C2%B7%E6%8B%9C%E7%99%BB
+      - https://en.wikipedia.org/wiki/Hunter_Biden
+    tags:
+      - us-business
+      - party:Democratic Party
+    attrs:
+      party: Democratic Party
+      sitelinks: 41
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5944264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hunter-l-hunt
+    type: person
+    name: Hunter L. Hunt
+    names:
+      en: Hunter L. Hunt
+    gender: M
+    born: "1968"
+    country:
+      - US
+    sectors:
+      - business
+    tier: 5
+    summary: businessman
+    ids:
+      wikidata: Q5944436
+    links:
+      - https://en.wikipedia.org/wiki/Hunter_L._Hunt
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 1
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5944436
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hussein-onyango-obama
+    type: person
+    name: Hussein Onyango Obama
+    names:
+      en: Hussein Onyango Obama
+    gender: M
+    born: "1895"
+    died: 1975-11-28
+    country: []
+    sectors:
+      - family
+    tier: 5
+    summary: grandfather of U.S. president Barack Obama
+    ids:
+      wikidata: Q15982328
+    links:
+      - https://en.wikipedia.org/wiki/Hussein_Obama
+    tags:
+      - relative
+    attrs:
+      sitelinks: 2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15982328
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hyatt-bass
+    type: person
+    name: Hyatt Bass
+    names:
+      en: Hyatt Bass
+    gender: F
+    born: "1969"
+    country:
+      - US
+    sectors:
+      - family
+    tier: 5
+    summary: American novelist
+    ids:
+      wikidata: Q18619143
+    links:
+      - https://en.wikipedia.org/wiki/Hyatt_Bass
+    tags:
+      - relative
+    attrs:
+      sitelinks: 5
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18619143
+        publisher: Wikidata
+        accessed: 2026-10-11

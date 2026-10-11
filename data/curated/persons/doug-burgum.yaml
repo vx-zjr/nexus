@@ -1,0 +1,27 @@
+id: doug-burgum
+type: person
+name: Doug Burgum
+names:
+  en: Doug Burgum
+  zh: 道格·伯格姆
+gender: M
+born: '1956-08-01'
+country:
+- US
+sectors:
+- politics
+- business
+tier: 2
+status: active
+summary: 内政部长（2025–）、国家能源主导委员会主席。前北达科他州州长、软件企业家（Great Plains Software，售予微软）。
+positions:
+- title: 内政部长
+  org: us-cabinet
+  from: '2025-02-01'
+  current: true
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

@@ -1,0 +1,32 @@
+id: david-perdue
+type: person
+name: David Perdue
+names:
+  en: David Perdue
+  zh: 大卫·珀杜
+gender: M
+born: '1949-12-10'
+country:
+- US
+sectors:
+- diplomacy
+- politics
+- business
+tier: 2
+summary: 美国驻华大使（2025-05-07 宣誓就任；参议院 67–29 确认）。前佐治亚州联邦参议员（2015–2021）、前 Dollar General 与锐步 CEO。
+positions:
+- title: 美国驻华大使
+  from: 2025-05
+  current: true
+- title: 联邦参议员（佐治亚）
+  org: us-senate
+  from: 2015-01
+  to: 2021-01
+ids:
+  wikidata: Q17402717
+sources:
+- url: https://www.walb.com/2025/04/29/senate-confirms-former-georgia-sen-david-perdue-trumps-us-ambassador-china-amid-tariff-showdown/
+  title: Senate confirms David Perdue as ambassador to China (67-29)
+  publisher: WALB / Gray
+  date: '2025-04-29'
+updated: '2026-10-11'

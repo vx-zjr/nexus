@@ -1,0 +1,19 @@
+id: devin-nunes
+type: person
+name: Devin Nunes
+names:
+  en: Devin Nunes
+  zh: 德文·努内斯
+gender: M
+born: '1973-10-01'
+country:
+- US
+sectors:
+- business
+- politics
+tier: 3
+summary: Trump Media & Technology Group CEO（2022–）、前加州众议员、前众议院情报委员会主席。
+sources:
+- url: https://en.wikipedia.org/wiki/Devin_Nunes
+  publisher: Wikipedia
+updated: '2026-10-11'

@@ -1,0 +1,19 @@
+id: victor-li
+type: person
+name: 李泽钜
+names:
+  zh: 李泽钜
+  en: Victor Li
+gender: M
+born: '1964-08-01'
+country:
+- HK
+- CA
+sectors:
+- business
+tier: 2
+summary: 李嘉诚长子，长江和记实业、长江实业集团主席（2018 年起）。
+sources:
+- url: https://en.wikipedia.org/wiki/Victor_Li
+  publisher: Wikipedia
+updated: '2026-10-11'

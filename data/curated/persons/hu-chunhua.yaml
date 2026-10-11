@@ -1,0 +1,28 @@
+id: hu-chunhua
+type: person
+name: 胡春华
+names:
+  zh: 胡春华
+  en: Hu Chunhua
+gender: M
+born: 1963-04
+country:
+- CN
+sectors:
+- politics
+tier: 2
+status: active
+summary: 全国政协副主席（2023–），前国务院副总理（2018–2023）、广东省委书记。共青团出身，“小胡”，团派代表人物；二十大未进入政治局，坊间传其可能在二十届五中全会后获增补。
+positions:
+- title: 全国政协副主席
+  org: cppcc-national-committee
+  from: 2023-03
+  current: true
+- title: 国务院副总理
+  org: state-council-prc
+  from: 2018-03
+  to: 2023-03
+sources:
+- url: https://en.wikipedia.org/wiki/Hu_Chunhua
+  publisher: Wikipedia
+updated: '2026-10-11'

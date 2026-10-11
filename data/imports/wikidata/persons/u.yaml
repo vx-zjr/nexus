@@ -1,0 +1,66 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: ursula-burns
+    type: person
+    name: Ursula Burns
+    names:
+      zh: 尤苏拉·伯恩斯
+      en: Ursula Burns
+    gender: F
+    born: 1958-09-20
+    country:
+      - US
+    sectors:
+      - business
+      - tech
+    tier: 4
+    summary: American businessperson
+    ids:
+      wikidata: Q465663
+    links:
+      - https://zh.wikipedia.org/wiki/%E7%83%8F%E8%98%87%E6%8B%89%C2%B7%E4%BC%AF%E6%81%A9%E6%96%AF
+      - https://en.wikipedia.org/wiki/Ursula_Burns
+    tags:
+      - us-business
+    attrs:
+      sitelinks: 26
+    sources:
+      - url: https://www.wikidata.org/wiki/Q465663
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 首席执行官
+        from: "2009"
+  - id: usha-vance
+    type: person
+    name: Usha Vance
+    names:
+      zh: 乌莎·万斯
+      en: Usha Vance
+    gender: F
+    born: 1986-01-06
+    country:
+      - US
+    sectors:
+      - judiciary
+    tier: 3
+    summary: 美國第二夫人
+    ids:
+      wikidata: Q114390240
+    links:
+      - https://zh.wikipedia.org/wiki/%E4%B9%8C%E8%8E%8E%C2%B7%E4%B8%87%E6%96%AF
+      - https://en.wikipedia.org/wiki/Usha_Vance
+    tags:
+      - relative
+      - party:Republican Party
+    attrs:
+      party: Republican Party
+      sitelinks: 41
+    sources:
+      - url: https://www.wikidata.org/wiki/Q114390240
+        publisher: Wikidata
+        accessed: 2026-10-11
+    positions:
+      - title: 美國副總統配偶
+        from: 2025-01-20

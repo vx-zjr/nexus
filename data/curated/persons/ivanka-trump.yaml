@@ -1,0 +1,19 @@
+id: ivanka-trump
+type: person
+name: Ivanka Trump
+names:
+  en: Ivanka Trump
+  zh: 伊万卡·特朗普
+gender: F
+born: '1981-10-30'
+country:
+- US
+sectors:
+- business
+- politics
+tier: 2
+summary: 特朗普长女，第一任期白宫高级顾问（2017–2021）。2009 年与 Jared Kushner 结婚。
+sources:
+- url: https://en.wikipedia.org/wiki/Ivanka_Trump
+  publisher: Wikipedia
+updated: '2026-10-11'

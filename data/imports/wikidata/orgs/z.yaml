@@ -1,0 +1,222 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: zapata-petroleum-corporation
+    type: org
+    name: Zapata Petroleum Corporation
+    names:
+      en: Zapata Petroleum Corporation
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    ids:
+      wikidata: Q38083986
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38083986
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: zeekr
+    type: org
+    name: 极氪
+    names:
+      zh: 极氪
+      en: Zeekr
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 中國電動汽車品牌
+    ids:
+      wikidata: Q106621124
+    links:
+      - https://en.wikipedia.org/wiki/Zeekr
+    sources:
+      - url: https://www.wikidata.org/wiki/Q106621124
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: zeta-global
+    type: org
+    name: Zeta Global
+    names:
+      en: Zeta Global
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: marketing company
+    ids:
+      wikidata: Q8069710
+    links:
+      - https://en.wikipedia.org/wiki/Zeta_Global
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8069710
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: zhejiang-provincial-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党浙江省委员会
+    names:
+      zh: 中国共产党浙江省委员会
+      en: Zhejiang Provincial Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国共产党在浙江省的领导机关
+    ids:
+      wikidata: Q10873211
+    links:
+      - https://en.wikipedia.org/wiki/Zhejiang_Provincial_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: zhejiang-university
+    type: org
+    name: 浙江大学
+    names:
+      zh: 浙江大学
+      en: Zhejiang University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 1897年創建的學校
+    ids:
+      wikidata: Q197543
+    links:
+      - https://en.wikipedia.org/wiki/Zhejiang_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q197543
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: zhengzhou-university
+    type: org
+    name: 郑州大学
+    names:
+      zh: 郑州大学
+      en: Zhengzhou University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于河南郑州的公立大学
+    ids:
+      wikidata: Q649895
+    links:
+      - https://en.wikipedia.org/wiki/Zhengzhou_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q649895
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: zhongnan-university-of-economics-and-law
+    type: org
+    name: 中南财经政法大学
+    names:
+      zh: 中南财经政法大学
+      en: Zhongnan University of Economics and Law
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于湖北省武汉市的一所综合性财经政法大学
+    ids:
+      wikidata: Q8070947
+    links:
+      - https://en.wikipedia.org/wiki/Zhongnan_University_of_Economics_and_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8070947
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: zhuo-neng-ji-tuan
+    type: org
+    name: 卓能集團
+    names:
+      zh: 卓能集團
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    ids:
+      wikidata: Q7253930
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7253930
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: zip2
+    type: org
+    name: Zip2
+    names:
+      zh: Zip2
+      en: Zip2
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 3
+    summary: American software company
+    ids:
+      wikidata: Q28222602
+    links:
+      - https://en.wikipedia.org/wiki/Zip2
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28222602
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: zoom
+    type: org
+    name: Zoom
+    names:
+      en: Zoom
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 视频会议软件
+    ids:
+      wikidata: Q94979732
+    links:
+      - https://en.wikipedia.org/wiki/Zoom_(software)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q94979732
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: zoom-communications
+    type: org
+    name: Zoom Communications
+    names:
+      zh: Zoom
+      en: Zoom Communications
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美国科技公司
+    ids:
+      wikidata: Q17460900
+    links:
+      - https://en.wikipedia.org/wiki/Zoom_Communications
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17460900
+        publisher: Wikidata
+        accessed: 2026-10-11

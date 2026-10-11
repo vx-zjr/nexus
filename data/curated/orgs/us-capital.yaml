@@ -1,0 +1,111 @@
+entities:
+- id: susquehanna
+  type: org
+  name: Susquehanna International Group
+  orgType: fund
+  country: US
+  sectors:
+  - finance
+  tier: 3
+  ids:
+    wikidata: Q7649307
+  summary: 量化交易公司，字节跳动早期大股东（约 15%）。其董事总经理 Mark Dooley 进入 TikTok 美国合资公司董事会。
+- id: citadel
+  type: org
+  name: Citadel LLC
+  orgType: fund
+  country: US
+  sectors:
+  - finance
+  tier: 3
+  ids:
+    wikidata: Q2974366
+- id: elliott-management
+  type: org
+  name: Elliott Investment Management
+  orgType: fund
+  country: US
+  sectors:
+  - finance
+  tier: 3
+  ids:
+    wikidata: Q5365696
+- id: bloomberg-lp
+  type: org
+  name: Bloomberg L.P.
+  orgType: media
+  country: US
+  sectors:
+  - media
+  - finance
+  tier: 2
+  ids:
+    wikidata: Q13977
+- id: club-for-growth
+  type: org
+  name: Club for Growth
+  orgType: club
+  country: US
+  sectors:
+  - politics
+  tier: 4
+  ids:
+    wikidata: Q160731
+- id: maga-inc
+  type: org
+  name: MAGA Inc.
+  orgType: club
+  country: US
+  sectors:
+  - politics
+  tier: 3
+  ids:
+    wikidata: Q123281082
+  summary: 支持特朗普的主要超级 PAC（2022–）。
+- id: openai
+  type: org
+  name: OpenAI
+  orgType: company
+  country: US
+  sectors:
+  - tech
+  tier: 1
+  ids:
+    wikidata: Q21708200
+- id: softbank
+  type: org
+  name: SoftBank Group
+  names:
+    zh: 软银集团
+  orgType: company
+  country: JP
+  sectors:
+  - finance
+  - tech
+  tier: 2
+  ids:
+    wikidata: Q201653
+- id: blackrock
+  type: org
+  name: BlackRock
+  names:
+    zh: 贝莱德
+  orgType: fund
+  country: US
+  sectors:
+  - finance
+  tier: 1
+  ids:
+    wikidata: Q219635
+- id: jpmorgan-chase
+  type: org
+  name: JPMorgan Chase
+  names:
+    zh: 摩根大通
+  orgType: bank
+  country: US
+  sectors:
+  - finance
+  tier: 1
+  ids:
+    wikidata: Q192314

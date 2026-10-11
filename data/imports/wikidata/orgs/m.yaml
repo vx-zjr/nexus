@@ -1,0 +1,3073 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: macandrews-and-forbes
+    type: org
+    name: MacAndrews & Forbes
+    names:
+      zh: 麥克安德魯斯與富比士集團
+      en: MacAndrews & Forbes
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American holding company
+    ids:
+      wikidata: Q6721705
+    links:
+      - https://en.wikipedia.org/wiki/MacAndrews_%26_Forbes
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6721705
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: macos
+    type: org
+    name: macOS
+    names:
+      en: macOS
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 作業系統
+    ids:
+      wikidata: Q14116
+    links:
+      - https://en.wikipedia.org/wiki/MacOS
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14116
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: madeleine-albright-collection
+    type: org
+    name: Madeleine Albright Collection
+    names:
+      en: Madeleine Albright Collection
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: Art collection
+    ids:
+      wikidata: Q105335482
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105335482
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: magdalen-college
+    type: org
+    name: Magdalen College
+    names:
+      zh: 牛津大学莫德林学院
+      en: Magdalen College
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 3
+    summary: 1458年创建的一所学校
+    ids:
+      wikidata: Q81162
+    links:
+      - https://en.wikipedia.org/wiki/Magdalen_College%2C_Oxford
+    sources:
+      - url: https://www.wikidata.org/wiki/Q81162
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: magnolia-pictures
+    type: org
+    name: Magnolia Pictures
+    names:
+      zh: 木兰影业公司
+      en: Magnolia Pictures
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American film distributor
+    ids:
+      wikidata: Q3843364
+    links:
+      - https://en.wikipedia.org/wiki/Magnolia_Pictures
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3843364
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: maha-commission
+    type: org
+    name: MAHA Commission
+    names:
+      en: MAHA Commission
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: second Trump administration committee
+    ids:
+      wikidata: Q134722417
+    links:
+      - https://en.wikipedia.org/wiki/MAHA_Commission
+    sources:
+      - url: https://www.wikidata.org/wiki/Q134722417
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mailchimp
+    type: org
+    name: Mailchimp
+    names:
+      en: Mailchimp
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: email marketing service
+    ids:
+      wikidata: Q6735673
+    links:
+      - https://en.wikipedia.org/wiki/Mailchimp
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6735673
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: maine-house-of-representatives
+    type: org
+    name: Maine House of Representatives
+    names:
+      zh: 缅因州众议院
+      en: Maine House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the Maine state legislature
+    ids:
+      wikidata: Q909004
+    links:
+      - https://en.wikipedia.org/wiki/Maine_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q909004
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: maine-senate
+    type: org
+    name: Maine Senate
+    names:
+      zh: 缅因州参议院
+      en: Maine Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the Maine Legislature
+    ids:
+      wikidata: Q909050
+    links:
+      - https://en.wikipedia.org/wiki/Maine_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q909050
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: man-of-steel
+    type: org
+    name: Man of Steel
+    names:
+      en: Man of Steel
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: yacht built in 2010
+    ids:
+      wikidata: Q14912520
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14912520
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: manchester-united-f-c
+    type: org
+    name: Manchester United F.C.
+    names:
+      zh: 曼彻斯特联足球俱乐部
+      en: Manchester United F.C.
+    orgType: other
+    country:
+      - GB
+    sectors:
+      - other
+    tier: 2
+    summary: 英格蘭足球俱樂部
+    ids:
+      wikidata: Q18656
+    links:
+      - https://en.wikipedia.org/wiki/Manchester_United_F.C.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18656
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mandolin-and-fruit-dish
+    type: org
+    name: Mandolin and Fruit Dish
+    names:
+      en: Mandolin and Fruit Dish
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Georges Braque
+    ids:
+      wikidata: Q137723138
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137723138
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: manhattan-university
+    type: org
+    name: Manhattan University
+    names:
+      zh: 曼哈顿学院
+      en: Manhattan University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: Roman Catholic, liberal arts college in The Bronx, NYC
+    ids:
+      wikidata: Q2749572
+    links:
+      - https://en.wikipedia.org/wiki/Manhattan_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2749572
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mar-a-lago
+    type: org
+    name: Mar-a-Lago
+    names:
+      zh: 海湖庄园
+      en: Mar-a-Lago
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: resort and National Historic Landmark in Palm Beach, Florida, United States of America
+    ids:
+      wikidata: Q1262898
+    links:
+      - https://en.wikipedia.org/wiki/Mar-a-Lago
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1262898
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: market-based-management-institute
+    type: org
+    name: Market-Based Management Institute
+    names:
+      en: Market-Based Management Institute
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American non-profit organisation
+    ids:
+      wikidata: Q6770643
+    links:
+      - https://en.wikipedia.org/wiki/Market-Based_Management_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6770643
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: marlon-bundo
+    type: org
+    name: Marlon Bundo
+    names:
+      en: Marlon Bundo
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: pet rabbit of Mike Pence
+    ids:
+      wikidata: Q29886892
+    links:
+      - https://en.wikipedia.org/wiki/Marlon_Bundo
+    sources:
+      - url: https://www.wikidata.org/wiki/Q29886892
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: marquette-university
+    type: org
+    name: Marquette University
+    names:
+      zh: 马凯特大学
+      en: Marquette University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 私立大學，位於美國威斯康星州密爾沃基市
+    ids:
+      wikidata: Q188370
+    links:
+      - https://en.wikipedia.org/wiki/Marquette_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q188370
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mars-incorporated
+    type: org
+    name: Mars, Incorporated
+    names:
+      zh: 玛氏食品
+      en: Mars, Incorporated
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國食品公司
+    ids:
+      wikidata: Q695087
+    links:
+      - https://en.wikipedia.org/wiki/Mars_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q695087
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: marvel-studios
+    type: org
+    name: Marvel Studios
+    names:
+      zh: 漫威影业
+      en: Marvel Studios
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 華特迪士尼公司旗下子公司漫威娛樂的電影製片廠
+    ids:
+      wikidata: Q367466
+    links:
+      - https://en.wikipedia.org/wiki/Marvel_Studios
+    sources:
+      - url: https://www.wikidata.org/wiki/Q367466
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mary-institute-and-st-louis-country-day-school
+    type: org
+    name: Mary Institute and St. Louis Country Day School
+    names:
+      zh: 瑪麗學院和聖路易斯國家日校
+      en: Mary Institute and St. Louis Country Day School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private school in Ladue, , Missouri, United States
+    ids:
+      wikidata: Q6779832
+    links:
+      - https://en.wikipedia.org/wiki/Mary_Institute_and_St._Louis_Country_Day_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6779832
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: maryland-department-of-the-environment
+    type: org
+    name: Maryland Department of the Environment
+    names:
+      en: Maryland Department of the Environment
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: environmental protection agency of the U.S. state of Maryland
+    ids:
+      wikidata: Q104876852
+    links:
+      - https://en.wikipedia.org/wiki/Maryland_Department_of_the_Environment
+    sources:
+      - url: https://www.wikidata.org/wiki/Q104876852
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: maryland-governor-s-office
+    type: org
+    name: Maryland Governor's Office
+    names:
+      en: Maryland Governor's Office
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: government organization in Annapolis, Maryland, United States
+    ids:
+      wikidata: Q33121975
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q33121975
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: maryland-house-of-delegates
+    type: org
+    name: Maryland House of Delegates
+    names:
+      zh: 马里兰州众议院
+      en: Maryland House of Delegates
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the Maryland General Assembly
+    ids:
+      wikidata: Q165752
+    links:
+      - https://en.wikipedia.org/wiki/Maryland_House_of_Delegates
+    sources:
+      - url: https://www.wikidata.org/wiki/Q165752
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: maryland-senate
+    type: org
+    name: Maryland Senate
+    names:
+      zh: 马里兰州参议院
+      en: Maryland Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the Maryland General Assembly
+    ids:
+      wikidata: Q1494656
+    links:
+      - https://en.wikipedia.org/wiki/Maryland_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494656
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: marymount-college-tarrytown
+    type: org
+    name: Marymount College, Tarrytown
+    names:
+      en: Marymount College, Tarrytown
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: women's college in the United States
+    ids:
+      wikidata: Q4828090
+    links:
+      - https://en.wikipedia.org/wiki/Marymount_College%2C_Tarrytown
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4828090
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: massachusetts-house-of-representatives
+    type: org
+    name: Massachusetts House of Representatives
+    names:
+      zh: 马萨诸塞州众议院
+      en: Massachusetts House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of U.S. state legislature
+    ids:
+      wikidata: Q1494460
+    links:
+      - https://en.wikipedia.org/wiki/Massachusetts_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494460
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: massachusetts-institute-of-technology
+    type: org
+    name: Massachusetts Institute of Technology
+    names:
+      zh: 麻省理工学院
+      en: Massachusetts Institute of Technology
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 2
+    summary: 位于美国马萨诸塞州剑桥市的大学
+    ids:
+      wikidata: Q49108
+    links:
+      - https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49108
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: massachusetts-senate
+    type: org
+    name: Massachusetts Senate
+    names:
+      zh: 马萨诸塞州参议院
+      en: Massachusetts Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the Massachusetts General Court
+    ids:
+      wikidata: Q1494665
+    links:
+      - https://en.wikipedia.org/wiki/Massachusetts_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494665
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: masterpiece
+    type: org
+    name: Masterpiece
+    names:
+      zh: 佳作
+      en: Masterpiece
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Roy Lichtenstein
+    ids:
+      wikidata: Q16161550
+    links:
+      - https://en.wikipedia.org/wiki/Masterpiece_(Lichtenstein)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16161550
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: math-for-america
+    type: org
+    name: Math for America
+    names:
+      en: Math for America
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: organization in New York, United States
+    ids:
+      wikidata: Q6786774
+    links:
+      - https://en.wikipedia.org/wiki/Math_for_America
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6786774
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: maurice-a-deane-school-of-law
+    type: org
+    name: Maurice A. Deane School of Law
+    names:
+      zh: 霍夫斯特拉大学法学院
+      en: Maurice A. Deane School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school at Hofstra University
+    ids:
+      wikidata: Q6792811
+    links:
+      - https://en.wikipedia.org/wiki/Maurice_A._Deane_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6792811
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: maveron
+    type: org
+    name: Maveron
+    names:
+      en: Maveron
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American venture capital firm
+    ids:
+      wikidata: Q6794192
+    links:
+      - https://en.wikipedia.org/wiki/Maveron
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6794192
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: maxwell-technologies
+    type: org
+    name: Maxwell Technologies
+    names:
+      zh: 麦克斯韦技术
+      en: Maxwell Technologies
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American developer and manufacturer of energy storage and power delivery systemes
+    ids:
+      wikidata: Q3302853
+    links:
+      - https://en.wikipedia.org/wiki/Maxwell_Technologies
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3302853
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mcafee-llc
+    type: org
+    name: McAfee, LLC
+    names:
+      zh: McAfee
+      en: McAfee, LLC
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 安全软件公司
+    ids:
+      wikidata: Q267313
+    links:
+      - https://en.wikipedia.org/wiki/McAfee
+    sources:
+      - url: https://www.wikidata.org/wiki/Q267313
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mcdonald-s
+    type: org
+    name: McDonald's
+    names:
+      zh: 麦当劳
+      en: McDonald's
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 源自美國的跨國連鎖速食餐廳
+    ids:
+      wikidata: Q38076
+    links:
+      - https://en.wikipedia.org/wiki/McDonald's
+    sources:
+      - url: https://www.wikidata.org/wiki/Q38076
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mcgeorge-school-of-law
+    type: org
+    name: McGeorge School of Law
+    names:
+      zh: 麦克乔治法学院
+      en: McGeorge School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private law school in Sacramento, California, United States
+    ids:
+      wikidata: Q6801255
+    links:
+      - https://en.wikipedia.org/wiki/McGeorge_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6801255
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mckinsey-and-company
+    type: org
+    name: McKinsey & Company
+    names:
+      zh: 麦肯锡公司
+      en: McKinsey & Company
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 咨询公司
+    ids:
+      wikidata: Q310207
+    links:
+      - https://en.wikipedia.org/wiki/McKinsey_%26_Company
+    sources:
+      - url: https://www.wikidata.org/wiki/Q310207
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mclean-high-school
+    type: org
+    name: McLean High School
+    names:
+      en: McLean High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Virginia, United States
+    ids:
+      wikidata: Q6802145
+    links:
+      - https://en.wikipedia.org/wiki/McLean_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6802145
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: media-asia-entertainment-group
+    type: org
+    name: 寰亚综艺集团
+    names:
+      zh: 寰亚综艺集团
+      en: Media Asia Entertainment Group
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: Hong Kong media company
+    ids:
+      wikidata: Q6138447
+    links:
+      - https://en.wikipedia.org/wiki/Media_Asia_Entertainment_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6138447
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mediacom
+    type: org
+    name: Mediacom
+    names:
+      zh: 竞立媒体
+      en: Mediacom
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American cable TV company
+    ids:
+      wikidata: Q3853691
+    links:
+      - https://en.wikipedia.org/wiki/Mediacom
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3853691
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: medical-college-of-wisconsin
+    type: org
+    name: Medical College of Wisconsin
+    names:
+      zh: 威斯康星醫學院
+      en: Medical College of Wisconsin
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: Private medical school in Milwaukee, Wisconsin, United States
+    ids:
+      wikidata: Q6806307
+    links:
+      - https://en.wikipedia.org/wiki/Medical_College_of_Wisconsin
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6806307
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: medium
+    type: org
+    name: Medium
+    names:
+      zh: Medium
+      en: Medium
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 網誌平台
+    ids:
+      wikidata: Q16186120
+    links:
+      - https://en.wikipedia.org/wiki/Medium_(website)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16186120
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mega-group
+    type: org
+    name: Mega Group
+    names:
+      en: Mega Group
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: club of American and Canadian billionaires
+    ids:
+      wikidata: Q123857199
+    links:
+      - https://en.wikipedia.org/wiki/Study_Group_(Jewish_group)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q123857199
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: meituan
+    type: org
+    name: 美团
+    names:
+      zh: 美团
+      en: Meituan
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国公司
+    ids:
+      wikidata: Q15907772
+    links:
+      - https://en.wikipedia.org/wiki/Meituan
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15907772
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: member-of-the-state-council-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国国务院组成人员
+    names:
+      zh: 中华人民共和国国务院组成人员
+      en: member of the State Council of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: equivalent of minister in the People's Republic of China
+    ids:
+      wikidata: Q10872004
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10872004
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: membership-organization
+    type: org
+    name: membership organization
+    names:
+      zh: 成员组织
+      en: membership organization
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: type of organization that has members
+    ids:
+      wikidata: Q6815100
+    links:
+      - https://en.wikipedia.org/wiki/Membership_organization
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6815100
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: memorial-high-school
+    type: org
+    name: Memorial High School
+    names:
+      en: Memorial High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Hedwig Village, Harris County, Texas
+    ids:
+      wikidata: Q6815452
+    links:
+      - https://en.wikipedia.org/wiki/Memorial_High_School_(Hedwig_Village%2C_Texas)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6815452
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: menards
+    type: org
+    name: Menards
+    names:
+      en: Menards
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American home improvement store chain
+    ids:
+      wikidata: Q1639897
+    links:
+      - https://en.wikipedia.org/wiki/Menards
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1639897
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mercatus-center
+    type: org
+    name: Mercatus Center
+    names:
+      zh: Mercatus中心
+      en: Mercatus Center
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American non-profit free-market-oriented research, education, and outreach think tank
+    ids:
+      wikidata: Q2896325
+    links:
+      - https://en.wikipedia.org/wiki/Mercatus_Center
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2896325
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mercedes-benz-group
+    type: org
+    name: Mercedes-Benz Group
+    names:
+      zh: 戴姆勒
+      en: Mercedes-Benz Group
+    orgType: company
+    country:
+      - DE
+    sectors:
+      - business
+    tier: 2
+    summary: 德国汽车公司
+    ids:
+      wikidata: Q27530
+    links:
+      - https://en.wikipedia.org/wiki/Mercedes-Benz_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q27530
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mercer-university
+    type: org
+    name: Mercer University
+    names:
+      zh: 摩斯大学
+      en: Mercer University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国佐治亚州私立大学
+    ids:
+      wikidata: Q1798612
+    links:
+      - https://en.wikipedia.org/wiki/Mercer_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1798612
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mercersburg-academy
+    type: org
+    name: Mercersburg Academy
+    names:
+      zh: 梅瑟斯堡學院
+      en: Mercersburg Academy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private, boarding, prep school in Mercersburg, Pennsylvania
+    ids:
+      wikidata: Q6818330
+    links:
+      - https://en.wikipedia.org/wiki/Mercersburg_Academy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6818330
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mercy-university
+    type: org
+    name: Mercy University
+    names:
+      zh: 慈悲大学
+      en: Mercy University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: university in Dobbs Ferry, USA
+    ids:
+      wikidata: Q16951582
+    links:
+      - https://en.wikipedia.org/wiki/Mercy_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16951582
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: merge-lab
+    type: org
+    name: Merge Lab
+    names:
+      en: Merge Lab
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: brain-computer interface startup reportedly co-founded by Sam Altman in 2025
+    ids:
+      wikidata: Q135905948
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q135905948
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mers
+    type: org
+    name: mers
+    names:
+      zh: Ty公司
+      en: mers
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: company founded by mers
+    ids:
+      wikidata: Q7859608
+    links:
+      - https://en.wikipedia.org/wiki/Ty_(company)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7859608
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: meta-platforms
+    type: org
+    name: Meta Platforms
+    names:
+      zh: Meta
+      en: Meta Platforms
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國線上社群媒體和社交網路服務公司
+    ids:
+      wikidata: Q380
+    links:
+      - https://en.wikipedia.org/wiki/Meta_Platforms
+    sources:
+      - url: https://www.wikidata.org/wiki/Q380
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: metlife
+    type: org
+    name: MetLife
+    names:
+      zh: 大都會人壽保險
+      en: MetLife
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 總部位於美國紐約的跨國保險公司
+    ids:
+      wikidata: Q607131
+    links:
+      - https://en.wikipedia.org/wiki/MetLife
+    sources:
+      - url: https://www.wikidata.org/wiki/Q607131
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: metropolitan-washington-airports-authority
+    type: org
+    name: Metropolitan Washington Airports Authority
+    names:
+      zh: 华盛顿都会机场管理局
+      en: Metropolitan Washington Airports Authority
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: airport authority for Washington Dulles International and Washington Reagan National Airports
+    ids:
+      wikidata: Q12177622
+    links:
+      - https://en.wikipedia.org/wiki/Metropolitan_Washington_Airports_Authority
+    sources:
+      - url: https://www.wikidata.org/wiki/Q12177622
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: miami-beach-senior-high-school
+    type: org
+    name: Miami Beach Senior High School
+    names:
+      zh: 迈阿密海滩高中
+      en: Miami Beach Senior High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Secondary school in Florida, United States
+    ids:
+      wikidata: Q6827272
+    links:
+      - https://en.wikipedia.org/wiki/Miami_Beach_Senior_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6827272
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: miami-dolphins
+    type: org
+    name: Miami Dolphins
+    names:
+      zh: 迈阿密海豚
+      en: Miami Dolphins
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: National Football League franchise in Miami, Florida
+    ids:
+      wikidata: Q223243
+    links:
+      - https://en.wikipedia.org/wiki/Miami_Dolphins
+    sources:
+      - url: https://www.wikidata.org/wiki/Q223243
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: miami-heat
+    type: org
+    name: Miami Heat
+    names:
+      zh: 迈阿密热火
+      en: Miami Heat
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美國職業籃球隊
+    ids:
+      wikidata: Q169138
+    links:
+      - https://en.wikipedia.org/wiki/Miami_Heat
+    sources:
+      - url: https://www.wikidata.org/wiki/Q169138
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: miami-palmetto-high-school
+    type: org
+    name: Miami Palmetto High School
+    names:
+      zh: 邁阿密棕櫚高中
+      en: Miami Palmetto High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Miami-Dade County, Florida, United States
+    ids:
+      wikidata: Q6827378
+    links:
+      - https://en.wikipedia.org/wiki/Miami_Palmetto_Senior_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6827378
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: miami-university
+    type: org
+    name: Miami University
+    names:
+      zh: 迈阿密大学
+      en: Miami University
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国俄亥俄州公立大学
+    ids:
+      wikidata: Q590643
+    links:
+      - https://en.wikipedia.org/wiki/Miami_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q590643
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: michael-and-susan-dell-foundation
+    type: org
+    name: Michael & Susan Dell Foundation
+    names:
+      en: Michael & Susan Dell Foundation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: charitable organization
+    ids:
+      wikidata: Q3075504
+    links:
+      - https://en.wikipedia.org/wiki/Michael_%26_Susan_Dell_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3075504
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: michael-jordan-s-steakhouse
+    type: org
+    name: Michael Jordan's Steakhouse
+    names:
+      en: Michael Jordan's Steakhouse
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Fine-dining restaurant founded by Michael Jordan
+    ids:
+      wikidata: Q6831718
+    links:
+      - https://en.wikipedia.org/wiki/Michael_Jordan's_Steak_House
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6831718
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: michigan-house-of-representatives
+    type: org
+    name: Michigan House of Representatives
+    names:
+      zh: 密歇根州众议院
+      en: Michigan House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower state chamber of Michigan
+    ids:
+      wikidata: Q1494590
+    links:
+      - https://en.wikipedia.org/wiki/Michigan_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494590
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: michigan-senate
+    type: org
+    name: Michigan Senate
+    names:
+      zh: 密歇根州参议院
+      en: Michigan Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper state chamber of Michigan
+    ids:
+      wikidata: Q1494600
+    links:
+      - https://en.wikipedia.org/wiki/Michigan_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1494600
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: michigan-state-university
+    type: org
+    name: Michigan State University
+    names:
+      zh: 密歇根州立大学
+      en: Michigan State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美國密歇根州東蘭辛的公立研究型大學
+    ids:
+      wikidata: Q270222
+    links:
+      - https://en.wikipedia.org/wiki/Michigan_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q270222
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: michigan-state-university-college-of-law
+    type: org
+    name: Michigan State University College of Law
+    names:
+      zh: 密歇根州立大学法学院
+      en: Michigan State University College of Law
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: legal education branch of Michigan State University
+    ids:
+      wikidata: Q6837719
+    links:
+      - https://en.wikipedia.org/wiki/Michigan_State_University_College_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6837719
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: microsoft
+    type: org
+    name: Microsoft
+    names:
+      zh: 微软
+      en: Microsoft
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國的跨國電腦科技公司
+    ids:
+      wikidata: Q2283
+    links:
+      - https://en.wikipedia.org/wiki/Microsoft
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2283
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: microsoft-business-solutions
+    type: org
+    name: Microsoft Business Solutions
+    names:
+      en: Microsoft Business Solutions
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: former operating division of Microsoft
+    ids:
+      wikidata: Q139375319
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q139375319
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: microsoft-research
+    type: org
+    name: Microsoft Research
+    names:
+      zh: 微软研究院
+      en: Microsoft Research
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: research division of Microsoft Corporation
+    ids:
+      wikidata: Q1144725
+    links:
+      - https://en.wikipedia.org/wiki/Microsoft_Research
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1144725
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: middle-east-media-research-institute
+    type: org
+    name: Middle East Media Research Institute
+    names:
+      en: Middle East Media Research Institute
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: not for profit press monitoring organization
+    ids:
+      wikidata: Q1541141
+    links:
+      - https://en.wikipedia.org/wiki/MEMRI
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1541141
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: middle-tennessee-state-university
+    type: org
+    name: Middle Tennessee State University
+    names:
+      zh: 中田纳西州立大学
+      en: Middle Tennessee State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: public university located in Murfreesboro, Tennessee, United States
+    ids:
+      wikidata: Q1784748
+    links:
+      - https://en.wikipedia.org/wiki/Middle_Tennessee_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1784748
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: middlebury-college
+    type: org
+    name: Middlebury College
+    names:
+      zh: 明德大学
+      en: Middlebury College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国佛蒙特州私立教育机构
+    ids:
+      wikidata: Q1357891
+    links:
+      - https://en.wikipedia.org/wiki/Middlebury_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1357891
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: middlesex-school
+    type: org
+    name: Middlesex School
+    names:
+      zh: 密德爾塞克斯中學
+      en: Middlesex School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: boarding school in Concord, Massachusetts, United States
+    ids:
+      wikidata: Q6841942
+    links:
+      - https://en.wikipedia.org/wiki/Middlesex_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6841942
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: midea
+    type: org
+    name: 美的集团
+    names:
+      zh: 美的集团
+      en: Midea
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中国家用电器企业
+    ids:
+      wikidata: Q2609533
+    links:
+      - https://en.wikipedia.org/wiki/Midea_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2609533
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: midsummer-night-s-eve
+    type: org
+    name: Midsummer Night's Eve
+    names:
+      en: Midsummer Night's Eve
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Edvard Munch (1901)
+    ids:
+      wikidata: Q18890500
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18890500
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: military-staff
+    type: org
+    name: military staff
+    names:
+      zh: 参谋部
+      en: military staff
+    orgType: military
+    country: []
+    sectors:
+      - military
+    tier: 3
+    summary: 军事参谋机关
+    ids:
+      wikidata: Q6813432
+    links:
+      - https://en.wikipedia.org/wiki/Staff_(military)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6813432
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: milken-center-for-advancing-the-american-dream
+    type: org
+    name: Milken Center for Advancing the American Dream
+    names:
+      en: Milken Center for Advancing the American Dream
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American organization
+    ids:
+      wikidata: Q136803480
+    links:
+      - https://en.wikipedia.org/wiki/Milken_Center_for_Advancing_the_American_Dream
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136803480
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: milken-family-foundation
+    type: org
+    name: Milken Family Foundation
+    names:
+      zh: 米爾肯家庭基金會
+      en: Milken Family Foundation
+    orgType: foundation
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Philanthropic foundation
+    ids:
+      wikidata: Q14683357
+    links:
+      - https://en.wikipedia.org/wiki/Milken_Family_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14683357
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: milken-institute
+    type: org
+    name: Milken Institute
+    names:
+      zh: 米尔肯研究院
+      en: Milken Institute
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: US economic think tank
+    ids:
+      wikidata: Q17090319
+    links:
+      - https://en.wikipedia.org/wiki/Milken_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17090319
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: millbrook-school
+    type: org
+    name: Millbrook School
+    names:
+      zh: 米爾布魯克學校
+      en: Millbrook School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private, coeducational secondary school, Millbrook, New York
+    ids:
+      wikidata: Q14706968
+    links:
+      - https://en.wikipedia.org/wiki/Millbrook_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14706968
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: millennium-management
+    type: org
+    name: Millennium Management
+    names:
+      en: Millennium Management
+    orgType: company
+    country:
+      - JP
+      - US
+      - CH
+      - GB
+      - SG
+      - HK
+    sectors:
+      - business
+    tier: 4
+    summary: alternative investment management firm
+    ids:
+      wikidata: Q65089884
+    links:
+      - https://en.wikipedia.org/wiki/Millennium_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65089884
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: millie
+    type: org
+    name: Millie
+    names:
+      en: Millie
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: pet English Springer Spaniel of Barbara and George H. W. Bush
+    ids:
+      wikidata: Q4293354
+    links:
+      - https://en.wikipedia.org/wiki/Millie_(dog)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4293354
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mills-college-at-northeastern-university
+    type: org
+    name: Mills College at Northeastern University
+    names:
+      zh: 密爾斯學院
+      en: Mills College at Northeastern University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: 美国加州湾区的一所私立文理学院
+    ids:
+      wikidata: Q638859
+    links:
+      - https://en.wikipedia.org/wiki/Mills_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q638859
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: milton-academy
+    type: org
+    name: Milton Academy
+    names:
+      zh: 米爾頓中學
+      en: Milton Academy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: preparatory school in Milton, Massachusetts
+    ids:
+      wikidata: Q6860967
+    links:
+      - https://en.wikipedia.org/wiki/Milton_Academy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6860967
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mineta-transportation-institute
+    type: org
+    name: Mineta Transportation Institute
+    names:
+      zh: 明內塔交通學院
+      en: Mineta Transportation Institute
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: research institute in San Jose, California, United States
+    ids:
+      wikidata: Q6864561
+    links:
+      - https://en.wikipedia.org/wiki/Mineta_Transportation_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6864561
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ministry-of-agriculture-and-rural-affairs-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国农业农村部
+    names:
+      zh: 中华人民共和国农业农村部
+      en: Ministry of Agriculture and Rural Affairs of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q50484565
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_Agriculture_and_Rural_Affairs
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50484565
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ministry-of-civil-affairs-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国民政部
+    names:
+      zh: 中华人民共和国民政部
+      en: Ministry of Civil Affairs of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q907098
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_Civil_Affairs
+    sources:
+      - url: https://www.wikidata.org/wiki/Q907098
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ministry-of-commerce-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国商务部
+    names:
+      zh: 中华人民共和国商务部
+      en: Ministry of Commerce of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q1064994
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_Commerce_(China)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1064994
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ministry-of-education-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国教育部
+    names:
+      zh: 中华人民共和国教育部
+      en: Ministry of Education of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q1042167
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_Education_(China)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1042167
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ministry-of-emergency-management-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国应急管理部
+    names:
+      zh: 中华人民共和国应急管理部
+      en: Ministry of Emergency Management of the People's Republic of China
+    orgType: government
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 4
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q65042431
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_Emergency_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65042431
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ministry-of-finance-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国财政部
+    names:
+      zh: 中华人民共和国财政部
+      en: Ministry of Finance of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q832407
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_Finance_(China)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q832407
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ministry-of-housing-and-urban-rural-development-of-the-people-s-republic-of-chin
+    type: org
+    name: 中华人民共和国住房和城乡建设部
+    names:
+      zh: 中华人民共和国住房和城乡建设部
+      en: Ministry of Housing and Urban-Rural Development of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q11366945
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_Housing_and_Urban%E2%80%93Rural_Development
+    sources:
+      - url: https://www.wikidata.org/wiki/Q11366945
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ministry-of-human-resources-and-social-security-of-the-people-s-republic-of-chin
+    type: org
+    name: 中华人民共和国人力资源和社会保障部
+    names:
+      zh: 中华人民共和国人力资源和社会保障部
+      en: Ministry of Human Resources and Social Security of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q1002017
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_Human_Resources_and_Social_Security
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1002017
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ministry-of-industry-and-information-technology-of-the-people-s-republic-of-chin
+    type: org
+    name: 中华人民共和国工业和信息化部
+    names:
+      zh: 中华人民共和国工业和信息化部
+      en: Ministry of Industry and Information Technology of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q1002010
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_Industry_and_Information_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1002010
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ministry-of-justice-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国司法部
+    names:
+      zh: 中华人民共和国司法部
+      en: Ministry of Justice of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q832422
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_Justice_(China)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q832422
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ministry-of-national-defense-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国国防部
+    names:
+      zh: 中华人民共和国国防部
+      en: Ministry of National Defense of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q1332463
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_National_Defense_(China)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1332463
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ministry-of-natural-resources-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国自然资源部
+    names:
+      zh: 中华人民共和国自然资源部
+      en: Ministry of Natural Resources of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q50483797
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_Natural_Resources_(China)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50483797
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ministry-of-public-security
+    type: org
+    name: 中华人民共和国公安部
+    names:
+      zh: 中华人民共和国公安部
+      en: Ministry of Public Security
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 中華人民共和國国务院组成部门
+    ids:
+      wikidata: Q2346285
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_Public_Security_(China)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2346285
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ministry-of-science-and-technology-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国科学技术部
+    names:
+      zh: 中华人民共和国科学技术部
+      en: Ministry of Science and Technology of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q839875
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_Science_and_Technology_(China)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q839875
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ministry-of-state-security-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国国家安全部
+    names:
+      zh: 中华人民共和国国家安全部
+      en: Ministry of State Security of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 3
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q1068951
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_State_Security_(China)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1068951
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ministry-of-transport-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国交通运输部
+    names:
+      zh: 中华人民共和国交通运输部
+      en: Ministry of Transport of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q832416
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_Transport_(China)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q832416
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ministry-of-veterans-affairs-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国退役军人事务部
+    names:
+      zh: 中华人民共和国退役军人事务部
+      en: Ministry of Veterans Affairs of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q50484956
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_Veterans_Affairs_(China)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q50484956
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: ministry-of-water-resources-of-the-people-s-republic-of-china
+    type: org
+    name: 中华人民共和国水利部
+    names:
+      zh: 中华人民共和国水利部
+      en: Ministry of Water Resources of the People's Republic of China
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国国务院组成部门
+    ids:
+      wikidata: Q907029
+    links:
+      - https://en.wikipedia.org/wiki/Ministry_of_Water_Resources_(China)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q907029
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: minnesota-house-of-representatives
+    type: org
+    name: Minnesota House of Representatives
+    names:
+      zh: 明尼苏达州众议院
+      en: Minnesota House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of the state legislature of Minnesota, USA
+    ids:
+      wikidata: Q782050
+    links:
+      - https://en.wikipedia.org/wiki/Minnesota_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q782050
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: minnesota-senate
+    type: org
+    name: Minnesota Senate
+    names:
+      zh: 明尼苏达州参议院
+      en: Minnesota Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Upper house of the Minnesota legislature
+    ids:
+      wikidata: Q917311
+    links:
+      - https://en.wikipedia.org/wiki/Minnesota_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q917311
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: minzu-university-of-china
+    type: org
+    name: 中央民族大学
+    names:
+      zh: 中央民族大学
+      en: Minzu University of China
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于中国北京市的研究型大学
+    ids:
+      wikidata: Q190336
+    links:
+      - https://en.wikipedia.org/wiki/Minzu_University_of_China
+    sources:
+      - url: https://www.wikidata.org/wiki/Q190336
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mips-technologies
+    type: org
+    name: MIPS Technologies
+    names:
+      zh: MIPS科技公司
+      en: MIPS Technologies
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American semiconductor company
+    ids:
+      wikidata: Q1631366
+    links:
+      - https://en.wikipedia.org/wiki/MIPS_Technologies
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1631366
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mirage-resorts
+    type: org
+    name: Mirage Resorts
+    names:
+      zh: 夢幻度假村集團
+      en: Mirage Resorts
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Gaming, hospitality and entertainment company
+    ids:
+      wikidata: Q6872602
+    links:
+      - https://en.wikipedia.org/wiki/Mirage_Resorts
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6872602
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: miramar
+    type: org
+    name: Miramar
+    names:
+      en: Miramar
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Mansion in Newport, Rhode Island
+    ids:
+      wikidata: Q6872693
+    links:
+      - https://en.wikipedia.org/wiki/Miramar_(mansion)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6872693
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: miss-beazley
+    type: org
+    name: Miss Beazley
+    names:
+      en: Miss Beazley
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: Scottish Terrier owned by US presidential Bush family
+    ids:
+      wikidata: Q2479095
+    links:
+      - https://en.wikipedia.org/wiki/Miss_Beazley_(dog)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q2479095
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mississippi-house-of-representatives
+    type: org
+    name: Mississippi House of Representatives
+    names:
+      zh: 密西西比州众议院
+      en: Mississippi House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of U.S. state legislature
+    ids:
+      wikidata: Q1525933
+    links:
+      - https://en.wikipedia.org/wiki/Mississippi_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1525933
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mississippi-state-senate
+    type: org
+    name: Mississippi State Senate
+    names:
+      zh: 密西西比州参议院
+      en: Mississippi State Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house for the legislature of the state of Mississippi
+    ids:
+      wikidata: Q1525928
+    links:
+      - https://en.wikipedia.org/wiki/Mississippi_State_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1525928
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mississippi-state-university
+    type: org
+    name: Mississippi State University
+    names:
+      zh: 密西西比州立大学
+      en: Mississippi State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: public university near Starkville, Mississippi, United States
+    ids:
+      wikidata: Q1939211
+    links:
+      - https://en.wikipedia.org/wiki/Mississippi_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1939211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: missouri-house-of-representatives
+    type: org
+    name: Missouri House of Representatives
+    names:
+      zh: 密苏里州众议院
+      en: Missouri House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: lower house of U.S. state legislature
+    ids:
+      wikidata: Q1525922
+    links:
+      - https://en.wikipedia.org/wiki/Missouri_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1525922
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: missouri-secretary-of-state-s-office
+    type: org
+    name: Missouri Secretary of State's Office
+    names:
+      en: Missouri Secretary of State's Office
+    orgType: government
+    country:
+      - US
+    sectors:
+      - politics
+    tier: 4
+    summary: government organization in Jefferson City, United States
+    ids:
+      wikidata: Q30289581
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30289581
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: missouri-senate
+    type: org
+    name: Missouri Senate
+    names:
+      zh: 密苏里州参议院
+      en: Missouri Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper chamber of the Missouri General Assembly
+    ids:
+      wikidata: Q951681
+    links:
+      - https://en.wikipedia.org/wiki/Missouri_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q951681
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: missouri-state-university
+    type: org
+    name: Missouri State University
+    names:
+      zh: 密蘇里州立大學
+      en: Missouri State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: public university in Springfield, Missouri
+    ids:
+      wikidata: Q1249251
+    links:
+      - https://en.wikipedia.org/wiki/Missouri_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1249251
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mit-media-lab
+    type: org
+    name: MIT Media Lab
+    names:
+      zh: MIT媒体实验室
+      en: MIT Media Lab
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: interdisciplinary research laboratory at the Massachusetts Institute of Technology
+    ids:
+      wikidata: Q1373549
+    links:
+      - https://en.wikipedia.org/wiki/MIT_Media_Lab
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1373549
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mit-sloan-school-of-management
+    type: org
+    name: MIT Sloan School of Management
+    names:
+      zh: MIT斯隆管理学院
+      en: MIT Sloan School of Management
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: business school of the Massachusetts Institute of Technology
+    ids:
+      wikidata: Q142740
+    links:
+      - https://en.wikipedia.org/wiki/MIT_Sloan_School_of_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q142740
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mitchell-e-daniels-jr-school-of-business
+    type: org
+    name: Mitchell E. Daniels, Jr. School of Business
+    names:
+      zh: School of Business
+      en: Mitchell E. Daniels, Jr. School of Business
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: school of business at Purdue University, Indiana, United States
+    ids:
+      wikidata: Q6436111
+    links:
+      - https://en.wikipedia.org/wiki/Purdue_University_Daniels_School_of_Business
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6436111
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mitchell-hamline-school-of-law
+    type: org
+    name: Mitchell Hamline School of Law
+    names:
+      en: Mitchell Hamline School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school in St. Paul, Minnesota, U.S
+    ids:
+      wikidata: Q22060180
+    links:
+      - https://en.wikipedia.org/wiki/Mitchell_Hamline_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22060180
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mitchell-institute
+    type: org
+    name: Mitchell Institute
+    names:
+      en: Mitchell Institute
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: organization
+    ids:
+      wikidata: Q17069438
+    links:
+      - https://en.wikipedia.org/wiki/Mitchell_Institute
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17069438
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mithril-capital
+    type: org
+    name: Mithril Capital
+    names:
+      en: Mithril Capital
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: American venture capital firm
+    ids:
+      wikidata: Q128795954
+    links:
+      - https://en.wikipedia.org/wiki/Mithril_Capital
+    sources:
+      - url: https://www.wikidata.org/wiki/Q128795954
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mixbit
+    type: org
+    name: MixBit
+    names:
+      en: MixBit
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: video sharing service
+    ids:
+      wikidata: Q14545241
+    links:
+      - https://en.wikipedia.org/wiki/MixBit
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14545241
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mono
+    type: org
+    name: Mono
+    names:
+      zh: Mono
+      en: Mono
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 3
+    summary: 電腦軟體專案
+    ids:
+      wikidata: Q722656
+    links:
+      - https://en.wikipedia.org/wiki/Mono_(software)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q722656
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: montana-senate
+    type: org
+    name: Montana Senate
+    names:
+      zh: 蒙大拿州参议院
+      en: Montana Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the Montana Legislature
+    ids:
+      wikidata: Q1525558
+    links:
+      - https://en.wikipedia.org/wiki/Montana_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1525558
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: montana-state-university
+    type: org
+    name: Montana State University
+    names:
+      zh: 蒙大拿州立大學
+      en: Montana State University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 学校
+    ids:
+      wikidata: Q1861687
+    links:
+      - https://en.wikipedia.org/wiki/Montana_State_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1861687
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: montclair-high-school
+    type: org
+    name: Montclair High School
+    names:
+      zh: 蒙克莱高中
+      en: Montclair High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国新泽西州中学
+    ids:
+      wikidata: Q17022501
+    links:
+      - https://en.wikipedia.org/wiki/Montclair_High_School_(New_Jersey)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17022501
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: monte-vista-high-school
+    type: org
+    name: Monte Vista High School
+    names:
+      zh: 蒙特維斯塔高中 (加利福尼亞州丹維爾)
+      en: Monte Vista High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Danville, Contra Costa County, California
+    ids:
+      wikidata: Q6904948
+    links:
+      - https://en.wikipedia.org/wiki/Monte_Vista_High_School_(Danville%2C_California)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6904948
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: montgomery-bell-academy
+    type: org
+    name: Montgomery Bell Academy
+    names:
+      en: Montgomery Bell Academy
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private secondary school in Nashville, Tennessee, USA
+    ids:
+      wikidata: Q6905651
+    links:
+      - https://en.wikipedia.org/wiki/Montgomery_Bell_Academy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6905651
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: monumental-sports-and-entertainment
+    type: org
+    name: Monumental Sports & Entertainment
+    names:
+      en: Monumental Sports & Entertainment
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American sports and venue management company
+    ids:
+      wikidata: Q10588850
+    links:
+      - https://en.wikipedia.org/wiki/Monumental_Sports_%26_Entertainment
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10588850
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: morehouse-college
+    type: org
+    name: Morehouse College
+    names:
+      zh: 莫爾豪斯學院
+      en: Morehouse College
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国文理学院
+    ids:
+      wikidata: Q1524124
+    links:
+      - https://en.wikipedia.org/wiki/Morehouse_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1524124
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: moritz-college-of-law
+    type: org
+    name: Moritz College of Law
+    names:
+      zh: 俄亥俄州立大学莫里兹法学院
+      en: Moritz College of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school of the Ohio State University in Columbus, OH, US
+    ids:
+      wikidata: Q6912389
+    links:
+      - https://en.wikipedia.org/wiki/Ohio_State_University_Moritz_College_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6912389
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: morningstar-inc
+    type: org
+    name: Morningstar, Inc.
+    names:
+      zh: 晨星
+      en: Morningstar, Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 美國獨立第三方投資研究和基金評級的權威機構
+    ids:
+      wikidata: Q1389504
+    links:
+      - https://en.wikipedia.org/wiki/Morningstar%2C_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1389504
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: morton-s-the-steakhouse
+    type: org
+    name: Morton's The Steakhouse
+    names:
+      en: Morton's The Steakhouse
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: American restaurant chain
+    ids:
+      wikidata: Q17022759
+    links:
+      - https://en.wikipedia.org/wiki/Morton's_The_Steakhouse
+    sources:
+      - url: https://www.wikidata.org/wiki/Q17022759
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: moscow-independent-broadcasting-corporation
+    type: org
+    name: Moscow Independent Broadcasting Corporation
+    names:
+      zh: 莫斯科独立广播公司
+      en: Moscow Independent Broadcasting Corporation
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    ids:
+      wikidata: Q4303925
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4303925
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: motorola
+    type: org
+    name: Motorola
+    names:
+      zh: 摩托罗拉
+      en: Motorola
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 通信公司
+    ids:
+      wikidata: Q259011
+    links:
+      - https://en.wikipedia.org/wiki/Motorola
+    sources:
+      - url: https://www.wikidata.org/wiki/Q259011
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mount-holyoke-college
+    type: org
+    name: Mount Holyoke College
+    names:
+      zh: 豪友克山学院
+      en: Mount Holyoke College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: liberal arts college in the United States
+    ids:
+      wikidata: Q1140542
+    links:
+      - https://en.wikipedia.org/wiki/Mount_Holyoke_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1140542
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mount-saint-michael-academy
+    type: org
+    name: Mount Saint Michael Academy
+    names:
+      zh: 聖米高山學院
+      en: Mount Saint Michael Academy
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: New York City, United States
+    ids:
+      wikidata: Q6923428
+    links:
+      - https://en.wikipedia.org/wiki/Mount_Saint_Michael_Academy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q6923428
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: municipal-council
+    type: org
+    name: municipal council
+    names:
+      zh: 市议会
+      en: municipal council
+    orgType: other
+    country:
+      - JP
+      - ES
+      - BE
+      - SE
+      - LT
+      - CH
+      - FR
+      - MY
+    sectors:
+      - other
+    tier: 3
+    summary: legislative branch of a municipality
+    ids:
+      wikidata: Q701632
+    links:
+      - https://en.wikipedia.org/wiki/Municipal_council
+    sources:
+      - url: https://www.wikidata.org/wiki/Q701632
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: murray-roberts-and-co
+    type: org
+    name: Murray Roberts & Co
+    names:
+      en: Murray Roberts & Co
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: former owner of a New Zealand stock and station agency
+    ids:
+      wikidata: Q30639498
+    links:
+      - https://en.wikipedia.org/wiki/Murray_Roberts_%26_Co
+    sources:
+      - url: https://www.wikidata.org/wiki/Q30639498
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: musashi
+    type: org
+    name: Musashi
+    names:
+      en: Musashi
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: yacht built in 2011
+    ids:
+      wikidata: Q56275621
+    links:
+      - https://en.wikipedia.org/wiki/Musashi_(yacht)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q56275621
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: museum
+    type: org
+    name: museum
+    names:
+      zh: 博物馆
+      en: museum
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 2
+    summary: 保存具有科學、藝術、文化或歷史價值物件的機構
+    ids:
+      wikidata: Q33506
+    links:
+      - https://en.wikipedia.org/wiki/Museum
+    sources:
+      - url: https://www.wikidata.org/wiki/Q33506
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: musk-foundation
+    type: org
+    name: Musk Foundation
+    names:
+      en: Musk Foundation
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: US foundation
+    ids:
+      wikidata: Q124843291
+    links:
+      - https://en.wikipedia.org/wiki/Musk_Foundation
+    sources:
+      - url: https://www.wikidata.org/wiki/Q124843291
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: mustang
+    type: org
+    name: Mustang
+    names:
+      zh: 馬斯唐
+      en: Mustang
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: town in Navarro County, Texas, United States
+    ids:
+      wikidata: Q981552
+    links:
+      - https://en.wikipedia.org/wiki/Mustang%2C_Texas
+    sources:
+      - url: https://www.wikidata.org/wiki/Q981552
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: muyuan-foods
+    type: org
+    name: 牧原食品
+    names:
+      zh: 牧原食品
+      en: Muyuan Foods
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: Chinese pork producer
+    ids:
+      wikidata: Q28412531
+    links:
+      - https://en.wikipedia.org/wiki/Muyuan_Foodstuff
+    sources:
+      - url: https://www.wikidata.org/wiki/Q28412531
+        publisher: Wikidata
+        accessed: 2026-10-11

@@ -1,0 +1,2054 @@
+# 自动生成：ingest wikidata（2026-10-11）。数据来自 Wikidata（CC0）。
+# 请勿手工修改——修订请写到 data/curated/ 覆盖；重新导入：npm run ctos -- ingest wikidata --refresh
+entities:
+  - id: h211-llc
+    type: org
+    name: H211, LLC
+    names:
+      en: H211, LLC
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    ids:
+      wikidata: Q90921713
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q90921713
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: haas-school-of-business
+    type: org
+    name: Haas School of Business
+    names:
+      zh: 哈斯商学院
+      en: Haas School of Business
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: business school of UC Berkeley
+    ids:
+      wikidata: Q3125258
+    links:
+      - https://en.wikipedia.org/wiki/Haas_School_of_Business
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3125258
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hachette-books
+    type: org
+    name: Hachette Books
+    names:
+      zh: 海波圖書
+      en: Hachette Books
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國圖書出版公司
+    ids:
+      wikidata: Q55233
+    links:
+      - https://en.wikipedia.org/wiki/Hachette_Books
+    sources:
+      - url: https://www.wikidata.org/wiki/Q55233
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: haidilao
+    type: org
+    name: 海底捞
+    names:
+      zh: 海底捞
+      en: Haidilao
+    orgType: company
+    country:
+      - CA
+      - US
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国餐饮公司
+    ids:
+      wikidata: Q5638920
+    links:
+      - https://en.wikipedia.org/wiki/Haidilao
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5638920
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: haier
+    type: org
+    name: 海尔
+    names:
+      zh: 海尔
+      en: Haier
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中国企业
+    ids:
+      wikidata: Q1143211
+    links:
+      - https://en.wikipedia.org/wiki/Haier
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1143211
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hainan-provincial-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党海南省委员会
+    names:
+      zh: 中国共产党海南省委员会
+      en: Hainan Provincial Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国共产党在海南省的领导机关
+    ids:
+      wikidata: Q10873214
+    links:
+      - https://en.wikipedia.org/wiki/Hainan_Provincial_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873214
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hamilton-college
+    type: org
+    name: Hamilton College
+    names:
+      zh: 汉密尔顿学院 (纽约)
+      en: Hamilton College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private college in Clinton, New York
+    ids:
+      wikidata: Q3113011
+    links:
+      - https://en.wikipedia.org/wiki/Hamilton_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3113011
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hamilton-technologies
+    type: org
+    name: Hamilton Technologies
+    names:
+      en: Hamilton Technologies
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: company founded by Margaret Hamilton
+    ids:
+      wikidata: Q53390536
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q53390536
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hanergy
+    type: org
+    name: Hanergy
+    names:
+      zh: 漢能控股
+      en: Hanergy
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Chinese solar energy company
+    ids:
+      wikidata: Q15941099
+    links:
+      - https://en.wikipedia.org/wiki/Hanergy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15941099
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hanford-joint-union-high-school-district
+    type: org
+    name: Hanford Joint Union High School District
+    names:
+      en: Hanford Joint Union High School District
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: School district in California, United States
+    ids:
+      wikidata: Q5647796
+    links:
+      - https://en.wikipedia.org/wiki/Hanford_Joint_Union_High_School_District
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5647796
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hangzhou-wahaha-group
+    type: org
+    name: 娃哈哈
+    names:
+      zh: 娃哈哈
+      en: Hangzhou Wahaha Group
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国的食品公司
+    ids:
+      wikidata: Q1071849
+    links:
+      - https://en.wikipedia.org/wiki/Hangzhou_Wahaha_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1071849
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hankey-group
+    type: org
+    name: Hankey Group
+    names:
+      en: Hankey Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American business group
+    ids:
+      wikidata: Q136707923
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136707923
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hanover-college
+    type: org
+    name: Hanover College
+    names:
+      zh: 汉诺威学院
+      en: Hanover College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private, co-ed, liberal arts college, in rural Hanover, Indiana, U.S.
+    ids:
+      wikidata: Q5649375
+    links:
+      - https://en.wikipedia.org/wiki/Hanover_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5649375
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harbin-institute-of-technology
+    type: org
+    name: 哈尔滨工业大学
+    names:
+      zh: 哈尔滨工业大学
+      en: Harbin Institute of Technology
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 1920年创建的一所学校
+    ids:
+      wikidata: Q632558
+    links:
+      - https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q632558
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harbin-military-institute
+    type: org
+    name: 中国人民解放军军事工程学院
+    names:
+      zh: 中国人民解放军军事工程学院
+      en: Harbin Military Institute
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中华人民共和国建国初期的军事学院
+    ids:
+      wikidata: Q7178850
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7178850
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harbortouch
+    type: org
+    name: Harbortouch
+    names:
+      en: Harbortouch
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American point-of-sale and payment solutions company
+    ids:
+      wikidata: Q7887501
+    links:
+      - https://en.wikipedia.org/wiki/Harbortouch
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7887501
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hard-rock-stadium
+    type: org
+    name: Hard Rock Stadium
+    names:
+      zh: 硬石体育场
+      en: Hard Rock Stadium
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: multi-purpose stadium in Miami, Florida, USA
+    ids:
+      wikidata: Q864339
+    links:
+      - https://en.wikipedia.org/wiki/Hard_Rock_Stadium
+    sources:
+      - url: https://www.wikidata.org/wiki/Q864339
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harris-blitzer-sports-and-entertainment
+    type: org
+    name: Harris Blitzer Sports & Entertainment
+    names:
+      en: Harris Blitzer Sports & Entertainment
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: American sports and venue management company
+    ids:
+      wikidata: Q74126120
+    links:
+      - https://en.wikipedia.org/wiki/Harris_Blitzer_Sports_%26_Entertainment
+    sources:
+      - url: https://www.wikidata.org/wiki/Q74126120
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harris-mycfo
+    type: org
+    name: Harris myCFO
+    names:
+      en: Harris myCFO
+    orgType: company
+    country:
+      - IN
+    sectors:
+      - business
+    tier: 4
+    summary: wealth management service
+    ids:
+      wikidata: Q4044681
+    links:
+      - https://en.wikipedia.org/wiki/Harris_myCFO
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4044681
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harriton-high-school
+    type: org
+    name: Harriton High School
+    names:
+      zh: 哈靈頓高中
+      en: Harriton High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Pennsylvania, United States
+    ids:
+      wikidata: Q15223096
+    links:
+      - https://en.wikipedia.org/wiki/Harriton_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q15223096
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harvard-business-school
+    type: org
+    name: Harvard Business School
+    names:
+      zh: 哈佛商学院
+      en: Harvard Business School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 馬薩諸塞州波士頓的商學院
+    ids:
+      wikidata: Q49126
+    links:
+      - https://en.wikipedia.org/wiki/Harvard_Business_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49126
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harvard-college
+    type: org
+    name: Harvard College
+    names:
+      zh: 哈佛学院
+      en: Harvard College
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 哈佛大學本科生部
+    ids:
+      wikidata: Q49123
+    links:
+      - https://en.wikipedia.org/wiki/Harvard_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49123
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harvard-extension-school
+    type: org
+    name: Harvard Extension School
+    names:
+      zh: 推廣教育學院
+      en: Harvard Extension School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: extension school of Harvard University
+    ids:
+      wikidata: Q14715514
+    links:
+      - https://en.wikipedia.org/wiki/Harvard_Extension_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14715514
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harvard-graduate-school-of-design
+    type: org
+    name: Harvard Graduate School of Design
+    names:
+      zh: 哈佛大学设计学院
+      en: Harvard Graduate School of Design
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: academic department
+    ids:
+      wikidata: Q3128016
+    links:
+      - https://en.wikipedia.org/wiki/Harvard_Graduate_School_of_Design
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3128016
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harvard-graduate-school-of-education
+    type: org
+    name: Harvard Graduate School of Education
+    names:
+      zh: 教育學院
+      en: Harvard Graduate School of Education
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: education school of Harvard University in Cambridge, Massachusetts
+    ids:
+      wikidata: Q14715517
+    links:
+      - https://en.wikipedia.org/wiki/Harvard_Graduate_School_of_Education
+    sources:
+      - url: https://www.wikidata.org/wiki/Q14715517
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harvard-law-school
+    type: org
+    name: Harvard Law School
+    names:
+      zh: 哈佛法学院
+      en: Harvard Law School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美國麻塞諸塞州劍僑的哈佛大學其法學院
+    ids:
+      wikidata: Q49122
+    links:
+      - https://en.wikipedia.org/wiki/Harvard_Law_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49122
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harvard-medical-school
+    type: org
+    name: Harvard Medical School
+    names:
+      zh: 哈佛医学院
+      en: Harvard Medical School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 位於美國麻省波士頓的醫學院
+    ids:
+      wikidata: Q49121
+    links:
+      - https://en.wikipedia.org/wiki/Harvard_Medical_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q49121
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harvard-political-review
+    type: org
+    name: Harvard Political Review
+    names:
+      zh: 哈佛政治評論
+      en: Harvard Political Review
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: American student magazine
+    ids:
+      wikidata: Q5676529
+    links:
+      - https://en.wikipedia.org/wiki/Harvard_Political_Review
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5676529
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: harvard-university
+    type: org
+    name: Harvard University
+    names:
+      zh: 哈佛大学
+      en: Harvard University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 2
+    summary: 位於美國麻薩諸塞州劍橋市的私立研究型大學
+    ids:
+      wikidata: Q13371
+    links:
+      - https://en.wikipedia.org/wiki/Harvard_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q13371
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: haverford-college
+    type: org
+    name: Haverford College
+    names:
+      zh: 哈弗福德學院
+      en: Haverford College
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: college in Pennsylvania
+    ids:
+      wikidata: Q579611
+    links:
+      - https://en.wikipedia.org/wiki/Haverford_College
+    sources:
+      - url: https://www.wikidata.org/wiki/Q579611
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hawaii-house-of-representatives
+    type: org
+    name: Hawaii House of Representatives
+    names:
+      zh: 夏威夷州众议院
+      en: Hawaii House of Representatives
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Lower house of the Hawaii State Legislature
+    ids:
+      wikidata: Q909676
+    links:
+      - https://en.wikipedia.org/wiki/Hawaii_House_of_Representatives
+    sources:
+      - url: https://www.wikidata.org/wiki/Q909676
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hawaii-preparatory-academy
+    type: org
+    name: Hawaii Preparatory Academy
+    names:
+      zh: 夏威夷預備學院
+      en: Hawaii Preparatory Academy
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: independent school in Kamuela, Hawaiʻi
+    ids:
+      wikidata: Q5684347
+    links:
+      - https://en.wikipedia.org/wiki/Hawai%CA%BBi_Preparatory_Academy
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5684347
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hawaii-senate
+    type: org
+    name: Hawaii Senate
+    names:
+      zh: 夏威夷州参议院
+      en: Hawaii Senate
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: upper house of the Hawaii State Legislature
+    ids:
+      wikidata: Q1392427
+    links:
+      - https://en.wikipedia.org/wiki/Hawaii_Senate
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1392427
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hdnet-fights
+    type: org
+    name: HDNet Fights
+    names:
+      en: HDNet Fights
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: MMA media outlets based in Las Vegas
+    ids:
+      wikidata: Q5629255
+    links:
+      - https://en.wikipedia.org/wiki/HDNet_Fights
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5629255
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: healtheon
+    type: org
+    name: Healtheon
+    names:
+      en: Healtheon
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: defunct internet-based company
+    ids:
+      wikidata: Q5691350
+    links:
+      - https://en.wikipedia.org/wiki/Healtheon
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5691350
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: heart-of-racing-team
+    type: org
+    name: Heart Of Racing Team
+    names:
+      en: Heart Of Racing Team
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: auto racing team
+    ids:
+      wikidata: Q109789191
+    links:
+      - https://en.wikipedia.org/wiki/The_Heart_of_Racing
+    sources:
+      - url: https://www.wikidata.org/wiki/Q109789191
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hebei-provincial-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党河北省委员会
+    names:
+      zh: 中国共产党河北省委员会
+      en: Hebei Provincial Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 第十届委员会（2021年至2026年）
+    ids:
+      wikidata: Q10873209
+    links:
+      - https://en.wikipedia.org/wiki/Hebei_Provincial_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873209
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hebei-university
+    type: org
+    name: 河北大学
+    names:
+      zh: 河北大学
+      en: Hebei University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国河北省高等学校
+    ids:
+      wikidata: Q835731
+    links:
+      - https://en.wikipedia.org/wiki/Hebei_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q835731
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: heilongjiang-university
+    type: org
+    name: 黑龙江大学
+    names:
+      zh: 黑龙江大学
+      en: Heilongjiang University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 1941年创建的一所学校
+    ids:
+      wikidata: Q1058956
+    links:
+      - https://en.wikipedia.org/wiki/Heilongjiang_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1058956
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: help-usa
+    type: org
+    name: HELP USA
+    names:
+      en: HELP USA
+    orgType: ngo
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: Non-profit organization in New York City
+    ids:
+      wikidata: Q105445426
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q105445426
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: henan-agricultural-university
+    type: org
+    name: 河南农业大学
+    names:
+      zh: 河南农业大学
+      en: Henan Agricultural University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: university in China
+    ids:
+      wikidata: Q3429296
+    links:
+      - https://en.wikipedia.org/wiki/Henan_Agricultural_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3429296
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: henan-provincial-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党河南省委员会
+    names:
+      zh: 中国共产党河南省委员会
+      en: Henan Provincial Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国共产党在河南省的领导机关
+    ids:
+      wikidata: Q10873210
+    links:
+      - https://en.wikipedia.org/wiki/Henan_Provincial_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873210
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: henan-university
+    type: org
+    name: 河南大学
+    names:
+      zh: 河南大学
+      en: Henan University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 1912年建立的一所大学
+    ids:
+      wikidata: Q391150
+    links:
+      - https://en.wikipedia.org/wiki/Henan_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q391150
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: henderson-china-holdings-ltd
+    type: org
+    name: 恒基中國集團
+    names:
+      zh: 恒基中國集團
+      en: Henderson China Holdings Ltd.
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: Chinese real estate developer
+    ids:
+      wikidata: Q5713273
+    links:
+      - https://en.wikipedia.org/wiki/Henderson_China
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5713273
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: henry-clay-high-school
+    type: org
+    name: Henry Clay High School
+    names:
+      en: Henry Clay High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Lexington, Fayette County, Kentucky
+    ids:
+      wikidata: Q5719501
+    links:
+      - https://en.wikipedia.org/wiki/Henry_Clay_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5719501
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hensley-and-co
+    type: org
+    name: Hensley & Co.
+    names:
+      en: Hensley & Co.
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Beverage company
+    ids:
+      wikidata: Q5731372
+    links:
+      - https://en.wikipedia.org/wiki/Hensley_%26_Co.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5731372
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: herbert-n-straus-house
+    type: org
+    name: Herbert N. Straus House
+    names:
+      en: Herbert N. Straus House
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: house in New York City
+    ids:
+      wikidata: Q65122665
+    links:
+      - https://en.wikipedia.org/wiki/Herbert_N._Straus_House
+    sources:
+      - url: https://www.wikidata.org/wiki/Q65122665
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hermitage-capital-management
+    type: org
+    name: Hermitage Capital Management
+    names:
+      en: Hermitage Capital Management
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: investment fund and asset management company
+    ids:
+      wikidata: Q3737116
+    links:
+      - https://en.wikipedia.org/wiki/Hermitage_Capital_Management
+    sources:
+      - url: https://www.wikidata.org/wiki/Q3737116
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hertz-global-holdings
+    type: org
+    name: Hertz Global Holdings
+    names:
+      en: Hertz Global Holdings
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: US holding company
+    ids:
+      wikidata: Q95205133
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q95205133
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hewlett-packard
+    type: org
+    name: Hewlett-Packard
+    names:
+      zh: 惠烈－普克
+      en: Hewlett-Packard
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 2
+    summary: 美國跨國信息技術公司
+    ids:
+      wikidata: Q80978
+    links:
+      - https://en.wikipedia.org/wiki/Hewlett-Packard
+    sources:
+      - url: https://www.wikidata.org/wiki/Q80978
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hewlett-packard-enterprise-services
+    type: org
+    name: Hewlett Packard Enterprise Services
+    names:
+      zh: 电子数据系统
+      en: Hewlett Packard Enterprise Services
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American multinational information technology equipment and services company
+    ids:
+      wikidata: Q691126
+    links:
+      - https://en.wikipedia.org/wiki/Electronic_Data_Systems
+    sources:
+      - url: https://www.wikidata.org/wiki/Q691126
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: high-flyer
+    type: org
+    name: 幻方量化
+    names:
+      zh: 幻方量化
+      en: High-Flyer
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 中国公司
+    ids:
+      wikidata: Q116949516
+    links:
+      - https://en.wikipedia.org/wiki/High-Flyer
+    sources:
+      - url: https://www.wikidata.org/wiki/Q116949516
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: higher-ground-productions
+    type: org
+    name: Higher Ground Productions
+    names:
+      zh: 高地製片公司
+      en: Higher Ground Productions
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: media production company founded by Barack and Michelle Obama
+    ids:
+      wikidata: Q81950264
+    links:
+      - https://en.wikipedia.org/wiki/Higher_Ground_Productions
+    sources:
+      - url: https://www.wikidata.org/wiki/Q81950264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: highland-park-high-school
+    type: org
+    name: Highland Park High School
+    names:
+      zh: 高地公園高中
+      en: Highland Park High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 得州的高级中学
+    ids:
+      wikidata: Q5758983
+    links:
+      - https://en.wikipedia.org/wiki/Highland_Park_High_School_(University_Park%2C_Texas)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5758983
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hikvision
+    type: org
+    name: 海康威视
+    names:
+      zh: 海康威视
+      en: Hikvision
+    orgType: soe
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 3
+    summary: 中国公司
+    ids:
+      wikidata: Q5760704
+    links:
+      - https://en.wikipedia.org/wiki/Hikvision
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5760704
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hillhouse-capital
+    type: org
+    name: Hillhouse Capital
+    names:
+      zh: 高瓴资本集团
+      en: Hillhouse Capital
+    orgType: company
+    country: []
+    sectors:
+      - business
+    tier: 4
+    summary: Asian Private Equity Firm
+    ids:
+      wikidata: Q19840190
+    links:
+      - https://en.wikipedia.org/wiki/Hillhouse_Investment
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19840190
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hilo-high-school
+    type: org
+    name: Hilo High School
+    names:
+      zh: 希洛高級中學
+      en: Hilo High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Hawaii, United States
+    ids:
+      wikidata: Q5764322
+    links:
+      - https://en.wikipedia.org/wiki/Hilo_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5764322
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hilton-worldwide
+    type: org
+    name: Hilton Worldwide
+    names:
+      zh: 希尔顿酒店集团
+      en: Hilton Worldwide
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: 總部位於美國維吉尼亞州泰森斯的跨国酒店集团
+    ids:
+      wikidata: Q1057464
+    links:
+      - https://en.wikipedia.org/wiki/Hilton_Worldwide
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1057464
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: himalaya-capital
+    type: org
+    name: Himalaya Capital
+    names:
+      zh: 喜马拉雅资本
+      en: Himalaya Capital
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: Seattle investment firm
+    ids:
+      wikidata: Q24963168
+    links:
+      - https://en.wikipedia.org/wiki/Himalaya_Capital
+    sources:
+      - url: https://www.wikidata.org/wiki/Q24963168
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hk-nicaragua-canal-development-investment-co-limited
+    type: org
+    name: HK Nicaragua Canal Development Investment Co., Limited
+    names:
+      en: HK Nicaragua Canal Development Investment Co., Limited
+    orgType: company
+    country:
+      - HK
+    sectors:
+      - business
+    tier: 4
+    summary: Hong Kong based investment firm for the development of the Nicaragua Canal
+    ids:
+      wikidata: Q40543307
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q40543307
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hobart-and-william-smith-colleges
+    type: org
+    name: Hobart and William Smith Colleges
+    names:
+      zh: 赫伯特和威廉史密斯学院
+      en: Hobart and William Smith Colleges
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: private liberal arts colleges in Upstate New York
+    ids:
+      wikidata: Q4119316
+    links:
+      - https://en.wikipedia.org/wiki/Hobart_and_William_Smith_Colleges
+    sources:
+      - url: https://www.wikidata.org/wiki/Q4119316
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hofstra-university
+    type: org
+    name: Hofstra University
+    names:
+      zh: 霍夫斯特拉大学
+      en: Hofstra University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 3
+    summary: 美国纽约州的一所大学
+    ids:
+      wikidata: Q1623314
+    links:
+      - https://en.wikipedia.org/wiki/Hofstra_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1623314
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hohai-university
+    type: org
+    name: 河海大学
+    names:
+      zh: 河海大学
+      en: Hohai University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于中国南京市的一所重点大学
+    ids:
+      wikidata: Q662131
+    links:
+      - https://en.wikipedia.org/wiki/Hohai_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q662131
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: holland-christian-high-school
+    type: org
+    name: Holland Christian High School
+    names:
+      zh: 霍兰基督教高级中学
+      en: Holland Christian High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in the city of Holland, Michigan
+    ids:
+      wikidata: Q376424
+    links:
+      - https://en.wikipedia.org/wiki/Holland_Christian_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q376424
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: holland-christian-schools
+    type: org
+    name: Holland Christian Schools
+    names:
+      en: Holland Christian Schools
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private school
+    ids:
+      wikidata: Q16253473
+    links:
+      - https://en.wikipedia.org/wiki/Holland_Christian_Schools
+    sources:
+      - url: https://www.wikidata.org/wiki/Q16253473
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hollywood-pictures
+    type: org
+    name: Hollywood Pictures
+    names:
+      zh: 好莱坞影片
+      en: Hollywood Pictures
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: division of Walt Disney Company
+    ids:
+      wikidata: Q1348264
+    links:
+      - https://en.wikipedia.org/wiki/Hollywood_Pictures
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1348264
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hollywood-records
+    type: org
+    name: Hollywood Records
+    names:
+      zh: 好莱坞唱片
+      en: Hollywood Records
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: American record label
+    ids:
+      wikidata: Q387539
+    links:
+      - https://en.wikipedia.org/wiki/Hollywood_Records
+    sources:
+      - url: https://www.wikidata.org/wiki/Q387539
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: holy-cross-high-school
+    type: org
+    name: Holy Cross High School
+    names:
+      en: Holy Cross High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Illinois, United States
+    ids:
+      wikidata: Q5885252
+    links:
+      - https://en.wikipedia.org/wiki/Holy_Cross_High_School_(River_Grove%2C_Illinois)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5885252
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hong-kong-polytechnic-university
+    type: org
+    name: 香港理工大学
+    names:
+      zh: 香港理工大学
+      en: Hong Kong Polytechnic University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 3
+    summary: 香港的公立大學
+    ids:
+      wikidata: Q1187271
+    links:
+      - https://en.wikipedia.org/wiki/Hong_Kong_Polytechnic_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1187271
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hongyan-prince-guo-reading-in-a-spring-garden
+    type: org
+    name: Hongyan, Prince Guo (1733–1765), Reading in a Spring Garden
+    names:
+      en: Hongyan, Prince Guo (1733–1765), Reading in a Spring Garden
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: Chinese ancestor portrait
+    ids:
+      wikidata: Q108461090
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q108461090
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: honolulu-civil-beat
+    type: org
+    name: Honolulu Civil Beat
+    names:
+      en: Honolulu Civil Beat
+    orgType: media
+    country:
+      - US
+    sectors:
+      - media
+    tier: 4
+    summary: American nonprofit news organization and online publication based in Hawaii
+    ids:
+      wikidata: Q22908947
+    links:
+      - https://en.wikipedia.org/wiki/Honolulu_Civil_Beat
+    sources:
+      - url: https://www.wikidata.org/wiki/Q22908947
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hope-for-hong-kong
+    type: org
+    name: 希望联盟
+    names:
+      zh: 希望联盟
+      en: Hope for Hong Kong
+    orgType: party
+    country:
+      - CN
+    sectors:
+      - politics
+    tier: 4
+    summary: 香港政党
+    ids:
+      wikidata: Q97299994
+    links:
+      - https://en.wikipedia.org/wiki/Hope_for_Hong_Kong
+    sources:
+      - url: https://www.wikidata.org/wiki/Q97299994
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hopewell-holdings
+    type: org
+    name: Hopewell Holdings
+    names:
+      zh: 合和实业
+      en: Hopewell Holdings
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: company
+    ids:
+      wikidata: Q837098
+    links:
+      - https://en.wikipedia.org/wiki/Hopewell_Holdings
+    sources:
+      - url: https://www.wikidata.org/wiki/Q837098
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: horace-greeley-high-school
+    type: org
+    name: Horace Greeley High School
+    names:
+      en: Horace Greeley High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in New York, United States
+    ids:
+      wikidata: Q5901772
+    links:
+      - https://en.wikipedia.org/wiki/Horace_Greeley_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5901772
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: horace-mann-school
+    type: org
+    name: Horace Mann School
+    names:
+      zh: 霍勒斯曼學校
+      en: Horace Mann School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: private school in New York City
+    ids:
+      wikidata: Q5901972
+    links:
+      - https://en.wikipedia.org/wiki/Horace_Mann_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5901972
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hotchkiss-school
+    type: org
+    name: Hotchkiss School
+    names:
+      zh: 霍奇科斯学校
+      en: Hotchkiss School
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美国康涅狄格州私立高中
+    ids:
+      wikidata: Q1630782
+    links:
+      - https://en.wikipedia.org/wiki/Hotchkiss_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1630782
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: house-republican-conference
+    type: org
+    name: House Republican Conference
+    names:
+      zh: 美國眾議院共和黨會議
+      en: House Republican Conference
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 美國共和黨在聯邦眾議院的黨團
+    ids:
+      wikidata: Q7314586
+    links:
+      - https://en.wikipedia.org/wiki/House_Republican_Conference
+    sources:
+      - url: https://www.wikidata.org/wiki/Q7314586
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: houses-under-the-trees
+    type: org
+    name: Houses under the Trees
+    names:
+      en: Houses under the Trees
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: painting by Fernand Léger (Met)
+    ids:
+      wikidata: Q137723134
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q137723134
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: houston-rockets
+    type: org
+    name: Houston Rockets
+    names:
+      zh: 休斯敦火箭
+      en: Houston Rockets
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 2
+    summary: 美国NBA篮球队
+    ids:
+      wikidata: Q161345
+    links:
+      - https://en.wikipedia.org/wiki/Houston_Rockets
+    sources:
+      - url: https://www.wikidata.org/wiki/Q161345
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: howard-university
+    type: org
+    name: Howard University
+    names:
+      zh: 霍华德大学
+      en: Howard University
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国私立大学
+    ids:
+      wikidata: Q1068752
+    links:
+      - https://en.wikipedia.org/wiki/Howard_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1068752
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: howard-university-school-of-law
+    type: org
+    name: Howard University School of Law
+    names:
+      zh: 霍华德大学法学院
+      en: Howard University School of Law
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: law school in Washington, DC
+    ids:
+      wikidata: Q5921126
+    links:
+      - https://en.wikipedia.org/wiki/Howard_University_School_of_Law
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5921126
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hp-inc
+    type: org
+    name: HP Inc.
+    names:
+      zh: 惠普公司
+      en: HP Inc.
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 3
+    summary: American information technology company
+    ids:
+      wikidata: Q21404084
+    links:
+      - https://en.wikipedia.org/wiki/HP_Inc.
+    sources:
+      - url: https://www.wikidata.org/wiki/Q21404084
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hrg-group
+    type: org
+    name: HRG Group
+    names:
+      en: HRG Group
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: American company
+    ids:
+      wikidata: Q147224
+    links:
+      - https://en.wikipedia.org/wiki/HRG_Group
+    sources:
+      - url: https://www.wikidata.org/wiki/Q147224
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huawei
+    type: org
+    name: 华为
+    names:
+      zh: 华为
+      en: Huawei
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 2
+    summary: 中国大陆跨国科技公司
+    ids:
+      wikidata: Q160120
+    links:
+      - https://en.wikipedia.org/wiki/Huawei
+    sources:
+      - url: https://www.wikidata.org/wiki/Q160120
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huawei-symantec
+    type: org
+    name: 华为赛门铁克
+    names:
+      zh: 华为赛门铁克
+      en: Huawei Symantec
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 合资
+    ids:
+      wikidata: Q1542166
+    links:
+      - https://en.wikipedia.org/wiki/Huawei_Symantec
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1542166
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huayi-brothers
+    type: org
+    name: 华谊兄弟
+    names:
+      zh: 华谊兄弟
+      en: Huayi Brothers
+    orgType: company
+    country:
+      - CN
+    sectors:
+      - business
+    tier: 4
+    summary: 中国大陆知名娱乐集团
+    ids:
+      wikidata: Q8007810
+    links:
+      - https://en.wikipedia.org/wiki/Huayi_Brothers
+    sources:
+      - url: https://www.wikidata.org/wiki/Q8007810
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huazhong-institute-of-technology
+    type: org
+    name: 华中工学院
+    names:
+      zh: 华中工学院
+      en: Huazhong Institute of Technology
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 中国湖北省武汉市高校，华中科技大学前身
+    ids:
+      wikidata: Q10905361
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10905361
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huazhong-university-of-science-and-technology
+    type: org
+    name: 华中科技大学
+    names:
+      zh: 华中科技大学
+      en: Huazhong University of Science and Technology
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于武汉的一所综合性大学
+    ids:
+      wikidata: Q1711196
+    links:
+      - https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology
+    sources:
+      - url: https://www.wikidata.org/wiki/Q1711196
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: huffpost
+    type: org
+    name: HuffPost
+    names:
+      zh: 赫芬顿邮报
+      en: HuffPost
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: 美国报纸
+    ids:
+      wikidata: Q18049522
+    links:
+      - https://en.wikipedia.org/wiki/HuffPost
+    sources:
+      - url: https://www.wikidata.org/wiki/Q18049522
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hunan-agricultural-university
+    type: org
+    name: 湖南农业大学
+    names:
+      zh: 湖南农业大学
+      en: Hunan Agricultural University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 1951年创建的一所学校
+    ids:
+      wikidata: Q5941995
+    links:
+      - https://en.wikipedia.org/wiki/Hunan_Agricultural_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5941995
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hunan-provincial-committee-of-the-chinese-communist-party
+    type: org
+    name: 中国共产党湖南省委员会
+    names:
+      zh: 中国共产党湖南省委员会
+      en: Hunan Provincial Committee of the Chinese Communist Party
+    orgType: other
+    country:
+      - CN
+    sectors:
+      - other
+    tier: 4
+    summary: 第十二届委员会（2021年11月28日起）
+    ids:
+      wikidata: Q10873216
+    links:
+      - https://en.wikipedia.org/wiki/Hunan_Provincial_Committee_of_the_Chinese_Communist_Party
+    sources:
+      - url: https://www.wikidata.org/wiki/Q10873216
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hunan-university
+    type: org
+    name: 湖南大学
+    names:
+      zh: 湖南大学
+      en: Hunan University
+    orgType: university
+    country:
+      - CN
+    sectors:
+      - academia
+    tier: 4
+    summary: 位于中国长沙市的一所重点大学
+    ids:
+      wikidata: Q649868
+    links:
+      - https://en.wikipedia.org/wiki/Hunan_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q649868
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hunter-college-high-school
+    type: org
+    name: Hunter College High School
+    names:
+      zh: 亨特学院高中
+      en: Hunter College High School
+    orgType: school
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: high school in Manhattan, New York City
+    ids:
+      wikidata: Q5944289
+    links:
+      - https://en.wikipedia.org/wiki/Hunter_College_High_School
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5944289
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: husson-university
+    type: org
+    name: Husson University
+    names:
+      zh: 哈森学院
+      en: Husson University
+    orgType: university
+    country:
+      - US
+    sectors:
+      - academia
+    tier: 4
+    summary: Private university in Bangor, Maine, US
+    ids:
+      wikidata: Q5949943
+    links:
+      - https://en.wikipedia.org/wiki/Husson_University
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5949943
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hustler
+    type: org
+    name: Hustler
+    names:
+      zh: 好色客
+      en: Hustler
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 3
+    summary: American pornographic magazine
+    ids:
+      wikidata: Q823373
+    links:
+      - https://en.wikipedia.org/wiki/Hustler_(magazine)
+    sources:
+      - url: https://www.wikidata.org/wiki/Q823373
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hustler-club
+    type: org
+    name: Hustler Club
+    names:
+      zh: 好色客俱乐部
+      en: Hustler Club
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: bar chain in the US
+    ids:
+      wikidata: Q5950000
+    links:
+      - https://en.wikipedia.org/wiki/Hustler_Club
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5950000
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hustler-hollywood
+    type: org
+    name: Hustler Hollywood
+    names:
+      en: Hustler Hollywood
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: chain of adult-oriented stores and online retailer
+    ids:
+      wikidata: Q110135787
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q110135787
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hustler-video
+    type: org
+    name: Hustler Video
+    names:
+      zh: 好色客
+      en: Hustler Video
+    orgType: other
+    country: []
+    sectors:
+      - other
+    tier: 4
+    summary: American pornographic film studio
+    ids:
+      wikidata: Q5950024
+    links:
+      - https://en.wikipedia.org/wiki/Hustler_Video
+    sources:
+      - url: https://www.wikidata.org/wiki/Q5950024
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hydrazine-capital
+    type: org
+    name: Hydrazine Capital
+    names:
+      en: Hydrazine Capital
+    orgType: other
+    country:
+      - US
+    sectors:
+      - other
+    tier: 4
+    summary: 2012 investment fund
+    ids:
+      wikidata: Q136430966
+    links: []
+    sources:
+      - url: https://www.wikidata.org/wiki/Q136430966
+        publisher: Wikidata
+        accessed: 2026-10-11
+  - id: hyperloop-one
+    type: org
+    name: Hyperloop One
+    names:
+      zh: Hyperloop One
+      en: Hyperloop One
+    orgType: company
+    country:
+      - US
+    sectors:
+      - business
+    tier: 4
+    summary: 美国公司
+    ids:
+      wikidata: Q19605534
+    links:
+      - https://en.wikipedia.org/wiki/Hyperloop_One
+    sources:
+      - url: https://www.wikidata.org/wiki/Q19605534
+        publisher: Wikidata
+        accessed: 2026-10-11

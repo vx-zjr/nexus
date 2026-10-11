@@ -1,0 +1,32 @@
+id: jd-vance
+type: person
+name: JD Vance
+names:
+  en: JD Vance
+  zh: JD·万斯
+gender: M
+born: '1984-08-02'
+country:
+- US
+sectors:
+- politics
+tier: 1
+status: active
+summary: 美国副总统（2025–）。前俄亥俄州参议员（2023–2025）。曾任职 Peter Thiel 的 Mithril Capital，其 2022 年参选获 Thiel 约 1500 万美元支持。
+positions:
+- title: 美国副总统
+  org: us-white-house
+  from: '2025-01-20'
+  current: true
+- title: 联邦参议员（俄亥俄）
+  org: us-senate
+  from: '2023-01-03'
+  to: '2025-01-10'
+tags:
+- vp
+sources:
+- url: https://en.wikipedia.org/wiki/Second_cabinet_of_Donald_Trump
+  title: Second cabinet of Donald Trump
+  publisher: Wikipedia
+  accessed: '2026-10-11'
+updated: '2026-10-11'

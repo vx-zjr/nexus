@@ -1,0 +1,11 @@
+entities:
+- id: crow-holdings
+  type: org
+  name: Crow Holdings
+  orgType: company
+  country: US
+  sectors:
+  - business
+  tier: 4
+  ids:
+    wikidata: Q5189087
